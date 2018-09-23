@@ -1,4 +1,4 @@
-#t 22 16561474 bszwsb 2018-09-23 00:10:00 chengshanQAQ 2018-09-23 14:13:00
+#t 22 16561474 bszwsb 2018-09-23 00:10:00 Immo 2018-09-23 15:46:00
 某会就知道提马克思，可否想过如何解决国内问题？
 
 #p 18435974 bszwsb bszwsb 2018-09-23 10:41:04
@@ -118,6 +118,7 @@
 #quote xiaoyumi
 
 #p 18436669 zjq sou 2018-09-23 13:54:48
+#DELETED
 [https://mp.weixin.qq.com/s?__biz=MzU5NjUxMzQzNg==&amp;mid=2247483695&amp;idx=1&amp;sn=3f86a876653557b9e9a24865cbb963fd&amp;chksm=fe60c6dcc9174fca17dc2e634341cbf470fc5747b652962472bd75d4298533ef42b6f41b81dc&amp;scene=4&amp;subscene=126&amp;ascene=0&amp;devicetype=android-26&amp;version=2607023a&amp;nettype=WIFI&amp;abtest_cookie=BAABAAgACgALABMABACehh4AI5ceAFaZHgBpmR4AAAA%3D&amp;lang=zh_CN&amp;pass_ticket=cW2esuKgj3aPF6XDxaVtdTd0q5e3lSLIAJGPNFdYVJ8KUVUxcB9lFODextFidkKT&amp;wx_header=1](jump-to.php?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzU5NjUxMzQzNg%3D%3D%26mid%3D2247483695%26idx%3D1%26sn%3D3f86a876653557b9e9a24865cbb963fd%26chksm%3Dfe60c6dcc9174fca17dc2e634341cbf470fc5747b652962472bd75d4298533ef42b6f41b81dc%26scene%3D4%26subscene%3D126%26ascene%3D0%26devicetype%3Dandroid-26%26version%3D2607023a%26nettype%3DWIFI%26abtest_cookie%3DBAABAAgACgALABMABACehh4AI5ceAFaZHgBpmR4AAAA%253D%26lang%3Dzh_CN%26pass_ticket%3DcW2esuKgj3aPF6XDxaVtdTd0q5e3lSLIAJGPNFdYVJ8KUVUxcB9lFODextFidkKT%26wx_header%3D1)
 #quote bszwsb
 
@@ -142,4 +143,15 @@
 #p 18436735 chengshanQAQ 卖什么萌QAQ 2018-09-23 14:12:28
 你没看到不等于没有吧，再说了以马会的风格他们的文章大概会被很快删掉吧233
 #quote bszwsb
+
+#p 18437058 Immo 丶苏幕遮 2018-09-23 15:45:31
+哈哈哈这签名档
+#quote maibaojun
+
+#p 18437070 Hotarubi 渊之心 2018-09-23 15:48:30
+#DELETED
+[https://mp.weixin.qq.com/s/mIp4W8n_8QQ6oAsOI5g0gg](jump-to.php?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FmIp4W8n_8QQ6oAsOI5g0gg)
+[https://mp.weixin.qq.com/s/p59DxCTbWiR4kF_ZlXajeQ](jump-to.php?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fp59DxCTbWiR4kF_ZlXajeQ)
+大家在复制微信链接时要注意，那些非常长的链接都是临时链接，可能会过期的，同时有着好多好多自己浏览器传递的参数，放着也不美观。建议在微信中打开，复制出一个这样的短的链接再分享。
+#quote zjq
 
