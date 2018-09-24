@@ -1,7 +1,15 @@
-#t 22 16562627 MetatronCube 2018-09-24 11:36:00 MetatronCube 2018-09-24 11:36:00
+#t 22 16562627 MetatronCube 2018-09-24 00:11:00 laojiaho 2018-09-24 14:12:00
 求教数院同学如何看待Atiyah这篇文章？
 
-#p 18440476 MetatronCube 神蚀 2018-09-24 11:35:13
+#p 18440476 MetatronCube 神蚀 2018-09-24 11:43:59
+
+
+2018-09-24 11:35:13
 Atiyah黎曼猜想的论文出来了，宣讲会时间按照时差在下午四点左右
 而且麻烦的是里面大量引用的参考文献在google scholar上搜不到（可能是因为太新了？）
+[https://drive.google.com/file/d/17NBICP6OcUSucrXKNWvzLmrQpfUrEKuY/view](jump-to.php?url=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F17NBICP6OcUSucrXKNWvzLmrQpfUrEKuY%2Fview) 第一个附件也是这个pdf文件
+
+#p 18441063 laojiaho 善心 2018-09-24 14:11:47
+这种无聊的东西应该没有人认真看吧。
+#quote MetatronCube
 
