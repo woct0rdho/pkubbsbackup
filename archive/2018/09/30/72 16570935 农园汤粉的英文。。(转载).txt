@@ -1,4 +1,4 @@
-#t 72 16570935 jiamingpku 2018-09-30 00:13:00 hunanlh 2018-10-01 21:57:00
+#t 72 16570935 jiamingpku 2018-09-30 00:13:00 survivor 2018-10-01 23:27:00
 农园汤粉的英文。。(转载)
 
 #p 18467493 jiamingpku jiamingpku 2018-09-30 13:07:53
@@ -95,4 +95,8 @@ soup rice noodle
 #p 18489970 hunanlh lh_1995 2018-10-01 21:56:24
 graveyard keeper 玩家表示肠粉叫做 life power
 #quote Nameless
+
+#p 18492057 survivor TEETOTALER|每天都是一种练习 2018-10-01 23:26:10
+对，和粉丝差不多粗细的米线/米粉都是vermicelli
+#quote yuanshuai
 
