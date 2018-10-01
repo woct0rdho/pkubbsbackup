@@ -1,4 +1,4 @@
-#t 22 16575505 dddiu 2018-10-01 00:15:00 jiamingpku 2018-10-01 21:37:00
+#t 22 16575505 dddiu 2018-10-01 00:15:00 jiamingpku 2018-10-01 22:38:00
 门户网站的bug，担心人身安全
 
 #p 18487830 dddiu dddiu 2018-10-01 15:34:47
@@ -44,5 +44,13 @@
 
 #p 18489870 jiamingpku jiamingpku 2018-10-01 21:36:31
 然而校外并不能随便搜索
+#quote liuxunlin
+
+#p 18491415 liuxunlin 燕南一猫 2018-10-01 22:35:59
+啥意思。。
+#quote jiamingpku
+
+#p 18491489 jiamingpku jiamingpku 2018-10-01 22:37:53
+lz说的那个人员查询功能，我试了一下，校外IP进不去。
 #quote liuxunlin
 
