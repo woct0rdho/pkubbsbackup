@@ -1,0 +1,15 @@
+#t 22 16577593 yubinpku 2018-10-02 15:19:00 yubinpku 2018-10-02 15:28:00
+请问，pku helper安卓最新版下载地址在哪？
+
+#p 18494754 yubinpku 奇世俗人 2018-10-02 15:18:54
+求问bbs的朋友，安卓手机系统还原后，原有的pku helper没了。软件商店里的那款，根本登陆不上去（北大地带上的下载地址也打不开）。想知道最新版的下载地址在哪？
+
+#p 18494767 JJwzj 希尔瑞斯 2018-10-02 15:24:43
+安卓手机PKU Helper的下载链接[http://www.pkuhelper.com/api/outlinks/pkuhelper-android-beta/PKUHelper-2.9.3-rc3.apk](jump-to.php?url=http%3A%2F%2Fwww.pkuhelper.com%2Fapi%2Foutlinks%2Fpkuhelper-android-beta%2FPKUHelper-2.9.3-rc3.apk)
+苹果系统直接在应用商店里下载就可以
+#quote yubinpku
+
+#p 18494773 yubinpku 奇世俗人 2018-10-02 15:27:10
+多谢。但是下载成功后，还是显示“登录服务暂不可用”，不知道为什么
+#quote JJwzj
+
