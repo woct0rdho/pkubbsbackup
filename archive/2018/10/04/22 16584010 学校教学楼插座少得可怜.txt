@@ -1,4 +1,4 @@
-#t 22 16584010 keepgoing 2018-10-04 00:14:00 keepgoing 2018-10-04 22:00:00
+#t 22 16584010 keepgoing 2018-10-04 00:14:00 out 2018-10-04 22:26:00
 学校教学楼插座少得可怜
 
 #p 18510572 keepgoing 大佩奇 2018-10-04 14:37:20
@@ -6,5 +6,19 @@
 
 #p 18513004 keepgoing 大佩奇 2018-10-04 22:00:04
 顶我上去啊
+#quote keepgoing
+
+#p 18513005 keepgoing 大佩奇 2018-10-04 22:00:14
+#DELETED
+顶我上去啊！
+#quote keepgoing
+
+#p 18513007 keepgoing 大佩奇 2018-10-04 22:00:19
+#DELETED
+顶我上去啊！！！
+#quote keepgoing
+
+#p 18513062 out angx 2018-10-04 22:25:45
+二教插座还有部分没电
 #quote keepgoing
 
