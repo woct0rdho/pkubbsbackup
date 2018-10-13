@@ -1,4 +1,4 @@
-#t 22 16593790 speechless 2018-10-12 00:18:00 keepheadup 2018-10-12 20:54:00
+#t 22 16593790 speechless 2018-10-12 00:18:00 speechless 2018-10-13 12:17:00
 校园门户必须要关联手机号是什么神逻辑
 
 #p 18557110 speechless Jeason 2018-10-12 18:50:23
@@ -11,4 +11,12 @@
 #p 18557382 keepheadup 抬起头不为挡住泪流（9‘OO’）9 2018-10-12 20:53:06
 可以发验证码呀，必邮箱验证方便
 #quote speechless
+
+#p 18558605 speechless Jeason 2018-10-13 12:15:53
+问题是为啥要验证···总感觉手机号还是很隐私的信息啊
+#quote keepheadup
+
+#p 18558606 speechless Jeason 2018-10-13 12:16:21
+而且问题在于，没看出门户信息需要绑定手机号的意义在哪里。
+#quote keepheadup
 
