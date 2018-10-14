@@ -1,4 +1,4 @@
-#t 22 16589992 Debout 2018-10-09 00:12:00 bery 2018-10-11 20:05:00
+#t 22 16589992 Debout 2018-10-09 12:01:00 Debout 2018-10-14 16:39:00
 黎曼猜想似乎被李忠老师证明了？
 
 #p 18530486 Debout Debout 2018-10-09 12:01:06
@@ -123,4 +123,9 @@ ssfd
 #p 18554046 bery 你的投降，要出于你的自由意志。 2018-10-11 20:04:12
 ...
 #quote Drace
+
+#p 18561999 Debout Debout 2018-10-14 16:38:34
+刚看到，报告已经于昨天举行了。详见链接。
+[https://mp.weixin.qq.com/s/Zu1PmKkVZKUTja2_STPlOw](jump-to.php?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FZu1PmKkVZKUTja2_STPlOw)
+#quote Debout
 
