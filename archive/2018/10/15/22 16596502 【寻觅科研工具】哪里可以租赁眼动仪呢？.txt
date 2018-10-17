@@ -1,4 +1,4 @@
-#t 22 16596502 pinkyalicem 2018-10-15 00:09:00 angelinawang 2018-10-16 18:44:00
+#t 22 16596502 pinkyalicem 2018-10-15 00:09:00 pinkyalicem 2018-10-17 08:42:00
 【寻觅科研工具】哪里可以租赁眼动仪呢？
 
 #p 18565395 pinkyalicem pinkyalicem 2018-10-15 09:17:42
@@ -10,4 +10,8 @@
 [http://lab-equip-query.pku.edu.cn/Equip/All](jump-to.php?url=http%3A%2F%2Flab-equip-query.pku.edu.cn%2FEquip%2FAll)
 这个网址，查询“眼动仪”，就知道校内所有老师名下的眼动仪了，然后可以联系相关老师是否能够借用。
 #quote pinkyalicem
+
+#p 18572953 pinkyalicem pinkyalicem 2018-10-17 08:42:01
+太感谢了！！！！！跪谢
+#quote angelinawang
 
