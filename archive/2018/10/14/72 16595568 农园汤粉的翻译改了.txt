@@ -1,4 +1,4 @@
-#t 72 16595568 wky 2018-10-14 22:48:00 Leihaoran 2018-10-18 04:31:00
+#t 72 16595568 wky 2018-10-14 22:48:00 maibaojun 2018-10-19 16:21:00
 农园汤粉的翻译改了
 
 #p 18563250 wky Gammaman 2018-10-15 03:30:42
@@ -38,4 +38,8 @@ by Roshi April 27, 2003
 #p 18576298 Leihaoran . 2018-10-18 04:30:19
 “peasant‘s garden”
 #quote naiiive
+
+#p 18582616 maibaojun 脉胞君 2018-10-19 16:20:05
+xswl，还不如不改
+#quote wky
 
