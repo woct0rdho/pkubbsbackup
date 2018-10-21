@@ -1,4 +1,4 @@
-#t 22 16602727 seaandgull 2018-10-21 09:37:00 ibelief 2018-10-21 09:42:00
+#t 22 16602727 seaandgull 2018-10-21 00:09:00 naiiive 2018-10-21 15:00:00
 portal的找人功能是否存在泄露信息的隐患
 
 #p 18587260 seaandgull 这是一只逗比 2018-10-21 09:36:33
@@ -8,4 +8,12 @@ portal的找人功能是否存在泄露信息的隐患
 #p 18587264 ibelief 小马甲 2018-10-21 09:41:20
 是。。。
 #quote seaandgull
+
+#p 18587930 jiamingpku jiamingpku 2018-10-21 14:22:46
+找人功能只有校内ip或登陆之后才能用
+#quote seaandgull
+
+#p 18588012 naiiive 不忘初心 牢记使命 2018-10-21 14:59:20
+但是bwb可以送你网关
+#quote jiamingpku
 
