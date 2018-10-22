@@ -1,8 +1,12 @@
-#t 72 16602307 mesutoezil 2018-10-22 15:15:00 mesutoezil 2018-10-22 15:15:00
+#t 72 16602307 mesutoezil 2018-10-22 00:15:00 Matto 2018-10-22 16:47:00
 Re 求推荐数据挖掘的书(转载)
 
 #p 18591219 mesutoezil void 2018-10-22 15:14:10
 [原文由 lovecatcat 发表在 EECS 版 &gt;&gt;&gt;](post-read.php?bid=322&amp;threadid=16602307)
 李航出过《统计学习方法》，没搜索到《统计机器学习》。我有李航的统计学习方法，但是基本看不懂，而且那书上是数学和理论，不能按那书在电脑上实际操作。
 #quote Elon
+
+#p 18591577 Matto 可用的套接字 2018-10-22 16:46:21
+笑点？
+#quote mesutoezil
 
