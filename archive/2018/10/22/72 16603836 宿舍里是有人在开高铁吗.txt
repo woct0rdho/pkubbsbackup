@@ -1,4 +1,4 @@
-#t 72 16603836 thaikon 2018-10-22 00:15:00 Matto 2018-10-23 11:59:00
+#t 72 16603836 thaikon 2018-10-22 00:15:00 VanillaCream 2018-10-23 12:41:00
 宿舍里是有人在开高铁吗
 
 #p 18591242 thaikon 陶象 2018-10-22 15:18:24
@@ -94,4 +94,13 @@ hhh
 #p 18594183 Matto 可用的套接字 2018-10-23 11:59:11
 是的
 #quote thaikon
+
+#p 18594261 herocampbell 大葱 2018-10-23 12:27:12
+报告，有黑客……
+#quote thaikon
+
+#p 18594292 VanillaCream VanillaCream 2018-10-23 12:40:22
+#quote thaikon
+负一万度可还行
+发自我的“北大未名”iOS客户端([http://t.cn/R7ZhtYc](jump-to.php?url=http%3A%2F%2Ft.cn%2FR7ZhtYc))
 
