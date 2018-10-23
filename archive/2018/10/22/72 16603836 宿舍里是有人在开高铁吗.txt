@@ -1,4 +1,4 @@
-#t 72 16603836 thaikon 2018-10-22 00:15:00 soda 2018-10-23 09:53:00
+#t 72 16603836 thaikon 2018-10-22 00:15:00 pennsecret 2018-10-23 10:58:00
 宿舍里是有人在开高铁吗
 
 #p 18591242 thaikon 陶象 2018-10-22 15:18:24
@@ -27,4 +27,24 @@ RT
 #p 18593720 soda 爱迪生发明了黑暗 2018-10-23 09:52:36
 认真问： 真的够吗
 #quote thaikon
+
+#p 18593812 zeypku zey 2018-10-23 10:15:38
+hhh
+#quote thaikon
+
+#p 18593944 pennsecret Fantasy polaris 2018-10-23 10:55:16
+怕不是在挖矿哟。
+#quote thaikon
+
+#p 18593948 weilovebvb 什变月饼|圣埃克絮佩里 2018-10-23 10:56:25
+我觉得挖矿靠谱
+#quote thaikon
+
+#p 18593949 pennsecret Fantasy polaris 2018-10-23 10:57:13
+远远不够。。高铁单列机车的功率在9000 KW级别。一般是16列，这些电加起来，可能够一辆车跑吧？
+#quote soda
+
+#p 18593951 pennsecret Fantasy polaris 2018-10-23 10:58:05
+网上搜到的数据：CRH380A牵引功率为9600千瓦，CRH3C牵引功率为8800千瓦。而CRH2C：7200KW
+#quote soda
 
