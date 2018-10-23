@@ -1,0 +1,150 @@
+#t 72 16601237 liuxilai 2018-10-23 14:39:00 liuxilai 2018-10-23 15:00:00
+在Linux上安装Python的问题(转载)
+
+#p 18594818 liuxilai Lewsley 2018-10-23 14:33:16
+#DELETED
+[原文由 lovecatcat 发表在 Linux 版 &gt;&gt;&gt;](post-read.php?bid=13&amp;threadid=16601237)
+我现有的书上没写清楚怎么在Linux上安装Python。
+我电脑装了Ubuntu 9.1.0英文版。我从网上下载了Python 3.6.0 for Linux，下载到Downloads中：Python-3.6.0.tgz
+我用sudo -s切换到root账号，执行tar -zxf Python-3.6.0.tgz 后，Downloads文件夹中多出了一个Python-3.6.0的文件夹，该文件夹右上角有个锁。
+用ls -l查看Python-3.6.0文件夹中的内容时，看到有个setup.py
+输入./setup.py并回车，提示说：bash: ./setup.py: Permission denied
+用自己的账户（提示符为$）执行该命令，也说没有权限
+不知道我的操作是否正确?  应该怎么做？
+
+#p 18594828 liuxilai Lewsley 2018-10-23 14:37:09
+#DELETED
+[原文由 chanis 发表在 Linux 版 &gt;&gt;&gt;](post-read.php?bid=13&amp;threadid=16601237)
+anaconda吧
+#quote lovecatcat
+
+#p 18594833 liuxilai Lewsley 2018-10-23 14:38:07
+[原文由 lovecatcat 发表在 Linux 版 &gt;&gt;&gt;](post-read.php?bid=13&amp;threadid=16601237)
+我现有的书上没写清楚怎么在Linux上安装Python。
+我电脑装了Ubuntu 9.1.0英文版。我从网上下载了Python 3.6.0 for Linux，下载到Downloads中：Python-3.6.0.tgz
+我用sudo -s切换到root账号，执行tar -zxf Python-3.6.0.tgz 后，Downloads文件夹中多出了一个Python-3.6.0的文件夹，该文件夹右上角有个锁。
+用ls -l查看Python-3.6.0文件夹中的内容时，看到有个setup.py
+输入./setup.py并回车，提示说：bash: ./setup.py: Permission denied
+用自己的账户（提示符为$）执行该命令，也说没有权限
+不知道我的操作是否正确?  应该怎么做？
+
+#p 18594835 liuxilai Lewsley 2018-10-23 14:38:27
+[原文由 vimacs 发表在 Linux 版 &gt;&gt;&gt;](post-read.php?bid=13&amp;threadid=16601237)
+#quote lovecatcat
+请装一个不太老的发行版，然后用包管理器安装 Python. 介绍 Ubuntu 9.1.0 的书可以扔掉了。
+
+#p 18594890 liuxilai Lewsley 2018-10-23 14:53:17
+[原文由 lovecatcat 发表在 Linux 版 &gt;&gt;&gt;](post-read.php?bid=13&amp;threadid=16601237)
+要不你帮我在学一食堂里调调？我看你也住附近。我没有Ubuntu 9.1.0 的书。
+如果目前我这基础上能安装这个Python，搞定后我付你30元如何
+#quote vimacs
+
+#p 18594901 liuxilai Lewsley 2018-10-23 14:53:58
+[原文由 stitch 发表在 Linux 版 &gt;&gt;&gt;](post-read.php?bid=13&amp;threadid=16601237)
+为什么不装最新版的Ubuntu？
+#quote lovecatcat
+
+#p 18594904 liuxilai Lewsley 2018-10-23 14:54:08
+[原文由 lovecatcat 发表在 Linux 版 &gt;&gt;&gt;](post-read.php?bid=13&amp;threadid=16601237)
+没有装很老版的，也没有装很新版的，因为觉得装最新版没必要。这几天安装Ubuntu感觉安装过程比RHEL慢多了，猜测是因为Ubuntu中有很多其它东西，导致安装变慢。自己以为9.1.0应该够用，因为有GUI显示，最基本的命令也就是ls -l等，更多的功能基本也用不上
+#quote stitch
+
+#p 18594912 liuxilai Lewsley 2018-10-23 14:54:44
+[原文由 ILBSD 发表在 Linux 版 &gt;&gt;&gt;](post-read.php?bid=13&amp;threadid=16601237)
+还是建议装新版，除非是非常旧性能非常低的机器
+否则，一是驱动不好搞，旧kernel说不定连网卡驱动都没有，造成上不了网，更不用说显卡什么的了，二是软件和库太旧，新软件根本装不上
+#quote lovecatcat
+
+#p 18594913 liuxilai Lewsley 2018-10-23 14:54:54
+[原文由 lovecatcat 发表在 Linux 版 &gt;&gt;&gt;](post-read.php?bid=13&amp;threadid=16601237)
+9.1.0也不是很旧吧，你说的这些问题我没有遇到。
+我发现，我访问sogou和bdwm，给出的错误提示信息还不一样，如图：
+#quote ILBSD
+
+#p 18594914 liuxilai Lewsley 2018-10-23 14:55:06
+[原文由 ILBSD 发表在 Linux 版 &gt;&gt;&gt;](post-read.php?bid=13&amp;threadid=16601237)
+首先肯定没有9.1.0这么个版本，另外如果是9.10那不是快10年前的发行版么？这玩意不是2年就算过时，5年就是老古董，8年就是上古时代么？
+不过你这是虚拟机啊，那随便
+#quote lovecatcat
+
+#p 18594918 liuxilai Lewsley 2018-10-23 14:55:20
+[原文由 lovecatcat 发表在 Linux 版 &gt;&gt;&gt;](post-read.php?bid=13&amp;threadid=16601237)
+是我说错了  是9.10版
+[http://www.linuxdown.net/Ubuntu/2014/0921/3306.html](jump-to.php?url=http%3A%2F%2Fwww.linuxdown.net%2FUbuntu%2F2014%2F0921%2F3306.html)
+快10年前，能用就行啊。Win7也差不多10年了 用的好蒿的
+我的目的是在这个版的Linux上装个Python 3.6，这个Linux上自带Python 2，我想升级成3的版本  Python 3.6只有几十兆
+这只不过是一个小case或小补丁而已
+#quote ILBSD
+
+#p 18594923 liuxilai Lewsley 2018-10-23 14:56:07
+[原文由 out 发表在 Linux 版 &gt;&gt;&gt;](post-read.php?bid=13&amp;threadid=16601237)
+python3.6源码安装是
+./configure
+make
+make install
+权限我记不清了。目前仅在14.04及以后的机子搞过，想学开发的话，还是建议用最新的
+#quote lovecatcat
+
+#p 18594924 liuxilai Lewsley 2018-10-23 14:56:20
+[原文由 out 发表在 Linux 版 &gt;&gt;&gt;](post-read.php?bid=13&amp;threadid=16601237)
+不过Linux毕竟没有Windows那么x炸天的兼容性，新软件跑到9年前的系统上还是有点。。。
+#quote lovecatcat
+
+#p 18594925 liuxilai Lewsley 2018-10-23 14:56:27
+[原文由 lovecatcat 发表在 Linux 版 &gt;&gt;&gt;](post-read.php?bid=13&amp;threadid=16601237)
+运行Python 3.6应该没什么问题    但我没查到Python 3是哪年出的
+#quote out
+
+#p 18594928 liuxilai Lewsley 2018-10-23 14:56:48
+[原文由 out 发表在 Linux 版 &gt;&gt;&gt;](post-read.php?bid=13&amp;threadid=16601237)
+08年左右。但是你以后的办公环境大概率是18.04以及更新的
+#quote lovecatcat
+
+#p 18594929 liuxilai Lewsley 2018-10-23 14:56:55
+[原文由 lovecatcat 发表在 Linux 版 &gt;&gt;&gt;](post-read.php?bid=13&amp;threadid=16601237)
+版上有没有人能帮我在学一食堂里在该Linux中安装Python 3.6？
+搞定后我付你50元。
+装微信的手机忘带了，请直接短信或电话联系我：133.6613.5366
+#quote out
+
+#p 18594934 liuxilai Lewsley 2018-10-23 14:58:19
+[原文由 zhongzhong 发表在 Linux 版 &gt;&gt;&gt;](post-read.php?bid=13&amp;threadid=16601237)
+我的天还有人在用9.10 orz...
+软件这个东西跟传统学科的区别是发展太快，读书自学真的不是特别靠谱。
+建议利用互联网自学。
+#quote lovecatcat
+
+#p 18594936 liuxilai Lewsley 2018-10-23 14:58:29
+[原文由 lovecatcat 发表在 Linux 版 &gt;&gt;&gt;](post-read.php?bid=13&amp;threadid=16601237)
+互联网上内容太多太杂了
+要不是需要安装Python 3这个东西，仅用9.10学桌面版的Linux我看也够用了
+#quote zhongzhong
+
+#p 18594945 liuxilai Lewsley 2018-10-23 14:59:01
+[原文由 gspku 发表在 Linux 版 &gt;&gt;&gt;](post-read.php?bid=13&amp;threadid=16601237)
+事实上在几年前的Linux系统上安装现在的软件就是会装不上。
+Linux和Windows的软件生态有很大区别。兼容性不是白来的，你现在还可以使用XP甚至Win98时代的一些软件，都是因为微软公司花费了巨大的人力财力维持Windows的兼容性。
+而Linux里很多必要的基础库和系统软件都是社区开发，如果你看那些软件的LICENSE文件经常会看到一句话“This program is provided 'as-is' without any warranty”，社区开发者没有义务保证他的软件在你的电脑上一定能正常工作。事实上的情况也是这样，Linux的软件一般都不会特意维护“二进制兼容性”，如果没有官方的支持，你没法像Windows里那样“安装”软件，必须从源代码编译（就是./configure;make;sudo make install），如果版本跨度更大，甚至会失去”源代码兼容性“，这种情况下不修改软件代码就不可能安装。
+总而言之，使用Linux，如果不用主流的软件版本（过时教材才不是”主流“！），非要去用早就不被支持的旧版，就是在作死！
+#quote lovecatcat
+
+#p 18594950 liuxilai Lewsley 2018-10-23 14:59:28
+[原文由 Minoshiro 发表在 Linux 版 &gt;&gt;&gt;](post-read.php?bid=13&amp;threadid=16601237)
+我是很想转 Joke 了
+但是看到这个版的人都太认真
+就没好意思动手
+#quote lovecatcat
+
+#p 18594951 liuxilai Lewsley 2018-10-23 14:59:36
+[原文由 lovecatcat 发表在 Linux 版 &gt;&gt;&gt;](post-read.php?bid=13&amp;threadid=16601237)
+我不是计算机专业的   但比不搞计算机技术的人知道的多一些
+问的问题在你来看可能too simple, sometimes naive，
+或许你了解这块知识的88%，而我了解43%，一些人可能连13%都不了解
+你要是转Joke，估计很多人也看不懂你所认为的这个Joke。
+#quote Minoshiro
+
+#p 18594954 liuxilai Lewsley 2018-10-23 14:59:46
+[原文由 Minoshiro 发表在 Linux 版 &gt;&gt;&gt;](post-read.php?bid=13&amp;threadid=16601237)
+这倒真有点长者的味道了
+#quote lovecatcat
+
