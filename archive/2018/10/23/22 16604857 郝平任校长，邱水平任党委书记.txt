@@ -1,4 +1,4 @@
-#t 22 16604857 naiiive 2018-10-23 00:13:00 herb 2018-10-24 16:15:00
+#t 22 16604857 naiiive 2018-10-23 00:13:00 liht 2018-10-24 18:51:00
 郝平任校长，邱水平任党委书记
 
 #p 18594575 naiiive 不忘初心 牢记使命 2018-10-23 13:58:40
@@ -209,6 +209,7 @@ good
 #quote naiiive
 
 #p 18595149 WallaceBbee 埃及猫神 华莱士·彼伊 万王之王 2018-10-23 15:48:44
+#DELETED
 伊法治校
 #quote ThinLee
 
@@ -327,6 +328,7 @@ ssfd
 #quote naiiive
 
 #p 18596164 Amagi 艨艟八百，海鹫三千 2018-10-23 21:22:52
+#DELETED
 品质校园路在何方
 #quote naiiive
 
@@ -359,6 +361,7 @@ ssfd
 #quote iJackcc
 
 #p 18596927 Elon 已转joke 2018-10-24 06:07:05
+#DELETED
 新书记在某些方面似乎很专业
 #quote naiiive
 
@@ -389,6 +392,7 @@ ssfd
 #quote naiiive
 
 #p 18597829 alanmei alanpku 2018-10-24 12:09:43
+#DELETED
 哈哈哈
 #quote Elon
 
@@ -397,6 +401,7 @@ ssfd
 #quote naiiive
 
 #p 18598529 Czarniecki 奥吉尔维同志 2018-10-24 15:01:42
+#DELETED
 司马昭之心
 #quote tcfa
 
@@ -410,4 +415,8 @@ ssfd
 
 #p 18598878 herb 小苏 2018-10-24 16:15:00
 这波很强势
+
+#p 18599377 liht 陶禄绅 2018-10-24 18:50:05
+这是何意
+#quote naiiive
 
