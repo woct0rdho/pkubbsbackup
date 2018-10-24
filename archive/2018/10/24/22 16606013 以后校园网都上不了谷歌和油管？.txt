@@ -1,4 +1,4 @@
-#t 22 16606013 qazxswedcvfr 2018-10-24 00:16:00 zhuifengzhe 2018-10-24 23:40:00
+#t 22 16606013 qazxswedcvfr 2018-10-24 00:16:00 zhongzhong 2018-10-25 00:30:00
 以后校园网都上不了谷歌和油管？
 
 #p 18598848 qazxswedcvfr 考不斯 2018-10-24 16:07:48
@@ -51,5 +51,9 @@ Soga！原来是这样！ 刚才检测了下宿舍的网络，的确无法连接
 
 #p 18600256 zhuifengzhe 小猪 2018-10-24 23:39:23
 啊没看到已经解决了，打扰了😂
+#quote qazxswedcvfr
+
+#p 18600430 zhongzhong sigh&smile 2018-10-25 00:29:36
+还有一个重要因素是dns
 #quote qazxswedcvfr
 
