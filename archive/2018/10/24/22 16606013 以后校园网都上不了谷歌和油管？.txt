@@ -1,4 +1,4 @@
-#t 22 16606013 qazxswedcvfr 2018-10-24 00:16:00 guangxiang 2018-10-24 20:20:00
+#t 22 16606013 qazxswedcvfr 2018-10-24 00:16:00 zhuifengzhe 2018-10-24 21:34:00
 以后校园网都上不了谷歌和油管？
 
 #p 18598848 qazxswedcvfr 考不斯 2018-10-24 16:07:48
@@ -6,5 +6,13 @@
 
 #p 18599607 guangxiang 花然 2018-10-24 20:19:40
 新常态
+#quote qazxswedcvfr
+
+#p 18599806 MetatronCube 神蚀 2018-10-24 21:22:30
+正常啊，改hosts就可以啊，和以前一样
+#quote qazxswedcvfr
+
+#p 18599846 zhuifengzhe 小猪 2018-10-24 21:33:31
+连了校园网直接就上了啊，啥操作也没做
 #quote qazxswedcvfr
 
