@@ -1,4 +1,4 @@
-#t 22 16606013 qazxswedcvfr 2018-10-24 00:16:00 zhongzhong 2018-10-25 00:30:00
+#t 22 16606013 qazxswedcvfr 2018-10-24 00:16:00 hiaoxui 2018-10-25 01:39:00
 以后校园网都上不了谷歌和油管？
 
 #p 18598848 qazxswedcvfr 考不斯 2018-10-24 16:07:48
@@ -55,5 +55,10 @@ Soga！原来是这样！ 刚才检测了下宿舍的网络，的确无法连接
 
 #p 18600430 zhongzhong sigh&smile 2018-10-25 00:29:36
 还有一个重要因素是dns
+#quote qazxswedcvfr
+
+#p 18601059 hiaoxui 小辉 2018-10-25 01:38:17
+我一直致力于为北京大学学生提供力所能及的无墙服务（ipv4+ipv6），关注一下：
+[https://bbs.pku.edu.cn/v2/post-read.php?bid=35&amp;threadid=16264150](post-read.php?bid=35&amp;threadid=16264150)
 #quote qazxswedcvfr
 
