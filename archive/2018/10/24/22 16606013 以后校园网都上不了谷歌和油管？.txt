@@ -1,4 +1,4 @@
-#t 22 16606013 qazxswedcvfr 2018-10-24 00:16:00 Drogoncheng 2018-10-25 13:00:00
+#t 22 16606013 qazxswedcvfr 2018-10-24 00:16:00 hiaoxui 2018-10-25 13:03:00
 以后校园网都上不了谷歌和油管？
 
 #p 18598848 qazxswedcvfr 考不斯 2018-10-24 16:07:48
@@ -104,5 +104,10 @@ youtube网页版上不了但移动客户端能上
 
 #p 18603549 Drogoncheng Drogon cheng 2018-10-25 12:59:51
 亲测，目前可以上Google
+#quote qazxswedcvfr
+
+#p 18603555 hiaoxui 小辉 2018-10-25 13:02:07
+提供一个科学上网的替代解决方案:
+[https://bbs.pku.edu.cn/v2/post-read.php?bid=35&amp;threadid=16264150](post-read.php?bid=35&amp;threadid=16264150)
 #quote qazxswedcvfr
 
