@@ -1,4 +1,4 @@
-#t 22 16606013 qazxswedcvfr 2018-10-24 00:16:00 chrome 2018-10-25 06:18:00
+#t 22 16606013 qazxswedcvfr 2018-10-24 00:16:00 harperol 2018-10-25 07:51:00
 以后校园网都上不了谷歌和油管？
 
 #p 18598848 qazxswedcvfr 考不斯 2018-10-24 16:07:48
@@ -65,4 +65,14 @@ Soga！原来是这样！ 刚才检测了下宿舍的网络，的确无法连接
 #p 18602558 chrome DongDong 2018-10-25 06:17:38
 为什么我改hosts一般毫无卵用，狗逼们还一直封我的ssr，真想捏死他们
 #quote MetatronCube
+
+#p 18602576 MetatronCube 神蚀 2018-10-25 07:22:46
+室友自搭了个好像是动态ip的ssr，具体我也不太懂
+电脑psiphon也是免费的
+t.me/SSrlist 频道上面一直随时都更新免费链接
+#quote chrome
+
+#p 18602590 harperol 没有昵称！ 2018-10-25 07:50:33
+好奇怪，我的今天可以上呀
+#quote qazxswedcvfr
 
