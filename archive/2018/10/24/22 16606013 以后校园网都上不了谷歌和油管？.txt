@@ -1,4 +1,4 @@
-#t 22 16606013 qazxswedcvfr 2018-10-24 00:16:00 harperol 2018-10-25 07:51:00
+#t 22 16606013 qazxswedcvfr 2018-10-24 00:16:00 Hotarubi 2018-10-25 09:34:00
 以后校园网都上不了谷歌和油管？
 
 #p 18598848 qazxswedcvfr 考不斯 2018-10-24 16:07:48
@@ -58,6 +58,7 @@ Soga！原来是这样！ 刚才检测了下宿舍的网络，的确无法连接
 #quote qazxswedcvfr
 
 #p 18601059 hiaoxui 小辉 2018-10-25 01:38:17
+#DELETED
 我一直致力于为北京大学学生提供力所能及的无墙服务（ipv4+ipv6），关注一下：
 [https://bbs.pku.edu.cn/v2/post-read.php?bid=35&amp;threadid=16264150](post-read.php?bid=35&amp;threadid=16264150)
 #quote qazxswedcvfr
@@ -67,6 +68,7 @@ Soga！原来是这样！ 刚才检测了下宿舍的网络，的确无法连接
 #quote MetatronCube
 
 #p 18602576 MetatronCube 神蚀 2018-10-25 07:22:46
+#DELETED
 室友自搭了个好像是动态ip的ssr，具体我也不太懂
 电脑psiphon也是免费的
 t.me/SSrlist 频道上面一直随时都更新免费链接
@@ -74,5 +76,19 @@ t.me/SSrlist 频道上面一直随时都更新免费链接
 
 #p 18602590 harperol 没有昵称！ 2018-10-25 07:50:33
 好奇怪，我的今天可以上呀
+#quote qazxswedcvfr
+
+#p 18602732 qazxswedcvfr 考不斯 2018-10-25 09:10:11
+到目前为止还是上不了。。。
+#quote harperol
+
+#p 18602786 kickmknees 小东西够妖艳儿 2018-10-25 09:28:00
+表示有ipv6
+能科学上网
+但是不稳定==
+#quote qazxswedcvfr
+
+#p 18602807 Hotarubi 渊之心 2018-10-25 09:33:28
+直接私戳计算中心让他们来修吧
 #quote qazxswedcvfr
 
