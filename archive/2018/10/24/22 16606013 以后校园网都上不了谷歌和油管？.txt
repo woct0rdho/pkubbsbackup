@@ -1,4 +1,4 @@
-#t 22 16606013 qazxswedcvfr 2018-10-24 00:16:00 jinkelababy 2018-10-25 16:52:00
+#t 22 16606013 qazxswedcvfr 2018-10-24 00:16:00 zhuilaien 2018-10-25 17:46:00
 以后校园网都上不了谷歌和油管？
 
 #p 18598848 qazxswedcvfr 考不斯 2018-10-24 16:07:48
@@ -126,4 +126,12 @@ youtube网页版上不了但移动客户端能上
 #p 18604372 jinkelababy 洪金宝 2018-10-25 16:51:22
 捕捉野生信科之光
 #quote BoeingNG
+
+#p 18604506 yuntao 蒟蒻MagicPoi 2018-10-25 17:34:14
+表示v6翻墙转发v4大法很好用
+#quote qazxswedcvfr
+
+#p 18604556 zhuilaien 追莱恩 2018-10-25 17:45:25
+有ipv6可以。咱们学校是一般有线网有ipv6，无线网偶尔有ipv6。
+#quote qazxswedcvfr
 
