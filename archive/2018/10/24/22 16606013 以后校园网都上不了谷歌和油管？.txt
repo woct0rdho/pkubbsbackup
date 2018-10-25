@@ -1,4 +1,4 @@
-#t 22 16606013 qazxswedcvfr 2018-10-24 00:16:00 zhuilaien 2018-10-25 17:46:00
+#t 22 16606013 qazxswedcvfr 2018-10-24 00:16:00 qazxswedcvfr 2018-10-25 21:32:00
 以后校园网都上不了谷歌和油管？
 
 #p 18598848 qazxswedcvfr 考不斯 2018-10-24 16:07:48
@@ -134,4 +134,8 @@ youtube网页版上不了但移动客户端能上
 #p 18604556 zhuilaien 追莱恩 2018-10-25 17:45:25
 有ipv6可以。咱们学校是一般有线网有ipv6，无线网偶尔有ipv6。
 #quote qazxswedcvfr
+
+#p 18605149 qazxswedcvfr 考不斯 2018-10-25 21:31:51
+求科普，如若不便，求私戳
+#quote yuntao
 
