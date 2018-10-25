@@ -1,4 +1,4 @@
-#t 22 16606013 qazxswedcvfr 2018-10-24 00:16:00 BoeingNG 2018-10-25 10:41:00
+#t 22 16606013 qazxswedcvfr 2018-10-24 00:16:00 Drogoncheng 2018-10-25 13:00:00
 以后校园网都上不了谷歌和油管？
 
 #p 18598848 qazxswedcvfr 考不斯 2018-10-24 16:07:48
@@ -100,5 +100,9 @@ t.me/SSrlist 频道上面一直随时都更新免费链接
 Google网页版能上
 youtube网页版上不了但移动客户端能上
 上述是在连接pku且获取到ipv6地址的情况下测试的
+#quote qazxswedcvfr
+
+#p 18603549 Drogoncheng Drogon cheng 2018-10-25 12:59:51
+亲测，目前可以上Google
 #quote qazxswedcvfr
 
