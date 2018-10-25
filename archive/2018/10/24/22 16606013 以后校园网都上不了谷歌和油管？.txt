@@ -1,4 +1,4 @@
-#t 22 16606013 qazxswedcvfr 2018-10-24 00:16:00 yuntao 2018-10-25 23:59:00
+#t 22 16606013 qazxswedcvfr 2018-10-24 00:16:00 yuntao 2018-10-26 00:13:00
 以后校园网都上不了谷歌和油管？
 
 #p 18598848 qazxswedcvfr 考不斯 2018-10-24 16:07:48
@@ -143,4 +143,12 @@ youtube网页版上不了但移动客户端能上
 需要有一台有公网ip的机器和一台国外支持v4和v6的vps，国外vps开ss的server，国内机器开ss的local，fq的时候连国内的机器就行了
 北大有很多地方都有公网ip，国外vps可以用digital ocean免费的，或者我现在用的10美刀一年，也很划算
 #quote qazxswedcvfr
+
+#p 18605583 BoeingNG BoeingNG 2018-10-26 00:11:08
+vps的ip会被防火墙拦截
+#quote yuntao
+
+#p 18605586 yuntao 蒟蒻MagicPoi 2018-10-26 00:12:19
+国内国外的穿透一律走v6
+#quote BoeingNG
 
