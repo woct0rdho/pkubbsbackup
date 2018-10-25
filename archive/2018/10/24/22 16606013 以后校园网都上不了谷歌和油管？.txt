@@ -1,4 +1,4 @@
-#t 22 16606013 qazxswedcvfr 2018-10-24 00:16:00 Hotarubi 2018-10-25 09:34:00
+#t 22 16606013 qazxswedcvfr 2018-10-24 00:16:00 BoeingNG 2018-10-25 10:41:00
 以后校园网都上不了谷歌和油管？
 
 #p 18598848 qazxswedcvfr 考不斯 2018-10-24 16:07:48
@@ -90,5 +90,15 @@ t.me/SSrlist 频道上面一直随时都更新免费链接
 
 #p 18602807 Hotarubi 渊之心 2018-10-25 09:33:28
 直接私戳计算中心让他们来修吧
+#quote qazxswedcvfr
+
+#p 18602986 Sibylle 稻草人 2018-10-25 10:25:59
+好久上不了外网了……我以为早就关了呢。
+#quote qazxswedcvfr
+
+#p 18603045 BoeingNG BoeingNG 2018-10-25 10:40:02
+Google网页版能上
+youtube网页版上不了但移动客户端能上
+上述是在连接pku且获取到ipv6地址的情况下测试的
 #quote qazxswedcvfr
 
