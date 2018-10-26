@@ -1,0 +1,11 @@
+#t 22 16608781 ZPU 2018-10-26 13:27:00 ZPU 2018-10-26 13:27:00
+国家选不了中国只能选台湾？？如何纠正IBM的错误？
+
+#p 18607008 ZPU 伊修扎克 2018-10-26 13:26:32
+最近收到了IBM一个比赛的邀请邮件，<font color="#c00000">世界性的比赛</font>，去注册时发现，国家选不了中国，<font color="#c00000">没有China/中国等可选</font>，然而是<font color="#c00000">可以选台湾</font>的。
+网页通过Contact IBM反馈了，留了电话邮箱48小时没回复没改变了，联系了一下在IBM中国大学合作部的人，表示会看看，但估计鞭长莫及。
+感觉很愤怒啊，这是台独分子在管理吗？？？
+有什么办法可以要求IBM改正过来吗？
+比赛注册链接：
+[https://contest-reg.dfw.ibm.com/contest/mtmww.nsf/enrollall?openform](jump-to.php?url=https%3A%2F%2Fcontest-reg.dfw.ibm.com%2Fcontest%2Fmtmww.nsf%2Fenrollall%3Fopenform)
+
