@@ -1,4 +1,4 @@
-#t 22 16606013 qazxswedcvfr 2018-10-24 00:16:00 icecodeliu 2018-10-26 01:32:00
+#t 22 16606013 qazxswedcvfr 2018-10-24 00:16:00 qazxswedcvfr 2018-10-26 11:21:00
 以后校园网都上不了谷歌和油管？
 
 #p 18598848 qazxswedcvfr 考不斯 2018-10-24 16:07:48
@@ -160,4 +160,8 @@ vps的ip会被防火墙拦截
 不要老改 HOSTS 了，这个方法真心不好使……
 [https://github.com/jedisct1/dnscrypt-proxy/releases](jump-to.php?url=https%3A%2F%2Fgithub.com%2Fjedisct1%2Fdnscrypt-proxy%2Freleases)
 #quote qazxswedcvfr
+
+#p 18606528 qazxswedcvfr 考不斯 2018-10-26 11:20:33
+谢谢！！！
+#quote yuntao
 
