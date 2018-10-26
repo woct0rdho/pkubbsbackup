@@ -1,4 +1,4 @@
-#t 72 16607764 audience 2018-10-25 00:22:00 ziweisage 2018-10-26 11:48:00
+#t 72 16607764 audience 2018-10-25 00:22:00 mouping 2018-10-26 12:56:00
 Re 男友英语很烂 想分(转载)
 
 #p 18605317 audience 奥蒂安斯（豆瓣同名）|向BBS三鞠躬 2018-10-25 22:29:19
@@ -56,4 +56,86 @@ hahahahahahahaha
 2018-10-26 11:47:22
 伟大领袖习近平教导我们说：德是才之帅，才是德之资。有德无才是君子，无德有才是小人。英语是才不是德。。。
 #quote audience
+
+#p 18606688 davidatpku 我不是版务 2018-10-26 12:02:51
+#DELETED
+原文：
+paper写的我都看不去了 完全没有自己撰写的能力 就靠google翻译机器翻译完了再修一修  
+作为美本内心有点嫌弃他 怎么办 要分吗 他还蛮帅的~~
+iteration 1.1:
+I can't read the paper. He didn't have the ability to write his own. It was translated by google translation machine and then repaired. As a beauty, I was a little disgusted with him. What should he do? He is quite handsome~~
+iteration 1.2:
+我不能看报纸。他没有写他自己的能力。它是由谷歌翻译机翻译，然后修复。作为一个美女，我是跟他有点反感。 他应该怎么做？他是蛮帅~~
+iteration 2.1:
+I can't read the newspaper. He did not write his own abilities. It was translated by Google Translator and then fixed. As a beauty, I am a little disgusted with him. What should he do? He is handsome~~
+iteration 2.2:
+我看不懂报纸。 他没有写自己的能力。 它由谷歌翻译翻译，然后修复。 作为一个美女，我有点厌恶他。 他应该怎么做？ 他很帅~~
+iteration 3.1:
+I can't read the newspaper. He did not write his own abilities. It is translated by Google Translate and then fixed. As a beauty, I hate him a bit. What should he do? He is very handsome~~
+iteration 3.2:
+我看不懂报纸。 他没有写自己的能力。 它由谷歌翻译翻译，然后修复。 作为一个美女，我恨他一点。 他应该怎么做？ 他很帅~~
+iteration 4.1:
+I can't read the newspaper. He did not write his own abilities. It is translated by Google Translate and then fixed. As a beauty, I hate him a bit. What should he do? He is very handsome~~
+iteration 4.2:
+我看不懂报纸。 他没有写自己的能力。 它由谷歌翻译翻译，然后修复。 作为一个美女，我恨他一点。 他应该怎么做？ 他很帅~~
+it reaches convergence at iteration 4.
+#quote audience
+
+#p 18606689 davidatpku 我不是版务 2018-10-26 12:03:25
+原文：
+paper写的我都看不去了 完全没有自己撰写的能力 就靠google翻译机器翻译完了再修一修  
+作为美本内心有点嫌弃他 怎么办 要分吗 他还蛮帅的~~
+iteration 1.1:
+I can't read the paper. He didn't have the ability to write his own. It was translated by google translation machine and then repaired. As a beauty, I was a little disgusted with him. What should he do? He is quite handsome~~
+iteration 1.2:
+我不能看报纸。他没有写他自己的能力。它是由谷歌翻译机翻译，然后修复。作为一个美女，我是跟他有点反感。 他应该怎么做？他是蛮帅~~
+iteration 2.1:
+I can't read the newspaper. He did not write his own abilities. It was translated by Google Translator and then fixed. As a beauty, I am a little disgusted with him. What should he do? He is handsome~~
+iteration 2.2:
+我看不懂报纸。 他没有写自己的能力。 它由谷歌翻译翻译，然后修复。 作为一个美女，我有点厌恶他。 他应该怎么做？ 他很帅~~
+iteration 3.1:
+I can't read the newspaper. He did not write his own abilities. It is translated by Google Translate and then fixed. As a beauty, I hate him a bit. What should he do? He is very handsome~~
+iteration 3.2:
+我看不懂报纸。 他没有写自己的能力。 它由谷歌翻译翻译，然后修复。 作为一个美女，我恨他一点。 他应该怎么做？ 他很帅~~
+iteration 4.1:
+I can't read the newspaper. He did not write his own abilities. It is translated by Google Translate and then fixed. As a beauty, I hate him a bit. What should he do? He is very handsome~~
+iteration 4.2:
+我看不懂报纸。 他没有写自己的能力。 它由谷歌翻译翻译，然后修复。 作为一个美女，我恨他一点。 他应该怎么做？ 他很帅~~
+it converges at iteration 4.
+#quote audience
+
+#p 18606700 vnbzty vnbzty 2018-10-26 12:04:47
+xswl
+#quote davidatpku
+
+#p 18606732 niisikhsurg 袁小会儿||混混文化正宗传承人 2018-10-26 12:11:10
+The great leader Xi Jinping taught us that: Germany is the talent of talent, and it is the capital of Germany. There is no virtue to be a gentleman, no virtue is a villain. English is not moral.
+谷歌翻译确实不错，翻出来自带哲学感。
+#quote ziweisage
+
+#p 18606735 ztzthu IIIS16 | 长宁<>清华园 | 摸鱼中 2018-10-26 12:12:12
+哈哈哈哈哈哈converge可还行
+#quote davidatpku
+
+#p 18606737 karlmarx 还我三角地！灵均·六月雪 2018-10-26 12:12:42
+哈哈哈哈
+#quote niisikhsurg
+
+#p 18606769 niisikhsurg 袁小会儿||混混文化正宗传承人 2018-10-26 12:19:16
+大伯习近平教我曰：德者，才之帅，才者，德之资。有德无乃君子，无德才是小人。英吉利语，乃非德。
+伟大阿头习近平教导我哋话：德系先之仔，先至系德之资。有德无先系君子，无德有才系小人。英文系先唔系德。
+百度翻译出来的也很有哲理
+#quote ziweisage
+
+#p 18606820 sues Gonzálezelea 2018-10-26 12:33:22
+As a beauty 哈哈哈我爆笑
+#quote audience
+
+#p 18606895 mouping 小瓶哥 2018-10-26 12:54:08
+哈哈哈哈
+#quote audience
+
+#p 18606899 mouping 小瓶哥 2018-10-26 12:55:15
+笑哭
+#quote Auspicious
 
