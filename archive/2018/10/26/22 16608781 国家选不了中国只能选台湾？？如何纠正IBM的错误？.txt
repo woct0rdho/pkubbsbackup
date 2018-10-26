@@ -1,4 +1,4 @@
-#t 22 16608781 ZPU 2018-10-26 13:27:00 ZPU 2018-10-26 13:27:00
+#t 22 16608781 ZPU 2018-10-26 13:26:00 redleaves 2018-10-26 14:15:00
 国家选不了中国只能选台湾？？如何纠正IBM的错误？
 
 #p 18607008 ZPU 伊修扎克 2018-10-26 13:26:32
@@ -8,4 +8,9 @@
 有什么办法可以要求IBM改正过来吗？
 比赛注册链接：
 [https://contest-reg.dfw.ibm.com/contest/mtmww.nsf/enrollall?openform](jump-to.php?url=https%3A%2F%2Fcontest-reg.dfw.ibm.com%2Fcontest%2Fmtmww.nsf%2Fenrollall%3Fopenform)
+
+#p 18607193 redleaves 红叶飘飘 2018-10-26 14:14:56
+韩国人也会迷茫，有朝鲜，没有韩国。
+香港人也会发现，有澳门，没有香港。
+#quote ZPU
 
