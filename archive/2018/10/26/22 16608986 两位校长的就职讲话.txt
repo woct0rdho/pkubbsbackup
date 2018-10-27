@@ -1,4 +1,4 @@
-#t 22 16608986 naiiive 2018-10-26 00:17:00 hanxv 2018-10-27 00:01:00
+#t 22 16608986 naiiive 2018-10-26 00:17:00 wangzilong 2018-10-27 10:09:00
 两位校长的就职讲话
 
 #p 18607710 naiiive 不忘初心 牢记使命 2018-10-26 17:02:00
@@ -46,6 +46,7 @@ re
 #quote Kurapica
 
 #p 18608080 Kurapica 库卡 2018-10-26 19:29:36
+#DELETED
 杨大伟还是校友呢
 #quote bookreadertt
 
@@ -74,4 +75,8 @@ re
 #DELETED
 李婷婷也是校友呢
 #quote bookreadertt
+
+#p 18611136 wangzilong PrinsDragon 2018-10-27 10:08:53
+hhhh 论汉语言的歧义性
+#quote naiiive
 
