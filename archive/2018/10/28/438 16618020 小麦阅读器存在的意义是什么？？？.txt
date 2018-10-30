@@ -1,4 +1,4 @@
-#t 438 16618020 Jedi 2018-10-28 00:12:00 Tariel 2018-10-30 12:53:00
+#t 438 16618020 Jedi 2018-10-28 00:12:00 woctordho 2018-10-30 13:54:00
 小麦阅读器存在的意义是什么？？？
 
 #p 18627762 Jedi Jedi 2018-10-28 12:39:30
@@ -36,5 +36,13 @@ pdf对drm的保护尚且不够用吗？什么功能实现不了？
 
 #p 18689055 Tariel 塔里埃尔|萌物保护协会 2018-10-30 12:52:11
 操作系统装虚拟机里，把阅读器、文件装里面，然后把虚拟机给别人，是不是可以绕过去……
+#quote vimacs
+
+#p 18689152 vimacs Lisp Interaction Paredit AC 2018-10-30 13:27:53
+这阅读器本身没有选择文字的功能，看有DRM的文档的时候，连打印功能都屏蔽掉了，还真不如直接看图片版的文档。 [https://git.wehack.space/pkulib-dl/](jump-to.php?url=https%3A%2F%2Fgit.wehack.space%2Fpkulib-dl%2F)
+#quote Tariel
+
+#p 18689242 woctordho 青研研究中心 2018-10-30 13:53:29
+Abbyy FineReader了解一下
 #quote vimacs
 
