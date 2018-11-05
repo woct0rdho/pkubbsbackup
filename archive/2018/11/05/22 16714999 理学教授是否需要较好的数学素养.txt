@@ -1,4 +1,4 @@
-#t 22 16714999 PhyAndMath 2018-11-05 00:10:00 skytale 2018-11-05 21:59:00
+#t 22 16714999 PhyAndMath 2018-11-05 00:10:00 dcbush 2018-11-05 22:45:00
 理学教授是否需要较好的数学素养
 
 #p 18833799 PhyAndMath 我希望能弄懂我的用户名 2018-11-05 18:42:23
@@ -179,10 +179,63 @@ Z变换不就是从傅立叶变换抽象来的吗？相当于傅立叶变换加�
 贵系怎么这么菜……然而贵系并不是基础学科来着。
 #quote AdamZack
 
-#p 18835995 skytale 非正常离线,时间不详 2018-11-05 21:58:41
+#p 18835995 skytale 非正常离线,时间不详 2018-11-05 22:03:48
 
 
 2018-11-05 21:58:22
-<img src="https://bbs.pku.edu.cn/latexrender/pictures/b17e2dfa72716f435c53b557939ee8d1.png"/>变换的求逆是一个比较复杂的理论问题.如果是在<img src="https://bbs.pku.edu.cn/latexrender/pictures/08d547ad7d27aa2c405d86e3118a7747.png"/>空间或者<img src="https://bbs.pku.edu.cn/latexrender/pictures/3043cf680b69515945ec0218f5eb9a00.png"/>上,那还比较简单;但是如果在<img src="https://bbs.pku.edu.cn/latexrender/pictures/bf2b00b0ada39b2023c79fc4d2333a2d.png"/>上讨论<img src="https://bbs.pku.edu.cn/latexrender/pictures/b17e2dfa72716f435c53b557939ee8d1.png"/>变换的逆变换,那就复杂多了.比如问及什么样的<img src="https://bbs.pku.edu.cn/latexrender/pictures/1922b8e22bae729ffa04ea46d29ac5b8.png"/>函数的<img src="https://bbs.pku.edu.cn/latexrender/pictures/b17e2dfa72716f435c53b557939ee8d1.png"/>变换可逆,我想即使数院学过相关课程的人也未必能很好地回答出来.所以你提到的这位教授不了解这个,很正常.
+术业有专攻嘛,你要问我为什么五次以上代数方程没有求根公式或者证明四海升平五点共圆,我也答不上来,不是学这块的;再说<img src="https://bbs.pku.edu.cn/latexrender/pictures/b17e2dfa72716f435c53b557939ee8d1.png"/>变换的求逆是一个比较复杂的理论问题.如果是在<img src="https://bbs.pku.edu.cn/latexrender/pictures/08d547ad7d27aa2c405d86e3118a7747.png"/>空间或者<img src="https://bbs.pku.edu.cn/latexrender/pictures/3043cf680b69515945ec0218f5eb9a00.png"/>上,那还比较简单;但是如果在<img src="https://bbs.pku.edu.cn/latexrender/pictures/bf2b00b0ada39b2023c79fc4d2333a2d.png"/>上讨论<img src="https://bbs.pku.edu.cn/latexrender/pictures/b17e2dfa72716f435c53b557939ee8d1.png"/>变换的逆变换,那就复杂多了.比如问及什么样的<img src="https://bbs.pku.edu.cn/latexrender/pictures/1922b8e22bae729ffa04ea46d29ac5b8.png"/>函数的<img src="https://bbs.pku.edu.cn/latexrender/pictures/b17e2dfa72716f435c53b557939ee8d1.png"/>变换可逆,我想即使数院学过相关课程的人也未必能很好地回答出来.所以你提到的这位教授不了解这个,很正常.
+记得当年的理论力学老师说他不懂相对论和量子力学,下边顿时一片哗然,,而且从他之后上课讲的东西来看,他是真的不懂...
 #quote PhyAndMath
+
+#p 18836007 skytale 非正常离线,时间不详 2018-11-05 22:05:54
+某哲学系博士声称自己发明了大道伪道理论,可以解释宇宙万物,可以用周易治好抑郁症!!...
+#quote Yhzj
+
+#p 18836008 willis willis 2018-11-05 22:06:14
+重点就不在这儿。楼上早有人告诉你了，看他研究方向或至少这一门课，该懂就懂不需懂就不懂，你看你更新后的这个帖子，还是个模糊至极的问题，倒是很有知乎体/sg版的风范
+#quote PhyAndMath
+
+#p 18836016 willis willis 2018-11-05 22:08:47
+且不论各层主懂不懂傅里叶变换，我倒是很好奇他们是怎么有把握接着楼主说出“理学部怎么怎么样”这种结论，知道理学部有哪些学院吗，如果能对如此大范围的教授们该不该懂一个东西这么确信，恐怕真是大佬
+#quote wqgwz
+
+#p 18836017 skytale 非正常离线,时间不详 2018-11-05 22:08:56
+Fourier变换本来就不是数学分析里应该讲的内容.从数学理论上讲Fourier变换首先必须指出在哪个函数空间上来讨论,以及相关函数空间的性质,而这些都不是数学分析里应该学习的内容.复旦陈纪修的数学分析里讲了一点Fourier变换,然而他是在(也只能在)Riemann反常绝对可积函数的范围里来讲,很多东西都讲得不彻底.
+#quote AdamZack
+
+#p 18836020 skytale 非正常离线,时间不详 2018-11-05 22:09:46
+光学里不涉及Fourier光学嘛?记得大学的时候还做过Fourier透镜实验呢
+#quote zhangxiaoqi
+
+#p 18836060 willis willis 2018-11-05 22:24:02
+我觉得你说的有一定道理，但我也部分怀疑。
+问题就是：专业课老师是否需要对所有专业基础课都掌握的很扎实？
+我之前觉得不需要，（如果和这门专业课无关，和该老师的研究方向无关），直到看见你这个“给学生做榜样”这个说法。。。
+#quote peiyangium
+
+#p 18836077 willis willis 2018-11-05 22:33:51
+有一个段子，在每一个大学（当然不是28楼31楼说的那种大学...）的基础数学系，任意两名教授互相不懂对方的研究内容。。。
+至于你最后讲的这个段子，如果类似情景发生在数院的高年级专业课，通常同学们的反应是“哈哈哈我也不懂”，会使课堂充满欢乐的气息
+#quote skytale
+
+#p 18836079 Parallel Para 2018-11-05 22:34:54
+那贵校没有“数学素养”的不是一抓一大把了
+#quote PhyAndMath
+
+#p 18836080 skytale 非正常离线,时间不详 2018-11-05 22:44:58
+
+
+2018-11-05 22:36:02
+这很正常,因为没必要引入两位同一研究方向的教授,一来避免重复,二来避免不必要的竞争
+以及我说的可不是段子,是我自己的亲身经历,以及是在物理系
+31楼我所说的**圣人可不就是本校哲学系的博士么!!而且是某大师的学生
+#quote willis
+
+#p 18836088 willis willis 2018-11-05 22:38:58
+总之我们都认为一个教授不懂某一专业知识（如果和他没有关系）很正常
+#quote skytale
+
+#p 18836097 dcbush 米开朗基罗 2018-11-05 22:44:58
+大一高数考试不考啊😄
+#quote peiyangium
 
