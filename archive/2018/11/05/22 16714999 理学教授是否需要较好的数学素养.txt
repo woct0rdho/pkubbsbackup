@@ -1,4 +1,4 @@
-#t 22 16714999 PhyAndMath 2018-11-05 00:10:00 CoreM 2018-11-05 20:31:00
+#t 22 16714999 PhyAndMath 2018-11-05 00:10:00 skytale 2018-11-05 21:59:00
 理学教授是否需要较好的数学素养
 
 #p 18833799 PhyAndMath 我希望能弄懂我的用户名 2018-11-05 18:42:23
@@ -156,4 +156,33 @@ Z变换不就是从傅立叶变换抽象来的吗？相当于傅立叶变换加�
 信科微电子电子里面也有挺多搞器件，搞材料的，也用不到这东西。
 综上……信科我觉得能有10%的老师知道有这东西，怎么用这东西，就算多的了。
 #quote peiyangium
+
+#p 18835864 peiyangium 生建办主任助理|柯带宜居办主任|副团级 2018-11-05 21:07:30
+你们信科不算基础学科咯……
+开个玩笑，文化素养是大家都要懂的。傅立叶变换必然是大一高数的内容啊，这都不懂就很说不过去了。你教师不光要做研究，你还应该行为世范、学为人师。结果学生一看，老师的高数都不大懂，学生自己哪还有动力去夯实基础。
+然而你们z变换、laplace变换，我要是没学过电工学估计都不会听说过。没学过电工学的基础学科老师大有人在，没学过高数的就比较罕见了吧。
+#quote CoreM
+
+#p 18835890 yuntao 蒟蒻MagicPoi 2018-11-05 21:23:42
+猜老板不懂傅里叶变换+1
+#quote PhyAndMath
+
+#p 18835891 AdamZack 小神经 2018-11-05 21:24:14
+如果没记错的话，贵系大一学的数学分析并没有包括傅里叶变换，第一次学傅里叶变换是在一门叫”生物医学信号处理”的课上，而且也是偏向应用，不是很基础..
+#quote peiyangium
+
+#p 18835901 Yhzj YH 2018-11-05 21:26:25
+还有某211生物教授自己重新发明了对数的换底公式，还洋洋洒洒发了篇文章的。你拿高数去要求他们是不是要求太高了。
+#quote PhyAndMath
+
+#p 18835935 peiyangium 生建办主任助理|柯带宜居办主任|副团级 2018-11-05 21:37:59
+贵系怎么这么菜……然而贵系并不是基础学科来着。
+#quote AdamZack
+
+#p 18835995 skytale 非正常离线,时间不详 2018-11-05 21:58:41
+
+
+2018-11-05 21:58:22
+<img src="https://bbs.pku.edu.cn/latexrender/pictures/b17e2dfa72716f435c53b557939ee8d1.png"/>变换的求逆是一个比较复杂的理论问题.如果是在<img src="https://bbs.pku.edu.cn/latexrender/pictures/08d547ad7d27aa2c405d86e3118a7747.png"/>空间或者<img src="https://bbs.pku.edu.cn/latexrender/pictures/3043cf680b69515945ec0218f5eb9a00.png"/>上,那还比较简单;但是如果在<img src="https://bbs.pku.edu.cn/latexrender/pictures/bf2b00b0ada39b2023c79fc4d2333a2d.png"/>上讨论<img src="https://bbs.pku.edu.cn/latexrender/pictures/b17e2dfa72716f435c53b557939ee8d1.png"/>变换的逆变换,那就复杂多了.比如问及什么样的<img src="https://bbs.pku.edu.cn/latexrender/pictures/1922b8e22bae729ffa04ea46d29ac5b8.png"/>函数的<img src="https://bbs.pku.edu.cn/latexrender/pictures/b17e2dfa72716f435c53b557939ee8d1.png"/>变换可逆,我想即使数院学过相关课程的人也未必能很好地回答出来.所以你提到的这位教授不了解这个,很正常.
+#quote PhyAndMath
 
