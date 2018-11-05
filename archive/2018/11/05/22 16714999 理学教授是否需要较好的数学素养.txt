@@ -1,4 +1,4 @@
-#t 22 16714999 PhyAndMath 2018-11-05 00:10:00 jiamingpku 2018-11-05 13:45:00
+#t 22 16714999 PhyAndMath 2018-11-05 00:10:00 confidential 2018-11-05 14:52:00
 理学教授是否需要较好的数学素养
 
 #p 18833799 PhyAndMath 我希望能弄懂我的用户名 2018-11-05 10:30:12
@@ -37,5 +37,23 @@
 
 #p 18834477 jiamingpku jiamingpku 2018-11-05 13:44:42
 说不准找一道小学奥数还能难住好多人。。。
+#quote PhyAndMath
+
+#p 18834559 sdqdbxj Jr 2018-11-05 14:01:58
+老板花五六十万买了台FT-IR，还开了FT-IR的课，但我保证他不懂什么是FT
+#quote PhyAndMath
+
+#p 18834744 confidential lsh 2018-11-05 14:51:47
+#DELETED
+很正常啊，理学很多方向不怎么需要用到傅立叶变换，教授自嘲一下也别当真。
+#quote PhyAndMath
+
+#p 18834745 confidential lsh 2018-11-05 14:51:48
+很正常啊，理学很多方向不怎么需要用到傅立叶变换，教授自嘲一下也别当真。
+#quote PhyAndMath
+
+#p 18834746 confidential lsh 2018-11-05 14:51:49
+#DELETED
+很正常啊，理学很多方向不怎么需要用到傅立叶变换，教授自嘲一下也别当真。
 #quote PhyAndMath
 
