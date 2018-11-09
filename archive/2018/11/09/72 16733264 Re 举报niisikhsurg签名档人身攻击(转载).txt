@@ -1,4 +1,4 @@
-#t 72 16733264 survivor 2018-11-09 07:20:00 survivor 2018-11-09 07:20:00
+#t 72 16733264 survivor 2018-11-09 00:07:00 Ryn 2018-11-09 08:42:00
 Re 举报niisikhsurg签名档人身攻击(转载)
 
 #p 18903227 survivor TEETOTALER|每天都是一种练习 2018-11-09 07:19:58
@@ -11,4 +11,19 @@ Re 举报niisikhsurg签名档人身攻击(转载)
  ，由此<img src="https://bbs.pku.edu.cn/latexrender/pictures/32c55adb531ea40fbcbba72bcf713eca.png"/>
 站务可考察该用户是否落在Z值分布的%5极大区间内，考虑对其进行惩罚。
 #quote niisikhsurg
+
+#p 18904054 Ryn 大酸葡萄 2018-11-09 08:38:27
+[原文由 Leihaoran 发表在 sysop 版 &gt;&gt;&gt;](post-read.php?bid=1&amp;threadid=16733264)
+我最近在做generalized linear model学习，准备用来解决一些实际问题。
+现在我们定义：<img src="https://bbs.pku.edu.cn/latexrender/pictures/0c7796ab10c1fb796cef06b452c03785.png"/>
+其中，<img src="https://bbs.pku.edu.cn/latexrender/pictures/5b51bd2e6f329245d425b8002d7cf942.png"/>为Z变量，<img src="https://bbs.pku.edu.cn/latexrender/pictures/4f4f4e395762a3af4575de74c019ebb5.png"/>为用户发帖数，<img src="https://bbs.pku.edu.cn/latexrender/pictures/e257acd1ccbe7fcb654708f1a866bfe9.png"/>为用户上站次数，<img src="https://bbs.pku.edu.cn/latexrender/pictures/190083ef7a1625fbc75f243cffb9c96d.png"/>为用户被封次数。Z变量越高，代表用户对站规无视程度越高；反之越低。我们可以考察单个用户或群体用户的Z变量。上述Z值的计算公式只是一个提议，可以根据实际情况进行修正。
+站务组可以计算全站每个用户分别的Z值，得到一个归一化的Z值概率密度分布。计算该概率密度分布的单边95%置信区间，将落在余下的5%的用户列为高危用户（这些用户的Z值显著高于其他用户，可以相信，其中某些用户已经被永久封禁）。
+例如，截至此时，某用户<img src="https://bbs.pku.edu.cn/latexrender/pictures/0e8dc8204ffa9ca9e90941d875ec7f09.png"/>
+ ，由此<img src="https://bbs.pku.edu.cn/latexrender/pictures/32c55adb531ea40fbcbba72bcf713eca.png"/>
+站务可考察该用户是否落在Z值分布的%5极大区间内，考虑对其进行惩罚。
+#quote niisikhsurg
+
+#p 18904197 Ryn 大酸葡萄 2018-11-09 08:41:55
+还是撒大师手快！
+#quote survivor
 
