@@ -1,0 +1,35 @@
+#t 22 16769773 MetatronCube 2018-11-11 14:43:00 MetatronCube 2018-11-11 14:43:00
+【公益】本人提供ETH上链服务
+
+#p 18954117 MetatronCube 神蚀 2018-11-11 14:42:59
+<font color="#000000">从今天11月11日开始，如果需要在区块链上永久保存文字信息（如表白等），全网可见并铭刻在人类的历史上，可以站内私信我或者添加微信odpower。我将给你对应的hash值，</font><font color="#c00000">你可以自己留存或者通过hash将信息分享给别人</font><font color="#000000">。全世界任何一个人都可以通过这个hash值通过以太坊网络获取这个信息。（因此，你需要对这个信息在</font><font color="#c00000">**未来**</font><font color="#000000">给你带来的影响负责）</font>
+<font color="#000000">原则上只服务于北京大学师生以及校友，并且少于2000个汉字是完全免费的，如果字数超过2000且我花销的手续费超过2元，那么希望你支付超过2元的部分。</font>
+<font color="#000000">1.以太坊是什么？</font>
+<font color="#000000">以太坊（Ethereum）是一个开源的有智能合约功能的公共区块链平台。以太币市值超过200亿美元，是仅次于比特币的加密货币。以太坊上的一切计算（转账、合约运行）都消耗Gas并换算成以太币结算支付给矿工，相当于手续费。</font>
+<font color="#000000">很多人都知道，今年4月份发生了一个著名的转账，附加了一段有关同学的信息，让以太坊进入了我们的视野……</font>
+<font color="#000000">（前两天，某中学校长购置ETH矿机，私自用学校电教的电力挖矿，学校电费蹭蹭涨，上了微博热搜前五）</font>
+<font color="#000000">2.信息能否删除或者修改？</font>
+<font color="#c00000">**不能**</font><font color="#000000">，这个信息会被每一个账本记录。已确认的区块信息是整个ETH区块链的一部分，并存储于全世界无数个ETH完全节点上，是无法更改的，任何篡改的账本是无法通过哈希验证的。（理论上说，在该笔交易产生的同时，控制大量矿机发起”51%算力攻击”，可以及时抹除这笔交易，但并不现实）</font>
+<font color="#000000"> 3.信息能否被屏蔽？</font>
+<font color="#c00000">**不可能**</font>
+<font color="#000000">首先，现在有很多很多“区块链浏览器网站” ，很难全部屏蔽，都可以输入hash值来查询相同的信息。</font>
+<font color="#000000">其次，虽然“区块链浏览器网站”大多是有服务器的，但以太坊是去中心化的，因此终究可以通过专业的客户端geth通过命令行连接国内任何一个ETH节点，并获取信息。</font>
+<font color="#000000">这两个网站，每一笔交易的附加信息都可以通过下方的选项把默认的16进制转换为汉字编码：</font>
+<font color="#000000">[https://etherscan.io/](jump-to.php?url=https%3A%2F%2Fetherscan.io%2F)</font>
+<font color="#000000">[https://www.yitaifang.com/](jump-to.php?url=https%3A%2F%2Fwww.yitaifang.com%2F)</font>
+<font color="#000000">比如前些天的</font><font color="#000000">**纪念金庸**</font><font color="#000000">（下方点击：【转换ASCII】）：</font>
+<font color="#000000">[https://www.yitaifang.com/txs/0x384baf9262e6c41457df18ad5e2dc192f20ade54e4a67e190278334070c18279](jump-to.php?url=https%3A%2F%2Fwww.yitaifang.com%2Ftxs%2F0x384baf9262e6c41457df18ad5e2dc192f20ade54e4a67e190278334070c18279)</font>
+<font color="#000000">该网址后面一部分0x…279就是hash值。（看这位"发送方"&amp;"接收方"的交易记录，他似乎每天都在链上写一些东西）</font>
+<font color="#000000">此外还有一些，需要手动进行16进制与编码转换：</font>
+<font color="#000000">[https://www.etherchain.org/](jump-to.php?url=https%3A%2F%2Fwww.etherchain.org%2F)</font>
+<font color="#000000">[https://tradeblock.com/ethereum/](jump-to.php?url=https%3A%2F%2Ftradeblock.com%2Fethereum%2F)</font>
+<font color="#000000"> 4.可以自己上链吗？</font>
+<font color="#000000">可以，但稍微有点麻烦：你需要在交易平台注册、填写信息，并购买加密货币，然后支付额外的手续费提币到个人数字钱包，必须选择一个有附加信息功能的数字钱包，或者直接安装geth用命令行……然后通过可靠的进制转换，把信息以16进制写到转账的附加信息里面……</font>
+<font color="#000000"> 5.还有其他的区块链吗？</font>
+<font color="#000000">很多，还有更合适的，更加通用，更加丰富的永久信息存储方法。我们还要多学习一个。</font>
+<font color="#000000">但有一点要注意，只有节点数规模足够庞大的区块链才能保证永久性。现存的大多数区块链项目都是骗局，个人认为大多都会归零，被历史所遗忘。</font>
+<font color="#000000"> 6.发这个帖子跟今天日期11.11有关系吗？</font>
+<font color="#000000">无可奉告，我只能说我永远免疫狗粮</font>
+<font color="#000000"> 7.除了表白之类的，还适合存储什么数据？</font>
+<font color="#000000">只要是文字都可以，具体怎么用大家，我只能说无可奉告。</font>
+
