@@ -1,4 +1,4 @@
-#t 22 16774868 watem 2018-11-13 00:18:00 himitsu 2018-11-13 21:58:00
+#t 22 16774868 watem 2018-11-13 00:18:00 fsyfyflying 2018-11-13 22:48:00
   
 
 #p 18969022 watem  2018-11-13 18:52:38
@@ -16,5 +16,9 @@
 
 #p 18969725 himitsu HelloKodoku 2018-11-13 21:57:33
 好支威希
+#quote watem
+
+#p 18969913 fsyfyflying Frankego 2018-11-13 22:47:33
+勿深究？
 #quote watem
 
