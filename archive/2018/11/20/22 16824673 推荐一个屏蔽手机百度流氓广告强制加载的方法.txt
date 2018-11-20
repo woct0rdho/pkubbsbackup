@@ -1,0 +1,38 @@
+#t 22 16824673 guanglin 2018-11-20 10:21:00 guanglin 2018-11-20 10:43:00
+推荐一个屏蔽手机百度流氓广告强制加载的方法
+
+#p 19079025 guanglin 广林 2018-11-20 10:22:40
+
+
+2018-11-20 10:20:31
+见图
+
+#p 19079040 CoreM Coffee Lake 咖啡湖 2018-11-20 10:22:48
+我也推荐一个：
+用谷歌，给谷歌交广告费
+#quote guanglin
+
+#p 19079051 guanglin 广林 2018-11-20 10:26:34
+
+
+2018-11-20 10:24:21
+只要不加载js，所有动态广告全部无法加载。
+防动态图片视频利器。
+不过校内认证系统和bbs账号也没法登陆。我再试试能不能专门针对百度屏蔽js。
+#quote CoreM
+
+#p 19079065 guanglin 广林 2018-11-20 10:30:12
+#DELETED
+目前手机专门下了北大未名和北京大学，单独网站用app看。
+现在百度为了强制插入广告无所不用其极。以前隐私设置，包括www.baidu.com/index.com?可以屏蔽，现在都被不能生效。
+#quote guanglin
+
+#p 19079122 guanglin 广林 2018-11-20 10:43:01
+
+
+2018-11-20 10:42:16
+安卓chrome可以只针对百度网站屏蔽javascript
+[https://jingyan.baidu.com/article/03b2f78c3abcf75ea237ae89.html](jump-to.php?url=https%3A%2F%2Fjingyan.baidu.com%2Farticle%2F03b2f78c3abcf75ea237ae89.html)
+流氓百度广告，人人得而诛之！
+#quote guanglin
+
