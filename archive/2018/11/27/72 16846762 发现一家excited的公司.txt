@@ -1,4 +1,4 @@
-#t 72 16846762 jiamingpku 2018-11-27 00:23:00 heehee 2018-11-28 11:46:00
+#t 72 16846762 jiamingpku 2018-11-27 00:23:00 out 2018-11-28 13:26:00
 发现一家excited的公司
 
 #p 19134657 jiamingpku jiamingpku 2018-11-27 23:16:09
@@ -48,5 +48,9 @@ xswl
 
 #p 19135861 heehee wow 2018-11-28 11:45:01
 登记状态：存续
+#quote jiamingpku
+
+#p 19136205 out Nginx 2018-11-28 13:25:00
+我的pku邮箱收到过图森未来的招聘广告
 #quote jiamingpku
 
