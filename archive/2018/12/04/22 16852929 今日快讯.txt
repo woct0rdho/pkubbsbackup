@@ -1,4 +1,4 @@
-#t 22 16852929 annunciation 2018-12-04 00:21:00 yegucheng 2018-12-04 22:18:00
+#t 22 16852929 annunciation 2018-12-04 00:21:00 annunciation 2018-12-04 23:29:00
 今日快讯
 
 #p 19158990 annunciation protocol machine 2018-12-04 21:03:19
@@ -57,4 +57,13 @@
 
 #p 19159230 yegucheng 叶孤城 2018-12-04 22:17:47
 #quote annunciation
+
+#p 19159535 Vulcan 磨刀霍霍上北大 2018-12-04 23:23:51
+呃……不好意思我插个嘴……
+文集咋看啊？不知道该咋操作 = =
+#quote annunciation
+
+#p 19159567 annunciation protocol machine 2018-12-04 23:28:15
+点头像，然后点“个人文集”旁边的链接。
+#quote Vulcan
 
