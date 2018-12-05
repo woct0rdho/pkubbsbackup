@@ -1,0 +1,17 @@
+#t 22 16765787 annunciation 2018-11-11 09:08:00 annunciation 2018-12-05 11:14:00
+测试站人好少
+
+#p 18945267 annunciation protocol machine 2018-12-05 11:11:10
+
+
+2018-11-11 09:08:31
+www: [http://bx.bdwm.net/v2/home.php](jump-to.php?url=http%3A%2F%2Fbx.bdwm.net%2Fv2%2Fhome.php)
+term/ssh: ssh username@bdwm.net -p 4022
+用户名、密码都跟本站相同。貌似上站四次之后才能完全畅通无阻的发帖？
+
+#p 19161031 annunciation protocol machine 2018-12-05 11:13:44
+[原文由 annunciation 发表在 Triangle 版 &gt;&gt;&gt;](post-read.php?bid=22&amp;threadid=16765787)
+www: [http://bx.bdwm.net/v2/home.php](jump-to.php?url=http%3A%2F%2Fbx.bdwm.net%2Fv2%2Fhome.php)
+term/ssh: ssh username@bdwm.net -p 4022
+用户名、密码都跟本站相同。貌似上站四次之后才能完全畅通无阻的发帖？
+

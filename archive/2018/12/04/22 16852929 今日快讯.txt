@@ -1,4 +1,4 @@
-#t 22 16852929 annunciation 2018-12-04 00:21:00 annunciation 2018-12-04 23:29:00
+#t 22 16852929 annunciation 2018-12-04 00:21:00 Vulcan 2018-12-05 11:02:00
 今日快讯
 
 #p 19158990 annunciation protocol machine 2018-12-04 21:03:19
@@ -66,4 +66,9 @@
 #p 19159567 annunciation protocol machine 2018-12-04 23:28:15
 点头像，然后点“个人文集”旁边的链接。
 #quote Vulcan
+
+#p 19160965 Vulcan 磨刀霍霍上北大 2018-12-05 11:01:31
+啊，用手机找到了……
+电脑网页版上没找到
+#quote annunciation
 
