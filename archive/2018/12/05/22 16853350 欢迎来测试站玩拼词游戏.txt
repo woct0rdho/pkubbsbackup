@@ -1,0 +1,31 @@
+#t 22 16853350 annunciation 2018-12-05 10:08:00 annunciation 2018-12-05 10:09:00
+欢迎来测试站玩拼词游戏
+
+#p 19160652 annunciation protocol machine 2018-12-05 10:07:18
+-----===== 本日十大热门话题 =====-----
+第  1 名 信区 : Triangel            【Dec.05 08:03:45】       annunciation
+     标题 :        签              热                                     
+第  2 名 信区 : SecretGarden        【Dec.05 08:11:52】       annunciation
+     标题 :        署              烈                                     
+第  3 名 信区 : loveheart           【Dec.05 08:05:50】       annunciation
+     标题 :        十              祝                                     
+第  4 名 信区 : CAPU                【Dec.05 09:04:43】       annunciation
+     标题 :        七              庆                                     
+第  5 名 信区 : Skate               【Dec.05 08:07:15】       annunciation
+     标题 :                        言                                     
+第  6 名 信区 : Graduation          【Dec.05 08:06:38】       annunciation
+     标题 :                        人                                     
+第  7 名 信区 : Single              【Dec.05 08:06:08】       annunciation
+     标题 :        周              世                                     
+第  8 名 信区 : ClassicalMusic      【Dec.05 08:07:02】       annunciation
+     标题 :                        宣                                     
+第  9 名 信区 : GuangDong           【Dec.05 08:06:49】       annunciation
+     标题 :                        权                                     
+第 10 名 信区 : Love                【Dec.05 08:06:25】       annunciation
+     标题 :        年              界
+
+#p 19160660 annunciation protocol machine 2018-12-05 10:08:26
+www: [http://bx.bdwm.net/v2/home.php](jump-to.php?url=http%3A%2F%2Fbx.bdwm.net%2Fv2%2Fhome.php)
+term/ssh: ssh bdwm.net -p 4022
+#quote annunciation
+
