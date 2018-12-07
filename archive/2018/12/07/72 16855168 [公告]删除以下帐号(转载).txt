@@ -1,4 +1,4 @@
-#t 72 16855168 davidatpku 2018-12-07 06:12:00 davidatpku 2018-12-07 06:14:00
+#t 72 16855168 davidatpku 2018-12-07 00:06:00 Tison 2018-12-07 12:33:00
 [公告]删除以下帐号(转载)
 
 #p 19168723 davidatpku 我不是版务 2018-12-07 06:11:29
@@ -48,7 +48,62 @@
 30173 deliver      Dec  2 peiyangium 封禁 zwsage 在 Arbitration 的发文权力
 61343 deliver      Dec  2 satanxxs 封禁 zwsage 在 SecretGarden 的发文权力
 
-#p 19168724 davidatpku 我不是版务 2018-12-07 06:13:26
+#p 19168724 davidatpku 我不是版务 2018-12-07 06:24:00
+
+
+2018-12-07 06:13:26
 完了完了。triple kill！
+快来人啊，大屠杀了。
+#quote davidatpku
+
+#p 19169655 Tison tison 2018-12-07 12:32:18
+[原文由 rgds 发表在 sysop 版 &gt;&gt;&gt;](post-read.php?bid=1&amp;threadid=16855168)
+[原文由 SYSOP 发表在 Announce 版 &gt;&gt;&gt;](post-read.php?bid=29&amp;threadid=16855168)
+　　删除以下帐号：ziweisage ziweisager zwsage
+　　删除理由：短时间内在多版面多次被封禁。
+　　自公告发布之时起，封禁该帐号全站发文权限，并给予用户一天时间整理、备份信息，一天之后删除帐号。
+　　　　　　　　　　　　　　　　　　　　北大未名BBS 站务委员会
+　　　　　　　　　　　　　　　　　　　　2018年12月07日
+　　附：相关规定
+北大未名BBS站 帐号管理办法（1）
+ 八、   为保障本站其他合法用户的权利，本站用户无论发表文章（包括版面，
+        精华区，文集等）、聊天室聊天、底部流动信息、投票留言、自杀留言、
+        呼叫使用者聊天、发消息、发信、离站留言以及在自己的昵称、说明档、
+        签名档中，均不能对他人进行人身攻击、包含侮辱性言辞或含有引起多
+        数用户反感的内容。如果违犯上述情形，一经发现，给予警告至相应的
+        权限封禁的处罚；情况严重者经站务委员会通过，给予删除帐号的处罚。
+ 十五、 对于明知故犯、无视版务和站务警告或处罚再三违反站规和其他管理规
+        定(如短时间内在多个版面被同时封禁)，经过站务委员会讨论根据其具
+        体情况可以给予封禁部分权限直至删除帐号的处罚。
+　　ziweisager 封禁记录
+36491 deliver      Nov 13 LJX 封禁 ziweisager 在 sysop 的发文权力
+37346 deliver      Nov 14 Javier 封禁 ziweisager 在 Joke 的发文权力
+29968 deliver      Nov 15 cherryyyyy 封禁 ziweisager 在 Arbitration 的发文权力
+29111 deliver      Nov 30 nite 封禁 ziweisager 在 Counterculture 的发文权力
+53091 deliver      Nov 15 mayyao 封禁 ziweisager 在 SecretGarden 的发文权力
+14600 deliver      Nov 13 sliorveen 封禁 ziweisager 在 Admin1 的发文权力
+62874 deliver      Dec  5 mayyao 封禁 ziweisager 在 SecretGarden 的发文权力
+　　ziweisage 封禁记录
+36165 deliver      Oct  7 mayyao 封禁 ziweisage 在 sysop 的发文权力
+35863 deliver      Oct  7 satanxxs 封禁 ziweisage 在 Joke 的发文权力
+48092 deliver      Oct 30 entropy 封禁 ziweisage 在 Comic 的发文权力
+22445 deliver      Sep 29 monsterswalk 封禁 ziweisage 在 HSC 的发文权力
+29673 deliver      Oct  7 cherryyyyy 封禁 ziweisage 在 Arbitration 的发文权力
+29861 deliver      Oct 14 cherryyyyy 封禁 ziweisage 在 Arbitration 的发文权力
+28232 deliver      Nov  8 Javier 封禁 ziweisage 在 Counterculture 的发文权力
+31091 deliver      Oct  7 mayyao 封禁 ziweisage 在 SecretGarden 的发文权力
+40351 deliver      Oct 24 satanxxs 封禁 ziweisage 在 SecretGarden 的发文权力
+48791 deliver      Nov  7 mayyao 封禁 ziweisage 在 SecretGarden 的发文权力
+50797 deliver      Nov 11 mayyao 封禁 ziweisage 在 SecretGarden 的发文权力
+30154 deliver      Nov 10 hanxv 封禁 ziweisage 在 MentalityEdu 的发文权力
+84661 deliver      Nov 12 naiiive 封禁 ziweisage 在 CanteenDorm 的发文权力
+38230 deliver      Dec  4 satanxxs 封禁 ziweisage 在 Joke 的发文权力
+　　zwsage 封禁记录
+36750 deliver      Nov 23 mayyao 封禁 zwsage 在 sysop 的发文权力
+30173 deliver      Dec  2 peiyangium 封禁 zwsage 在 Arbitration 的发文权力
+61343 deliver      Dec  2 satanxxs 封禁 zwsage 在 SecretGarden 的发文权力
+
+#p 19169657 Tison tison 2018-12-07 12:32:52
+打扰了我慢了2333
 #quote davidatpku
 
