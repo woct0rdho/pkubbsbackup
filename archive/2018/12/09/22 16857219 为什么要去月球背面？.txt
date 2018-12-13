@@ -1,4 +1,4 @@
-#t 22 16857219 AdamZack 2018-12-09 16:42:00 fangzhangmnm 2018-12-13 18:26:00
+#t 22 16857219 AdamZack 2018-12-09 16:42:00 LexDarkblade 2018-12-13 19:09:00
 为什么要去月球背面？
 
 #p 19177030 AdamZack 小神经 2018-12-09 16:42:29
@@ -109,5 +109,9 @@
 #p 19223827 fangzhangmnm fangzhangmnm 2018-12-13 18:25:32
 背面信号不好，所以稍微困难点
 小时候看的科普，有可能记错了
+#quote AdamZack
+
+#p 19223998 LexDarkblade Lex 2018-12-13 19:08:50
+月球背面有御天敌的飞船和一大堆潜伏着的霸天虎
 #quote AdamZack
 
