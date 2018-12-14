@@ -1,4 +1,4 @@
-#t 22 16877349 qazxswedcvfr 2018-12-14 00:11:00 xiongyujia 2018-12-14 12:59:00
+#t 22 16877349 qazxswedcvfr 2018-12-14 00:11:00 paoshuren 2018-12-14 13:26:00
 求给老人科普下什么是树洞？
 
 #p 19226782 qazxswedcvfr 考不斯 2018-12-14 11:02:16
@@ -35,5 +35,11 @@ pkuhelper
 
 #p 19227319 xiongyujia 小彳亍而行 2018-12-14 12:59:11
 就是可以匿名发帖吧，求问pku helper在哪下啊
+#quote qazxswedcvfr
+
+#p 19227479 paoshuren 抛书人 2018-12-14 13:25:32
+树洞可以理解为一个匿名的发言平台；P大树洞就是P大的一个匿名发帖和回复的平台。
+树洞的入口在一个叫PKU Helper的软件里，苹果和安卓都可以用
+不过安卓手机商店里好像下不到，需要自己去找安装包；苹果手机好像可以直接在apple store里下载~
 #quote qazxswedcvfr
 
