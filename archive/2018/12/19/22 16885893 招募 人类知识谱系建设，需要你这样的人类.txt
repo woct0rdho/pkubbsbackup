@@ -1,4 +1,4 @@
-#t 22 16885893 sigmam 2018-12-19 20:59:00 jiamingpku 2018-12-19 21:47:00
+#t 22 16885893 sigmam 2018-12-19 00:20:00 sigmam 2018-12-19 00:20:00
 招募 人类知识谱系建设，需要你这样的人类
 
 #p 19251890 sigmam sigmam 2018-12-19 20:59:02
@@ -44,6 +44,7 @@
 <font color="#000000">2.   扫码报名</font>
 
 #p 19252068 jiamingpku jiamingpku 2018-12-19 21:46:39
+#DELETED
 @naiiive @Liviee 
 #quote sigmam
 
