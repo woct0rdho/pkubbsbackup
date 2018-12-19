@@ -1,4 +1,4 @@
-#t 22 16885893 sigmam 2018-12-19 20:59:00 sigmam 2018-12-19 20:59:00
+#t 22 16885893 sigmam 2018-12-19 20:59:00 jiamingpku 2018-12-19 21:47:00
 招募 人类知识谱系建设，需要你这样的人类
 
 #p 19251890 sigmam sigmam 2018-12-19 20:59:02
@@ -42,4 +42,8 @@
 <font color="#000000">报名方式：</font>
 <font color="#000000">1.   关注微信公众号：socialwiki，回复“共建”</font>
 <font color="#000000">2.   扫码报名</font>
+
+#p 19252068 jiamingpku jiamingpku 2018-12-19 21:46:39
+@naiiive @Liviee 
+#quote sigmam
 
