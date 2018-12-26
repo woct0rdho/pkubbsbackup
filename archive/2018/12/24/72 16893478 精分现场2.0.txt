@@ -1,4 +1,4 @@
-#t 72 16893478 under 2018-12-24 00:21:00 Hyperbolic 2018-12-26 01:19:00
+#t 72 16893478 under 2018-12-24 00:21:00 dyatpk 2018-12-26 08:57:00
 精分现场2.0
 
 #p 19272987 under stand 2018-12-25 02:19:05
@@ -941,4 +941,10 @@ mh会员于同一时段集中出现
 [https://bbs.pku.edu.cn/v2/post-read.php?bid=22&amp;threadid=16895088](post-read.php?bid=22&amp;threadid=16895088)
 [https://bbs.pku.edu.cn/v2/collection-read.php?path=groups%2FGROUP_0%2FPersonalCorpus%2FH%2FHyperbolic%2FD7D516FAC%2FA6F40C7C9](collection-read.php?path=groups%2FGROUP_0%2FPersonalCorpus%2FH%2FHyperbolic%2FD7D516FAC%2FA6F40C7C9)
 #quote Hyperbolic
+
+#p 19278923 dyatpk （PiGmaN） 2018-12-26 08:57:02
+我认错人了
+我道歉
+可能是你发的那个文章那个地方很像是mh该反驳的位置，所以就直接认成马会的人在辩解了。
+#quote huixue
 
