@@ -1,4 +1,4 @@
-#t 22 16898517 lixiangzhong 2018-12-28 00:02:00 out 2018-12-28 00:40:00
+#t 22 16898517 lixiangzhong 2018-12-28 00:00:00 hankyang 2018-12-28 01:39:00
 欢迎加入驯鹿协会
 
 #p 19333192 lixiangzhong lixiangzhong 2018-12-28 00:01:55
@@ -32,5 +32,9 @@
 
 #p 19333395 out Nginx 2018-12-28 00:39:45
 《一人之下》里这样的说法挺多的。。。
+#quote WallaceBbee
+
+#p 19333562 hankyang 青研公关 2018-12-28 01:38:38
+哪里有“人”
 #quote WallaceBbee
 
