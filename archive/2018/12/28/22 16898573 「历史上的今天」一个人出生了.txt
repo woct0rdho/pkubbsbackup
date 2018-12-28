@@ -1,4 +1,4 @@
-#t 22 16898573 himitsu 2018-12-28 00:00:00 yegucheng 2018-12-28 11:41:00
+#t 22 16898573 himitsu 2018-12-28 00:00:00 sxpeter 2018-12-28 00:10:00
 「历史上的今天」一个人出生了
 
 #p 19333454 himitsu 神必人 2018-12-28 00:52:21
@@ -59,6 +59,12 @@ lxb
 #quote himitsu
 
 #p 19334764 yegucheng 叶孤城 2018-12-28 11:40:37
+#DELETED
 Nobel Peace Prize
+#quote silicona
+
+#p 19334949 himitsu 神必人 2018-12-28 12:34:25
+#DELETED
+平成22年度ノーベル平和賞
 #quote silicona
 
