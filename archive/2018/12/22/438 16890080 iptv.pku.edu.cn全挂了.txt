@@ -1,4 +1,4 @@
-#t 438 16890080 redleaves 2018-12-22 00:16:00 PKUCC 2018-12-24 14:28:00
+#t 438 16890080 redleaves 2018-12-22 16:12:00 crazymind 2018-12-29 09:16:00
 iptv.pku.edu.cn全挂了
 
 #p 19263501 redleaves 红叶飘飘 2018-12-22 16:12:34
@@ -6,5 +6,9 @@ iptv.pku.edu.cn全挂了
 
 #p 19271229 PKUCC 北京大学计算中心 2018-12-24 14:27:53
 你好，IPTV设备故障，目前部分频道已恢复。
+#quote redleaves
+
+#p 19338440 crazymind Hope 2018-12-29 09:15:54
+在P大待到第五年了才知道有这网站……
 #quote redleaves
 
