@@ -1,0 +1,9 @@
+#t 22 16901515 bery 2018-12-29 23:53:00 bery 2018-12-29 23:53:00
+今天有一个帖子，不仅不让发，而且还不让说它不让发
+
+#p 19341832 bery 你的投降，要出于你的自由意志。 2018-12-29 23:52:17
+如果还有人不知道底下这个链接的话，这里给大家科普一下
+[https://github.com/martinwu42/pkubbsbackup/tree/master/archive/2018/12](jump-to.php?url=https%3A%2F%2Fgithub.com%2Fmartinwu42%2Fpkubbsbackup%2Ftree%2Fmaster%2Farchive%2F2018%2F12)
+这是bbs在github上的实时备份，可以查到被删的帖子的内容。
+为了防止这个帖子本身也被删，我不能指明被删的那个帖子的具体位置，大家直接按时间找到最新的那个帖子就是了。
+

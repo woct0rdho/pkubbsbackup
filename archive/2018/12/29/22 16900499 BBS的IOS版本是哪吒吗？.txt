@@ -1,4 +1,4 @@
-#t 22 16900499 BSHS 2018-12-29 00:11:00 jiamingpku 2018-12-29 21:59:00
+#t 22 16900499 BSHS 2018-12-29 00:11:00 jiamingpku 2018-12-29 23:03:00
 BBS的IOS版本是哪吒吗？
 
 #p 19338929 BSHS baishuiheishan 2018-12-29 11:36:50
@@ -37,5 +37,13 @@ BBS的IOS版本是哪吒吗？
 #p 19341342 jiamingpku jiamingpku 2018-12-29 21:58:07
 666
 给技术大佬跪了
+#quote INTZC
+
+#p 19341604 INTZC 渣渣 2018-12-29 23:01:51
+你说的我突然好想把上传图片的bug给修了
+#quote jiamingpku
+
+#p 19341605 jiamingpku jiamingpku 2018-12-29 23:02:12
+资瓷
 #quote INTZC
 
