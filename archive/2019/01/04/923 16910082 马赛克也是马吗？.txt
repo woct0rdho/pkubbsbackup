@@ -1,4 +1,4 @@
-#t 923 16910082 lixiangzhong 2019-01-04 00:15:00 juruo 2019-01-04 17:27:00
+#t 923 16910082 lixiangzhong 2019-01-04 00:15:00 liuxilai 2019-01-05 01:50:00
 马赛克也是马吗？
 
 #p 19416397 lixiangzhong lixiangzhong 2019-01-04 15:24:55
@@ -26,5 +26,9 @@ rt
 
 #p 19417017 juruo 蒟蒻MagicPoi 2019-01-04 17:26:31
 马赛克不是马，是赛克
+#quote lixiangzhong
+
+#p 19418768 liuxilai Lewsley 2019-01-05 01:49:27
+不是，马赛克，Mosaic的翻译，是世界上第一个开发的带有图形界面的Web浏览器。
 #quote lixiangzhong
 
