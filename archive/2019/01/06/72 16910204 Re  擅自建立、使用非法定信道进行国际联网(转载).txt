@@ -1,0 +1,18 @@
+#t 72 16910204 survivor 2019-01-06 05:06:00 survivor 2019-01-06 05:07:00
+Re  擅自建立、使用非法定信道进行国际联网(转载)
+
+#p 19431490 survivor TEETOTALER|每天都是一种练习 2019-01-06 05:05:54
+[原文由 Elon 发表在 Networking 版 &gt;&gt;&gt;](post-read.php?bid=35&amp;threadid=16910204)
+看来以后只能雇人在美国微信语音给我念html了
+#quote ljtonly
+
+#p 19431492 survivor TEETOTALER|每天都是一种练习 2019-01-06 05:06:37
+[原文由 bery 发表在 Networking 版 &gt;&gt;&gt;](post-read.php?bid=35&amp;threadid=16910204)
+“给我念一下这个html好吗”
+“小于号 html 大于号……”
+“喂，跳过这段，节约点时间。”
+“哦。……小于号 img src 等于 http://……”
+“打开这个图片”
+“好的。图片长1024px，高768px，0xFFFFFF 0xFFFEF5 0xFFF4C6 ……”
+#quote Elon
+
