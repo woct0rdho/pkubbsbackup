@@ -1,4 +1,4 @@
-#t 22 16921933 naiiive 2019-01-12 00:14:00 out 2019-01-13 17:05:00
+#t 22 16921933 naiiive 2019-01-12 00:14:00 Frankleee 2019-01-13 18:55:00
 切身经历告诉你们 敏感内容在微信群撤回是没用的
 
 #p 19462715 naiiive 不忘初心 牢记使命 2019-01-12 14:49:49
@@ -136,4 +136,12 @@ veyh lctm qibuui hv hflz?
 #p 19465951 out Nginx 2019-01-13 17:04:42
 这样emmm
 #quote opteronx
+
+#p 19466190 Altriajiang Altria 2019-01-13 18:47:15
+哪个项目呀？
+#quote Frankleee
+
+#p 19466220 Frankleee 111|EE13 2019-01-13 18:54:52
+有好多，搜 github+微信机器人 就找到了
+#quote Altriajiang
 
