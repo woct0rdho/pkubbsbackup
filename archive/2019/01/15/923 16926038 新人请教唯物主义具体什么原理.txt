@@ -1,4 +1,4 @@
-#t 923 16926038 alesson 2019-01-15 00:11:00 silsl 2019-01-17 19:24:00
+#t 923 16926038 alesson 2019-01-15 00:11:00 hitonls 2019-01-18 00:26:00
 新人请教唯物主义具体什么原理
 
 #p 19479356 alesson 阿勒松 2019-01-15 11:44:09
@@ -206,4 +206,14 @@ then唯物主义认为人类的认知是随着实践不断发展着的，没有�
 其中的错误的成分，通过不断地仔细地观察和修正来完善。
 我们尚未发现的规律也许还有很多，发现了的规律也许还有错误，但事物总是发展的，人类的认识也是如此。
 #quote alesson
+
+#p 19518093 hitonls hitonls 2019-01-18 00:25:52
+我怎么觉得哥本哈根诠释跟主观客观什么的哲学问题完全没有关系
+“观察”“测量”等等都是完全物质性的过程，这和“我不看月亮的时候月亮还在不在”不是一个意思。要观测一个系统必须对其进行扰动，“看”就是用电磁波对一个系统进行探测，量子力学里的“测量”“坍缩”等等完全是物质（电磁波等探测手段）与物质（被探测物）之间的对话，跟“观察者”没什么关系。
+这关联到量子力学本身必须依赖经典力学而建立，不能自身作为一个逻辑完整独立的科学体系。我感觉朗道《量子力学》开篇第一节对这个问题就讲得很清楚：
+It is impossible, however, to formulate the basic concepts of quantum mechanics without using classical mechanics.
+The possibility of a quantitative description of the motion of an electron requires the presence also of objects which obey classical mechanics to a sufficient degree of accuracy. If an electron interacts with such a "classical object", the state of the latter is, generally speaking, altered. The nature and magnitude of this change depend on the state of the electron, and therefore may serve to characterise it quantitatively.
+In this connection the "classical object" is usually called "apparatus", and its interaction with the electron is spoken of as "measurement". However, it must be emphasised that we are here not discussing a process of measurement in which the physicist-observer takes apart. By "measurement", in quantum mechanics, we understand any process of interaction between classical and quantum objects, occurring apart from and independently of any observer.
+所以量子力学里说的“测量”不过就是指一个经典系统（即测量手段）与一个量子系统的相互作用，朗道特别强调这是与“测量者”无关的物质性过程，完全不需要搅进什么认识论的哲学讨论里。我觉得物理学从头到尾都是在物质世界里打转（只能如此也应当如此），根本不会也不能涉及甚至解答任何哲学性问题
+#quote bery
 
