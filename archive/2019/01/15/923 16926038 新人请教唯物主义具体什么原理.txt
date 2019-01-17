@@ -1,4 +1,4 @@
-#t 923 16926038 alesson 2019-01-15 00:11:00 hitonls 2019-01-18 00:26:00
+#t 923 16926038 alesson 2019-01-15 00:11:00 bery 2019-01-18 01:49:00
 新人请教唯物主义具体什么原理
 
 #p 19479356 alesson 阿勒松 2019-01-15 11:44:09
@@ -216,4 +216,20 @@ The possibility of a quantitative description of the motion of an electron requi
 In this connection the "classical object" is usually called "apparatus", and its interaction with the electron is spoken of as "measurement". However, it must be emphasised that we are here not discussing a process of measurement in which the physicist-observer takes apart. By "measurement", in quantum mechanics, we understand any process of interaction between classical and quantum objects, occurring apart from and independently of any observer.
 所以量子力学里说的“测量”不过就是指一个经典系统（即测量手段）与一个量子系统的相互作用，朗道特别强调这是与“测量者”无关的物质性过程，完全不需要搅进什么认识论的哲学讨论里。我觉得物理学从头到尾都是在物质世界里打转（只能如此也应当如此），根本不会也不能涉及甚至解答任何哲学性问题
 #quote bery
+
+#p 19518347 bradtido LeftSHift 2019-01-18 01:40:23
+去看康德的《纯粹理性批判》吧，有解释的。
+根据康德的观点，理性是受到十二个范畴限制的，时间、空间啥的记不清了
+至于超出认知范围的东西，康德称之为物自体，最多只能以盲人摸象方式去逼近对其的理解，无法完全认识。
+-
+而且，“绝对意志存在”与“绝对意志不存在”是一对二律背反，在纯粹理性范畴内都有理由说是对的
+-
+好久之前读的，如果记忆有误请指出。
+#quote alesson
+
+#p 19518361 bery 你的投降，要出于你的自由意志。 2019-01-18 01:48:43
+所以我是说在哥本哈根诠释底下的一个子流派里
+不同流派对于波函数坍缩的时机有不同表述，有的认为光子碰到被观测实体时就坍缩了，有的认为光子被观测到时才坍缩，有的则认为只有光子携带的信息被智能生物感知到了才坍缩。后者显然触碰到了认识论的范畴
+你所说的只是第一种，但是打心眼里认同后两种的人也是有的
+#quote hitonls
 
