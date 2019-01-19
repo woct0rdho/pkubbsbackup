@@ -1,4 +1,4 @@
-#t 22 16931146 lamy 2019-01-18 00:20:00 hiaoxui 2019-01-18 23:39:00
+#t 22 16931146 lamy 2019-01-18 00:20:00 Javier 2019-01-19 08:52:00
 【求助】关于我校谷歌学术
 
 #p 19521751 lamy 书写工具研究者 2019-01-18 20:49:24
@@ -10,5 +10,9 @@
 
 #p 19522179 hiaoxui 小辉 2019-01-18 23:38:15
 [https://bbs.pku.edu.cn/v2/post-read.php?bid=1001&amp;threadid=16264150](post-read.php?bid=1001&amp;threadid=16264150)
+#quote lamy
+
+#p 19522878 Javier 哈维尔·萨维奥拉 | 拼写检查机器人 2019-01-19 08:52:14
+欢迎移步 Google 版。
 #quote lamy
 
