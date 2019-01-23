@@ -1,4 +1,4 @@
-#t 72 16935863 survivor 2019-01-22 00:14:00 Parallel 2019-01-23 23:02:00
+#t 72 16935863 survivor 2019-01-22 00:14:00 audience 2019-01-22 00:19:00
 为韩国争光的湖南人
 
 #p 19533574 survivor TEETOTALER|每天都是一种练习 2019-01-22 14:24:39
@@ -14,6 +14,7 @@
 #quote survivor
 
 #p 19540099 Parallel // 2019-01-23 23:02:04
+#DELETED
 咋不把洞庭湖搬到南朝鲜去呢
 #quote survivor
 
