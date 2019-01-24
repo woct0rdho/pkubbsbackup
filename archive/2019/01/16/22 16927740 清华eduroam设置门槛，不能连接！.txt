@@ -1,4 +1,4 @@
-#t 22 16927740 whyshrha 2019-01-16 00:14:00 Hotarubi 2019-01-21 00:10:00
+#t 22 16927740 whyshrha 2019-01-16 00:14:00 whyshrha 2019-01-24 00:11:00
 清华eduroam设置门槛，不能连接！
 
 #p 19510339 whyshrha whyshr 2019-01-16 14:08:13
@@ -18,5 +18,9 @@
 #p 19529171 Hotarubi 渊之心 2019-01-21 10:59:37
 我校也设置门槛的 鸡贼得很 这么麻烦还不如去用PKU Visitor呢
 你像复旦交大就没有
+#quote whyshrha
+
+#p 19541496 whyshrha whyshr 2019-01-24 11:17:22
+原来是这样啊。
 #quote whyshrha
 

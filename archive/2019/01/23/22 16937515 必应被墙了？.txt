@@ -1,4 +1,4 @@
-#t 22 16937515 Lebesgue 2019-01-23 00:18:00 mstqtewq 2019-01-24 09:32:00
+#t 22 16937515 Lebesgue 2019-01-23 00:18:00 Hanson 2019-01-24 15:22:00
 必应被墙了？
 
 #p 19539078 Lebesgue Pd(PPh3)4 2019-01-23 18:53:26
@@ -208,4 +208,61 @@ are you f**king serious?
 国搜 www.chinaso.com
 搜狗搜索 www.sogou.com
 #quote rhyshm
+
+#p 19541376 Baandarin 板子 2019-01-24 10:52:23
+充分说明顺从也没什么好下场
+#quote accept
+
+#p 19541390 Leeves 小灰灰 2019-01-24 10:54:57
+转战duckduckgo ?  Google tracks you, we don't 哈哈哈哈
+#quote Lebesgue
+
+#p 19541428 naiiive 不忘初心 牢记使命 2019-01-24 11:02:57
+不推荐yandex
+#quote rhyshm
+
+#p 19541463 boson I'm not fermion 2019-01-24 11:08:30
+北京移动今天还是可以上必应
+#quote Lebesgue
+
+#p 19541487 boson I'm not fermion 2019-01-24 11:14:07
+#quote boson
+
+#p 19541515 pkuvdv Vespula vulgaris 2019-01-24 11:21:30
+用Bing搜索Google，居然可以得到百度。。
+#quote Lebesgue
+
+#p 19541883 luge EGOIST 2019-01-24 12:55:15
+亲测[http://www2.bing.com](jump-to.php?url=http%3A%2F%2Fwww2.bing.com)可用
+#quote Lebesgue
+
+#p 19542110 Lebesgue Pd(PPh3)4 2019-01-24 13:30:48
+选在点这个网站会直接跳到cn.bing.com，然后也是打不开~😢
+#quote luge
+
+#p 19542189 luge EGOIST 2019-01-24 13:42:15
+好吧，是这个[https://www2.bing.com/](jump-to.php?url=https%3A%2F%2Fwww2.bing.com%2F)
+#quote Lebesgue
+
+#p 19542285 Lebesgue Pd(PPh3)4 2019-01-24 13:57:36
+谢谢，这个能打开了~👍👍👍
+#quote luge
+
+#p 19542450 MelodyHY 云 2019-01-24 14:27:33
+实时亲测，在家能用宽带上bing。用学校VPN连校园网之后，不知道是不是网速慢，反而用不了bing。不懂不懂😂
+#quote Lebesgue
+
+#p 19542456 niisikhsurg Billy the Kid · 西洋大玩闹 2019-01-24 14:28:36
+墙内的CN必应被墙了
+墙外的必应还没墙
+手动微笑
+#quote Lebesgue
+
+#p 19542593 Hotarubi 渊之心 2019-01-24 14:53:28
+坐标上海移动，目前还只是DNS污染，修复为正确的hosts后即可正常访问。
+#quote Lebesgue
+
+#p 19542701 Hanson Hanson_韓 2019-01-24 15:21:14
+必应词典也用不了了。。。这么突然吗。。太随意了吧。。。。
+#quote Lebesgue
 
