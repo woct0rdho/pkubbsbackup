@@ -1,7 +1,11 @@
-#t 72 16951159 mesutoezil 2019-02-04 14:00:00 mesutoezil 2019-02-04 14:00:00
+#t 72 16951159 mesutoezil 2019-02-04 00:13:00 out 2019-02-08 14:11:00
 有没有哪一门课讲Python和AnacondaSpyder怎 (转载)
 
 #p 19574787 mesutoezil void 2019-02-04 13:59:17
 [原文由 lovecatcat 发表在 EECS 版 &gt;&gt;&gt;](post-read.php?bid=322&amp;threadid=16951159)
 有没有Python的课？
+
+#p 19582329 out Nginx 2019-02-08 14:10:39
+讲道理IDE的应用不应该是基础中的基础吗。。。
+#quote mesutoezil
 
