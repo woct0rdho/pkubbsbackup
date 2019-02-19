@@ -1,4 +1,4 @@
-#t 72 16970394 jiamingpku 2019-02-19 00:14:00 miracle 2019-02-19 19:00:00
+#t 72 16970394 jiamingpku 2019-02-19 00:14:00 zhangwenjie 2019-02-19 19:11:00
 甄别刷课机有那么难么？？(转载)
 
 #p 19618682 jiamingpku jiamingpku 2019-02-19 14:51:19
@@ -16,4 +16,8 @@
 #p 19619565 miracle  2019-02-19 18:59:14
 blocked
 #quote juruo
+
+#p 19619593 zhangwenjie 豆沙馅的绿豆糕 2019-02-19 19:10:16
+感觉现在刷课机盛行和选课网验证码机制的漏洞有关系
+#quote jiamingpku
 
