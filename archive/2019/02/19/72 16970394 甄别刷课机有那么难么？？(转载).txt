@@ -1,4 +1,4 @@
-#t 72 16970394 jiamingpku 2019-02-19 00:14:00 out 2019-02-19 16:39:00
+#t 72 16970394 jiamingpku 2019-02-19 00:14:00 miracle 2019-02-19 19:00:00
 甄别刷课机有那么难么？？(转载)
 
 #p 19618682 jiamingpku jiamingpku 2019-02-19 14:51:19
@@ -8,4 +8,12 @@
 #p 19619097 out Nginx 2019-02-19 16:38:09
 我从来不用刷课机经常说我在用，真想写个爬虫真用一波
 #quote jiamingpku
+
+#p 19619437 juruo 蒟蒻MagicPoi 2019-02-19 18:11:41
+@recaptcha
+#quote jiamingpku
+
+#p 19619565 miracle  2019-02-19 18:59:14
+blocked
+#quote juruo
 
