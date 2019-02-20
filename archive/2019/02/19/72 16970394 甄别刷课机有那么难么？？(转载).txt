@@ -1,4 +1,4 @@
-#t 72 16970394 jiamingpku 2019-02-19 00:14:00 alwaysmoving 2019-02-20 12:20:00
+#t 72 16970394 jiamingpku 2019-02-19 00:14:00 jiamingpku 2019-02-20 13:33:00
 甄别刷课机有那么难么？？(转载)
 
 #p 19618682 jiamingpku jiamingpku 2019-02-19 14:51:19
@@ -92,4 +92,13 @@ blocked
 甄别不难，
 在之前的屎山代码上做修改，才难。
 #quote jiamingpku
+
+#p 19622444 Debout Debout 2019-02-20 13:02:51
+看着选课网的界面以及各种相当不方便的功能表示屎山说的太对了
+#quote alwaysmoving
+
+#p 19622555 jiamingpku jiamingpku 2019-02-20 13:32:15
+str re
+选课网推翻重做吧
+#quote Debout
 
