@@ -1,4 +1,4 @@
-#t 72 16970394 jiamingpku 2019-02-19 00:14:00 eptos 2019-02-20 11:33:00
+#t 72 16970394 jiamingpku 2019-02-19 00:14:00 alwaysmoving 2019-02-20 12:20:00
 甄别刷课机有那么难么？？(转载)
 
 #p 19618682 jiamingpku jiamingpku 2019-02-19 14:51:19
@@ -87,4 +87,9 @@ blocked
 #p 19622086 eptos None 2019-02-20 11:32:37
 仿佛兮
 #quote Moony
+
+#p 19622278 alwaysmoving かわいいね 2019-02-20 12:19:18
+甄别不难，
+在之前的屎山代码上做修改，才难。
+#quote jiamingpku
 
