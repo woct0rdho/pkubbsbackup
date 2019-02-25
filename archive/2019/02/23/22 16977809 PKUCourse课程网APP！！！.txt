@@ -1,0 +1,175 @@
+#t 22 16977809 RAYAR 2019-02-23 00:21:00 Ericlmy 2019-02-24 00:21:00
+PKUCourse课程网APP！！！
+
+#p 19637981 RAYAR 伩覭 2019-02-23 21:59:13
+course.pku.edu.cn是pkuer的常用网站之一。苦恼于每次打开都需要通过浏览器登录过于复杂，并且没有十分良好的移动端版面，四只物院生物开发了这个PKUCourseApp。App中含盖了Course网站上的常用条目，包括公告、成绩、内容、通知、文件下载等等，日常浏览十分方便。并且将门户内的空闲教室查询也搬了上去，便于日常查询。
+此App于上学期制作完成并已经被各路同学使用了4个月的时间，反馈良好。若使用中出现问题，可以于App内about中反馈给开发者，问题将及时肝掉。。。。。。。
+下面是下载链接，github apk 下载页面图例（点开链接后下载其中的apk安装包即可），以及App概貌。请各位刷爆我们的用户数吧！！！！！！
+下载链接：[https://github.com/cbwang2016/PKUCourses/releases/tag/v1.1.7](jump-to.php?url=https%3A%2F%2Fgithub.com%2Fcbwang2016%2FPKUCourses%2Freleases%2Ftag%2Fv1.1.7)
+忘了说一句，由于没有ios设备进行开发调试，我们的App目前还只有Android端版本，ios系统的各位请再等等啦。。。。。
+
+#p 19638019 RAYAR 伩覭 2019-02-23 22:08:31
+刷爆用户数吧！！！！！！
+#quote RAYAR
+
+#p 19638020 cbwang 叶林楠 2019-02-23 22:09:19
+前排围观
+#quote RAYAR
+
+#p 19638054 out Nginx 2019-02-23 22:23:38
+OK，已clone + star
+#quote RAYAR
+
+#p 19638078 Camford TARDIS 2019-02-23 22:38:00
+求ios(～o￣3￣)～
+#quote RAYAR
+
+#p 19638110 Yiniank Cartman 2019-02-23 22:50:04
+支持支持！！
+#quote RAYAR
+
+#p 19638136 alwayslove 敏崽 2019-02-23 22:59:03
+厉害了
+#quote RAYAR
+
+#p 19638163 EthanZzz 夏侯妙才 2019-02-23 23:06:15
+登录是怎么登录的
+#quote RAYAR
+
+#p 19638273 naiiive 不忘初心 牢记使命 2019-02-23 23:35:49
+祝早日被青研收编
+#quote RAYAR
+
+#p 19638383 helenalice 小太阳 2019-02-23 23:59:48
+经多方调查发现，中文字体中宋体是最容易阅读的……建议统一改成宋体，减少用户视觉疲劳和认知。（｡ò ∀ ó｡）
+#quote RAYAR
+
+#p 19638462 Hotarubi 渊之心 2019-02-24 00:15:50
+？？？这不是老早就有了吗
+[https://bbs.pku.edu.cn/v2/post-read.php?bid=35&amp;threadid=16857063](post-read.php?bid=35&amp;threadid=16857063)
+怎么忽然又上了十大了
+#quote RAYAR
+
+#p 19638470 peace 和平 2019-02-24 00:19:03
+反对宋体，支持等线/黑体/雅黑。
+#quote helenalice
+
+#p 19638472 YuhanWu wyhhhh 2019-02-24 00:19:18
+求调查报告？个人并不喜欢宋体，平时也不常用。
+
+#p 19638482 Hotarubi 渊之心 2019-02-24 00:22:47
+
+
+2019-02-24 00:22:34
+字体是你系统设置的字体，与应用无关。
+#quote helenalice
+
+#p 19638645 alwaysmoving かわいいね 2019-02-24 02:22:22
+祝点好的？
+#quote naiiive
+
+#p 19638840 Katrina Calvin Klein 2019-02-24 07:00:38
+赞赞赞
+#quote RAYAR
+
+#p 19638978 cbwang 叶林楠 2019-02-24 08:54:17
+给iaaa.pku.edu.cn发HTTP包
+#quote EthanZzz
+
+#p 19638981 cbwang 叶林楠 2019-02-24 08:54:50
+这是他自己手机系统里设置的😂
+#quote helenalice
+
+#p 19639000 Yiniank Cartman 2019-02-24 08:59:42
+再跑过来宣传一波，可能是因为上次没有上十大吧
+#quote Hotarubi
+
+#p 19639026 RAYAR 伩覭 2019-02-24 09:09:51
+第一波宣传完后增长了一些用户数然后就几乎没有任何动静了于是回来再宣传一波
+#quote Hotarubi
+
+#p 19639076 lyratpku Squirrelie 2019-02-24 09:29:53
+顶顶顶！
+#quote RAYAR
+
+#p 19639175 mofashi 匈牙利高飞 2019-02-24 09:55:28
+太优秀了叭
+#quote RAYAR
+
+#p 19639230 hjx 雪雪 2019-02-24 10:10:53
+这什么神仙软件啊太强了吧
+#quote RAYAR
+
+#p 19639241 hjx 雪雪 2019-02-24 10:14:50
+好想认识主创wcb啊QAQ
+#quote RAYAR
+
+#p 19639252 wyfhz 繁星未名 2019-02-24 10:18:04
+支持大神们！
+
+#p 19639283 fourcats 四只猫咖啡馆 2019-02-24 10:23:18
+66666
+#quote RAYAR
+
+#p 19639321 hjx 雪雪 2019-02-24 10:32:03
+能留个联系方式吗我很仰慕您
+#quote cbwang
+
+#p 19639468 cbwang 叶林楠 2019-02-24 11:05:23
+您……有毒……
+#quote hjx
+
+#p 19639622 Pkuhassss 得取个名儿 2019-02-24 11:47:56
+顶顶顶，如果再附加课程表功能就太棒啦！！！
+PKUhelper用的心累
+#quote RAYAR
+
+#p 19639687 lyratpku Squirrelie 2019-02-24 12:03:06
+活捉一只开发人员
+#quote hjx
+
+#p 19639829 mockingbird valeera 2019-02-24 12:46:48
+求iOS
+
+#p 19639885 RAYAR 伩覭 2019-02-24 13:04:10
+列入计划！
+#quote Pkuhassss
+
+#p 19639898 RDFZCTY TomCty1120 2019-02-24 13:08:14
+我也仰慕您，您留个联系方式吧
+#quote cbwang
+
+#p 19639992 cbwang 叶林楠 2019-02-24 13:33:21
+您更有毒……好好约妹子去……
+#quote RDFZCTY
+
+#p 19640040 cbwang 叶林楠 2019-02-24 13:44:23
+这个功能正在讨论中🤓
+另外可不可以描述一下Helper为什么心累呢hhhh
+#quote Pkuhassss
+
+#p 19640129 Pkuhassss 得取个名儿 2019-02-24 14:18:22
+我上个学期就没能导入课程，只能手动导。而且不太美观，你们的风格似乎是Google风？感觉很喜欢，期待
+#quote cbwang
+
+#p 19640198 foreverlll 浅唱 2019-02-24 14:36:38
+顶一个~ 
+#quote RAYAR
+
+#p 19640297 cbwang 叶林楠 2019-02-24 15:01:23
+谢谢您的肯定！！
+#quote Pkuhassss
+
+#p 19640647 wky Gammaman 2019-02-24 17:07:04
+上学期就用过了，体验不错，虽然大四狗并没有什么需求orz
+仰望大佬.jpg
+#quote RAYAR
+
+#p 19640801 cloudy 芒果 2019-02-24 18:01:05
+焦急地等待ios版本
+#quote RAYAR
+
+#p 19641311 Ericlmy Forza Milan 2019-02-24 21:12:09
+厉害！
+#quote RAYAR
+
