@@ -1,0 +1,10 @@
+#t 22 16984382 Amagi 2019-02-27 17:23:00 Amagi 2019-02-27 17:23:00
+求助，悦跑圈密码不对登录不上去咋办（
+
+#p 19653320 Amagi 艨艟八百，海鹫三千 2019-02-27 17:22:14
+rt
+在APP上用默认密码登录不上去，提示密码错误
+但是在查跑步记录的那个网站上（[https://campus.thejoyrun.com/student](jump-to.php?url=https%3A%2F%2Fcampus.thejoyrun.com%2Fstudent)）用默认密码可以登录
+我寻思我也没用过悦跑圈没改过密码啊
+orz
+
