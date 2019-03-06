@@ -1,4 +1,4 @@
-#t 22 16994616 pppppotato 2019-03-05 00:21:00 yanyangeliza 2019-03-05 23:04:00
+#t 22 16994616 pppppotato 2019-03-05 00:21:00 pppppotato 2019-03-06 10:59:00
 校内网不能继续免费下载百度文库文档了吗？
 
 #p 19679110 pppppotato potato 2019-03-05 21:25:25
@@ -11,4 +11,17 @@
 #p 19679444 yanyangeliza 燕仰 2019-03-05 23:03:17
 应该是不能了，试用结束之后图书馆没有再续订，我写邮件问过，说是暂时不考虑订购～
 #quote pppppotato
+
+#p 19680405 woctordho 青研研究中心 2019-03-06 08:40:54
+冰点文库下载器了解一下
+也可以到GitHub上搜百度文库，有很多免费下载的办法
+#quote pppppotato
+
+#p 19681059 pppppotato potato 2019-03-06 10:55:39
+好的，谢谢！
+#quote yanyangeliza
+
+#p 19681070 pppppotato potato 2019-03-06 10:57:18
+很实用，万分感谢！
+#quote woctordho
 
