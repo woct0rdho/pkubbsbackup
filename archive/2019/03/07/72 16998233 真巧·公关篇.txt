@@ -1,4 +1,4 @@
-#t 72 16998233 deepriver 2019-03-07 00:21:00 deepriver 2019-03-08 03:37:00
+#t 72 16998233 deepriver 2019-03-07 00:21:00 bery 2019-03-08 08:29:00
 真巧·公关篇
 
 #p 19688626 deepriver 江深林静 2019-03-07 21:18:38
@@ -132,4 +132,8 @@ xRoyal        上站次数:  [11216]  文章数:  [73115]  生命力:  [999]
 #p 19689980 deepriver 江深林静 2019-03-08 03:36:23
 The new side of me is brought to you by (the countering of) the propaganda machine.
 #quote XZH
+
+#p 19690265 bery 你的投降，要出于你的自由意志。 2019-03-08 08:28:01
+我觉得是NP-hard，因为有的证据虽然是假的，但是不能在多项式时间内驳倒
+#quote survivor
 
