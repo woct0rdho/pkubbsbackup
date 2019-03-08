@@ -1,4 +1,4 @@
-#t 72 16998233 deepriver 2019-03-07 00:21:00 bery 2019-03-08 08:29:00
+#t 72 16998233 deepriver 2019-03-07 00:21:00 kimberley 2019-03-08 09:53:00
 真巧·公关篇
 
 #p 19688626 deepriver 江深林静 2019-03-07 21:18:38
@@ -136,4 +136,62 @@ The new side of me is brought to you by (the countering of) the propaganda machi
 #p 19690265 bery 你的投降，要出于你的自由意志。 2019-03-08 08:28:01
 我觉得是NP-hard，因为有的证据虽然是假的，但是不能在多项式时间内驳倒
 #quote survivor
+
+#p 19690385 munichounia 大囧村学术部部长|太贰国迷津普渡大国师 2019-03-08 09:02:16
+其实当初要是跟过批判马会（邱）的帖子
+一眼就能看出来是个什么情况
+#quote deepriver
+
+#p 19690397 deepriver 江深林静 2019-03-08 09:05:26
+嗯，但是我比较健忘，所以还是写下来为好。青研发工资的时候也可以参考。
+#quote munichounia
+
+#p 19690404 munichounia 大囧村学术部部长|太贰国迷津普渡大国师 2019-03-08 09:07:47
+这个以后青研发工资，我看还是要引入用户评价机制。
+#quote deepriver
+
+#p 19690420 deepriver 江深林静 2019-03-08 09:12:12
+用户评价好哇，开发个程序，用户扫码打分，程序自己也有发言权，根据组织要求按时上线下线。
+#quote munichounia
+
+#p 19690435 munichounia 大囧村学术部部长|太贰国迷津普渡大国师 2019-03-08 09:15:15
+对。现在这种靠数帖发钱，跟吃大锅饭没区别。
+#quote deepriver
+
+#p 19690445 KakaHiguain 😶 2019-03-08 09:17:34
+DuNN是一种新的Neural Network？
+#quote deepriver
+
+#p 19690451 deepriver 江深林静 2019-03-08 09:20:11
+
+
+2019-03-08 09:19:33
+就是就是，北大发展版一位贵校工作人员在一个已经撤下十大的帖子里都回了近万字了，数帖数肯定拿不了多少钱，我看了都心疼。
+#quote munichounia
+
+#p 19690470 nogatnep ko001 2019-03-08 09:25:12
+感谢眼熟~
+#quote deepriver
+
+#p 19690505 deepriver 江深林静 2019-03-08 09:32:02
+Say Hi to Icandobetter(恭喜发帖数过百), tryqtyl（前两天被我在本版调侃了这次怎么不出现了）, PKUwuyi(24名)。
+#quote nogatnep
+
+#p 19690517 deepriver 江深林静 2019-03-08 09:34:39
+不晓得。我更好奇那个anocanda是不是anaconda的typo
+#quote KakaHiguain
+
+#p 19690566 kimberley 问江北江南 2019-03-08 09:49:24
+我也被挂在上面好可怕，ssfd
+#quote deepriver
+
+#p 19690577 deepriver 江深林静 2019-03-08 09:51:40
+没挂您，只是为了显示那几个（红色）小号的密集程度。已经顺便绿色了大家应该眼熟的keepheadup君。
+#quote kimberley
+
+#p 19690585 kimberley 问江北江南 2019-03-08 09:53:52
+嘻嘻开玩笑啦，您别介意；
+keepheadup回了我好多帖子嗳，我以为他真是个爱好运动的家伙。。。。。。。。。。。。
+==你们挖掘信息的能力好强啊
+#quote deepriver
 
