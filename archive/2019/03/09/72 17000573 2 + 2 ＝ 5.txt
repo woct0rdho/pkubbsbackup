@@ -1,4 +1,4 @@
-#t 72 17000573 deepriver 2019-03-09 00:10:00 naiiive 2019-03-09 13:03:00
+#t 72 17000573 deepriver 2019-03-09 00:10:00 crispy 2019-03-09 14:22:00
 2 + 2 ＝ 5
 
 #p 19694724 deepriver 江深林静 2019-03-09 10:10:45
@@ -49,4 +49,9 @@
 #p 19695244 naiiive 不忘初心 牢记使命 2019-03-09 13:02:30
 无法说明2+2+6+4=14，证明有误。
 #quote deepriver
+
+#p 19695498 crispy whitewolf 2019-03-09 14:22:43
+精彩绝伦
+#quote deepriver
+发自我的“北大未名”iOS客户端([http://t.cn/R7ZhtYc](jump-to.php?url=http%3A%2F%2Ft.cn%2FR7ZhtYc))
 
