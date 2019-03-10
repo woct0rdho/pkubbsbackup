@@ -1,4 +1,4 @@
-#t 22 17001352 xmcp 2019-03-09 00:21:00 locusxt 2019-03-10 14:48:00
+#t 22 17001352 xmcp 2019-03-09 00:21:00 xmcp 2019-03-10 15:22:00
 P大树洞网页版正式发布啦！！
 
 #p 19696773 xmcp 肖某 2019-03-09 21:11:32
@@ -35,4 +35,27 @@ emmmm 是点登录按钮之后整个页面变成白屏吗？
 #p 19699107 locusxt locusxt 2019-03-10 14:47:59
 点赞 d=====(￣▽￣*)b厉害
 #quote xmcp
+
+#p 19699118 creature of indolence（Feminist） 2019-03-10 14:52:50
+希望有回复的快捷键，比如Enter或者Ctrl+Enter
+#quote xmcp
+
+#p 19699119 naiiive 不忘初心 牢记使命 2019-03-10 14:53:48
+[http://page.renren.com/601785903](jump-to.php?url=http%3A%2F%2Fpage.renren.com%2F601785903)
+#quote hiaoxui
+
+#p 19699174 Liviee Shino 2019-03-10 15:10:30
+背景好评
+我感觉加入一个自由换背景的功能会不会更好
+话说我一直以为这个不是官方的诶
+#quote xmcp
+
+#p 19699214 xmcp 肖某 2019-03-10 15:25:10
+
+
+2019-03-10 15:21:46
+这个一开始就不是官方的，但我现在加入PKU Helper团队了，so……就是官方的辣 ┓( ´∀` )┏
+背景其实是可以换的，我在GitHub的README最底下写了，目前作为一个隐藏功能存在。
+需要先把背景图传到随便什么图床上，然后在搜索框输入“//setflag REPLACE_ERIRI_WITH_URL=http://图片网址”（不包括引号），然后刷新网页就好了。
+#quote Liviee
 
