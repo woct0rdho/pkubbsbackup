@@ -1,4 +1,4 @@
-#t 22 17001352 xmcp 2019-03-09 00:21:00 xmcp 2019-03-10 15:22:00
+#t 22 17001352 xmcp 2019-03-09 00:21:00 creature 2019-03-10 16:29:00
 P大树洞网页版正式发布啦！！
 
 #p 19696773 xmcp 肖某 2019-03-09 21:11:32
@@ -58,4 +58,18 @@ emmmm 是点登录按钮之后整个页面变成白屏吗？
 背景其实是可以换的，我在GitHub的README最底下写了，目前作为一个隐藏功能存在。
 需要先把背景图传到随便什么图床上，然后在搜索框输入“//setflag REPLACE_ERIRI_WITH_URL=http://图片网址”（不包括引号），然后刷新网页就好了。
 #quote Liviee
+
+#p 19699423 xmcp 肖某 2019-03-10 16:26:28
+已经添加了快捷键功能，在侧边栏打开时按Enter可以将焦点移动到回复框，在回复框按Ctrl+Enter可以提交
+#quote creature
+
+#p 19699427 creature of indolence（Feminist） 2019-03-10 16:27:32
+哇好棒
+是真人回复嘛
+捏~
+#quote xmcp
+
+#p 19699433 creature of indolence（Feminist） 2019-03-10 16:28:33
+求github网址
+#quote xmcp
 
