@@ -1,4 +1,4 @@
-#t 22 17004006 bulabulaivy 2019-03-11 00:15:00 pkuvdv 2019-03-11 16:16:00
+#t 22 17004006 bulabulaivy 2019-03-11 00:15:00 CoreM 2019-03-12 10:01:00
 联创打印管理系统……就没用过这么难用的玩意儿
 
 #p 19703206 bulabulaivy 南瓜爹的爹 2019-03-11 15:04:25
@@ -19,5 +19,9 @@
 
 #p 19703567 pkuvdv Vespula vulgaris 2019-03-11 16:15:02
 学校电脑上的不好用的话，这个客户端也可以在自己的电脑上装。[https://www.lib.pku.edu.cn/portal/cn/fw/kongjiansheshi/zizhufuwu](jump-to.php?url=https%3A%2F%2Fwww.lib.pku.edu.cn%2Fportal%2Fcn%2Ffw%2Fkongjiansheshi%2Fzizhufuwu)
+#quote bulabulaivy
+
+#p 19706704 CoreM AMDYES 2019-03-12 09:59:53
+图书馆一楼重置
 #quote bulabulaivy
 
