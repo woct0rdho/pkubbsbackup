@@ -1,4 +1,4 @@
-#t 22 17005332 speechless 2019-03-12 10:17:00 speechless 2019-03-12 10:17:00
+#t 22 17005332 speechless 2019-03-12 10:18:00 speechless 2019-03-12 10:21:00
 两会的最高法报告查不到直播？
 
 #p 19706788 speechless Jeason 2019-03-12 10:16:06
@@ -9,5 +9,10 @@
 #p 19706793 speechless Jeason 2019-03-12 10:17:50
 [http://tv.cntv.cn/video/C10361/d6e84b9504a2492faffd71ee857ff2ce](jump-to.php?url=http%3A%2F%2Ftv.cntv.cn%2Fvideo%2FC10361%2Fd6e84b9504a2492faffd71ee857ff2ce)
 应该说央视是原本给了入口，但是现在临时封上了···DNS不支持
+#quote speechless
+
+#p 19706802 speechless Jeason 2019-03-12 10:19:22
+[http://live.163.com/room/201725.html](jump-to.php?url=http%3A%2F%2Flive.163.com%2Froom%2F201725.html)
+网易写的是直播，点进去不知道是哪个人在评论···
 #quote speechless
 
