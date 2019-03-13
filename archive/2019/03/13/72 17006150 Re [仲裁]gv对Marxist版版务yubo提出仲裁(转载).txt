@@ -1,0 +1,36 @@
+#t 72 17006150 wenxijc 2019-03-13 11:03:00 wenxijc 2019-03-13 11:03:00
+Re [仲裁]gv对Marxist版版务yubo提出仲裁(转载)
+
+#p 19711773 wenxijc snowflakes|小雪 2019-03-13 11:02:56
+[原文由 munichounia 发表在 Arbitration 版 &gt;&gt;&gt;](post-read.php?bid=164&amp;threadid=17006150)
+gv使用了物品：书记的死猪肉
+gv召唤了围观群众若干
+watern受到3点伤害
+watern发动技能：信息否决
+watern驱逐了围观群众
+gv使用了物品：书记的死猪肉
+gv召唤了围观群众若干
+watern受到了2点伤害
+watern发动技能：另立中央
+watern迷惑了围观群众
+gv使用物品：书记的死猪肉
+gv召唤了围观群众若干
+watern发动技能：无可奉告
+watern降低了围观群众数量
+watern受到0点伤害
+gv发动技能：指鹿为马
+watern受到5点伤害
+watern发动技能：路在何方
+watern召唤了马路
+watern转移了伤害
+gv发动技能：指鹿为马
+gv的技能被抵消了
+gv发动技能：批判一番
+watern受到4点伤害
+watern发动技能：皮厚如山
+watern反弹了伤害
+gv受到419点伤害
+gv血量不足20%，无力再战
+gv退出了战场
+#quote gv
+
