@@ -1,4 +1,4 @@
-#t 923 17006153 hanxv 2019-03-12 00:19:00 munichounia 2019-03-14 15:49:00
+#t 923 17006153 hanxv 2019-03-12 00:19:00 munichounia 2019-03-14 19:16:00
 一直有一个疑问
 
 #p 19709087 hanxv 氷空の花束 2019-03-13 15:14:03
@@ -790,5 +790,112 @@ dongs把“井田制”视作奴隶社会的生产方式，是错误的。井田
 
 #p 19718150 munichounia 大囧村学术部部长|太贰国迷津普渡大国师 2019-03-14 15:49:18
 无论是封建社会取代奴隶社会，还是资本主义社会取代封建社会，都不是这么个过程。
+#quote haoba
+
+#p 19718255 dashenshi 业余数学爱好者 2019-03-14 16:17:47
+
+
+2019-03-14 16:14:48
+首先，我们在“生产力是第一位的，生产关系是被生产力所改变”达成共识。
+以此为基础，我之前回复你说“由此认为资本家的剥削多多益善，并非是全面的观点。”
+我之所说“并非全面”，又举了大型医院的例子，是因为生产关系被生产力塑造的过程中，有反馈。
+这个反馈，以我的理解，就是马克思辩证唯物论里面的主观能动性。
+因为有这个反馈，那么“存在即合理”就不是必然正确，但这不影响生产力是第一位的共识。
+然后，现在的反馈是什么？未来的反馈可能是什么？
+第一个问题的答案是人类社会可以无限接近的，第二个问题的答案是未知的，由此引出了马克思等人给出的众多预测。
+在第二个问题的部分答案中，后续人们会如何评价生产力？还会不会把资本的交换作为评价生产力的重要指标？
+你给出的答案是“资本家的剥削多多益善”，即你认为资本的交换是评价生产力的最重要指标，甚至是唯一指标。
+而我的答案是“未来生产力的成果多元化，而不是单一的资本的交换”，用以证明的例子只举了大型医院。
+那么，你和我的两种答案，哪一个可能更符合未来的反馈了？
+这就回答了你这次回复提到的“后续的讨论我觉得没有必要进行下去了”。
+在此，我再举一例“审美霸权”来证明我的观点。
+近期，某个欧美化妆品的广告中，模特的造型引起了众多中国网民的反感，具体例子请见如下链接：
+[https://www.zhihu.com/question/19847360/answer/619992553](jump-to.php?url=https%3A%2F%2Fwww.zhihu.com%2Fquestion%2F19847360%2Fanswer%2F619992553)
+从这个例子中可以看出来：
+第一、随着中国的发展，对于生产力的评价已经不单是资本的交换，民众认为文化输出也是评价生产力的重要部分。
+第二、如果任由“资本家的剥削多多益善”，就会出现美国这种“审美霸权”，这对于世界绝非好事，对于美国国内也绝非好事。
+最后，我想引用一篇论文，对我答案的具体实现作补充，以及进一步证明。
+你提到的“资本家的剥削多多益善”，具体实现很明确的；我提到的“未来生产力的成果多元化，而不是单一的资本的交换”，怎么去具体定义多元？如下论文给出了答案。
+Income-based variation in Sustainable Development Goal interaction networks
+论文大意：联合国在2015年制定了17个可持续发展目标，时间到2030年为止；但17个目标会有冲突：比如保护环境与增加就业、增加能源等，在一些国家就是冲突的。因此，要想个办法，尽可能综合推进17个目标的实现，论文以不同收入划分四类国家，对它们给出了推进17个目标的实现建议。
+论文结论：
+1、贫穷国家应该重点解决SDG的第1号目标（Goal 1. End poverty in all its forms everywhere），即赤贫。
+2、欠发达国家应该重点解决医疗、饮水、赤贫等等多方面问题。
+3、较发达国家应该重点解决社会阶层协调、包容、法制问题（Goal 16. Promote peaceful and inclusive societies for sustainable development, provide access to justice for all and build effective, accountable and inclusive institutions at all levels），制造业、工业的创新问题（Goal 9. Build resilient infrastructure, promote inclusive and sustainable industrialization and foster innovation），医疗问题（Goal 3. Ensure healthy lives and promote well-being for all at all ages）。
+4、发达国家（世界银行定义，下同）应该重点解决SDG的第10号目标（Goal 10. Reduce inequality within and among countries），即国内外的平等。
+论文截图：
+<img src="https://bbs.pku.edu.cn/attach/31/48/3148b7bfdfa12ad3/2019-03-07%2021%2006%2028.png"/>
+<img src="https://bbs.pku.edu.cn/attach/a7/1f/a71f13ed98b4e923/2019-03-07%2021%2007%2005.png"/>
+<img src="https://bbs.pku.edu.cn/attach/90/88/908842391f619418/2019-03-07%2021%2007%2018.png"/>
+<img src="https://bbs.pku.edu.cn/attach/7c/62/7c62750a322154c2/2019-03-07%2021%2006%2043.png"/>
+论文地址：[https://www.nature.com/articles/s41893-019-0231-4.epdf?shared_access_token=J-28p36MSbHipmvmkp0y9NRgN0jAjWel9jnR3ZoTv0O_5-mfDsDaznR71myFQ6GRupgXI2nYd4I4b_ZSPEWumbYC6F3uUZsYTLxi0ZJn1m8P61QvrHHDLXX0ebWaZspwD_PpFqPfHYh9MjL93K_jVw%3D%3D](jump-to.php?url=https%3A%2F%2Fwww.nature.com%2Farticles%2Fs41893-019-0231-4.epdf%3Fshared_access_token%3DJ-28p36MSbHipmvmkp0y9NRgN0jAjWel9jnR3ZoTv0O_5-mfDsDaznR71myFQ6GRupgXI2nYd4I4b_ZSPEWumbYC6F3uUZsYTLxi0ZJn1m8P61QvrHHDLXX0ebWaZspwD_PpFqPfHYh9MjL93K_jVw%253D%253D)
+#quote haoba
+
+#p 19718340 dongs dongs 2019-03-14 16:32:03
+我不是这么论述的吧。。
+#quote munichounia
+
+#p 19718343 haoba 峰峰SIS07|新手奶爸 2019-03-14 16:33:09
+
+
+2019-03-14 16:32:28
+那个。。。。我能不能弱弱的说一句，您打的是假靶子。
+我这只是认为需要存在资本家的剥削来让资本家为企业负责，而不是讲“资本家剥削多多益善”。
+这从我论述的5楼，就可以看出来呀。
+我的论述停留在需要靠私有制来为资本确权，资本家的剥削所得是其整合企业生产参与者诉求的收益。
+剥削太多了劳动者还要去造反呢。。。
+您举的医院的例子，我是认为不能说明其是私有制的缺陷，因为除了莆田系医院外，还有很多国际知名的私立医院。国外也有很多私立医院。目的是说明该举例的论证有效性不足。
+#quote dashenshi
+
+#p 19718353 munichounia 大囧村学术部部长|太贰国迷津普渡大国师 2019-03-14 16:34:25
+假定你是这么论述的。
+#quote dongs
+
+#p 19718363 dongs dongs 2019-03-14 16:36:03
+行。那就假定我是这么论述的。：）
+#quote munichounia
+
+#p 19718411 munichounia 大囧村学术部部长|太贰国迷津普渡大国师 2019-03-14 16:46:55
+
+
+2019-03-14 16:44:22
+“生产工具变革——生产力变革——生产关系变革——社会形态变革”的观点普遍存在
+但是古今中外的历史事实基本不是这样的。
+所以这个观点实际上是一种基于唯生产力论的辉格史观
+#quote dongs
+
+#p 19718662 haoba 峰峰SIS07|新手奶爸 2019-03-14 17:43:49
+如：互联网--阿里淘宝网购--中间商分销模式崩溃--B2C兴起；
+       导航定位--滴滴打车--出租车牌照费管理崩溃--多主体车辆运营管理新制度确立；
+总是要先有一个技术突破，才会带来后续的管理方式进步的。
+当更先进的技术突破，比如未来：VR+互联网办公---地租均等化---房价租金--食租者阶层衰落；
+假设未来真的存在可以自动分配劳动者技能的网络工具，同时具备把想法自动化实施的AI工具，那确实没必要存在什么资产阶级了。
+我依然认为唯生产力论的辉格史观在技术进步上是具有价值的，而且靠技术进步推进的生产力，是改变生产关系的唯一途径。
+#quote munichounia
+
+#p 19718696 dongs dongs 2019-03-14 17:51:51
+是的，唯生产力论是很危险的。
+#quote munichounia
+
+#p 19718900 munichounia 大囧村学术部部长|太贰国迷津普渡大国师 2019-03-14 18:55:28
+你听说过安利吗？
+#quote haoba
+
+#p 19718915 haoba 峰峰SIS07|新手奶爸 2019-03-14 19:01:11
+没听说过，您讲讲…
+#quote munichounia
+
+#p 19718920 munichounia 大囧村学术部部长|太贰国迷津普渡大国师 2019-03-14 19:02:46
+那你听说过石景山个体吗？
+#quote haoba
+
+#p 19718923 haoba 峰峰SIS07|新手奶爸 2019-03-14 19:04:07
+说人话…
+#quote munichounia
+
+#p 19718952 munichounia 大囧村学术部部长|太贰国迷津普渡大国师 2019-03-14 19:14:14
+你看你都没听过，所以你的两个例子都是不成立的。
+先有新的社会关系和新的社会需求，然后才有技术来满足这种需求，然后再由技术推动这种关系的普遍化。
+你没听说过安利，电视销售总见过吧？
 #quote haoba
 
