@@ -1,4 +1,4 @@
-#t 22 17011253 ChairmanJ 2019-03-15 00:15:00 jiamingpku 2019-03-16 00:48:00
+#t 22 17011253 ChairmanJ 2019-03-15 00:15:00 boson 2019-03-16 09:55:00
 新西兰枪击案至少27人死亡 暂无中国公民伤亡报告
 
 #p 19722766 ChairmanJ 酱还是老的辣 2019-03-15 15:19:39
@@ -43,4 +43,8 @@
 #p 19725062 jiamingpku jiamingpku 2019-03-16 00:48:17
 一般翻译成基督城吧
 #quote boson
+
+#p 19725766 boson I'm not fermion 2019-03-16 09:54:50
+嗯
+#quote jiamingpku
 
