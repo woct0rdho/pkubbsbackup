@@ -1,4 +1,4 @@
-#t 1431 17013472 sleepallday 2019-03-17 00:00:00 traveller 2019-03-17 01:46:00
+#t 1431 17013472 sleepallday 2019-03-17 00:00:00 monolingual 2019-03-17 09:44:00
 没想到燕园有这种人。。
 
 #p 19728416 sleepallday sleepallday 2019-03-17 00:15:34
@@ -15,4 +15,12 @@
 #p 19728599 traveller 冰之旅行者 2019-03-17 01:43:40
 调监控曝光啊
 #quote sleepallday
+
+#p 19729029 DarricDing BSHS 2019-03-17 09:16:05
+支持调监控，否则类似行为一定会再次发生。
+#quote sleepallday
+
+#p 19729093 monolingual monolingual 2019-03-17 09:43:41
+#quote sleepallday
+三瓶可乐还没处理
 

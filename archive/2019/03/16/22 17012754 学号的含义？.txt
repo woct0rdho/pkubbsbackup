@@ -1,4 +1,4 @@
-#t 22 17012754 Parallel 2019-03-16 00:13:00 hexx 2019-03-17 08:22:00
+#t 22 17012754 Parallel 2019-03-16 00:13:00 bayaer 2019-03-17 09:56:00
 学号的含义？
 
 #p 19726597 Parallel // 2019-03-16 13:58:36
@@ -149,5 +149,13 @@ tql
 解决了我一个学期以来的疑惑，感谢！
 补充：本科留学生的第7-8位和教务部全校课表上面的系所编号（[http://dean.pku.edu.cn/pkudean/course/kcb.php?ll=1](jump-to.php?url=http%3A%2F%2Fdean.pku.edu.cn%2Fpkudean%2Fcourse%2Fkcb.php%3Fll%3D1)）一致。因为每个院系招收留学生不会超过100人，所以这个编号方式应该不会不够用……
 9-10位就是普通的序号了。
+#quote Postel
+
+#p 19729046 MYKINGDOM a560pi5d3 2019-03-17 09:22:16
+懂了，厉害👍
+#quote Parallel
+
+#p 19729134 bayaer 尔雅吧 2019-03-17 09:56:39
+厉害了，鼓掌
 #quote Postel
 
