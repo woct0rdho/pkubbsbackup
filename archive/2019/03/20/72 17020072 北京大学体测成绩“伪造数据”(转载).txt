@@ -1,4 +1,4 @@
-#t 72 17020072 ChairmanJ 2019-03-20 00:22:00 wky 2019-03-21 00:59:00
+#t 72 17020072 ChairmanJ 2019-03-20 00:22:00 iChuan 2019-03-21 03:40:00
 北京大学体测成绩“伪造数据”(转载)
 
 #p 19746603 ChairmanJ 僵还是老的辣 2019-03-20 22:34:51
@@ -41,5 +41,19 @@ hhhhh23比28排名高
 #p 19747136 wky Gammaman 2019-03-21 00:58:33
 复制粘贴怎么可能不一样，所以这一定没有造假(x
 //是不是说明是手工复制的数据……太敬业了
+#quote ChairmanJ
+
+#p 19747287 hiaoxui 小辉 2019-03-21 02:33:59
+
+
+2019-03-21 02:29:56
+这...这是中心极限定理!
+夸张估计每个学院有 400 个人. 设这个院中每个人的成绩为 <img alt="&lt;tex&gt;\{X_i\}_{i=1}^{400}&lt;/tex&gt;" class="tex" src="/latexrender/pictures/1c2a57ea0506512b25eeaad8da1aaca2.png" title="双击查看源码"/>, 服从 iid 分布, 假设 <img alt="&lt;tex&gt;\text{Var}[X_i] = \sigma&lt;/tex&gt;" class="tex" src="/latexrender/pictures/a3050d7c267de61ea61e9d53ac8f45e4.png" title="双击查看源码"/>, 根据 CLT, 学院均分 <img alt="&lt;tex&gt;\overline{X}&lt;/tex&gt;" class="tex" src="/latexrender/pictures/1ce0cdaf66b9bf4b74d1f118c30080ef.png" title="双击查看源码"/> 的方差应该为 <img alt="&lt;tex&gt;     \sigma / 20 &lt;/tex&gt;" class="tex" src="/latexrender/pictures/dc28c79ed1afe1824c4cd3fabc7f8ca6.png" title="双击查看源码"/>.
+考虑到两年的学院体测均分都在 4 位有效数字上都完全相同, 所以理所当然认为 <img alt="&lt;tex&gt;\sigma / 20 \lesssim 0.01&lt;/tex&gt;" class="tex" src="/latexrender/pictures/7be405bb78b384212f3166dc3263dd00.png" title="双击查看源码"/>, 可以知道 <img alt="&lt;tex&gt;\sigma \lesssim 0.2&lt;/tex&gt;" class="tex" src="/latexrender/pictures/3c6c37911f4e022e39fe552f185960cb.png" title="双击查看源码"/>. 可见每个学生的体测成绩方差居然最多只有 0.2 分!
+不妨假设学生的体测成绩分布服从正态分布, 那么如果你的体测成绩低于你院均分 1 分, 你已经以 p-value = 0.999... 的可能性排名倒数第一.
+#quote ChairmanJ
+
+#p 19747347 iChuan 带带大师兄||孙笑川||NM$L 2019-03-21 03:39:01
+这图不是P的，所以是真的。
 #quote ChairmanJ
 
