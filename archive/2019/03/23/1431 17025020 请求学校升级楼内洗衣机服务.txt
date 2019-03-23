@@ -1,4 +1,4 @@
-#t 1431 17025020 jupyterlab 2019-03-23 00:22:00 jupyterlab 2019-03-24 00:42:00
+#t 1431 17025020 jupyterlab 2019-03-23 00:22:00 Rioter 2019-03-24 01:24:00
 请求学校升级楼内洗衣机服务
 
 #p 19759427 jupyterlab jupyterlab 2019-03-23 23:48:26
@@ -39,4 +39,13 @@
 #p 19760140 jupyterlab jupyterlab 2019-03-24 00:41:54
 😂楼内洗衣机好像也没有监督员，具体是哪个部门在管。。。怎么联系呢
 #quote jupyterlab
+
+#p 19760189 bayaer 尔雅吧 2019-03-24 01:04:31
+其实用小程序或者服务号实现的服务就是会不太方便吧，就像外头扫码点菜的那个小程序，就很怪，不过在宿舍的洗衣机用着还可以啊，lz哪个楼的，应该咱们都是一样的吧
+#quote jupyterlab
+
+#p 19760209 Rioter 名字太长躲在大树后面容易被联盟发现 2019-03-24 01:23:31
+#quote jupyterlab
+还有卫生问题
+发自我的“北大未名”iOS客户端([http://t.cn/R7ZhtYc](jump-to.php?url=http%3A%2F%2Ft.cn%2FR7ZhtYc))
 
