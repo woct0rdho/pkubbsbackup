@@ -1,4 +1,4 @@
-#t 1431 17025020 jupyterlab 2019-03-23 00:22:00 AlvinWu 2019-03-24 07:30:00
+#t 1431 17025020 jupyterlab 2019-03-23 00:22:00 monolingual 2019-03-24 08:28:00
 请求学校升级楼内洗衣机服务
 
 #p 19759427 jupyterlab jupyterlab 2019-03-23 23:48:26
@@ -52,4 +52,8 @@
 #p 19760819 AlvinWu AlvinWu 2019-03-24 07:30:41
 同意
 #quote jupyterlab
+
+#p 19760916 monolingual monolingual 2019-03-24 08:28:19
+#quote jupyterlab
+海尔还涨价 app增多了广告 还经常闪退 很多bug 流氓公司
 
