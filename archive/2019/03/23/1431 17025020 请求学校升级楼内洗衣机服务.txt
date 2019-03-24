@@ -1,4 +1,4 @@
-#t 1431 17025020 jupyterlab 2019-03-23 00:22:00 Rioter 2019-03-24 01:24:00
+#t 1431 17025020 jupyterlab 2019-03-23 00:22:00 AlvinWu 2019-03-24 07:30:00
 请求学校升级楼内洗衣机服务
 
 #p 19759427 jupyterlab jupyterlab 2019-03-23 23:48:26
@@ -48,4 +48,8 @@
 #quote jupyterlab
 还有卫生问题
 发自我的“北大未名”iOS客户端([http://t.cn/R7ZhtYc](jump-to.php?url=http%3A%2F%2Ft.cn%2FR7ZhtYc))
+
+#p 19760819 AlvinWu AlvinWu 2019-03-24 07:30:41
+同意
+#quote jupyterlab
 
