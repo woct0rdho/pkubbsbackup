@@ -1,0 +1,18 @@
+#t 72 16947466 KakaHiguain 2019-03-24 18:36:00 KakaHiguain 2019-03-24 18:36:00
+Re 研究生考试数学题(转载)
+
+#p 19763129 KakaHiguain 😶 2019-03-24 18:35:06
+[原文由 bery 发表在 TryYourBest 版 &gt;&gt;&gt;](post-read.php?bid=376&amp;threadid=16947466)
+刚才想到一道类似的题
+有如下图所示的不等式：
+显然，这个不等式虽然对所有的实数y都成立，但对于复数y可能不成立，或甚至没有定义。
+问：通过平移、旋转、放大或缩小这5个符号，可以使得这个不等式在y是复数的时候变成立么？
+我不保证这个题有唯一解，但是有一个解特别有意思。
+#quote douerwan
+
+#p 19763132 KakaHiguain 😶 2019-03-24 18:35:17
+[原文由 bery 发表在 TryYourBest 版 &gt;&gt;&gt;](post-read.php?bid=376&amp;threadid=16947466)
+公布答案
+注意问题问的是 可以使得这个不等式变成**立么**
+#quote bery
+
