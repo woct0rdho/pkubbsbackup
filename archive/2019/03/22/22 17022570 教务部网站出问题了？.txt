@@ -1,4 +1,4 @@
-#t 22 17022570 liuxilai 2019-03-22 00:10:00 DeanPKU 2019-03-22 13:47:00
+#t 22 17022570 liuxilai 2019-03-22 00:10:00 DeanPKU 2019-03-27 14:19:00
 教务部网站出问题了？
 
 #p 19753228 liuxilai Lewsley 2019-03-22 10:40:42
@@ -16,5 +16,13 @@
 我的成绩功能目前能查到主修成绩，辅修双学位成绩的查询正在调整，下周上线。
 如您急需查询辅修双学位成绩，可电话或者到辅双院系教务办公室查询，给同学们造成的困扰表示抱歉！
 如有个别问题，欢迎联系教务部网络室，电话62751435
+#quote liuxilai
+
+#p 19776226 DeanPKU 北京大学教务部 2019-03-27 14:18:15
+同学你好，
+新版教务部网站的学生网上服务大厅迁移到新地址：
+[http://www.dean.pku.edu.cn/service/web/mainlogin.php](jump-to.php?url=http%3A%2F%2Fwww.dean.pku.edu.cn%2Fservice%2Fweb%2Fmainlogin.php)
+查询主修/辅双成绩请从校内门户-&gt;教务部业务-&gt;我的成绩查看，或从[http://www.dean.pku.edu.cn/service/web/login.php](jump-to.php?url=http%3A%2F%2Fwww.dean.pku.edu.cn%2Fservice%2Fweb%2Flogin.php)进入。
+有问题请和教务部网络室反馈，电话62751435
 #quote liuxilai
 

@@ -1,7 +1,23 @@
-#t 22 17021244 RubyChao 2019-03-21 15:31:00 RubyChao 2019-03-21 15:31:00
+#t 22 17021244 RubyChao 2019-03-21 00:15:00 dingbur 2019-03-27 14:24:00
 求问新版教务部网站在哪里查成绩
 
 #p 19749606 RubyChao RUBY 2019-03-21 15:30:54
 如题，好久不登教务部网站，今天发现已经改版的了，是挺好看的，就是不知道在哪里查主修/双学位成绩...
 所以有人知道吗o(╥﹏╥)o
+
+#p 19776218 DeanPKU 北京大学教务部 2019-03-27 14:18:39
+
+
+2019-03-27 14:16:57
+同学你好，
+新版教务部网站的学生网上服务大厅迁移到新地址：
+[http://www.dean.pku.edu.cn/service/web/mainlogin.php](jump-to.php?url=http%3A%2F%2Fwww.dean.pku.edu.cn%2Fservice%2Fweb%2Fmainlogin.php)
+查询主修/辅双成绩请从校内门户-&gt;教务部业务-&gt;我的成绩查看，或从[http://www.dean.pku.edu.cn/service/web/login.php](jump-to.php?url=http%3A%2F%2Fwww.dean.pku.edu.cn%2Fservice%2Fweb%2Flogin.php)进入。
+有问题请和教务部网络室反馈，电话62751435
+#quote RubyChao
+
+#p 19776251 dingbur dingbur 2019-03-27 14:23:32
+请老师看一下这个帖子：[https://bbs.pku.edu.cn/v2/post-read.php?bid=438&amp;threadid=17029614](post-read.php?bid=438&amp;threadid=17029614)
+在主页上增加一个新版服务大厅的链接吧，反正我是在看到这个帖子没找到新版的网上服务大厅。寒假的时候查本科成绩可把我折腾坏了
+#quote DeanPKU
 
