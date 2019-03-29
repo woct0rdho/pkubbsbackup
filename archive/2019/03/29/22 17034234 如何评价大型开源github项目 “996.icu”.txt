@@ -1,0 +1,13 @@
+#t 22 17034234 guangxiang 2019-03-29 10:13:00 guangxiang 2019-03-29 10:13:00
+如何评价大型开源github项目 “996.icu”
+
+#p 19788583 guangxiang 花然 2019-03-29 10:11:55
+该网站陈述：
+按照劳动法规定，996 工作制下只有拿到当前工资的 2.275 倍，才在经济账上不吃亏。
+什么是 996.ICU？工作 996，生病 ICU。
+链接：[https://996.icu/#/zh_CN](jump-to.php?url=https%3A%2F%2F996.icu%2F%23%2Fzh_CN)
+
+#p 19788806 guangxiang 花然 2019-03-29 10:15:45
+一天多点，点赞已经70k，成为github星星涨速最快的项目
+#quote guangxiang
+
