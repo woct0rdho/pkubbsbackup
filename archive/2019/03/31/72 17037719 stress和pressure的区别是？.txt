@@ -1,0 +1,20 @@
+#t 72 17037719 ChairmanJ 2019-03-31 16:52:00 ChairmanJ 2019-03-31 17:08:00
+stress和pressure的区别是？
+
+#p 19867522 ChairmanJ 僵还是老的辣 2019-03-31 16:50:48
+
+
+2019-03-31 16:50:40
+pressure是一阶张量
+stress是二阶张量
+
+#p 19867545 naiiive 不忘初心 牢记使命 2019-03-31 16:58:13
+chairman和president的区别？
+#quote ChairmanJ
+
+#p 19867568 ChairmanJ 僵还是老的辣 2019-03-31 17:06:30
+General Secretary of the Central Committee of the Communist Party of China
+Chairman of the Central Military Commission (of the Communist Party of China)
+President of the People's Republic of China
+#quote naiiive
+
