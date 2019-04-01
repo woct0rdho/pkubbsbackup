@@ -1,4 +1,4 @@
-#t 72 17037719 ChairmanJ 2019-03-31 00:16:00 nfpeng 2019-03-31 20:47:00
+#t 72 17037719 ChairmanJ 2019-03-31 00:16:00 MLlorente 2019-04-01 15:25:00
 stress和pressure的区别是？
 
 #p 19867522 ChairmanJ 僵还是老的辣 2019-03-31 16:50:48
@@ -30,4 +30,8 @@ emperor不一定是dictator，也可能是虚君
 pressure是零阶张量谢谢
 #quote ChairmanJ
 发自我的“北大未名”iOS客户端([http://t.cn/R7ZhtYc](jump-to.php?url=http%3A%2F%2Ft.cn%2FR7ZhtYc))
+
+#p 19871281 MLlorente 略伦特 2019-04-01 15:25:11
+有道理
+#quote ChairmanJ
 
