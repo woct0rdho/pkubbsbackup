@@ -1,4 +1,4 @@
-#t 22 17038237 Okubo 2019-03-31 00:23:00 yuanshuai 2019-04-01 17:53:00
+#t 22 17038237 Okubo 2019-03-31 00:23:00 alreadygay 2019-04-02 11:12:00
 请教一下caj如何转化为pdf
 
 #p 19868873 Okubo Okubo 2019-03-31 23:54:04
@@ -16,5 +16,9 @@ caj真的是很让人无语，给人感觉很小心眼儿。另存为里面只�
 ② 最开始是CAJ（十六进制为43 41 4A），可以用这个转为pdf：[https://github.com/ElonH/caj2pdf_gui](jump-to.php?url=https%3A%2F%2Fgithub.com%2FElonH%2Fcaj2pdf_gui)
 ③ 最开始是HN（十六进制为48 4E），按照caj2pdf作者的说法，目前是不支持转化的。不过好像此类文件一般都是扫描文件，用官方自带的打印也没太大影响。（似乎这样的文件都有“Tsinghua Tongfang Optical Disc Co.,Ltd.”的字样，不知道采用同方的什么技术）
 ④ 还遇到过一些奇行种，例如开头是C8 00之类的……这类的文件我没有遇到转换成功的例子，但caj2pdf的作者也没有明确说明这类文件不能转换。既然是“佛系转换，成功与否，皆是玄学”，不妨死马当活马医？
+#quote Okubo
+
+#p 19881585 alreadygay 此号已基 2019-04-02 11:11:52
+访问知网海外版，搜出该文献，直接下载PDF版本
 #quote Okubo
 
