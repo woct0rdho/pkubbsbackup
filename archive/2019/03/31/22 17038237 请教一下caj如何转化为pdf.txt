@@ -1,4 +1,4 @@
-#t 22 17038237 Okubo 2019-03-31 00:23:00 Okubo 2019-04-02 14:13:00
+#t 22 17038237 Okubo 2019-03-31 00:23:00 wgj 2019-04-02 21:16:00
 请教一下caj如何转化为pdf
 
 #p 19868873 Okubo Okubo 2019-03-31 23:54:04
@@ -25,4 +25,12 @@ caj真的是很让人无语，给人感觉很小心眼儿。另存为里面只�
 #p 19882610 Okubo Okubo 2019-04-02 14:13:03
 收到，谢谢！
 #quote alreadygay
+
+#p 19884615 bayaer 尔雅吧 2019-04-02 20:41:17
+一般都可以直接下载pdf吧？学位论文的话就得用虚拟打印机了
+#quote Okubo
+
+#p 19884752 wgj wgj 2019-04-02 21:15:14
+有专门的转换器，在线[https://app.xunjiepdf.com/caj2pdf](jump-to.php?url=https%3A%2F%2Fapp.xunjiepdf.com%2Fcaj2pdf)或者自己下一个转换器就行。
+#quote Okubo
 
