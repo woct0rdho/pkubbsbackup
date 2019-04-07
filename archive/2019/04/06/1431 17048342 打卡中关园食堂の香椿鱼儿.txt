@@ -1,4 +1,4 @@
-#t 1431 17048342 xRoyal 2019-04-06 00:20:00 kimberley 2019-04-07 22:37:00
+#t 1431 17048342 xRoyal 2019-04-06 00:20:00 euio 2019-04-07 22:36:00
 打卡中关园食堂の香椿鱼儿
 
 #p 19990123 xRoyal 小兔 2019-04-06 20:32:31
@@ -95,6 +95,7 @@ why
 #quote kimberley
 
 #p 20002252 kimberley 问江北江南 2019-04-07 01:09:34
+#DELETED
 我只吃羊杂，不喝汤(◐‿◑)﻿
 #quote Homagod
 
@@ -146,6 +147,7 @@ why
 #quote Homagod
 
 #p 20024138 kimberley 问江北江南 2019-04-07 21:58:24
+#DELETED
 我喜欢就好呀
 #quote euio
 
@@ -156,6 +158,7 @@ why
 #quote kimberley
 
 #p 20024224 kimberley 问江北江南 2019-04-07 22:17:59
+#DELETED
 hhhhh生性散漫爱自由，懒
 #quote euio
 
@@ -164,6 +167,7 @@ hhhhh生性散漫爱自由，懒
 #quote kimberley
 
 #p 20024311 kimberley 问江北江南 2019-04-07 22:37:23
+#DELETED
 hhhhhhh往去处去了
 #quote euio
 
