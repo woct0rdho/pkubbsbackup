@@ -1,4 +1,4 @@
-#t 438 17053353 Singlewing 2019-04-09 19:18:00 Singlewing 2019-04-09 19:18:00
+#t 438 17053353 Singlewing 2019-04-09 00:19:00 out 2019-04-09 21:03:00
 北大课程外流如何保护老师们的知识产权？
 
 #p 20032891 Singlewing 佐翼魔爱鬼 2019-04-09 19:20:31
@@ -7,4 +7,8 @@
 2019-04-09 19:17:59
 心惊！虎嗅APP公众号也转了
 [https://mp.weixin.qq.com/mp/profile_ext?action=home&amp;__biz=MzIzNjc1NzUzMw==&amp;scene=110#wechat_redirect](jump-to.php?url=https%3A%2F%2Fmp.weixin.qq.com%2Fmp%2Fprofile_ext%3Faction%3Dhome%26__biz%3DMzIzNjc1NzUzMw%3D%3D%26scene%3D110%23wechat_redirect)
+
+#p 20033285 out Nginx 2019-04-09 21:02:14
+北大老师似乎都不是很在意，听其他学校同学说，他们自己都很难拿到上课的课件的
+#quote Singlewing
 
