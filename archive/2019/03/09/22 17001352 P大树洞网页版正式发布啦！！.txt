@@ -1,8 +1,11 @@
-#t 22 17001352 xmcp 2019-03-09 00:21:00 davy 2019-03-13 10:06:00
+#t 22 17001352 xmcp 2019-03-09 00:21:00 xmcp 2019-04-11 18:31:00
 P大树洞网页版正式发布啦！！
 
-#p 19696773 xmcp 肖某 2019-03-09 21:11:32
-[http://pkuhelper.com/hole/](jump-to.php?url=http%3A%2F%2Fpkuhelper.com%2Fhole%2F)
+#p 19696773 xmcp 肖某 2019-04-11 18:29:29
+
+
+2019-03-09 21:11:32
+[https://pkuhelper.pku.edu.cn/hole](jump-to.php?url=https%3A%2F%2Fpkuhelper.pku.edu.cn%2Fhole)
 前身是 hole.xmcp.ml，这几天从免费主机迁移到了PKU Helper的服务器上，访问速度不输客户端。
 这个网页版不仅支持电脑手机平板全平台使用，可以充分利用屏幕空间，还解决了pku helper客户端浏览树洞的一些痛点，例如查看回复不方便、不显示哪些树洞是新刷出来的、搜索结果仅显示前几十条等等。
 总之大家多多资磁啦~
@@ -83,5 +86,10 @@ emmmm 是点登录按钮之后整个页面变成白屏吗？
 
 #p 19711453 davy 青研🐂🍺 2019-03-13 10:05:21
 请问在哪里看被删的树洞啊
+#quote xmcp
+
+#p 20086711 xmcp 肖某 2019-04-11 18:30:25
+[https://pkuhelper.pku.edu.cn/hole](jump-to.php?url=https%3A%2F%2Fpkuhelper.pku.edu.cn%2Fhole)
+↑ 换了个域名，顺便支持了HTTPS，撒花
 #quote xmcp
 
