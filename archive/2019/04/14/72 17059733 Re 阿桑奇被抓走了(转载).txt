@@ -1,4 +1,4 @@
-#t 72 17059733 deepriver 2019-04-14 00:16:00 traj 2019-04-17 01:38:00
+#t 72 17059733 deepriver 2019-04-14 00:16:00 deepriver 2019-04-17 05:42:00
 Re 阿桑奇被抓走了(转载)
 
 #p 20099069 deepriver 江深林静 2019-04-14 16:34:55
@@ -46,4 +46,12 @@ Re 阿桑奇被抓走了(转载)
 分清category的同时考虑它们之间的morphism，是abstract nonsense基本素养之一哦？当然您要是想不清这些关系的话，可以随便找个正义的互联网社群做一下field experiment，比如转载个faux news的链接做论据反串共和党，代入低智商人群体验一把被辱骂的快感。
 顺带一提，您不会还以为1st amendment===新闻自由吧？
 #quote deepriver
+
+#p 20109623 deepriver 江深林静 2019-04-17 05:30:07
+分清是前提。我已经acknowledge分清之后有问题值得聊了。
+#quote traj
+
+#p 20109638 deepriver 江深林静 2019-04-17 05:41:41
+btw虽然我能懂你的意思，但是用词还是要严谨。object vs morphism，category之间的叫functor，不是所有的functor都能看作morphism。
+#quote traj
 
