@@ -1,4 +1,4 @@
-#t 22 17071840 WallaceBbec 2019-04-21 11:55:00 boson 2019-04-21 11:56:00
+#t 22 17071840 WallaceBbec 2019-04-21 11:56:00 rubyhyd 2019-04-21 12:25:00
 家里的兔子生了一窝小兔子，求大家帮忙起名
 
 #p 20127871 WallaceBbec 埃及猫神 2019-04-21 11:55:15
@@ -6,5 +6,9 @@
 
 #p 20127872 boson I'm not fermion 2019-04-21 11:55:47
 复活节兔子
+#quote WallaceBbec
+
+#p 20127925 rubyhyd object_missing 2019-04-21 12:23:58
+麻辣，红烧，干煸，香锅，鱼香…
 #quote WallaceBbec
 
