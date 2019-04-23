@@ -1,4 +1,4 @@
-#t 22 17075140 wangzilong 2019-04-23 00:15:00 jimmielin 2019-04-23 18:18:00
+#t 22 17075140 wangzilong 2019-04-23 00:15:00 xmcp 2019-04-23 23:41:00
 树洞凉了？
 
 #p 20136734 wangzilong PrinsDragon 2019-04-23 15:14:14
@@ -21,5 +21,10 @@ pku treehole指的是 [http://pkuhelper.pku.edu.cn/hole/](jump-to.php?url=http%3
 
 #p 20137557 jimmielin JimmieLin 2019-04-23 18:17:50
 同学你好~ 近期iOS版本PKU Helper因服务器访问方式调整暂时无法访问, 这两天会紧急更新修复问题. 目前水树洞可以通过 [http://pkuhelper.pku.edu.cn/hole/](jump-to.php?url=http%3A%2F%2Fpkuhelper.pku.edu.cn%2Fhole%2F) 访问网页版. 造成的不便很抱歉~
+#quote wangzilong
+
+#p 20138783 xmcp 肖某 2019-04-23 23:41:22
+ios端新版pkuhelper已经更新了，请去appstore及时更新即可解决问题。
+（另外android新版安装包在 pkuhelper.pku.edu.cn/applications/pkuhelper/pku-helper-3.0.5pl1.apk ）
 #quote wangzilong
 
