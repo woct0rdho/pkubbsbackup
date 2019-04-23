@@ -1,4 +1,4 @@
-#t 22 17074780 lixiangzhong 2019-04-23 10:39:00 kimberley 2019-04-23 11:02:00
+#t 22 17074780 lixiangzhong 2019-04-23 00:10:00 out 2019-04-23 13:05:00
 大家觉得自己是风险厌恶者还是风险偏好者呢
 
 #p 20135570 lixiangzhong lixiangzhong 2019-04-23 10:38:26
@@ -6,5 +6,9 @@
 
 #p 20135674 kimberley 本是无意穿堂风 2019-04-23 11:01:41
 站偏好者一票
+#quote lixiangzhong
+
+#p 20136252 out Nginx 2019-04-23 13:04:17
+有得兜底的话我偏好风险，否则厌恶
 #quote lixiangzhong
 
