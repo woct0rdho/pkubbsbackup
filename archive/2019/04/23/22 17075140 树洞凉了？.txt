@@ -1,4 +1,4 @@
-#t 22 17075140 wangzilong 2019-04-23 00:15:00 under 2019-04-23 16:49:00
+#t 22 17075140 wangzilong 2019-04-23 00:15:00 HugoT 2019-04-23 17:02:00
 树洞凉了？
 
 #p 20136734 wangzilong PrinsDragon 2019-04-23 15:14:14
@@ -13,5 +13,9 @@
 
 #p 20137204 under stand 2019-04-23 16:48:56
 只好来水BBS
+#quote wangzilong
+
+#p 20137253 HugoT Hugo 2019-04-23 17:01:44
+pku treehole指的是 [http://pkuhelper.pku.edu.cn/hole/](jump-to.php?url=http%3A%2F%2Fpkuhelper.pku.edu.cn%2Fhole%2F) 这个吗？
 #quote wangzilong
 
