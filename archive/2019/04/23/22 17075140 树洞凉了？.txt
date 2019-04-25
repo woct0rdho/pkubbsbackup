@@ -1,4 +1,4 @@
-#t 22 17075140 wangzilong 2019-04-23 00:15:00 xmcp 2019-04-23 23:42:00
+#t 22 17075140 wangzilong 2019-04-23 00:15:00 wangzilong 2019-04-25 10:57:00
 树洞凉了？
 
 #p 20136734 wangzilong PrinsDragon 2019-04-23 15:14:14
@@ -27,4 +27,12 @@ pku treehole指的是 [http://pkuhelper.pku.edu.cn/hole/](jump-to.php?url=http%3
 ios端新版pkuhelper已经更新了，请去appstore及时更新即可解决问题。
 （另外android新版安装包在 pkuhelper.pku.edu.cn/applications/pkuhelper/pku-helper-3.0.5pl1.apk ）
 #quote wangzilong
+
+#p 20144722 angelinawang angelina 2019-04-25 10:18:22
+ios更新后需要重新验证学号登陆，但是收不到验证码是什么原因呢？已经检查过手机号是正确的。无论网页还是app都是输入学号无法收到验证码
+#quote xmcp
+
+#p 20144892 wangzilong PrinsDragon 2019-04-25 10:56:16
+修好了就好，不过讲道理新版连网关都连不了的ios pkuhelper不考虑改善一下？？现在的helper远不及老版好用
+#quote xmcp
 
