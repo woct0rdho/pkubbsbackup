@@ -1,0 +1,14 @@
+#t 72 17078249 survivor 2019-04-26 12:58:00 survivor 2019-04-26 12:58:00
+Re 【For MM】我是个野指针，我木的对象(转载)
+
+#p 20150039 survivor TEETOTALER|每天都是一种练习 2019-04-26 12:57:40
+[原文由 WallaceBbec 发表在 PieBridge 版 &gt;&gt;&gt;](post-read.php?bid=167&amp;threadid=17078249)
+挺好，这个没说温家宝校友。
+上次那个胡锦涛老乡现在想想都出戏
+#quote highcool
+
+#p 20150040 survivor TEETOTALER|每天都是一种练习 2019-04-26 12:57:54
+[原文由 doufuliu 发表在 PieBridge 版 &gt;&gt;&gt;](post-read.php?bid=167&amp;threadid=17078249)
+野指针是之前有对象， 但是对象被销毁了。 所以指针指空了~~
+#quote highcool
+
