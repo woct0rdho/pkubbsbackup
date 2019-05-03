@@ -1,4 +1,4 @@
-#t 22 17088392 airvince 2019-05-02 00:23:00 glquad 2019-05-03 12:35:00
+#t 22 17088392 airvince 2019-05-02 00:23:00 innocency 2019-05-03 13:54:00
 就为了一个食堂跳一跳，至于这样么
 
 #p 20174578 airvince airvince 2019-05-02 23:02:59
@@ -73,4 +73,33 @@ NB，无话可说。你让别人正常玩的怎么想。你就是传说中的开
 #p 20176229 glquad 蘑菇 2019-05-03 12:34:48
 在电脑浏览器里能快一点
 #quote HeapsortYi
+
+#p 20176342 LifeMaxima Lee 2019-05-03 12:56:12
+难道我用微信头像玩的分数就是真的么？ 
+没有很多过分的还好吧。
+#quote airvince
+
+#p 20176395 tison tison 2019-05-03 13:01:10
+黑客（x
+#quote HeapsortYi
+
+#p 20176410 LifeMaxima Lee 2019-05-03 13:04:41
+这才是算法正确的 AI
+#quote HeapsortYi
+
+#p 20176422 glquad 蘑菇 2019-05-03 13:07:54
+我今天大幅优化了程序，在浏览器里用程序得了405分
+视频记录
+[https://www.bilibili.com/video/av51270848/](jump-to.php?url=https%3A%2F%2Fwww.bilibili.com%2Fvideo%2Fav51270848%2F)
+代码
+[https://github.com/cznull/sttyt](jump-to.php?url=https%3A%2F%2Fgithub.com%2Fcznull%2Fsttyt)
+#quote LifeMaxima
+
+#p 20176453 HeapsortYi Heapsort_Yi 2019-05-03 13:11:44
+没错，浏览器里应该要比真机调试快的多。但是不知道为啥，我昨天用浏览器登陆的时候反复卡在了验证码那里，就是登陆不进去。。。
+#quote glquad
+
+#p 20176585 innocency Zephyr 2019-05-03 13:53:52
+我自己并没有那个水平开挂，我是觉得这又不是游戏技能比赛，本来就是为了参与和纪念；条条大路通罗马，人家写程序拿高分也没什么错
+#quote mofaxuanlv
 
