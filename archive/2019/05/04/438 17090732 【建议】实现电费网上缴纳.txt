@@ -1,4 +1,4 @@
-#t 438 17090732 ChairmanJ 2019-05-04 19:30:00 ChairmanJ 2019-05-04 19:31:00
+#t 438 17090732 ChairmanJ 2019-05-04 00:19:00 ChairmanJ 2019-05-04 20:56:00
 【建议】实现电费网上缴纳
 
 #p 20180886 ChairmanJ 僵还是老的辣 2019-05-04 19:29:54
@@ -8,4 +8,12 @@
 #p 20180890 ChairmanJ 僵还是老的辣 2019-05-04 19:30:48
 @DLZX
 #quote ChairmanJ
+
+#p 20181074 tzlewis llillusion 2019-05-04 20:36:41
+微信能缴费
+#quote ChairmanJ
+
+#p 20181131 ChairmanJ 僵还是老的辣 2019-05-04 20:55:20
+在哪里交 我没找到入口
+#quote tzlewis
 
