@@ -1,6 +1,14 @@
-#t 22 17096761 winterwinds 2019-05-08 14:55:00 winterwinds 2019-05-08 14:55:00
+#t 22 17096761 winterwinds 2019-05-08 00:14:00 ultraBad 2019-05-08 17:30:00
 为啥wiki英文也不能上了
 
 #p 20197295 winterwinds 冬风 2019-05-08 14:52:29
 到底想干嘛啊
+
+#p 20197891 ultraBad 带带释明空 2019-05-08 17:29:03
+hosts里加上这几个记录
+2620:0:860:ed1a::1 wikipedia.org
+2620:0:860:ed1a::1 www.wikipedia.org
+2620:0:860:ed1a::1 zh.wikipedia.org
+2620:0:860:ed1a::1 en.wikipedia.org
+#quote winterwinds
 
