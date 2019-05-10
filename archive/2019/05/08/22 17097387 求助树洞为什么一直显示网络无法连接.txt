@@ -1,4 +1,4 @@
-#t 22 17097387 bailangdx 2019-05-08 21:53:00 bailangdx 2019-05-08 21:55:00
+#t 22 17097387 bailangdx 2019-05-08 00:21:00 HugoT 2019-05-10 13:16:00
 求助树洞为什么一直显示网络无法连接
 
 #p 20198841 bailangdx yichengbr 2019-05-08 21:51:31
@@ -6,5 +6,9 @@
 
 #p 20198855 bailangdx yichengbr 2019-05-08 21:53:13
 pku helper……
+#quote bailangdx
+
+#p 20205574 HugoT Hugo 2019-05-10 13:15:35
+试试这个？ [https://pkuhelper.pku.edu.cn/applications/pkuhelper/pku-helper-3.0.5pl1.apk](jump-to.php?url=https%3A%2F%2Fpkuhelper.pku.edu.cn%2Fapplications%2Fpkuhelper%2Fpku-helper-3.0.5pl1.apk)
 #quote bailangdx
 
