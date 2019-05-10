@@ -1,4 +1,4 @@
-#t 22 17001352 xmcp 2019-03-09 00:21:00 Brainor 2019-04-17 10:22:00
+#t 22 17001352 xmcp 2019-03-09 00:21:00 xmcp 2019-05-10 14:50:00
 P大树洞网页版正式发布啦！！
 
 #p 19696773 xmcp 肖某 2019-04-11 18:29:29
@@ -39,7 +39,7 @@ emmmm 是点登录按钮之后整个页面变成白屏吗？
 点赞 d=====(￣▽￣*)b厉害
 #quote xmcp
 
-#p 19699118 creature of indolence（Feminist） 2019-03-10 14:52:50
+#p 19699118 creature AAAAA（Feminist） 2019-03-10 14:52:50
 希望有回复的快捷键，比如Enter或者Ctrl+Enter
 #quote xmcp
 
@@ -66,13 +66,13 @@ emmmm 是点登录按钮之后整个页面变成白屏吗？
 已经添加了快捷键功能，在侧边栏打开时按Enter可以将焦点移动到回复框，在回复框按Ctrl+Enter可以提交
 #quote creature
 
-#p 19699427 creature of indolence（Feminist） 2019-03-10 16:27:32
+#p 19699427 creature AAAAA（Feminist） 2019-03-10 16:27:32
 哇好棒
 是真人回复嘛
 捏~
 #quote xmcp
 
-#p 19699433 creature of indolence（Feminist） 2019-03-10 16:28:33
+#p 19699433 creature AAAAA（Feminist） 2019-03-10 16:28:33
 求github网址
 #quote xmcp
 
@@ -104,4 +104,11 @@ emmmm 是点登录按钮之后整个页面变成白屏吗？
 #p 20110327 Brainor Leong 2019-04-17 10:21:35
 好厉害!
 #quote xmcp
+
+#p 20205993 xmcp 肖某 2019-05-10 14:49:33
+
+
+2019-05-10 14:49:18
+添加了设置页面，点右上角的按钮，选“树洞网页版设置”可以修改背景图片。
+之前用命令修改背景图片的麻烦重新设一下#=_=
 
