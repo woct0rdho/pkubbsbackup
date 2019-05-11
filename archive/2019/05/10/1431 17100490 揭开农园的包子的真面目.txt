@@ -1,4 +1,4 @@
-#t 1431 17100490 xiaobell 2019-05-10 00:20:00 wad 2019-05-11 15:02:00
+#t 1431 17100490 xiaobell 2019-05-10 00:20:00 toward 2019-05-11 16:20:00
 揭开农园的包子的真面目
 
 #p 20207162 xiaobell bellbell 2019-05-10 20:16:35
@@ -177,4 +177,24 @@ old brother生气了！
     return nothing;
 }
 #quote wad
+
+#p 20210010 wasmonarch shriek 2019-05-11 15:09:01
+一口没咬到 二口咬过了😆
+#quote xiaobell
+
+#p 20210047 watem  2019-05-11 15:20:38
+政治隐喻
+#quote xiaobell
+
+#p 20210101 KakaHiguain 😶 2019-05-11 15:35:23
+争先恐后来送死=。=
+#quote caomy
+
+#p 20210142 Zhihao 嚣晨 2019-05-11 15:44:52
+我是包子本人，没发育好，不好意思！
+#quote xiaobell
+
+#p 20210248 toward 正行 2019-05-11 16:17:24
+看不懂说明你是一位正直的社会主义好青年（
+#quote wyxiang
 
