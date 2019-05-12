@@ -1,6 +1,10 @@
-#t 22 17102196 ArcherLiu 2019-05-12 01:00:00 ArcherLiu 2019-05-12 01:00:00
+#t 22 17102196 ArcherLiu 2019-05-12 00:00:00 HugoT 2019-05-12 13:41:00
 安卓pku helper里的树洞是不是挂了
 
 #p 20211827 ArcherLiu Archer.L 2019-05-12 00:59:52
 已经一周没有上树洞了，本来想删掉重新下载pku helper，发现北大地带官网的二维码也g了？？？
+
+#p 20213290 HugoT Hugo 2019-05-12 13:40:09
+[https://pkuhelper.pku.edu.cn/applications/pkuhelper/pku-helper-3.0.5pl1.apk](jump-to.php?url=https%3A%2F%2Fpkuhelper.pku.edu.cn%2Fapplications%2Fpkuhelper%2Fpku-helper-3.0.5pl1.apk)
+#quote ArcherLiu
 
