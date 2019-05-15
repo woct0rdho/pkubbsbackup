@@ -1,7 +1,11 @@
-#t 72 17107856 jinkelababy 2019-05-15 21:00:00 jinkelababy 2019-05-15 21:00:00
+#t 72 17107856 jinkelababy 2019-05-15 00:20:00 out 2019-05-15 22:09:00
 北大官方发邮件带空格？？？这是某种网站风格(转载)
 
 #p 20228423 jinkelababy 洪金宝 2019-05-15 20:59:44
 [原文由 woshigui 发表在 Triangle 版 &gt;&gt;&gt;](post-read.php?bid=22&amp;threadid=17107856)
 rt，就那个停电通知，我以为是某种网站的垃圾邮件，还寻思居然没识别出来？
+
+#p 20228697 out Nginx 2019-05-15 22:08:18
+空一格
+#quote jinkelababy
 

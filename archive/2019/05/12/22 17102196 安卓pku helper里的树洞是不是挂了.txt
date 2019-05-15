@@ -1,4 +1,4 @@
-#t 22 17102196 ArcherLiu 2019-05-12 00:00:00 HugoT 2019-05-12 13:41:00
+#t 22 17102196 ArcherLiu 2019-05-12 00:00:00 ArcherLiu 2019-05-15 22:00:00
 安卓pku helper里的树洞是不是挂了
 
 #p 20211827 ArcherLiu Archer.L 2019-05-12 00:59:52
@@ -7,4 +7,8 @@
 #p 20213290 HugoT Hugo 2019-05-12 13:40:09
 [https://pkuhelper.pku.edu.cn/applications/pkuhelper/pku-helper-3.0.5pl1.apk](jump-to.php?url=https%3A%2F%2Fpkuhelper.pku.edu.cn%2Fapplications%2Fpkuhelper%2Fpku-helper-3.0.5pl1.apk)
 #quote ArcherLiu
+
+#p 20228667 ArcherLiu Archer.L 2019-05-15 21:58:20
+感谢！
+#quote HugoT
 
