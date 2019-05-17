@@ -1,4 +1,4 @@
-#t 22 17110154 hsifdetlas 2019-05-17 00:00:00 zhangwenjie 2019-05-17 06:56:00
+#t 22 17110154 hsifdetlas 2019-05-17 00:00:00 hsifdetlas 2019-05-18 02:34:00
 pku helper
 
 #p 20234624 hsifdetlas 未命名x号 2019-05-17 00:49:13
@@ -8,4 +8,13 @@ pku helper
 #p 20235023 zhangwenjie 豆沙馅的绿豆糕 2019-05-17 06:55:15
 pkuhelper.pku.edu.cn
 #quote hsifdetlas
+
+#p 20239859 hsifdetlas 未命名x号 2019-05-18 02:32:08
+手机完全看不到下载链接
+#quote zhangwenjie
+
+#p 20239861 hsifdetlas 未命名x号 2019-05-18 02:34:02
+可以啦谢谢(*°∀°)=3
+看来昨天有bug
+#quote zhangwenjie
 
