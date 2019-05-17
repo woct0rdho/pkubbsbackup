@@ -1,7 +1,11 @@
-#t 22 17110154 hsifdetlas 2019-05-17 00:50:00 hsifdetlas 2019-05-17 00:50:00
+#t 22 17110154 hsifdetlas 2019-05-17 00:00:00 zhangwenjie 2019-05-17 06:56:00
 pku helper
 
 #p 20234624 hsifdetlas 未命名x号 2019-05-17 00:49:13
 删除了helper，发现现在网上的都上不了了。
 求一个安卓新版helper传送门
+
+#p 20235023 zhangwenjie 豆沙馅的绿豆糕 2019-05-17 06:55:15
+pkuhelper.pku.edu.cn
+#quote hsifdetlas
 
