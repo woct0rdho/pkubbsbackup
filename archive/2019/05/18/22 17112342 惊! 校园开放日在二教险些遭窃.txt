@@ -1,4 +1,4 @@
-#t 22 17112342 gonglinyuan 2019-05-18 14:16:00 Camford 2019-05-18 14:31:00
+#t 22 17112342 gonglinyuan 2019-05-18 00:14:00 out 2019-05-18 15:49:00
 惊! 校园开放日在二教险些遭窃
 
 #p 20241340 gonglinyuan gonglinyuan 2019-05-18 14:15:36
@@ -16,5 +16,9 @@
 
 #p 20241390 Camford TARDIS 2019-05-18 14:30:38
 别的同学也有可能受害的
+#quote gonglinyuan
+
+#p 20241656 out Nginx 2019-05-18 15:49:21
+注意安全，一个人自习贵重物品一定要随身带。。。。
 #quote gonglinyuan
 
