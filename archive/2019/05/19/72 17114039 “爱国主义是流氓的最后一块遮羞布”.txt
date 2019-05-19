@@ -1,4 +1,4 @@
-#t 72 17114039 motaguoke 2019-05-19 16:35:00 motaguoke 2019-05-19 16:35:00
+#t 72 17114039 motaguoke 2019-05-19 16:35:00 motaguoke 2019-05-19 17:19:00
 “爱国主义是流氓的最后一块遮羞布”
 
 #p 20246136 motaguoke 孤帆远影 2019-05-19 16:35:12
@@ -40,4 +40,8 @@ Trump “is right that farmers are patriots,” said Dale Moore, executive vice 
 美国农业局联合会执行副主席戴尔·摩尔说，特朗普“说农民是爱国者是对的”。
 “But it’s hard for farmers to take patriotism to their banker to ask for a loan,” he added.
 “但农民很难凭着爱国主义到他们的银行家那里去要求贷款，”他补充说。
+
+#p 20246394 motaguoke 孤帆远影 2019-05-19 17:18:55
+“你爱国，可国不爱你”
+#quote motaguoke
 
