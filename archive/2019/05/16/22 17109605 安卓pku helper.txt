@@ -1,4 +1,4 @@
-#t 22 17109605 hhh 2019-05-16 00:18:00 StellaZhqx 2019-05-20 13:28:00
+#t 22 17109605 hhh 2019-05-16 00:18:00 liuxilai 2019-05-20 20:13:00
 安卓pku helper
 
 #p 20232726 hhh 飞呀飞呀 2019-05-16 18:24:33
@@ -8,4 +8,12 @@
 #p 20250354 StellaZhqx 村口老张家养的猪 2019-05-20 13:28:06
 同问，在豌豆荚里重新下载了一个，但还是打不开树洞，总是显示网络未连接
 #quote hhh
+
+#p 20252057 liuxilai Lewsley 2019-05-20 20:11:45
+[http://pkuhelper.pku.edu.cn/download.php?platform=Android](jump-to.php?url=http%3A%2F%2Fpkuhelper.pku.edu.cn%2Fdownload.php%3Fplatform%3DAndroid)
+#quote hhh
+
+#p 20252058 liuxilai Lewsley 2019-05-20 20:12:11
+这个是最新版的
+#quote liuxilai
 
