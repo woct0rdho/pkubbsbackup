@@ -1,0 +1,11 @@
+#t 22 17117320 motaguoke 2019-05-21 19:36:00 motaguoke 2019-05-21 19:40:00
+一个严肃的问题，开源的几个协议和github冲突吗？
+
+#p 20256687 motaguoke 孤帆远影 2019-05-21 19:35:54
+才发现了这个[https://help.github.com/en/articles/github-and-export-controls](jump-to.php?url=https%3A%2F%2Fhelp.github.com%2Fen%2Farticles%2Fgithub-and-export-controls)
+
+#p 20256705 motaguoke 孤帆远影 2019-05-21 19:40:02
+[https://mp.weixin.qq.com/s/xiTBA03FHvrqlOvB7IkU4Q](jump-to.php?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FxiTBA03FHvrqlOvB7IkU4Q)
+搜到的资料之一，因缺思厅
+#quote motaguoke
+
