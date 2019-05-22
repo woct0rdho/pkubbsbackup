@@ -1,4 +1,4 @@
-#t 22 17118863 CarolineC 2019-05-22 19:34:00 ChairmanJ 2019-05-22 20:13:00
+#t 22 17118863 CarolineC 2019-05-22 00:19:00 toward 2019-05-22 23:05:00
 树洞为什么不能用
 
 #p 20261060 CarolineC 豆豆小甜甜 2019-05-22 19:33:54
@@ -10,5 +10,9 @@
 
 #p 20261184 ChairmanJ 僵还是老的辣 2019-05-22 20:12:53
 [http://pkuhelper.pku.edu.cn/hole/](jump-to.php?url=http%3A%2F%2Fpkuhelper.pku.edu.cn%2Fhole%2F)
+#quote CarolineC
+
+#p 20261767 toward 正行 2019-05-22 23:05:17
+我下了最新版pkuhelper之后就可以访问了，见楼上官网
 #quote CarolineC
 
