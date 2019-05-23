@@ -1,4 +1,4 @@
-#t 22 17118803 Tranquilsun 2019-05-22 00:18:00 boson 2019-05-23 11:43:00
+#t 22 17118803 Tranquilsun 2019-05-22 00:18:00 icecodeliu 2019-05-23 13:33:00
 建议可以采纳，AED（自动体外除颤器）确实帮了忙
 
 #p 20260900 Tranquilsun 串口|丧|琅琊榜1NCF 2019-05-22 18:46:46
@@ -188,4 +188,8 @@ sp
 #p 20263582 boson boson 2019-05-23 11:42:59
 机器如果检测到人有正常(窦性)心律就会显示：不要电击
 #quote Baandarin
+
+#p 20306977 icecodeliu IceCodeNew 2019-05-23 13:33:16
+支持
+#quote Tranquilsun
 
