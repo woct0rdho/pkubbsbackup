@@ -1,0 +1,9 @@
+#t 72 17120628 deepriver 2019-05-23 21:29:00 deepriver 2019-05-23 21:29:00
+“请问”
+
+#p 20308804 deepriver 江深林静 2019-05-23 21:27:55
+请问贵站务组怎么有一个连“请问”都不会用的自己请自己的站务
+[https://bbs.pku.edu.cn/v2/post-read-single.php?bid=1&amp;type=0&amp;postid=20150660](post-read-single.php?bid=1&amp;type=0&amp;postid=20150660)
+还挂sysop版置顶，还收精华。
+以及可以更新BBShelp版上对应的（精华区）文章。
+
