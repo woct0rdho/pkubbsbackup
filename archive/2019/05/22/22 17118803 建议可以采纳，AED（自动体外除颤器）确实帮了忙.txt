@@ -1,4 +1,4 @@
-#t 22 17118803 Tranquilsun 2019-05-22 00:18:00 icecodeliu 2019-05-23 13:33:00
+#t 22 17118803 Tranquilsun 2019-05-22 00:18:00 nogatnep 2019-05-23 14:13:00
 建议可以采纳，AED（自动体外除颤器）确实帮了忙
 
 #p 20260900 Tranquilsun 串口|丧|琅琊榜1NCF 2019-05-22 18:46:46
@@ -191,5 +191,9 @@ sp
 
 #p 20306977 icecodeliu IceCodeNew 2019-05-23 13:33:16
 支持
+#quote Tranquilsun
+
+#p 20307208 nogatnep ko001 2019-05-23 14:12:58
+SP，至少每个单元一套，放在楼长室？
 #quote Tranquilsun
 
