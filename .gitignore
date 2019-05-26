@@ -1,6 +1,4 @@
+*.log
 *.py
 *.pyc
 __pycache__
-err.txt
-out.txt
-status.txt
