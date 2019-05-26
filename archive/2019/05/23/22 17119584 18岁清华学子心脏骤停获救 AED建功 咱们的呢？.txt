@@ -1,4 +1,4 @@
-#t 22 17119584 fenshouhappy 2019-05-23 00:08:00 out 2019-05-25 18:43:00
+#t 22 17119584 fenshouhappy 2019-05-23 00:08:00 vividliu 2019-05-26 01:18:00
 18岁清华学子心脏骤停获救 AED建功 咱们的呢？
 
 #p 20262714 fenshouhappy nannyrayray 2019-05-23 08:15:32
@@ -26,4 +26,8 @@
 #p 20316503 out Nginx 2019-05-25 18:43:20
 除了AED外，普及心肺复苏也很有必要，学校之前有活动教这个，给急救证的
 #quote fenshouhappy
+
+#p 20318079 vividliu vividliu 2019-05-26 01:17:53
+哪里可以接受这个培训啊
+#quote out
 
