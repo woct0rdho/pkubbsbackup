@@ -1,0 +1,14 @@
+#t 22 17129922 wky 2019-05-29 16:44:00 wky 2019-05-29 16:44:00
+今天树洞是崩了吗
+
+#p 20335256 wky Gammaman 2019-05-29 16:43:28
+直接连网址[https://pkuhelper.pku.edu.cn/hole/](jump-to.php?url=https%3A%2F%2Fpkuhelper.pku.edu.cn%2Fhole%2F) 连不上
+C:\Users\wky&gt;ping pkuhelper.pku.edu.cn
+正在 Ping pkuhelper.pku.edu.cn [162.105.209.58] 具有 32 字节的数据:
+请求超时。
+请求超时。
+请求超时。
+请求超时。
+162.105.209.58 的 Ping 统计信息:
+    数据包: 已发送 = 4，已接收 = 0，丢失 = 4 (100% 丢失)，
+
