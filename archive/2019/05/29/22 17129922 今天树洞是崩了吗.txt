@@ -1,4 +1,4 @@
-#t 22 17129922 wky 2019-05-29 16:44:00 abnormal 2019-05-29 17:35:00
+#t 22 17129922 wky 2019-05-29 00:16:00 wky 2019-05-29 18:47:00
 今天树洞是崩了吗
 
 #p 20335256 wky Gammaman 2019-05-29 16:43:28
@@ -19,4 +19,8 @@ C:\Users\wky&gt;ping pkuhelper.pku.edu.cn
 #p 20335502 abnormal 凡木 2019-05-29 17:34:16
 试试这个pkuhelper.pku.edu.cn/hole/
 #quote wky
+
+#p 20335812 wky Gammaman 2019-05-29 18:46:06
+和我的网址一样……发现就是https上不了，http能上……应该等会就好了……
+#quote abnormal
 
