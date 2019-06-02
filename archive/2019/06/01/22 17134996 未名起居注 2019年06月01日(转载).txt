@@ -1,4 +1,4 @@
-#t 22 17134996 WMWZ 2019-06-01 23:55:00 WMWZ 2019-06-01 23:55:00
+#t 22 17134996 WMWZ 2019-06-01 00:23:00 Camford 2019-06-02 10:33:00
 未名起居注 2019年06月01日(转载)
 
 #p 20351070 WMWZ 未名站刊工作组起居注编辑部 2019-06-01 23:54:39
@@ -74,4 +74,8 @@
 <font color="#000000">|     </font>&lt; &lt;╱╱                 <font color="#000000">**本期校对：**</font><font color="#00c0c0">**zincum**</font>
 <font color="#000000">|      </font>╲╱
 <font color="#000000">|      </font>╱╲    <font color="#c0c000">**北大未名BBS起居注编辑部 出品  **</font>▂▂▂▂▂ <font color="#000000">**bbs.pku.edu.cn **</font>▂▂
+
+#p 20352330 Camford TARDIS 2019-06-02 10:32:32
+bd
+#quote WMWZ
 
