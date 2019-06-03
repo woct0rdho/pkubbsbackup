@@ -1,4 +1,4 @@
-#t 22 17136277 Syword 2019-06-02 00:19:00 Wittgenstein 2019-06-03 07:53:00
+#t 22 17136277 Syword 2019-06-02 00:19:00 tactic 2019-06-03 08:54:00
 物美又卖过期食品！
 
 #p 20354673 Syword BearBigger 2019-06-02 19:50:06
@@ -45,5 +45,9 @@
 
 #p 20356393 Wittgenstein Wittgenstein 2019-06-03 07:52:50
 赔偿应该是1000块起吧
+#quote Syword
+
+#p 20356565 tactic Doodoodle 2019-06-03 08:53:22
+顶一个
 #quote Syword
 
