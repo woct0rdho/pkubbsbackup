@@ -1,4 +1,4 @@
-#t 1431 17139674 hushijiajun 2019-06-04 00:18:00 CoreM 2019-06-04 22:48:00
+#t 1431 17139674 hushijiajun 2019-06-04 00:18:00 CoreM 2019-06-04 23:49:00
 宿舍里用台式电脑会不会跳闸
 
 #p 20364926 hushijiajun 糊氏佳骏 2019-06-04 18:51:00
@@ -29,5 +29,17 @@ RT
 #p 20365872 CoreM AMDYES 2019-06-04 22:47:53
 看你cpu、显卡型号
 一般用不了750w（如果你电脑是近几年配的，价格在1w以内）
+#quote hushijiajun
+
+#p 20365936 hushijiajun 糊氏佳骏 2019-06-04 23:08:59
+还没买...
+准备入这个, 您看行不
+[https://www.hpstore.cn/desktops/omen-by-hp-obelisk-875-188rcn-6du01aa.html](jump-to.php?url=https%3A%2F%2Fwww.hpstore.cn%2Fdesktops%2Fomen-by-hp-obelisk-875-188rcn-6du01aa.html)
+#quote CoreM
+
+#p 20366072 CoreM AMDYES 2019-06-04 23:48:48
+i9 9900k + 2080ti
+好有钱……好有钱……膜拜土豪
+这个不超频应该没事，超频也能把功耗跑满啊
 #quote hushijiajun
 
