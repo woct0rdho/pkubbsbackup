@@ -1,4 +1,4 @@
-#t 1431 17139040 Sylviar 2019-06-04 00:11:00 kimberley 2019-06-04 18:50:00
+#t 1431 17139040 Sylviar 2019-06-04 00:11:00 forcuskra 2019-06-04 21:39:00
 为什么这碗东西也要3块钱？
 
 #p 20362790 Sylviar 瑾瑜 2019-06-04 11:24:15
@@ -16,4 +16,8 @@
 您若愿意，下次去燕南食堂就餐的时候，食堂愿意给您补偿一份番茄丝瓜汤。
 #quote Sylviar
 p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 14.0px '.PingFang SC Light'}
+
+#p 20365597 forcuskra forcus kra 2019-06-04 21:39:26
+这就是敌我区别，笑死我了
+#quote Sylviar
 
