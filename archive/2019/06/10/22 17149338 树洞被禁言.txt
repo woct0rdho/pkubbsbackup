@@ -1,4 +1,4 @@
-#t 22 17149338 wuxuanqi 2019-06-10 17:39:00 xmcp 2019-06-10 17:48:00
+#t 22 17149338 wuxuanqi 2019-06-10 00:17:00 cursebreaker 2019-06-10 18:57:00
 树洞被禁言
 
 #p 20390929 wuxuanqi LUCKy 2019-06-10 17:38:40
@@ -15,5 +15,12 @@ IOS 的PKU Helper没有给我发送被删除的信息啊
 
 #p 20390958 xmcp 肖某 2019-06-10 17:48:04
 唔，那可能是评论被删
+#quote wuxuanqi
+
+#p 20391138 cursebreaker Cascadia 2019-06-10 18:56:21
+[https://github.com/martinwu42/pkubbsbackup](jump-to.php?url=https%3A%2F%2Fgithub.com%2Fmartinwu42%2Fpkubbsbackup)
+[https://github.com/martinwu42/pkuholebackup](jump-to.php?url=https%3A%2F%2Fgithub.com%2Fmartinwu42%2Fpkuholebackup)
+[https://github.com/PKUDeleted/Holes](jump-to.php?url=https%3A%2F%2Fgithub.com%2FPKUDeleted%2FHoles)
+希望对你有帮助
 #quote wuxuanqi
 
