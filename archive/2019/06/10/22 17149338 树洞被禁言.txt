@@ -1,4 +1,4 @@
-#t 22 17149338 wuxuanqi 2019-06-10 00:17:00 cursebreaker 2019-06-10 18:57:00
+#t 22 17149338 wuxuanqi 2019-06-10 00:17:00 Itjp 2019-06-10 20:44:00
 树洞被禁言
 
 #p 20390929 wuxuanqi LUCKy 2019-06-10 17:38:40
@@ -22,5 +22,9 @@ IOS 的PKU Helper没有给我发送被删除的信息啊
 [https://github.com/martinwu42/pkuholebackup](jump-to.php?url=https%3A%2F%2Fgithub.com%2Fmartinwu42%2Fpkuholebackup)
 [https://github.com/PKUDeleted/Holes](jump-to.php?url=https%3A%2F%2Fgithub.com%2FPKUDeleted%2FHoles)
 希望对你有帮助
+#quote wuxuanqi
+
+#p 20391865 Itjp 江平 2019-06-10 20:43:05
+很久以前发的树洞被举报也会触发的
 #quote wuxuanqi
 
