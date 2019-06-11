@@ -1,4 +1,4 @@
-#t 1431 17149776 wyxiang 2019-06-10 00:21:00 Homagod 2019-06-11 09:58:00
+#t 1431 17149776 wyxiang 2019-06-10 00:21:00 ljtonly 2019-06-11 16:33:00
 已经不敢在海尔洗衣里乱动了
 
 #p 20392056 wyxiang SC_Bisu 2019-06-10 21:16:36
@@ -10,5 +10,9 @@
 
 #p 20393822 Homagod 不愉快です 2019-06-11 09:57:32
 什么鬼(ﾉД`)
+#quote wyxiang
+
+#p 20395718 ljtonly naïve 2019-06-11 16:32:31
+google play扫描了一下，提醒这个洗衣服的软件“This app is fake. it tries to take over your device or steal your data”
 #quote wyxiang
 
