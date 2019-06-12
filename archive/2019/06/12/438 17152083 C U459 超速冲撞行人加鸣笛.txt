@@ -1,4 +1,4 @@
-#t 438 17152083 propagator 2019-06-12 00:10:00 propagator 2019-06-12 13:12:00
+#t 438 17152083 propagator 2019-06-12 00:10:00 pkuerpkuer 2019-06-12 16:47:00
 C U459 超速冲撞行人加鸣笛
 
 #p 20398913 propagator 马甲 2019-06-12 10:17:52
@@ -15,4 +15,8 @@ C U459 超速冲撞行人加鸣笛
 #p 20399896 propagator 马甲 2019-06-12 13:12:02
 那倒没有，贴着人过的。
 #quote pkuerw
+
+#p 20400984 pkuerpkuer 觅觅彧彧 2019-06-12 16:46:56
+@pkubwb
+#quote propagator
 
