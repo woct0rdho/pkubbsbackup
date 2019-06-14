@@ -1,4 +1,4 @@
-#t 72 17156240 deepriver 2019-06-14 18:09:00 deepriver 2019-06-14 18:38:00
+#t 72 17156240 deepriver 2019-06-14 00:18:00 euio 2019-06-14 22:00:00
 “垃圾谷歌fake news”
 
 #p 20412226 deepriver 江深林静 2019-06-14 18:08:17
@@ -13,11 +13,23 @@
 fake news is so exciting
 #quote deepriver
 
-#p 20412355 deepriver 江深林静 2019-06-14 18:35:57
-呃肯定不是我的（不）点击造成了。
+#p 20412355 deepriver 江深林静 2019-06-14 19:21:23
+
+
+2019-06-14 18:35:57
+呃肯定不是我的（不）点击造成的。
 #quote Nameless
 
 #p 20412367 deepriver 江深林静 2019-06-14 18:37:15
 "How Trump's 'fake news' gave authoritarian leaders a new weapon"
 #quote Homagod
+
+#p 20413050 Hotarubi 说余梦|上海西站石泉路货场 2019-06-14 21:36:18
+这张图里也没有大纪元或其系列啊……
+#quote Nameless
+
+#p 20413128 euio 耳目一心 2019-06-14 21:59:57
+是呀
+说不准由于其长期虚假宣传被降权了呢
+#quote Hotarubi
 
