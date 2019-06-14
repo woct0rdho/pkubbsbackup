@@ -1,4 +1,4 @@
-#t 22 17155650 winterwinds 2019-06-14 00:10:00 motaguoke 2019-06-14 17:17:00
+#t 22 17155650 winterwinds 2019-06-14 00:10:00 winterwinds 2019-06-14 18:57:00
 仅仅好奇，他们要全面禁止翻墙是很容易的吗？
 
 #p 20410410 winterwinds 冬风 2019-06-14 10:33:59
@@ -39,4 +39,8 @@
 等一下，这个规定似乎是为了防止卖数据的吧，像前几天某个组织建立的人肉数据库？
 翻墙这是个precision和recall balance的问题【
 #quote winterwinds
+
+#p 20412457 winterwinds 冬风 2019-06-14 18:56:53
+可不可以粗略解释一下这两个词指什么
+#quote motaguoke
 
