@@ -1,0 +1,11 @@
+#t 22 17160886 yizhanlikai 2019-06-17 16:42:00 PKUCC 2019-06-17 16:59:00
+人脸识别查无此人Q_Q
+
+#p 20424967 yizhanlikai 驿站梨开 2019-06-17 16:42:06
+实在不知道这个该在哪里问，每次进校门和图书馆人脸识别都失败，摘掉眼镜和理头发都没用，感觉应该不是机器识别的问题应该是系统里没有我的信息？但是开学报道的时候明明有上传过照片和现场认证呀，想知道是我缺少了什么操作吗T_T
+
+#p 20425041 PKUCC 北京大学计算中心 2019-06-17 16:59:08
+同学你好，可以用人脸采集小程序更新人脸信息。
+[https://portal.pku.edu.cn/portal2017/#/deptNoticeDetail/334148](jump-to.php?url=https%3A%2F%2Fportal.pku.edu.cn%2Fportal2017%2F%23%2FdeptNoticeDetail%2F334148)
+#quote yizhanlikai
+
