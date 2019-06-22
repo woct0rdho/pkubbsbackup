@@ -1,4 +1,4 @@
-#t 1431 17129187 datalwj 2019-05-29 00:09:00 machaopku 2019-06-22 16:11:00
+#t 1431 17129187 datalwj 2019-05-29 00:09:00 propagator 2019-06-22 19:09:00
 吐槽：博士退宿补贴申请太麻烦
 
 #p 20332759 datalwj 静水流深 2019-05-29 09:28:59
@@ -38,4 +38,9 @@
 #p 20446725 machaopku 修行者 2019-06-22 16:10:37
 同学你好，你的宿舍可以转租吗
 #quote datalwj
+
+#p 20447189 propagator 马甲 2019-06-22 19:08:52
+按照规定（13、14条）只能出租给异性
+[http://www.dean.pku.edu.cn/web/rules_info.php?id=58](jump-to.php?url=http%3A%2F%2Fwww.dean.pku.edu.cn%2Fweb%2Frules_info.php%3Fid%3D58)
+#quote machaopku
 
