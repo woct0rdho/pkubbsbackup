@@ -1,4 +1,4 @@
-#t 1431 17178396 monolingual 2019-06-28 00:06:00 Aserendipity 2019-06-28 10:33:00
+#t 1431 17178396 monolingual 2019-06-28 00:06:00 monolingual 2019-06-28 11:36:00
 松林不卖青菜包了？
 
 #p 20472399 monolingual monolingual 2019-06-28 06:57:21
@@ -7,4 +7,8 @@
 #p 20473014 Aserendipity As 2019-06-28 10:32:06
 同学您好，制作青菜包的机器最近在调试，如果顺利的话，近两天将尽快恢复供应！
 #quote monolingual
+
+#p 20473289 monolingual monolingual 2019-06-28 11:35:33
+#quote Aserendipity
+这个情况持续了至少一个月，能尽快恢复最好了
 
