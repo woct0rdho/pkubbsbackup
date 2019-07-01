@@ -1,4 +1,4 @@
-#t 22 17182874 wjhmacro 2019-07-01 00:00:00 jiamingpku 2019-07-01 19:36:00
+#t 22 17182874 wjhmacro 2019-07-01 00:00:00 Homagod 2019-07-01 21:52:00
 为什么校园网看B站无法访问服务器呢？
 
 #p 20484291 wjhmacro Macro 2019-07-01 00:02:39
@@ -14,5 +14,9 @@
 
 #p 20487769 jiamingpku jiamingpku 2019-07-01 19:35:20
 @PKUCC
+#quote wjhmacro
+
+#p 20488366 Homagod 不愉快です 2019-07-01 21:51:57
+是被b站限速了吗 ʘᴗʘ
 #quote wjhmacro
 
