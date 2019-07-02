@@ -1,4 +1,4 @@
-#t 251 17182958 skytale 2019-07-01 00:01:00 boynextdoor 2019-07-02 12:39:00
+#t 251 17182958 skytale 2019-07-01 00:01:00 Homagod 2019-07-02 14:36:00
 震惊！！程序员利用AI算法一键“脱掉”女性衣物
 
 #p 20484562 skytale 非正常离站，时间不详 2019-07-01 09:34:40
@@ -524,4 +524,8 @@ edge detection 应该可以通过不同的 training dataset 来处理。
 #p 20490724 boynextdoor boynextdoor 2019-07-02 12:38:53
 高中生物必修一的肌肉女王请求出战
 #quote skytale
+
+#p 20491343 Homagod 不愉快です 2019-07-02 14:35:17
+不是说要有男生版了吗...
+#quote chorious
 
