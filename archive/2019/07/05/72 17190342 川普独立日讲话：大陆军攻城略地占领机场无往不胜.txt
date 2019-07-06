@@ -1,4 +1,4 @@
-#t 72 17190342 Hotarubi 2019-07-05 00:11:00 Leihaoran 2019-07-06 16:51:00
+#t 72 17190342 Hotarubi 2019-07-05 00:11:00 thinky 2019-07-06 17:27:00
 川普独立日讲话：大陆军攻城略地占领机场无往不胜
 
 #p 20504839 Hotarubi 说余梦|上海西站石泉路货场 2019-07-05 12:06:16
@@ -48,4 +48,8 @@ In June of 1775 the Continental Congress created a unified Army out of the Revol
 因为我改了下游戏代码w
 不需要盟军作战实验室也可以造幻影坦克
 #quote SFWZ
+
+#p 20509468 thinky 披风罗汉 2019-07-06 17:26:15
+其实他想说的是ports。
+#quote Hotarubi
 

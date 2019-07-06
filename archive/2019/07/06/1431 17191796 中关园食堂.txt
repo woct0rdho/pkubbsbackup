@@ -1,4 +1,4 @@
-#t 1431 17191796 synchro 2019-07-06 00:11:00 synchro 2019-07-06 16:59:00
+#t 1431 17191796 synchro 2019-07-06 00:11:00 periphery 2019-07-06 17:05:00
 中关园食堂
 
 #p 20508495 synchro synchro_tuner 2019-07-06 11:37:34
@@ -15,4 +15,8 @@
 #p 20509419 synchro synchro_tuner 2019-07-06 16:58:46
 其实并没有反（
 #quote twetwe
+
+#p 20509435 periphery periphery 2019-07-06 17:04:49
+中关园本来就不大，感觉更挤了
+#quote synchro
 
