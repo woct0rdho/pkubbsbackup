@@ -1,4 +1,4 @@
-#t 1431 17199654 ET 2019-07-11 00:04:00 colincai 2019-07-11 09:43:00
+#t 1431 17199654 ET 2019-07-11 00:04:00 Mister 2019-07-11 10:24:00
 请问在哪里下载树洞
 
 #p 20529124 ET ET 2019-07-11 04:04:42
@@ -6,5 +6,14 @@
 
 #p 20529772 colincai 牛夫人 2019-07-11 09:42:20
 同问
+#quote ET
+
+#p 20529952 wky Gammaman 2019-07-11 10:22:52
+[https://pkuhelper.pku.edu.cn/](jump-to.php?url=https%3A%2F%2Fpkuhelper.pku.edu.cn%2F)
+#quote ET
+
+#p 20529957 Mister Mister 2019-07-11 10:23:17
+树洞指的不是pku helper上的一个功能吗
+不过我已经不在北大4年了，坐等知情人士解惑
 #quote ET
 
