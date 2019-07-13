@@ -1,4 +1,4 @@
-#t 251 17202664 deepriver 2019-07-12 00:22:00 bery 2019-07-13 09:40:00
+#t 251 17202664 deepriver 2019-07-12 00:22:00 deepriver 2019-07-13 14:30:00
 “黑称文化挪用”
 
 #p 20538407 deepriver 江深林静 2019-07-12 22:47:16
@@ -12,4 +12,10 @@
 有意思
 本来这个词是从“中华田园犬”来的，后来去掉了中华二字，和原来的语义的联系就不是那么强了。
 #quote deepriver
+
+#p 20540835 deepriver 江深林静 2019-07-13 14:30:07
+对应的英文概念似乎是Reappropriation
+[https://en.wikipedia.org/wiki/Reappropriation](jump-to.php?url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FReappropriation)
+其中所举的例子，“印象派”现在应该是完全成功被正面化了。“Nigger”感觉在路上，黑人会在自称和内部互称的时候正面使用，而他者使用依然会被认为是有侮辱意味（[https://en.wikipedia.org/wiki/Nigger#Intra-group_versus_intergroup_usage](jump-to.php?url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FNigger%23Intra-group_versus_intergroup_usage)），记得在情景喜剧Black-ish中有对应的反应。
+#quote bery
 
