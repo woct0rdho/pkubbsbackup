@@ -1,4 +1,4 @@
-#t 1431 17215117 geweilan 2019-07-21 00:14:00 NeeType 2019-07-23 15:58:00
+#t 1431 17215117 geweilan 2019-07-21 00:14:00 moyousuosi 2019-07-23 16:17:00
 这只小可爱有名字吗 
 
 #p 20575266 geweilan Krystal 2019-07-22 21:53:45
@@ -42,4 +42,18 @@ rua他！
 #p 20583798 NeeType NeeType 2019-07-23 15:58:19
 这个毛色！
 #quote geweilan
+
+#p 20583815 geweilan Krystal 2019-07-23 16:01:57
+栗子
+#quote NeeType
+
+#p 20583839 laorenyuhai 老人与海 2019-07-23 16:07:20
+这只猫咪叫兔子
+兔子叫儿子
+儿子叫于谦
+#quote geweilan
+
+#p 20583875 moyousuosi yingying 2019-07-23 16:16:35
+差一句：兔子叫鹦鹉，鹦鹉叫儿子，儿子叫于谦
+#quote laorenyuhai
 
