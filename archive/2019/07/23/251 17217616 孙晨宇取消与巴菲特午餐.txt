@@ -1,4 +1,4 @@
-#t 251 17217616 changshouhan 2019-07-23 00:08:00 SignalP 2019-07-24 00:56:00
+#t 251 17217616 changshouhan 2019-07-23 00:08:00 willpower 2019-07-24 01:05:00
 孙晨宇取消与巴菲特午餐
 
 #p 20581912 changshouhan wrzxdw 2019-07-23 08:31:21
@@ -166,4 +166,8 @@
 涉黄？
 可真是一个妙人
 #quote qingshuiyige
+
+#p 20585511 willpower Let me hear 2019-07-24 01:04:16
+孙本聪之前主导了一个类似陌陌的app
+#quote SignalP
 
