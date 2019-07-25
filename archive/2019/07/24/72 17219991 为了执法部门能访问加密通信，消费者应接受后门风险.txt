@@ -1,8 +1,12 @@
-#t 72 17219991 motaguoke 2019-07-24 21:31:00 motaguoke 2019-07-24 21:31:00
+#t 72 17219991 motaguoke 2019-07-24 00:21:00 Ryn 2019-07-25 08:50:00
 为了执法部门能访问加密通信，消费者应接受后门风险
 
 #p 20589120 motaguoke 孤帆远影 2019-07-24 21:31:04
 [https://techcrunch.com/2019/07/23/william-barr-consumers-security-risks-backdoors/](jump-to.php?url=https%3A%2F%2Ftechcrunch.com%2F2019%2F07%2F23%2Fwilliam-barr-consumers-security-risks-backdoors%2F)
 "we are talking about consumer products and services such as messaging, smart phones, e-mail, and voice and data applications," and "not talking about protecting the nation's nuclear launch codes."
 惊呆了，William Barr无愧是川普扶上位的。怕不是之前RSA的事情尝到了甜头
+
+#p 20590341 Ryn 大酸葡萄 2019-07-25 08:50:07
+真jr丢人……
+#quote motaguoke
 
