@@ -1,4 +1,4 @@
-#t 251 17221013 tison 2019-07-26 00:09:00 Jasper 2019-07-26 10:27:00
+#t 251 17221013 tison 2019-07-26 00:09:00 tison 2019-07-26 12:32:00
 Re [弹劾]yingduo对KillerGame版务Hydralisk(转载)
 
 #p 20594855 tison tison 2019-07-26 09:04:20
@@ -20,4 +20,8 @@ Re [弹劾]yingduo对KillerGame版务Hydralisk(转载)
 #p 20595172 Jasper 加斯帕·西莱森 | 人蠢就要承认 2019-07-26 10:26:05
 艾特前要加空格 @bery
 #quote tison
+
+#p 20595687 tison tison 2019-07-26 12:31:16
+不用吧，我记得之前水版爆出过正则，除非你告诉我那个是假的
+#quote Jasper
 
