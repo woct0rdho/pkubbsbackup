@@ -1,4 +1,4 @@
-#t 22 17223977 Lebesgue 2019-07-27 00:19:00 Kuroko 2019-07-28 07:44:00
+#t 22 17223977 Lebesgue 2019-07-27 00:19:00 rubyhyd 2019-07-28 08:37:00
 香港的反政府少年知不知道很多人反对他们的行为？
 
 #p 20600620 Lebesgue Pd(PPh3)4 2019-07-27 19:13:29
@@ -27,4 +27,8 @@
 #p 20602141 Kuroko Kuroko 2019-07-28 07:43:24
 感觉快了（x
 #quote traveller
+
+#p 20602207 rubyhyd object_missing 2019-07-28 08:36:22
+坦克上街
+#quote Lebesgue
 
