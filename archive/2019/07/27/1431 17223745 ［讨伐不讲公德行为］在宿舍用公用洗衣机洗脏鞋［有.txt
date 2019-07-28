@@ -1,4 +1,4 @@
-#t 1431 17223745 HelloWorldBD 2019-07-27 00:15:00 abnormal 2019-07-29 05:05:00
+#t 1431 17223745 HelloWorldBD 2019-07-27 00:15:00 survivor 2019-07-29 06:13:00
 ［讨伐不讲公德行为］在宿舍用公用洗衣机洗脏鞋［有
 
 #p 20599661 HelloWorldBD Autumn 2019-07-28 23:59:30
@@ -751,5 +751,16 @@ bbs的尿性我算是摸清楚了：
 
 #p 20607012 abnormal 凡木 2019-07-29 05:04:20
 我寻思不是有洗鞋机吗？为什么要折磨做呢？
+#quote HelloWorldBD
+
+#p 20607056 survivor TEETOTALER|每天都是一种练习 2019-07-29 06:12:19
+我自己是从来没尝试过，不过美国这边用洗衣机洗鞋子还是很常见的。
+这是美国主流媒体之一&lt;今日美国&gt;网站上的文章，介绍用洗衣机洗鞋的具体步骤
+[https://www.usatoday.com/story/tech/reviewedcom/2017/03/15/how-to-clean-dirty-sneakers-in-the-washing-machine/99162918/](jump-to.php?url=https%3A%2F%2Fwww.usatoday.com%2Fstory%2Ftech%2Freviewedcom%2F2017%2F03%2F15%2Fhow-to-clean-dirty-sneakers-in-the-washing-machine%2F99162918%2F)
+这是Reddit论坛(相当于天涯或者猫扑)上有人提问：我带着一大批球鞋去设有公共洗衣机的商店里洗是否合适？回复基本说需要看洗衣店是否同意，有人表示自己尝试过这，员工同意了。
+[https://amp.reddit.com/r/running/comments/1qpcvi/washing_large_load_of_running_shoes_in_laundromat/](jump-to.php?url=https%3A%2F%2Famp.reddit.com%2Fr%2Frunning%2Fcomments%2F1qpcvi%2Fwashing_large_load_of_running_shoes_in_laundromat%2F)
+这是著名的生活知识网站Wikihow上面对于洗鞋方法的介绍[https://www.wikihow.com/Wash-Shoes?amp=1#Machine-Washing_Your_Sneakers_sub](jump-to.php?url=https%3A%2F%2Fwww.wikihow.com%2FWash-Shoes%3Famp%3D1%23Machine-Washing_Your_Sneakers_sub)
+当然正如楼主说的，公用洗衣机的消毒很不到位，所以对于洗鞋的规定或许应该不同。
+归根结底，公共的东西应该有使用指南，如果宿舍公用洗衣机有明确规定不能用来洗鞋，那么建议遇到有人洗鞋直接停机把鞋拿出来；否则确实比较麻烦。
 #quote HelloWorldBD
 
