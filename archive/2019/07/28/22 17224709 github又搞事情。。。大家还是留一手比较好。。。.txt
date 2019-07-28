@@ -1,0 +1,15 @@
+#t 22 17224709 shangjiaxuan 2019-07-28 10:51:00 shangjiaxuan 2019-07-28 10:51:00
+github又搞事情。。。大家还是留一手比较好。。。
+
+#p 20602727 shangjiaxuan shangjiaxuan 2019-07-28 10:50:39
+如题，两个月前（也就是贸易战正火热那会？）github更新了EAR的协定，把github的软件服务也归到了美国进出口管制里面。当时就觉得不对劲。。。
+然后今天就出了这个事。。。伊朗还有一些别的国家和地区的人的私人仓库功能不能访问（也就是不能再迁出，自己也不能用，具体还能有什么用嘛。。。巨硬自己用？），然后只能访问公共仓库，不能删除公共仓库。。。（基本就是只能提供资源，获取公开资源，但是没有别的权力的意思）
+然后就有了这个
+[https://github.com/1995parham/github-do-not-ban-us](jump-to.php?url=https%3A%2F%2Fgithub.com%2F1995parham%2Fgithub-do-not-ban-us)
+（两个月之前我发了这个。。。）
+[https://github.com/shangjiaxuan/Github-EAR-boycott](jump-to.php?url=https%3A%2F%2Fgithub.com%2Fshangjiaxuan%2FGithub-EAR-boycott)
+然后有人提了这个
+[https://blog.fkfd.me/4%E2%80%8B](jump-to.php?url=https%3A%2F%2Fblog.fkfd.me%2F4%25E2%2580%258B)
+我觉得。。。老美特朗普干事。。。就怕下一个就到我们头上，用github的留一个后路比较好。。。
+（太久没有到bbs水，不得不重新注册了。。。）
+
