@@ -1,4 +1,4 @@
-#t 22 17231536 loveiskind 2019-08-02 00:09:00 loveiskind 2019-08-02 12:12:00
+#t 22 17231536 loveiskind 2019-08-02 00:09:00 wasmonarch 2019-08-02 13:24:00
 树洞管理员的后台权限
 
 #p 20624762 loveiskind supercalifragilisticexpialidocious 2019-08-02 09:17:55
@@ -22,4 +22,12 @@
 #p 20625626 loveiskind supercalifragilisticexpialidocious 2019-08-02 12:11:57
 感谢你的回帖，祝工作顺利
 #quote castorpollux
+
+#p 20625924 wasmonarch shriek 2019-08-02 13:20:27
+根据我的了解，管理员“没有查实真实身份的权限”应该属实，但是对第二条表示质疑，我曾经发过一条类似的质疑树洞，随即有开发人员查到我的邮件地址并联系我，下面是邮件截图。
+#quote castorpollux
+
+#p 20625941 wasmonarch shriek 2019-08-02 13:23:40
+我认为联系我的开发同学所为并无不妥，没有拿出来指责的意思，这里仅对2楼的回复表示不信任。
+#quote loveiskind
 
