@@ -1,11 +1,15 @@
-#t 251 17250015 invariant 2019-08-13 22:40:00 invariant 2019-08-13 23:17:00
+#t 251 17250015 invariant 2019-08-13 00:22:00 invariant 2019-08-14 00:14:00
 一个实验
 
-#p 20675474 invariant invariant 2019-08-13 22:39:39
+#p 20675474 invariant invariant 2019-08-13 23:38:11
+
+
+2019-08-13 22:39:39
 [https://www.reddit.com/r/gifs/comments/cpnzup/hong_kong_long_range_footage_of_chinese_military/](jump-to.php?url=https%3A%2F%2Fwww.reddit.com%2Fr%2Fgifs%2Fcomments%2Fcpnzup%2Fhong_kong_long_range_footage_of_chinese_military%2F)
 视频是用网上找的天津大学军训视频伪造的，由于是新注册的账号，给mod发了个私信拖了好久才approve，结果注意力都被一个已经删掉的帖子吸走了。难受
 就算这样还是吸引了70多个upvoters+6条评论，而且帖子是东海岸睡觉的时候发的，不错了。希望各位高抬贵手别戳穿，也别downvote我，西海岸快醒了，数据开始涨了，免得我又去建账号找素材（虽然大概率会删帖再玩就是了，想好好找素材做一个视频，干票大的攒一波reddit会员
 reddit怎么连印度佬夹杂着主观臆断的新闻和这种144p的视频都信呢，曝光NED财政支持叛乱者的帖子可是无人问津呢。虽然他们肯定抱着“解放中国”的立场，我也没法指责什么。不得不说这群人双标还是有点6哦，下次好好学一学如何区分fact和opinion吧（（（（（
+原视频：[https://video.tudou.com/v/XMTk4MDQ4NTE3Mg==.html](jump-to.php?url=https%3A%2F%2Fvideo.tudou.com%2Fv%2FXMTk4MDQ4NTE3Mg%3D%3D.html) 3:30左右，取了右上角256x144的部分
 
 #p 20675522 motaguoke 孤帆远影 2019-08-13 22:54:04
 hhhh指望他们知道NED？
@@ -21,4 +25,8 @@ hhhh指望他们知道NED？
 比如黄背心示威中法国警察将抗议者们近30只眼睛用橡胶子弹打瞎的时候，各大媒体也是一带而过。所幸理性的声音还是有的，只不过相对挺小。
 [https://www.reddit.com/r/worldnews/comments/cp7pah/hong_kong_police_shoot_projectiles_at_close_range/ewofv1a/](jump-to.php?url=https%3A%2F%2Fwww.reddit.com%2Fr%2Fworldnews%2Fcomments%2Fcp7pah%2Fhong_kong_police_shoot_projectiles_at_close_range%2Fewofv1a%2F)
 #quote bery
+
+#p 20675793 invariant invariant 2019-08-14 00:13:42
+差劲的就是国内媒体干活还是不够。成天就和和气气复读“外媒”，外媒还RT居多，偶尔冒出来个“俄国间谍”wikileaks，从来没有想到怎么在国外的骚动中留一些独家的怼人素材，怎么养几个有影响力，又不会被称作propaganda的外文媒体。scmp现在挺好的，能再努力点比肩cnbc的“客观公正”吗，能再多几个这样的媒体吗？不说政治啥的，即使你有paywall，如果你能获取第一手资料，视角独特，我也愿意订阅啊，这对媒体自己，对宣传口需求，对读者都是好事。国外又没有公众号百家号头条号的泛滥，抢占付费用户应该是不难的。
+#quote motaguoke
 
