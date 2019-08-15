@@ -1,0 +1,10 @@
+#t 294 17252632 pkuzjhz 2019-08-15 14:44:00 pkuzjhz 2019-08-15 14:44:00
+数院00级校友、MIT教授张伟获Clay Research Awards
+
+#p 20682533 pkuzjhz pkuzjhz 2019-08-15 14:44:01
+该奖第一次发给中国人，第二次发给华裔(上次是2003年陶哲轩获奖)，祝贺！
+[http://www.claymath.org/events/news/2019-clay-research-awards](jump-to.php?url=http%3A%2F%2Fwww.claymath.org%2Fevents%2Fnews%2F2019-clay-research-awards)
+The 2019 Clay Research Award to Wei Zhang (MIT) is made in recognition of his ground-breaking work in arithmetic geometry and arithmetic aspects of automorphic forms.
+His landmark contributions include a proof of the global Gan-Gross-Prasad conjecture for a wide class of automorphic representations of unitary groups, a proof with Zhiwei Yun of a higher-order generalization of the Gross-Zagier formula over function fields, and a proof of Kolyvagin’s conjecture on the structure of Selmer groups for a large class of elliptic curves over Q. 
+He has formulated an arithmetic version of the Gan-Gross-Prasad Conjecture –a vision for a far-reaching generalization of the Gross-Zagier formulaover number fields – and pioneered a relative trace formula approach to its proof.He recently achieved a major step in this program by proving the Arithmetic Fundamental Lemma.
+
