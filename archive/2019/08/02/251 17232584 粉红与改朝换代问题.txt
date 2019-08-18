@@ -1,4 +1,4 @@
-#t 251 17232584 princeps 2019-08-02 00:20:00 euio 2019-08-05 15:59:00
+#t 251 17232584 princeps 2019-08-02 00:20:00 baleo 2019-08-18 14:32:00
 粉红与改朝换代问题
 
 #p 20628297 princeps 千年正太 2019-08-02 20:53:49
@@ -28,6 +28,7 @@
 #quote OTTO
 
 #p 20632079 skytale 非正常离站，时间不详 2019-08-03 20:24:27
+#DELETED
 你是受高中语文荼毒至深还是排比和对偶可以让你获得超出性满足和吸毒的快感
 #quote euio
 
@@ -57,4 +58,8 @@
 在科学强盛、宗教衰弱的今天，人们把医学误当做魔法”。
 你作何评论？
 #quote skytale
+
+#p 20694888 baleo 拉雷 2019-08-18 14:31:32
+“It is difficult to get a man to understand something, when his salary depends on his not understanding it.”
+#quote princeps
 
