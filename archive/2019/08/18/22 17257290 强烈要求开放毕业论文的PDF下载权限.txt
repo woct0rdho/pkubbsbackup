@@ -1,4 +1,4 @@
-#t 22 17257290 napolean 2019-08-18 00:11:00 windzx 2019-08-28 14:39:00
+#t 22 17257290 napolean 2019-08-18 00:11:00 wdk 2019-08-31 16:45:00
 强烈要求开放毕业论文的PDF下载权限
 
 #p 20694240 napolean 朔风烈 2019-08-18 11:39:46
@@ -45,5 +45,9 @@
 除了部分19年的还在保密期，绝大部分都能下。
 你试试这个网站
 [https://escholarship.org/](jump-to.php?url=https%3A%2F%2Fescholarship.org%2F)
+#quote sdqdbxj
+
+#p 20758089 wdk br1k 2019-08-31 16:44:45
+北理工也可以
 #quote sdqdbxj
 
