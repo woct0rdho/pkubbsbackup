@@ -1,4 +1,4 @@
-#t 251 17295711 bA 2019-09-07 00:13:00 euio 2019-09-07 17:51:00
+#t 251 17295711 bA 2019-09-07 00:13:00 bA 2019-09-07 22:54:00
 刺猬女帖 回帖数趋势
 
 #p 20839562 bA concerto 2019-09-07 13:49:19
@@ -33,5 +33,12 @@ f[x] = -0.0692012 + 732.817 Sqrt[x] + 58.6523 x - 1.06749 x^2 +  0.00398711 x^3
 #p 20840363 euio 耳目一心 2019-09-07 17:50:48
 给我五个系数，我将画出一头大象。
 ——柯西
+#quote propagator
+
+#p 20841460 bA concerto 2019-09-07 22:58:56
+
+
+2019-09-07 22:53:41
+太繁。我觉得用 <img alt="&lt;tex&gt;7000-&lt;/tex&gt;" class="tex" src="/latexrender/pictures/f5064dcd28bf19c2d67160aa48615168.png" title="双击查看源码"/><img alt="&lt;tex&gt;a&lt;/tex&gt;" class="tex" src="/latexrender/pictures/0cc175b9c0f1b6a831c399e269772661.png" title="双击查看源码"/><img alt="&lt;tex&gt;e^{-bx}&lt;/tex&gt;" class="tex" src="/latexrender/pictures/9de86d3ffd6b03847684d6bb7393f7c0.png" title="双击查看源码"/> 就好
 #quote propagator
 
