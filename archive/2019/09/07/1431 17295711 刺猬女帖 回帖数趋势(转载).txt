@@ -1,4 +1,4 @@
-#t 1431 17295711 bA 2019-09-07 00:13:00 bA 2019-09-07 23:01:00
+#t 1431 17295711 bA 2019-09-07 00:13:00 bA 2019-09-08 00:33:00
 刺猬女帖 回帖数趋势(转载)
 
 #p 20839569 bA concerto 2019-09-07 13:50:13
@@ -43,8 +43,19 @@ hahaha 我还在等刺猬姐姐下课呢
 可以用遗传规划拟合一下多项式。
 #quote bA
 
-#p 20841491 bA concerto 2019-09-07 23:01:14
-我想用
-....
+#p 20841491 bA concerto 2019-09-07 23:01:30
+
+
+2019-09-07 23:01:14
+我想用<img alt="&lt;tex&gt;7000-&lt;/tex&gt;" class="tex" src="/latexrender/pictures/f5064dcd28bf19c2d67160aa48615168.png" title="双击查看源码"/><img alt="&lt;tex&gt;a&lt;/tex&gt;" class="tex" src="/latexrender/pictures/0cc175b9c0f1b6a831c399e269772661.png" title="双击查看源码"/><img alt="&lt;tex&gt;e^{-bx}&lt;/tex&gt;" class="tex" src="/latexrender/pictures/9de86d3ffd6b03847684d6bb7393f7c0.png" title="双击查看源码"/>....
 #quote manakanemu
+
+#p 20841725 juruo 蒟蒻MagicPoi 2019-09-08 00:05:18
+曲线的点梯度不就是当日回复嘛，如果差异比较大也会出现明显的平滑
+#quote bA
+
+#p 20841789 bA concerto 2019-09-08 00:32:20
+没错, 不过我的意思是那些小尺度的折线未必能显示出来
+比如假设以1天为单位统计
+#quote juruo
 
