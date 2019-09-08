@@ -1,4 +1,4 @@
-#t 251 17295711 bA 2019-09-07 00:13:00 Sanho 2019-09-07 23:21:00
+#t 251 17295711 bA 2019-09-07 00:13:00 Sanho 2019-09-07 00:23:00
 刺猬女帖 回帖数趋势
 
 #p 20839562 bA concerto 2019-09-07 13:49:19
@@ -36,8 +36,7 @@ f[x] = -0.0692012 + 732.817 Sqrt[x] + 58.6523 x - 1.06749 x^2 +  0.00398711 x^3
 #quote propagator
 
 #p 20841460 bA concerto 2019-09-07 22:58:56
-
-
+#DELETED
 2019-09-07 22:53:41
 太繁。我觉得用 <img alt="&lt;tex&gt;7000-&lt;/tex&gt;" class="tex" src="/latexrender/pictures/f5064dcd28bf19c2d67160aa48615168.png" title="双击查看源码"/><img alt="&lt;tex&gt;a&lt;/tex&gt;" class="tex" src="/latexrender/pictures/0cc175b9c0f1b6a831c399e269772661.png" title="双击查看源码"/><img alt="&lt;tex&gt;e^{-bx}&lt;/tex&gt;" class="tex" src="/latexrender/pictures/9de86d3ffd6b03847684d6bb7393f7c0.png" title="双击查看源码"/> 就好
 #quote propagator
@@ -45,4 +44,11 @@ f[x] = -0.0692012 + 732.817 Sqrt[x] + 58.6523 x - 1.06749 x^2 +  0.00398711 x^3
 #p 20841562 Sanho Bearlover 2019-09-07 23:20:11
 拟合不太有实际意义。显然可以用拉格朗日插值法构造一个9月8日时回帖量为一亿的函数，但这是不可能的。
 #quote bA
+
+#p 20842838 euio 耳目一心 2019-09-08 10:42:01
+#DELETED
+T   d      e        d-e10        2799        2788.  11.20        4065        4096.        -30.30        4900        4916.        -16.40        5549        5492.         57.50        5933        5920.         13.
+60        6216        6250.        -33.
+三个参数。
+#quote euio
 
