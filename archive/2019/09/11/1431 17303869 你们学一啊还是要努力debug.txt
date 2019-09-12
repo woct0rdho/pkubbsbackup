@@ -1,4 +1,4 @@
-#t 1431 17303869 AChEp 2019-09-11 00:15:00 Rioter 2019-09-12 16:28:00
+#t 1431 17303869 AChEp 2019-09-11 00:15:00 balala 2019-09-12 18:30:00
 你们学一啊还是要努力debug
 
 #p 20883852 AChEp ACħ(e^iπ) 2019-09-11 15:06:05
@@ -230,4 +230,13 @@ debug好亲切的词汇，最近在debugging with gdb，想偷懒一会儿，没
 #quote huayuankou
 哈哈哈哈哈
 发自我的“北大未名”iOS客户端([http://t.cn/R7ZhtYc](jump-to.php?url=http%3A%2F%2Ft.cn%2FR7ZhtYc))
+
+#p 20889781 Cubanedz Cubanedz 2019-09-12 18:19:11
+我也反馈一下
+之前在学一在花菜和青菜里吃出过两条小青虫，都在菜叶里面，送到嘴边才看到... 
+#quote AChEp
+
+#p 20889805 balala 巴啦啦 2019-09-12 18:29:12
+真 debug
+#quote AChEp
 
