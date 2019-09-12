@@ -1,4 +1,4 @@
-#t 1431 17303869 AChEp 2019-09-11 00:15:00 yuankang 2019-09-12 15:48:00
+#t 1431 17303869 AChEp 2019-09-11 00:15:00 Rioter 2019-09-12 16:28:00
 你们学一啊还是要努力debug
 
 #p 20883852 AChEp ACħ(e^iπ) 2019-09-11 15:06:05
@@ -221,4 +221,13 @@ debug好亲切的词汇，最近在debugging with gdb，想偷懒一会儿，没
 #p 20889128 yuankang 黄辉冯不是黄飞鸿 2019-09-12 15:48:01
 瞅着还挺可爱2333
 #quote AChEp
+
+#p 20889327 lamarka 小甜甜 2019-09-12 16:27:29
+都是蛋白质啊
+#quote AChEp
+
+#p 20889332 Rioter 名字太长躲在大树后面容易被联盟发现 2019-09-12 16:27:41
+#quote huayuankou
+哈哈哈哈哈
+发自我的“北大未名”iOS客户端([http://t.cn/R7ZhtYc](jump-to.php?url=http%3A%2F%2Ft.cn%2FR7ZhtYc))
 
