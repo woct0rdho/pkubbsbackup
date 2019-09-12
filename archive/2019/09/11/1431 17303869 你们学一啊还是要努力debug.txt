@@ -1,4 +1,4 @@
-#t 1431 17303869 AChEp 2019-09-11 00:15:00 balala 2019-09-12 18:30:00
+#t 1431 17303869 AChEp 2019-09-11 00:15:00 dlnlwh 2019-09-12 19:41:00
 你们学一啊还是要努力debug
 
 #p 20883852 AChEp ACħ(e^iπ) 2019-09-11 15:06:05
@@ -238,5 +238,18 @@ debug好亲切的词汇，最近在debugging with gdb，想偷懒一会儿，没
 
 #p 20889805 balala 巴啦啦 2019-09-12 18:29:12
 真 debug
+#quote AChEp
+
+#p 20889931 Tangliberal 请吃蟹黄 2019-09-12 19:07:23
+厉害
+#quote AChEp
+发自我的“北大未名”iOS客户端([http://t.cn/R7ZhtYc](jump-to.php?url=http%3A%2F%2Ft.cn%2FR7ZhtYc))
+
+#p 20889950 moonl 皓月 2019-09-12 19:12:45
+加派了几个人？从哪个岗位加派？生产流程如何变化？
+#quote CYZX
+
+#p 20890035 dlnlwh dlnlwh 2019-09-12 19:41:02
+哈哈哈哈哈
 #quote AChEp
 
