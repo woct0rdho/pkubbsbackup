@@ -1,4 +1,4 @@
-#t 1431 17303869 AChEp 2019-09-11 00:15:00 Chembobo 2019-09-12 13:55:00
+#t 1431 17303869 AChEp 2019-09-11 00:15:00 cwxpkulaw 2019-09-12 15:00:00
 你们学一啊还是要努力debug
 
 #p 20883852 AChEp ACħ(e^iπ) 2019-09-11 15:06:05
@@ -196,5 +196,13 @@ debug好亲切的词汇，最近在debugging with gdb，想偷懒一会儿，没
 
 #p 20888610 Chembobo Chembobo 2019-09-12 13:54:19
 这不是泡椒吗 :D
+#quote AChEp
+
+#p 20888648 shiminerva 风の祀 2019-09-12 14:06:43
+我见过的bug多了
+#quote AChEp
+
+#p 20888846 cwxpkulaw 水是醒着的冰 2019-09-12 15:00:10
+高蛋白质的样子
 #quote AChEp
 
