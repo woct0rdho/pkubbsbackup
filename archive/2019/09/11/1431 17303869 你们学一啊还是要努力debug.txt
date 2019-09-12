@@ -1,4 +1,4 @@
-#t 1431 17303869 AChEp 2019-09-11 00:15:00 EthanZzz 2019-09-12 12:50:00
+#t 1431 17303869 AChEp 2019-09-11 00:15:00 Chembobo 2019-09-12 13:55:00
 你们学一啊还是要努力debug
 
 #p 20883852 AChEp ACħ(e^iπ) 2019-09-11 15:06:05
@@ -180,4 +180,21 @@ bug也好可爱
 一般流程是收到，推锅，加强，赔一份
 这回你少了最后一个环节
 #quote CYZX
+
+#p 20888467 william william111 2019-09-12 13:13:09
+debug好亲切的词汇，最近在debugging with gdb，想偷懒一会儿，没想到水贵站还能看到debug，看来这是命啊
+#quote AChEp
+
+#p 20888520 shinra 傑拉特 2019-09-12 13:27:16
+#DELETED
+你喜欢吗？
+#quote ccmesongshu
+
+#p 20888595 huluobo 青青子衿,悠悠我心 2019-09-12 13:49:13
+挺好，绿色的，能吃
+#quote AChEp
+
+#p 20888610 Chembobo Chembobo 2019-09-12 13:54:19
+这不是泡椒吗 :D
+#quote AChEp
 
