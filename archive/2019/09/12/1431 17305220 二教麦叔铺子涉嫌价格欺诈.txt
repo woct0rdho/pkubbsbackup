@@ -1,7 +1,7 @@
-#t 1431 17305220 Aphrora 2019-09-12 00:10:00 lijinsha 2019-09-13 09:55:00
+#t 1431 17305220 Aphrora 2019-09-12 00:10:00 Aphrora 2019-09-13 10:37:00
 二教麦叔铺子涉嫌价格欺诈
 
-#p 20887581 Aphrora 阿芙乐尔 2019-09-13 00:07:08
+#p 20887581 Aphrora 阿芙乐尔 2019-09-13 10:38:32
 
 
 2019-09-12 10:01:35
@@ -23,6 +23,23 @@
 ………………………………………………
 PS：有同学反映说**二教的麦叔一直要求笔在里面人工结账**，不能自助扫码结账，所以有理由怀疑这种多收价款/双重价格的行为长期存在！！
      （不知道一教、三教、理教和45甲的麦叔如何，要不要趁他们还没发现这个贴多去搜集点证据呢2333
+………………………………………………
+PPS. 回复监督员：
+所以如果我没理解错，商家的意思是：
+1、由于自动结账系统存在漏洞，显示价格并不是商品「正常价格」。
+2、由于收银员工作失误，将2元收成了3元。
+3、结论：在这起偶然的交易中，收银员多收了1元钱。商家过失是偶然的、个例的、仅对我个人的。
+但事实上，问题不在于笔是1元还是2元，而在于：
+1、**「自动结账系统显示价格」应当等同于「商品标价」。**因为自动结账系统的效力完全等同于人工结账，我们平时消费扫码付款和里面付款效力是一样的，笔身上没有标价，也没有任何理由使得消费者相信「自动结账系统显示价格」不是商品售价的（比如贴个情况说明）。所以自动结账系统所显示笔售价1元，其对消费者的效力完全等同于在笔身上贴「售价1元」的标签。
+2、 **商家过失在于不按照标价收款，其过失是对所有人（对世）的。**
+把2元收成了3元可能是个例的、仅对我个人的，但既然商家自己都承认该商品价格为2元，其不按照标价收款的过失是对所有人（对世）的。
+3、<u>** 问题不在于是2元还是3元，而在于只要「商品售价不等于标价」，都可能存在消费欺诈的嫌疑。**</u>
+………………………………………………
+感谢同学找到的报道，一并贴出：
+1、新华社：超市价签不符涉欺诈 4角赔偿500元 [https://m.huanqiu.com/article/9CaKrnJUwGt?from=singlemessage&amp;isappinstalled=0](jump-to.php?url=https%3A%2F%2Fm.huanqiu.com%2Farticle%2F9CaKrnJUwGt%3Ffrom%3Dsinglemessage%26isappinstalled%3D0)
+2、重庆商报：永辉超市商品实际价格与标价不符 顾客获赔500元 [http://www.linkshop.com.cn/web/archives/2017/379740.shtml](jump-to.php?url=http%3A%2F%2Fwww.linkshop.com.cn%2Fweb%2Farchives%2F2017%2F379740.shtml)
+3、新华社：超市结账需警惕，结账价格高于标签价格 [http://m.hxnews.com/news/gn/gnxw/201605/30/875909.shtml?from=singlemessage&amp;isappinstalled=0](jump-to.php?url=http%3A%2F%2Fm.hxnews.com%2Fnews%2Fgn%2Fgnxw%2F201605%2F30%2F875909.shtml%3Ffrom%3Dsinglemessage%26isappinstalled%3D0)
+我已经将联系方式告知监督员，期待和商家进一步沟通。
 
 #p 20887815 Aphrora 阿芙乐尔 2019-09-12 10:49:47
 re
@@ -334,4 +351,36 @@ re
 #p 20891827 lijinsha 月夜狼灵 2019-09-13 09:54:52
 监督员辛苦了！
 #quote Schnur
+
+#p 20891846 pdilma 请你像我这样做 2019-09-13 10:00:56
+也就是说，标价1元但还是要卖2元？那不还是标价与售价不符吗
+搜到的比较官方的案例供楼主参考，支持楼主。
+[https://m.huanqiu.com/article/9CaKrnJUwGt?from=singlemessage&amp;isappinstalled=0](jump-to.php?url=https%3A%2F%2Fm.huanqiu.com%2Farticle%2F9CaKrnJUwGt%3Ffrom%3Dsinglemessage%26isappinstalled%3D0)
+[http://www.hxnews.com/news/gn/gnxw/201605/30/875909.shtml](jump-to.php?url=http%3A%2F%2Fwww.hxnews.com%2Fnews%2Fgn%2Fgnxw%2F201605%2F30%2F875909.shtml)
+#quote Schnur
+
+#p 20891851 pdilma 请你像我这样做 2019-09-13 10:02:49
+花呗付款23333
+#quote Aphrora
+
+#p 20891870 cwxpkulaw 水是醒着的冰 2019-09-13 10:08:04
+支持维权，楼主说的有理有据，学法律的吗？
+#quote Aphrora
+
+#p 20891923 Aphrora 阿芙乐尔 2019-09-13 10:23:54
+。。支付宝老是默认花呗付款，我也很无奈啊
+#quote pdilma
+
+#p 20891927 Aphrora 阿芙乐尔 2019-09-13 10:24:36
+被发现了（逃
+解锁法律第一重功能：维护个人合法权益不受侵害！
+#quote cwxpkulaw
+
+#p 20891939 cwxpkulaw 水是醒着的冰 2019-09-13 10:29:12
+赞！
+#quote Aphrora
+
+#p 20891969 Aphrora 阿芙乐尔 2019-09-13 10:36:34
+案例靠谱！
+#quote pdilma
 
