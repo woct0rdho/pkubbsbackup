@@ -1,4 +1,4 @@
-#t 1431 17308911 wangjieyu 2019-09-14 00:21:00 wangjieyu 2019-09-15 18:53:00
+#t 1431 17308911 wangjieyu 2019-09-14 00:21:00 nfpeng 2019-09-16 06:07:00
 畅新3号楼门口的人脸识别机器一直在说“验证失败” 
 
 #p 20898632 wangjieyu 小杰 2019-09-14 21:37:15
@@ -67,4 +67,9 @@
 #p 20901792 wangjieyu 小杰 2019-09-15 18:52:50
 好像闸机也还没开始用。。。只是摆在那里
 #quote MiMiDone
+
+#p 20903513 nfpeng 韭菜 2019-09-16 06:06:25
+严重扰民！
+#quote wangjieyu
+发自我的“北大未名”iOS客户端([http://t.cn/R7ZhtYc](jump-to.php?url=http%3A%2F%2Ft.cn%2FR7ZhtYc))
 
