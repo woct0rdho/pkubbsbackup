@@ -1,4 +1,4 @@
-#t 251 17297841 derekdut 2019-09-08 00:19:00 bery 2019-09-17 11:59:00
+#t 251 17297841 derekdut 2019-09-08 00:19:00 willpower 2019-09-17 12:14:00
 我發現西方世界已經把反中快上升的普世價值層面了
 
 #p 20844703 derekdut 学渣的忧桑 2019-09-08 19:00:22
@@ -1125,6 +1125,7 @@ NBA离我们更远，西甲英超离我们更远，歌手演员离我们更远�
 #quote bery
 
 #p 20909494 RichardZeng 瘦虎 2019-09-17 11:02:36
+#DELETED
 嗨呀，你终于说了我想说的话啦！
 你也知道权重存在一套最为贴合客观事实的统计标准，不能因为我的权重而抹杀你智商好歹超过幼儿园小班这一伟大成就啊？
 既然你知道这一事实，那请问您的“总有一套权重使得均值为0”这句话，是在找peach吗？
@@ -1157,5 +1158,23 @@ NBA离我们更远，西甲英超离我们更远，歌手演员离我们更远�
 
 #p 20909793 bery 你的投降，要出于你的自由意志。 2019-09-17 11:59:33
 我还是那个建议，建议你好好学一下什么叫权重。不要看社会学的书，要看数学书去学。
+#quote RichardZeng
+
+#p 20909816 bery 你的投降，要出于你的自由意志。 2019-09-17 12:02:29
+我觉得咱们的分歧还是在于，我习惯用数学语言去描述一件事情，而你习惯于从中读出感情色彩。
+比如权重这个东西本身就只是一组大于等于0的数而已，但是在现实世界里权重这个词会被赋予价值色彩。我采取的是前一种理解方式，你采取的是后一种。
+#quote RichardZeng
+
+#p 20909852 willpower Let me hear 2019-09-17 12:08:34
+我记得知乎上确实有一个佐证你的观点的回答，死活找不到。
+结果真的是被删了
+#quote bery
+
+#p 20909880 willpower Let me hear 2019-09-17 12:13:17
+数据有，不过似乎在表明西方只是喜欢各种黑，既黑中国又黑自己。
+[http://cache.baiducontent.com/c?m=9f65cb4a8c8507ed19fa950d100b92235c438014748d8b4f38c3933fc239045c0421b4fa61794d58cec17b6106a94359e9ed652e764677f786c28b4bd6b8912f2d8b33712d5cd04e05a21fb8ba4032c050872ae2b86d94adf14284dfd3c4af2244bb22120d87e78a2a1764ce78861226e2d68e3e114866b8fa406ee82d043e9e5357c637ee94447977f0e1ae2c&amp;p=9f63c64ad48503ff57e89f225147&amp;newp=c3759a40ddaf1dfc57efcd6f514b92695c02dc3051ddda01298ffe0cc4241a1a1a3aecbb24241502d9c478610abb0f31aba7747d605f76dbc7&amp;user=baidu&amp;fm=sc&amp;query=%C4%C4%B9%FA%C3%BD%CC%E5%B6%D4%D6%D0%B9%FA%BB%FD%BC%AB+site%3Azhihu%2Ecom&amp;qid=ff99fe070007304f&amp;p1=1](jump-to.php?url=http%3A%2F%2Fcache.baiducontent.com%2Fc%3Fm%3D9f65cb4a8c8507ed19fa950d100b92235c438014748d8b4f38c3933fc239045c0421b4fa61794d58cec17b6106a94359e9ed652e764677f786c28b4bd6b8912f2d8b33712d5cd04e05a21fb8ba4032c050872ae2b86d94adf14284dfd3c4af2244bb22120d87e78a2a1764ce78861226e2d68e3e114866b8fa406ee82d043e9e5357c637ee94447977f0e1ae2c%26p%3D9f63c64ad48503ff57e89f225147%26newp%3Dc3759a40ddaf1dfc57efcd6f514b92695c02dc3051ddda01298ffe0cc4241a1a1a3aecbb24241502d9c478610abb0f31aba7747d605f76dbc7%26user%3Dbaidu%26fm%3Dsc%26query%3D%25C4%25C4%25B9%25FA%25C3%25BD%25CC%25E5%25B6%25D4%25D6%25D0%25B9%25FA%25BB%25FD%25BC%25AB%2Bsite%253Azhihu%252Ecom%26qid%3Dff99fe070007304f%26p1%3D1)
+但是显然，原文……
+[https://3g.163.com/dy/article/DF3KFJOP0519H58O.html](jump-to.php?url=https%3A%2F%2F3g.163.com%2Fdy%2Farticle%2FDF3KFJOP0519H58O.html)
+这个还能看
 #quote RichardZeng
 
