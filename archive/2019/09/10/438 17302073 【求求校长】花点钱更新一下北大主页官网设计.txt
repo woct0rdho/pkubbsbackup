@@ -1,4 +1,4 @@
-#t 438 17302073 DarricDing 2019-09-10 00:19:00 huanss 2019-09-17 19:51:00
+#t 438 17302073 DarricDing 2019-09-10 00:19:00 Hugo 2019-09-17 20:43:00
 【求求校长】花点钱更新一下北大主页官网设计
 
 #p 20879616 DarricDing BSHS 2019-09-17 14:32:08
@@ -303,4 +303,16 @@
 +1
 #quote DarricDing
 发自我的“北大未名”iOS客户端([http://t.cn/R7ZhtYc](jump-to.php?url=http%3A%2F%2Ft.cn%2FR7ZhtYc))
+
+#p 20912203 Hugo 过河的卒子 2019-09-17 20:39:31
+是的，隔壁很多院系的主页都是一个模子，一套代码通天下。。
+#quote KevinZhao
+
+#p 20912332 WillyIT 我靠石头 2019-09-17 20:41:09
+附议
+#quote DarricDing
+
+#p 20912355 Hugo 过河的卒子 2019-09-17 20:42:32
+感觉没必要，现在的主页挺好的 
+#quote PKUCC
 
