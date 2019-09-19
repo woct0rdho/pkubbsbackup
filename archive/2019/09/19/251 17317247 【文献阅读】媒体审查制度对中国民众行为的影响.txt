@@ -1,7 +1,7 @@
-#t 251 17317247 caomy 2019-09-19 13:57:00 caomy 2019-09-19 13:57:00
+#t 251 17317247 caomy 2019-09-19 00:13:00 Nameless 2019-09-19 15:23:00
 【文献阅读】媒体审查制度对中国民众行为的影响
 
-#p 20921063 caomy 帷幕 2019-09-19 13:57:02
+#p 20921063 caomy 帷幕 2019-09-19 14:02:13
 
 
 2019-09-19 13:56:29
@@ -11,6 +11,8 @@
 **作者提出的两个问题：**
 1，如果能自由访问外网，他们会更想去搜索政治敏感信息吗？
 2，接触政治敏感信息会改变他们的信仰、态度和行为吗？
+**作者的methods：**
+作者找了一千多个学生，分为五组：control，control+encouragement，access，access+encouragement，existing users，只给access的两组提供稳定访问外网的VPN，并给encourage组的学生宣传墙外信息。一共进行了18个月
 **作者的results**：
 1. 单纯提供翻墙服务并不会促使学生们主动寻找政治敏感信息
 2. 向他们宣传墙外信息会促使他们翻墙
@@ -21,4 +23,8 @@
 参考文献：
 Chen, Yuyu, and David Y. Yang. 2019. "The Impact of Media Censorship: 1984 or Brave New World?" American Economic Review, 109 (6): 2294-2332.
 DOI: 10.1257/aer.20171765
+
+#p 20921643 Nameless 麦田与十三岁|石榴成熟时 2019-09-19 15:23:01
+不知道这个研究是否安全……
+#quote caomy
 
