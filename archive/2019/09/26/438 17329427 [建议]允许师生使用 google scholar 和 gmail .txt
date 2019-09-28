@@ -1,4 +1,4 @@
-#t 438 17329427 Homagod 2019-09-26 00:17:00 Homagod 2019-09-28 12:59:00
+#t 438 17329427 Homagod 2019-09-26 00:17:00 quicy 2019-09-28 14:30:00
 [建议]允许师生使用 google scholar 和 gmail 
 
 #p 21002365 Homagod 不愉快です 2019-09-26 17:07:45
@@ -23,4 +23,8 @@ gmail和pku mail是decouple的，我们现在用slack。已经很不好连了，
 #p 21012960 Homagod 不愉快です 2019-09-28 12:58:03
 gmail的邮件还是能发到pku的对吧
 #quote propagator
+
+#p 21013256 quicy quicy 2019-09-28 14:29:06
+建议翻墙吧，不然不连学校网的时候就收不到 gmail 也挺麻烦的
+#quote Homagod
 
