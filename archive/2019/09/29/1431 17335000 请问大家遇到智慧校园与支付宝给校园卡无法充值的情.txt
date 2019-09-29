@@ -1,4 +1,4 @@
-#t 1431 17335000 bluesangel 2019-09-29 00:11:00 luoyujie 2019-09-29 13:55:00
+#t 1431 17335000 bluesangel 2019-09-29 00:11:00 al 2019-09-29 14:37:00
 请问大家遇到智慧校园与支付宝给校园卡无法充值的情
 
 #p 21016543 bluesangel 随风飘荡 2019-09-29 11:01:58
@@ -67,6 +67,7 @@
 #quote bluesangel
 
 #p 21016901 xRoyaI 小兔 2019-09-29 12:22:53
+#DELETED
 请注意用词，青年研究中心将适时删帖
 #quote speechless
 
@@ -201,4 +202,25 @@
 #p 21017278 luoyujie 医林中人 2019-09-29 13:54:52
 我也是支付宝显示充值成功，结果100 不知道去哪里了
 #quote WekFer
+
+#p 21017306 dyd >< 2019-09-29 14:01:09
+放心，钱不会跑的，现在是服务器故障
+#quote luoyujie
+
+#p 21017312 luoyujie 医林中人 2019-09-29 14:02:30
+嗯就是，主要是卡里没钱吃放不方便
+#quote dyd
+
+#p 21017321 luoyujie 医林中人 2019-09-29 14:05:38
+可能昨天系统就问题没进账
+#quote VerbisVirtus
+
+#p 21017434 al aluminium 2019-09-29 14:33:23
+突然明白了自己本科学校(xjtu)每逢过节都给学生发好几张饭票的良苦用心（×
+#quote bluesangel
+
+#p 21017450 al aluminium 2019-09-29 14:36:15
+like this
+[http://news.xjtu.edu.cn/info/1002/69567.htm](jump-to.php?url=http%3A%2F%2Fnews.xjtu.edu.cn%2Finfo%2F1002%2F69567.htm)
+#quote al
 
