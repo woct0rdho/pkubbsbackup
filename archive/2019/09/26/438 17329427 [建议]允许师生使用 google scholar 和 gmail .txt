@@ -1,4 +1,4 @@
-#t 438 17329427 Homagod 2019-09-26 00:17:00 AllanChain 2019-09-30 06:47:00
+#t 438 17329427 Homagod 2019-09-26 00:17:00 derekdut 2019-09-30 09:37:00
 [建议]允许师生使用 google scholar 和 gmail 
 
 #p 21002365 Homagod 不愉快です 2019-09-26 17:07:45
@@ -92,4 +92,13 @@ gmail的邮件还是能发到pku的对吧
 #p 21031283 AllanChain 此用户已注销 2019-09-30 06:46:55
 Outlook了解一下，至少墙内收gmail无障碍，发应该也可以
 #quote Homagod
+
+#p 21031566 fcschosenone 季子多情 2019-09-30 09:22:17
+嗯？
+特意试了下微信充值，没问题啊……
+#quote speechless
+
+#p 21031620 derekdut 学渣的忧桑 2019-09-30 09:36:24
+这是因为昨天白天的时候，学校充值服务器坏了，等晚上就修好了。
+#quote fcschosenone
 
