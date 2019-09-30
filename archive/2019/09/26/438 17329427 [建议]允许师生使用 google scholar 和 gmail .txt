@@ -1,4 +1,4 @@
-#t 438 17329427 Homagod 2019-09-26 00:17:00 derekdut 2019-09-30 09:37:00
+#t 438 17329427 Homagod 2019-09-26 00:17:00 fcschosenone 2019-09-30 10:23:00
 [建议]允许师生使用 google scholar 和 gmail 
 
 #p 21002365 Homagod 不愉快です 2019-09-26 17:07:45
@@ -101,4 +101,18 @@ Outlook了解一下，至少墙内收gmail无障碍，发应该也可以
 #p 21031620 derekdut 学渣的忧桑 2019-09-30 09:36:24
 这是因为昨天白天的时候，学校充值服务器坏了，等晚上就修好了。
 #quote fcschosenone
+
+#p 21031724 OliverShu 涓滴意念 2019-09-30 10:05:04
+兄弟，slack需要翻墙的吧
+#quote propagator
+
+#p 21031784 zhangquan 秉浩 2019-09-30 10:20:41
+用不了gmail真的很难受了，给导师发邮件都发不出去，好不容易发出去，还在想老师能不能收到
+#quote Homagod
+
+#p 21031788 fcschosenone 季子多情 2019-09-30 10:22:53
+原来如此……昨天没充卡不太了解。
+大概也就是正常的系统故障吧。
+不过我也支持学校放开Google scholar和Gmail，这才是学术利器啊！
+#quote derekdut
 
