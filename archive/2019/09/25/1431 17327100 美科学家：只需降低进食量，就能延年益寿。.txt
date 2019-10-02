@@ -1,4 +1,4 @@
-#t 1431 17327100 euio 2019-09-25 00:10:00 manakanemu 2019-10-02 21:29:00
+#t 1431 17327100 euio 2019-09-25 00:10:00 manakanemu 2019-10-02 22:10:00
 美科学家：只需降低进食量，就能延年益寿。
 
 #p 20996129 euio 耳目一心 2019-09-25 10:53:56
@@ -53,5 +53,13 @@ The study was designed to have participants in the experimental group eat 25 per
 
 #p 21039953 manakanemu manakanemu 2019-10-02 21:28:34
 少食多餐。
+#quote bspkq
+
+#p 21040090 bspkq 与其感慨路难行 2019-10-02 22:07:14
+少食多餐可以降低进食量吗，感觉吃不到饱腹会更饿呢
+#quote manakanemu
+
+#p 21040097 manakanemu manakanemu 2019-10-02 22:09:31
+增加咀嚼时间+增加蛋白质占比
 #quote bspkq
 
