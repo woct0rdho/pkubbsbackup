@@ -1,4 +1,4 @@
-#t 1431 17327100 euio 2019-09-25 00:10:00 ddfoucault 2019-10-02 10:26:00
+#t 1431 17327100 euio 2019-09-25 00:10:00 euio 2019-10-02 13:53:00
 美科学家：只需降低进食量，就能延年益寿。
 
 #p 20996129 euio 耳目一心 2019-09-25 10:53:56
@@ -33,4 +33,8 @@ The study was designed to have participants in the experimental group eat 25 per
 #p 21038230 ddfoucault whitegive 2019-10-02 10:25:50
 以后吃饭不敢吃三两了...
 #quote euio
+
+#p 21038706 euio 耳目一心 2019-10-02 13:52:37
+如果原来吃四两的，吃三两就没问题。
+#quote ddfoucault
 
