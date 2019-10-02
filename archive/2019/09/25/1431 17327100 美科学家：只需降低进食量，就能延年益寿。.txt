@@ -1,4 +1,4 @@
-#t 1431 17327100 euio 2019-09-25 00:10:00 euio 2019-10-02 17:27:00
+#t 1431 17327100 euio 2019-09-25 00:10:00 bspkq 2019-10-02 20:14:00
 美科学家：只需降低进食量，就能延年益寿。
 
 #p 20996129 euio 耳目一心 2019-09-25 10:53:56
@@ -46,4 +46,8 @@ The study was designed to have participants in the experimental group eat 25 per
 这确实是一个很有意思的问题。
 理论上应该有最佳点，可以获得最大的寿命延长量。
 #quote traveller
+
+#p 21039676 bspkq 与其感慨路难行 2019-10-02 20:13:36
+饿了怎么办
+#quote euio
 
