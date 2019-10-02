@@ -1,4 +1,4 @@
-#t 1431 17327100 euio 2019-09-25 00:10:00 euio 2019-10-02 13:53:00
+#t 1431 17327100 euio 2019-09-25 00:10:00 traveller 2019-10-02 14:14:00
 美科学家：只需降低进食量，就能延年益寿。
 
 #p 20996129 euio 耳目一心 2019-09-25 10:53:56
@@ -37,4 +37,8 @@ The study was designed to have participants in the experimental group eat 25 per
 #p 21038706 euio 耳目一心 2019-10-02 13:52:37
 如果原来吃四两的，吃三两就没问题。
 #quote ddfoucault
+
+#p 21038781 traveller 冰之旅行者 2019-10-02 14:13:35
+有没有研究减少进食的边际收益是如何变化的呢（好奇）
+#quote euio
 
