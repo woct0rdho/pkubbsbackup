@@ -1,4 +1,4 @@
-#t 251 17340703 obaxiong 2019-10-02 00:21:00 MDP 2019-10-03 09:22:00
+#t 251 17340703 obaxiong 2019-10-02 00:21:00 ggz 2019-10-03 11:37:00
 清华北大上交，哪所大学影响力大？
 
 #p 21040044 obaxiong bu 2019-10-02 21:52:48
@@ -27,4 +27,9 @@
 #p 21041251 MDP MarkovDecisionProcess 2019-10-03 09:21:31
 这钩太直了
 #quote obaxiong
+
+#p 21041603 ggz TK968810 2019-10-03 11:36:41
+#quote obaxiong
+朋友你都提到民校了，我觉得你应该出本书
+发自我的“北大未名”iOS客户端([http://t.cn/R7ZhtYc](jump-to.php?url=http%3A%2F%2Ft.cn%2FR7ZhtYc))
 
