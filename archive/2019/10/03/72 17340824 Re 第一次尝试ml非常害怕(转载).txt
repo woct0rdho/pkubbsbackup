@@ -1,7 +1,14 @@
-#t 72 17340824 survivor 2019-10-03 01:30:00 survivor 2019-10-03 01:30:00
+#t 72 17340824 survivor 2019-10-03 00:01:00 EZBoi 2019-10-03 10:07:00
 Re 第一次尝试ml非常害怕(转载)
 
 #p 21040743 survivor TEETOTALER|每天都是一种练习 2019-10-03 01:29:04
+[原文由 peiyangium 发表在 Health 版 &gt;&gt;&gt;](post-read.php?bid=244&amp;threadid=17340824)
+自己手写的吗？还是用的什么现成框架？
+虽然现在python比较流行，但用matlab入门也不失为以后一个很好的渠道。甚至有人用Excel里面的工具就能实现简单的ml模型，可以尝试下。
+ml的基础部分其实非常直白，现在也有很多的材料帮助理解，相信会顺利进阶的。加油！
+#quote Anonymous
+
+#p 21041361 EZBoi 简单男孩 2019-10-03 10:07:00
 [原文由 peiyangium 发表在 Health 版 &gt;&gt;&gt;](post-read.php?bid=244&amp;threadid=17340824)
 自己手写的吗？还是用的什么现成框架？
 虽然现在python比较流行，但用matlab入门也不失为以后一个很好的渠道。甚至有人用Excel里面的工具就能实现简单的ml模型，可以尝试下。
