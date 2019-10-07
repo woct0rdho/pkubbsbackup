@@ -1,4 +1,4 @@
-#t 251 17340100 thinky 2019-10-02 00:12:00 zjjzh 2019-10-06 14:00:00
+#t 251 17340100 thinky 2019-10-02 00:12:00 Edward 2019-10-08 00:45:00
 为什么国内差别这么大？
 
 #p 21038456 thinky 披风罗汉 2019-10-02 12:01:04
@@ -35,5 +35,9 @@
 另外，我还看到 ”Men and women employed in service jobs earned the least,$637 and $530, respectively“，但是我目前没有精力搜索employed in services jobs的准确定义，所以不确定能否他们和中国的服务员对等起来，不过这两个数据算出来男性和女性的年均收入分别为33124和27560.
 引用的数据是wiki "personal income in the U.S." 词条，wiki的数据来源是[https://www.bls.gov/news.release/pdf/wkyeng.pdf](jump-to.php?url=https%3A%2F%2Fwww.bls.gov%2Fnews.release%2Fpdf%2Fwkyeng.pdf)
 我觉得中上层和底层收入的倍数差距并不是中美特别好的对标，因为在食品、生活必需品上美元的购买力很强，所以很多从事服务工作的人生活也还过得去。其实我想说的就是美国人民的收入差距没有您在主楼中说的那么小。
+#quote thinky
+
+#p 21060835 Edward 别闹我的老爷 2019-10-08 00:44:33
+了解一下Kuznets curve，跟社会发展阶段有关
 #quote thinky
 
