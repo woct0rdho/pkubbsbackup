@@ -1,9 +1,12 @@
-#t 438 17348964 Kurapica 2019-10-08 21:18:00 Kurapica 2019-10-08 21:18:00
+#t 438 17348964 Kurapica 2019-10-08 00:21:00 redleaves 2019-10-08 22:20:00
 Re 请问入栈连接什么时候能放开？(转载)
 
-#p 21064961 Kurapica 库卡 2019-10-08 21:17:59
+#p 21064961 Kurapica 库卡 2019-10-08 21:19:55
+
+
+2019-10-08 21:17:59
 [原文由 Kurapica 发表在 PKU_CC 版 &gt;&gt;&gt;](post-read.php?bid=668&amp;threadid=17348964)
-您好。我能理解80、8080、443、23等端口算“对外提供服务”。可是远程桌面连接和SSH也算“对外提供服务”么？我的SSH端口并未挂接BBS等服务，仅用于远程运行代码，这也算对外提供服务？
+您好。我能理解80、8080、443、21等端口算“对外提供服务”。可是远程桌面连接和SSH也算“对外提供服务”么？我的SSH端口并未挂接BBS等服务，仅用于远程运行代码，这也算对外提供服务？
 另外，可能是我搜索能力有限，但我并未找到《北京大学网络安全管理办法》的全文。在北大首页和its上都未找到，请勿援引一个未经公布的管理办法，或请公开此管理办法。
 再次，在相关文件中，我找到如下可能和互联网服务相关的文件：
 [1] 《互联网安全保护技术措施规定》-- 公安部
@@ -19,5 +22,14 @@ Re 请问入栈连接什么时候能放开？(转载)
 进一步地，在文件[1]中，计算中心可能已经涉及违反了第十四条第四款：擅自改变安全保护技术措施的用途和范围。
 希望计算中心能够以用户为中心出发，停止简单粗暴的“一刀切”工作。拔网线这个工作并不需要专业技能，前校长许智宏就曾成功拔过网线以至落得一身骂名。希望计算中心在保证北大网络安全的前提下，能够保证北大校园网正常的开放性，而不是远比政府要求的紧。
 最后问一句，PING什么时候能放开？呵呵。
+参考文献：
+[1] [https://its.pku.edu.cn/rule_1_security.jsp](jump-to.php?url=https%3A%2F%2Fits.pku.edu.cn%2Frule_1_security.jsp)
+[2] [https://its.pku.edu.cn/rule_1_non_operational.jsp](jump-to.php?url=https%3A%2F%2Fits.pku.edu.cn%2Frule_1_non_operational.jsp)
+[3] [https://its.pku.edu.cn/rule_1_internet_security.jsp](jump-to.php?url=https%3A%2F%2Fits.pku.edu.cn%2Frule_1_internet_security.jsp)
+[4] [http://www.gov.cn/gongbao/content/2011/content_1860856.htm](jump-to.php?url=http%3A%2F%2Fwww.gov.cn%2Fgongbao%2Fcontent%2F2011%2Fcontent_1860856.htm)
 #quote PKUCC
+
+#p 21065309 redleaves 红叶飘飘 2019-10-08 22:19:36
+先连北大VPN再连接这些端口。
+#quote Kurapica
 
