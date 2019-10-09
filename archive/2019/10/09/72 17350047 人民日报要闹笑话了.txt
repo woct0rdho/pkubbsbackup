@@ -1,4 +1,4 @@
-#t 72 17350047 survivor 2019-10-09 12:17:00 survivor 2019-10-09 12:17:00
+#t 72 17350047 survivor 2019-10-09 00:12:00 survivor 2019-10-09 13:46:00
 人民日报要闹笑话了
 
 #p 21067760 survivor TEETOTALER|每天都是一种练习 2019-10-09 12:16:40
@@ -6,4 +6,18 @@
 原文在[https://twitter.com/PDChina/status/1181705225691901955](jump-to.php?url=https%3A%2F%2Ftwitter.com%2FPDChina%2Fstatus%2F1181705225691901955)
 观点和道理都说得很好，但是——
 堂堂南部重镇、大城市休斯顿，并没有地铁（subway），只有轻轨(light rail)。
+
+#p 21068116 Alpher 小现 2019-10-09 13:19:19
+哈哈
+#quote survivor
+
+#p 21068194 lea 无爱即无忧 2019-10-09 13:31:14
+地铁、轻轨都可以翻译为metro...
+二者的根本区别在于，是否路权专有，是否存在平交，许多轻轨其实是地铁...
+休斯顿的轻轨就是这样的情况，人民日报并没有错...
+#quote survivor
+
+#p 21068287 survivor TEETOTALER|每天都是一种练习 2019-10-09 13:45:40
+你如果点开原文就会发现人民日报用的词是subway
+#quote lea
 
