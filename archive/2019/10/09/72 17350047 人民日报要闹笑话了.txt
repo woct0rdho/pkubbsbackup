@@ -1,11 +1,15 @@
-#t 72 17350047 survivor 2019-10-09 00:12:00 lea 2019-10-09 21:57:00
+#t 72 17350047 survivor 2019-10-09 00:12:00 survivor 2019-10-09 22:44:00
 人民日报要闹笑话了
 
-#p 21067760 survivor TEETOTALER|每天都是一种练习 2019-10-09 12:16:40
+#p 21067760 survivor TEETOTALER|每天都是一种练习 2019-10-09 22:20:31
+
+
+2019-10-09 12:16:40
 人民日报质问莫雷:若暴徒在休斯顿地铁放火呢? （[http://sports.sina.com.cn/basketball/nba/2019-10-09/doc-iicezzrr0958622.shtml](jump-to.php?url=http%3A%2F%2Fsports.sina.com.cn%2Fbasketball%2Fnba%2F2019-10-09%2Fdoc-iicezzrr0958622.shtml)）
 原文在[https://twitter.com/PDChina/status/1181705225691901955](jump-to.php?url=https%3A%2F%2Ftwitter.com%2FPDChina%2Fstatus%2F1181705225691901955)
 观点和道理都说得很好，但是——
 堂堂南部重镇、大城市休斯顿，并没有地铁（subway），只有轻轨(light rail)。
+P.S.: 关于我自己的态度，我昨天在facebook实名发了两条怼NBA和波波维奇双标的，还在Quora匿名发了一篇。
 
 #p 21068116 Alpher 小现 2019-10-09 13:19:19
 哈哈
@@ -224,4 +228,36 @@ Joke版里有一大堆不大好笑或者难以get到楼主笑点的帖子, 一�
 #p 21070498 lea 无爱即无忧 2019-10-09 21:56:50
 不是我定义的好嘛...
 #quote thinky
+
+#p 21071404 thinky 披风罗汉 2019-10-09 22:01:50
+对的，你转载的定义。
+#quote lea
+
+#p 21071427 KakaHiguain 😶 2019-10-09 22:06:19
+那13号线，机场线也是地铁咯
+#quote lea
+
+#p 21071464 lea 无爱即无忧 2019-10-09 22:12:59
+国内是将地上铁和地下铁统称地铁...
+1号线则既有地上部分又有地下部分...
+#quote KakaHiguain
+
+#p 21071501 survivor TEETOTALER|每天都是一种练习 2019-10-09 22:21:07
+赛百味的话，S需要大写（Subway），原文的s是小写的。
+#quote doctor
+
+#p 21071515 survivor TEETOTALER|每天都是一种练习 2019-10-09 22:24:09
+断章取义？？？
+#quote scherzo
+
+#p 21071536 beingGerald 柳沟 2019-10-09 22:28:12
+建墙不就是为了不让我们关心外面的消息嘛，为什么还要翻墙去跟他们吵…
+#quote survivor
+
+#p 21071617 survivor TEETOTALER|每天都是一种练习 2019-10-09 22:43:23
+习近平出席全国宣传思想工作会议并发表重要讲话
+[http://www.gov.cn/xinwen/2018-08/22/content_5315723.htm](jump-to.php?url=http%3A%2F%2Fwww.gov.cn%2Fxinwen%2F2018-08%2F22%2Fcontent_5315723.htm)
+其中有一段“要推进国际传播能力建设，讲好中国故事、传播好中国声音，向世界展现真实、立体、全面的中国，提高国家文化软实力和中华文化影响力”
+人民日报等媒体在推特、脸书开账号，就是上述行动的一部分嘛，当然目前来看总体效果并不好。
+#quote beingGerald
 
