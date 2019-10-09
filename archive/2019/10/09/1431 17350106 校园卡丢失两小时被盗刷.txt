@@ -1,4 +1,4 @@
-#t 1431 17350106 sweetpotato 2019-10-09 00:12:00 Zanetti 2019-10-09 22:01:00
+#t 1431 17350106 sweetpotato 2019-10-09 00:12:00 sweetpotato 2019-10-09 23:30:00
 校园卡丢失两小时被盗刷
 
 #p 21067927 sweetpotato spnj 2019-10-09 12:44:40
@@ -15,4 +15,16 @@
 #p 21071365 Zanetti Javier 2019-10-09 22:00:09
 查监控，贴图
 #quote sweetpotato
+
+#p 21071727 GEOer inspiration 2019-10-09 23:13:43
+请问校园卡流水哪里查呀？谢谢楼主
+#quote sweetpotato
+
+#p 21071769 dyd >< 2019-10-09 23:29:09
+card.pku.edu.cn
+#quote GEOer
+
+#p 21071772 sweetpotato spnj 2019-10-09 23:29:32
+校园卡服务中心的网站
+#quote GEOer
 

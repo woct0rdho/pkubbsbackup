@@ -1,13 +1,16 @@
-#t 251 17350465 sunwind 2019-10-09 00:16:00 cursebreaker 2019-10-09 22:43:00
+#t 251 17350465 sunwind 2019-10-09 00:16:00 cursebreaker 2019-10-09 23:05:00
 美国宪法为什么这样定义“言论自由”？
 
-#p 21069069 sunwind 海之逸 2019-10-09 16:18:18
+#p 21069069 sunwind 海之逸 2019-10-09 23:05:25
+
+
+2019-10-09 16:18:18
 美国宪法第一修正案原文：
-<u>Congress shall make no law </u>respecting an establishment of religion, or prohibiting the free exercise thereof; or abridging the freedom of speech, or of the press; or the right of the people peaceably to assemble, and to petition the Government for a redress of grievances.
-第一修正案（Amendment I）<u>禁止美国国会制订任何法律以</u>确立国教；妨碍宗教自由；剥夺言论自由；侵犯新闻自由与集会自由；干扰或禁止向政府请愿的权利。
+**Congress shall make no law **respecting an establishment of religion, or prohibiting the free exercise thereof; or abridging the freedom of speech, or of the press; or the right of the people peaceably to assemble, and to petition the Government for a redress of grievances.
+第一修正案（Amendment I）**禁止美国国会制订任何法律以**确立国教；妨碍宗教自由；剥夺言论自由；侵犯新闻自由与集会自由；干扰或禁止向政府请愿的权利。
 [https://en.wikipedia.org/wiki/First_Amendment_to_the_United_States_Constitution#Text](jump-to.php?url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FFirst_Amendment_to_the_United_States_Constitution%23Text)
 解释：
-The First Amendment's constitutional right of free speech, which is applicable to state and local governments under the incorporation doctrine, <u>only prevents government restrictions on speech, not restrictions imposed by private individuals or businesses unless they are acting on behalf of the government. </u>
+The First Amendment's constitutional right of free speech, which is applicable to state and local governments under the incorporation doctrine, **only prevents government restrictions on speech, not restrictions imposed by private individuals or businesses unless they are acting on behalf of the government. **
 第一修正案……仅禁止政府对言论的限制，而不禁止个人或商业团体对言论的限制，除非他们代表了政府。（自己翻的，中间的incorporation doctrine不知道是啥，没翻，勉强看吧……）
 [https://en.wikipedia.org/wiki/Freedom_of_speech_in_the_United_States](jump-to.php?url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FFreedom_of_speech_in_the_United_States)
 
@@ -81,5 +84,18 @@ NBA也没有明文禁止种族歧视的言论，但是这种言论对于球员�
 
 #p 21071610 cursebreaker Cascadia 2019-10-09 22:42:25
 或许你可以把你的问题总结的更有疑问属性一些, 然后我帮你问问美国政治制度课老师, 上节课他刚好讲起这个😂.
+#quote sunwind
+
+#p 21071688 sunwind 海之逸 2019-10-09 23:02:50
+所以按照这个定义，前段时间推特批量删号的事也没有侵犯言论自由…
+#quote derekdut
+
+#p 21071692 sunwind 海之逸 2019-10-09 23:03:10
+哈哈哈，谢谢，不用了~
+#quote cursebreaker
+
+#p 21071700 cursebreaker Cascadia 2019-10-09 23:05:12
+是的...Twitter是私人企业...如果有一个政府部门的社交网络, 按照美国的宪法, 应该会保护美国公民的言论自由.
+是不是可以安利一发联合国, 让他们开发一款可以保护全球人言论自由的社交软件呢?
 #quote sunwind
 
