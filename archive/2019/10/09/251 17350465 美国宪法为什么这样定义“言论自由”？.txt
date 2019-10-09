@@ -1,4 +1,4 @@
-#t 251 17350465 sunwind 2019-10-09 16:19:00 sunwind 2019-10-09 16:19:00
+#t 251 17350465 sunwind 2019-10-09 00:16:00 Brainor 2019-10-09 17:44:00
 美国宪法为什么这样定义“言论自由”？
 
 #p 21069069 sunwind 海之逸 2019-10-09 16:18:18
@@ -10,4 +10,9 @@
 The First Amendment's constitutional right of free speech, which is applicable to state and local governments under the incorporation doctrine, <u>only prevents government restrictions on speech, not restrictions imposed by private individuals or businesses unless they are acting on behalf of the government. </u>
 第一修正案……仅禁止政府对言论的限制，而不禁止个人或商业团体对言论的限制，除非他们代表了政府。（自己翻的，中间的incorporation doctrine不知道是啥，没翻，勉强看吧……）
 [https://en.wikipedia.org/wiki/Freedom_of_speech_in_the_United_States](jump-to.php?url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FFreedom_of_speech_in_the_United_States)
+
+#p 21069486 Brainor Leong 2019-10-09 17:44:17
+中国是不是第一修正案正好反过来了?
+仅禁止个人或商业团体对言论的限制，而不禁止政府对言论的限制。
+#quote sunwind
 
