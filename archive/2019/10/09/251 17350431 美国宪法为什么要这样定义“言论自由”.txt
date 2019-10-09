@@ -1,0 +1,12 @@
+#t 251 17350431 sunwind 2019-10-09 15:52:00 sunwind 2019-10-09 15:52:00
+美国宪法为什么要这样定义“言论自由”
+
+#p 21068930 sunwind 海之逸 2019-10-09 15:52:01
+美国宪法第一修正案原文：
+<u>Congress shall make no law </u>respecting an establishment of religion, or prohibiting the free exercise thereof; or abridging the freedom of speech, or of the press; or the right of the people peaceably to assemble, and to petition the Government for a redress of grievances.
+第一修正案（Amendment I）<u>禁止美国国会制订任何法律以</u>确立国教；妨碍宗教自由；剥夺言论自由；侵犯新闻自由与集会自由；干扰或禁止向政府请愿的权利。
+[https://en.wikipedia.org/wiki/First_Amendment_to_the_United_States_Constitution#Text](jump-to.php?url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FFirst_Amendment_to_the_United_States_Constitution%23Text)
+解释：
+The First Amendment's constitutional right of free speech, which is applicable to state and local governments under the incorporation doctrine, <u>only prevents government restrictions on speech, not restrictions imposed by private individuals or businesses unless they are acting on behalf of the government. </u>
+[https://en.wikipedia.org/wiki/Freedom_of_speech_in_the_United_States](jump-to.php?url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FFreedom_of_speech_in_the_United_States)
+
