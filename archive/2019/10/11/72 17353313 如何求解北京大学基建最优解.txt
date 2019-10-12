@@ -1,4 +1,4 @@
-#t 72 17353313 bobprime 2019-10-11 10:37:00 mycNoone 2019-10-11 10:40:00
+#t 72 17353313 bobprime 2019-10-11 00:10:00 boson 2019-10-12 12:15:00
 如何求解北京大学基建最优解
 
 #p 21077859 bobprime bobprime 2019-10-11 10:36:57
@@ -6,5 +6,9 @@
 
 #p 21077873 mycNoone 白学家|傻狗|重度KY患者 2019-10-11 10:39:23
 买地，over
+#quote bobprime
+
+#p 21083389 boson boson 2019-10-12 12:14:42
+duiyu yifangshuitu yangbuhuo yifengrende，建议易地搬迁。比如搬到雄安。
 #quote bobprime
 
