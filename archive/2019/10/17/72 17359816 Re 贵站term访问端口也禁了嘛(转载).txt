@@ -1,0 +1,8 @@
+#t 72 17359816 niisikhsurg 2019-10-17 06:47:00 niisikhsurg 2019-10-17 06:47:00
+Re 贵站term访问端口也禁了嘛(转载)
+
+#p 21106341 niisikhsurg 三年赶上袁三爷，五年超过海张五 2019-10-17 06:46:35
+[原文由 PKUCC 发表在 PKU_CC 版 &gt;&gt;&gt;](post-read.php?bid=668&amp;threadid=17359816)
+term方式存在网络安全风险，建议从web方式访问BBS。
+#quote juruo
+
