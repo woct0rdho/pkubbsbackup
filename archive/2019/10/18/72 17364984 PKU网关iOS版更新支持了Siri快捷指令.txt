@@ -1,4 +1,4 @@
-#t 72 17364984 pkusole 2019-10-18 00:18:00 Nameless 2019-10-20 00:14:00
+#t 72 17364984 pkusole 2019-10-18 00:18:00 Postel 2019-10-20 01:14:00
 PKU网关iOS版更新支持了Siri快捷指令
 
 #p 21113500 pkusole pku馊了 2019-10-18 18:55:12
@@ -12,5 +12,13 @@ PKU网关iOS版更新支持了Siri快捷指令
 
 #p 21119409 Nameless 麦田与十三岁|石榴成熟时 2019-10-20 00:13:40
 没流量么。。
+#quote pkusole
+
+#p 21121227 Vivace Grave 2019-10-20 01:03:52
+#quote pkusole
+Race condition 233
+
+#p 21121257 Postel 天马 2019-10-20 01:13:19
+我更好奇的是怎么用siri快捷指令用它……
 #quote pkusole
 
