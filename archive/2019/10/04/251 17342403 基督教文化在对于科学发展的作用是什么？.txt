@@ -1,4 +1,4 @@
-#t 251 17342403 Octo 2019-10-04 00:09:00 Masonry 2019-10-20 09:22:00
+#t 251 17342403 Octo 2019-10-04 00:09:00 Octo 2019-10-20 11:34:00
 基督教文化在对于科学发展的作用是什么？
 
 #p 21045461 Octo ·◎· 2019-10-04 09:15:34
@@ -121,19 +121,30 @@
 那么可不可以认为其实科学精神是起源于希腊，在中世纪的时候在阿拉伯世界延续薪火，之后再反哺回中世纪的欧哲最终得以完全产生呢？另有一位层主回复的经院哲学发展出的实证主义，虽然他还没回复我，我猜想是指罗杰培根的经验主义，而罗杰培根本身也是熟知伊斯兰科学的炼金术师，而经验主义的提出也是为了反驳当时经院哲学的主流权威托马斯主义。
 #quote Rockefeller
 
-#p 21121790 Masonry 东尼探长 雁园警视厅 2019-10-20 09:21:25
-抱歉没有解释清楚。
-我对科学与宗教的联系很感兴趣。这个问题很复杂，因为科学和宗教的联系并非表象上的联系，而是内在的深入联系，需要许多论证来逐步揭示。当然了，宗教一开始是科学的赞助者，这是人们都看到也常提到的事情。但这并非最深入的联系，因为这种历史主义的眼光通常将科学与宗教看作不可调和的二元对立。但这其实是荒谬的。许多大科学家和学者认为真正的科学本质上是宗教的，甚至，在使用Jung的定义去除对宗教的偏见后，我们还可以从笛卡尔的亲身经历中找到例证。中国文化中甚至整个世界范围内常常对宗教有深入骨髓的误解，他们不知道宗教与迷信之间的差别。因此，用如此短的篇幅讨论这个问题就成了不可能的事情，我可能会在写一篇稍长的文章来讨论科学和宗教的联系。
-关于宗教的定义，我先提一下：最广泛和准确的对宗教的定义不依赖于教条，而仅依赖一个凭据（见下文）。关键不仅在于观察和考量，更是在于其对象，“对不依赖于人意的、动态作用和因素”，因此并不是所有“观察和考虑”都可以算作宗教，只有一种特定的、但为人类共通的种类才算是宗教。在下面的第三个例子中可以看到，科学的诞生，至少在笛卡尔的例子中，是为了通过理性，从自然的难以违抗的巨力（“wind”, "terrific storm"）中解放出来。
+#p 21121790 Masonry 东尼探长 雁园警视厅 2019-10-20 11:14:18
+
+
+2019-10-20 09:21:25
+很抱歉之前没有解释清楚，我再简单地补述几点吧。
+我对科学与宗教的联系很感兴趣。这个问题是复杂的，因为科学和宗教的联系并非表象上的联系，而是内在的深入联系，这种联系甚至涉及人类的感性，因此需要许多论证来逐步揭示。当然，宗教一开始是科学的赞助者，这是人们都看到也常提到的事情。但这并非最深入的联系，因为这种历史主义的眼光通常将科学与宗教看作不可调和的二元对立。但他们这种观念其实是狭隘和荒谬的，事实上许多大科学家和学者认为真正的科学本质上是宗教的，反而是对科学一知半解的人通常对宗教有很大的偏见。这主要是因为，在中国文化中甚至整个世界范围内常常对宗教有深入骨髓的误解，他们不知道宗教与迷信之间的差别。在使用Jung的定义去除这种对宗教的偏见后，我们可以从爱因斯坦（Einstein）的文章和笛卡尔（Descartes）的亲身经历中找到科学的宗教性质的例证。在盲目理性主义偏见和对社会-经济因素的迷信造成的低劣认知条件下，用如此短的篇幅把这个问题讨论清楚，似乎并不容易。因此，我将来可能会写一篇稍长的文章来讨论科学和宗教的联系。
+我想，要论述科学从何产生，与其空泛地讨论造纸术和经院哲学等较宏观的历史因素，不如直接从大科学家的言与行中找证据，我后面会引用Einstein和Descartes的例子，我想不会有人否认他们对于科学的谈论的权威。但我先要提一下荣格对于宗教的定义：最广泛和准确的对宗教的定义，不依赖于“是否有教条”或者“是否相信神的存在”这种人们默认采用的凭据，而应当依赖于一个稍显晦涩的凭据（见下文例1）。宗教的关键不仅在于“观察和考量”的行为，更是在于其对象——“对不依赖于人意的、动态作用和因素”。因此并不是所有“观察和考虑”都可以算作宗教，只有一种具特定种类对象的、为人类共通的经验才算是宗教。
+我们可以看到，科学刚好就是这种宗教体验的一种，它所对待的对象就是生存于宏大的自然中的、不可任意改变的理性或称规律。在下面的第二个例子中，Einstein指出科学的最高尚的动机就是宇宙性的宗教情感。在第三个例子中可以看到，科学的诞生，至少在笛卡尔的例子中，是为了通过理性，从自然的难以违抗的巨力（“wind”, "terrific storm"）中解放出来。提及这个梦的意图，在于反映近代科学产生的精神动机，这并不是说他的梦是基督教文化作用的工具，更不是通过这个来表明基督教与科学之间的因果。我希望说的是，他的梦反映了科学的创始是因着宗教情感的动机。相似的情感先产生了基督教，后来也产生了科学，这个事实可以作为Einstein的议论的事实佐证。
+如果单讨论基督教文化在精神层面对科学的积极效应，我想，主要是将这种“对至大的观察”的宗教情感在这个文化圈子内保留下来了，基督教在感性上为科学提供了宗教情感这一组分；与之相比，中国古代的人自道家哲学丧失地位后，就将全部精力放在“修身治国平天下”和人际关系之上，丧失了对至大的这种观察。此外，基督教的哲学体系应该是承袭了希腊-罗马-欧洲的传统，在理性上对科学提供了逻辑这一关键的组分。我个人不喜欢单从社会-经济因素来考虑宗教与科学或基督教与科学之间的相互作用，更无法将中国没有科学归罪于文字的特性和文化的记录这些因素。显然，用中文也可以做科学；而且中国人恰好有着仔细记录某些思想和事实的传统，我记得李政道曾提到中国第一次记载了好像是中子星还是什么星体的观察，因此记录习惯并不是主要因素。
+最后，我关于这个话题想要提倡一种“非审判”的态度。我们也无法简单地将基督教对科学的作用概括为积极或消极的，最好是将社会、文化上的影响展开条分缕析的讨论，避免一概而论。
 我的主要参考文献是：荣格的Psychology and Religion，Einstein的Science and Religion，还有Men of mathematics中的笛卡尔的传记。我把里面的文字摘录下来，希望它们能解释的比我自己说的更清楚。
-关于Jung对宗教的定义
-"In speaking of religion I must make clear from the start what I mean by that term. Religion, as the Latin word denotes, is a careful and scrupulous observation of what Rudolf Otto1 aptly termed the numinosum, that is, a dynamic agency or effect not caused by an arbitrary act of will. On the contrary, it seizes and controls the human subject, who is always rather its victim than its creator.”
-选自Jung, C. G., Hull, R. F.C., Adler, Gerhard. Psychology and Religion: West and East.
-"How can cosmic religious feeling be communicated from one person to another, if it can give rise to no definite notion of a God and no theology? In my view, it is the most important function of art and science to awaken this feeling and keep it alive in those who are receptive to it."
-"On the other hand, I maintain that the cosmic religious feeling is the strongest and noblest motive for scientific research. "
-选自Albert Einstein, Religion and Science, 可以参看[https://sacred-texts.com/aor/einstein/einsci.htm](jump-to.php?url=https%3A%2F%2Fsacred-texts.com%2Faor%2Feinstein%2Feinsci.htm)中载入的三篇文章。
-"In the first dream Descartes was blown by evil winds from the security of his church or college toward a third party which the wind was powerless to shake or budge; in the second he found himself observing a terrific storm with the unsuperstitious eyes of science, and he noted that the storm, once seen for what it was, could do him no harm; in the third he dreamed that he was reciting the poem of Ausonius which begins, "Quod vitae secatabor item?"(What way of life shall I follow?)"
-"There was much more. Out of it all Descartes says he was filled with "enthusiasm" (probably intended in a mystic sense) and that there had been revealed to him, as in the second dream, the magic key which would unlock the treasure house of nature and put him in possession of the true foundation, at least , of all the sciences."
-选自 Eric Bell, Men of Mathematics
 #quote Octo
+
+#p 21122154 Octo ·◎· 2019-10-20 11:07:01
+谢谢您的说明，不知道我理解得对不对：您所指的宗教与其说是现有的宗教信仰的一个统称，不如说是他们共通的一种情感，像是对某种宏大事物的求索，而科学也研究中也普遍存在这种求索，所以得到「科学本质上是宗教的」这样的结论。那么您后边说基督教的影响还在于提供了情感成分，那是否表示古希腊、伊斯兰的宗教反而不足以提供这些感性成分呢？
+#quote Masonry
+
+#p 21122186 Masonry 东尼探长 雁园警视厅 2019-10-20 11:17:39
+嗯，我认为你的理解是对的。我没有做过你提及的那样的论断。如果问我个人的观点，我觉得道家哲学也可以为科学提供宗教情感。只是，当时在欧洲似乎唯一盛行的宗教就是基督教了，因此你说的那些宗教在事实上不可能提供感性成分，因为人们不知道它们。
+#quote Octo
+
+#p 21122230 Octo ·◎· 2019-10-20 11:33:44
+多谢。我问到古希腊主要是在想怎么古希腊的时候没来得及发展出来科学，而问伊斯兰教是因为黄金时代的阿拉伯世界看起来也很有希望。
+我刚刚看到一篇译文（[https://new.qq.com/omn/20190604/20190604A0COUD.html](jump-to.php?url=https%3A%2F%2Fnew.qq.com%2Fomn%2F20190604%2F20190604A0COUD.html)），感觉倒是也很好地分析了阿拉伯世界的问题。
+感觉果然科学的产生需要各种因素都配合才可以，或许对于古希腊来说是还太早，而对于阿拉伯世界来说则是和平稳定还不够持久吧。
+#quote Masonry
 
