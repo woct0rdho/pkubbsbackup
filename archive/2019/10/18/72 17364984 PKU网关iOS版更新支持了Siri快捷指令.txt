@@ -1,4 +1,4 @@
-#t 72 17364984 pkusole 2019-10-18 00:18:00 Postel 2019-10-20 01:14:00
+#t 72 17364984 pkusole 2019-10-18 00:18:00 pkusole 2019-10-20 09:44:00
 PKU网关iOS版更新支持了Siri快捷指令
 
 #p 21113500 pkusole pku馊了 2019-10-18 18:55:12
@@ -21,4 +21,14 @@ Race condition 233
 #p 21121257 Postel 天马 2019-10-20 01:13:19
 我更好奇的是怎么用siri快捷指令用它……
 #quote pkusole
+
+#p 21121847 pkusole pku馊了 2019-10-20 09:43:40
+用流量的话pku网关app会拒绝连网，并报错
+此app要求必须在校园网下才能使用
+😆😆😆
+#quote Nameless
+
+#p 21121848 pkusole pku馊了 2019-10-20 09:44:05
+iOS自带的“快捷指令”app
+#quote Postel
 

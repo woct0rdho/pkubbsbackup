@@ -1,4 +1,4 @@
-#t 251 17342403 Octo 2019-10-04 00:09:00 Octo 2019-10-20 08:25:00
+#t 251 17342403 Octo 2019-10-04 00:09:00 Masonry 2019-10-20 09:22:00
 基督教文化在对于科学发展的作用是什么？
 
 #p 21045461 Octo ·◎· 2019-10-04 09:15:34
@@ -120,4 +120,20 @@
 您的前一个回复中我也很同意的一点是希腊文明而非宗教的作用。似乎伊斯兰黄金时代的早期科学发展也是由翻译希腊文化著作开始，而其衰落也和反理性主义和去希腊化有关。
 那么可不可以认为其实科学精神是起源于希腊，在中世纪的时候在阿拉伯世界延续薪火，之后再反哺回中世纪的欧哲最终得以完全产生呢？另有一位层主回复的经院哲学发展出的实证主义，虽然他还没回复我，我猜想是指罗杰培根的经验主义，而罗杰培根本身也是熟知伊斯兰科学的炼金术师，而经验主义的提出也是为了反驳当时经院哲学的主流权威托马斯主义。
 #quote Rockefeller
+
+#p 21121790 Masonry 东尼探长 雁园警视厅 2019-10-20 09:21:25
+抱歉没有解释清楚。
+我对科学与宗教的联系很感兴趣。这个问题很复杂，因为科学和宗教的联系并非表象上的联系，而是内在的深入联系，需要许多论证来逐步揭示。当然了，宗教一开始是科学的赞助者，这是人们都看到也常提到的事情。但这并非最深入的联系，因为这种历史主义的眼光通常将科学与宗教看作不可调和的二元对立。但这其实是荒谬的。许多大科学家和学者认为真正的科学本质上是宗教的，甚至，在使用Jung的定义去除对宗教的偏见后，我们还可以从笛卡尔的亲身经历中找到例证。中国文化中甚至整个世界范围内常常对宗教有深入骨髓的误解，他们不知道宗教与迷信之间的差别。因此，用如此短的篇幅讨论这个问题就成了不可能的事情，我可能会在写一篇稍长的文章来讨论科学和宗教的联系。
+关于宗教的定义，我先提一下：最广泛和准确的对宗教的定义不依赖于教条，而仅依赖一个凭据（见下文）。关键不仅在于观察和考量，更是在于其对象，“对不依赖于人意的、动态作用和因素”，因此并不是所有“观察和考虑”都可以算作宗教，只有一种特定的、但为人类共通的种类才算是宗教。在下面的第三个例子中可以看到，科学的诞生，至少在笛卡尔的例子中，是为了通过理性，从自然的难以违抗的巨力（“wind”, "terrific storm"）中解放出来。
+我的主要参考文献是：荣格的Psychology and Religion，Einstein的Science and Religion，还有Men of mathematics中的笛卡尔的传记。我把里面的文字摘录下来，希望它们能解释的比我自己说的更清楚。
+关于Jung对宗教的定义
+"In speaking of religion I must make clear from the start what I mean by that term. Religion, as the Latin word denotes, is a careful and scrupulous observation of what Rudolf Otto1 aptly termed the numinosum, that is, a dynamic agency or effect not caused by an arbitrary act of will. On the contrary, it seizes and controls the human subject, who is always rather its victim than its creator.”
+选自Jung, C. G., Hull, R. F.C., Adler, Gerhard. Psychology and Religion: West and East.
+"How can cosmic religious feeling be communicated from one person to another, if it can give rise to no definite notion of a God and no theology? In my view, it is the most important function of art and science to awaken this feeling and keep it alive in those who are receptive to it."
+"On the other hand, I maintain that the cosmic religious feeling is the strongest and noblest motive for scientific research. "
+选自Albert Einstein, Religion and Science, 可以参看[https://sacred-texts.com/aor/einstein/einsci.htm](jump-to.php?url=https%3A%2F%2Fsacred-texts.com%2Faor%2Feinstein%2Feinsci.htm)中载入的三篇文章。
+"In the first dream Descartes was blown by evil winds from the security of his church or college toward a third party which the wind was powerless to shake or budge; in the second he found himself observing a terrific storm with the unsuperstitious eyes of science, and he noted that the storm, once seen for what it was, could do him no harm; in the third he dreamed that he was reciting the poem of Ausonius which begins, "Quod vitae secatabor item?"(What way of life shall I follow?)"
+"There was much more. Out of it all Descartes says he was filled with "enthusiasm" (probably intended in a mystic sense) and that there had been revealed to him, as in the second dream, the magic key which would unlock the treasure house of nature and put him in possession of the true foundation, at least , of all the sciences."
+选自 Eric Bell, Men of Mathematics
+#quote Octo
 
