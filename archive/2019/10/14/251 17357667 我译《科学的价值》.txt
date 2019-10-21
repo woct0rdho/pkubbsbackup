@@ -1,4 +1,4 @@
-#t 251 17357667 Masonry 2019-10-14 00:01:00 Kindness 2019-10-18 15:41:00
+#t 251 17357667 Masonry 2019-10-14 00:01:00 Masonry 2019-10-21 22:33:00
 我译《科学的价值》
 
 #p 21091859 Masonry 东尼探长 雁园警视厅 2019-10-16 22:37:43
@@ -25,7 +25,7 @@
 11. 科学与现实
 （对标题的翻译可能会再做更改）
 
-#p 21091865 Masonry 东尼探长 雁园警视厅 2019-10-17 23:02:55
+#p 21091865 Masonry 东尼探长 雁园警视厅 2019-10-20 13:25:54
 
 
 2019-10-14 02:02:28
@@ -113,4 +113,19 @@ Great...第一段中的Tolstoi应该就是托尔斯泰的英译名，但不确�
 #p 21112748 Kindness 立言立德 2019-10-18 15:40:56
 翻译这种东西真的好高深。
 #quote Masonry
+
+#p 21129681 Masonry 东尼探长 雁园警视厅 2019-10-21 22:33:47
+
+
+2019-10-21 22:32:23
+Introduction
+引言
+（更新于10.21, 未完）
+The search for truth should be the goal of our activities; it is the sole end worthy of them. Doubtless we should first bend our efforts to assuage human suffering, but why? Not to suffer is a negative ideal more surely attained by the annihilation of the world. If we wish more and more to free man from material cares, it is that he may be able to employ the liberty obtained in the study and contemplation of truth. 
+对真理的追寻，应是我们生存的唯一目的；唯有它，有如此价值。无疑，我们应该首先把精力倾注在减少人类的苦难上，但为什么？如果只是为了减少痛苦，那直接毁灭整个世界难道不是更易达到这种否定式的理想吗？我们之所以希望人们从物质上的忧虑中解放出来，是因为唯有如此，他才能取得自由以用于对真理的研习和思考。
+But sometimes truths frightens us. And in fact we know that it is sometimes deceptive, that it is phantom never showing itself for a moment except to ceaselessly flee, that it must be pursued further and ever further without ever being attained. Yet to work one must stop, as some Greek, Aristotle or another, has said. We also know how cruel the truth often is, and we wonder whether illusion is not more consoling, yea, even more bracing, for illusion it is which gives confidence. When it shall have vanished, will hope remain and shall we have the courage to achieve? Thus would the horse harnessed to his treadmill refuse to go, were his eyes not bandaged? And then to seek truth it is necessary to be independent, wholly independent. If on the contrary we wish to act, to be strong, we should be united. This is why many of us fear truth; we consider it a cause of weakness. Yet truth should not be feared, for it alone is beautiful. 
+然而，真理常常让人感到恐惧。我们知道，真理常是欺骗性的——它是一个幽灵，在显现的一瞬间就又开始逃离，我们对它必须一刻也不停地追寻，却永远也不能将它捕获。然而，Aristotle或某个希腊人却这样说：“为了工作，我们必须停留”。我们也知道，真理通常是残忍的，错觉反而可能更让人心安；反而错觉更振奋人心，因为正是错觉给了我们自信。如果没有了这种自信，我们真的还能保留任何希望吗？我们还会有勇气去实现这些希望吗？试想，如果马的眼睛没有被蒙上，那他还会继续推动他的踏车吗？为了追寻真理，人必须独立，必须达到完全的独立。然而，如果我们要行动、要变得强大，就必须联合在一起。这就是为什么如此多的人恐惧真理；因为我们把真理看作虚弱的来源。然而，我们不应恐惧真理，只因唯有真理是美的。
+When I speak here of truth, assuredly I refer first to scientific truth; but I also mean moral truth, of which what we call justice is only one aspect. It may seem that I am misusing words, that I combine thus under the same name two things having nothing in common; That scientific truth, which is demonstrated, can in no way be likened to moral truth, which is felt. And yet I can not separate them, and whosoever loves the one can not help loving the other. To find the one, as well as to find the other, it is necessary to free the soul completely from prejudice and from passion; it is necessary to attain absolute sincerity. These two sorts of truth when discovered give the same joy; each when perceived beams with the same splendor, so that we must see it or close our eyes. Lastly, both attract us and flee from us; they are never fixed: when we think to have reached them, we find that we have still to advance, and he who pursues them is condemned never to know repose. It must be added that those who fear the one will also fear the other; for they are the ones who in everything are concerned above all with consequences. In a word, I liken the two truths, because the same reasons makes us love them and because the.same reasons makes us love them and because the same reasons make us fear them. 
+我提到真理时，当然首先是指科学真理；但我说的“真理”一词也包含着道德真理，而我们称作正义的仅是其中的一部分。我看似在错用词语：我用同一个名字称呼了两种迥异的事物。科学真理需要证实，而道德真理则需要感受。但我却无法区分这两者，而爱其中一种的也会无法避免地爱上另一种。不论要找寻其中哪一种真理，都必须先将灵魂从偏见和激情中彻底解脱，都必须先达到完全真诚。这两种真理，在被发现时，给人以同样的愉悦；在被感知时，闪耀着同样的辉煌，我们若是不愿看见，就只好闭上双眼。两者同样吸引着我们，又同样从我们身边逃离；他们从不止步：每当我们以为抓住真理时，我们都会发现还仍需前进——那些追寻真理的人注定无法停歇。我还要指出，畏惧一种真理的也会畏惧另一种；因为对真理的追寻必是不顾一切的，更是不计后果的。总之，我之所以将这两者一并称呼，是因为人们出于同样的原因爱着它们，也出于同样的原因而恐惧它们。
+（更新于10.21, 未完）
 
