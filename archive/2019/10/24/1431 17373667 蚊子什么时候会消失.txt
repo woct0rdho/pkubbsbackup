@@ -1,4 +1,4 @@
-#t 1431 17373667 ohHeisenberg 2019-10-24 00:10:00 Striving 2019-10-24 16:00:00
+#t 1431 17373667 ohHeisenberg 2019-10-24 00:10:00 thaikon 2019-10-24 16:36:00
 蚊子什么时候会消失
 
 #p 21191389 ohHeisenberg Heisenberg 2019-10-24 10:46:53
@@ -6,5 +6,9 @@
 
 #p 21193367 Striving 阿木木 2019-10-24 16:00:19
 再等等吧，哈哈哈
+#quote ohHeisenberg
+
+#p 21193640 thaikon 陶象 2019-10-24 16:35:45
+昨天晚上打死两个蚊子……
 #quote ohHeisenberg
 
