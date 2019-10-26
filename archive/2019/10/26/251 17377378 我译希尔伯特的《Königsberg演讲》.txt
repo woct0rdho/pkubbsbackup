@@ -1,0 +1,38 @@
+#t 251 17377378 Masonry 2019-10-26 20:52:00 Masonry 2019-10-26 21:37:00
+我译希尔伯特的《Königsberg演讲》
+
+#p 21208636 Masonry 东尼探长 雁园警视厅 2019-10-26 21:37:25
+
+
+2019-10-26 20:51:58
+这是大数学家希尔伯特（David Hilbert）于1930年在 Königsberg做的演讲，是很精练的一篇文章。他引了几个其他数学家的观点以阐释数学的价值，反驳了当时盛行的几个偏见（今天，这些偏见仍是盛行的）。他的名言“我们必须知道，我们必将知道”就出自这个演讲。
+他指出，数学是自然的语言，也广被应用。但是，不能以应用来衡量数学的价值。数学家之所以做数学，是为了追求乐趣和美感。数学对数学家而言，正如《奥德赛》中莲子对于食莲者，是一种一旦品尝了就无法离开的美味。他还引用了庞加莱对托尔斯泰的批判——若是没有追逐纯粹科学的无私者，就没有自私之辈最热爱的工业应用的发展和经济利益的收获。最后，他反对哲学上的不可知论者，坚信自然的真理是可以感知的。
+下面是他的英译文和中译文。英译文的翻译者是美国的James T. Smith。
+------------------------------------------------------------------------------------------------------------------------------------------------
+The instrument that mediates between theory and practice, between thought and observation, is mathematics; it builds the connecting bridge and makes it stronger and stronger. Thus it happens that our entire present-day culture, insofar as it rests on intellectual insight into and harnessing of nature, is founded on mathematics. Already, Galileo said: Only he can understand nature who has learned the language and signs by which it speaks to us; but this language is mathematics and its signs are mathematical figures. Kant declared, “I maintain that in each particular natural science there is only as much true science as there is mathematics.” In fact, we do not master a theory in natural science until we have extracted its mathematical kernel and laid it completely bare. Without mathematics today’s astronomy and physics would be impossible; in their theoretical parts, these sciences unfold directly into mathematics. These, like numerous other applications, give mathematics whatever authority it enjoys with the general public. 
+ 
+数学，是沟通理论与实践、思想与观察的器具；数学建筑了它们相互连接的桥梁，并使之日益巩固。因此，我们今日的所有文化，都依赖于对自然的深刻见解以及对自然的驾驭。我们的整个文明，都是建造在数学之上的。伽利略曾说过：“若要理解自然，必须先学习自然使用的语言与符号；自然的语言就是数学，自然的符号就是数学图形。”康德断言，“我坚信，在每一门自然科学中，有多少数学，才有多少真正的科学。”事实上，我们只有提炼出一门自然科学的数学核心并把它直白地表述出来，才有资格自称主人。没有数学，就不会有今天的天文学和物理学；在它们的理论中，科学完全以数学的方式表达和呈现。因为数学在天文、物理和其它地方的应用，数学获得了它在公众面前的权威，不论这种权威实际为何。
+Nevertheless, all mathematicians have refused to let applications serve as the standard of value for mathematics. Gauss spoke of the magical attraction that made number theory the favorite science for the first mathematicians, not to mention its inexhaustible richness, in which it so far surpass all other parts of mathematics. Kronecker compared number theorists with the Lotus Eaters, who, once they had sampled that delicacy, could never do without it. 
+然而，没有一个数学家会将应用作为衡量数学的标尺。高斯曾提到，数论那神秘的吸引力，使它成为了最初的数学家们的挚爱，更不用提数论那超越了所有数学分支的、无法穷竭的丰富性了。Kronecker曾将数论学家与食莲者相提并论——他们一旦尝了这美味，就再也不能逃离了。
+（注：《奥德赛》中讲述了这样一个故事：奥德赛和船员到了一个岛上，这里的居民因吃了无比美味的莲子而沉迷其中，奥德赛的船员吃了莲子后流连忘返，不愿再回到故土。）
+With astonishing sharpness, the great mathematician Poincaré once attacked Tolstoy, who had suggested that pursuing “science for its own sake” is foolish. The achievements of industry, for example, would never have seen the light of day had the practical-minded existed alone and had not these advances been pursued by disinterested fools. 
+伟大的数学家庞加莱有一次相当尖锐地攻击了托尔斯泰，因为他认为追求“为了科学的科学”是愚蠢的。如果没有那些不顾利益的蠢人追求科学，而只有那些切合实际的人，那么工业的成就将永远无法得见天日。
+（注：庞加莱在《对事实的选择》抨击托尔斯泰的观点。托尔斯泰认为，科学要么是为了满足好奇心的一时兴起，要么是处于对人类幸福的考虑，因此没有真正“为自己的科学”，）
+The glory of the human spirit, so said the famous Königsberg mathematician Jacobi, is the single purpose of all science. 
+“人类精神的光荣，是所有科学的唯一追求。”Königsberg的著名数学家雅可比这样说。
+We must not believe those, who today with philosophical bearing and a tone of superiority prophesy the downfall of culture and accepted the ignorabimus. For us there is no ignorabimus, and in my opinion even none whatever in natural science. In place of the foolish ignorabimus let us stand our slogan:
+                We must know, 
+                We will know.
+有些带着一副哲学姿态和优越口气的人，预言我们的文化必将要崩塌，他们接受“我们无法知道”这种看法。对这些人，我们大可不必理会。我相信，没有什么是我们永远无法知道的，甚至在所有自然科学中都是如此。与其相信那愚蠢的“我们无法知道”，不如在这声明我们的信条：
+                我们必须知道，
+                我们必将知道。
+（注："ignorabimus"翻译为“我们无法知道”；来自于一个拉丁语格言"ignoramus et ignorabimus"，意思是“我们尚不知道，我们也无法知道”。这句格言在1880年经德国生理学家Emil du Bois-Reymond的宣传下广为人知）
+
+#p 21208770 Nameless 麦田与十三岁|石榴成熟时 2019-10-26 21:28:59
+赞美。
+#quote Masonry
+
+#p 21208793 Masonry 东尼探长 雁园警视厅 2019-10-26 21:36:34
+谢谢
+#quote Nameless
+
