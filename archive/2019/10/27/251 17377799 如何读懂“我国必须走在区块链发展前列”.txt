@@ -1,4 +1,4 @@
-#t 251 17377799 bobprime 2019-10-27 00:05:00 jiamingpku 2019-10-28 21:13:00
+#t 251 17377799 bobprime 2019-10-27 00:05:00 kissme 2019-10-29 00:00:00
 如何读懂“我国必须走在区块链发展前列”
 
 #p 21209961 bobprime bobprime 2019-10-27 05:11:34
@@ -79,5 +79,28 @@ RT
 
 #p 21218990 jiamingpku jiamingpku 2019-10-28 21:12:08
 政府掌握51%算力不就完了
+#quote bery
+
+#p 21219907 wobuji 胖纸对撞基 2019-10-28 23:22:06
+阿里巴巴申请可修改交易的区块链专利
+[https://www.solidot.org/story?sid=58138](jump-to.php?url=https%3A%2F%2Fwww.solidot.org%2Fstory%3Fsid%3D58138)
+USPTO 本周公开了阿里巴巴研究员 Wu Hao 在 2017 年 3 月申请的区块链专利《BLOCKCHAIN-BASED TRANSACTION PROCESSING METHOD AND APPARATUS》，该专利申请允许区块链上的智能合约被行政干预冻结。申请者在专利描述中称，区块链技术以开放性、不容更改性、去中心化吸引用户，“但是在现实世界里，特殊的数据处理包括行政干预。比如说，当用户从事非法活动时，法院下达的法令也许可以冻结用户的账户。但是，在现有的区块链中，这种执行能力与智能合约相冲突，并且无法执行。因此，我们有必要基于区块链提供一种数据处理方式，在区块链中允许例如行政干预这样的特殊数据处理。”允许行政干预的区块链使用专用的管理员账户给节点发送所谓的“特殊处理指令”，进而调动智能合约对特定账户执行相应的操作。举例来说，区块链的创建者可以为政府机构提供一个账户，允许该机构调用智能合约，根据其法律或监管授权情况执行预先设定的干预措施。
+#quote bobprime
+
+#p 21220012 wobuji 胖纸对撞基 2019-10-28 23:25:20
+@pkusole
+@ bery
+#quote bobprime
+
+#p 21220160 hiaoxui 小辉 2019-10-28 23:27:21
+去-去中心化?
+#quote wobuji
+
+#p 21220261 haoyuchen 好雨知时节 2019-10-28 23:42:14
+和澳本聪csw一样的可爱可笑，天天把专利挂嘴上，忘了创世块的留言了嘛🐶🐶[https://btc.com/4a5e1e4baab89f3a32518a88c31bc87f618f76673e2cc77ab2127b7afdeda33b](jump-to.php?url=https%3A%2F%2Fbtc.com%2F4a5e1e4baab89f3a32518a88c31bc87f618f76673e2cc77ab2127b7afdeda33b)
+#quote wobuji
+
+#p 21220351 kissme 臭薯条酱 2019-10-28 23:59:29
+不应该是可操控？
 #quote bery
 
