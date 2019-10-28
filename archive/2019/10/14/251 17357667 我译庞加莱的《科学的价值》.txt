@@ -1,11 +1,11 @@
-#t 251 17357667 Masonry 2019-10-14 00:01:00 Masonry 2019-10-27 15:25:00
+#t 251 17357667 Masonry 2019-10-14 00:01:00 Masonry 2019-10-28 10:42:00
 我译庞加莱的《科学的价值》
 
-#p 21091859 Masonry 东尼探长 雁园警视厅 2019-10-26 22:04:59
+#p 21091859 Masonry 东尼探长 雁园警视厅 2019-10-27 16:36:32
 
 
 2019-10-14 01:58:37
-法国数学家庞加莱的著作《科学的价值》于1913年由George Halsted翻译为英文，论述的主题就是“科学的价值”，其中也有几处提及中国和东方文明，漫不经心但振聋发聩。我很难说的比庞加莱更好，因此希望在闲暇之时将这些文章陆续由英文翻译为中文，以供大家参考和交流，姑且认为是我的一个习作。在我看来，每一篇文章具有相对的独立性，感兴趣的读者可以选择读其中的一篇，无需整本读完。
+法国数学家庞加莱的著作《科学的价值》于1913年由George Halsted翻译为英文，论述的主题就是“科学的价值”，其中也有几处提及中国和东方文明，漫不经心但振聋发聩。我很难说的比庞加莱更好，因此希望在闲暇之时将这些文章陆续由英文翻译为中文，以供大家参考和交流，姑且认为是一个习作。在我看来，每一篇文章具有相对的独立性，感兴趣的读者可以选择读其中的一篇，无需整本读完。
 **------目录------**
 **序言** 对事实的选择
         2楼 [https://bbs.pku.edu.cn/v2/post-read-single.php?bid=251&amp;postid=21091865](post-read-single.php?bid=251&amp;postid=21091865)
@@ -166,15 +166,44 @@ Does the harmony the human intelligence thinks it discovers in nature exist outs
 下一篇开始进入数学科学的部分，讲的是数学中的直觉与逻辑这两种思考模式。这种思维倾向的差异在数学家身上是很明显的，对数学感兴趣的同学尤其应该一读（陶哲轩曾在博客中推荐此文）。
 用Poincaré自己的引言来介绍：
 
-#p 21211679 Masonry 东尼探长 雁园警视厅 2019-10-27 15:25:18
+#p 21211679 Masonry 东尼探长 雁园警视厅 2019-10-28 10:42:00
 
 
 2019-10-27 15:24:58
 Intuition and Logic in Mathematics
 数学中的直觉和逻辑
 **I**
-It is impossible to study the works of the great mathematicians,  or even this of the lesser, without noticing and distinguishing two opposite tendencies, or rather two entirely different kinds of minds. The one sort are above all preoccupied with logic; to read their works, one is tempted to believe they have advanced only step by step, after the manner of a Vauban who pushes on his trenches against the place besieged, leaving nothing to chance. The other sort are guided by intuition and at the first stroke make quick but sometimes precarious conquests, like bold cavalrymen of the advance guard. 
-在研习大数学家的著作，或稍逊的数学家的著作时，难免会注意并分辨两种互反的倾向，或说两种完全不同的心智。其中一种，完全将精力倾注在逻辑上；读他们的作品，人们会相信他们一定是步步为营的，就如沃邦一点一点把战壕推近敌营，不留一丝悬念。另一种人，则是由直觉指引的，在一开始就发动迅速但却危险的征服，就如同前卫部队中勇敢的骑兵一般。
+**一**
+It is impossible to study the works of the great mathematicians,  or even those of the lesser, without noticing and distinguishing two opposite tendencies, or rather two entirely different kinds of minds. The one sort are above all preoccupied with logic; to read their works, one is tempted to believe they have advanced only step by step, after the manner of a Vauban who pushes on his trenches against the place besieged, leaving nothing to chance. The other sort are guided by intuition and at the first stroke make quick but sometimes precarious conquests, like bold cavalrymen of the advance guard. 
+在研习大数学家的著作，或稍逊的数学家的著作时，我们难免会注意到**两种互反的倾向**，或说，两种完全不同的心智。其中一种，完全将精力倾注在**逻辑**上；读他们的作品，人们会相信他们一定是步步为营的，就如沃邦一点一点把战壕推近敌营，不留一丝悬念。另一种人，则是由**直觉**指引的，在首战中就发动迅速但却危险的进攻，就如同前卫部队中勇敢的骑兵一般。
 （注：沃邦，由Vauban翻译而来，是十七世纪法国的元帅和军事工程师，没有参与过一场战争，但凭借军事筑城的天才帮助法国打了很多胜仗）
-（更新于10.27 未完）
+The method is not imposed by the matter treated. Though one often says of the first that they are analysts and calls the others geometers, that does not prevent the one sort from remaining analysts even when they work at geometry, while the others are still geometers even when they occupy themselves with pure analysis. It is the very nature of their mind which makes them logicians or intuitionalists, and they can not lay it aside when they approach a new subject. 
+他们的倾向，并不是由研究对象的特性导致的。虽然人们常把前者称为分析学家而把后者称作几何学家，但分析学家在做几何时不会变成几何学家，而几何学家在做纯分析时也没有变成分析学家。其实，是他们的心智的天性，让他们成为了逻辑者或直觉者，这种天性在他们接触新的学科时也无法割离。
+（注：logician和intuitionalist，分别被翻译成“逻辑者”和“直觉者”；直接的翻译可能是“逻辑学家”和“直觉主义者”，但这里这两个词在这里指的是两种思维倾向的数学家，既不是“学家”，也不是“主义者”，应是平行的概念，故作此翻译）
+Nor is it education which has developed in them one of the two tendencies and stifled the other. The mathematician is born, not made, and it seems he is born a geometer or an analyst. I should like to cite examples and there are surely plenty; but to accentuate the contrast I shall begin with an extreme example, taking the liberty of seeking it in two living mathematicians. 
+但也并非是教育发展了一种倾向而扼杀了另一种倾向。**数学家是天生的，不是被制造的**，而他将成为几何学家还是分析学家，似乎生来就注定了。我现在希望引用一些例子，这样的例子当然有很多；但为突出重点，我会从最极端的例子讲起，他们是两个仍在世的数学家。
+M. Méray wants to prove that a binomial equation always has a root, or, in ordinary words, that an angle may always be subdivided. It there is any truth that we think we know by direct intuition, it is this. Who could doubt that an angle may always be divided into any number of equal parts? M. Méray does not look at it that way; in his eyes this proposition is not at all evident and to prove it he needs several pages.
+Méray想要证明，一个二项方程总有一根，或通俗地说，一个角总可以被等分。我们的直觉哪怕只能感知一个真理，那就是它了。谁会质疑一个角能否被等分成任意个部分呢？Méray先生不这样想；在他看来，这个命题并不显然，为了证明这个命题他得用几页纸。
+On the other hand, look at Professor Klein: he is studying one of the most abstract questions of the theory of functions to determine whether on a given Riemann surface there always exists a function admitting of given singularities. What does the celebrated German geometer do? He replaces his Riemann surface by a metallic surface whose electric conductivity varies according to certain laws. He connects two of its points with two poles of a battery. The current, says he, must pass, and the distribution of this current on the surface will define a function whose singularities will be precisely those called for by the enunciation. 
+对另一个倾向的例子，只需看Klein教授就足够了。他研究的，是函数论中最抽象的问题——在给定的黎曼曲面上是否总有一个函数存在给定的奇点。这个久负盛名的德国几何学家是怎么做的呢？他将他的黎曼曲面换成了一个金属表面，并且想象它的电导服从一定的规律。他将表面上的两点用电池的两极相连。电流一定会通过，他这样说，而那电流在曲面上的分布定义了一个满足开头对奇点的要求的函数。
+Doubtless Professor Klein well knows he has given here only a sketch: nevertheless he has not hesitated to publish it; and he would probably believe he finds in it, if not a rigorous demonstration, at least a kind of moral certainty. A logician would have rejected with horror such a conception, or rather he would not have had to reject it, because in his mind it would never have originated. 
+当然，Klein教授很清楚，他在这里给出的仅仅是一个勾勒而已：然而他毫不犹豫地把这个结果发表了；他很可能认为，即使自己没有完整的证明，至少也获得了一种道德上的确定性。当然，一个逻辑者会充满恐惧地拒绝这种构想，或者，他可能根本不需要拒绝，因为在他的脑中这想法根本不会产生。
+Again, permit me to compare two men, the honor of French science, who have recently been taken from us, but who both entered long ago into immortality. I speak of M. Bertrand and M. Hermite. They were scholars of the same school at the same time; they had the same education, were under the same influences; and yet what a difference! Not only does it blaze forth in their writings; it is in their teaching, in their way of speaking, in their very look.  In the memory of all their pupils these two faces are stamped in deathless lines, this remembrance is still fresh; it is easy for us to evoke it. 
+下面 ，请允许我比较两个人，他们是法国科学的荣耀。虽然最近他们被从我们身边带走，但他们其实早已永垂不朽。我指的是Bertrand和Hermite。这两位学者同时处在同一所学院；他们有相同的教育，受相同的影响；然而，他们是多么地不同啊！这差异，不仅在他们的作品中迸发出来；还体现在他们的授课上，他们说话的方式上，甚至是他们的外表上。在他们的学生的记忆中，这两张脸已用无法抹去的线条铭刻下来了，至今犹新；我们很容易就能回想起他们间的差别。
+While speaking, M. Bertrand is always in motion; now he seems in combat with some outside enemy, now he outlines with a gesture of the hand the figures he studies. Plainly he sees and he is eager to paint, this is why he calls gesture to his aid. With M. Hermite, it is just the opposite; his eyes seem to shun contact with the world; it is not without, it is within he seeks the vision of truth. 
+当Bertrand在说话时，他常常是在运动的；他一会儿好像在与外界的敌人战斗，一会儿又突然用手势勾画出他所研究的图像。总之，他看见了什么，并且总渴望把它们画出来，这就是他总用手势作辅助的原因。然而，Hermite则是截然相反的；他的眼睛好像躲避着与外界的接触；他不是在外界，而是在内心中寻求对真理的视觉。
+Among the German geometers of this century, two names above all are illustrious,  those of the two scientists who have founded the general theory of functions, Weierstrass and Riemann. Weierstrass leads everything back to the consideration of series and their analytic transformations; to express it better, he reduces analysis to a sort of prolongation of arithmetic; you may turn through all his books without finding a figure. Riemann, on the contrary, at once calls geometry to his aid; each of his conceptions is an image that no one can forget, once he has caught its meaning. 
+在本世纪的所有德国几何学家中，有两个名字最为耀眼，那就是创造了函数的一般理论的两个人，Weierstrass和Riemann。Weierstrass将所有问题都转变为对级数和解析变换的思考；更准确的说，他把分析变成了算数的延伸；翻遍他的所有书，你也找不到一张图。而Riemann则和他相反，他几乎立刻就把几何唤来作他的助手；他的每一个观念都是一幅图像，一旦掌握它的含义，你就再也无法忘却。
+More recently, Lie was an intuitionalist; this might have been doubted in reading his books, no one could doubt it after talking with him; you saw at once that he thought in pictures. Madame Kovalevski was a logician. 
+更近一些的数学家中，Lie是一个直觉者；也许你看他的书的时候不这样想，但一旦你和他谈话，对此就不会怀疑了；你会立刻发现，他是用图画思考的。Kovalevski女士则是一个逻辑者。
+Among our students we notice the same differences; some prefer to treat their problems ‘by analysis’, others ‘by geometry’. The first are incapable of ‘seeing in space’, the others are quickly tired of long calculations and become perplexed. 
+在我们的学生中，我们也能看到相同的差别；有些学生偏爱“用分析”去解决问题，另外一些人则“用几何”。前者无法“看到空间”，而后者则在接连的计算中，很快就变得疲劳而困惑。
+The two sorts of minds are equally necessary for the progress of science; both the logicians and the intuitionalists have achieved great things that others could not have done. Who would venture to say whether he preferred that Weierstrass had never written or that there had never been a Riemann? Analysis and synthesis have then both their legitimate roles. But it is interesting to study more closely in the history of science the part which belongs to each. 
+这两种心智，对科学的发展是同样必要的；逻辑者和直觉者都做到了对方不能做到的事情。谁敢说，他宁愿Weierstrass从没写过他的著作，或者他宁愿世上从没有一个Riemann？那么，分析与合成，就有着各自的应当的角色。然而，在科学史的情境下更仔细地研究它们的职责，将会是一件有意思的事情。
+（I 译完）
+
+#p 21215720 Masonry 东尼探长 雁园警视厅 2019-10-28 10:41:49
+“数学中的直觉和逻辑”的I部分已译完，因为后面一篇文章的篇幅较长，而且文章内部是自然分段的，我将每段都另回一贴，也方便读者阅读。
+在数学中，直觉和逻辑的张力是最值得注意的事情，因此再次推荐“数学中的直觉和逻辑”这篇文章。
+#quote Masonry
 
