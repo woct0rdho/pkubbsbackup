@@ -1,4 +1,4 @@
-#t 668 17378096 xinxinxinxin 2019-10-27 00:11:00 RyanBern 2019-10-28 20:33:00
+#t 668 17378096 xinxinxinxin 2019-10-27 00:11:00 xiaowei 2019-10-28 21:43:00
 国庆已经过了，屁民们的端口能用了嘛？
 
 #p 21210704 xinxinxinxin 欣 2019-10-27 14:52:33
@@ -157,11 +157,24 @@
 也是真的牛皮
 #quote PKUCC
 
-#p 21218817 RyanBern r.bern 2019-10-28 20:32:12
-ssh 远程端口转发（ssh -R）肯定没问题，因为走的是出栈连接。
+#p 21218817 RyanBern r.bern 2019-10-28 21:22:13
+
+
+2019-10-28 20:32:12
+ssh 远程端口转发（ssh -R）肯定没问题，因为走的是出站连接。这一招甚至可以用在**没有公网 IP 的主机**上，屡试不爽。
 [https://www.ssh.com/ssh/tunneling/example#sec-Remote-Forwarding](jump-to.php?url=https%3A%2F%2Fwww.ssh.com%2Fssh%2Ftunneling%2Fexample%23sec-Remote-Forwarding)
-但国内 vps 普遍偏贵，一个月几百多实在不值。速度取决于学校到国内 vps 的上行/下行带宽。延迟肯定会变高（因为过了一个中间节点）
+但国内 vps 普遍偏贵，带宽又很小，一个月几百多实在不值。速度取决于学校到国内 vps 的上行/下行带宽。延迟一般来说会变高（因为过了一个中间节点）
 ---
-我理解报备表只有学校部门才有权填写，申请，作为学生没有申请固定 IP/开放端口的权利。希望计算中心能够说明白这件事情，我们学生能用校园网干什么不能干什么都解释清楚。我理解计算中心网络安全管理员的想法，但要使得众人信服还得落实到相关规定。
+我理解报备表只有学校部门（正式职工）才有权填写，申请，学生没有申请固定 IP/开放端口的权利。希望计算中心能够说明白这件事情，我们学生能用校园网干什么不能干什么都解释清楚。我理解计算中心网络安全管理员的想法，但要使得众人信服还得落实到相关规定。
+#quote xinxinxinxin
+
+#p 21219133 peiyangium 生建办主任助理|柯带宜居办主任|副团级 2019-10-28 21:42:46
+绝不是小众需求就不是正当需求就不应被满足。
+但首先，并不小众。
+#quote simonyang
+
+#p 21219135 xiaowei 小薇 2019-10-28 21:43:17
+一起校长信箱吧
+[https://www.pku.edu.cn/leadermailbox/index.htm](jump-to.php?url=https%3A%2F%2Fwww.pku.edu.cn%2Fleadermailbox%2Findex.htm)
 #quote xinxinxinxin
 
