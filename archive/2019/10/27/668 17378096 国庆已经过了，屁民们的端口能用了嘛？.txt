@@ -1,4 +1,4 @@
-#t 668 17378096 xinxinxinxin 2019-10-27 00:11:00 crux 2019-10-28 19:14:00
+#t 668 17378096 xinxinxinxin 2019-10-27 00:11:00 RyanBern 2019-10-28 20:33:00
 国庆已经过了，屁民们的端口能用了嘛？
 
 #p 21210704 xinxinxinxin 欣 2019-10-27 14:52:33
@@ -152,4 +152,16 @@
 #p 21218410 crux L 2019-10-28 19:13:23
 看个负能量的贴给我看笑了，你是真的nb
 #quote PKUCC
+
+#p 21218733 Anthony 魔道吼姆拉 2019-10-28 20:11:55
+也是真的牛皮
+#quote PKUCC
+
+#p 21218817 RyanBern r.bern 2019-10-28 20:32:12
+ssh 远程端口转发（ssh -R）肯定没问题，因为走的是出栈连接。
+[https://www.ssh.com/ssh/tunneling/example#sec-Remote-Forwarding](jump-to.php?url=https%3A%2F%2Fwww.ssh.com%2Fssh%2Ftunneling%2Fexample%23sec-Remote-Forwarding)
+但国内 vps 普遍偏贵，一个月几百多实在不值。速度取决于学校到国内 vps 的上行/下行带宽。延迟肯定会变高（因为过了一个中间节点）
+---
+我理解报备表只有学校部门才有权填写，申请，作为学生没有申请固定 IP/开放端口的权利。希望计算中心能够说明白这件事情，我们学生能用校园网干什么不能干什么都解释清楚。我理解计算中心网络安全管理员的想法，但要使得众人信服还得落实到相关规定。
+#quote xinxinxinxin
 
