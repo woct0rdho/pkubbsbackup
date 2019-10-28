@@ -1,4 +1,4 @@
-#t 251 17377799 bobprime 2019-10-27 00:05:00 Ryn 2019-10-29 02:03:00
+#t 251 17377799 bobprime 2019-10-27 00:05:00 Ryn 2019-10-29 04:14:00
 如何读懂“我国必须走在区块链发展前列”
 
 #p 21209961 bobprime bobprime 2019-10-27 05:11:34
@@ -128,4 +128,20 @@ USPTO 本周公开了阿里巴巴研究员 Wu Hao 在 2017 年 3 月申请的区
 #p 21220752 Ryn 大酸葡萄 2019-10-29 02:02:52
 what a shame
 #quote wobuji
+
+#p 21220881 detectivelyw detectivelyw 2019-10-29 04:03:59
+只不过是另一种协议罢了，何来shame之说？
+金融和交易监管本来就是非常必要的。是为了防范洗钱等非法交易的合理手段。
+美国FBI不是也对利用比特币进行的非法色情交易进行追查和制裁吗
+Freedom is not free. 
+#quote Ryn
+
+#p 21220886 Ryn 大酸葡萄 2019-10-29 04:10:59
+#DELETED
+研究如何用技术进行审查本身就是shame
+#quote detectivelyw
+
+#p 21220889 Ryn 大酸葡萄 2019-10-29 04:13:22
+it's not about freedom, it's about integrity.
+#quote detectivelyw
 
