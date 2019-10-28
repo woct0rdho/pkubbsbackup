@@ -1,0 +1,20 @@
+#t 668 17378743 wesleysx 2019-10-27 00:21:00 xinxinxinxin 2019-10-27 00:23:00
+ssh还不开吗？龟速vpn怎么搬砖？
+
+#p 21212815 wesleysx wesleysx 2019-10-27 21:34:18
+求问什么时候重新开放ssh端口，垃圾vpn顶着延迟没法搬砖啊
+
+#p 21212887 PKUCC 北京大学计算中心 2019-10-27 21:52:27
+可换一下VPN入口地址：
+VPN教育网入口: [https://vpnc.pku.edu.cn](jump-to.php?url=https%3A%2F%2Fvpnc.pku.edu.cn)
+ VPN电信入口: [https://vpnt.pku.edu.cn](jump-to.php?url=https%3A%2F%2Fvpnt.pku.edu.cn)
+ VPN联通入口: [https://vpnu.pku.edu.cn](jump-to.php?url=https%3A%2F%2Fvpnu.pku.edu.cn)
+ VPN电信通入口: [https://vpnp.pku.edu.cn](jump-to.php?url=https%3A%2F%2Fvpnp.pku.edu.cn)
+详情参见[https://its.pku.edu.cn/service_1_vpn_client.jsp](jump-to.php?url=https%3A%2F%2Fits.pku.edu.cn%2Fservice_1_vpn_client.jsp)
+#quote wesleysx
+
+#p 21213744 xinxinxinxin 欣 2019-10-27 23:20:01
+谁搞个像样点的帖子，大家一起搞一搞，搞个十大看看有没有解决的希望吧。谈什么规定和道理，有用吗？
+给乌纱帽们制造的麻烦比想办法解决问题还要麻烦的时候，这个问题就解决了。
+#quote wesleysx
+

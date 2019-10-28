@@ -1,0 +1,14 @@
+#t 668 17309497 yuguorui 2019-09-15 00:10:00 xinxinxinxin 2019-10-27 00:14:00
+无法从校外连接至拥有公网IP的主机
+
+#p 20899890 yuguorui yuguorui 2019-09-15 10:14:27
+坐标计算机研究所，实验室有一台获得了公网IP的机器，但是目前发现其被禁止一切外部发起的TCP连接，向外连接正常，UDP正常，IPv6正常，请问这是有意设置的吗？
+
+#p 20899937 PKUCC 北京大学计算中心 2019-09-15 10:27:10
+“各单位组织开发的各类网站均须在北京大学网站备案系统登记备案，方可对外服务。”详情请参见校内门户通知[https://portal.pku.edu.cn/portal2017/#/deptNoticeDetail/354197](jump-to.php?url=https%3A%2F%2Fportal.pku.edu.cn%2Fportal2017%2F%23%2FdeptNoticeDetail%2F354197)
+#quote yuguorui
+
+#p 21211523 xinxinxinxin 欣 2019-10-27 14:37:09
+所有端口都禁了，对外拔了网线。
+#quote yuguorui
+

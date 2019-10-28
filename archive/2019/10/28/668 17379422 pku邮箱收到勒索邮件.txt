@@ -1,0 +1,52 @@
+#t 668 17379422 soda 2019-10-28 00:09:00 soda 2019-10-28 00:11:00
+pku邮箱收到勒索邮件
+
+#p 21215206 soda 爱迪生发明了黑暗 2019-10-28 09:34:40
+
+
+2019-10-28 09:25:05
+昨天发现pku邮箱垃圾箱里有两封勒索邮件，发件人显示都是我自己。邮件中提到的日期好像不太对，一封是March 06 另一封是 Oct 08.
+想问一下老师这是什么情况？ 是伪造的信头还是密码泄露了？
+--------------------------------------------------------------------
+Hello!
+I have very bad news for you. October 08, 2019 - on this day I hacked your OS and got full access to your account: *******@pku.edu.cn. You can check it - I sent this message from your account.
+So, you can change the password, yes.. But my malware intercepts it every time.
+How I made it: In the software of the router, through which you went online, was a vulnerability. I just hacked this router and placed my malicious code on it. When you went online, my trojan was installed on the OS of your device.
+After that, I made a full dump of your disk (I have all your address book, history of viewing sites, all files, phone numbers and addresses of all your contacts).
+A month ago, I wanted to lock your device and ask for a not big amount of btc to unlock. But I looked at the sites that you regularly visit, and I was shocked by what I saw!!! I'm talk you about sites for adults.
+I want to say - you are a BIG pervert. Your fantasy is shifted far away from the normal course!
+And I got an idea.... I made a screenshot of the adult sites where you have fun (do you understand what it is about, huh?). After that, I made a screenshot of your joys (using the camera of your device) and glued them together. Turned out amazing! You are so spectacular!
+I'm know that you would not like to show these screenshots to your friends, relatives or colleagues. I think $995 is a very, very small amount for my silence. Besides, I have been spying on you for so long, having spent a lot of time!
+Pay ONLY in Bitcoins! My BTC wallet: 1CemrDkdcYsmNUNgqD97P8A5SBDbHZRvys
+You do not know how to use bitcoins? Enter a query in any search engine: "how to replenish btc wallet". It's extremely easy
+For this payment I give you two days (48 hours). As soon as this letter is opened, the timer will work.
+After payment, my virus and dirty screenshots with your enjoys will be self-destruct automatically. If I do not receive from you the specified amount, then your device will be locked, and all your contacts will receive a screenshots with your "enjoys".
+I hope you understand your situation.
+&gt;&gt; Do not try to find and destroy my virus! (All your data, files and screenshots is already uploaded to a remote server)
+&gt;&gt; Do not try to contact me (you yourself will see that this is impossible, I sent you an email from your account)
+&gt;&gt; Various security services will not help you; formatting a disk or destroying a device will not help, since your data is already on a remote server.
+P.S. You are not my single victim. so, I guarantee you that I will not disturb you again after payment! This is the word of honor hacker.
+I also ask you to regularly update your antiviruses in the future. This way you will no longer fall into a similar situation.
+Do not hold evil! I just do my job. Good luck.
+
+#p 21215502 PKUCC 北京大学计算中心 2019-10-28 10:06:18
+你好！一般都是伪造的信头。你可以登录mail.pku.edu.cn的web版，在左侧蓝条第五个按钮应用中心里，选自助查询、发信查询，如果是你的账号发送的邮件，这里面都会列出来。
+#quote soda
+
+#p 21215579 soda 爱迪生发明了黑暗 2019-10-28 10:19:46
+
+
+2019-10-28 10:18:36
+谢谢老师！
+我看了一下不是自己发的。但登录记录里显示最近几个月有上千次来自SMTP的密码错误的失败登录，该怎么样预防这种攻击呢...
+#quote PKUCC
+
+#p 21215817 PKUCC 北京大学计算中心 2019-10-28 10:58:06
+你好！密码错误表明尝试登录的行为没有成功。我们的邮件系统对这种攻击有一定的防护能力，密码错误7次，对方地址会被封禁10分钟。封禁期间，如果对方继续尝试登录，会被系统直接拒绝，但登录次数会被累计下来。除了前7次，后面的实际上已经被拒绝了，没有真的生效。
+在its.pku.edu.cn的“设置邮件”里有一个“不使用客户端、只使用浏览器访问邮箱”的功能，设置之后用户只能通过web方式收发邮件，imap、pop3都被禁止了，尝试猜测密码的一方，不论发送的密码是否正确，都会收到一个失败的提示。这个方法可以使猜测密码的行为完全失效，但是用户不能使用常用的客户端收发邮件，也会有很大的不便，可以根据自己的情况选择使用。
+#quote soda
+
+#p 21215862 soda 爱迪生发明了黑暗 2019-10-28 11:03:44
+好的 感谢！
+#quote PKUCC
+
