@@ -1,7 +1,7 @@
-#t 251 17357667 Masonry 2019-10-14 00:01:00 Masonry 2019-10-29 20:39:00
+#t 251 17357667 Masonry 2019-10-14 00:01:00 Masonry 2019-10-29 23:12:00
 我译庞加莱的《科学的价值》
 
-#p 21091859 Masonry 东尼探长 雁园警视厅 2019-10-28 18:57:48
+#p 21091859 Masonry 东尼探长 雁园警视厅 2019-10-29 21:23:52
 
 
 2019-10-14 01:58:37
@@ -18,6 +18,7 @@
 **第一部分 数学科学**
 1. 数学中的直觉与逻辑
     I   15楼 [https://bbs.pku.edu.cn/v2/post-read-single.php?bid=251&amp;postid=21211679](post-read-single.php?bid=251&amp;postid=21211679)
+    II  17楼 [https://bbs.pku.edu.cn/v2/post-read-single.php?bid=251&amp;postid=21225521](post-read-single.php?bid=251&amp;postid=21225521)
 2. 时间的测量
 3. 空间的观念
 4. 空间和它的三个维度
@@ -33,7 +34,7 @@
 （对标题的翻译可能会再做更改）
 **------      ------**
 
-#p 21091865 Masonry 东尼探长 雁园警视厅 2019-10-28 23:54:03
+#p 21091865 Masonry 东尼探长 雁园警视厅 2019-10-29 23:32:47
 
 
 2019-10-14 02:02:28
@@ -42,7 +43,7 @@ The Choice of Facts
 Tolstoi somewhere explains why ‘science for its own sake’ is in his eyes an absurd conception. We can not know all facts, since their number is practically infinite. It is necessary to choose; then we may let this choice depend on the pure caprice of our curiosity; would it not be better to let ourselves be guided by utility, by our practical and above all by our moral needs; have we nothing better to do than counting the number of lady-bugs on our planet?        
 托尔斯泰曾提到，“只为科学的科学”在他眼中是一种荒谬的想法。**我们无法知悉所有的事实，因为事实的数目是无法穷尽的。**我们必须从中选择；或许，我们可以单凭好奇心的一时兴起来选择，又或者，可以按它们带来的效益做选择，以尽可能满足我们的生活的和道德的需求。毕竟，总该有些事比统计地球上瓢虫的数量更有意义吧？（注：这段所提到的Tolstoi是我们熟知的列夫·托尔斯泰）
 It is clear the word utility has not for him the sense men of affairs give it, and following them most of our contemperaries. Little cares he for industrial applications, for the marvels of electricity or of automobiles, which he regards rather as obstacles to moral progress; utility for him is solely what can make man better.         
-很显然，Tolstoi所说的“效益”，与那些务实之人和追随其后的大众所说的“效益”，含义并不相同。对工业上的应用他并不关心，无论是电力还是汽车所带来的奇迹，对他来说都不过是道德之路上的阻碍；“效益”一词，对他而言，意指“让人们变得更好的事物”。
+很显然，托尔斯泰所说的“效益”，与那些务实之人和追随其后的大众所说的“效益”，含义并不相同。对工业上的应用他并不关心，无论是电力还是汽车所带来的奇迹，对他来说都不过是道德之路上的阻碍；“效益”一词，对他而言，意指“让人们变得更好的事物”。
 For my part, it need scarce be said, I could never be content with either one or the other ideal; I want neither that plutocracy grasping and mean, nor that democracy goody and mediocre, occupied solely in turning the other cheek, where would dwell sages without curiosity, who, shunning excess, would not die of disease, but would surely die of ennui. But that is a matter of taste and is not what I wish to discuss. 
 对我而言，我对哪一种理想的极端都无法感到完全满意。我既不想要财阀政治一般的贪婪和吝啬，也不喜欢民主政治的伪善和平庸，这些人只知道一味容忍，最终不过变成了没有好奇心的圣人，他们小心回避着过分放纵，不死于疾病也要无聊至死了。然而，这种选择是品味上的问题，我在这里不想讨论。
 The question nevertheless remains and should fix our attention; if our choice can only be determined by caprice or by immediate utility, there can be no science for its own sake, and consequently no science. But is that true? That a choice must be made is incontestable; whatever be our activity, facts go quicker than we, and we can not catch them; while the scientist discovers one fact, there happen milliards of milliards in a cubic millimeter of his body. To wish to comprise nature in science would be to want to put the whole into the part.         
@@ -79,7 +80,7 @@ We see too that the longing for the beautiful leads us to the same choice as the
 Whence comes this concordance? Is it simply that the things which seem to us beautiful are those which best adapt themselves to our intelligence, and that consequently they are at the same time the implement this intelligence knows best how to use? Or is there here a play of evolution and natural selection? Have the peoples whose ideal most conformed to their highest interest exterminated the others and taken their place? All pursued their ideals without reference to consequences, but while this quest led some to destruction, to others it gave empire. One is tempted to believe it. If the Greeks triumphed over the barbarians and if Europe, heir of Greek thought, dominates the world, it is because the savages loved loud colors and the clamorous tones of the drum which occupied only their senses, while the Greeks loved the intellectual beauty which hides beneath sensuous beauty, and that this intellectual beauty it is which makes intelligence sure and strong. 
 美与效用的一致性从何而来呢？是否因为，在我们看来美的事物也正是那些与我们的智能最相宜的事物，也因此最容易被我们的智能运用？演化和自然选择是否起了作用？是不是因为，那些理想与最高需求吻合得最好的人，将其他人消灭而取而代之呢？**所有人都不顾后果地追逐他们的理想，这给一些人带来了灭亡，却给另一些人带来了帝国。**或许，事情就真是这样。希腊人征服了蛮夷，而继承了希腊思想的欧洲人今天征服了世界，正是因为那些原始人热爱的是充斥感官的喧声与艳色，而**希腊人热爱的是隐藏在感官美之下的智力美**，就是这种智力美确保了智能的可信和有力。
 Doubtless such a triumph would horrify Tolstoi, and he would not like to acknowledge that it might be truly useful. But this disinterested quest of the true for its own beauty is sane also and able to make man better. I well know there are mistakes, that the thinker does not always draw thence the serenity he should find therein, and even that there are scientists of bad character. Must we, therefore, abandon science and study only morals? What! Do you think the moralists themselves are irreproachable when they come down from their pedestal? 
-无疑，这种胜利对Tolstoi而言会是一种惊吓，而他当然不愿承认这种胜利可能确有用处。但是，这种不求私利的对真理之美的追求，也的确是理智的，而且它也的确会让人变得更好。我当然知道，思考者有时并不能从他的思考中获得他本应找到的平静，甚至某些科学家的品性还很恶劣。那么，我们是不是只能抛弃科学而研究道德呢？什么！难道你以为那些道德说教者在走下神坛后，仍是无可指摘的吗？
+无疑，这种胜利对托尔斯泰而言会是一种惊吓，而他当然不愿承认这种胜利可能确有用处。但这种不求私利的对真理之美的追求，也的确是理智的，而且它也的确会让人变得更好。我当然知道，思考者有时没能从他的思考中获得他本应找到的平静，甚至，某些科学家的品性还很恶劣。那么，我们是不是只能抛弃科学而研究道德呢？什么！难道你以为那些道德说教者在走下神坛后，仍是无可指摘的吗？
 （译完）
 
 #p 21093739 hmqfc FC 2019-10-14 13:50:13
@@ -211,7 +212,7 @@ The two sorts of minds are equally necessary for the progress of science; both t
 “数学中的直觉和逻辑”的I部分已译完，因为后面一篇文章的篇幅较长，而且作者已将文章分成小的部分，我将每段都另回一贴，这也是为方便读者阅读。
 在数学中，直觉和逻辑的张力是最值得注意的事情了。庞加莱在以上文中举了一些著名数学家作为例子，具有相当的启发性。因此，再次推荐“数学中的直觉和逻辑”这篇文章。
 
-#p 21225521 Masonry 东尼探长 雁园警视厅 2019-10-29 20:39:07
+#p 21225521 Masonry 东尼探长 雁园警视厅 2019-10-29 23:33:56
 
 
 2019-10-29 20:38:19
@@ -220,15 +221,33 @@ Intuition and Logic in Mathematics
 **II**
 **二**
 Strange! If we read over the works of the ancients we are tempted to class them all among the intuitionalists. And yet nature is always the same; it is hardly probable that it has begun in this century to create minds devoted to logic. If we could put ourselves into the flow of ideas which reigned in their time, we should recognize that many of the old geometers were in tendency analysts. Euclid, for example, erected a scientific structure wherein his contemporaries could find no fault. In this vast construction, of which each piece however is due to intuition, we may still to-day without much effort, recognize the work of a logician.
-奇怪！若去读早期数学家的著作，我们会把他们都认作直觉者。然而，自然从那时到现在无甚变化；要说自然在这个世纪才开始创造擅长逻辑的心智，实在不太可能。假使我们能设身处地想象自己身处那时的思想源流中，我们会发现，那时的许多几何学家就已具有分析学家的倾向。比如，欧几里得构筑的那个科学结构，在他的时代看起来无可挑剔。在这个宏伟的建构中，每一个部件都依直觉才产生，但这在今天看来无疑是个逻辑者的著作。
+奇怪！若去读早期数学家的著作，我们会把他们都认作直觉者。然而，自然从那时到现在无甚变化；要说自然在本世纪才开始创造擅长逻辑的心智，实在不太可能。假如我们能设身处地，想象自己身处于当时的思想源流中，我们会发现，那时就有许多几何学家具有分析学家的倾向。比如，欧几里得构筑的那个科学结构，在他的时代看起来是无可挑剔的。在这个宏伟的建构中，每一个部件都依直觉产生，但这在今天看来无疑是个逻辑者的杰作。
 It is not minds that have changed, it is ideas; the intuitional minds have remained the same; but their readers have required of them greater concessions. 
+改变的并非心智，而是想法；直觉的心智仍和原来一样；不过，如今读者却要求他们作出更多退让。
 What is the cause of this evolution? It is not hard to find. Intuition can not give us rigor, nor even certainty; this has been recognized more and more. Let us cite some examples. We know there exist continuous functions lacking derivatives. Nothing is more shocking to intuition than this proposition which is imposed upon us by logic. Our fathers would not have failed to say:”It is evident that every continuous function has a derivative, since every curve has a tangent.”
+是什么引起了这种演变？这不难回答。因为直觉不能给我们严格性，甚至连确定性也不行；这一点，我们近来看得愈发清楚。让我举几个例子。我们知道，存在着一个不可导的连续函数。没有什么比这更令我们的直觉震惊了，但这结论正是逻辑强加于我们的。我们的父辈却会毫不顾忌地说：“显然，每个连续函数均有导函数，因为每条曲线都有切线。”
 How can intuition deceive us on this point? It is because when we seek to imagine a curve, we can not represent it to ourselves without width; just so, when we represent to ourselves a straight line, we see it under the form of a rectilinear band of a certain breadth. We well know these line have no width; we try to imagine them narrower and narrower and thus to approach the limit; so we do in a certain measure, but we shall never attain this limit. And then it is clear we can always picture these two narrow bands, one straight, one curved, in a position such that they encroach slightly one upon the other without crossing. We shall thus be led, unless warned by a rigorous analysis, to conclude that a curve always has a tangent. 
+为什么直觉会在这一问题上欺骗我们？这是因为，我们在想象中画出一条曲线时，无法将它真正地表示为无宽度的曲线；同理，在想象直线时，我们看到的也是一个具宽度的直线。我们心中知道，这些线条没有宽度；因此我们把它想象得越来越细以趋近一个极限；我们可以做到某个程度，但却永不能真正达到这个极限。到此，事情已经清楚了：当我们想象的是一直一弯两个细带，当然可以使它们刚好触碰而不至于穿过彼此。若没有严格的分析学作为警戒，我们就会断言：每个曲线都有切线。
 I shall take as second example Dirichlet’s principle on which rest so many theorems of mathematical physics; to-day we establish it by reasonings very rigorous but very long; heretofore, on the contrary, we were content with a very summary proof. A certain integral depending on an arbitrary function can never vanish. Hence it is concluded that it must have a minimum. The flaw in this reasoning strikes us immediately, since we use the abstract term function and are familiar with all the singularities functions can present when the word is understood in the most general sense. 
+我举的第二个例子，是许多数学物理定律基于的Dirichlet原理；今天，我们已通过严格而冗长的推理建立了这一结果；但在此以前，一个非常笼统的证明就能让我们满意了。一个依赖于任意函数的特定积分恒不为零，因此，它一定会取得一个最小值。如今，我们立刻就能认识到这推理的缺陷，因为我们用的是“函数”一词最广泛的意思，而我们早已熟稔它在一般情况下可以具有的奇异性质。
 But it would not be the same had we used concrete images, had we, for example, considered this function as an electric potential; it would have been thought legitimate to affirm that electrostatic equilibrium can be attained. Yet perhaps a physical comparison would have awakened some vague distrust. But if care had been taken to translate the reasoning into the language of geometry, intermediate between that of analysis and that of physics, doubtless this distrust would not have been produced, and perhaps one might thus, even to-day, still deceive many readers not forewarned. 
+但如果我们用电势这样的具体图像作为函数，事情就不会如此了；也许你认为，我们可以合理地确信静电平衡能够达到。然而这种物理类比会引起一种模糊的怀疑感。但是，若我们把它翻译成几何——这门介于物理和分析之间的语言——那你可能连这丝疑虑都不会产生，而且它一定能骗过许多未被警示的读者。
 Intuition, therefore, does not give us certainty. This is why the evolution had to happen; let us now see how it happened.
+因此，直觉并不能给我们确定性。这就是这场演变注定发生的原因；现在，让我们仔细看看它是如何发生的。
 It was not slow in being noticed that rigor could not be introduced in the reasoning unless first made to enter into the definitions. For the most part the objects treated of by mathematicians were long ill defined; they were supposed to be known because represented by means of the senses or the imagination; but one had only a crude image of them and not a precise idea on which reasoning could take hold. It was there first that the logicians had to direct their efforts. 
+严格的推理是以严格的定义作为基础的，指出这件事并不多余。总的来说，数学家们处理的对象长期以来一直是病态定义的；人们假设这些对象可以通过感官或想象来认识；但如此一来，人们就只能有一个大体印象，而没有可供严谨推理的准确概念。因此，逻辑者必须先从定义着手。
 So, in the case of incommensurable numbers. The vague idea of continuity, which we owe to intuition, resolved itself into a complicated system of inequalities referring to whole numbers. 
-By that means the difficulties arising from passing to the limit, or from the consideration of infinitesimals, are finally removed. To-day in analysis only whole numbers are left or systems, finite or infinite, of whole numbers bound together by a net of equality or inequality relations. Mathematics, as they say, is arithmetized. 
-(更新于10.29 未完)
+事情对不可通约数而言，也是如此。连续性的模糊概念，是从我们的直觉而来的，而它最终被确定为一组涉及整数的复杂不等式得以解决。
+By that means the difficulties arising from passing to the limit, or from the consideration of infinitesimals, are finally removed. Today in analysis only whole numbers are left or systems, finite or infinite, of whole numbers bound together by a net of equality or inequality relations. Mathematics, as they say, is arithmetized. 
+以这种方式，我们终于解决了那些因趋向极限或考虑无穷小量造成的困难。今天，分析学中只剩下整数，以及由等式与不等式共同约束而成的整数系统。他们说，数学如今算术化了。
+(II 译完)
+
+#p 21227672 Masonry 东尼探长 雁园警视厅 2019-10-29 23:47:20
+
+
+2019-10-29 23:11:07
+在“数学中的直觉和逻辑”的II节中，庞加莱简要说明了数学家的两种倾向的历史发展，并讲述了“数学的算术化”的历史动机。
+一开始的数学家主要依赖直觉获得结果。这当然不是说，具有逻辑倾向的数学家只在近百年产生；实际上，数学家的这两种倾向早就出现了。在古希腊时，就有以欧几里得为代表的逻辑者；他做的几何原本，就是一个逻辑的建筑。
+但直觉却有严重的问题——它可能导致与逻辑不相符的直观。我们今天知道，“每条曲线都有切线”是荒谬的。然而，某个时期的数学家却相信这件事情，原因在上面原文中提到过了。因此，为追求逻辑体系的自洽，避免直觉的误导，我们被迫走向逻辑化；这过程是缓慢的；直到最近，分析学才获得了一个完整而严谨的逻辑基础，这被称作“数学的算术化”。因为这种发展，现代数学具有了更严格的逻辑要求，直觉者也必须服从这种新的数学规范。然而，数学家不应将逻辑看作或当作心智的镣铐，而应看作事实的内在和谐的保障。直觉也不能丢弃，后文庞加莱将提到，它是我们唯一的向导。
+原文中的这段文字，概括了当今数学分析样貌的成因：
 
