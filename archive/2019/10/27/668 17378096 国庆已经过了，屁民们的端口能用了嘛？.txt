@@ -1,4 +1,4 @@
-#t 668 17378096 xinxinxinxin 2019-10-27 00:11:00 pkujy 2019-10-29 14:52:00
+#t 668 17378096 xinxinxinxin 2019-10-27 00:11:00 hereshui 2019-10-29 15:33:00
 国庆已经过了，屁民们的端口能用了嘛？
 
 #p 21210704 xinxinxinxin 欣 2019-10-29 14:03:16
@@ -380,4 +380,12 @@ git clone 也提示22端口不能用
 #p 21223576 pkujy 紫电&清霜 2019-10-29 14:52:24
 ICS服务器不能git clone竟然是这个原因
 #quote xinxinxinxin
+
+#p 21223735 sxpeter  2019-10-29 15:20:40
+现在状况是，贵校的公网IP端口都凉了。。
+#quote zeta
+
+#p 21223806 hereshui 李颢宇 2019-10-29 15:33:18
+#quote xinxinxinxin
+早就能用了
 
