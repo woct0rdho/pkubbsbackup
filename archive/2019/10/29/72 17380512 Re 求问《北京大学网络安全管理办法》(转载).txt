@@ -1,8 +1,19 @@
-#t 72 17380512 survivor 2019-10-29 02:32:00 survivor 2019-10-29 02:32:00
+#t 72 17380512 survivor 2019-10-29 00:02:00 Alpher 2019-10-29 09:47:00
 Re 求问《北京大学网络安全管理办法》(转载)
 
 #p 21220786 survivor TEETOTALER|每天都是一种练习 2019-10-29 02:31:06
 [原文由 PKUCC 发表在 PKU_CC 版 &gt;&gt;&gt;](post-read.php?bid=668&amp;threadid=17380512)
 全文内容可向网信办咨询，网信办主页：[http://ocac.pku.edu.cn/](jump-to.php?url=http%3A%2F%2Focac.pku.edu.cn%2F)。谢谢。
 #quote xinxinxinxin
+
+#p 21221451 peiyangium 生建办主任助理|柯带宜居办主任|副团级 2019-10-29 09:31:41
+[原文由 peiyangium 发表在 PKU_CC 版 &gt;&gt;&gt;](post-read.php?bid=668&amp;threadid=17380512)
+谢谢，制度库挺好，像一个具体而微的北大法宝。如果PKUCC能指向制度库，就没必要挨这些骂了。
+因为我查到了该试行规定的全文。虽然扫了一下没看到对远程访问的规定。不过第十二条还是震惊到我了：
+请问北京大学准备于何时拆除中国移动通信集团有限公司等社会互联网服务提供商在校内违规布设的互联网通讯设备？何时屏蔽以上社会互联网服务提供商在特定频段的，用于违规提供社会互联网接入服务的信道？
+#quote RobinOuyang
+
+#p 21221536 Alpher 小现 2019-10-29 09:47:00
+北大的制度约束对象是学校各单位和个人，社会上的其它单位不在管理范围内
+#quote peiyangium
 
