@@ -1,0 +1,11 @@
+#t 668 17381987 walnutPKU 2019-10-29 20:02:00 PKUCC 2019-10-29 20:47:00
+下载Wiley期刊文献非常缓慢
+
+#p 21225339 walnutPKU 核桃 2019-10-29 20:01:37
+速度只有10KB/s左右，在实验室、在教学楼、在万柳宿舍都是如此，已经持续一两周了，事实上在线看Wiley论文的时候也能注意到图片加载非常缓慢。其它出版商如nature, science, ACS, RSC等的论文下载没有这样的问题，速度很快。麻烦计算中心排查一下原因，谢谢。
+论文链接(例): [https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.201905146?af=R](jump-to.php?url=https%3A%2F%2Fonlinelibrary.wiley.com%2Fdoi%2Fabs%2F10.1002%2Fadma.201905146%3Faf%3DR)
+
+#p 21225940 PKUCC 北京大学计算中心 2019-10-29 20:46:13
+我们联系教育网一起排查一下问题，谢谢您的提醒。
+#quote walnutPKU
+

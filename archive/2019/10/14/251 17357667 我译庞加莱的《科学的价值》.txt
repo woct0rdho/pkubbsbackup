@@ -1,11 +1,15 @@
-#t 251 17357667 Masonry 2019-10-14 00:01:00 Masonry 2019-10-28 10:42:00
+#t 251 17357667 Masonry 2019-10-14 00:01:00 Masonry 2019-10-29 20:39:00
 我译庞加莱的《科学的价值》
 
-#p 21091859 Masonry 东尼探长 雁园警视厅 2019-10-27 16:36:32
+#p 21091859 Masonry 东尼探长 雁园警视厅 2019-10-28 18:57:48
 
 
 2019-10-14 01:58:37
-法国数学家庞加莱的著作《科学的价值》于1913年由George Halsted翻译为英文，论述的主题就是“科学的价值”，其中也有几处提及中国和东方文明，漫不经心但振聋发聩。我很难说的比庞加莱更好，因此希望在闲暇之时将这些文章陆续由英文翻译为中文，以供大家参考和交流，姑且认为是一个习作。在我看来，每一篇文章具有相对的独立性，感兴趣的读者可以选择读其中的一篇，无需整本读完。
+法国数学家庞加莱(Henri Poincaré)的著作《科学的价值》于1913年由George Halsted翻译为英文，论述的主题就是“科学的价值”，其中也有几处提及中国和东方文明，漫不经心但振聋发聩。我很难说的比庞加莱更好，因此希望在闲暇之时将这些文章翻译，以供大家参考和交流，姑且认为是一个习作。我也希望能听到读者的感受，不论是对文章内容还是翻译的细节上的。在我看来，每一篇文章具有相对的独立性，感兴趣的读者可以从中挑选一篇来读，无需整本读完。
+庞加莱的写作是很一般(general)的，正因此，一个相当广泛的群体可以从中找到乐趣和启发。他的著作问世后获得了广泛的欢迎，不论专业、不论国别的人都从中找到了乐趣，这点可以从Eric Bell在《Men of mathematics》写的Poincaré传记中看出。
+无需刻意强调，大师的作品，每经一次翻译都丧失一份美感，从开始的法语途径英语再由我翻译为汉语，其中的美感估计会丧失大半。在这样的情况下，看法、英文是更好的选择，目前应该也有很多汉语译本了，我的翻译仅提供一种参考和理解。译文中的黑体字是我标注的，旨在指出我个人认为十分关键的内容。更新很可能是缓慢而不定时的。囿于个人水平和见识，必将有不少错译之处。之所以发在bbs上，是希望同学不吝指正，以使这个翻译更好。
+从中节选两句我喜欢的话，为读者作示例：
+如果再继续引用下去，恐怕要把整本书引用上来了，请读者看下面的译文吧。
 **------目录------**
 **序言** 对事实的选择
         2楼 [https://bbs.pku.edu.cn/v2/post-read-single.php?bid=251&amp;postid=21091865](post-read-single.php?bid=251&amp;postid=21091865)
@@ -13,6 +17,7 @@
         13楼 [https://bbs.pku.edu.cn/v2/post-read-single.php?bid=251&amp;postid=21129681](post-read-single.php?bid=251&amp;postid=21129681)
 **第一部分 数学科学**
 1. 数学中的直觉与逻辑
+    I   15楼 [https://bbs.pku.edu.cn/v2/post-read-single.php?bid=251&amp;postid=21211679](post-read-single.php?bid=251&amp;postid=21211679)
 2. 时间的测量
 3. 空间的观念
 4. 空间和它的三个维度
@@ -27,28 +32,25 @@
 11. 科学与现实
 （对标题的翻译可能会再做更改）
 **------      ------**
-无需刻意强调，大师的作品，每经一次翻译都丧失一份美感，从开始的法语途径英语再由我翻译为汉语，其中的美感估计会丧失大半。在这样的情况下，看法、英文是更好的选择，目前应该也有很多汉语译本了，我的翻译仅提供一种参考和理解。译文中的黑体字是我标注的，旨在指出我个人认为十分关键的内容。更新很可能是缓慢而不定时的。囿于个人水平和见识，必将有不少错译之处。之所以发在bbs上，是希望同学不吝指正，以使这个翻译更好。
-节选两句我喜欢的话作示例：
-如果再继续引用下去，恐怕要把整本书引用上来了，请读者看下面的译文吧。
 
-#p 21091865 Masonry 东尼探长 雁园警视厅 2019-10-26 21:19:46
+#p 21091865 Masonry 东尼探长 雁园警视厅 2019-10-28 23:54:03
 
 
 2019-10-14 02:02:28
 The Choice of Facts
 对事实的**选择 **
 Tolstoi somewhere explains why ‘science for its own sake’ is in his eyes an absurd conception. We can not know all facts, since their number is practically infinite. It is necessary to choose; then we may let this choice depend on the pure caprice of our curiosity; would it not be better to let ourselves be guided by utility, by our practical and above all by our moral needs; have we nothing better to do than counting the number of lady-bugs on our planet?        
-Tolstoi曾提到，“只为科学的科学”在他眼中是一种荒谬的想法。**我们无法知悉所有的事实，因为事实的数目是无法穷尽的。**因此，我们只能从事实中选择一些作为研究的对象；我们或许可以用好奇心作为选择的依据，又或者，可以按它们带来的效益从中优先选择，以尽可能满足我们的生活的和道德的需求。毕竟，总该有些事比统计地球上的瓢虫的数量更有意义吧？（注：这段所提到的Tolstoi是我们熟知的列夫·托尔斯泰）
+托尔斯泰曾提到，“只为科学的科学”在他眼中是一种荒谬的想法。**我们无法知悉所有的事实，因为事实的数目是无法穷尽的。**我们必须从中选择；或许，我们可以单凭好奇心的一时兴起来选择，又或者，可以按它们带来的效益做选择，以尽可能满足我们的生活的和道德的需求。毕竟，总该有些事比统计地球上瓢虫的数量更有意义吧？（注：这段所提到的Tolstoi是我们熟知的列夫·托尔斯泰）
 It is clear the word utility has not for him the sense men of affairs give it, and following them most of our contemperaries. Little cares he for industrial applications, for the marvels of electricity or of automobiles, which he regards rather as obstacles to moral progress; utility for him is solely what can make man better.         
-很显然，Tolstoi所说的“效益”，与那些务实之人和追随其后的大众所说的“效益”，含义并不相同。对工业上的应用他并不关心，无论是电力还是汽车所带来的奇迹，对他来说都不过是道德之路上的阻碍；“效益”这一词，对他而言，意指“让人们变得更好的事物”。
+很显然，Tolstoi所说的“效益”，与那些务实之人和追随其后的大众所说的“效益”，含义并不相同。对工业上的应用他并不关心，无论是电力还是汽车所带来的奇迹，对他来说都不过是道德之路上的阻碍；“效益”一词，对他而言，意指“让人们变得更好的事物”。
 For my part, it need scarce be said, I could never be content with either one or the other ideal; I want neither that plutocracy grasping and mean, nor that democracy goody and mediocre, occupied solely in turning the other cheek, where would dwell sages without curiosity, who, shunning excess, would not die of disease, but would surely die of ennui. But that is a matter of taste and is not what I wish to discuss. 
-对我而言，我对哪一种理想的极端都无法感到完全满意。我既不想要财阀政治一般的贪婪和吝啬，也不喜欢民主政治的伪善和平庸，这些人只知道一味容忍，最终不过变成了没有好奇心的圣人，他们事事都选择回避，不死于疾病也一定要无聊至死了。然而，这种选择是品味上的问题，在这里我不想讨论了。
+对我而言，我对哪一种理想的极端都无法感到完全满意。我既不想要财阀政治一般的贪婪和吝啬，也不喜欢民主政治的伪善和平庸，这些人只知道一味容忍，最终不过变成了没有好奇心的圣人，他们小心回避着过分放纵，不死于疾病也要无聊至死了。然而，这种选择是品味上的问题，我在这里不想讨论。
 The question nevertheless remains and should fix our attention; if our choice can only be determined by caprice or by immediate utility, there can be no science for its own sake, and consequently no science. But is that true? That a choice must be made is incontestable; whatever be our activity, facts go quicker than we, and we can not catch them; while the scientist discovers one fact, there happen milliards of milliards in a cubic millimeter of his body. To wish to comprise nature in science would be to want to put the whole into the part.         
-然而到此为止，我们的问题还没有得到解决； 如果我们选取事实的方法只限于好奇心或者直接的效益这两者，那科学就不可能是为了自身的，因此也就不再有科学了（注：此处“科学”应指“只为科学的科学”或“纯科学”）。但我们真的没有科学吗？我们当然必须对事实做一个选择，这是无法否认的；无论我们的活动有多么迅速，事实都比我们更快，我们永远无法抓住他们全部；科学家发现一个事实的时候，在他体内的一角内又发生的事实是数不胜数的。想要将整个自然涵盖在科学中，就如同想要把整体放到部分中一般，是无法达到的。
+然而到此为止，我们的问题还没有得到解决； 如果我们选取事实的方法只限于好奇心或者直接的效益这两者，那科学就不可能是为了自身的，也就不再有科学了（注：此处“科学”应指“只为科学的科学”或“纯科学”）。真的没有科学吗？我们必须对事实做一个选择，这是无法否认的；无论我们的活动有多么迅速，事实都比我们更快，我们永远无法抓住他们全部；科学家发现一个事实的时候，在他体内的一角又发生了数不胜数的事实。想要将自然涵盖在科学中，就如同想要把整体放到部分中一般，是无法达到的。
 But scientists believe there is a hierarchy of facts and that among them may be made a judicious choice. They are right, since otherwise there would be no science, yet science exists. One need only open the eyes to see that the conquests of industry which have enriched so many practical men would never have seen the light, if these practical men alone had existed and if they had not been preceded by unselfish devotees who died poor, who never thought of utility, and yet had a guide far other than caprice.         
 但科学家仍相信：事实是有高下之分的，在众多事实中，他们可以做一个明智的选择。当然有办法选择，否则，就不会有科学了，而科学今天确实是存在的。我们只需要睁开双眼就能看见，如果所有人都如工业界的那些人一般事事切合实际，那他们永远无法看到今天的光亮。在他们这些切合实际的人之前，有着许多无私奉献却死于贫穷的人，他们从未考虑过效益，而指导他们的，远远不是好奇心导致的一时兴起。
 As Mach says, these devotees have spared their successors the trouble of thinking. Those who might have worked solely in view of an immediate application would have left nothing behind them, and in face of a new need, all must have been begun over again. Now most men do not love to think, and this is perhaps fortunate when instinct guides them, for most often, when they pursue an aim which is immediate and ever the same, instinct guides them better than reason would guide a pure intelligence. But instinct is routine, and if thought did not fecundate it, it would no more progress in man than in the bee or ant. It is needful then to think for those who love not thinking and, as they are numerous, it is needful that each of our thoughts be as often useful as possible, and this is why a law will be the more precious the more general it is.         
-Mach说过这样一句话：就是这些无私奉献者让后人免去了思考的麻烦。那些完全为了直接应用而工作的人，不会为后人留下任何东西，一旦面对一个新的需求，一切又必须重新开始。其实，大多数人并不喜欢思考，不过这对于那些依靠本能的人而言可能是一种幸运。因为，当从事简单而重复性的劳动时，本能对人的指导远胜于理性对智力的指导。然而，本能是我们日常依赖的东西，如果思想没有使本能变得更丰蕴，人类的思考就不会发展到高于蜜蜂或是蚂蚁的程度。因此，我们需要为那些不愿思考的人去思考。因为不愿思考的人数量众多，所以我们需要让每一个想法都尽可能经常地有用，这就是为什么**越普遍的定律就越珍贵**（注：Mach指的是Ernst Mach, 奥地利物理学家；注：英译文中用词为“law”，意指法律、规则、自然定律）。
+如Mach所说：这些无私奉献者让后人免去了思考的麻烦。那些为了直接应用而工作的人，不会为后人留下任何东西，一旦面对一个新的需求，一切又必须重新开始。其实，大多数人并不喜欢思考，不过这对于那些依靠本能的人而言可能是一种幸运。因为，当从事简单而重复性的劳动时，本能对人的指导远胜于理性对智力的指导。然而，本能是我们日常依赖的东西，如果思想没有使本能变得更丰蕴，人类的思考就不会发展到高于蜜蜂或是蚂蚁的程度。因此，我们需要为那些不愿思考的人去思考。因为不愿思考的人数量众多，所以我们需要让每一个想法都尽可能经常地有用，这就是为什么**越普遍的定律就越珍贵**（注：Mach指的是Ernst Mach, 奥地利物理学家；注：英译文中用词为“law”，意指法律、规则、自然定律）。
 This shows us how we should choose: the most interesting facts are those which may serve many times; these are the facts which have a chance of coming up again. We have been so fortunate as to be born in a world where there are such. Suppose that instead of 60 chemical elements there were 60 milliards of them, that they were not, some common, the others rare, but that they were uniformly distributed. Then, every time we picked up a new pebble there would be great probability of its being formed of some unknown substance; all that we knew of other pebbles would be worthless for it; before each new object we should be as the new-born babe; like it we could only obey our caprices or our needs. Biologists would be just as much as a loss if there were only individuals and no species and if heredity did not make sons like their fathers. 
 现在我们知道该如何选择事实了——我们应该选择那些经常用到的事实。最有趣的事实，是那些可能会再次出现的事实。我们是幸运的，生活在一个有这样的事实的世界中。设想，如果世界不是由60种化学元素构成，而是由60亿万种化学元素构成，再假设这些元素的出现是等可能的。在这样的世界中，每当我们拿起一个石子，它在几率上都由新的物质构成；因此，我们对其他石子的知识，对手中的石子将会是完全无用的；在每一个新的物体前，我们都会像婴儿一样；正是因为像婴儿一样，我们唯一可以依赖的就是我们的意愿和需求了。这种迷茫，就好比一个生物学家到了一个只有个体却没有物种、子代不遗传父辈性状的世界一样。
 In such a world there would be no science; perhaps thought and even life would be impossible, since evolution could not there develop the preservational instincts. Happily it is not so; like all good fortune to which we are accustomed, this is not appreciated at its true worth.
@@ -61,7 +63,7 @@ But where is the simple fact? Scientists have been seeking it in the two extreme
 Therefore it is by the regular facts that it is proper to begin. But after the rule is well established, after it is beyond all doubt, the facts in full conformity with it are ere long without interest since they no longer teach us anything new. It is then the exception which becomes important. We cease to seek resemblances; we devote ourselves above all to the differences, and among the differences are chosen first the most accentuated, not only because they are the most striking, but because they will be the most instructive. A simple example will make my thought plainer: Suppose one wishes to determine a curve by observing some of its points. The practician who concerns himself only with immediate utility would observe only the points he might need for some special object. These points would be badly distributed on the curve; they would be crowded in certain regions, rare in others, so that it would be impossible to join them by a continuous line, and they would be unavailable for other applications. The scientist will proceed differently; as he wishes to study the curve for itself, he will distribute regularly the points to be observed, and when enough are known he will join them by a regular line and then he will have the entire curve. But for that how does he proceed? If he has determined an extreme point of the curve, he does not stay near this extremity, but goes first to the other end; after the two extremities the most instructive point will be the mid-point and so on. 
 因此，我们要首先选择的是那些寻常的事实。此后通过这些事实确立了法则并保证了可信性后，那些与法则相吻合的事实，就失去了重要性；因为，我们从这些事实中无法再了解新的信息了。这时，违反规则的例外反而变得重要了。我们不再寻找相似性，而开始寻找差异性，我们要选择的是那些最醒目的差异，不仅是因为这些事实最让人惊讶，更是因为它们是最具指导性的。一个简单的例子更能说明我的想法：假设一个人想通过描点将一条曲线画出来。那些只在乎眼前效益的实践者，只会观测他为了达成特殊目的所需要的点。他画下的点在曲线上的分布将是丑陋的；在一些区域很密，有些区域却太稀少，很难将这些点连成一条连续的线，因而他们所描的图无法用于其他应用。科学家则会采取一种不同的手段，因为他的目的是研究曲线本身。他会尽可能均匀地将观测点分布在整条曲线上，当观测点足够多的时候，他就可以把它们连成一条连续的线了。这样，他就得到了整条曲线。具体要怎么做呢？他先观测一个端点，但他并不停留在这个端点附近，下次他就会观测另一端的端点；两个端点都观测后他会观察中点，然后继续这样进行下去。
 So when a rule is established we should first seek the cause where this rule has the greatest chance of failing. Thence, among other reasons, come the interest of astronomic facts and the interest of the geologic past; by going very far away in space or very far away in time, we may find out usual rules entirely overturned, and these grand overturnings aid us the better to see or the better to understand the little changes which may happen nearer to us, in the little corner of the world where we are called to live and act. We shall better know this corner for having traveled in distant countries with which we have nothing to do. 
-所以当一个规则被确立下来之后，我们应该检验的是，这个规则在何时最可能失效。这正是科学家对天文事实和地质历史产生兴趣的原因之一；我们在空间和时间上走到极远的地方，就是希望在那里我们的规则会被完全颠覆。正是这些大的颠覆，让我们对自己栖身的一角有了更敏感的观察和更深刻的认识。正因为我们遨游于乌有之乡与广漠之野，我们更了解我们偏安的一隅了。
+所以当一个规则被确立下来之后，我们应该检验的是，这个规则在何时最可能失效。这正是科学家对天文事实和地质历史产生兴趣的原因之一；我们在空间和时间上走到极远的地方，是希望在那里看到我们的规则被完全颠覆。这些大的颠覆，让我们对自己栖身的一角有了更敏感的观察和更深刻的认识。正因为我们曾遨游于乌有之乡与广漠之野，我们今天更了解我们偏安的一隅了。
 But what we ought to aim at is less the ascertainment of resemblances and differences than the recognition of likenesses hidden under apparent divergences. Particular rules seem at first discordant, but looking more closely we see in general that they resemble each other; different as to matter, they are alike as to form, as to the order of their parts. When we look at them with this bias, we shall see them enlarge and tend to embrace everything. And this it is which makes the value of certain facts which come to complete an assemblage and to show that it is the faithful image of other known assemblages. 
 然而，这种相似与差异的分辨并不是终极的目标，**我们找寻的是藏匿于表面分歧之下的内在相似性**。各个规则在最初看起来不甚和谐，但仔细思索，我们将发现它们大同小异；组成的实质不同，它们的形式与内部秩序却可能相似。当我们带着这种倾向考虑那些规则时，它们就会不断扩大，直至最后包揽万物。这样，我们才认清那些特定事实的价值；一些事实相互组装形成复合结构，让我们认清，它们不过是之前已知的复合结构的忠实镜像而已。
 I will not further insist, but these few words suffice to show that the scientist does not choose at random the facts he observes. He does not, as Tolstoi says, count the lady-bugs, because, however interesting lady-bugs may be, their number is subject to capricious variations. He seeks to condense much experience and much thought into a slender volume; and that is why a little book on physics contains so many past experiences and a thousand times as many possible experiences whose result is known beforehand. 
@@ -166,7 +168,7 @@ Does the harmony the human intelligence thinks it discovers in nature exist outs
 下一篇开始进入数学科学的部分，讲的是数学中的直觉与逻辑这两种思考模式。这种思维倾向的差异在数学家身上是很明显的，对数学感兴趣的同学尤其应该一读（陶哲轩曾在博客中推荐此文）。
 用Poincaré自己的引言来介绍：
 
-#p 21211679 Masonry 东尼探长 雁园警视厅 2019-10-28 10:42:00
+#p 21211679 Masonry 东尼探长 雁园警视厅 2019-10-28 18:47:44
 
 
 2019-10-27 15:24:58
@@ -174,11 +176,11 @@ Intuition and Logic in Mathematics
 数学中的直觉和逻辑
 **I**
 **一**
-It is impossible to study the works of the great mathematicians,  or even those of the lesser, without noticing and distinguishing two opposite tendencies, or rather two entirely different kinds of minds. The one sort are above all preoccupied with logic; to read their works, one is tempted to believe they have advanced only step by step, after the manner of a Vauban who pushes on his trenches against the place besieged, leaving nothing to chance. The other sort are guided by intuition and at the first stroke make quick but sometimes precarious conquests, like bold cavalrymen of the advance guard. 
+It is impossible to study the works of the great mathematicians, or even those of the lesser, without noticing and distinguishing two opposite tendencies, or rather two entirely different kinds of minds. The one sort are above all preoccupied with logic; to read their works, one is tempted to believe they have advanced only step by step, after the manner of a Vauban who pushes on his trenches against the place besieged, leaving nothing to chance. The other sort are guided by intuition and at the first stroke make quick but sometimes precarious conquests, like bold cavalrymen of the advance guard. 
 在研习大数学家的著作，或稍逊的数学家的著作时，我们难免会注意到**两种互反的倾向**，或说，两种完全不同的心智。其中一种，完全将精力倾注在**逻辑**上；读他们的作品，人们会相信他们一定是步步为营的，就如沃邦一点一点把战壕推近敌营，不留一丝悬念。另一种人，则是由**直觉**指引的，在首战中就发动迅速但却危险的进攻，就如同前卫部队中勇敢的骑兵一般。
 （注：沃邦，由Vauban翻译而来，是十七世纪法国的元帅和军事工程师，没有参与过一场战争，但凭借军事筑城的天才帮助法国打了很多胜仗）
 The method is not imposed by the matter treated. Though one often says of the first that they are analysts and calls the others geometers, that does not prevent the one sort from remaining analysts even when they work at geometry, while the others are still geometers even when they occupy themselves with pure analysis. It is the very nature of their mind which makes them logicians or intuitionalists, and they can not lay it aside when they approach a new subject. 
-他们的倾向，并不是由研究对象的特性导致的。虽然人们常把前者称为分析学家而把后者称作几何学家，但分析学家在做几何时不会变成几何学家，而几何学家在做纯分析时也没有变成分析学家。其实，是他们的心智的天性，让他们成为了逻辑者或直觉者，这种天性在他们接触新的学科时也无法割离。
+**他们的倾向，并不是由研究对象的特性导致的。**虽然人们常把前者称为分析学家而把后者称作几何学家，但分析学家在做几何时不会变成几何学家，而几何学家在做纯分析时也没有变成分析学家。**其实，是他们的心智的天性，让他们成为了逻辑者或直觉者**，这种天性在他们接触新的学科时也无法割离。
 （注：logician和intuitionalist，分别被翻译成“逻辑者”和“直觉者”；直接的翻译可能是“逻辑学家”和“直觉主义者”，但这里这两个词在这里指的是两种思维倾向的数学家，既不是“学家”，也不是“主义者”，应是平行的概念，故作此翻译）
 Nor is it education which has developed in them one of the two tendencies and stifled the other. The mathematician is born, not made, and it seems he is born a geometer or an analyst. I should like to cite examples and there are surely plenty; but to accentuate the contrast I shall begin with an extreme example, taking the liberty of seeking it in two living mathematicians. 
 但也并非是教育发展了一种倾向而扼杀了另一种倾向。**数学家是天生的，不是被制造的**，而他将成为几何学家还是分析学家，似乎生来就注定了。我现在希望引用一些例子，这样的例子当然有很多；但为突出重点，我会从最极端的例子讲起，他们是两个仍在世的数学家。
@@ -189,21 +191,44 @@ On the other hand, look at Professor Klein: he is studying one of the most abstr
 Doubtless Professor Klein well knows he has given here only a sketch: nevertheless he has not hesitated to publish it; and he would probably believe he finds in it, if not a rigorous demonstration, at least a kind of moral certainty. A logician would have rejected with horror such a conception, or rather he would not have had to reject it, because in his mind it would never have originated. 
 当然，Klein教授很清楚，他在这里给出的仅仅是一个勾勒而已：然而他毫不犹豫地把这个结果发表了；他很可能认为，即使自己没有完整的证明，至少也获得了一种道德上的确定性。当然，一个逻辑者会充满恐惧地拒绝这种构想，或者，他可能根本不需要拒绝，因为在他的脑中这想法根本不会产生。
 Again, permit me to compare two men, the honor of French science, who have recently been taken from us, but who both entered long ago into immortality. I speak of M. Bertrand and M. Hermite. They were scholars of the same school at the same time; they had the same education, were under the same influences; and yet what a difference! Not only does it blaze forth in their writings; it is in their teaching, in their way of speaking, in their very look.  In the memory of all their pupils these two faces are stamped in deathless lines, this remembrance is still fresh; it is easy for us to evoke it. 
-下面 ，请允许我比较两个人，他们是法国科学的荣耀。虽然最近他们被从我们身边带走，但他们其实早已永垂不朽。我指的是Bertrand和Hermite。这两位学者同时处在同一所学院；他们有相同的教育，受相同的影响；然而，他们是多么地不同啊！这差异，不仅在他们的作品中迸发出来；还体现在他们的授课上，他们说话的方式上，甚至是他们的外表上。在他们的学生的记忆中，这两张脸已用无法抹去的线条铭刻下来了，至今犹新；我们很容易就能回想起他们间的差别。
+下面 ，请允许我比较两个人，他们是法国科学的荣耀。最近，他们被从我们身边带走，但他们其实早已永垂不朽。我指的是Bertrand和Hermite。这两位学者同时处在同一所学院；他们有相同的教育，受相同的影响；然而，他们是多么地不同啊！这差异，不仅在他们的作品中迸发出来；还体现在他们的授课上，他们说话的方式上，甚至是他们的外表上。在他们的学生的记忆中，这两张脸已用无法抹去的线条铭刻下来了，至今犹新；我们很容易就能回想起他们间的差别。
 While speaking, M. Bertrand is always in motion; now he seems in combat with some outside enemy, now he outlines with a gesture of the hand the figures he studies. Plainly he sees and he is eager to paint, this is why he calls gesture to his aid. With M. Hermite, it is just the opposite; his eyes seem to shun contact with the world; it is not without, it is within he seeks the vision of truth. 
-当Bertrand在说话时，他常常是在运动的；他一会儿好像在与外界的敌人战斗，一会儿又突然用手势勾画出他所研究的图像。总之，他看见了什么，并且总渴望把它们画出来，这就是他总用手势作辅助的原因。然而，Hermite则是截然相反的；他的眼睛好像躲避着与外界的接触；他不是在外界，而是在内心中寻求对真理的视觉。
+当Bertrand在说话时，他常常是运动的；他一会儿好像在与外界的敌人战斗，一会儿又突然用手势勾画出他所研究的图像。总之，**他看见了什么，并且总渴望把它们画出来**，这就是他总用手势作辅助的原因。然而，Hermite则是截然相反的；他的眼睛好像躲避着与外界的接触；**他不是在外界，而是在内心中寻求对真理的视觉**。
 Among the German geometers of this century, two names above all are illustrious,  those of the two scientists who have founded the general theory of functions, Weierstrass and Riemann. Weierstrass leads everything back to the consideration of series and their analytic transformations; to express it better, he reduces analysis to a sort of prolongation of arithmetic; you may turn through all his books without finding a figure. Riemann, on the contrary, at once calls geometry to his aid; each of his conceptions is an image that no one can forget, once he has caught its meaning. 
-在本世纪的所有德国几何学家中，有两个名字最为耀眼，那就是创造了函数的一般理论的两个人，Weierstrass和Riemann。Weierstrass将所有问题都转变为对级数和解析变换的思考；更准确的说，他把分析变成了算数的延伸；翻遍他的所有书，你也找不到一张图。而Riemann则和他相反，他几乎立刻就把几何唤来作他的助手；他的每一个观念都是一幅图像，一旦掌握它的含义，你就再也无法忘却。
+在本世纪的所有德国几何学家中，有两个名字最为耀眼，那就是创造了函数的一般理论的两个数学家，Weierstrass和Riemann。Weierstrass将所有问题都转变为对级数和解析变换的思考；更准确的说，他把分析简化成了算数的某种延伸；翻遍他的所有书，你也找不到一张图。而Riemann则和他相反，他几乎立刻就把几何唤来作他的助手；他的每个观念都是一幅图像，一旦掌握它的含义，你就再也无法忘却。
 More recently, Lie was an intuitionalist; this might have been doubted in reading his books, no one could doubt it after talking with him; you saw at once that he thought in pictures. Madame Kovalevski was a logician. 
 更近一些的数学家中，Lie是一个直觉者；也许你看他的书的时候不这样想，但一旦你和他谈话，对此就不会怀疑了；你会立刻发现，他是用图画思考的。Kovalevski女士则是一个逻辑者。
 Among our students we notice the same differences; some prefer to treat their problems ‘by analysis’, others ‘by geometry’. The first are incapable of ‘seeing in space’, the others are quickly tired of long calculations and become perplexed. 
-在我们的学生中，我们也能看到相同的差别；有些学生偏爱“用分析”去解决问题，另外一些人则“用几何”。前者无法“看到空间”，而后者则在接连的计算中，很快就变得疲劳而困惑。
+在我们的学生中，也能看到相同的差别；有些学生偏爱“用分析”去解决问题，另外一些人则“用几何”。前者无法“看到空间”，而后者则在接连的计算中，很快就变得疲劳而困惑。
 The two sorts of minds are equally necessary for the progress of science; both the logicians and the intuitionalists have achieved great things that others could not have done. Who would venture to say whether he preferred that Weierstrass had never written or that there had never been a Riemann? Analysis and synthesis have then both their legitimate roles. But it is interesting to study more closely in the history of science the part which belongs to each. 
-这两种心智，对科学的发展是同样必要的；逻辑者和直觉者都做到了对方不能做到的事情。谁敢说，他宁愿Weierstrass从没写过他的著作，或者他宁愿世上从没有一个Riemann？那么，分析与合成，就有着各自的应当的角色。然而，在科学史的情境下更仔细地研究它们的职责，将会是一件有意思的事情。
+**这两种心智，对科学的发展是同样必要的**；逻辑者和直觉者都做到了对方不能做到的事情。谁敢说，他宁愿Weierstrass从没写过他的著作，或世上从没有一个Riemann？**分析**与**合成**，有着各自应当的角色。不过，在科学史的情境下更仔细地研究它们的职责，会是一件有意思的事情。
 （I 译完）
 
-#p 21215720 Masonry 东尼探长 雁园警视厅 2019-10-28 10:41:49
-“数学中的直觉和逻辑”的I部分已译完，因为后面一篇文章的篇幅较长，而且文章内部是自然分段的，我将每段都另回一贴，也方便读者阅读。
-在数学中，直觉和逻辑的张力是最值得注意的事情，因此再次推荐“数学中的直觉和逻辑”这篇文章。
-#quote Masonry
+#p 21215720 Masonry 东尼探长 雁园警视厅 2019-10-28 10:51:53
+
+
+2019-10-28 10:41:49
+“数学中的直觉和逻辑”的I部分已译完，因为后面一篇文章的篇幅较长，而且作者已将文章分成小的部分，我将每段都另回一贴，这也是为方便读者阅读。
+在数学中，直觉和逻辑的张力是最值得注意的事情了。庞加莱在以上文中举了一些著名数学家作为例子，具有相当的启发性。因此，再次推荐“数学中的直觉和逻辑”这篇文章。
+
+#p 21225521 Masonry 东尼探长 雁园警视厅 2019-10-29 20:39:07
+
+
+2019-10-29 20:38:19
+Intuition and Logic in Mathematics
+数学中的直觉和逻辑
+**II**
+**二**
+Strange! If we read over the works of the ancients we are tempted to class them all among the intuitionalists. And yet nature is always the same; it is hardly probable that it has begun in this century to create minds devoted to logic. If we could put ourselves into the flow of ideas which reigned in their time, we should recognize that many of the old geometers were in tendency analysts. Euclid, for example, erected a scientific structure wherein his contemporaries could find no fault. In this vast construction, of which each piece however is due to intuition, we may still to-day without much effort, recognize the work of a logician.
+奇怪！若去读早期数学家的著作，我们会把他们都认作直觉者。然而，自然从那时到现在无甚变化；要说自然在这个世纪才开始创造擅长逻辑的心智，实在不太可能。假使我们能设身处地想象自己身处那时的思想源流中，我们会发现，那时的许多几何学家就已具有分析学家的倾向。比如，欧几里得构筑的那个科学结构，在他的时代看起来无可挑剔。在这个宏伟的建构中，每一个部件都依直觉才产生，但这在今天看来无疑是个逻辑者的著作。
+It is not minds that have changed, it is ideas; the intuitional minds have remained the same; but their readers have required of them greater concessions. 
+What is the cause of this evolution? It is not hard to find. Intuition can not give us rigor, nor even certainty; this has been recognized more and more. Let us cite some examples. We know there exist continuous functions lacking derivatives. Nothing is more shocking to intuition than this proposition which is imposed upon us by logic. Our fathers would not have failed to say:”It is evident that every continuous function has a derivative, since every curve has a tangent.”
+How can intuition deceive us on this point? It is because when we seek to imagine a curve, we can not represent it to ourselves without width; just so, when we represent to ourselves a straight line, we see it under the form of a rectilinear band of a certain breadth. We well know these line have no width; we try to imagine them narrower and narrower and thus to approach the limit; so we do in a certain measure, but we shall never attain this limit. And then it is clear we can always picture these two narrow bands, one straight, one curved, in a position such that they encroach slightly one upon the other without crossing. We shall thus be led, unless warned by a rigorous analysis, to conclude that a curve always has a tangent. 
+I shall take as second example Dirichlet’s principle on which rest so many theorems of mathematical physics; to-day we establish it by reasonings very rigorous but very long; heretofore, on the contrary, we were content with a very summary proof. A certain integral depending on an arbitrary function can never vanish. Hence it is concluded that it must have a minimum. The flaw in this reasoning strikes us immediately, since we use the abstract term function and are familiar with all the singularities functions can present when the word is understood in the most general sense. 
+But it would not be the same had we used concrete images, had we, for example, considered this function as an electric potential; it would have been thought legitimate to affirm that electrostatic equilibrium can be attained. Yet perhaps a physical comparison would have awakened some vague distrust. But if care had been taken to translate the reasoning into the language of geometry, intermediate between that of analysis and that of physics, doubtless this distrust would not have been produced, and perhaps one might thus, even to-day, still deceive many readers not forewarned. 
+Intuition, therefore, does not give us certainty. This is why the evolution had to happen; let us now see how it happened.
+It was not slow in being noticed that rigor could not be introduced in the reasoning unless first made to enter into the definitions. For the most part the objects treated of by mathematicians were long ill defined; they were supposed to be known because represented by means of the senses or the imagination; but one had only a crude image of them and not a precise idea on which reasoning could take hold. It was there first that the logicians had to direct their efforts. 
+So, in the case of incommensurable numbers. The vague idea of continuity, which we owe to intuition, resolved itself into a complicated system of inequalities referring to whole numbers. 
+By that means the difficulties arising from passing to the limit, or from the consideration of infinitesimals, are finally removed. To-day in analysis only whole numbers are left or systems, finite or infinite, of whole numbers bound together by a net of equality or inequality relations. Mathematics, as they say, is arithmetized. 
+(更新于10.29 未完)
 
