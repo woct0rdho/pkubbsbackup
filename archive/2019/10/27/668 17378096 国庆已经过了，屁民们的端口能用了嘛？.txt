@@ -1,7 +1,7 @@
-#t 668 17378096 xinxinxinxin 2019-10-27 00:11:00 zeta 2019-10-29 13:40:00
+#t 668 17378096 xinxinxinxin 2019-10-27 00:11:00 pkujy 2019-10-29 14:52:00
 国庆已经过了，屁民们的端口能用了嘛？
 
-#p 21210704 xinxinxinxin 欣 2019-10-27 14:52:33
+#p 21210704 xinxinxinxin 欣 2019-10-29 14:03:16
 
 
 2019-10-27 11:20:17
@@ -17,6 +17,12 @@
 能不能大家真的就把这个事情做得好一点，让这个学校更好一点？
 我看也不是我一个人困扰，我实在是……
 别扯啥网络安全，涉密学校的普通网也没见得拔网线，你要非说信息安全那就你说什么我信什么吧
+如下是相关帖子的链接，大家更好的了解前因后果，毕竟其实我们大家也只是想解决问题
+[https://bbs.pku.edu.cn/v2/post-read.php?bid=668&amp;threadid=17378096](post-read.php?bid=668&amp;threadid=17378096)
+[https://bbs.pku.edu.cn/v2/post-read.php?bid=668&amp;threadid=17380512](post-read.php?bid=668&amp;threadid=17380512)
+[https://bbs.pku.edu.cn/v2/post-read.php?bid=668&amp;threadid=17348964](post-read.php?bid=668&amp;threadid=17348964)
+[https://bbs.pku.edu.cn/v2/post-read.php?bid=668&amp;threadid=17359816](post-read.php?bid=668&amp;threadid=17359816)
+[https://bbs.pku.edu.cn/v2/post-read.php?bid=668&amp;threadid=17381299](post-read.php?bid=668&amp;threadid=17381299)
 
 #p 21210852 PKUCC 北京大学计算中心 2019-10-27 12:02:18
 
@@ -362,5 +368,16 @@ git clone 也提示22端口不能用
 
 #p 21223009 zeta ζ 2019-10-29 13:40:12
 没太懂，lz有公网ip么？有的话用ssh做端口转发就行了吧。没有的话好像不只是开放端口的问题？
+#quote xinxinxinxin
+
+#p 21223473 xinxinxinxin 欣 2019-10-29 14:32:38
+公网IP是有的，但是学校现在是把所有的从校外往校内访问的端口关掉了。
+我还没仔细研究，但我理解上端口转发需要有一台可访问的校外的主机或路由，并且这个校外的设备能够连接到校内的主机？
+但是校外的设备好处理，找不到一个能够连接到校内的主机？
+倒是之前有个老哥说到的一个方案准备试试，不知道是不是同一个
+#quote zeta
+
+#p 21223576 pkujy 紫电&清霜 2019-10-29 14:52:24
+ICS服务器不能git clone竟然是这个原因
 #quote xinxinxinxin
 
