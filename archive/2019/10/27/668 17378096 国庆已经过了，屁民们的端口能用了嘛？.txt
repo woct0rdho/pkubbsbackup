@@ -1,4 +1,4 @@
-#t 668 17378096 xinxinxinxin 2019-10-27 00:11:00 TPOB 2019-10-29 19:00:00
+#t 668 17378096 xinxinxinxin 2019-10-27 00:11:00 Outis 2019-10-29 21:43:00
 国庆已经过了，屁民们的端口能用了嘛？
 
 #p 21210704 xinxinxinxin 欣 2019-10-29 14:03:16
@@ -404,5 +404,21 @@ ICS服务器不能git clone竟然是这个原因
 #p 21225047 TPOB TPOB 2019-10-29 18:59:27
 好惨啊这个问题都上十大了。
 就算是家宽也没有封掉所有端口啊。
+#quote xinxinxinxin
+
+#p 21226065 xinxinxinxin 欣 2019-10-29 21:10:25
+emmmm 似乎发了站内信一天了，还没收到回复……
+#quote PKUCC
+
+#p 21226074 xinxinxinxin 欣 2019-10-29 21:11:12
+醍醐灌顶
+#quote karlmarx
+
+#p 21226081 xinxinxinxin 欣 2019-10-29 21:12:27
+emmmm 没有开放吧，不然大家都在嚎个啥
+#quote hereshui
+
+#p 21227073 Outis Outis 2019-10-29 21:42:34
+同没收到。
 #quote xinxinxinxin
 
