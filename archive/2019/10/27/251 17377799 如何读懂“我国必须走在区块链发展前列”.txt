@@ -1,4 +1,4 @@
-#t 251 17377799 bobprime 2019-10-27 00:05:00 detectivelyw 2019-10-30 01:32:00
+#t 251 17377799 bobprime 2019-10-27 00:05:00 haoyuchen 2019-10-30 05:57:00
 如何读懂“我国必须走在区块链发展前列”
 
 #p 21209961 bobprime bobprime 2019-10-27 05:11:34
@@ -285,4 +285,8 @@ The bank knows everything about you and your transfers, will you stop using it?
 Look at what happens to Facebook's Libra. The US congress and government will not allow a digital currency to challenge the US dollar. 
 Do you feel disappointed about "the land of the free"?  
 #quote wobuji
+
+#p 21228509 haoyuchen 好雨知时节 2019-10-30 05:56:37
+so bitcoin ≠ blockchain, bitcoin ≫ blockchain, there is no real blockchain other than bitcoin
+#quote detectivelyw
 
