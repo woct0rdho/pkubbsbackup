@@ -1,4 +1,4 @@
-#t 251 17377799 bobprime 2019-10-27 00:05:00 lennard 2019-10-30 01:00:00
+#t 251 17377799 bobprime 2019-10-27 00:05:00 detectivelyw 2019-10-30 01:32:00
 如何读懂“我国必须走在区块链发展前列”
 
 #p 21209961 bobprime bobprime 2019-10-27 05:11:34
@@ -263,4 +263,26 @@ And I don't see why it's a bad thing.
 #p 21228228 lennard lennard 2019-10-30 00:59:42
 本来有一万种方法去名正言顺地破拆，非得跟别人说自己留了把钥匙。我是真的不懂，到底是舍不得动脑子呢，还是仅仅想口嗨威慑一下呢？
 #quote Ryn
+
+#p 21228245 detectivelyw detectivelyw 2019-10-30 01:05:03
+The FBI, CIA, and other government agencies all over the world would sacrifice part of the personal privacy and integrity in order to track down 
+criminals and protect the larger crowd. 
+I don't see a problem with that. And that's just how the world operates. 
+Sorry to break it down to you, but I am pretty sure that the FBI or CIA won't say sorry to you if they make you feel disappointed. 
+#quote wobuji
+
+#p 21228267 detectivelyw detectivelyw 2019-10-30 01:15:28
+It's not a back door. I think we are talking about allowing the authorities to have a privileged permission to prevent malicious parties from conducting illegal transactions. 
+It's like having an admin / root user for your Linux Operating System. 
+Yeah, the root user has privileges that may be a security concern (as is in Linux). 
+But the OS still has to have it, because the pros outweigh the cons. 
+To have a fair discussion, you have to take all factors into consideration, not just to simply ignore the facts that are not on your side. 
+#quote Ryn
+
+#p 21228296 detectivelyw detectivelyw 2019-10-30 01:31:51
+There is no true integrity in the real world, especially when it comes to currencies and financial transactions. 
+The bank knows everything about you and your transfers, will you stop using it? 
+Look at what happens to Facebook's Libra. The US congress and government will not allow a digital currency to challenge the US dollar. 
+Do you feel disappointed about "the land of the free"?  
+#quote wobuji
 
