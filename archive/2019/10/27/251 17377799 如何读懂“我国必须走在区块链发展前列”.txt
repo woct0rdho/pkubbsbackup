@@ -1,4 +1,4 @@
-#t 251 17377799 bobprime 2019-10-27 00:05:00 lennard 2019-10-29 10:28:00
+#t 251 17377799 bobprime 2019-10-27 00:05:00 Arcturus 2019-10-29 11:40:00
 如何读懂“我国必须走在区块链发展前列”
 
 #p 21209961 bobprime bobprime 2019-10-27 05:11:34
@@ -179,4 +179,12 @@ So is allowing criminals exploiting blockchains / crypto currencies to commit cr
 有一说一确实，强制力的技术手段应该是各种exploits而不是明面上的机制，从来不应该亮出自己有多少手牌，从而一石三鸟地维护到处都是vulnerabilities的的"integrity"、解决应该解决的人、保持自己的正义形象。
 这种预防针式的阳谋暴露了部分人员完全没有道高一尺魔高一丈的概念，企图用一个本身可能有漏洞的系统一劳永逸地解决问题，不仅不一定能达成目的，反而落了骂名。可以说是“懒政”吧？
 #quote Ryn
+
+#p 21222337 Arcturus 坚毅的蛋挞 2019-10-29 11:38:04
+神解读：去中心化是无政府主义的第一步
+#quote bobprime
+
+#p 21222348 Arcturus 坚毅的蛋挞 2019-10-29 11:39:09
+区块链的魅力应该还在未来，现在看不到
+#quote bobprime
 

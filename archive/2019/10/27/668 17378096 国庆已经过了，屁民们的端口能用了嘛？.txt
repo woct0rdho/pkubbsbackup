@@ -1,4 +1,4 @@
-#t 668 17378096 xinxinxinxin 2019-10-27 00:11:00 Taindall 2019-10-29 11:00:00
+#t 668 17378096 xinxinxinxin 2019-10-27 00:11:00 Maxwell 2019-10-29 11:35:00
 国庆已经过了，屁民们的端口能用了嘛？
 
 #p 21210704 xinxinxinxin 欣 2019-10-27 14:52:33
@@ -309,4 +309,24 @@ IPv6 难道也被封了？
 443 9418等端口直接影响到了连接github
 你还想非root配置个什么环境？你连个包都下不来，更别提commit代码了
 #quote xinxinxinxin
+
+#p 21222134 IlIl 王铁崖 2019-10-29 11:06:59
+目前很多网络还没有支持ipv6，并且很多末端的路由器也不具备ipv6的NAT功能，所以基本上聊胜于无。
+#quote LifeMaxima
+
+#p 21222148 ljtonly naïve 2019-10-29 11:08:27
+这周在开四中全会，估计要过了这周才行
+#quote xinxinxinxin
+
+#p 21222207 LifeMaxima 嘎子 2019-10-29 11:15:53
+但校园网ipv6还算不错了
+#quote IlIl
+
+#p 21222305 shzmcxk 练习时长三年的练习生 2019-10-29 11:32:40
+我是用阿里云学生机挂frp做了个内网穿透，无奈。
+#quote xinxinxinxin
+
+#p 21222321 Maxwell Demon 2019-10-29 11:35:01
+好，支持，威武
+#quote PKUCC
 
