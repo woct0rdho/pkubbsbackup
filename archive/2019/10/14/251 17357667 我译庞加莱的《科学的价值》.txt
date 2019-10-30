@@ -1,4 +1,4 @@
-#t 251 17357667 Masonry 2019-10-14 00:01:00 Masonry 2019-10-29 23:12:00
+#t 251 17357667 Masonry 2019-10-14 00:01:00 Masonry 2019-10-30 22:31:00
 我译庞加莱的《科学的价值》
 
 #p 21091859 Masonry 东尼探长 雁园警视厅 2019-10-29 21:23:52
@@ -123,7 +123,7 @@ Great...第一段中的Tolstoi应该就是托尔斯泰的英译名，但不确�
 翻译这种东西真的好高深。
 #quote Masonry
 
-#p 21129681 Masonry 东尼探长 雁园警视厅 2019-10-26 22:05:39
+#p 21129681 Masonry 东尼探长 雁园警视厅 2019-10-30 13:15:48
 
 
 2019-10-21 22:32:23
@@ -150,7 +150,7 @@ Is mathematical analysis then, whose principal object is the study of these empt
 The best expression of this harmony is law. Law is one of the most recent conquests of the human mind; there still are people who live in the presence of a perpetual miracle and are not astonished at it. On the contrary, we it is who should be astonished at nature’s regularity. Men demand of their gods to prove their existence by miracles; but the eternal marvel is that there are not miracles without cease. The world is divine because it is a harmony. If it were rule by caprice, what could prove to us it was not ruled by chance?
 **和谐的最佳表达方式，就是定律。**定律是人类心智近来的俘虏；现在的世上，仍有人活在永远的奇迹之中却不以为怪。其实，应该惊讶于自然的规律性的，反而是我们。人常要求他的神通过奇迹显现自己；然而，最令人惊叹的是，这世上不存在恒常不逝的奇迹。世界之所以神圣，是因为它如和声般和谐。假若这世界是由谁的一己之意统治的，我们怎么知道它不是由几率统治的呢？
 This conquest of law we owe to astronomy, and just this makes the grandeur of the science rather than the material grandeur of the objects it considers. It was altogether natural then that celestial mechanics should be the first model of mathematical physics; but since then this science has developed; it is still developing, even rapidly developing. And it is already necessary to modify in certain points the scheme I outlined in 1900 and from which I drew two chapters of ‘Science and Hypothesis.’ In an address at the St. Louis exposition in 1904, I sought to survey the road traveled; the result of this investigation the reader shall see farther on. 
-对定律的征服，应当归功于天文学。是天文学，成就了不因研究物体庞大而产生的科学的壮美。因此，天体物理会成为数学物理的第一个模型，是很自然的事情；但自那之后，我们的科学已大大发展了；今天，它发展地甚至更迅速了。1900年时，我已于“Science and Hypothesis”一书中指出，科学已经发展到了必须对一些部分作修改的处境了。在1904年，我于St. Louis的讲演中曾调查了我们已走过的路；这考查的结果，读者将会在本书的后面读到。
+对定律的征服，应当归功于天文学。是天文学，成就了科学独有的壮美，这壮美不因天文学所研究物体的庞大而生。因此，天体物理会成为数学物理的第一个模型，是很自然的事情；但自那之后，我们的科学已大大发展了；今天，它发展地甚至更迅速了。1900年时，我已于“Science and Hypothesis”一书中指出，科学已经发展到了必须对一些部分作修改的处境了。在1904年，我于St. Louis的讲演中曾调查了我们已走过的路；这考查的结果，读者将会在本书的后面读到。
 The progress of science has seemed to imperil the best established principles, those even which were regarded as fundamental. Yet nothing shows they will not be saved; and if this comes about only imperfectly, they will still subsist even though they are modified. The advance of science is not comparable to the changes of a city, where old edifices are pitilessly torn down to give place to new, but to the continuous evolution of zoologic types which develop ceaselessly and end by becoming unrecognizable to the common sight, but where an expert eye finds always traces of the prior work of the centuries past. One must not think then that the old-fashioned theories have been sterile and vain. 
 **科学的前进摧毁了所有已建立的原理，包括那些我们最信任的、最根本的原理。**然而，这并不是说它们无可挽救；只要它的转变是不完全的，那就一定有一些原理在经过修饰后还能存续下去。科学的进步与城市的变化是不同的。在城市的建设中，我们心无怜悯地撕毁旧有的建筑，以给新的建筑腾地方；在科学中，进步如同动物种类的连续演变，它不断的发展，直到常人之眼已无法识别的样子，然而专家的眼睛仍可以鉴别出几世纪前造物的痕迹。因此，**不应认为旧有的理论就定是徒劳无功的了。**
 Were we to stop there, we should find in these pages some reasons for confidence in the value of science, but many more for distrusting it; an impression of doubt would remain; it is needful now to set things to rights. 
@@ -212,7 +212,7 @@ The two sorts of minds are equally necessary for the progress of science; both t
 “数学中的直觉和逻辑”的I部分已译完，因为后面一篇文章的篇幅较长，而且作者已将文章分成小的部分，我将每段都另回一贴，这也是为方便读者阅读。
 在数学中，直觉和逻辑的张力是最值得注意的事情了。庞加莱在以上文中举了一些著名数学家作为例子，具有相当的启发性。因此，再次推荐“数学中的直觉和逻辑”这篇文章。
 
-#p 21225521 Masonry 东尼探长 雁园警视厅 2019-10-29 23:33:56
+#p 21225521 Masonry 东尼探长 雁园警视厅 2019-10-30 01:29:52
 
 
 2019-10-29 20:38:19
@@ -235,19 +235,28 @@ But it would not be the same had we used concrete images, had we, for example, c
 Intuition, therefore, does not give us certainty. This is why the evolution had to happen; let us now see how it happened.
 因此，直觉并不能给我们确定性。这就是这场演变注定发生的原因；现在，让我们仔细看看它是如何发生的。
 It was not slow in being noticed that rigor could not be introduced in the reasoning unless first made to enter into the definitions. For the most part the objects treated of by mathematicians were long ill defined; they were supposed to be known because represented by means of the senses or the imagination; but one had only a crude image of them and not a precise idea on which reasoning could take hold. It was there first that the logicians had to direct their efforts. 
-严格的推理是以严格的定义作为基础的，指出这件事并不多余。总的来说，数学家们处理的对象长期以来一直是病态定义的；人们假设这些对象可以通过感官或想象来认识；但如此一来，人们就只能有一个大体印象，而没有可供严谨推理的准确概念。因此，逻辑者必须先从定义着手。
+严格的推理是以严格的定义作为基础的，特意指出来这一点并不冗余。总的来说，数学家们处理的对象长期以来一直是病态定义的；人们假设这些对象可以通过感官或想象来认识；但如此一来，人们就只能有一个大体印象，而没有可供严谨推理的准确概念。因此，逻辑者必须先从定义着手。
 So, in the case of incommensurable numbers. The vague idea of continuity, which we owe to intuition, resolved itself into a complicated system of inequalities referring to whole numbers. 
 事情对不可通约数而言，也是如此。连续性的模糊概念，是从我们的直觉而来的，而它最终被确定为一组涉及整数的复杂不等式得以解决。
 By that means the difficulties arising from passing to the limit, or from the consideration of infinitesimals, are finally removed. Today in analysis only whole numbers are left or systems, finite or infinite, of whole numbers bound together by a net of equality or inequality relations. Mathematics, as they say, is arithmetized. 
 以这种方式，我们终于解决了那些因趋向极限或考虑无穷小量造成的困难。今天，分析学中只剩下整数，以及由等式与不等式共同约束而成的整数系统。他们说，数学如今算术化了。
 (II 译完)
 
-#p 21227672 Masonry 东尼探长 雁园警视厅 2019-10-29 23:47:20
+#p 21227672 Masonry 东尼探长 雁园警视厅 2019-10-30 01:29:36
 
 
 2019-10-29 23:11:07
 在“数学中的直觉和逻辑”的II节中，庞加莱简要说明了数学家的两种倾向的历史发展，并讲述了“数学的算术化”的历史动机。
 一开始的数学家主要依赖直觉获得结果。这当然不是说，具有逻辑倾向的数学家只在近百年产生；实际上，数学家的这两种倾向早就出现了。在古希腊时，就有以欧几里得为代表的逻辑者；他做的几何原本，就是一个逻辑的建筑。
 但直觉却有严重的问题——它可能导致与逻辑不相符的直观。我们今天知道，“每条曲线都有切线”是荒谬的。然而，某个时期的数学家却相信这件事情，原因在上面原文中提到过了。因此，为追求逻辑体系的自洽，避免直觉的误导，我们被迫走向逻辑化；这过程是缓慢的；直到最近，分析学才获得了一个完整而严谨的逻辑基础，这被称作“数学的算术化”。因为这种发展，现代数学具有了更严格的逻辑要求，直觉者也必须服从这种新的数学规范。然而，数学家不应将逻辑看作或当作心智的镣铐，而应看作事实的内在和谐的保障。直觉也不能丢弃，后文庞加莱将提到，它是我们唯一的向导。
-原文中的这段文字，概括了当今数学分析样貌的成因：
+原文中的这段文字，简述了数学分析呈现如今样貌的原因：
+
+#p 21234976 Miky Mike 2019-10-30 22:04:37
+楼主请继续。
+楼主，普利斯狗昂。
+#quote Masonry
+
+#p 21235293 Masonry 东尼探长 雁园警视厅 2019-10-30 22:30:10
+后天晚上会把III、IV一并放出来，敬请期待
+#quote Miky
 
