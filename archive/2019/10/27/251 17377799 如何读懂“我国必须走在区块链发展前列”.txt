@@ -1,4 +1,4 @@
-#t 251 17377799 bobprime 2019-10-27 00:05:00 haoyuchen 2019-10-30 05:57:00
+#t 251 17377799 bobprime 2019-10-27 00:05:00 wobuji 2019-10-30 12:28:00
 如何读懂“我国必须走在区块链发展前列”
 
 #p 21209961 bobprime bobprime 2019-10-27 05:11:34
@@ -288,5 +288,17 @@ Do you feel disappointed about "the land of the free"?
 
 #p 21228509 haoyuchen 好雨知时节 2019-10-30 05:56:37
 so bitcoin ≠ blockchain, bitcoin ≫ blockchain, there is no real blockchain other than bitcoin
+#quote detectivelyw
+
+#p 21230061 wobuji 胖纸对撞基 2019-10-30 12:27:55
+我是真不太理解break down to you ……我建议我们可以换一种语言交流，比如通用英语
+By saying destroy......I think maybe we should expect an instrument somewhat better than what we have now. If we create a copy of the RMB currency to block chain and assume the same level of control......why the bother? 
+I understand your urge to defend the current system, and I don't oppose it, but life sounds boring if you are around 20 and thinking like 50. It's okay to think that a government can have superuser access, it is just not the way cryptocurrencies work as currencies. The first and sole essence of currency is trust, and no one will trust a currency with a superuser. 
+To speak of PC, there is a superuser because there are guest users. What a superuser can do is what a PC can do. You might be warned not to 'remember password' on public computers, same idea. 
+你说Linux有sudo是因为你自己是root，你觉得自己不是root的系统你会放心用吗
+To speak of Libra, Zack has been arguing that it's a payment method, not new currency, but Congress did not listen. Do you have any sense our central bank is issuing a new currency, persumably RMC?
+美国否决libra因为他们觉得FB在发行新的货币，挑战铸币权。我国央行有一点像是要发行新的货币的样子吗
+DON'T pull examples into the discussion before you understand them......sounds illogical, or illiterate. 
+再中文说一遍吧：自己搞不清楚的例子就不要乱用了，不仅暴露出知识面的狭窄，还充分展现自己逻辑能力的缺失
 #quote detectivelyw
 
