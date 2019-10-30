@@ -1,4 +1,4 @@
-#t 251 17377799 bobprime 2019-10-27 00:05:00 bery 2019-10-30 14:41:00
+#t 251 17377799 bobprime 2019-10-27 00:05:00 wobuji 2019-10-30 23:40:00
 如何读懂“我国必须走在区块链发展前列”
 
 #p 21209961 bobprime bobprime 2019-10-27 05:11:34
@@ -261,6 +261,7 @@ And I don't see why it's a bad thing.
 #quote Ryn
 
 #p 21228228 lennard lennard 2019-10-30 00:59:42
+#DELETED
 本来有一万种方法去名正言顺地破拆，非得跟别人说自己留了把钥匙。我是真的不懂，到底是舍不得动脑子呢，还是仅仅想口嗨威慑一下呢？
 #quote Ryn
 
@@ -305,4 +306,9 @@ DON'T pull examples into the discussion before you understand them......sounds i
 #p 21232343 bery 你的投降，要出于你的自由意志。 2019-10-30 14:40:07
 没准下一代纸币真这么搞了
 #quote wobuji
+
+#p 21235622 wobuji 胖纸对撞基 2019-10-30 23:40:14
+人口袋里的钞票和现在常见的天网系统平均距离得有5-10米吧，有什么靠谱的系统可以做到吗
+钞票本身又不能太厚
+#quote bery
 
