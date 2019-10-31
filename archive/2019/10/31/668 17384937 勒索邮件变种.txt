@@ -1,0 +1,10 @@
+#t 668 17384937 InitialD 2019-10-31 16:19:00 InitialD 2019-10-31 16:19:00
+勒索邮件变种
+
+#p 21238937 InitialD 我是你爸 2019-10-31 16:18:18
+之前见到的勒索邮件和大家反应的一样，今天看到了一个变种。
+题目：The decision to suspend your account. Waiting for payment.
+发件人 :        elizabeth@elizabethgibson.co.uk
+希望北大邮箱可以甄别假的邮箱，这个一看就是假的。我查了一下信头。上一次那个和大家一样的勒索信是菲律宾的
+ip，这次这个查阅是柬埔寨的。初步猜测是东南亚的2B诈骗团伙。
+
