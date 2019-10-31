@@ -1,0 +1,22 @@
+#t 668 17384532 RyanBern 2019-10-31 11:19:00 PKUCC 2019-10-31 11:42:00
+校内资源访问系统应该关闭 ssh key 方式
+
+#p 21237281 RyanBern r.bern 2019-10-31 11:21:41
+
+
+2019-10-31 11:19:01
+起因在这
+[https://bbs.pku.edu.cn/v2/post-read.php?bid=668&amp;threadid=17383984](post-read.php?bid=668&amp;threadid=17383984)
+花了一点时间试了一下 ssh 服务的 key 功能，总算用明白了。总共有两种方式
+**方式一：**用户在密钥管理中上传自己的 ssh 私钥和密码，然后保存供连接使用。
+**方式二：**用户在连接的时候手动选择 ssh 私钥文件，并指定密码（或在连接的时候输入）。
+在这里要求 ssh 私钥是**纯文本的 dos 格式**，使用 PuTTY 等工具生成的 .ppk 文件或者是有 unix 换行方式的文件不能识别。
+这个用法是错误的。因为** ssh 私钥在何种情况下都不应该传到别的地方，即使有了密码保护**。我理解 ssh 连接是校内资源访问系统的服务器发起的，那么必定在同一时刻服务器将会同时拿到 ssh 私钥和 passphrase。更多讨论可以参考
+[https://superuser.com/questions/522095/isnt-it-dangerous-to-use-ssh-keys-to-login-to-an-unknown-compromised-server](jump-to.php?url=https%3A%2F%2Fsuperuser.com%2Fquestions%2F522095%2Fisnt-it-dangerous-to-use-ssh-keys-to-login-to-an-unknown-compromised-server)
+[https://www.quora.com/What-happens-if-my-SSH-private-key-is-compromised](jump-to.php?url=https%3A%2F%2Fwww.quora.com%2FWhat-happens-if-my-SSH-private-key-is-compromised)
+总结起来，如字面意义，ssh 私钥就是需要保存在本地 PC 中，资源服务器不应该向用户索取私钥。望删除这个功能。
+
+#p 21237383 PKUCC 北京大学计算中心 2019-10-31 11:41:32
+收到，谢谢你的反馈！争取让每个用户可以选择性关闭这个功能。
+#quote RyanBern
+
