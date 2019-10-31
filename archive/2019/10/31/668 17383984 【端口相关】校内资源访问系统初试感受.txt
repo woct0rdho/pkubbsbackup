@@ -1,4 +1,4 @@
-#t 668 17383984 RyanBern 2019-10-31 00:00:00 RyanBern 2019-10-31 14:36:00
+#t 668 17383984 RyanBern 2019-10-31 00:00:00 albertfreud 2019-10-31 15:05:00
 【端口相关】校内资源访问系统初试感受
 
 #p 21235718 RyanBern r.bern 2019-10-31 14:21:04
@@ -146,4 +146,8 @@ VPN电信通入口: [https://vpnp.pku.edu.cn](jump-to.php?url=https%3A%2F%2Fvpnp
 #p 21238088 RyanBern r.bern 2019-10-31 14:35:37
 vpn 其实还有一个不好的地方，就是它动用了全局网络设置。在我们使用的时候基本上只有一两个服务需要入校。虽然也有办法配置本地哪些流量走 vpn 哪些流量直连就是了，但是很麻烦。
 #quote ChairmanJ
+
+#p 21238192 albertfreud ^_^ 2019-10-31 15:04:51
+顶22端口问题
+#quote RyanBern
 
