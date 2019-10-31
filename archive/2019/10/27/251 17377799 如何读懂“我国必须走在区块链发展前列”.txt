@@ -1,4 +1,4 @@
-#t 251 17377799 bobprime 2019-10-27 00:05:00 wobuji 2019-10-30 23:40:00
+#t 251 17377799 bobprime 2019-10-27 00:05:00 Ryn 2019-10-31 13:36:00
 如何读懂“我国必须走在区块链发展前列”
 
 #p 21209961 bobprime bobprime 2019-10-27 05:11:34
@@ -311,4 +311,8 @@ DON'T pull examples into the discussion before you understand them......sounds i
 人口袋里的钞票和现在常见的天网系统平均距离得有5-10米吧，有什么靠谱的系统可以做到吗
 钞票本身又不能太厚
 #quote bery
+
+#p 21237809 Ryn 大酸葡萄 2019-10-31 13:35:14
+You simply know nothing about security. It is worthless to discuss with you.
+#quote detectivelyw
 
