@@ -1,0 +1,10 @@
+#t 668 17385992 pkuwx 2019-11-01 09:36:00 PKUCC 2019-11-01 09:54:00
+SPSS24无许可证文件
+
+#p 21241656 pkuwx 杀人放火小兔子 2019-11-01 09:36:28
+在software下载的SPSS24没有网络许可证和许可证文件，请问应该怎么办
+
+#p 21241743 PKUCC 北京大学计算中心 2019-11-01 09:53:56
+相关的安装及使用帮助可从北京大学图书馆主页中工具与软件栏获取。 [https://www.lib.pku.edu.cn/portal/cn/zy/software](jump-to.php?url=https%3A%2F%2Fwww.lib.pku.edu.cn%2Fportal%2Fcn%2Fzy%2Fsoftware)
+#quote pkuwx
+
