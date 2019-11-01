@@ -1,7 +1,7 @@
-#t 251 17357667 Masonry 2019-10-14 00:01:00 Masonry 2019-11-01 17:08:00
+#t 251 17357667 Masonry 2019-10-14 00:01:00 Masonry 2019-11-02 00:44:00
 译庞加莱的《科学的价值》
 
-#p 21091859 Masonry 东尼探长 雁园警视厅 2019-10-30 23:07:49
+#p 21091859 Masonry 东尼探长 雁园警视厅 2019-11-02 00:45:38
 
 
 2019-10-14 01:58:37
@@ -17,8 +17,10 @@
         13楼 [https://bbs.pku.edu.cn/v2/post-read-single.php?bid=251&amp;postid=21129681](post-read-single.php?bid=251&amp;postid=21129681)
 **第一部分 数学科学**
 1. 数学中的直觉与逻辑
-    I   15楼 [https://bbs.pku.edu.cn/v2/post-read-single.php?bid=251&amp;postid=21211679](post-read-single.php?bid=251&amp;postid=21211679)
-    II  17楼 [https://bbs.pku.edu.cn/v2/post-read-single.php?bid=251&amp;postid=21225521](post-read-single.php?bid=251&amp;postid=21225521)
+    I     15楼 [https://bbs.pku.edu.cn/v2/post-read-single.php?bid=251&amp;postid=21211679](post-read-single.php?bid=251&amp;postid=21211679)
+    II    17楼 [https://bbs.pku.edu.cn/v2/post-read-single.php?bid=251&amp;postid=21225521](post-read-single.php?bid=251&amp;postid=21225521)
+    III   21楼 [https://bbs.pku.edu.cn/v2/post-read-single.php?bid=251&amp;postid=21243927](post-read-single.php?bid=251&amp;postid=21243927)
+    IV   22楼 [https://bbs.pku.edu.cn/v2/post-read-single.php?bid=251&amp;postid=21246571](post-read-single.php?bid=251&amp;postid=21246571)
 2. 时间的测量
 3. 空间的观念
 4. 空间和它的三个维度
@@ -212,7 +214,7 @@ The two sorts of minds are equally necessary for the progress of science; both t
 “数学中的直觉和逻辑”的I部分已译完，因为后面一篇文章的篇幅较长，而且作者已将文章分成小的部分，我将每段都另回一贴，这也是为方便读者阅读。
 在数学中，直觉和逻辑的张力是最值得注意的事情了。庞加莱在以上文中举了一些著名数学家作为例子，具有相当的启发性。因此，再次推荐“数学中的直觉和逻辑”这篇文章。
 
-#p 21225521 Masonry 东尼探长 雁园警视厅 2019-10-31 00:47:54
+#p 21225521 Masonry 东尼探长 雁园警视厅 2019-11-01 17:16:54
 
 
 2019-10-29 20:38:19
@@ -223,9 +225,9 @@ Intuition and Logic in Mathematics
 Strange! If we read over the works of the ancients we are tempted to class them all among the intuitionalists. And yet nature is always the same; it is hardly probable that it has begun in this century to create minds devoted to logic. If we could put ourselves into the flow of ideas which reigned in their time, we should recognize that many of the old geometers were in tendency analysts. Euclid, for example, erected a scientific structure wherein his contemporaries could find no fault. In this vast construction, of which each piece however is due to intuition, we may still to-day without much effort, recognize the work of a logician.
 奇怪！若去读早期数学家的著作，我们会觉得他们都是直觉者。然而，自然从那时到现在无甚变化；要说自然在本世纪才开始创造擅长逻辑的心智，实在不太可能。假如我们能设身处地，想象自己身处于当时的思想源流中，我们会发现，那时就有许多几何学家具有分析学家的倾向。比如，欧几里得构筑的那个科学结构，在他的时代看起来是无可挑剔的。在这个宏伟的建构中，每一个部件都依直觉产生，但这在今天看来无疑是个逻辑者的杰作。
 It is not minds that have changed, it is ideas; the intuitional minds have remained the same; but their readers have required of them greater concessions. 
-改变的并非心智，而是想法；直觉的心智仍和原来一样；不过，如今读者却要求他们作出更多退让。
+**改变的并非心智，而是想法；直觉的心智仍和原来一样；不过，如今读者却要求他们作出更多退让。**
 What is the cause of this evolution? It is not hard to find. Intuition can not give us rigor, nor even certainty; this has been recognized more and more. Let us cite some examples. We know there exist continuous functions lacking derivatives. Nothing is more shocking to intuition than this proposition which is imposed upon us by logic. Our fathers would not have failed to say:”It is evident that every continuous function has a derivative, since every curve has a tangent.”
-是什么引起了这种演变？这不难回答。因为直觉不能给我们严格性，甚至连确定性也不能保证；这一点，我们近来看得愈发清楚。让我举几个例子。我们知道，存在着一个不可导的连续函数。没有什么比这更令我们的直觉震惊了，但这结论正是逻辑强加于我们的。我们的父辈却会毫不顾忌地说：“显然，每个连续函数均有导函数，因为每条曲线都有切线。”
+是什么引起了这种演变？这不难回答。**因为直觉不能给我们严格性，甚至连确定性也不能保证；**这一点，我们近来看得愈发清楚。让我举几个例子。我们知道，存在着一个不可导的连续函数。没有什么比这更令我们的直觉震惊了，但这结论正是逻辑强加于我们的。我们的父辈却会毫不顾忌地说：“显然，每个连续函数均有导函数，因为每条曲线都有切线。”
 How can intuition deceive us on this point? It is because when we seek to imagine a curve, we can not represent it to ourselves without width; just so, when we represent to ourselves a straight line, we see it under the form of a rectilinear band of a certain breadth. We well know these line have no width; we try to imagine them narrower and narrower and thus to approach the limit; so we do in a certain measure, but we shall never attain this limit. And then it is clear we can always picture these two narrow bands, one straight, one curved, in a position such that they encroach slightly one upon the other without crossing. We shall thus be led, unless warned by a rigorous analysis, to conclude that a curve always has a tangent. 
 为什么直觉会在这一问题上欺骗我们？这是因为，我们在想象中画出一条曲线时，无法将它真正地表示为无宽度的曲线；同理，在想象直线时，我们看到的也是一个具宽度的直线。我们心中知道，这些线条没有宽度；因此我们把它想象得越来越细以趋近一个极限；我们可以做到某个程度，但却永不能真正达到这个极限。到此，事情已经清楚了：当我们想象的是一直一弯两个细带，当然可以使它们刚好触碰而不至于穿过彼此。若没有严格的分析学作为警戒，我们就会断言：每个曲线都有切线。
 I shall take as second example Dirichlet’s principle on which rest so many theorems of mathematical physics; to-day we establish it by reasonings very rigorous but very long; heretofore, on the contrary, we were content with a very summary proof. A certain integral depending on an arbitrary function can never vanish. Hence it is concluded that it must have a minimum. The flaw in this reasoning strikes us immediately, since we use the abstract term function and are familiar with all the singularities functions can present when the word is understood in the most general sense. 
@@ -235,12 +237,12 @@ But it would not be the same had we used concrete images, had we, for example, c
 Intuition, therefore, does not give us certainty. This is why the evolution had to happen; let us now see how it happened.
 因此，直觉并不能给我们确定性。这就是为什么这场演变注定要发生；现在，让我们仔细看看它是如何发生的。
 It was not slow in being noticed that rigor could not be introduced in the reasoning unless first made to enter into the definitions. For the most part the objects treated of by mathematicians were long ill defined; they were supposed to be known because represented by means of the senses or the imagination; but one had only a crude image of them and not a precise idea on which reasoning could take hold. It was there first that the logicians had to direct their efforts. 
-严格的推理是以严格的定义作为基础的，特意指出来这一点并不冗余。总的来说，数学家们处理的对象长期以来一直是病态定义的；人们假设这些对象可以通过感官或想象来认识；但如此一来，人们就只能有一个大体印象，而没有可供严谨推理的准确概念。因此，逻辑者必须先从定义着手。
+严格的推理是以严格的定义作为基础的，特意指出来这一点并不冗余。总的来说，数学家们处理的对象长期以来一直是病态定义的；人们假设这些对象可以通过感官或想象来认识；但如此一来，人们就只能有一个大体印象，而没有可供严谨推理的准确概念。**因此，逻辑者必须先从定义着手。**
 So, in the case of incommensurable numbers. The vague idea of continuity, which we owe to intuition, resolved itself into a complicated system of inequalities referring to whole numbers. 
 事情对不可通约数而言，也是如此。连续性的模糊概念，是从我们的直觉而来的，而它最终被确定为一组涉及自然数的复杂不等式得以解决。
 （注：whole numbers，其实是我们说的自然数：0, 1, 2, 3, 4... ）
 By that means the difficulties arising from passing to the limit, or from the consideration of infinitesimals, are finally removed. Today in analysis only whole numbers are left or systems, finite or infinite, of whole numbers bound together by a net of equality or inequality relations. Mathematics, as they say, is arithmetized. 
-以这种方式，我们终于解决了那些因趋向极限或考虑无穷小量造成的困难。今天，分析学中只剩下自然数，以及由等式与不等式共同约束而成的自然数系统。他们说，数学被算术化了。
+以这种方式，我们终于解决了那些因趋向极限或考虑无穷小量造成的困难。今天，分析学中只剩下自然数，以及由等式与不等式共同约束而成的自然数系统。他们说，**数学被算术化了**。
 (II 译完)
 
 #p 21227672 Masonry 东尼探长 雁园警视厅 2019-10-30 01:29:36
@@ -261,7 +263,7 @@ By that means the difficulties arising from passing to the limit, or from the co
 后天晚上会把III、IV一并放出来，敬请期待
 #quote Miky
 
-#p 21243927 Masonry 东尼探长 雁园警视厅 2019-11-01 17:08:36
+#p 21243927 Masonry 东尼探长 雁园警视厅 2019-11-01 22:23:45
 
 
 2019-11-01 17:07:17
@@ -270,19 +272,45 @@ Intuition and logic in mathematics
 **III**
 **三**
 A first question presents itself. Is this evolution ended? Have we finally attained absolute rigor? At each stage of the evolution our fathers also thought they had reached it. If they deceived themselves, do we not likewise cheat ourselves?
-一个问题出现了。这演变在今天终止了吗？我们终于达到绝对严格了吗？在演变中的每个时期，我们的父辈都自认为达到完全的严格了。如果他们都是在欺骗自己，那我们会不会也在自我欺骗呢？
+一个问题出现了。这演变在今天结束了吗？**我们终于达到了绝对的严格吗？**在这演变的每个时期，我们的父辈都自认为达到完全的严格了。如果他们都欺骗了自己，那我们会不会也在自我欺骗呢？
 We believe that in our reasonings we no longer appeal to intuition; the philosophers will tell us this is an illusion. Pure logic could never lead us to anything but tautologies; it could create nothing new; not from it alone can any science issue. In one sense these philosophers are right; to make arithmetic, as to make geometry, or to make any science, something else than pure logic is necessary. To designate this something else we have no word other than intuition. But how many different ideas are hidden under this same word?
-我们确信，我们的推理已不再依赖于直觉了；哲学家会说这是个错觉。纯逻辑只能给我们重言式；它不能创造新的事物；只凭逻辑，科学是无法产生的。在某个意义上，这些哲学家说的没错；为创造算术，或创造几何，或创造任何一门科学，一些逻辑之外的东西是必需的。要形容这种东西，我除“直觉”外想不到更好的词了。但在“直觉”这一词之下，究竟藏了多少不同的意思？
+我们相信，推理已无须依赖于直觉了；但哲学家会告诉我们，这是个错觉。**纯逻辑只能给我们重言式；它不能创造任何新的事物；单凭逻辑，是无法产生科学的。**在特定的意义下，这些哲学家说的没错；为创造算术，创造几何，或创造任何一门科学，一些逻辑之外的东西是必需的。要形容这种东西，除“直觉”外我想不到更好的词了。**但在“直觉”这一词之下，究竟藏了多少种不同的意思呢？**
 Compare these four axioms: (1) Two quantities equal to a third are equal to one another; (2) if a theorem is true of number 1 and if we prove that it is true of n+1 if true for n, then will it be true of all whole numbers; (3) if on a straight the point C is between A and B and the point D between A and C, then the point D will be between A and B; (4) through a given point there is not more than one parallel to a give straight. 
-比较下面四个公理：（1）若两个量同时与第三个量相等，那么这两个量亦相等；（2）如果一个定理对自然数“1”成立且我们证明了它在对n成立时必对n+1成立，那么这个定理对所有自然数都将成立；（3）如果在一条直线上，点C位于A和B之间，而点D位于A和C之间，那么点D也在A、B之间；（4）给定一条直线，给定一点，则在该点上至多仅能做一条与给定直线平行的直线。
+比较下面四条公理：（1）若两个量同时与第三个量相等，那么这两个量亦相等；（2）如果一个定理对自然数“1”成立且我们证明了它在对n成立时必对n+1成立，那么这个定理对所有自然数都将成立；（3）如果在一条直线上，点C位于A和B之间，而点D位于A和C之间，那么点D也在A、B之间；（4）给定一条直线，给定一点，则在该点上至多仅能做一条与给定直线平行的直线。
 All four are attributed to intuition, and yet the first is the enunciation of one of the rules of formal logic; the second is a real synthetic a priori judgement, it is the foundation of rigorous mathematical induction; the third is an appeal to the imagination; the fourth is a disguised definition. 
-这四个公理都可归于直觉，但第一个是对形式逻辑中的一条规则的阐述；第二个是一个真正的合成性的先验判断，它构成了严格数学归纳的基础；第三个需要诉诸想象；第四个其实是一个被掩藏的定义。
+这四条公理都可归于直觉，但第一条是在阐述形式逻辑中的一条规则；第二条，是一个真正的合成性的先验判断，它构成了严格数学归纳的基础；第三条需要诉诸想象；第四条其实是一个被掩藏的定义。
 Intuition is not necessarily founded on the evidence of the senses; the senses would soon become powerless; for example, we can not represent to ourselves a chiliagon, and yet we reason by intuition on polygons in general, which include the chiliagon as a particular case. 
-直觉不一定建立要在感官证据之上；我们的感官很容易就变得束手无策；比如，我们不能想象一个千边形，然而我们却仍可以根据直觉对多边形进行一般的推理，千边形则作为一般推理的一个特例。
+**直觉不一定要建立在感官的证据上；我们的感官很快就无能为力了**；比如，我们不能想象一个千边形，然而我们却可以凭直觉对多边形进行一般的推理，而千边形则是一般推理的一个特例。
 You know what Poncelet understood by the principle of continuity. What is true of a real quantity, said Poncelet, should be true of an imaginary quantity; what is true of hyperbola whose asymptotes are real, should then be true of the ellipse whose asymptotes are imaginary. Poncelet was one of the most intuitive minds of this century; he was passionately, almost ostentatiously, so; he regarded the principle of continuity as one of his boldest conceptions, and yet this principle did not rest on the evidence of the senses. To assimilate the hyperbola to the ellipse was rather to contradict this evidence. It was only a sort of precocious and instinctive generalization which, moreover, I have no desire to defend. 
-你或许知道Poncelet是怎么看待连续原理的。他说，对实数成立的，对虚数也必定成立；对具有实渐近线的双曲线成立的，对具有虚渐近线的椭圆也必定成立 。Poncelet的心智大概是本世纪最直觉的了；他热情地，几乎炫耀地显示着这一特性；他将连续原理看作他最大胆的构想之一，然而这个构想却不依赖于感官的证据。要将双曲线与椭圆同化，反而与感官证据背道而驰。那不过是一种出于本能的、过度早熟的泛化，而我并不想为之辩护。
+你或许知道，Poncelet是怎么理解连续原理的。他说，对实数成立的，对虚数也必定成立；对具有实渐近线的双曲线成立的，对具有虚渐近线的椭圆也必定成立 。Poncelet的心智大概是本世纪最直觉的了；他热情地，几乎炫耀地显示着他的直觉；他将连续原理看作他最大胆的构想之一，然而这个构想却不依赖于感官的证据。要将双曲线吸收到椭圆之中，反而是与感官证据背道而驰。那不过是一种出于本能的、过度早熟的泛化，而我并不想为之辩护。
 We have then many kinds of intuition; first, the appeal to the sense and the imagination; next, generalization by induction, copied, so to speak, from the procedures of the experimental sciences; finally, we have intuition of pure number, where arose the second of the axioms just enunciated, which is able to create the real mathematical reasoning. I have shown above by examples that the first two can not give us certainty; but who will seriously doubt the third, who will doubt arithmetic?
-因此，我们的直觉其实有许多种；第一种，是诉诸感官和想象的直觉；第二种，是由归纳产生的泛化，这种直觉可以说是从实验科学的程序中借鉴的；最终，我们还有关于纯数字的直觉，正是它给了我们上述第二个公理，让我们学会真正的数学推理。我已经说明了，前两种直觉并不能给我们确定性；然而，谁会怀疑第三种直觉，谁会怀疑算术呢？
+**所以，我们的直觉其实有许多种；**第一种，是诉诸**感官和想象**的直觉；第二种，是由**归纳**产生的泛化，这种直觉可以说是从实验科学的程序中借鉴的；最终，我们还有关于**纯数字**的直觉，正是它给了我们上述的第二条公理，教会我们真正的数学推理。我已经说明了，前两种直觉并不能给我们确定性；然而，谁会怀疑第三种直觉，谁会怀疑算术呢？
 Now in the analysis of today, when one cares to take the trouble to be rigorous, there can be nothing but syllogisms or appeals to this intuition of pure number, the only intuition which can not deceive us. It may be said that to-day absolute rigor is attained. 
-在当今的分析学中，若一个人愿意自找麻烦追求严格，他其实也只是把三段论用于数字直觉罢了，只有这种直觉不会欺骗我们。可以说，在今天的分析学中，我们已达到了完全的严格。
+在当今的分析学中，若某个人愿意自找麻烦追求严格，他其实也只是把三段论用于数字直觉罢了，只有这种直觉不会欺骗我们。**可以说，在今天的分析学中，我们已达到了完全的严格。**
+（III 译完）
+
+#p 21246571 Masonry 东尼探长 雁园警视厅 2019-11-02 00:44:29
+
+
+2019-11-02 00:43:22
+Intuition and logic in mathematics
+数学中的直觉和逻辑
+**IV**
+**四**
+The philosophers make still another objection:” What you gain in rigor,” they say, “you lose in objectivity. You can rise toward your logical ideal only by cutting the bonds which attach you to reality. Your science is infallible, but it can only remain so by imprisoning itself in an ivory tower and renouncing all relation with the external world. From this seclusion it must go out when it would attempt the slightest application. ”
+哲学家们又发出了另一种反对的声音：“你在严格上的‘得’，均是在客观上的‘失’。你尽可以上升到那逻辑的理想境地，但你就必须割断与现实的所有联系。虽然你的这门学问无懈可击，但它注定只能永远地囚禁在与世隔绝的象牙塔里。如果它想要获得哪怕一点应用，就必须走出这种孤僻。”
+For example, I seek to show that some property pertains to some object whose concepts seems to me at first indefinable, because it is intuitive. At first I fail or must content myself with approximate proofs; finally I decide to give to my object a precise definition, and this enables me to establish this property in an irreproachable manner. 
+举一个例子。假设我现在要说明一个对象具有某个性质，但因为这对象出于直觉的，它的概念在一开始无法严格定义。那么，我要么接受失败，要么就得满足于一个模糊的证明；后来，我终于能给这个对象一个精确的定义，这时我才能无可反驳地建立起这个结果。
+“And then,” say the philosophers, “it still remains to show that the object which corresponds to this definition is indeed the same made known to you by intuition; or else that some real and concrete object whose conformity with your intuitive idea you believe you immediately recognize corresponds to your new definition. Only then could you affirm that it has the property in question. You have only displaced the difficulty. ”
+“即便如此，”这些哲学家说道，“我们还是无法确定，你所定义的对象就是你直觉中的那个对象；我们也无法确定，你直觉中的对象所代表的那个真实物体，和你用逻辑定义的对象是否一致。只有确认了这两点，你才能断言，你研究的对象具有你用逻辑证明的性质。你不过，是将困难转移了而已。”
+That is not exactly so; the difficulty has not been displaced, it has been divided. The proposition to be established was in reality composed of two different truths, at first not distinguished. The first was a mathematical truth, and it is now rigorously established. The second was an experimental verity. Experience alone can teach us that some real and concrete object corresponds or does not correspond to some abstract definition. This second verity is not mathematically demonstrated, but neither can it be, no more than can the empirical laws of physical and natural sciences. It would be unreasonable to ask more. 
+事情并非如此；我们不是把困难转移，而是把它分解了。那个待建立的命题其实包括两个不同的真理，而它们原先无法分辨。第一个是数学上的真理，我们已经把它严格地建立了。第二个则是实验上的真理。只有经验能告诉我们，一个真实对象是否对应于某个抽象定义。第二个真理在数学上没有被证明，也不能被证明，就像那些物理科学和自然科学的经验定律一样。若还要求得更多，就不合乎理性了。
+Well, is it not a great advance to have distinguished what long was wrongly confused? Does this mean that nothing is left of this objection of the philosophers? That I do not intend to say; in becoming rigorous, mathematical science takes a character so artificial as to strike every one; it forgets its historical origins; we see how the questions can be answered, we no longer see how and why they are put.
+我们已经把两个长期混淆的事物区分了，这难道不是很大的进步吗？但是这能说明哲学家的疑虑被完全打消了吗？我并不是这个意思；在严格化的过程中，数学科学已具有了太过人为的特征；它忘记了自己的历史渊源；我们只能看到问题如何被解答，却看不到问题是如何、因何而被提出的。
+This shows us that logic is not enough; that the science of demonstration is not all science and that intuition must retain its role as complement, I was about to say, as counterpoise or as antidote of logic.
+这告诉我们，只有逻辑是不够的；证明的学问并非科学的全部，而直觉必须保留它与逻辑互补的角色，甚至充当逻辑的解毒药。
+I have already had occasion to insist on the place intuition should hold in the teaching of the mathematical sciences. Without it young minds could not make a beginning in the understanding of mathematics; they could not learn to love it and would see in it only a vain logomachy; above all, without intuition they would never become capable of applying mathematics. But now I wish before all to speak of the role of intuition in science itself. If it is useful to the student, it is still more so to the creative scientist. 
+我现在终于得到一个机会，来主张直觉在数学教育中的地位了。若没有直觉，年轻人永远也不能开始理解数学；他们也不可能学会热爱数学，而只会把它当成无聊的文字游戏；更重要的是，若没有直觉，他们就永远都无法掌握应用数学的能力。然而，我现在更希望讨论的是，直觉在科学中的重要性。如果直觉对学生都如此重要，那它对创造性的科学家就更是如此了。
+（IV 译完）
+（参考了@Miky的翻译，十分感谢）
 

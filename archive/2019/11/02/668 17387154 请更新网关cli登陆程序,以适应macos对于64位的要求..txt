@@ -1,0 +1,6 @@
+#t 668 17387154 cursebreaker 2019-11-02 00:05:00 cursebreaker 2019-11-02 00:05:00
+请更新网关cli登陆程序,以适应macos对于64位的要求.
+
+#p 21246452 cursebreaker Cascadia 2019-11-02 00:04:13
+RT现在挂在网站上的是32位的.
+
