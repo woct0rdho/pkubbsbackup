@@ -1,4 +1,4 @@
-#t 251 17377799 bobprime 2019-10-27 00:05:00 zhangyuqi 2019-11-02 15:24:00
+#t 251 17377799 bobprime 2019-10-27 00:05:00 wobuji 2019-11-02 21:41:00
 如何读懂“我国必须走在区块链发展前列”
 
 #p 21209961 bobprime bobprime 2019-10-27 05:11:34
@@ -338,4 +338,8 @@ yes,  but only be traced manually， unlike chip, traced by  computer alarm syst
 #p 21248431 zhangyuqi 张 2019-11-02 15:23:28
 what if the authorities ARE the most malicious party？ who trace them?
 #quote detectivelyw
+
+#p 21249644 wobuji 胖纸对撞基 2019-11-02 21:40:49
+参考ETC？只要布置足够的扫描器就行
+#quote pkusole
 
