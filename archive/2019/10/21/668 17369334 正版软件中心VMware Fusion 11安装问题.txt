@@ -1,4 +1,4 @@
-#t 668 17369334 tyzhang 2019-10-21 00:17:00 yuguorui 2019-10-27 00:19:00
+#t 668 17369334 tyzhang 2019-10-21 00:17:00 johnjim 2019-11-02 14:10:00
 正版软件中心VMware Fusion 11安装问题
 
 #p 21128019 tyzhang 夏隐、 2019-10-21 17:03:51
@@ -11,5 +11,13 @@
 #p 21212502 yuguorui yuguorui 2019-10-27 19:52:02
 你在那个商店花了0元购买之后，在订单确认页面应该可以看到一个序列号。
 页面关闭了也可以重新打开订单详情页面找到序列号的。
+#quote tyzhang
+
+#p 21248182 johnjim JJ 2019-11-02 14:09:19
+下载中心找到fusion的mac版本下载安装，提示需要序列号；  
+再到首页找到VMware学术订阅菜单栏，这时候找到如下蓝色标亮文字
+[点击这里开始使用VMware Academic Subscription Store]([https://e5.onthehub.com/WebStore/ProductsByMajorVersionList.aspx?cmi_cs=1&amp;cmi_mnuMain=f4b2ea63-9ba9-e511-9413-b8ca3a5db7a1&amp;ws=1791333c-2308-e711-9427-b8ca3a5db7a1&amp;vsro=8](jump-to.php?url=https%3A%2F%2Fe5.onthehub.com%2FWebStore%2FProductsByMajorVersionList.aspx%3Fcmi_cs%3D1%26cmi_mnuMain%3Df4b2ea63-9ba9-e511-9413-b8ca3a5db7a1%26ws%3D1791333c-2308-e711-9427-b8ca3a5db7a1%26vsro%3D8))  
+点击可进入北大购买网站，下单就会看到序列号(0元)；  
+然后在跳到安装界面输入序列号继续就OK了
 #quote tyzhang
 
