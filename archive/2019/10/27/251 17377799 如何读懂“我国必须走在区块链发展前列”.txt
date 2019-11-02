@@ -1,4 +1,4 @@
-#t 251 17377799 bobprime 2019-10-27 00:05:00 pkusole 2019-10-31 21:04:00
+#t 251 17377799 bobprime 2019-10-27 00:05:00 zhangyuqi 2019-11-02 15:24:00
 如何读懂“我国必须走在区块链发展前列”
 
 #p 21209961 bobprime bobprime 2019-10-27 05:11:34
@@ -316,7 +316,26 @@ DON'T pull examples into the discussion before you understand them......sounds i
 You simply know nothing about security. It is worthless to discuss with you.
 #quote detectivelyw
 
-#p 21240033 pkusole pku馊了 2019-10-31 21:03:46
-无电源的芯片无法用于定位吧。
+#p 21240033 pkusole pku馊了 2019-10-31 21:04:28
+
+
+2019-10-31 21:03:46
+无电源只靠芯片无法用于定位吧。
 #quote bery
+
+#p 21248347 zhangyuqi 张 2019-11-02 15:04:15
+that's it.
+#quote Ryn
+
+#p 21248362 zhangyuqi 张 2019-11-02 15:08:46
+because we all have human stains， evil genes, maybe
+#quote detectivelyw
+
+#p 21248413 zhangyuqi 张 2019-11-02 15:18:47
+yes,  but only be traced manually， unlike chip, traced by  computer alarm system。 it threatens people's right to fight  against evil powerful  government. 
+#quote detectivelyw
+
+#p 21248431 zhangyuqi 张 2019-11-02 15:23:28
+what if the authorities ARE the most malicious party？ who trace them?
+#quote detectivelyw
 

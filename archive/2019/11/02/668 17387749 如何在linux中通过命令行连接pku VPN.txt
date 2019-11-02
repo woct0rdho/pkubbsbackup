@@ -1,6 +1,10 @@
-#t 668 17387749 JKvsKing 2019-11-02 13:37:00 JKvsKing 2019-11-02 13:37:00
+#t 668 17387749 JKvsKing 2019-11-02 00:13:00 PKUCC 2019-11-02 15:22:00
 如何在linux中通过命令行连接pku VPN
 
 #p 21248055 JKvsKing UccU 2019-11-02 13:36:25
 求问，如何在linux中通过命令行连接pku VPN。。。linux distribution版本为16.04。。。
+
+#p 21248425 PKUCC 北京大学计算中心 2019-11-02 15:22:10
+你可以用openssl的命令行试试。
+#quote JKvsKing
 
