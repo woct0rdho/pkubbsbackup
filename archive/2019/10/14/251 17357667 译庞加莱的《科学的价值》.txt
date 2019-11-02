@@ -1,4 +1,4 @@
-#t 251 17357667 Masonry 2019-10-14 00:01:00 Masonry 2019-11-02 00:44:00
+#t 251 17357667 Masonry 2019-10-14 00:01:00 Masonry 2019-11-02 23:43:00
 译庞加莱的《科学的价值》
 
 #p 21091859 Masonry 东尼探长 雁园警视厅 2019-11-02 00:45:38
@@ -36,7 +36,7 @@
 （对标题的翻译可能会再做更改）
 **------      ------**
 
-#p 21091865 Masonry 东尼探长 雁园警视厅 2019-10-29 23:32:47
+#p 21091865 Masonry 东尼探长 雁园警视厅 2019-11-02 06:33:58
 
 
 2019-10-14 02:02:28
@@ -45,11 +45,11 @@ The Choice of Facts
 Tolstoi somewhere explains why ‘science for its own sake’ is in his eyes an absurd conception. We can not know all facts, since their number is practically infinite. It is necessary to choose; then we may let this choice depend on the pure caprice of our curiosity; would it not be better to let ourselves be guided by utility, by our practical and above all by our moral needs; have we nothing better to do than counting the number of lady-bugs on our planet?        
 托尔斯泰曾提到，“只为科学的科学”在他眼中是一种荒谬的想法。**我们无法知悉所有的事实，因为事实的数目是无法穷尽的。**我们必须从中选择；或许，我们可以单凭好奇心的一时兴起来选择，又或者，可以按它们带来的效益做选择，以尽可能满足我们的生活的和道德的需求。毕竟，总该有些事比统计地球上瓢虫的数量更有意义吧？（注：这段所提到的Tolstoi是我们熟知的列夫·托尔斯泰）
 It is clear the word utility has not for him the sense men of affairs give it, and following them most of our contemperaries. Little cares he for industrial applications, for the marvels of electricity or of automobiles, which he regards rather as obstacles to moral progress; utility for him is solely what can make man better.         
-很显然，托尔斯泰所说的“效益”，与那些务实之人和追随其后的大众所说的“效益”，含义并不相同。对工业上的应用他并不关心，无论是电力还是汽车所带来的奇迹，对他来说都不过是道德之路上的阻碍；“效益”一词，对他而言，意指“让人们变得更好的事物”。
+很显然，托尔斯泰所说的“效益”，与那些务实之人和追随其后的大众所说的“效益”，含义并不相同。对工业上的应用他并不关心，无论是电力还是汽车所带来的奇迹，对他来说都不过是道德之路上的障碍；“效益”一词，对他而言，意指“让人们变得更好的事物”。
 For my part, it need scarce be said, I could never be content with either one or the other ideal; I want neither that plutocracy grasping and mean, nor that democracy goody and mediocre, occupied solely in turning the other cheek, where would dwell sages without curiosity, who, shunning excess, would not die of disease, but would surely die of ennui. But that is a matter of taste and is not what I wish to discuss. 
 对我而言，我对哪一种理想的极端都无法感到完全满意。我既不想要财阀政治一般的贪婪和吝啬，也不喜欢民主政治的伪善和平庸，这些人只知道一味容忍，最终不过变成了没有好奇心的圣人，他们小心回避着过分放纵，不死于疾病也要无聊至死了。然而，这种选择是品味上的问题，我在这里不想讨论。
 The question nevertheless remains and should fix our attention; if our choice can only be determined by caprice or by immediate utility, there can be no science for its own sake, and consequently no science. But is that true? That a choice must be made is incontestable; whatever be our activity, facts go quicker than we, and we can not catch them; while the scientist discovers one fact, there happen milliards of milliards in a cubic millimeter of his body. To wish to comprise nature in science would be to want to put the whole into the part.         
-然而到此为止，我们的问题还没有得到解决； 如果我们选取事实的方法只限于好奇心或者直接的效益这两者，那科学就不可能是为了自身的，也就不再有科学了（注：此处“科学”应指“只为科学的科学”或“纯科学”）。真的没有科学吗？我们必须对事实做一个选择，这是无法否认的；无论我们的活动有多么迅速，事实都比我们更快，我们永远无法抓住他们全部；科学家发现一个事实的时候，在他体内的一角又发生了数不胜数的事实。想要将自然涵盖在科学中，就如同想要把整体放到部分中一般，是无法达到的。
+然而到此为止，我们的问题还没有得到解决； 如果我们选取事实的方法只限于好奇心或者直接的效益这两者，那科学就不可能是为了自身的，因此也就不再有科学了（注：此处“科学”应指“只为科学的科学”或“纯科学”）。然而我们真的没有科学吗？我们必须对事实做一个选择，这是无法否认的；无论我们的活动有多么迅速，事实都比我们更快，我们永远无法抓住他们全部；科学家发现一个事实的时候，在他体内的一角又发生了数不胜数的事实。想要将自然涵盖在科学中，就如同想要把整体放到部分中一般，是无法达到的。
 But scientists believe there is a hierarchy of facts and that among them may be made a judicious choice. They are right, since otherwise there would be no science, yet science exists. One need only open the eyes to see that the conquests of industry which have enriched so many practical men would never have seen the light, if these practical men alone had existed and if they had not been preceded by unselfish devotees who died poor, who never thought of utility, and yet had a guide far other than caprice.         
 但科学家仍相信：事实是有高下之分的，在众多事实中，他们可以做一个明智的选择。当然有办法选择，否则，就不会有科学了，而科学今天确实是存在的。我们只需要睁开双眼就能看见，如果所有人都如工业界的那些人一般事事切合实际，那他们永远无法看到今天的光亮。在他们这些切合实际的人之前，有着许多无私奉献却死于贫穷的人，他们从未考虑过效益，而指导他们的，远远不是好奇心导致的一时兴起。
 As Mach says, these devotees have spared their successors the trouble of thinking. Those who might have worked solely in view of an immediate application would have left nothing behind them, and in face of a new need, all must have been begun over again. Now most men do not love to think, and this is perhaps fortunate when instinct guides them, for most often, when they pursue an aim which is immediate and ever the same, instinct guides them better than reason would guide a pure intelligence. But instinct is routine, and if thought did not fecundate it, it would no more progress in man than in the bee or ant. It is needful then to think for those who love not thinking and, as they are numerous, it is needful that each of our thoughts be as often useful as possible, and this is why a law will be the more precious the more general it is.         
@@ -263,7 +263,7 @@ By that means the difficulties arising from passing to the limit, or from the co
 后天晚上会把III、IV一并放出来，敬请期待
 #quote Miky
 
-#p 21243927 Masonry 东尼探长 雁园警视厅 2019-11-01 22:23:45
+#p 21243927 Masonry 东尼探长 雁园警视厅 2019-11-02 10:31:29
 
 
 2019-11-01 17:07:17
@@ -284,12 +284,12 @@ Intuition is not necessarily founded on the evidence of the senses; the senses w
 You know what Poncelet understood by the principle of continuity. What is true of a real quantity, said Poncelet, should be true of an imaginary quantity; what is true of hyperbola whose asymptotes are real, should then be true of the ellipse whose asymptotes are imaginary. Poncelet was one of the most intuitive minds of this century; he was passionately, almost ostentatiously, so; he regarded the principle of continuity as one of his boldest conceptions, and yet this principle did not rest on the evidence of the senses. To assimilate the hyperbola to the ellipse was rather to contradict this evidence. It was only a sort of precocious and instinctive generalization which, moreover, I have no desire to defend. 
 你或许知道，Poncelet是怎么理解连续原理的。他说，对实数成立的，对虚数也必定成立；对具有实渐近线的双曲线成立的，对具有虚渐近线的椭圆也必定成立 。Poncelet的心智大概是本世纪最直觉的了；他热情地，几乎炫耀地显示着他的直觉；他将连续原理看作他最大胆的构想之一，然而这个构想却不依赖于感官的证据。要将双曲线吸收到椭圆之中，反而是与感官证据背道而驰。那不过是一种出于本能的、过度早熟的泛化，而我并不想为之辩护。
 We have then many kinds of intuition; first, the appeal to the sense and the imagination; next, generalization by induction, copied, so to speak, from the procedures of the experimental sciences; finally, we have intuition of pure number, where arose the second of the axioms just enunciated, which is able to create the real mathematical reasoning. I have shown above by examples that the first two can not give us certainty; but who will seriously doubt the third, who will doubt arithmetic?
-**所以，我们的直觉其实有许多种；**第一种，是诉诸**感官和想象**的直觉；第二种，是由**归纳**产生的泛化，这种直觉可以说是从实验科学的程序中借鉴的；最终，我们还有关于**纯数字**的直觉，正是它给了我们上述的第二条公理，教会我们真正的数学推理。我已经说明了，前两种直觉并不能给我们确定性；然而，谁会怀疑第三种直觉，谁会怀疑算术呢？
+**所以，我们的直觉其实有许多种；**第一种，是诉诸**感官和想象**的直觉；第二种，是由**归纳**产生的泛化，这种直觉可以说是从实验科学的程序中借鉴的；最终，我们还有关于**纯数字**的直觉，正是它给了我们上述的第二条公理（数学归纳原理），教会我们真正的数学推理。我已经说明了，前两种直觉并不能给我们确定性；然而，谁会怀疑第三种直觉，谁会怀疑算术呢？
 Now in the analysis of today, when one cares to take the trouble to be rigorous, there can be nothing but syllogisms or appeals to this intuition of pure number, the only intuition which can not deceive us. It may be said that to-day absolute rigor is attained. 
 在当今的分析学中，若某个人愿意自找麻烦追求严格，他其实也只是把三段论用于数字直觉罢了，只有这种直觉不会欺骗我们。**可以说，在今天的分析学中，我们已达到了完全的严格。**
 （III 译完）
 
-#p 21246571 Masonry 东尼探长 雁园警视厅 2019-11-02 00:44:29
+#p 21246571 Masonry 东尼探长 雁园警视厅 2019-11-02 20:24:41
 
 
 2019-11-02 00:43:22
@@ -298,19 +298,36 @@ Intuition and logic in mathematics
 **IV**
 **四**
 The philosophers make still another objection:” What you gain in rigor,” they say, “you lose in objectivity. You can rise toward your logical ideal only by cutting the bonds which attach you to reality. Your science is infallible, but it can only remain so by imprisoning itself in an ivory tower and renouncing all relation with the external world. From this seclusion it must go out when it would attempt the slightest application. ”
-哲学家们又发出了另一种反对的声音：“你在严格上的‘得’，均是在客观上的‘失’。你尽可以上升到那逻辑的理想境地，但你就必须割断与现实的所有联系。虽然你的这门学问无懈可击，但它注定只能永远地囚禁在与世隔绝的象牙塔里。如果它想要获得哪怕一点应用，就必须走出这种孤僻。”
+哲学家们又发出了另一种反对的声音：“你在严格上的‘得’，均是在客观上的‘失’。**你尽可以上升到那逻辑的理想境地，但作为代价，你必须割断与现实的所有联系。**虽然你的这门学问无懈可击，但它注定永远囚禁在与世隔绝的象牙塔里。它如果想要获得哪怕一点应用，就必须走出这种孤僻。”
 For example, I seek to show that some property pertains to some object whose concepts seems to me at first indefinable, because it is intuitive. At first I fail or must content myself with approximate proofs; finally I decide to give to my object a precise definition, and this enables me to establish this property in an irreproachable manner. 
-举一个例子。假设我现在要说明一个对象具有某个性质，但因为这对象出于直觉的，它的概念在一开始无法严格定义。那么，我要么接受失败，要么就得满足于一个模糊的证明；后来，我终于能给这个对象一个精确的定义，这时我才能无可反驳地建立起这个结果。
+举一个例子。假设我现在要说明一个对象具有某个性质，但因为这对象出于直觉，它的概念在一开始无法严格定义。这时，我要么接受失败，要么就得满足于一个模糊的证明；后来，我终于能给这个对象一个精确的定义，这时我才能无可反驳地建立起这个结果。
 “And then,” say the philosophers, “it still remains to show that the object which corresponds to this definition is indeed the same made known to you by intuition; or else that some real and concrete object whose conformity with your intuitive idea you believe you immediately recognize corresponds to your new definition. Only then could you affirm that it has the property in question. You have only displaced the difficulty. ”
 “即便如此，”这些哲学家说道，“我们还是无法确定，你所定义的对象就是你直觉中的那个对象；我们也无法确定，你直觉中的对象所代表的那个真实物体，和你用逻辑定义的对象是否一致。只有确认了这两点，你才能断言，你研究的对象具有你用逻辑证明的性质。你不过，是将困难转移了而已。”
 That is not exactly so; the difficulty has not been displaced, it has been divided. The proposition to be established was in reality composed of two different truths, at first not distinguished. The first was a mathematical truth, and it is now rigorously established. The second was an experimental verity. Experience alone can teach us that some real and concrete object corresponds or does not correspond to some abstract definition. This second verity is not mathematically demonstrated, but neither can it be, no more than can the empirical laws of physical and natural sciences. It would be unreasonable to ask more. 
-事情并非如此；我们不是把困难转移，而是把它分解了。那个待建立的命题其实包括两个不同的真理，而它们原先无法分辨。第一个是数学上的真理，我们已经把它严格地建立了。第二个则是实验上的真理。只有经验能告诉我们，一个真实对象是否对应于某个抽象定义。第二个真理在数学上没有被证明，也不能被证明，就像那些物理科学和自然科学的经验定律一样。若还要求得更多，就不合乎理性了。
+事情并非如此；我们不是把困难转移，而是把它分解了。**待建立的命题其实包括两个不同的真理，而它们原先无法分辨。**第一个是**数学上**的真理，我们已经把它严格地建立了。第二个则是**实验上**的真理。只有经验能告诉我们，一个真实对象是否对应于某个抽象定义。第二个真理在数学上没有被证明，也不能被证明，就像那些物理科学和自然科学的经验定律一样。若还要求得更多，就不合乎理性了。
 Well, is it not a great advance to have distinguished what long was wrongly confused? Does this mean that nothing is left of this objection of the philosophers? That I do not intend to say; in becoming rigorous, mathematical science takes a character so artificial as to strike every one; it forgets its historical origins; we see how the questions can be answered, we no longer see how and why they are put.
 我们已经把两个长期混淆的事物区分了，这难道不是很大的进步吗？但是这能说明哲学家的疑虑被完全打消了吗？我并不是这个意思；在严格化的过程中，数学科学已具有了太过人为的特征；它忘记了自己的历史渊源；我们只能看到问题如何被解答，却看不到问题是如何、因何而被提出的。
 This shows us that logic is not enough; that the science of demonstration is not all science and that intuition must retain its role as complement, I was about to say, as counterpoise or as antidote of logic.
-这告诉我们，只有逻辑是不够的；证明的学问并非科学的全部，而直觉必须保留它与逻辑互补的角色，甚至充当逻辑的解毒药。
+这告诉我们，**只有逻辑是不够的**；证明的学问并非科学的全部，而直觉必须保留它与逻辑互补的角色，甚至充当逻辑的解毒药。
 I have already had occasion to insist on the place intuition should hold in the teaching of the mathematical sciences. Without it young minds could not make a beginning in the understanding of mathematics; they could not learn to love it and would see in it only a vain logomachy; above all, without intuition they would never become capable of applying mathematics. But now I wish before all to speak of the role of intuition in science itself. If it is useful to the student, it is still more so to the creative scientist. 
-我现在终于得到一个机会，来主张直觉在数学教育中的地位了。若没有直觉，年轻人永远也不能开始理解数学；他们也不可能学会热爱数学，而只会把它当成无聊的文字游戏；更重要的是，若没有直觉，他们就永远都无法掌握应用数学的能力。然而，我现在更希望讨论的是，直觉在科学中的重要性。如果直觉对学生都如此重要，那它对创造性的科学家就更是如此了。
+我现在终于得到一个机会，来主张直觉在数学教育中的地位了。若没有直觉，年轻人永远也不能开始理解数学；他们也不可能学会热爱数学，而只会把它当成无聊的文字游戏；更重要的是，若没有直觉，他们就永远都无法掌握应用数学的能力。然而，我现在更希望讨论的是，直觉在科学中的重要性。**如果直觉对学生都如此重要，那它对创造性的科学家就更是如此了。**
 （IV 译完）
 （参考了@Miky的翻译，十分感谢）
+
+#p 21250717 Masonry 东尼探长 雁园警视厅 2019-11-02 23:42:47
+Intuition and logic in mathematics
+数学中的直觉和逻辑
+**V**
+**五**
+We seek reality, but what is reality? The physiologists tell us that organisms are formed of cells; the chemists add that cells themselves are formed of atoms. Does this mean that these atoms or these cells constitute reality, or rather the sole reality? The way in which these cells are arranged and from which results the unity of the individual, is not it also a reality much more interesting than that of the isolated elements, and should a naturalist who had never studied the elephant except by means of the microscope think himself sufficiently acquainted with that animal?
+我们追寻着现实，但什么是现实？生理学家说，有机体是由细胞组成的；化学家接着补充说，细胞是由原子组成的。这是不是意味着这些原子或细胞构成了现实，甚至是唯一的现实？这些细胞按一定的方式排列形成一个统一的个体，这个现实不是比组成它的基元更值得研究吗？假如一个自然主义者始终只用显微镜观察大象，他会觉得自己很了解那动物吗？
+Well, there is something analogous to this in mathematics. The logician cuts up, so to speak, each demonstration into a very great number of elementary operations; when we have examined these operations one after the other and ascertained that each is correct, are we to think we have grasped the real meaning of the demonstration? Shall we have understood it even when, by an effort of memory, we have become able to repeat this proof by reproducing all these elementary operations in just the order in. Which the inventor had arranged them? Evidently not; we shall not yet possess the entire reality; that I know not what which makes the unity of the demonstration will completely elude us. 
+数学中，也有相似的情形。逻辑学家将每一个论证切割成很多个简单运算；在我们逐个检验过每一步运算后，我们一定能把握它的真正含义吗？更进一步，假如我凭记忆把整个论证背诵下来，而且能按原先顺序逐步重复这个论证，我就可以说自己明白了吗？显然不行；即便如此，我们也还没有完全掌握整个现实；我仍不知道是什么东西将这个论证合为一体，因此完全没有理解它。
+Pure analysis puts at our disposal a multitude of procedures whose infallibility it guarantees; it opens to us a thousand different ways on which we can embark in all confidence; we are assured of meeting there no obstacles; but of all these ways, which will lead us most promptly to our goal? Who shall tell us which to choose? We need a faculty which makes us see the end from afar, and intuition is this faculty. It is necessary to the explorer for choosing his route; it is not less so to the one following his trail who wants to know why he chose it. 
+纯分析给了我们一系列可靠的操作；它向我们开启了一千条大道，而这一千条都是可信的；我们确定，在这些道路上不会遇到障碍；但在这些道路中，哪条路能最快的把我们引向目标呢？谁能告诉我们应该选择哪一条路？我们需要的是一个官能，让我们在远处就能看见终点，而直觉就是这个官能。直觉是探索者必需的，因为他一定要选择一条路；那些跟随他的脚步、希望理解他为何如此选择的人，也同样需要直觉。
+If you are present at a game of chess, it will not suffice, for the understanding of the game, to know the rules for moving the pieces. That will only enable you to recognize that each move has been made conformably to these rules, and this knowledge will truly have very little value. Yet this is what the reader of a book on mathematics would do if he were a logician only. To understand the game is wholly another matter; it is to know why the player moves this piece rather than that other which he could have moved without breaking the rules of the game. It is to perceive the inward reason which makes of this series of successive moves a sort of organized whole. This faculty is still more necessary for the player himself, that is, for the inventor.
+Let us drop this comparison and return to mathematics. For example, see what has happened to the idea of continuous function. At the outset this was only a sensible image, for example, that of a continuous mark traced by the chalk on a blackboard. Then it became little by little more refined; ere long it was used to construct a complicated system of inequalities, which reproduced, so to speak, all the lines of the original image; this construction finished, the centering of the arch, so to say, was removed, that crude representation which had temporarily served as support and which was afterward useless was rejected; there remained only the construction itself, irreproachable in the eyes of the logician. And yet if the primitive image had totally disappeared from our recollection, how could we divine by what caprice all these inequalities were erected in this fashion one upon another? 
+Perhaps you think I use too many comparisons; yet pardon still another. You have doubtless seen those delicate assemblages of silicious needles has disappeared, there remains only a frail and elegant lace-work. True, nothing is there except silica, but what is interesting is the form this silica has taken, and we could not understand it if we did not know the living sponge which has given it precisely this form. Thus it is that the old intuitive notions of our fathers, even when we have abandoned them, still imprint their form upon the logical constructions we have put in their place.
+This view of the aggregate is necessary for the inventor; it is equally necessary for whoever wishes really to comprehend the inventor. Can logic give it to us? No; the name mathematicians give it would suffice to prove this. In mathematics logic is called analysis and analysis means division, dissection. It can have, therefore, no tool other than the scalpel and the microscope. 
+Thus logic and intuition have each their necessary role. Each is indispensable. Logic, which alone can give certainty, is the instrument of demonstration; intuition is the instrument of invention.
 
