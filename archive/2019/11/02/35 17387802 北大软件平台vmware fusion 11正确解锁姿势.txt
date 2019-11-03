@@ -1,0 +1,10 @@
+#t 35 17387802 johnjim 2019-11-02 00:14:00 johnjim 2019-11-02 00:14:00
+北大软件平台vmware fusion 11正确解锁姿势
+
+#p 21248186 johnjim JJ 2019-11-02 14:10:25
+下载中心找到fusion的mac版本下载安装，提示需要序列号；  
+再到首页找到VMware学术订阅菜单栏，这时候找到如下蓝色标亮文字
+[点击这里开始使用VMware Academic Subscription Store]([https://e5.onthehub.com/WebStore/ProductsByMajorVersionList.aspx?cmi_cs=1&amp;cmi_mnuMain=f4b2ea63-9ba9-e511-9413-b8ca3a5db7a1&amp;ws=1791333c-2308-e711-9427-b8ca3a5db7a1&amp;vsro=8](jump-to.php?url=https%3A%2F%2Fe5.onthehub.com%2FWebStore%2FProductsByMajorVersionList.aspx%3Fcmi_cs%3D1%26cmi_mnuMain%3Df4b2ea63-9ba9-e511-9413-b8ca3a5db7a1%26ws%3D1791333c-2308-e711-9427-b8ca3a5db7a1%26vsro%3D8))  
+点击可进入北大购买网站，下单就会看到序列号(0元)；  
+然后在跳到安装界面输入序列号继续就OK了
+

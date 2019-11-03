@@ -1,0 +1,18 @@
+#t 35 17386964 luckysixx 2019-11-01 00:21:00 luckysixx 2019-11-02 00:10:00
+北大网盘
+
+#p 21244974 luckysixx smoker 2019-11-01 21:56:00
+disk.pku.edu.cn 北大网盘网页登陆显示第三方认证未开启？求助如何操作
+
+#p 21247277 Kryptia 四季 2019-11-02 09:17:56
+同问，今天我也出现了这个问题。
+#quote luckysixx
+
+#p 21247282 Kryptia 四季 2019-11-02 09:19:26
+找到了：[https://bbs.pku.edu.cn/v2/post-read.php?bid=668&amp;threadid=17386449](post-read.php?bid=668&amp;threadid=17386449)
+#quote luckysixx
+
+#p 21247445 luckysixx smoker 2019-11-02 10:19:36
+3q
+#quote Kryptia
+

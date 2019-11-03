@@ -1,0 +1,30 @@
+#t 35 17389777 Thesharing 2019-11-03 00:23:00 Thesharing 2019-11-03 00:23:00
+为计算中心点赞~ 现在iOS可以在连接PKU时自动登录了
+
+#p 21254665 Thesharing Thesharing 2019-11-03 23:54:34
+
+
+2019-11-03 23:48:25
+iOS 13版本支持在一些条件下触发自动化操作，当时想到可以在连接校园网的时候自动登录，但是北大网关App彼时还不支持快捷操作，因此在BBS里反馈了一下，收到回复说会调查一下，没想到更新以后就真的支持了~ 以后再也不用连WiFi的时候还要点开App登录了
+下面是教程君：
+前提：iOS 13.0以上版本，在App Store里安装北大网关App
+第一步：找到“快捷操作”App并打开它
+<img src="https://bbs.pku.edu.cn/attach/3a/13/3a13d87330c9598e/1.jpg"/>
+第二步：点击底栏第二个选项卡“自动化”，并点击右上角+加号
+<img src="https://bbs.pku.edu.cn/attach/34/7f/347f79f5c1f44dff/2.jpg"/>
+第三步：点击“创建个人自动化”
+<img src="https://bbs.pku.edu.cn/attach/0e/1c/0e1cb6aab9bb8d32/3.jpg"/>
+第四步：下拉找到“无线局域网”并点击
+<img src="https://bbs.pku.edu.cn/attach/0c/dd/0cdd73d7d27669e3/4.jpg"/>
+第五步：找到“PKU”以及其他需要登陆校园网关的WiFi，支持多选，然后点击“完成”
+<img src="https://bbs.pku.edu.cn/attach/b5/60/b5602e38471f963e/5.jpg"/>
+第六步：点击“添加操作”
+<img src="https://bbs.pku.edu.cn/attach/dd/1a/dd1a5f6b981949b7/5-2.jpg"/>
+第七步：找到“北大网关”App，并点击“连接北京大学网关”
+<img src="https://bbs.pku.edu.cn/attach/99/3e/993e9d7559bf1c51/6.jpg"/>
+第八步：点击“完成”
+<img src="https://bbs.pku.edu.cn/attach/aa/37/aa379b49a3ae337e/7.jpg"/>
+这样就设置完成了……
+<img src="https://bbs.pku.edu.cn/attach/4d/e3/4de340c097fb51c5/8.jpg"/>
+但是不知道为什么关掉WiFi重新打开WiFi不会触发，这个触发条件的判定有点迷……
+

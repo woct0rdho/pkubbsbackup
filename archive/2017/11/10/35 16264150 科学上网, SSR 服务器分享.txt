@@ -1,0 +1,1284 @@
+#t 35 16264150 hiaoxui 2017-11-10 00:00:00 PKUDDD 2019-11-01 00:09:00
+科学上网, SSR 服务器分享
+
+#p 17134091 hiaoxui 小辉 2019-09-20 03:36:53
+
+
+2017-11-10 23:53:54
+北京大学并没有提供官方的翻墙途径, 但是我们的科研学习中无可避免地需要用到 Wikipedia 和 Google 等网站. 为了解决这个矛盾, 我决定向北京大学的师生校友提供这项服务. 我只面向北京大学校友提供服务, 恕不回复北京大学邮箱 (@pku.edu.cn / @bjmu.edu.cn / @*.pku.eud.cn / @pku.org) 之外的邮件.
+如果你没有任何翻墙经验, 请阅读教程: [https://blog.hiaoxui.com/blog/post/hiaoxui/ssr-manual-zh](jump-to.php?url=https%3A%2F%2Fblog.hiaoxui.com%2Fblog%2Fpost%2Fhiaoxui%2Fssr-manual-zh)
+以上教程适用于 Windows 系统, OS X 系统 (苹果电脑), Android 系统 和 iOS 系统. 
+如果你之前使用过 SSR 服务, 现在只是缺少服务器, 请在 [https://hiaoxui.com/ssr/register](jump-to.php?url=https%3A%2F%2Fhiaoxui.com%2Fssr%2Fregister) 中获取一份配置信息.
+本人无意借此项目盈利, 服务**不收取费用**. 如果您使用我的服务, 则代表您已经阅读并同意以下协议:
+1. **您使用该服务只用于科研学习**, 不做任何违反中国或服务器所在国家的法律法规的事情. 
+2. 您不会私自将服务器配置信息分享他人.
+3. 如果您超额使用流量, 我可能会停止您当天的服务. ([https://blog.hiaoxui.com/blog/post/hiaoxui/ssr-data-policy-zh](jump-to.php?url=https%3A%2F%2Fblog.hiaoxui.com%2Fblog%2Fpost%2Fhiaoxui%2Fssr-data-policy-zh))
+4. 您确保所有的重要信息都在加密条件下交换. ([https://blog.hiaoxui.com/blog/post/hiaoxui/ssr-privacy-zh](jump-to.php?url=https%3A%2F%2Fblog.hiaoxui.com%2Fblog%2Fpost%2Fhiaoxui%2Fssr-privacy-zh))
+**致某些人: 墙的存在对科学研究和学术交流是一个灾难, 许多墙外的资源是不可能在国内找到替代品的. 这是一个无法解决的矛盾. 如果我不能继续提供服务, 那我的用户只能去寻找别的工具, 而这些工具很多都是别有用心的, 所以封禁我只会带来更坏的后果. 我们无法改变现状, 但请把枪口抬高一寸, 为北大留下一点自由的网络空间.**
+
+#p 17136173 opteronx 从删库到跑路 2017-11-11 15:39:47
+提醒3个方面的问题
+1. 你是只提供了v6访问地址还是确实阻断了v4访问代理功能？
+2. 如果有人违反TOS怎么办？比如下BT，发送垃圾邮件，有没有做好技术防护？
+3. 是多人共用一号还是一人一号，有没有审计规则（包括上一条中的违反TOS行为和流量审计）？有人用很多流量怎么办？
+#quote hiaoxui
+
+#p 17136402 hiaoxui 小辉 2017-11-11 21:47:11
+
+
+2017-11-11 16:12:37
+回复:
+1. v4 访问是允许的, 但是不会公开. 使用不同端口+密码
+2. 下载 bt 是没有任何意义的. 如果身处 v4 网络环境, 可以通过代理下载 v6 bt资源, 但是我不提供 v4 访问方式.
+3. 有一些现成的飞机场建站模板, 可以控制流量和动态选择最优路线, 但是一方面我没那么多时间打理, 另一方面其实没那么多人找我. 所以暂时没有考虑这些.
+我有开设若干端口, 在发现某端口发现异常可以封停. 但是目前使用流量实在难以达到带宽上限, 北大也不再对 v4 流量收费, 所以目前为止没有遇到任何问题(我之前有分享过)
+只开放 v6 一方面是为了单纯只服务校内人员, 另一方面是为了我和我服务器的安全
+如果能有人和我一起做这项充满意义的工作, 当然很欢迎. 要开设飞机场的话应该是需要一些人力的..(也许还需要很多钱不是我这个穷学生付得起的)
+#quote opteronx
+
+#p 17136465 whoknows goodb0y 2017-11-11 16:34:10
+我是资持的
+#quote hiaoxui
+
+#p 17136875 Smallst Fox loves sea. 2017-11-11 18:22:00
+ss 系列（除ios吧，没找过）客户端在github上应该都能下载到，不需要翻
+#quote hiaoxui
+
+#p 17136928 LifeMaxima 嘎子 2017-11-11 18:43:55
+你问我资不资持，我是资持的，但我觉得最好还是自力更生比较好。
+#quote hiaoxui
+
+#p 17137269 EthanZzz 夏侯妙才 2017-11-11 20:38:19
+
+
+2017-11-11 20:35:49
+兹瓷楼主，站内已发
+ls提到的ss-Android github：
+[https://github.com/shadowsocks/shadowsocks-android/releases](jump-to.php?url=https%3A%2F%2Fgithub.com%2Fshadowsocks%2Fshadowsocks-android%2Freleases)
+#quote hiaoxui
+
+#p 17137273 opteronx 从删库到跑路 2017-11-11 20:37:39
+ss在play-store就有
+#quote EthanZzz
+
+#p 17137347 EthanZzz 夏侯妙才 2017-11-11 21:01:37
+是的
+#quote opteronx
+
+#p 17137516 renwoxing 任我行 2017-11-11 21:25:23
+谢谢楼主分享!
+#quote hiaoxui
+
+#p 17137594 draplater Draplater 2017-11-11 21:40:57
+后面接一个tor可以保护服务器
+#quote hiaoxui
+
+#p 17137905 opteronx 从删库到跑路 2017-11-11 22:31:09
+这显然不是合理的操作办法，并不建议用tor作没有保密需求的一般访问
+如果认为需要通过tor来进行服务，我更推荐的方法是在服务器上建立私有网桥，目前封禁obfs4网桥的方法还是封禁ip，所以在服务器被ban之前应当无所谓
+#quote draplater
+
+#p 17138395 cubic ？ 2017-11-11 23:34:50
+其实我想真心请教一下怎么开多个账号？我属于比较小白的那种，但是也喜欢折腾。8月份开了搬瓦工，于是用它的一键设置搞定了所有问题，但是并不知道怎么设置多个账号，请问有什么简单点的方法吗...
+#quote opteronx
+
+#p 17138407 opteronx 从删库到跑路 2017-11-11 23:38:22
+我主要在用ssr，直接兼容manyuser模式
+曾经用python版ss的时候目录是不一样的，不知道现在ss-libev是怎么搞的，不过大致在不接入数据库的前提下应该还是直接编辑json搞定
+#quote cubic
+
+#p 17138426 hiaoxui 小辉 2017-11-11 23:41:44
+如果是Bandwagon，应该在控制台有一个Web端的文件浏览编辑功能，可以直接编辑JSON文件。
+#quote cubic
+
+#p 17138638 yangdinglou 杨丁楼 2017-11-12 00:01:31
+#quote Smallst
+iOS有wingy
+
+#p 17139155 whoknows goodb0y 2017-11-12 10:50:17
+逗比根据地很全面，可以自己去扫盲
+#quote hiaoxui
+
+#p 17139229 opteronx 从删库到跑路 2017-11-12 11:08:58
+但是里面并没有开飞机场的详细介绍，这种还要自己摸索
+#quote whoknows
+
+#p 17200454 quyuanhang 梦奇 2017-11-30 21:41:30
+好人一生平安
+#quote hiaoxui
+
+#p 17210250 zhishibaozha zhishibaozha 2017-12-03 22:12:13
+你好，想借用您的ss，可以吗？
+保证不做违法用途
+#quote hiaoxui
+
+#p 17210574 hiaoxui 小辉 2017-12-03 23:41:17
+站内已回
+#quote zhishibaozha
+
+#p 17221977 geniussy 布局圣手 2017-12-07 01:33:33
+密码私信我要。学子们拿去用。
+服务器地址：hg2.131jsq.cn
+服务器端口：38609
+加密方式：rc4-md5
+协议：origin
+协议参数：
+混淆：plain
+#quote hiaoxui
+
+#p 17222037 hiaoxui 小辉 2017-12-07 02:51:26
+赞！
+#quote geniussy
+
+#p 17262446 hiaoxui 小辉 2017-12-18 01:29:13
+前段时间服务器出了一些小故障, 现在已经恢复服务.
+#quote hiaoxui
+
+#p 17377248 hiaoxui 小辉 2018-01-07 21:33:17
+最近服务器有一点小问题, 今天刚刚解决了一下, 已经恢复
+#quote hiaoxui
+
+#p 17377543 hiaoxui 小辉 2018-01-07 23:39:24
+尝试安装一下 .net，看看是不是缺少.net的支持
+或者在那个GitHub上找2开头或3开头的版本号试试
+#quote naiiive
+
+#p 17378401 hiaoxui 小辉 2018-01-08 11:06:26
+站内已回
+#quote takamina
+
+#p 17379269 barbarian 了不起的艾斯比 2018-01-08 16:05:31
+
+
+2018-01-08 16:03:14
+想问一下ssr在移动流量下会有什么问题吗？
+vultr的VPS，在校园网下，Android、Windows、iOS均可用
+但在移动流量下，只有iOS能用
+三个平台的设置都是一样的
+
+#p 17381526 hiaoxui 小辉 2018-01-09 11:32:16
+如果你使用了域名解析的话, 是不是可能是 dns 问题?
+或者 移动的 isp 是不是封了一些个什么端口. (不过 iOS 怎么能幸免?..)
+可以试试在 windows 或什么设备上扫一下服务器的端口, 看看端口通不通
+或者看看 vps 那边的 log, 看看是什么故障
+#quote barbarian
+
+#p 17424312 CommanderY 天罡拳 2018-01-24 09:26:38
+老哥你真是稳如poi啊
+我自己是两个服务器 大的拿给实验室分享了 小的自留 以保证出事了还有个后路
+#quote hiaoxui
+
+#p 17480465 poorcat Jellyfish 2018-02-15 14:44:51
+这车真稳。
+#quote hiaoxui
+
+#p 17549933 sophialee Eeeer 2018-03-12 19:23:08
+求使用T^T，写论文需要，感谢楼主！
+#quote hiaoxui
+
+#p 17550059 hiaoxui 小辉 2018-03-12 20:14:03
+已私信
+#quote sophialee
+
+#p 17594408 rainbowboy 小王子 2018-03-25 17:32:05
+您好！想借用您的账号，一直用的免费版的蓝灯，不过有流量限制，基本月初流量就用完了。
+保证不用做学习科研以外的用途。谢谢楼主
+#quote hiaoxui
+
+#p 17594435 hiaoxui 小辉 2018-03-25 17:46:10
+已私信
+#quote rainbowboy
+
+#p 17594575 rainbowboy 小王子 2018-03-25 18:56:58
+已收到，谢谢楼主！
+#quote hiaoxui
+
+#p 17627256 zhbzhbzhbz RedB 2018-04-03 18:50:41
+建议端口用常见的443端口等，可以降低被屏蔽的风险
+#quote hiaoxui
+
+#p 17627990 hiaoxui 小辉 2018-04-03 22:48:18
+高位和 443 都有在用
+443 如今也不安全
+#quote zhbzhbzhbz
+
+#p 18000238 pkuct 我不是程陶 2018-06-14 09:05:56
+支持！手动点赞！
+#quote hiaoxui
+
+#p 18072934 Lex Lex 2018-06-21 14:42:37
+求分享
+#quote hiaoxui
+
+#p 18310174 NexTU Hey 2018-08-22 10:49:07
+机场还是好开的，只是怕喝茶
+而且针对校内的话，确实可以做，当然服务器开销之类的也得考虑
+是按照捐献的方式来，还是？
+有很多问题存在。。
+#quote hiaoxui
+
+#p 18312838 ChaChaYo 哟哟嘿 2018-08-22 22:14:09
+看到手册里 您都用Linux了。。差点喷出来哈哈哈哈
+#quote hiaoxui
+
+#p 18313101 hiaoxui 小辉 2018-08-22 23:48:28
+其实我感觉 linux 的客户端还不如其他系统好用. 我原来用过一段时间 qt5 版本的, 它功能其实比较简单, 不能写过滤规则动态代理流量, 不能很方便地做全局代理 (需要我额外在命令行里设置) 等等. 而且 qt5 不兼容某些发行版本, 这也比较麻烦.
+后来我自己写了脚本包装了一下 sslocal, 不过感觉还是不如 windows 或者 osx 下好用.
+#quote ChaChaYo
+
+#p 18313238 YuKrai NieR 2018-08-23 00:52:05
+虽然不需要，不过帮顶，好人一生平安
+#quote hiaoxui
+
+#p 18313257 hiaoxui 小辉 2018-08-23 01:12:42
+
+
+2018-08-23 01:04:09
+感谢!
+对于一般版友而言, 完整搭建服务器成本 (并不是指经济成本) 过高. 如果对网络延迟和稳定性要求不高, 只是需要一个可以长期使用, 流量相对充足, 比较安全的科学上网服务, 我觉得少数人搭建 SS, 大家共享使用是一条可行之路.
+比较好的一件事情是接近一年时间, 没有出现流量滥用的情况, 虽然我没有做过任何限制. 几次网络故障也有网友及时通知, 都很快排除.
+#quote YuKrai
+
+#p 18313689 NexTU Hey 2018-08-23 09:05:43
+嗯，ipv4 美国 日本 香港 太容易被墙，如果有ipv6的话会好很多
+pku.one那个也提供域名解析和订阅链接了，所以换服务器用户不需要更新，如果添加节点的话，用户需要手动更新订阅就好。。
+教程感觉用楼主的就好，不过panel有些部分提供了一键导入（笑
+#quote hiaoxui
+
+#p 18313690 NexTU Hey 2018-08-23 09:06:26
+之前看到过一篇帖子说 Mac OS 貌似就是包装的sslocal ，具体没有去认证。。
+#quote hiaoxui
+
+#p 18370237 luthersecret 疯狂不在线 2018-09-07 05:37:04
+没事，我还有一个。BTW，你马上要滚了。
+#quote CommanderY
+
+#p 19148530 Gailsunset 纳尔齐斯 2018-12-02 10:14:58
+do最近过期了，需要新的vpn，主要用来写论文，谢谢楼主分享～
+#quote hiaoxui
+
+#p 19149458 hiaoxui 小辉 2018-12-02 15:13:24
+请用 pku 邮箱联系我, 我会及时回复
+#quote Gailsunset
+
+#p 19265809 hxs 小帅 2018-12-23 08:55:02
+求分享
+#quote hiaoxui
+
+#p 19266223 hiaoxui 小辉 2018-12-23 11:26:27
+邮件已回复
+#quote hxs
+
+#p 19420771 Tribble 舰桥上的Tribble 2019-01-05 12:25:34
+原本有的梯子已挂，望学长搭救
+笔芯
+#quote hiaoxui
+
+#p 19429527 hiaoxui 小辉 2019-01-05 19:22:37
+请直接给我发邮件
+#quote Tribble
+
+#p 19430636 bery 你的投降，要出于你的自由意志。 2019-01-05 23:16:04
+辛苦，点个赞
+#quote hiaoxui
+
+#p 19430789 hiaoxui 小辉 2019-01-05 23:54:35
+我很担心哪天会对我下手..
+#quote bery
+
+#p 19434516 bery 你的投降，要出于你的自由意志。 2019-01-06 18:22:42
+bless...
+#quote hiaoxui
+
+#p 19437317 Tribble 舰桥上的Tribble 2019-01-07 10:57:40
+已发～
+#quote hiaoxui
+
+#p 19437331 hiaoxui 小辉 2019-01-07 10:59:54
+已回
+#quote Tribble
+
+#p 19524898 beizai 悲哉 2019-01-19 21:26:44
+已发邮件，多谢lz
+#quote hiaoxui
+
+#p 19526143 hiaoxui 小辉 2019-01-20 10:47:45
+已回
+#quote beizai
+
+#p 19526161 beizai 悲哉 2019-01-20 10:53:57
+是回复到我发邮件的邮箱了吗？貌似没有收到
+#quote hiaoxui
+
+#p 19526246 beizai 悲哉 2019-01-20 11:13:30
+我再次确认了一下，确实没有收到，能否请您用站内私信再发送一次，或者我另外给一个邮箱？
+#quote hiaoxui
+
+#p 19526359 hiaoxui 小辉 2019-01-20 11:54:10
+我们在bbs私聊
+#quote beizai
+
+#p 19526363 hiaoxui 小辉 2019-01-20 11:55:19
+昨天 BBS 邮箱系统有问题, 可能是受到这个影响了
+#quote beizai
+
+#p 19539776 cyrus cyrus 2019-01-23 21:36:17
+请问，如果浏览视频，是不是直接就封停了啊
+#quote hiaoxui
+
+#p 19539807 hiaoxui 小辉 2019-01-23 21:41:07
+我可没说过
+#quote cyrus
+
+#p 19539908 cyrus cyrus 2019-01-23 21:57:39
+好的，我现在使用学校网络，有ipv6，youtub可以连接，但是不能播放，facebook打不开，ssr可以解决吗
+#quote hiaoxui
+
+#p 19540047 hiaoxui 小辉 2019-01-23 22:41:39
+可以解决
+#quote cyrus
+
+#p 19541183 mol 摩尔||阿七 2019-01-24 10:10:13
+lz，校外人士求推荐服务器，之前买的ramnode的，最近一段时间各种网速都很慢，慢到影响使用了，，
+求推荐个网速还行的服务器。。
+#quote hiaoxui
+
+#p 19541319 hiaoxui 小辉 2019-01-24 10:42:36
+我觉得网速怎么样这种事情其实因人而异. 不同的网络环境差异很大.
+"鞋子合不合脚自己穿了才知道"
+多试几个比较靠谱.
+#quote mol
+
+#p 19541330 mol 摩尔||阿七 2019-01-24 10:44:17
+那能推荐几个可以试试的吗？除了ramnode，现在一脸瞎。。谢谢
+#quote hiaoxui
+
+#p 19541375 hiaoxui 小辉 2019-01-24 10:52:22
+[https://doubmirror.cf/jgjhicaj.html](jump-to.php?url=https%3A%2F%2Fdoubmirror.cf%2Fjgjhicaj.html)
+这个列表里比较全.
+我用过 Bandwagon, AWS, Vultr, DigitalOcean 和 Virmach
+我感觉从北大连接, Bandwagon, Vultr 网速都很好.
+不过 bandwagon 用户体验并不好, 而且最少买一个月. Vultr 中国人太多, 被墙的风险极高.
+如果有美国信用卡, 建议购买不能用 wechat pay 和 alipay 的 VPS
+#quote mol
+
+#p 19541447 mol 摩尔||阿七 2019-01-24 11:05:25
+谢谢大佬！
+#quote hiaoxui
+
+#p 19541758 gracetina 浣儿tina 2019-01-24 12:26:45
+谢谢楼主大佬
+#quote hiaoxui
+
+#p 19542397 karlmarx 还我三角地！灵均·六月雪 2019-01-24 14:17:42
+原来逗逼还在！
+#quote hiaoxui
+
+#p 19542402 karlmarx 还我三角地！灵均·六月雪 2019-01-24 14:19:00
+我之前用bandwagon很好 而且是9.9美元一年的优惠价  不过最近openvz的都关停了
+#quote hiaoxui
+
+#p 19543062 hiaoxui 小辉 2019-01-24 16:30:22
+这是某个粉丝做的镜像站.
+doub 本人已经失踪很久了.
+#quote karlmarx
+
+#p 19543089 hiaoxui 小辉 2019-01-24 16:35:07
+不仅如此, IPv6 服务也停止了.
+#quote karlmarx
+
+#p 19544167 SpiritedAway Spirited_Away_ 2019-01-24 22:01:24
+感谢LZ！  不过请问LZ有没有什么方法在使用SSR服务器的情况下，查看DNS解析啊。
+#quote hiaoxui
+
+#p 19544223 hiaoxui 小辉 2019-01-24 22:28:14
+我印象里客户端会有选项让你选择 DNS 服务器, 以及让你选择是否把 DNS 请求也代理.
+不知道你是什么客户端?
+#quote SpiritedAway
+
+#p 19544232 SpiritedAway Spirited_Away_ 2019-01-24 22:31:26
+客户端就是ShadowSocksR，不过似乎没看到可以选DNS的地方。从目前的现象来看DNS请求也是代理了的，因为我尝试了一些方法都没办法得到解析到的DNS地址（包括chrome://net-internals/#dns）在开启SSR的时候没有任何记录。
+#quote hiaoxui
+
+#p 19544241 hiaoxui 小辉 2019-01-24 22:33:01
+请问你的操作系统是?
+#quote SpiritedAway
+
+#p 19544244 SpiritedAway Spirited_Away_ 2019-01-24 22:33:34
+Windows 10 教育版
+#quote hiaoxui
+
+#p 19544263 hiaoxui 小辉 2019-01-24 22:49:17
+
+
+2019-01-24 22:39:12
+win10 的 SSR 菜单里有 global settings，里面可以设定 DNS 服务器。不过我并不清楚这个 DNS 请求是 server 代理发起还是本地发起。
+#quote SpiritedAway
+
+#p 19544303 SpiritedAway Spirited_Away_ 2019-01-24 22:58:29
+我现在是在校外 挂北大VPN的情况下 开SSR（ipv6服务器）。 不过我在这里（附件）设置的DNS：
+，看起来不管怎么填似乎都没什么影响
+#quote hiaoxui
+
+#p 19544321 hiaoxui 小辉 2019-01-24 23:03:16
+我所指的 global settings 是指 ssr 的 settings, 在你桌面右下角小飞机的右键菜单里.
+我猜测你所处的网络环境并没有 ipv6
+你可以登录 test-ipv6.com 查看自己的 ipv6 状态.
+如果你用 SSR 是为了获得 ipv6 服务, 那你应该无需做任何事情. 直接在浏览器访问 ipv6 网站即可.
+如果你使用 SSR 是为了登录 google youtube 等网站, 直接走 ipv4 线路即可.
+你不必要设置两个代理. 我也不是很清楚这种情况下你的系统究竟走的什么 proxy.
+#quote SpiritedAway
+
+#p 19544324 SpiritedAway Spirited_Away_ 2019-01-24 23:06:02
+明白了，感谢LZ！
+（其实我只是想要看一些域名解析出的ipv6地址[手动笑哭]）
+#quote hiaoxui
+
+#p 19544338 hiaoxui 小辉 2019-01-24 23:10:00
+[https://www.subnetonline.com/pages/ipv6-network-tools/online-ipv6-ping.php](jump-to.php?url=https%3A%2F%2Fwww.subnetonline.com%2Fpages%2Fipv6-network-tools%2Fonline-ipv6-ping.php)
+我随便搜了一个 ipv6 ping 的网站.
+不过校园网的 ipv6 到底怎么了我也不是很明白.
+我听某在校同学说是 google 换了一些 ipv6 地址. 但这也说不通, 按理来说这个时候只要更换 hosts 或者直接用 DNS 解析就可以了. 
+我已经回家了, 不知道校内有没有方便操作的同学测试一下到底是什么原因.
+#quote SpiritedAway
+
+#p 19544343 SpiritedAway Spirited_Away_ 2019-01-24 23:11:47
+感谢！其实我也是这么猜测的，所以我在努力把那些（可能的）新的ipv6地址给dig到，希望就是换了个ipv6地址这么简单吧~
+#quote hiaoxui
+
+#p 19557664 karlmarx 还我三角地！灵均·六月雪 2019-01-28 23:21:52
+啊啊啊啊！
+#quote hiaoxui
+
+#p 19584663 barcamessi 梅西老妖 2019-02-09 14:36:10
+lz能发教程么，想自力更生
+#quote hiaoxui
+
+#p 19586853 hiaoxui 小辉 2019-02-10 14:34:57
+那我需要知道你现在是什么基础
+比如你有没有操作过 ssh, 会不会 linux 的基本操作
+#quote barcamessi
+
+#p 19587067 barcamessi 梅西老妖 2019-02-10 16:38:24
+ssh会是会，但不知道你需要的是达到啥程度，linux还行，基本的命令都会用。。。但是没自己搭过这东西
+#quote hiaoxui
+
+#p 19587095 hiaoxui 小辉 2019-02-10 17:01:56
+这个板块有个帖子是教如何用 Google Cloud 翻墙的帖子
+你可以参考那个搭建. 如果你觉得不想用 Google Cloud, 你也可以用别的 VPS 提供商, 流程是差不多的.
+#quote barcamessi
+
+#p 19587197 youxiang 又想 2019-02-10 18:09:49
+这邮箱名这么跳吗。。
+#quote hiaoxui
+
+#p 19661158 pkujy 紫电&清霜 2019-03-01 15:03:22
+算分小班的学弟来顶一个
+#quote hiaoxui
+
+#p 19729395 creature AAAAA（Feminist） 2019-03-17 11:36:58
+请问shadowrocket可以用嘛
+#quote hiaoxui
+
+#p 19729532 hiaoxui 小辉 2019-03-17 12:15:16
+当然可以
+#quote creature
+
+#p 20212350 hiaoxui 小辉 2019-05-12 08:23:44
+up
+#quote hiaoxui
+
+#p 20312457 pangmiaodaao zzd 2019-05-24 18:36:41
+借楼咨询一下，毕业后有啥黑科技可以继续使用北邮人吗？ipv6啥的不懂 本人小白
+#quote hiaoxui
+
+#p 20313611 hiaoxui 小辉 2019-05-24 23:35:41
+建一个既有 IPv4 又有 IPv6 的服务器, 在服务器上开个代理, 用本机去连接. 我在家的时候都是这么干的.
+大部分国外的 VPS 都支持 IPv6.
+#quote pangmiaodaao
+
+#p 20314444 pangmiaodaao zzd 2019-05-25 09:15:57
+小白看不懂。。这个和翻墙一样有简单粗暴的方式吗
+#quote hiaoxui
+
+#p 20314942 hiaoxui 小辉 2019-05-25 11:18:01
+你一般用什么翻墙?
+#quote pangmiaodaao
+
+#p 20314947 pangmiaodaao zzd 2019-05-25 11:19:46
+一个软件 点击就行 bbs上一个人给我的
+[https://raw.githubusercontent.com/xifulinmen/mingming/master/zym7.67.zip](jump-to.php?url=https%3A%2F%2Fraw.githubusercontent.com%2Fxifulinmen%2Fmingming%2Fmaster%2Fzym7.67.zip)
+#quote hiaoxui
+
+#p 20314950 pangmiaodaao zzd 2019-05-25 11:20:34
+我用这个翻墙软件打开后就无法登陆北邮人了。。。
+#quote hiaoxui
+
+#p 20314959 hiaoxui 小辉 2019-05-25 11:22:23
+这个应该是轮子的软件, 我说的翻墙方式还是挺不一样的. 如果你想上 byt, 可能要做的功课比较多..
+ 
+#quote pangmiaodaao
+
+#p 20314964 pangmiaodaao zzd 2019-05-25 11:23:46
+大神有没有教程啊，一步一步的详细那种。。求解！！
+#quote hiaoxui
+
+#p 20314976 hiaoxui 小辉 2019-05-25 11:25:50
+[https://bbs.pku.edu.cn/v2/post-read.php?bid=35&amp;threadid=16378830](post-read.php?bid=35&amp;threadid=16378830)
+[https://bbs.pku.edu.cn/v2/post-read.php?bid=35&amp;threadid=16979457](post-read.php?bid=35&amp;threadid=16979457)
+这些都还可以. 不过你总归是要自己搭服务器的.
+#quote pangmiaodaao
+
+#p 20315002 pangmiaodaao zzd 2019-05-25 11:32:01
+哇 万分感谢！我毕业之后试一试。。。
+#quote hiaoxui
+
+#p 20315030 castial 大猪蹄子 2019-05-25 11:38:25
+#quote hiaoxui
+神仙对话啊，完全插不上嘴
+
+#p 20319287 mathaholic yhs 2019-05-26 11:12:55
+要写论文但是wiki上不去了【呜呜呜】求分享
+#quote hiaoxui
+
+#p 20319611 hiaoxui 小辉 2019-05-26 12:48:04
+请发邮件
+#quote mathaholic
+
+#p 20326473 mathaholic yhs 2019-05-27 23:07:49
+邮件里的所有连接网址都打不开该怎么办呢？
+#quote hiaoxui
+
+#p 20326671 hiaoxui 小辉 2019-05-27 23:52:04
+请问您的邮箱是?
+#quote mathaholic
+
+#p 20349663 ALMonds 扁桃仁 2019-06-01 18:09:17
+问一个白痴问题，远程端口有没有办法快速手动输入？一点一点滚动到高数字的端口，需要好久…
+#quote hiaoxui
+
+#p 20350595 hiaoxui 小辉 2019-06-01 22:33:37
+你点一下那个数字就可以了..
+那个设计有点白痴.
+#quote ALMonds
+
+#p 20350998 ilemach 封刀挂剑 2019-06-01 23:45:03
+自己的vps，配置的ss服务，在旧电脑上win10+shadowsocks4.1运行正常，在新电脑上怎么也翻不过去。试了LZ的ssr，也不能。
+记得当时在旧电脑上也折腾了一会儿，但是忘了具体的操作呢。是什么配置的问题？
+#quote hiaoxui
+
+#p 20351419 ALMonds 扁桃仁 2019-06-02 01:21:23
+谢谢，今天刚安装完那会儿能上，晚上又上不了了。主要是我自己之前的服务器也不能用了，才联系你。所以，是季节性原因，挂了吗？
+#quote hiaoxui
+
+#p 20352549 hiaoxui 小辉 2019-06-02 11:30:37
+您试试:
+[https://blog.hiaoxui.com/blog/post/hiaoxui/ssr-windows-faq](jump-to.php?url=https%3A%2F%2Fblog.hiaoxui.com%2Fblog%2Fpost%2Fhiaoxui%2Fssr-windows-faq)
+这个?
+#quote ilemach
+
+#p 20352558 hiaoxui 小辉 2019-06-02 11:31:41
+是季节原因. 儿童节是今年以来力度最大的封禁, 很多很多节点都挂了.
+我的 ipv6 节点还能正常使用. 如果你在校内, 考虑换到 ipv6 使用.
+#quote ALMonds
+
+#p 20355542 ilemach 封刀挂剑 2019-06-02 23:18:11
+奇怪，IP被封，为啥手机可以用，之前的电脑也可以用？
+P.S.
+linode 说不支持因为GFW而换IP了，原文如下：
+What do I do if my IP address is blocked by the GFW?
+Great Firewall (GFW) - With the recent developments in the GFW, our team has determined the swapping of IP addresses is ineffective in resolving the connectivity issues our customers face. The GFW will continue to block new IP addresses shortly after a Linode’s IP has been replaced. At this time, we are no longer swapping IP addresses for Linodes impacted by the GFW.
+#quote hiaoxui
+
+#p 20355577 hiaoxui 小辉 2019-06-02 23:30:21
+cernet 的墙可能略高于外界. 不同的出口的封禁可能并不同步. 不过墙具体的工作方式谁也不知道, 只能猜测..
+受到 what-you-know 事件影响, 最近 ip 挂得很快, 很多 vps 都不再提供更换 ip 的服务了.
+#quote ilemach
+
+#p 20357014 ilemach 封刀挂剑 2019-06-03 10:21:13
+好了，现在手机也不能用了。。。
+#quote hiaoxui
+
+#p 20399414 mintcandy 豆瓣Mintcandy 2019-06-12 11:45:17
+之前按照说明配置了可以科学上网，今天用就不行了，是季节原因还没过去吗...
+#quote hiaoxui
+
+#p 20401421 hiaoxui 小辉 2019-06-12 18:48:26
+请直接通过邮箱联系我!
+#quote mintcandy
+
+#p 20403856 mintcandy 豆瓣Mintcandy 2019-06-13 09:22:44
+今天又可以用了~谢谢！
+#quote hiaoxui
+
+#p 20500841 MarxLee LE 2019-07-04 14:34:57
+请问在境外可以墙回大陆吗？
+#quote hiaoxui
+
+#p 20501746 hiaoxui 小辉 2019-07-04 17:52:24
+暂不提供
+#quote MarxLee
+
+#p 20504292 MarxLee LE 2019-07-05 09:19:53
+谢谢！
+#quote hiaoxui
+
+#p 20641885 ShengZhaohua 咋回事呀 2019-08-06 11:27:10
+谢谢分享！！！
+#quote hiaoxui
+
+#p 20642450 Jeep Jeep 2019-08-06 13:38:24
++1s
+#quote LifeMaxima
+
+#p 20646574 ortuskun ortus 2019-08-07 13:32:16
+我竟然到今天才发现这个帖子
+太感谢了！
+#quote hiaoxui
+
+#p 20712673 klsl 古一兔叽 2019-08-22 01:38:33
+谢谢您！
+#quote hiaoxui
+
+#p 20713318 Merlinye 挨揍的兔子 2019-08-22 09:57:13
+谢谢！
+#quote hiaoxui
+
+#p 20713434 guaiguai 乖乖 2019-08-22 10:27:53
+特殊时期的及时雨，非常感谢！
+#quote hiaoxui
+
+#p 20718313 wchangjin 你猜 2019-08-23 09:44:35
+太感谢了！需要资持的话，欢迎LZ大佬告诉我们！非常愿意！
+#quote hiaoxui
+
+#p 20718689 guanglin 广林 2019-08-23 10:44:01
+邮件说connection那一列能看到是否被封，我没看到有这一列
+#quote hiaoxui
+
+#p 20718690 Skybook Skybook 2019-08-23 10:44:18
+万分感谢大佬！！
+#quote hiaoxui
+
+#p 20718701 guanglin 广林 2019-08-23 10:45:40
+windows和osx都试了，显示failed。连接失败
+#quote hiaoxui
+
+#p 20719005 oooY 哦铁蛋儿 2019-08-23 11:44:16
+谢谢
+#quote hiaoxui
+
+#p 20726071 hiaoxui 小辉 2019-08-24 14:05:09
+我当时正在更新网站的很多内容. 我改了下面的表, 但是没有更新说明文字, 抱歉.
+你可以把你的配置信息截图发给我, 用邮件, 我会回复你.
+#quote guanglin
+
+#p 20728257 yLoverush yLoverush 2019-08-24 23:21:21
+楼主请问ubuntu可以用吗?有没有教程......感谢!
+#quote hiaoxui
+
+#p 20728783 hiaoxui 小辉 2019-08-25 03:28:47
+可以, 你是什么版本号的 Ubuntu?
+#quote yLoverush
+
+#p 20729186 yLoverush yLoverush 2019-08-25 09:32:30
+18.04
+我昨晚配置了一晚上，ss，ss-Qt5，ssr都试过了，都不太好使呢。我没用过这个，我是按百度的教程弄得，个人怀疑问题出在弄好了ss还要对浏览器和系统什么代理进行设置
+#quote hiaoxui
+
+#p 20729201 yLoverush yLoverush 2019-08-25 09:37:08
+也有可能是那个local ip和local port没弄对，我看百度上都是127.0.0.1 ：1080，我就没改
+#quote hiaoxui
+
+#p 20729642 yLoverush yLoverush 2019-08-25 11:38:24
+我好像弄好了,虽然不知道怎么弄得.....有问题再咨询您!感谢!
+#quote hiaoxui
+
+#p 20730535 along 小橘子 2019-08-25 15:34:24
+感谢
+#quote hiaoxui
+
+#p 20756215 hiaoxui 小辉 2019-08-31 03:31:48
+不知道这个帖子还能活多久.
+#quote hiaoxui
+
+#p 20769028 ChaChaYo 哟哟嘿 2019-09-02 22:33:20
+看到了公告。。感谢LZ的热心奉献
+#quote hiaoxui
+
+#p 20782960 whcpumpkin 南瓜丶Aale 2019-09-05 17:12:27
+感想
+#quote hiaoxui
+
+#p 20842728 BBQsu 药丸 2019-09-08 10:21:02
+感谢大佬！！
+#quote hiaoxui
+
+#p 20843522 yaqianglee 辣鸡 2019-09-08 13:23:52
+很感谢大佬，我最近发现google scholar上不去了，是vps的原因吗？以下是一个朋友的建议[https://www.polarxiong.com/archives/%E9%80%9A%E8%BF%87VPS%E4%BD%BF%E7%94%A8VPN%E6%88%96ShadowSocks%E8%AE%BF%E9%97%AEGoogle%E6%88%96Google-Schoolar%E5%87%BA%E7%8E%B0%E9%AA%8C%E8%AF%81%E7%A0%81%E7%AD%89%E7%9A%84%E8%A7%A3%E5%86%B3%E6%96%B9%E6%B3%95.html](jump-to.php?url=https%3A%2F%2Fwww.polarxiong.com%2Farchives%2F%25E9%2580%259A%25E8%25BF%2587VPS%25E4%25BD%25BF%25E7%2594%25A8VPN%25E6%2588%2596ShadowSocks%25E8%25AE%25BF%25E9%2597%25AEGoogle%25E6%2588%2596Google-Schoolar%25E5%2587%25BA%25E7%258E%25B0%25E9%25AA%258C%25E8%25AF%2581%25E7%25A0%2581%25E7%25AD%2589%25E7%259A%2584%25E8%25A7%25A3%25E5%2586%25B3%25E6%2596%25B9%25E6%25B3%2595.html)
+#quote hiaoxui
+
+#p 20843705 hiaoxui 小辉 2019-09-08 14:17:02
+请尝试换个服务器，有些服务器的ip会被Google误判。
+这个方法以前是可以用的，但最近ipv6在Google scholar上不可用。
+#quote yaqianglee
+
+#p 20847870 ringmayday 等待雨天 2019-09-08 20:13:47
+在设置shadowsocks的时候，总是先显示端口已被占用，需要怎么操作呢？
+#quote hiaoxui
+
+#p 20871184 hiaoxui 小辉 2019-09-09 04:19:47
+一般遇到这种问题都是因为你开启了若干个 SSR.
+SSR 在开启的时候默认占用系统的 1080 端口并监听 127.0.0.1 地址, 但是同时只能有一个程序监听, 如果你开启了若干个 SSR, 他们就无法正常工作.
+最简单的方法就是重启电脑. 如果重启还不行, 那也许你电脑别的程序占用了 1080 端口, 那你必须改 SSR 设置, 让 SSR 监听别的端口. SSR 的设置里有这个选项, 但是不同系统下这个位置不一样, 不知道你用什么系统?
+#quote ringmayday
+
+#p 20871648 YeahHaley yyy 2019-09-09 09:26:32
+感谢大佬！
+#quote hiaoxui
+
+#p 20871759 ringmayday 等待雨天 2019-09-09 09:45:53
+我的电脑是win10系统，我是不是应该找到占用端口的程序，然后杀掉它么？
+#quote hiaoxui
+
+#p 20871802 SkywalkerA Alan 2019-09-09 09:55:31
+非常感谢楼主
+#quote hiaoxui
+
+#p 20872771 hiaoxui 小辉 2019-09-09 12:25:10
+可以. 在 cmd 里输入 netstat -ano | findstr 1080
+不过万一这个程序比较重要什么的, 还是把 ssr 端口改了比较好. 
+#quote ringmayday
+
+#p 20874790 ringmayday 等待雨天 2019-09-09 19:01:22
+重启之后，设置好了，但是还是上不了google，我把截图私信你了。
+#quote hiaoxui
+
+#p 20880976 hiaoxui 小辉 2019-09-11 00:14:31
+local port 太小了. 小于 1024 的端口是系统保留端口, 需要 sudo 权限. 建议设置大一些.
+另外建议删掉这个帖子, 我不希望我的服务器地址暴露在公网.
+#quote Altriajiang
+
+#p 20911668 gwt 快哉八面风 2019-09-17 18:43:31
+请问雷锋楼主：仿佛今天上不了了？是与国庆有关吗？
+#quote hiaoxui
+
+#p 20912626 hiaoxui 小辉 2019-09-17 21:35:51
+我更新了地址, 但你的软件可能还没重新向DNS发送请求, 试着重启一下?
+#quote gwt
+
+#p 20913904 gwt 快哉八面风 2019-09-18 08:11:58
+啊！成功了！！再次謝謝雷鋒樓主！
+#quote hiaoxui
+
+#p 20914865 ortuskun ortus 2019-09-18 11:44:17
+太感谢lz了555 无数次成为我唯一能用的服务器
+#quote hiaoxui
+
+#p 20914888 ortuskun ortus 2019-09-18 11:51:06
+有个小问题就是偶尔上谷歌学术会提示异常流量
+
+#p 20914924 hiaoxui 小辉 2019-09-18 11:56:34
+你可能需要换个服务器. 这是供应商的名声不好, 导致它旗下的 IP 大面积被 Google 屏蔽, 我也很无奈.
+#quote ortuskun
+
+#p 20914952 ortuskun ortus 2019-09-18 12:02:18
+原来如此，感谢！换了ipv6-1可以连上了~
+#quote hiaoxui
+
+#p 20916355 sunnywangbo 呦呦切克闹 2019-09-18 17:02:34
+自己的ss崩掉了，用了楼主的，万分感谢
+#quote hiaoxui
+
+#p 20919279 Rymiliza Susan Williams 2019-09-19 07:43:38
+超级超级感谢楼主滴分享！！！真的很赞~
+#quote hiaoxui
+
+#p 20921564 jvechize xi罗 2019-09-19 15:07:15
+谢谢楼主, 本人是一直用的自己搭的DigitalOcean的VPS, 无奈最近DO全部ip断都被封了.
+现在楼主的博客[https://hiaoxui.com/ssr/register](jump-to.php?url=https%3A%2F%2Fhiaoxui.com%2Fssr%2Fregister)也打不开了.
+请问楼主是否可以私信一个ssr的配置信息, 估计用完这一周之后等我自己的VPS解封之后就不再需要了.
+十分感谢~
+#quote hiaoxui
+
+#p 20921682 Alpher 小现 2019-09-19 15:30:49
+LZ这个也被封了
+呵呵
+#quote jvechize
+
+#p 20921857 jvechize xi罗 2019-09-19 16:03:34
+是的, 刚刚打开, 全红, 不能用了.
+#quote Alpher
+
+#p 20921935 scl scl 2019-09-19 16:17:35
+请不要再用 ssr@pku.edu.cn 联系我, 也不要再信任这个 alias 下的所有邮件.
+请问是邮箱被盗了么 前段时间那个捐赠邮件也是假的么。。。
+#quote hiaoxui
+
+#p 20922138 AmyCrane 虎斑年兽 2019-09-19 16:54:42
+同收到募捐邮件，感觉怪怪的，不知是不是楼主本人呀？
+#quote scl
+
+#p 20922149 golder laughter 2019-09-19 16:56:41
+用不了了😭
+#quote hiaoxui
+
+#p 20922489 scl scl 2019-09-19 18:39:08
+希望不是吧 我微信转了100 哈哈。。。
+#quote AmyCrane
+
+#p 20922699 dvoraz 德沃夏z 2019-09-19 19:36:54
+去 [https://blog.hiaoxui.com/blog/post/hiaoxui/alert](jump-to.php?url=https%3A%2F%2Fblog.hiaoxui.com%2Fblog%2Fpost%2Fhiaoxui%2Falert) 看呀
+"从 2019 年 8 月 26 日开始, 也就是第一次募捐之后, 我已经不能再使用 PKU 邮箱给您发邮件. 更准确来说, 我已经完全, 永久失去了 PKU 邮箱的所有权利 – 甚至不能读邮件, 包括过去收到的邮件. 封禁的理由是: 违反国家互联网相关管理条例."
+看起来是被贵校或者贵校的上级封了
+#quote scl
+
+#p 20923195 poincarehl Tensorflow 2019-09-19 21:39:30
+ss现在不要用了，用SSR吧
+#quote hiaoxui
+
+#p 20924072 hiaoxui 小辉 2019-09-20 03:01:37
+那个人是我, 不是别人.
+抱歉给你带来一些误会. 我是发完邮件之后被封掉邮箱权限的.
+非常感谢你的捐款!
+#quote scl
+
+#p 20924073 hiaoxui 小辉 2019-09-20 03:02:08
+是的. 我更新一下那个 notification, 避免给你们带来误会.
+#quote AmyCrane
+
+#p 20924076 hiaoxui 小辉 2019-09-20 03:04:47
+是用 ssr 的. 但是不论什么协议都会被干掉的.
+#quote poincarehl
+
+#p 20924331 poincarehl Tensorflow 2019-09-20 07:58:06
+对现在SSR也不太安全了
+#quote hiaoxui
+
+#p 20924340 scl scl 2019-09-20 08:01:43
+哈哈 那就好 要谢谢你给大家提供了这么长时间的服务才对~
+#quote hiaoxui
+
+#p 20924431 IlIl 王铁崖 2019-09-20 08:39:38
+感动。
+#quote hiaoxui
+
+#p 20924634 Alpher 小现 2019-09-20 09:20:55
+嗯
+就是现在墙越来越高。。。。
+#quote IlIl
+
+#p 20924811 IlIl 王铁崖 2019-09-20 09:56:22
+李向阳：封锁越来越紧
+#quote Alpher
+
+#p 20925205 ybz 吐伙琻 2019-09-20 11:06:40
+越来越高
+#quote hiaoxui
+
+#p 20925209 Alpher 小现 2019-09-20 11:08:03
+爬墙，梯子
+哈哈，这些词汇真是太形象了
+#quote ybz
+
+#p 20925516 sxpeter  2019-09-20 12:15:28
+ERR_CONNECTION_CLOSED
+日志上看几乎是瞬间被断开。。
+[2019-09-20 12:08:00] [Info] Connect www.google.com:443
+[2019-09-20 12:08:00] [Info] Direct connect fonts.gstatic.com:443
+[2019-09-20 12:08:00] [Info] Direct connect ssl.gstatic.com:443
+[2019-09-20 12:08:00] [Info] Direct connect www.gstatic.com:443
+[2019-09-20 12:08:00] [Info] Connect apis.google.com:443
+[2019-09-20 12:08:11] [Info] Disconnect www.google.com:443
+[2019-09-20 12:08:11] [Info] Disconnect apis.google.com:443
+[2019-09-20 12:08:42] [Info] Connect www.google.com:443
+[2019-09-20 12:08:42] [Info] Direct connect fonts.gstatic.com:443
+[2019-09-20 12:08:42] [Info] Direct connect ssl.gstatic.com:443
+[2019-09-20 12:08:42] [Info] Direct connect www.gstatic.com:443
+[2019-09-20 12:08:42] [Info] Connect apis.google.com:443
+[2019-09-20 12:08:42] [Info] Disconnect apis.google.com:443
+#quote hiaoxui
+
+#p 20926248 zhaozg 一棵树 2019-09-20 15:12:00
+现在用v2ray是不是好点？
+#quote hiaoxui
+
+#p 20926395 yuanhuang 鬼儿飘~ 2019-09-20 15:48:41
+谢谢雷锋楼主
+在墙越来越高的日子里找到一个能用的配置真的是感动哭了
+再次感谢
+祝楼主一切安好
+#quote hiaoxui
+
+#p 20926575 yuyuyu 吃鱼吃鱼给我鱼 2019-09-20 16:18:48
+pku邮箱被封了吗/(ㄒoㄒ)/~~还有正常的老师同学联系人啊，希望你没有太大麻烦...
+好人一生平安/(ㄒoㄒ)/~~
+#quote hiaoxui
+
+#p 20926594 attention "" 2019-09-20 16:21:26
+同问，正考虑换成 v2ray，还没测试过
+#quote zhaozg
+
+#p 20926685 ljhhh 黑洞 2019-09-20 16:40:00
+IPv4是全部阵亡了吗🙊，一片红也太惨了
+#quote hiaoxui
+
+#p 20927906 hiaoxui 小辉 2019-09-20 21:35:47
+你用的什么服务器? IPv4 or IPv6?
+#quote sxpeter
+
+#p 20927908 hiaoxui 小辉 2019-09-20 21:36:30
+我一直觉得和协议无关, 无论如何都会被干掉. V2Ray 生态环境不太好, 不是很想用.
+#quote zhaozg
+
+#p 20927909 hiaoxui 小辉 2019-09-20 21:37:00
+谢谢你的支持
+#quote yuanhuang
+
+#p 20927912 hiaoxui 小辉 2019-09-20 21:37:50
+已经毕业了, PKU 邮箱不是必需品. 唯一担心的要素就是之前发表的文章联系方式失效了.
+#quote yuyuyu
+
+#p 20927917 hiaoxui 小辉 2019-09-20 21:39:36
+私以为和协议无关, 无论如何都会被干掉. 要么换 IPv6, 要么就买小时计费的服务器, 经常换.
+#quote attention
+
+#p 20927923 hiaoxui 小辉 2019-09-20 21:41:07
+我有更换 IPv4 服务器地址, 但是几乎没有服务器能坚持过 24h. 个人的力量在墙的面前还是太薄弱了.
+#quote ljhhh
+
+#p 20927931 Alpher 小现 2019-09-20 21:42:30
+IPv6为啥没有墙，什么原理？
+#quote hiaoxui
+
+#p 20927938 hiaoxui 小辉 2019-09-20 21:44:38
+猜测是 IPv6 在全国范围还不够普及, 暂时不会引起太大的影响.
+IPv6 地址非常多, 据我所知墙迄今为止还没有按段封禁过 IP, 所以如何对付 IPv6 还是个难题.
+#quote Alpher
+
+#p 20927951 hiaoxui 小辉 2019-09-20 21:46:28
+近期论文 DDL, 刚开学还有很多事情在忙, 实在没有精力维护 IPv4 服务器. 非常抱歉.
+#quote hiaoxui
+
+#p 20927978 Alpher 小现 2019-09-20 21:52:14
+可惜我们单位里都是v4
+不知道家里的宽带是不是v6
+#quote hiaoxui
+
+#p 20928046 ljhhh 黑洞 2019-09-20 22:09:49
+啊，这样啊，实在辛苦了
+#quote hiaoxui
+
+#p 20928305 sxpeter  2019-09-20 23:03:39
+所有的ipv6
+#quote hiaoxui
+
+#p 20929083 Doggy 流年暗度 2019-09-21 02:16:01
+太感谢了！最近各种梯子都挂了，哀鸿遍野，总算找到能用的了！
+#quote hiaoxui
+
+#p 20932882 hiaoxui 小辉 2019-09-21 23:40:40
+这.. 您在校内吗?
+#quote sxpeter
+
+#p 20933145 Drace 海洋淡水虾 2019-09-22 00:47:51
+帮顶，十分感谢楼主。VPN行业的乱象确实会给使用者造成困扰，特别是一些免费VPN所宣传的东西，应该是更大的危害，也请一些人员给予考虑
+#quote hiaoxui
+
+#p 20933163 whcpumpkin 南瓜丶Aale 2019-09-22 00:55:38
+再次感谢楼主提供的服务。
+#quote hiaoxui
+
+#p 20934097 oxhongtao Change 2019-09-22 10:42:47
+感谢校友！
+#quote hiaoxui
+
+#p 20934178 vimacs Lisp Interaction Paredit AC 2019-09-22 11:04:31
+
+
+2019-09-22 11:03:04
+IPv6也不是没有墙，前几天我还试过IPv6 WireGuard，里面的HTTPS流量全挂了。（WireGuard现在只适合做VPN，不适合翻墙了。）
+不过同一个服务器，我IPv4下的shadowsocks-libev和SSH代理都还能用。
+#quote Alpher
+
+#p 20934300 simonyang ** ** 2019-09-22 11:28:58
+感谢！好人一生平安！
+#quote hiaoxui
+
+#p 20934833 sxpeter  2019-09-22 13:51:45
+在啊。。
+Ethernet adapter *******:
+   Connection-specific DNS Suffix  . :
+   Description . . . . . . . . . . . :  ******* Gigabit Network Connecti
+on
+   Physical Address. . . . . . . . . : 10-**-**-**-**-**
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+   IPv6 Address. . . . . . . . . . . : 2001:da8:201:****:****:****:****:****(Pre
+ferred)
+   Temporary IPv6 Address. . . . . . : 2001:da8:201:****:****:****:****:****(Pre
+ferred)
+   Link-local IPv6 Address . . . . . : fe80::****:****:****:****%15(Preferred)
+   IPv4 Address. . . . . . . . . . . : 10.128.***.***(Preferred)
+   Subnet Mask . . . . . . . . . . . : 255.255.***.***
+   Default Gateway . . . . . . . . . : fe80::****:****:****:****%15
+                                       10.128.*.*
+   DHCP Server . . . . . . . . . . . : 115.27.*.*
+   DNS Servers . . . . . . . . . . . : 162.105.129.***
+                                       162.105.129.***
+   NetBIOS over Tcpip. . . . . . . . : Enabled
+#quote hiaoxui
+
+#p 20937700 hiaoxui 小辉 2019-09-23 01:00:52
+根据 ipconfig 来看已经是分配到了 IPv6 地址无疑.
+建议邮件联系. 我的邮箱是 wallesspku@hotmail.com
+可以顺便把你的配置截图发给我.
+#quote sxpeter
+
+#p 20941626 Timoteo Joan 2019-09-23 21:37:38
+今天梯子挂了，感谢楼主，又活过来了！
+#quote hiaoxui
+
+#p 20994915 seaandgull 这是一只逗比 2019-09-25 01:21:15
+请问那个使用限额20GB是到了之后就不能再用您的这个服务了吗...很感谢但是很担心用完的时候
+#quote hiaoxui
+
+#p 20994949 CoreM AMDYES 2019-09-25 01:35:38
+有个免费的服务器，不受流量限制。
+不过大环境影响，整体都不太稳定。
+#quote seaandgull
+
+#p 20995783 fourcats 四只猫咖啡馆 2019-09-25 10:01:34
+感谢楼主，终于又救活了谷歌。。。
+#quote hiaoxui
+
+#p 20996691 seaandgull 这是一只逗比 2019-09-25 13:07:22
+谢谢回复！！
+不过我后来终于找到lz的blog里面的流量政策了。应该是每天会自动+2GB诶。
+太感谢lz了！！！
+#quote CoreM
+
+#p 21000365 hiaoxui 小辉 2019-09-26 10:32:07
+请不要误会. 你每天都会恢复 2G 流量. 而且大部分服务器的权重也不是 1.
+这个流量上限其实不算很严格. 我主要是担心你的配置信息泄漏到公网, 导致流量被盗用.
+#quote seaandgull
+
+#p 21000369 hiaoxui 小辉 2019-09-26 10:32:26
+已经全面恢复 IPv4 服务!
+#quote CoreM
+
+#p 21000438 CoreM AMDYES 2019-09-26 10:45:58
+好几天上不了谷歌学术……难受
+#quote hiaoxui
+
+#p 21000511 hiaoxui 小辉 2019-09-26 10:59:04
+请尝试一下现在能不能用?
+我不在国内, 很需要你们的体验报告.
+#quote CoreM
+
+#p 21000650 Karonheaven  2019-09-26 11:22:50
+关掉自己的服务器后测试了一下用v4和v6通道均无法上Google
+我再测试一下TCP
+#quote hiaoxui
+
+#p 21000659 CoreM AMDYES 2019-09-26 11:24:50
+现在可以用了！感谢～
+#quote hiaoxui
+
+#p 21000975 hiaoxui 小辉 2019-09-26 12:38:19
+你是直连?
+#quote Karonheaven
+
+#p 21001154 Karonheaven  2019-09-26 13:20:59
+测试的时候是全局模式
+#quote hiaoxui
+
+#p 21001171 hiaoxui 小辉 2019-09-26 13:24:16
+我们可以在邮件或者 telegram 联系 @hiaoxui, wallesspku@hotmail.com
+#quote Karonheaven
+
+#p 21001182 Karonheaven  2019-09-26 13:27:24
+谢谢您，不过我还是想在联系您之前排除这边的问题，尽量少打扰您
+#quote hiaoxui
+
+#p 21001771 chuanqingren 穿青人 2019-09-26 15:24:28
+你成功了吗
+#quote CoreM
+
+#p 21002226 Homagod 不愉快です 2019-09-26 16:48:42
+谢谢！
+#quote hiaoxui
+
+#p 21003184 rapport 算策 2019-09-26 21:13:53
+给楼主点个赞，Google服务又可以使用了！
+#quote hiaoxui
+
+#p 21003456 itswk Anonymous 2019-09-26 22:32:31
+总提示“我还没有收到你的邮件. 请确认你用 PKU 邮箱向我发送了邮件. 注意可能会有一分钟左右的延迟.” 这是怎么回事呢？
+#quote hiaoxui
+
+#p 21005563 hiaoxui 小辉 2019-09-27 06:37:35
+是不是用了不一样的 alias?
+#quote itswk
+
+#p 21016667 pwdpwd pwdpwd 2019-09-29 11:22:48
+请问是每次连ssr都要重新申请一遍新的配置信息吗，还是可以长期使用，还有Windows系统和手机安卓系统可以共用一个配置信息吗
+#quote hiaoxui
+
+#p 21017345 hiaoxui 小辉 2019-09-29 14:12:18
+不需要, 长期使用.
+可以共享.
+#quote pwdpwd
+
+#p 21017636 kamile 豆瓣：CarlosChatter ~ 2019-09-29 15:21:29
+感觉和以前用起来一样好~（感动到哭泣）
+#quote hiaoxui
+
+#p 21032062 NicoleG 弗莱丨剥皮的栗子 2019-09-30 19:48:13
+
+
+2019-09-30 11:38:31
+你这个限流量和速度吗？我想帮我们导师弄一下
+以及我需要重新用导师邮箱给你发，还是可以用我的？
+#quote hiaoxui
+
+#p 21032921 pwdpwd pwdpwd 2019-09-30 16:04:58
+请问各位连了代理网络，为什么还是没法创建一个Google账号呀
+#quote hiaoxui
+
+#p 21033939 hiaoxui 小辉 2019-09-30 21:46:12
+速度基本不限, 流量政策: [https://blog.hiaoxui.com/blog/post/hiaoxui/ssr-data-policy-zh](jump-to.php?url=https%3A%2F%2Fblog.hiaoxui.com%2Fblog%2Fpost%2Fhiaoxui%2Fssr-data-policy-zh)
+最好是让他自己来注册. 这样方便我了解每个人的流量使用情况.
+#quote NicoleG
+
+#p 21033950 NicoleG 弗莱丨剥皮的栗子 2019-09-30 21:49:36
+导师的surface 平板电脑今天试了一下，用不了怎么破？
+#quote hiaoxui
+
+#p 21034015 hiaoxui 小辉 2019-09-30 22:13:50
+用的几号服务器?
+我今天挂了一批服务器, 刚刚更换.
+#quote NicoleG
+
+#p 21034922 NicoleG 弗莱丨剥皮的栗子 2019-10-01 07:41:37
+1-6都试了，我今天在试一下，辛苦了
+#quote hiaoxui
+
+#p 21046067 PKUWang 搬砖达人 2019-10-04 12:37:23
+您好，请问访问google学术时提示：
+We're sorry...
+... but your computer or network may be sending automated queries. To protect our users, we can't process your request right now.
+请问应该怎么办？谢谢！
+#quote hiaoxui
+
+#p 21046096 hiaoxui 小辉 2019-10-04 12:45:13
+换一台服务器. 有些服务器的 IP 在 google scholar 屏蔽的 IP 段内.
+#quote PKUWang
+
+#p 21046180 PKUWang 搬砖达人 2019-10-04 13:18:29
+我没换，刚试了一下，又可以访问了。
+谢谢您！
+#quote hiaoxui
+
+#p 21052299 supernal super 哪跟哪 2019-10-05 23:19:11
+虽然我还木有试验成功，先谢谢伟大的楼主
+#quote hiaoxui
+
+#p 21059219 HelloOTS Hi 2019-10-07 18:59:11
+一个服务器也上不了，到底是为什么呢？
+是不是我手机的问题
+#quote hiaoxui
+
+#p 21059310 AdaLovelace 艰难留得余生在 2019-10-07 19:28:06
+同楼上 Windows系统没问题，但手机（iOS）不行……
+#quote hiaoxui
+
+#p 21060832 hiaoxui 小辉 2019-10-08 00:44:06
+把配置截图发给 wallesspku@hotmail.com, 我看看是不是配置问题.
+#quote HelloOTS
+
+#p 21060833 hiaoxui 小辉 2019-10-08 00:44:14
+你用的什么 App?
+#quote AdaLovelace
+
+#p 21060871 AdaLovelace 艰难留得余生在 2019-10-08 00:56:08
+Potatso Lite 配置和Windows端填写的一样
+#quote hiaoxui
+
+#p 21061178 hiaoxui 小辉 2019-10-08 05:53:37
+你可以截图发给我的邮箱
+#quote AdaLovelace
+
+#p 21061570 johnkee johnkee 2019-10-08 09:33:47
+资持
+#quote hiaoxui
+
+#p 21061617 Rayz C0M100Y100K45 2019-10-08 09:44:12
+感谢！支持！
+#quote hiaoxui
+
+#p 21062790 zgpat 书剑飘零 2019-10-08 13:11:47
+赞，真可以用，之前搬瓦工挂了后真没办法了
+#quote hiaoxui
+
+#p 21062922 yuanhuang 鬼儿飘~ 2019-10-08 13:38:05
+弱弱问一句
+“端口已被占用”是什么错误
+#quote hiaoxui
+
+#p 21063119 menson Sheldon 2019-10-08 14:24:19
+设置成功，太感谢啦，哈哈哈哈哈
+#quote hiaoxui
+
+#p 21063140 STEREO Rebirth of Firmament 2019-10-08 14:28:56
+赞楼主
+#quote hiaoxui
+
+#p 21063472 hiaoxui 小辉 2019-10-08 15:50:22
+一般是因为你开了两个客户端. 默认设置下, 每开启一个 SSR, 它就会监听系统的 1080 端口. 一个端口不能被多个软件监听, 所以就会冲突.
+#quote yuanhuang
+
+#p 21067485 lorivue 千反田 える 2019-10-09 11:25:45
+最近商用翻墙软件用不了，刚刚连上了学长的服务器，感谢学长，感恩！
+#quote hiaoxui
+
+#p 21072824 arran ----- 2019-10-10 09:31:36
+求问ipv4-ipv6都试了一下，配置也好像没啥问题，可是无法连接，pc端
+#quote hiaoxui
+
+#p 21072839 hiaoxui 小辉 2019-10-10 09:35:58
+可以把你的情况发给我邮箱吗? wallesspku@hotmail.com
+#quote arran
+
+#p 21074670 pkuplusplus 无事献殷勤 2019-10-10 15:56:01
+谢谢大佬
+#quote hiaoxui
+
+#p 21233671 PKUDDD 不如躺尸 2019-10-30 17:09:12
+昨天一天ipv4的都不能用了，只剩下ipv6了
+#quote hiaoxui
+
+#p 21235856 hiaoxui 小辉 2019-10-31 00:45:38
+四中全会, 理解一下.
+#quote PKUDDD
+
+#p 21238011 Nameless 麦田与十三岁|石榴成熟时 2019-10-31 14:15:05
+太难了，一年多稳定使用的服务器都挂了，都怀疑ipv4是不是用白名单制度了
+#quote hiaoxui
+
+#p 21239936 HaveFun lf@pku 2019-10-31 20:35:09
+楼主，之前用的好好的，不知道为什么最近几天挂掉了
+#quote hiaoxui
+
+#p 21240817 hiaoxui 小辉 2019-11-01 00:07:05
+四中全会, 比较敏感, 服务器挂了很多. 我会尽快恢复.
+#quote HaveFun
+
+#p 21240820 hiaoxui 小辉 2019-11-01 00:08:57
+我已经精疲力竭...
+#quote Nameless
+
+#p 21241638 PKUDDD 不如躺尸 2019-11-01 09:34:25
+hhh没问题，注意安全
+#quote hiaoxui
+

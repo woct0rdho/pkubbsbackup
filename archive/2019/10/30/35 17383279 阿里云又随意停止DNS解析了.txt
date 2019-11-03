@@ -1,0 +1,20 @@
+#t 35 17383279 ChairmanJ 2019-10-30 00:16:00 hiaoxui 2019-11-01 00:07:00
+阿里云又随意停止DNS解析了
+
+#p 21233235 ChairmanJ 僵还是老的辣 2019-10-30 16:26:02
+[https://zhuanlan.zhihu.com/p/87750413](jump-to.php?url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F87750413)
+是我了解的第三次了
+慧聪网、LeanCloud、码云
+互联网基础设施被垄断后果也挺严重的啊
+
+#p 21233461 Alpher 小现 2019-10-30 16:30:25
+没辙 
+#quote ChairmanJ
+
+#p 21241288 hiaoxui 小辉 2019-11-01 07:24:13
+8.8.8.8
+8.8.4.4
+1.1.1.1
+1.0.0.1
+#quote ChairmanJ
+
