@@ -1,0 +1,10 @@
+#t 668 17389488 PKUwuming 2019-11-03 19:40:00 PKUCC 2019-11-03 19:55:00
+北大网盘不能登录了？
+
+#p 21253717 PKUwuming 无名 2019-11-03 19:39:29
+在[https://disk.pku.edu.cn](jump-to.php?url=https%3A%2F%2Fdisk.pku.edu.cn)输入账户和密码后，提示“第三方认证未开启”，登录不了
+
+#p 21253770 PKUCC 北京大学计算中心 2019-11-03 19:55:03
+在维护，已经发通知了，明天早上恢复
+#quote PKUwuming
+
