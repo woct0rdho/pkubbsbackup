@@ -1,4 +1,4 @@
-#t 668 17389040 xumosky 2019-11-03 00:12:00 Energetic 2019-11-04 10:10:00
+#t 668 17389040 xumosky 2019-11-03 00:12:00 xianyuyys 2019-11-04 21:53:00
 北大网盘资料分享
 
 #p 21252377 xumosky 一座山 2019-11-03 12:23:06
@@ -19,4 +19,8 @@
 #p 21255879 Energetic Squirrelled 2019-11-04 10:09:12
 请问北大网盘客户端在哪里下载呀
 #quote xumosky
+
+#p 21260143 xianyuyys 痒痒鼠 2019-11-04 21:52:08
+disk.pku.edu.cn 首页左下角就有客户端下载
+#quote Energetic
 
