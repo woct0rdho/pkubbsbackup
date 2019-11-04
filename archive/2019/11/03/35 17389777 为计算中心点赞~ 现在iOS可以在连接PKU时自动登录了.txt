@@ -1,4 +1,4 @@
-#t 35 17389777 Thesharing 2019-11-03 00:23:00 Thesharing 2019-11-03 00:23:00
+#t 35 17389777 Thesharing 2019-11-03 00:23:00 jukcoeng 2019-11-04 10:48:00
 为计算中心点赞~ 现在iOS可以在连接PKU时自动登录了
 
 #p 21254665 Thesharing Thesharing 2019-11-03 23:54:34
@@ -27,4 +27,8 @@ iOS 13版本支持在一些条件下触发自动化操作，当时想到可以�
 这样就设置完成了……
 <img src="https://bbs.pku.edu.cn/attach/4d/e3/4de340c097fb51c5/8.jpg"/>
 但是不知道为什么关掉WiFi重新打开WiFi不会触发，这个触发条件的判定有点迷……
+
+#p 21256070 jukcoeng 小灰灰 2019-11-04 10:47:38
+回去试一试
+#quote Thesharing
 
