@@ -1,7 +1,7 @@
-#t 251 17357667 Masonry 2019-10-14 00:01:00 Masonry 2019-11-02 23:43:00
+#t 251 17357667 Masonry 2019-10-14 00:01:00 Masonry 2019-11-05 18:04:00
 译庞加莱的《科学的价值》
 
-#p 21091859 Masonry 东尼探长 雁园警视厅 2019-11-02 00:45:38
+#p 21091859 Masonry 东尼探长 雁园警视厅 2019-11-03 14:47:59
 
 
 2019-10-14 01:58:37
@@ -21,6 +21,7 @@
     II    17楼 [https://bbs.pku.edu.cn/v2/post-read-single.php?bid=251&amp;postid=21225521](post-read-single.php?bid=251&amp;postid=21225521)
     III   21楼 [https://bbs.pku.edu.cn/v2/post-read-single.php?bid=251&amp;postid=21243927](post-read-single.php?bid=251&amp;postid=21243927)
     IV   22楼 [https://bbs.pku.edu.cn/v2/post-read-single.php?bid=251&amp;postid=21246571](post-read-single.php?bid=251&amp;postid=21246571)
+    V    23楼 [https://bbs.pku.edu.cn/v2/post-read-single.php?bid=251&amp;postid=21250717](post-read-single.php?bid=251&amp;postid=21250717)
 2. 时间的测量
 3. 空间的观念
 4. 空间和它的三个维度
@@ -171,11 +172,11 @@ Does the harmony the human intelligence thinks it discovers in nature exist outs
 下一篇开始进入数学科学的部分，讲的是数学中的直觉与逻辑这两种思考模式。这种思维倾向的差异在数学家身上是很明显的，对数学感兴趣的同学尤其应该一读（陶哲轩曾在博客中推荐此文）。
 用Poincaré自己的引言来介绍：
 
-#p 21211679 Masonry 东尼探长 雁园警视厅 2019-10-28 18:47:44
+#p 21211679 Masonry 东尼探长 雁园警视厅 2019-11-02 23:44:18
 
 
 2019-10-27 15:24:58
-Intuition and Logic in Mathematics
+Intuition and logic in mathematics
 数学中的直觉和逻辑
 **I**
 **一**
@@ -214,16 +215,16 @@ The two sorts of minds are equally necessary for the progress of science; both t
 “数学中的直觉和逻辑”的I部分已译完，因为后面一篇文章的篇幅较长，而且作者已将文章分成小的部分，我将每段都另回一贴，这也是为方便读者阅读。
 在数学中，直觉和逻辑的张力是最值得注意的事情了。庞加莱在以上文中举了一些著名数学家作为例子，具有相当的启发性。因此，再次推荐“数学中的直觉和逻辑”这篇文章。
 
-#p 21225521 Masonry 东尼探长 雁园警视厅 2019-11-01 17:16:54
+#p 21225521 Masonry 东尼探长 雁园警视厅 2019-11-04 11:46:08
 
 
 2019-10-29 20:38:19
-Intuition and Logic in Mathematics
+Intuition and logic in mathematics
 数学中的直觉和逻辑
 **II**
 **二**
 Strange! If we read over the works of the ancients we are tempted to class them all among the intuitionalists. And yet nature is always the same; it is hardly probable that it has begun in this century to create minds devoted to logic. If we could put ourselves into the flow of ideas which reigned in their time, we should recognize that many of the old geometers were in tendency analysts. Euclid, for example, erected a scientific structure wherein his contemporaries could find no fault. In this vast construction, of which each piece however is due to intuition, we may still to-day without much effort, recognize the work of a logician.
-奇怪！若去读早期数学家的著作，我们会觉得他们都是直觉者。然而，自然从那时到现在无甚变化；要说自然在本世纪才开始创造擅长逻辑的心智，实在不太可能。假如我们能设身处地，想象自己身处于当时的思想源流中，我们会发现，那时就有许多几何学家具有分析学家的倾向。比如，欧几里得构筑的那个科学结构，在他的时代看起来是无可挑剔的。在这个宏伟的建构中，每一个部件都依直觉产生，但这在今天看来无疑是个逻辑者的杰作。
+奇怪！若去读早期数学家的著作，我们会觉得他们都是直觉者。然而，自然从那时到现在无甚变化；要说自然在本世纪才开始创造擅长逻辑的心智，实在不太可能。如果身处于当时的思想源流中，我们会发现，那时就有许多几何学家具有分析学家的倾向。比如，欧几里得构筑的那个科学结构，在他的时代看起来是无可挑剔的。在这个宏伟的建构中，每一个部件都依直觉产生，但这在今天看来无疑是个逻辑者的杰作。
 It is not minds that have changed, it is ideas; the intuitional minds have remained the same; but their readers have required of them greater concessions. 
 **改变的并非心智，而是想法；直觉的心智仍和原来一样；不过，如今读者却要求他们作出更多退让。**
 What is the cause of this evolution? It is not hard to find. Intuition can not give us rigor, nor even certainty; this has been recognized more and more. Let us cite some examples. We know there exist continuous functions lacking derivatives. Nothing is more shocking to intuition than this proposition which is imposed upon us by logic. Our fathers would not have failed to say:”It is evident that every continuous function has a derivative, since every curve has a tangent.”
@@ -289,7 +290,7 @@ Now in the analysis of today, when one cares to take the trouble to be rigorous,
 在当今的分析学中，若某个人愿意自找麻烦追求严格，他其实也只是把三段论用于数字直觉罢了，只有这种直觉不会欺骗我们。**可以说，在今天的分析学中，我们已达到了完全的严格。**
 （III 译完）
 
-#p 21246571 Masonry 东尼探长 雁园警视厅 2019-11-02 20:24:41
+#p 21246571 Masonry 东尼探长 雁园警视厅 2019-11-03 00:45:08
 
 
 2019-11-02 00:43:22
@@ -310,24 +311,56 @@ Well, is it not a great advance to have distinguished what long was wrongly conf
 This shows us that logic is not enough; that the science of demonstration is not all science and that intuition must retain its role as complement, I was about to say, as counterpoise or as antidote of logic.
 这告诉我们，**只有逻辑是不够的**；证明的学问并非科学的全部，而直觉必须保留它与逻辑互补的角色，甚至充当逻辑的解毒药。
 I have already had occasion to insist on the place intuition should hold in the teaching of the mathematical sciences. Without it young minds could not make a beginning in the understanding of mathematics; they could not learn to love it and would see in it only a vain logomachy; above all, without intuition they would never become capable of applying mathematics. But now I wish before all to speak of the role of intuition in science itself. If it is useful to the student, it is still more so to the creative scientist. 
-我现在终于得到一个机会，来主张直觉在数学教育中的地位了。若没有直觉，年轻人永远也不能开始理解数学；他们也不可能学会热爱数学，而只会把它当成无聊的文字游戏；更重要的是，若没有直觉，他们就永远都无法掌握应用数学的能力。然而，我现在更希望讨论的是，直觉在科学中的重要性。**如果直觉对学生都如此重要，那它对创造性的科学家就更是如此了。**
+我现在终于得到一个机会，来主张直觉在数学教育中的地位了。若没有直觉，年轻人永远也不能开始理解数学；他们也不可能学会热爱数学，而只会把它当成无聊的文字游戏；更重要的是，若没有直觉，他们就永远都无法掌握使用数学的能力。然而，我现在更希望讨论的是，直觉在科学中的重要性。**如果直觉对学生都如此重要，那它对创造性的科学家就更是如此了。**
 （IV 译完）
 （参考了@Miky的翻译，十分感谢）
 
-#p 21250717 Masonry 东尼探长 雁园警视厅 2019-11-02 23:42:47
+#p 21250717 Masonry 东尼探长 雁园警视厅 2019-11-03 15:31:36
+
+
+2019-11-02 23:42:47
 Intuition and logic in mathematics
 数学中的直觉和逻辑
 **V**
 **五**
 We seek reality, but what is reality? The physiologists tell us that organisms are formed of cells; the chemists add that cells themselves are formed of atoms. Does this mean that these atoms or these cells constitute reality, or rather the sole reality? The way in which these cells are arranged and from which results the unity of the individual, is not it also a reality much more interesting than that of the isolated elements, and should a naturalist who had never studied the elephant except by means of the microscope think himself sufficiently acquainted with that animal?
-我们追寻着现实，但什么是现实？生理学家说，有机体是由细胞组成的；化学家接着补充说，细胞是由原子组成的。这是不是意味着这些原子或细胞构成了现实，甚至是唯一的现实？这些细胞按一定的方式排列形成一个统一的个体，这个现实不是比组成它的基元更值得研究吗？假如一个自然主义者始终只用显微镜观察大象，他会觉得自己很了解那动物吗？
+我们追寻现实，但什么是现实？生理学家说，有机体是由细胞组成的；化学家接着补充说，细胞是由原子组成的。这是不是意味着这些原子或细胞构成了现实，甚至是唯一的现实？这些细胞按一定方式排列形成统一的个体，然而个体的现实不也比它的基元更值得研究吗？**假如一个自然主义者只用显微镜观察过大象，他会觉得自己很了解这个动物吗？**
 Well, there is something analogous to this in mathematics. The logician cuts up, so to speak, each demonstration into a very great number of elementary operations; when we have examined these operations one after the other and ascertained that each is correct, are we to think we have grasped the real meaning of the demonstration? Shall we have understood it even when, by an effort of memory, we have become able to repeat this proof by reproducing all these elementary operations in just the order in. Which the inventor had arranged them? Evidently not; we shall not yet possess the entire reality; that I know not what which makes the unity of the demonstration will completely elude us. 
-数学中，也有相似的情形。逻辑学家将每一个论证切割成很多个简单运算；在我们逐个检验过每一步运算后，我们一定能把握它的真正含义吗？更进一步，假如我凭记忆把整个论证背诵下来，而且能按原先顺序逐步重复这个论证，我就可以说自己明白了吗？显然不行；即便如此，我们也还没有完全掌握整个现实；我仍不知道是什么东西将这个论证合为一体，因此完全没有理解它。
+数学中，也有相似的情形。逻辑学家将每一个论证分割成多个简单运算；在我们逐个检验了每一步运算后，我们一定就把握了它真正的含义吗？更进一步，假如我凭记忆把整个论证背诵下来，因此能完全按原顺序把论证重复一遍，我就可以说自己明白了吗？显然不行；**即便如此，我们也显然没有完全掌握现实的全部**；我仍不知道是何物将论证结为一体，因此，我并没有理解它。
 Pure analysis puts at our disposal a multitude of procedures whose infallibility it guarantees; it opens to us a thousand different ways on which we can embark in all confidence; we are assured of meeting there no obstacles; but of all these ways, which will lead us most promptly to our goal? Who shall tell us which to choose? We need a faculty which makes us see the end from afar, and intuition is this faculty. It is necessary to the explorer for choosing his route; it is not less so to the one following his trail who wants to know why he chose it. 
-纯分析给了我们一系列可靠的操作；它向我们开启了一千条大道，而这一千条都是可信的；我们确定，在这些道路上不会遇到障碍；但在这些道路中，哪条路能最快的把我们引向目标呢？谁能告诉我们应该选择哪一条路？我们需要的是一个官能，让我们在远处就能看见终点，而直觉就是这个官能。直觉是探索者必需的，因为他一定要选择一条路；那些跟随他的脚步、希望理解他为何如此选择的人，也同样需要直觉。
+纯分析给了我们一系列可靠的操作；它向我们开启了一千条大道，而这一千条都是可信的；我们确定，在这些道路上不会遇到障碍；但在这些道路中，哪条路能最快的把我们引向目标呢？**谁能告诉我们应该选择哪一条路？我们需要的是一个官能，让我们在远处就能看见终点，而直觉就是这个官能。**直觉是探索者必需的，因为他一定要选择一条路；那些跟随他的脚步、希望理解他为何如此选择的人，也同样需要直觉。
 If you are present at a game of chess, it will not suffice, for the understanding of the game, to know the rules for moving the pieces. That will only enable you to recognize that each move has been made conformably to these rules, and this knowledge will truly have very little value. Yet this is what the reader of a book on mathematics would do if he were a logician only. To understand the game is wholly another matter; it is to know why the player moves this piece rather than that other which he could have moved without breaking the rules of the game. It is to perceive the inward reason which makes of this series of successive moves a sort of organized whole. This faculty is still more necessary for the player himself, that is, for the inventor.
+观看一局象棋游戏时，**了解象棋规则并不足以让你理解一局游戏。**它只能帮助你判断棋局中的每一步都符合规则，因此这类知识价值不高。然而，这恰是一个纯逻辑者在读数学书时做的事情。要理解一局游戏，则完全是另一回事了。这像是要理解一个玩家为何移动一枚棋子而不是另一枚棋子，虽然两者同样符合规则。这是**对内心推理的感知**，而正是这种内心推理将相继多步棋塑造为一个结构性的整体。**这一官能，对玩家或创造者而言更是不可或缺的。**
 Let us drop this comparison and return to mathematics. For example, see what has happened to the idea of continuous function. At the outset this was only a sensible image, for example, that of a continuous mark traced by the chalk on a blackboard. Then it became little by little more refined; ere long it was used to construct a complicated system of inequalities, which reproduced, so to speak, all the lines of the original image; this construction finished, the centering of the arch, so to say, was removed, that crude representation which had temporarily served as support and which was afterward useless was rejected; there remained only the construction itself, irreproachable in the eyes of the logician. And yet if the primitive image had totally disappeared from our recollection, how could we divine by what caprice all these inequalities were erected in this fashion one upon another? 
-Perhaps you think I use too many comparisons; yet pardon still another. You have doubtless seen those delicate assemblages of silicious needles has disappeared, there remains only a frail and elegant lace-work. True, nothing is there except silica, but what is interesting is the form this silica has taken, and we could not understand it if we did not know the living sponge which has given it precisely this form. Thus it is that the old intuitive notions of our fathers, even when we have abandoned them, still imprint their form upon the logical constructions we have put in their place.
+以上的类比暂告一段落，让我们回到关于数学的讨论中。作为例子，我们先看看连续函数这一概念的演变。最初，它不过是一个可感知的图像而已，就如同粉笔在黑板上画出的连续痕迹。之后它被逐渐改进；而在不久前，这个图像被用于构建一组复杂的不等式，这组不等式涵盖了所有可能的连续图像；一旦这个构造已经完成，“拱门的支架”就可以拆除了，作为支架的粗劣图像此后不再有用处，因而我们将它丢弃；现在只剩下已完成的构造了，它在逻辑者看来无可指责。但是，**如果这些简陋图像从我们的回忆中消失，我们要怎么知道，这些不等式最初是出于什么目的、按如此复杂的方式堆叠的呢？**
+Perhaps you think I use too many comparisons; yet pardon still another. You have doubtless seen those delicate assemblages of silicious needles which form the skeleton of certain sponges. When the organic matter has disappeared, there remains only a frail and elegant lace-work. True, nothing is there except silica, but what is interesting is the form this silica has taken, and we could not understand it if we did not know the living sponge which has given it precisely this form. Thus it is that the old intuitive notions of our fathers, even when we have abandoned them, still imprint their form upon the logical constructions we have put in their place.
+或许，你已对这么多类比感到不耐烦了；但请原谅我再提一个。你一定曾见过，那些由硅针形成的精美聚集物，是它们构成了一些海绵的骨架。当有机物消失后，就只剩下一副无比脆弱又典美的网状结构了。的确，这结构中除硅以外别无他物，但有趣的并非硅本身，而是硅所形成的结构。如果我们不知道，是生存其间的海绵决定了它的形式，那么我们将永远无法真正理解这一结构。与此相类，我们父辈的那些古老的直觉观念，在取而代之的逻辑构造中仍然铭刻着它们的印记，虽然我们早已将其遗弃。
 This view of the aggregate is necessary for the inventor; it is equally necessary for whoever wishes really to comprehend the inventor. Can logic give it to us? No; the name mathematicians give it would suffice to prove this. In mathematics logic is called analysis and analysis means division, dissection. It can have, therefore, no tool other than the scalpel and the microscope. 
-Thus logic and intuition have each their necessary role. Each is indispensable. Logic, which alone can give certainty, is the instrument of demonstration; intuition is the instrument of invention.
+对创造者而言，这种看待聚集物的观点不可或缺；对那些希望理解创造者的人而言，也是如此。逻辑能给我们这种观点吗？不能；数学家给逻辑起的名字，就足以说明这一问题。在数学中，逻辑被称为“分析”，而**“分析”的意思是“分解，剖析”**。所以，它充其量也只有解剖刀和显微镜一类的工具而已。
+Thus logic and intuition have each their necessary role. Each is indispensable. Logic, which alone can give certainty, is the instrument of demonstration; intuition is the instrument of invention. 
+因此，逻辑和直觉各有各的本职。两者均不可或缺。**唯有逻辑能给我们确定性，它是论证的器具；直觉，则是创造的器具。**
+（译完）
+（参考了@Miky的翻译，再次感谢）
+
+#p 21266635 Masonry 东尼探长 雁园警视厅 2019-11-05 18:03:03
+Intuition and logic in mathematics
+数学中的直觉与逻辑
+**VI**
+**六**
+But at the moment of formulating this conclusion I am seized with scruples. At the outset I distinguished two kinds of mathematical minds, the one sort logicians and analysts, the others intuitionalists and geometers. Well, the analysts also have been inventors. The names I have just cited make my insistence on this unnecessary. 
+然而，就在得到这一结论的那一刻，我的内心产生了一丝疑虑。文章开头处，我将数学心智分为两类，一类被称作逻辑者和分析学家，另一类是直觉者和几何学家。可是，分析学家也是数学的创造者。只要回想我前文引用的那些名字，这就不言而喻了。
+Here is a contradiction, at least apparently, which needs explanation. And first, do you think these logicians have always proceeded from the general to the particular, as the rules of formal logic would seem to require of them? Not thus could they have extended the boundaries of science; scientific conquest is to be made only by generalization. 
+初看起来，这件事自相矛盾，是需要进一步解释的。那么首先，难道你觉得那些逻辑者从来都是按照形式逻辑的规则，从普遍推及一般的吗？如果是这样，那逻辑者就不可能将科学的边界延伸了；因为科学的征程只有通过泛化才得以前进。
+In one of the chapters of ‘Science and Hypothesis’, I have had occasion to study the nature of mathematical reasoning, and I have shown how this reasoning, without ceasing to be absolutely rigorous, could lift us from the particular to the general by a procedure I have called mathematical induction. It is by this procedure that the analysts have made science progress, and if we examine the detail itself of their demonstrations, we shall find it there at each instant beside the classic syllogism of Aristotle. We, therefore, see already that the analysts are not simply makers of syllogisms after the fashion of the scholastics. 
+在“科学与假设”的某一章中，我曾论及数学推理的本质，我还说明了这种推理如何在不失严格性的前提下将我们从具体升华至一般，我把这方法叫做“数学归纳法”。就是通过这一方法，分析学家们将科学不断推进，而如果我们仔细研读他们的论证，我们会发现它与亚里士多德的三段论随处可见。因此我们已经看到，分析学家并不像经院学者那样只知道制造三段论。
+Besides, do you think they have always marched step by step with no vision of the goal they wished to attain? They must have divined the way leading thither, and for that they needed a guide. This guide is, first, analogy. For example, one of the methods of demonstration dear to analysts is that founded on the employment of dominant functions. We know it has already served to solve a multitude of problems; in what consists then the role of the inventor who wishes to apply it to a new problem? At the outset he must recognize the analogy of this question with those which have already be solved by this method; then he must perceive in what way this new question differs from the others, and thence deduce the modifications necessary to apply the methods. 
+But how does one perceive these analogies and these differences? In the example just cited they are almost always evident, but I could have found others where they would have been much more deeply hidden; often a very uncommon penetration is necessary for their discovery. The anlalyst, not to let these hidden analogies escape them, that is, in order to be inventors, must without the aid of senses and imagination, have a direct sense of what constitutes the unity of a piece of reasoning, of what makes, so to speak, its soul and inmost life. 
+When one talked with M. Hermite, he never evoked a sensuous image, and yet you soon perceived that the most abstract entities were for him like living beings. He did not see them, but he perceived that they are not an artificial assemblage, and that they have some principle of internal unity. 
+But, one will say, that still is intuition. Shall we conclude that the distinction made at the outset was only apparent, that there is only one sort of mind and that all mathematicians are intuitionalists, at least those who are capable of inventing?
+No, our distinction corresponds to something real. I have said above that there are many kinds of intuition. I have said how much the intuition of pure number, whence comes rigorous mathematical induction, differ from sensible intuition to which the imagination, properly so called, is the principal contributor. 
+Is the abyss which separates them less profound than it first appeared? Could we recognize with a little attention that this pure intuition itself could not do without the aid of the senses? This is the affair of the psychologist and the metaphysician and I shall not discuss the question. But the thing’s being doubtful is enough to justify me in recognizing and affirming an essential difference between the two kinds of intuition; they have not the same object and seem to call into play two different faculties of our soul; one would think of two search-lights directed upon two worlds strangers to one another. 
+It is the intuition of pure number, that of pure logical forms, which illumines and directs those we have called analysts. This it is which enables them not alone to demonstrate, but also to invent. By it they perceive at a glance the general plan of a logical edifice, and that too without the senses appearing to intervene. In rejecting the aid of the imagination, which, as we have seen, is not always infallible, they can advance without fear of deceiving themselves. Happy, therefore, are those who can do without this aid! We must admire them; but how rare they are!
+Among the analysts there will then be inventors, but they will be few. The majority of us, if we wished to see afar by pure intuition alone, would soon feel ourselves seized with vertigo. Our weakness has need of a staff more solid, and, despite the exceptions of which we have just spoken, it is none the less true that sensible intuition is in mathematics the most usual instrument of invention. 
+Apropos of these reflections, a question comes up that I have not the time either to solve or even to enunciate with the developments it would admit of. Is there room for a new distinction, for distinguishing among the analysts those who above all use this pure intuition and those who are first of all preoccupied with formal logic?
+M. Hermite, for example, whom I have just cited, can not be classed among the geometers who make use of the sensible intuition; but neither is he a logician, properly so called. He does not conceal his aversion to purely deductive procedures which start from the general and end in the particular.
 
