@@ -1,4 +1,4 @@
-#t 251 17392619 SQ 2019-11-05 00:17:00 hfeoq 2019-11-06 05:30:00
+#t 251 17392619 SQ 2019-11-05 00:17:00 MDP 2019-11-06 06:45:00
 网络上的一些（我认为的）低级跟风现象
 
 #p 21266562 SQ mother father gentleman 2019-11-05 17:41:29
@@ -205,4 +205,9 @@ Manchuria是啥，只知道mandarin
 #p 21268470 hfeoq hfeoq 2019-11-06 05:29:31
 lz可是太高级了
 #quote SQ
+
+#p 21268523 MDP MarkovDecisionProcess 2019-11-06 06:44:44
+满洲。
+这个词的地理范围相当于内东北+外东北。对应于西伯利亚Siberia
+#quote wuruiyang
 
