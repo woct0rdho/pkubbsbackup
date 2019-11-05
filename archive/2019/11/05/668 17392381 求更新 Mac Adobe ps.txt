@@ -1,0 +1,19 @@
+#t 668 17392381 albertfreud 2019-11-05 15:04:00 dkwww 2019-11-05 15:46:00
+求更新 Mac Adobe ps
+
+#p 21265331 albertfreud ^_^ 2019-11-05 15:03:36
+软件库的ps不兼容最新的Mac ca系统
+
+#p 21265934 PKUCC 北京大学计算中心 2019-11-05 15:33:22
+学校向供应商采购的是adobe 2018版的，由于近期mac os升级导致32位应用无法在mac上使用。目前还在向adobe供应商寻求解决方案
+#quote albertfreud
+
+#p 21265997 lysandreho 隔壁村的阿领儿 2019-11-05 15:44:23
+你好，请问mac ps如何激活？下载的exe文件mac系统无法打开呢
+#quote PKUCC
+
+#p 21266005 dkwww 高去高回 2019-11-05 15:46:17
+Re
+从十月初等到现在了orz
+#quote albertfreud
+
