@@ -1,0 +1,12 @@
+#t 668 17393046 cwcheong 2019-11-05 23:07:00 PKUCC 2019-11-05 23:19:00
+MAC SPSS 24.0 问题
+
+#p 21267885 cwcheong pku 2019-11-05 23:06:48
+MAC SPSS 24.0 问题
+1.为什么在校外无法使用？
+2.为什么会显示许可证都使用中（如图）？
+
+#p 21267926 PKUCC 北京大学计算中心 2019-11-05 23:18:53
+相关spss的使用请参考图书馆主页[https://www.lib.pku.edu.cn/portal/cn/zy/software](jump-to.php?url=https%3A%2F%2Fwww.lib.pku.edu.cn%2Fportal%2Fcn%2Fzy%2Fsoftware)
+#quote cwcheong
+
