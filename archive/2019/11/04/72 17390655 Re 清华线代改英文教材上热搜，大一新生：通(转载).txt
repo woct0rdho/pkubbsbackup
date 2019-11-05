@@ -1,23 +1,28 @@
-#t 72 17390655 gplst 2019-11-04 00:21:00 gplst 2019-11-05 09:50:00
+#t 72 17390655 gplst 2019-11-04 00:21:00 gplst 2019-11-05 17:00:00
 Re 清华线代改英文教材上热搜，大一新生：通(转载)
 
-#p 21260064 gplst gplst 2019-11-04 21:39:50
+#p 21260064 gplst 陌上花开 2019-11-04 21:39:50
 [原文由 kanez 发表在 THU 版 &gt;&gt;&gt;](post-read.php?bid=104&amp;threadid=17390655)
 然而这个里头的动图赫然写着北京大学图书馆藏书
 #quote gplst
 
-#p 21261770 gplst gplst 2019-11-05 08:56:08
+#p 21261770 gplst 陌上花开 2019-11-05 08:56:08
 [原文由 titianchen 发表在 THU 版 &gt;&gt;&gt;](post-read.php?bid=104&amp;threadid=17390655)
 作为本学期贵清自动化系线性代数课程助教，遗憾地表示事实不是这样的。学生对新教材普遍头疼不已。对作业题目理解困难，助教已经活活被逼成了成了翻译器。因为题目理解错误而导致作业做错的事件不胜枚举，改作业总让人哭笑不得。
 #quote gplst
 
-#p 21261954 gplst gplst 2019-11-05 09:31:04
+#p 21261954 gplst 陌上花开 2019-11-05 09:31:04
 [原文由 lea 发表在 THU 版 &gt;&gt;&gt;](post-read.php?bid=104&amp;threadid=17390655)
 隔壁这届学生不行??...
 #quote wwxbwwxb
 
-#p 21262035 gplst gplst 2019-11-05 09:49:40
+#p 21262035 gplst 陌上花开 2019-11-05 09:49:40
 [原文由 peiyangium 发表在 THU 版 &gt;&gt;&gt;](post-read.php?bid=104&amp;threadid=17390655)
 贵系。
+#quote wwxbwwxb
+
+#p 21266386 gplst 陌上花开 2019-11-05 16:59:27
+[原文由 titianchen 发表在 THU 版 &gt;&gt;&gt;](post-read.php?bid=104&amp;threadid=17390655)
+上课中文，ppt也是中文。实际上还配了一本中文教材。哈哈。英文教材的唯一作用就是布置几道作业题。
 #quote wwxbwwxb
 
