@@ -1,6 +1,11 @@
-#t 22 17396736 Commit 2019-11-08 04:50:00 Commit 2019-11-08 04:50:00
+#t 22 17396736 Commit 2019-11-08 04:49:00 Dinosaur 2019-11-08 05:12:00
 校园网电视怎么没了？
 
 #p 21281415 Commit 大道随云 2019-11-08 04:49:23
 很久没看校园网络电视了，这两天想起来，找不到了，哪儿去了？
+
+#p 21281438 Dinosaur 小恐龙 2019-11-08 05:11:49
+你是说IPTV么？
+这个已经没了[https://its.pku.edu.cn/announce/tz20190107224452.jsp](jump-to.php?url=https%3A%2F%2Fits.pku.edu.cn%2Fannounce%2Ftz20190107224452.jsp)
+#quote Commit
 
