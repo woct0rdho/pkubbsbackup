@@ -1,4 +1,4 @@
-#t 668 17394202 Kurapica 2019-11-06 17:52:00 Kurapica 2019-11-06 18:16:00
+#t 668 17394202 Kurapica 2019-11-06 00:17:00 liuqi 2019-11-07 08:00:00
 今天远程桌面几分钟断一次
 
 #p 21272447 Kurapica 库卡 2019-11-06 17:51:30
@@ -11,4 +11,9 @@
 #p 21272553 Kurapica 库卡 2019-11-06 18:15:52
 已经站内
 #quote PKUCC
+
+#p 21275251 liuqi 狂风 2019-11-07 07:59:34
+在家VPN也这样，崩溃了
+连接的是[https://vpnu.pku.edu.cn](jump-to.php?url=https%3A%2F%2Fvpnu.pku.edu.cn)
+#quote Kurapica
 
