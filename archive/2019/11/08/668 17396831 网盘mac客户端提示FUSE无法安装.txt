@@ -1,4 +1,4 @@
-#t 668 17396831 spiridempt 2019-11-08 07:37:00 PKUCC 2019-11-08 08:29:00
+#t 668 17396831 spiridempt 2019-11-08 00:07:00 PKUCC 2019-11-08 09:35:00
 网盘mac客户端提示FUSE无法安装
 
 #p 21281586 spiridempt Spiridempt 2019-11-08 07:36:31
@@ -6,5 +6,13 @@
 
 #p 21281686 PKUCC 北京大学计算中心 2019-11-08 08:29:01
 您的系统版本是多少？
+#quote spiridempt
+
+#p 21281936 spiridempt Spiridempt 2019-11-08 09:26:19
+10.15.1
+#quote PKUCC
+
+#p 21281990 PKUCC 北京大学计算中心 2019-11-08 09:34:24
+后面网盘会进行版本升级，可以支持mac 10.15
 #quote spiridempt
 
