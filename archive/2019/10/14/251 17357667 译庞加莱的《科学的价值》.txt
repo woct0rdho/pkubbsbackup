@@ -1,4 +1,4 @@
-#t 251 17357667 Masonry 2019-10-14 00:01:00 wenxijc 2019-11-08 13:55:00
+#t 251 17357667 Masonry 2019-10-14 00:01:00 wenxijc 2019-11-08 14:03:00
 译庞加莱的《科学的价值》
 
 #p 21091859 Masonry 东尼探长 雁园警视厅 2019-11-06 17:27:17
@@ -411,5 +411,13 @@ M. Hermite, for example, whom I have just cited, can not be classed among the ge
 --------------
 我刚才想到一种理解，就是有可能这里的intuition指的是 那种assimilation 所 contradict 的那种意义上的直觉；那种直觉和Poncelet的直觉是相悖的。
 也许我的偏见确实会影响我对文章的判断吧，我再想想。
+#quote Masonry
+
+#p 21283533 Masonry 东尼探长 雁园警视厅 2019-11-08 14:01:33
+单论论述的功能，这一段应该在继续说明不是所有的intuition都依赖于感官，前一段的千边形（chiliagon）就是为了阐明这个论点，这一段引用Poncelet的例子，指出了intuition甚至肯能与sense相悖，我想总的功能是指出intuition和sense之间没有必然的联系，使用sense的intuition只是其中的一种而已，这个（intuition的种类）应该在后文会再次提到。
+#quote wenxijc
+
+#p 21283542 wenxijc snowflakes|小雪 2019-11-08 14:02:36
+好的 我再看看后文再想想
 #quote Masonry
 
