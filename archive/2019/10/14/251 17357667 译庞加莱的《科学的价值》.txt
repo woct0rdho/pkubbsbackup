@@ -1,4 +1,4 @@
-#t 251 17357667 Masonry 2019-10-14 00:01:00 wenxijc 2019-11-08 12:46:00
+#t 251 17357667 Masonry 2019-10-14 00:01:00 wenxijc 2019-11-08 13:55:00
 译庞加莱的《科学的价值》
 
 #p 21091859 Masonry 东尼探长 雁园警视厅 2019-11-06 17:27:17
@@ -388,5 +388,28 @@ M. Hermite, for example, whom I have just cited, can not be classed among the ge
 
 #p 21283090 wenxijc snowflakes|小雪 2019-11-08 12:46:03
 好高质量的帖子，有空了来读一下，我是说，有空了……
+#quote Masonry
+
+#p 21283331 wenxijc snowflakes|小雪 2019-11-08 13:44:17
+
+
+2019-11-08 13:22:16
+#quote Masonry
+～～～～～～～～～～～～～～～～～～～～～～～～～～～～～～～
+这个地方，我觉得并不是贬义吧，也没有轻看的意思，只是作者不想在这个话题上歪楼了。
+从上下文来看，作者对Poncelet的intuitions是推崇的。
+（我的内心剧场（摁住）：Poncelet这个大天才！丝毫没有黑点。）
+
+#p 21283454 Masonry 东尼探长 雁园警视厅 2019-11-08 13:45:06
+谢谢您的建议。可否麻烦您详细解释一下上下文中表明作者对Poncelet的态度的地方，我觉得这段中情感几乎是中性的。我这里的翻译保留了原文的用词，而且就我理解，"I have no desire to defend"，直接的意思是“我不渴望为之辩护”，在我理解起来，应该是稍带负面的情感，再加上instinctive和precocious都稍带贬义。如果是不想偏题，他可以像之前说"it is not what I wish to discuss. "
+#quote wenxijc
+
+#p 21283499 wenxijc snowflakes|小雪 2019-11-08 13:54:27
+先说一句可能是我本身对Poncelet的评价会带来偏见。
+其实我读到原文的时候也觉得有点奇怪，确实如你所说这几个词都是带有负面情感的。但是这种负面情感，如果是针对Poncelet的话，来得有点莫名其妙，因为我感觉里，上下文中毫无负面评价其 intuitions 的铺垫。
+不过确实有见过那个年代的人这样的写法，就是用 I have no desire to do something 表达一种实际上是中性的含义。具体例子一时间我举不出来，接下来如果我想到了的话会来更新。
+--------------
+我刚才想到一种理解，就是有可能这里的intuition指的是 那种assimilation 所 contradict 的那种意义上的直觉；那种直觉和Poncelet的直觉是相悖的。
+也许我的偏见确实会影响我对文章的判断吧，我再想想。
 #quote Masonry
 
