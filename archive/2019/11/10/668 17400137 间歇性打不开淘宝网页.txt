@@ -1,0 +1,6 @@
+#t 668 17400137 zheshishenme 2019-11-10 13:33:00 zheshishenme 2019-11-10 13:33:00
+间歇性打不开淘宝网页
+
+#p 21295224 zheshishenme 二萌迷妹mmm 2019-11-10 13:32:42
+其他网页均正常，但无论是手机还是笔记本在连接pku无线时均间歇性打不开[https://www.taobao.com/](jump-to.php?url=https%3A%2F%2Fwww.taobao.com%2F)，使用流量及热点、PKU visitor无线时均可正常打开。jd、淘宝APP均可正常打开。致电计算中心，给出解释是网站拥堵而非北大的问题。因此..问题所在？真的是拥堵？如何解决？
+
