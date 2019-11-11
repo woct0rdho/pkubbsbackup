@@ -1,4 +1,4 @@
-#t 668 17401678 xiaoqiezi 2019-11-11 13:16:00 xiaoqiezi 2019-11-11 13:33:00
+#t 668 17401678 xiaoqiezi 2019-11-11 00:13:00 Camouve 2019-11-11 16:14:00
 Adobe许可证即将到期
 
 #p 21302682 xiaoqiezi 小茄子 2019-11-11 13:15:23
@@ -13,5 +13,9 @@ Adobe许可证即将到期
 
 #p 21302765 xiaoqiezi 小茄子 2019-11-11 13:32:06
 好的，谢谢老师！
+#quote PKUCC
+
+#p 21303610 Camouve Hyde 2019-11-11 16:13:25
+我是Mac系统，为何点击AdobeSerialization后显示文件已损坏，无法打开？
 #quote PKUCC
 
