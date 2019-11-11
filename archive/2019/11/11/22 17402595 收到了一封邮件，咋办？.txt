@@ -1,4 +1,4 @@
-#t 22 17402595 Namelesspku 2019-11-11 22:48:00 zeypku 2019-11-11 23:00:00
+#t 22 17402595 Namelesspku 2019-11-11 00:22:00 chanwing 2019-11-12 00:47:00
 收到了一封邮件，咋办？
 
 #p 21306132 Namelesspku 我是谁 2019-11-11 22:48:24
@@ -29,5 +29,9 @@ Best regards!
 
 #p 21306191 zeypku zey 2019-11-11 22:59:52
 But you have shared,what happend?
+#quote Namelesspku
+
+#p 21306528 chanwing wind 2019-11-12 00:46:22
+病毒邮件，删掉就行，大家都收到了
 #quote Namelesspku
 
