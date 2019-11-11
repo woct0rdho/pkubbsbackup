@@ -1,0 +1,79 @@
+#t 668 17250726 lhydave 2019-08-14 00:11:00 francisekawa 2019-11-11 17:52:00
+部分Adobe软件在mac上无法安装
+
+#p 20677330 lhydave 哀牢 2019-08-14 11:55:19
+Acrobat DC和Ps安装时都提示“运行InstallationCheck过程中发生错误”导致无法继续安装过程，求助解决方法。
+ps：
+Pl，Pr，Me都能正常安装并且正常运行。
+自己尝试用Pr的Installer中的InstallationCheck替换Ps中的，后续安装又出现未知错误。
+
+#p 20677535 PKUCC 北京大学计算中心 2019-08-14 12:41:03
+您可根据正版软件平台上使用帮助中adobe的相关教程进行安装，如有问题可以发送邮件给adobe的工程师，xiebin@zhope.com.cn。adobe工程师会远程协助安装
+#quote lhydave
+
+#p 20685822 lhydave 哀牢 2019-08-16 09:58:19
+工程师没有回我……
+#quote PKUCC
+发自我的“北大未名”iOS客户端([http://t.cn/R7ZhtYc](jump-to.php?url=http%3A%2F%2Ft.cn%2FR7ZhtYc))
+
+#p 20698113 sunhuimin jasMINe 2019-08-19 10:42:19
+您好，请问您Adobe安装好了吗？
+#quote lhydave
+
+#p 20765124 lhydave 哀牢 2019-09-02 10:36:47
+没有……
+#quote sunhuimin
+发自我的“北大未名”iOS客户端([http://t.cn/R7ZhtYc](jump-to.php?url=http%3A%2F%2Ft.cn%2FR7ZhtYc))
+
+#p 20765126 lhydave 哀牢 2019-09-02 10:37:15
+工程师也冒了个泡就没声了……
+#quote sunhuimin
+发自我的“北大未名”iOS客户端([http://t.cn/R7ZhtYc](jump-to.php?url=http%3A%2F%2Ft.cn%2FR7ZhtYc))
+
+#p 20766599 PKUCC 北京大学计算中心 2019-09-02 13:59:29
+可否提供下邮箱，这边来提醒adobe工程师处理
+#quote lhydave
+
+#p 20766616 cucumberjmt 梨梨 2019-09-02 14:02:15
+我也是一样的情况！mac电脑无法安装PS。邮箱是jmt@pku.edu.cn，麻烦您了~
+#quote PKUCC
+
+#p 20766655 lhydave 哀牢 2019-09-02 14:08:44
+lhydave@pku.edu.cn
+不过刚刚我自己试了一下解决方法，我发现问题出在压缩包，.zip文件如果不用Mac自带的解压就会出错，估计是权限不够。
+#quote PKUCC
+
+#p 21066879 Wide 孙悟空 2019-10-09 09:59:11
+用别的压缩文件解压安装之后会出现安装失败的问题……
+#quote lhydave
+
+#p 21068000 SoniaShY SoniaShY 2019-10-09 12:59:02
+求助求助！我也是！也遇到了一样的情况，Acrobat DC和Ps都是这样，请问解决了吗？怎么解决？
+#quote lhydave
+
+#p 21068733 dkwww 高去高回 2019-10-09 15:11:45
++1
+升级Catalina后安装PS CC和acrobat都遇到了同样的问题
+#quote lhydave
+
+#p 21076840 cwcheong pku 2019-10-11 00:52:03
+
+
+2019-10-11 00:51:36
+升级OS Catalina 10.15 后安装Adobe Acrobat DC Pro都遇到了相关的问题，
+出现 ：运行“Adobe Acrobat DC Pro _Mac_Install”的InstallationCheck工具的过程中发生错误。请尝试再次运行该工具。
+求解决
+#quote PKUCC
+
+#p 21085672 SoniaShY SoniaShY 2019-10-12 19:59:46
+Ae也是！安装器遇到错误！
+#quote lhydave
+
+#p 21085736 PKUCC 北京大学计算中心 2019-10-12 20:19:11
+mac升级后无法正常安装adobe,我们正在与adobe代理商协商解决办法，初步预计本月晚些时候或下月初能解决
+#quote SoniaShY
+
+#p 21304138 francisekawa Francis 2019-11-11 17:51:38
+求问解决进度
+#quote lhydave
+
