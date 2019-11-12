@@ -1,4 +1,4 @@
-#t 668 17250726 lhydave 2019-08-14 00:11:00 francisekawa 2019-11-11 17:52:00
+#t 668 17250726 lhydave 2019-08-14 00:11:00 Louisamo 2019-11-12 22:26:00
 部分Adobe软件在mac上无法安装
 
 #p 20677330 lhydave 哀牢 2019-08-14 11:55:19
@@ -76,4 +76,8 @@ mac升级后无法正常安装adobe,我们正在与adobe代理商协商解决办
 #p 21304138 francisekawa Francis 2019-11-11 17:51:38
 求问解决进度
 #quote lhydave
+
+#p 21313599 Louisamo Louisamo 2019-11-12 22:26:01
+求问解决进度+1……没有adobe的日子好忧伤……
+#quote PKUCC
 
