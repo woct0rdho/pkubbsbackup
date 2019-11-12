@@ -1,4 +1,4 @@
-#t 251 17402845 bobprime 2019-11-12 00:03:00 euio 2019-11-12 07:39:00
+#t 251 17402845 bobprime 2019-11-12 00:03:00 guoweijie 2019-11-12 09:27:00
 美国超市那种1$b的猪肉能吃吗？
 
 #p 21306781 bobprime bobprime 2019-11-12 03:45:56
@@ -33,4 +33,24 @@
 不是有个说法，
 美国穷人吃鸡肉，富人吃猪肉？
 #quote doctor
+
+#p 21307171 doctor 老博士 2019-11-12 09:09:06
+爱吃鸡肉是不假，但是爱吃猪肉就不真了。
+拿数据说话
+[https://www.nationalchickencouncil.org/about-the-industry/statistics/per-capita-consumption-of-poultry-and-livestock-1965-to-estimated-2012-in-pounds/](jump-to.php?url=https%3A%2F%2Fwww.nationalchickencouncil.org%2Fabout-the-industry%2Fstatistics%2Fper-capita-consumption-of-poultry-and-livestock-1965-to-estimated-2012-in-pounds%2F)
+#quote euio
+
+#p 21307226 euio 耳目一心 2019-11-12 09:21:15
+鸡肉吃得越来越多，
+牛肉吃得越来越少，
+猪肉吃得比较平稳。
+是否可能说明：
+相对穷人越来越多，
+相对中产都在减少，
+相对富人一直不变？
+#quote doctor
+
+#p 21307253 guoweijie myxiaoyier 2019-11-12 09:26:25
+我们这里1刀的猪肉大多是猪脖子肉，一般国人也不吃的吧
+#quote bobprime
 

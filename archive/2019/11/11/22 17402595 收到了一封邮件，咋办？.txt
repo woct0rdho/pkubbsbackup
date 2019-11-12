@@ -1,4 +1,4 @@
-#t 22 17402595 Namelesspku 2019-11-11 00:22:00 chanwing 2019-11-12 00:47:00
+#t 22 17402595 Namelesspku 2019-11-11 00:22:00 Smart 2019-11-12 09:05:00
 收到了一封邮件，咋办？
 
 #p 21306132 Namelesspku 我是谁 2019-11-11 22:48:24
@@ -33,5 +33,10 @@ But you have shared,what happend?
 
 #p 21306528 chanwing wind 2019-11-12 00:46:22
 病毒邮件，删掉就行，大家都收到了
+#quote Namelesspku
+
+#p 21307152 Smart 睡意盎然 2019-11-12 09:04:56
+可以转寄 its@pku.edu.cn
+然后删除
 #quote Namelesspku
 
