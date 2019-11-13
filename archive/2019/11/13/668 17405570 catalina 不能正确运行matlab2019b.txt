@@ -1,4 +1,4 @@
-#t 668 17405570 aizenzk 2019-11-13 19:27:00 PKUCC 2019-11-13 19:56:00
+#t 668 17405570 aizenzk 2019-11-13 00:19:00 aizenzk 2019-11-13 23:52:00
 catalina 不能正确运行matlab2019b
 
 #p 21318696 aizenzk Aizenz 2019-11-13 19:26:51
@@ -7,4 +7,8 @@ catalina 不能正确运行matlab2019b
 #p 21318806 PKUCC 北京大学计算中心 2019-11-13 19:55:57
 我们将核查您提到的问题，方便的话也请留个联系方式
 #quote aizenzk
+
+#p 21320731 aizenzk Aizenz 2019-11-13 23:51:53
+已经解决，问题是账户和user用户files不匹配导致的验证失败
+#quote PKUCC
 
