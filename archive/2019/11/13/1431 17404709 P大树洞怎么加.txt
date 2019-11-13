@@ -1,4 +1,4 @@
-#t 1431 17404709 donavan 2019-11-13 07:54:00 donavan 2019-11-13 07:55:00
+#t 1431 17404709 donavan 2019-11-13 00:07:00 liujyu 2019-11-13 08:57:00
 P大树洞怎么加
 
 #p 21314833 donavan 夜半行客 2019-11-13 07:53:53
@@ -6,5 +6,11 @@ P大树洞怎么加
 
 #p 21314835 donavan 夜半行客 2019-11-13 07:54:49
 沙发我占了。好像上了vpn，还是不太行。
+#quote donavan
+
+#p 21315006 liujyu 简单 2019-11-13 08:56:55
+1.网页搜索[https://pkuhelper.pku.edu.cn/hole/](jump-to.php?url=https%3A%2F%2Fpkuhelper.pku.edu.cn%2Fhole%2F)
+2.输入用户名及密码
+3.OK
 #quote donavan
 
