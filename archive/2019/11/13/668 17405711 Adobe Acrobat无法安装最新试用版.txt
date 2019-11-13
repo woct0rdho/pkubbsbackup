@@ -1,0 +1,6 @@
+#t 668 17405711 korstkoray 2019-11-13 21:17:00 korstkoray 2019-11-13 21:17:00
+Adobe Acrobat无法安装最新试用版
+
+#p 21319188 korstkoray 步羽 2019-11-13 21:17:10
+操作系统为macOS Catalina。如图，而且在Adobe Creative Cloud里也显示“没有权限管理应用程序，请与IT管理员联系”。怀疑是之前安装校园版软件并打了11月30日补丁造成。
+
