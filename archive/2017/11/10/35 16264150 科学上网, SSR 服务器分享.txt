@@ -1,4 +1,4 @@
-#t 35 16264150 hiaoxui 2017-11-10 00:00:00 hiaoxui 2019-11-12 09:45:00
+#t 35 16264150 hiaoxui 2017-11-10 00:00:00 yonezusang 2019-11-14 09:01:00
 科学上网, SSR 服务器分享
 
 #p 17134091 hiaoxui 小辉 2019-09-20 03:36:53
@@ -1321,4 +1321,9 @@ hhh没问题，注意安全
 4. 网速怎么样? 能不能流畅看 youtube 1080P? 访问 Google 延迟高否?
 希望你们能把这样的反馈发送到我的邮箱 wallesspku@hotmail.com. 感谢! 
 #quote hiaoxui
+
+#p 21321681 yonezusang yonezusang 2019-11-14 09:01:35
+请问mac Catalina系统会对服务器使用有影响吗？更新后就再也没连上……😭
+#quote hiaoxui
+发自我的“北大未名”iOS客户端([http://t.cn/R7ZhtYc](jump-to.php?url=http%3A%2F%2Ft.cn%2FR7ZhtYc))
 
