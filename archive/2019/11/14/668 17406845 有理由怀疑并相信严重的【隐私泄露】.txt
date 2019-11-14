@@ -1,4 +1,4 @@
-#t 668 17406845 DrCeiling 2019-11-14 00:15:00 DrCeiling 2019-11-14 23:51:00
+#t 668 17406845 DrCeiling 2019-11-14 00:15:00 BMaxKai 2019-11-15 00:59:00
 有理由怀疑并相信严重的【隐私泄露】
 
 #p 21324122 DrCeiling CC-ling 2019-11-14 15:53:40
@@ -52,4 +52,36 @@
 #p 21326473 DrCeiling CC-ling 2019-11-14 23:51:04
 是PKU邮箱收到的，所以严重怀疑内鬼的存在。
 #quote Meme
+
+#p 21326544 juruo 蒟蒻MagicPoi 2019-11-15 00:03:05
+只要知道学号和姓名的对应关系就可以发了
+学籍信息可能容易泄露，至少portal上可以查到一部分（似乎要先登录？
+#quote DrCeiling
+
+#p 21326584 IlIl 王铁崖 2019-11-15 00:11:13
+楼主你不妨试着Google一下你的个人信息，可以试着在搜索框里面输入: "学号" site:pku.edu.cn 或者 "名字" site:pku.edu.cn ，注意一定要用英文双引号，这样会强制搜索完全匹配的结果，说不定有惊喜。
+#quote DrCeiling
+
+#p 21326625 lxy 间歇性孤独患者 2019-11-15 00:18:44
+我觉得2楼少了个狗头
+#quote DrCeiling
+
+#p 21326627 IlIl 王铁崖 2019-11-15 00:20:15
+随手搜索了一下，就有这么多姓名＋学号对应的信息:
+[http://www.bio.lb.pku.edu.cn/displaynews.php?id=9130](jump-to.php?url=http%3A%2F%2Fwww.bio.lb.pku.edu.cn%2Fdisplaynews.php%3Fid%3D9130)
+[http://www.math.pku.edu.cn/yjs/yjsmd/85385.htm](jump-to.php?url=http%3A%2F%2Fwww.math.pku.edu.cn%2Fyjs%2Fyjsmd%2F85385.htm)
+[https://chinese.pku.edu.cn/xwgg/bxgg/1304736.htm](jump-to.php?url=https%3A%2F%2Fchinese.pku.edu.cn%2Fxwgg%2Fbxgg%2F1304736.htm)
+#quote DrCeiling
+
+#p 21326650 BaCk 土匪丁 2019-11-15 00:24:19
+哈哈哈，我也是
+#quote mintcandy
+
+#p 21326702 xiaohouzi 小猴子 2019-11-15 00:42:06
+“意料之外 情理之中”
+#quote DrCeiling
+
+#p 21326759 BMaxKai BMax 2019-11-15 00:59:18
+投搞一些文章就会开始收到了……
+#quote DrCeiling
 
