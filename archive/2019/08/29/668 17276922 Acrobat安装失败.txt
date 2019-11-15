@@ -1,0 +1,20 @@
+#t 668 17276922 Imcaroline 2019-08-29 00:19:00 peiyangium 2019-11-15 14:47:00
+Acrobat安装失败
+
+#p 20750281 Imcaroline  2019-08-29 19:40:04
+看了日志报错信息为：
+08/29/19 19:35:19:192 | [ERROR] |  | ASU | MSIInvoker | MSIInvoker |  |  | 16572 | Failed in Acrobat (F:\package\Adobe_Acrobat_DC_Win_X64\Build\Setup\APRO18.0) deployment (0).Stopping the installation process.
+求问是什么情况。。
+
+#p 20750322 PKUCC 北京大学计算中心 2019-08-29 19:51:04
+关于adobe的报错内容，可发送邮件给adobe的工程师，xiebin@zhope.com.cn，工程师通常会在两个工作日内回复您
+#quote Imcaroline
+
+#p 20750640 Imcaroline  2019-08-29 21:31:37
+好的，谢谢~
+#quote PKUCC
+
+#p 21329199 peiyangium 生建办主任助理|柯带宜居办主任|副团级 2019-11-15 14:46:35
+很多工作日了，这个工程师不理我。
+#quote PKUCC
+
