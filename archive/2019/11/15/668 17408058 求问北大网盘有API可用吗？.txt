@@ -1,4 +1,4 @@
-#t 668 17408058 flyingrose 2019-11-15 10:35:00 PKUCC 2019-11-15 11:32:00
+#t 668 17408058 flyingrose 2019-11-15 00:10:00 flyingrose 2019-11-15 17:16:00
 求问北大网盘有API可用吗？
 
 #p 21327977 flyingrose ly 2019-11-15 10:35:08
@@ -7,4 +7,9 @@
 #p 21328299 PKUCC 北京大学计算中心 2019-11-15 11:31:30
 您好，暂时没有提供，可以说下您具体想做什么呢？看看有没有可以帮助您的地方
 #quote flyingrose
+
+#p 21331849 flyingrose ly 2019-11-15 17:15:43
+例如可以提供类似get_file(file_path)、put_file(file_path)这种API？这样的话在编程中就可以把网盘当作一个key-value的存储服务来用。
+只是建议~
+#quote PKUCC
 

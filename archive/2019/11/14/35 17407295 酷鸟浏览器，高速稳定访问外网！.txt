@@ -1,4 +1,4 @@
-#t 35 17407295 YimuCharles 2019-11-14 00:21:00 xongkorohui 2019-11-15 16:33:00
+#t 35 17407295 YimuCharles 2019-11-14 00:21:00 MetatronCube 2019-11-15 17:16:00
 酷鸟浏览器，高速稳定访问外网！
 
 #p 21325714 YimuCharles 夏尔 2019-11-14 21:26:11
@@ -51,4 +51,9 @@ Tim Cook 批评加密后门：Apple CEO Tim Cook blasts encryption backdoors
 经香港一事
 或许民众对外国媒体的识读系统在走向成熟吧
 #quote YimuCharles
+
+#p 21331848 MetatronCube 神蚀 2019-11-15 17:15:36
+大趋势应该是这样
+可惜据说这个渠道，剥夺了完整的HTTPS
+#quote xongkorohui
 
