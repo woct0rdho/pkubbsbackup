@@ -1,4 +1,4 @@
-#t 668 17401678 xiaoqiezi 2019-11-11 00:13:00 pkusole 2019-11-12 15:56:00
+#t 668 17401678 xiaoqiezi 2019-11-11 00:13:00 Camouve 2019-11-15 23:59:00
 Adobe许可证即将到期
 
 #p 21302682 xiaoqiezi 小茄子 2019-11-11 13:15:23
@@ -23,4 +23,8 @@ Adobe许可证即将到期
 用 the unarchiver 解压
 macOS默认的归档软件不识别中国编码
 #quote Camouve
+
+#p 21333366 Camouve Hyde 2019-11-15 23:59:10
+嗯嗯，已经解决了，多谢！
+#quote pkusole
 

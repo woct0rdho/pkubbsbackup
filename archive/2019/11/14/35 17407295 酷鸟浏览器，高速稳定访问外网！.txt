@@ -1,4 +1,4 @@
-#t 35 17407295 YimuCharles 2019-11-14 00:21:00 YimuCharles 2019-11-15 18:45:00
+#t 35 17407295 YimuCharles 2019-11-14 00:21:00 Homagod 2019-11-15 23:44:00
 酷鸟浏览器，高速稳定访问外网！
 
 #p 21325714 YimuCharles 夏尔 2019-11-14 21:26:11
@@ -71,4 +71,8 @@ Tim Cook 批评加密后门：Apple CEO Tim Cook blasts encryption backdoors
 稳定好用的梯子总是要花钱的，隐私信息总是可以卖钱的，人家这是取消中间商赚差价，直接把隐私信息折价提供免费梯子，多好啊（手动狗头
 不过据说也并不稳定…所以邀请码都不发了……
 #quote Ladeffy
+
+#p 21333321 Homagod 不愉快です 2019-11-15 23:43:55
+感谢
+#quote MetatronCube
 
