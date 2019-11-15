@@ -1,4 +1,4 @@
-#t 35 17407295 YimuCharles 2019-11-14 00:21:00 MetatronCube 2019-11-15 13:50:00
+#t 35 17407295 YimuCharles 2019-11-14 00:21:00 xongkorohui 2019-11-15 16:33:00
 酷鸟浏览器，高速稳定访问外网！
 
 #p 21325714 YimuCharles 夏尔 2019-11-14 21:26:11
@@ -39,5 +39,16 @@ TLS：[https://zh.wikipedia.org/wiki/%E5%82%B3%E8%BC%B8%E5%B1%A4%E5%AE%89%E5%85%
 苹果、Google 和 Mozilla 封杀哈萨克斯坦政府 CA：[https://www.zdnet.com/article/apple-google-and-mozilla-block-kazakhstans-https-intercepting-certificate/](jump-to.php?url=https%3A%2F%2Fwww.zdnet.com%2Farticle%2Fapple-google-and-mozilla-block-kazakhstans-https-intercepting-certificate%2F)
 哈萨克斯坦停止强制性安装证书，称这只是测试：[https://www.reuters.com/article/us-kazakhstan-internet-surveillance-idUSKCN1UX0VD](jump-to.php?url=https%3A%2F%2Fwww.reuters.com%2Farticle%2Fus-kazakhstan-internet-surveillance-idUSKCN1UX0VD)
 Tim Cook 批评加密后门：Apple CEO Tim Cook blasts encryption backdoors
+#quote YimuCharles
+
+#p 21330770 xongkorohui 惠愚 2019-11-15 16:33:13
+听说对一些网站、内容还是屏蔽的
+其实也理所应当2333
+要不特朗普的推特、某轮功的网站不早被饭圈女孩攻占了?(不是
+但总的趋势是好的
+不能只靠墙，要增强自己的鉴别和理解能力
+看来你过领导还是明白的
+经香港一事
+或许民众对外国媒体的识读系统在走向成熟吧
 #quote YimuCharles
 
