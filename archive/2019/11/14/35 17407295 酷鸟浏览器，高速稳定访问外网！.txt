@@ -1,4 +1,4 @@
-#t 35 17407295 YimuCharles 2019-11-14 00:21:00 Homagod 2019-11-15 23:44:00
+#t 35 17407295 YimuCharles 2019-11-14 00:21:00 hiaoxui 2019-11-16 00:49:00
 酷鸟浏览器，高速稳定访问外网！
 
 #p 21325714 YimuCharles 夏尔 2019-11-14 21:26:11
@@ -75,4 +75,8 @@ Tim Cook 批评加密后门：Apple CEO Tim Cook blasts encryption backdoors
 #p 21333321 Homagod 不愉快です 2019-11-15 23:43:55
 感谢
 #quote MetatronCube
+
+#p 21333498 hiaoxui 小辉 2019-11-16 00:48:42
+所以这个软件的背景到底是什么? 以至于让它合法合规?
+#quote YimuCharles
 
