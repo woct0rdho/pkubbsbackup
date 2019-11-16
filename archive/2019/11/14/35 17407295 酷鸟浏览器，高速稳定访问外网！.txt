@@ -1,4 +1,4 @@
-#t 35 17407295 YimuCharles 2019-11-14 00:21:00 XiaoNi 2019-11-16 17:04:00
+#t 35 17407295 YimuCharles 2019-11-14 00:21:00 sandbox 2019-11-16 18:59:00
 酷鸟浏览器，高速稳定访问外网！
 
 #p 21325714 YimuCharles 夏尔 2019-11-14 21:26:11
@@ -112,4 +112,20 @@ Tim Cook 批评加密后门：Apple CEO Tim Cook blasts encryption backdoors
 #p 21336042 XiaoNi \varnothing 2019-11-16 17:04:09
 xswl😂😂😂
 #quote VarianWrynn
+
+#p 21336263 lijinsha 月夜狼灵 2019-11-16 18:11:18
+官网刚才好像能打开
+#quote YimuCharles
+
+#p 21336358 Postel 天马 2019-11-16 18:51:52
+就是你用它浏览合法合规内容的行为，是合法合规的
+#quote hiaoxui
+
+#p 21336377 sandbox 测试 2019-11-16 18:58:14
+浏览器插件可以任意修改页面内容。这和HTTPS无关，无论网络多么安全都是这样。
+#quote YimuCharles
+
+#p 21336382 sandbox 测试 2019-11-16 18:59:07
+你别访问违法的内容就行了
+#quote hiaoxui
 
