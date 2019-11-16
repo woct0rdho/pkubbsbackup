@@ -1,4 +1,4 @@
-#t 251 17357667 Masonry 2019-10-14 00:01:00 lyshv 2019-11-16 23:18:00
+#t 251 17357667 Masonry 2019-10-14 00:01:00 wenxijc 2019-11-17 06:47:00
 译庞加莱的《科学的价值》
 
 #p 21091859 Masonry Magnum Chaos 2019-11-06 17:27:17
@@ -444,4 +444,9 @@ x叫起来像鸭子
 2019-11-16 23:17:07
 码一下，过几天后再来。
 #quote Masonry
+
+#p 21338215 wenxijc snowflakes|小雪 2019-11-17 06:47:04
+deduction是演绎（是完全的） induction叫归纳（是不完全的）
+然鹅数学归纳法是完全的，就emmmmm
+#quote kingsfoil
 
