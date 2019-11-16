@@ -1,0 +1,11 @@
+#t 668 17409905 Tranquilsun 2019-11-16 16:06:00 PKUCC 2019-11-16 16:29:00
+office 2019 Word 每次打开提示更新
+
+#p 21335744 Tranquilsun 串口|不丧|无常 2019-11-16 16:05:14
+有什么办法能让它不显示吗？【文件】—【账户】禁止更新没有用。。
+
+#p 21335932 PKUCC 北京大学计算中心 2019-11-16 16:28:18
+[https://zhidao.baidu.com/question/750433292799988172.html](jump-to.php?url=https%3A%2F%2Fzhidao.baidu.com%2Fquestion%2F750433292799988172.html)
+试试这个方法？
+#quote Tranquilsun
+
