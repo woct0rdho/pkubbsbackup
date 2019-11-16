@@ -1,4 +1,4 @@
-#t 35 17407295 YimuCharles 2019-11-14 00:21:00 hiaoxui 2019-11-16 00:49:00
+#t 35 17407295 YimuCharles 2019-11-14 00:21:00 hiaoxui 2019-11-16 08:18:00
 酷鸟浏览器，高速稳定访问外网！
 
 #p 21325714 YimuCharles 夏尔 2019-11-14 21:26:11
@@ -78,5 +78,14 @@ Tim Cook 批评加密后门：Apple CEO Tim Cook blasts encryption backdoors
 
 #p 21333498 hiaoxui 小辉 2019-11-16 00:48:42
 所以这个软件的背景到底是什么? 以至于让它合法合规?
+#quote YimuCharles
+
+#p 21333970 MetatronCube 神蚀 2019-11-16 08:00:56
+不，目前看，它的后台还是不够硬
+它的官方微博被封号了
+#quote hiaoxui
+
+#p 21333992 hiaoxui 小辉 2019-11-16 08:18:12
+其实我们目前并没有什么法规限制我们对外网的浏览, 所以它说它是合法合规的也没有什么事实性错误.
 #quote YimuCharles
 
