@@ -1,4 +1,4 @@
-#t 668 17409905 Tranquilsun 2019-11-16 16:06:00 PKUCC 2019-11-16 16:29:00
+#t 668 17409905 Tranquilsun 2019-11-16 00:16:00 Tranquilsun 2019-11-16 21:00:00
 office 2019 Word 每次打开提示更新
 
 #p 21335744 Tranquilsun 串口|不丧|无常 2019-11-16 16:05:14
@@ -8,4 +8,16 @@ office 2019 Word 每次打开提示更新
 [https://zhidao.baidu.com/question/750433292799988172.html](jump-to.php?url=https%3A%2F%2Fzhidao.baidu.com%2Fquestion%2F750433292799988172.html)
 试试这个方法？
 #quote Tranquilsun
+
+#p 21336736 Tranquilsun 串口|不丧|无常 2019-11-16 20:41:11
+
+
+2019-11-16 20:40:52
+打开链接里的解决方案后没有发现SETUP.EXE
+<img src="https://bbs.pku.edu.cn/attach/7b/8e/7b8e3547637382b1/%E6%8D%95%E8%8E%B7.PNG"/>
+#quote PKUCC
+
+#p 21336831 Tranquilsun 串口|不丧|无常 2019-11-16 21:00:24
+而且每次按照提示更新office点击“是”之后  没有任何提示。。。、、
+#quote PKUCC
 
