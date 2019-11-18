@@ -1,4 +1,4 @@
-#t 35 17412459 chemharuka 2019-11-18 00:01:00 yuguorui 2019-11-18 16:14:00
+#t 35 17412459 chemharuka 2019-11-18 00:01:00 chemharuka 2019-11-18 20:11:00
 提供一个校园网内1.1.1.1的DNS解析+AdGuard服务
 
 #p 21342541 chemharuka ExcitedState 2019-11-18 01:17:14
@@ -29,4 +29,8 @@ Name:        www.wshifen.com
 Address: 104.193.88.77
 CloudFlare默认会把百度、淘宝等解析到美国服务器。
 #quote chemharuka
+
+#p 21346224 chemharuka ExcitedState 2019-11-18 20:10:11
+我设置一下china dns的问题吧。我自己是全局所以没感觉到
+#quote yuguorui
 
