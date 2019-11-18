@@ -1,4 +1,4 @@
-#t 35 17412459 chemharuka 2019-11-18 00:01:00 harovd 2019-11-18 14:34:00
+#t 35 17412459 chemharuka 2019-11-18 00:01:00 yuguorui 2019-11-18 16:14:00
 提供一个校园网内1.1.1.1的DNS解析+AdGuard服务
 
 #p 21342541 chemharuka ExcitedState 2019-11-18 01:17:14
@@ -15,4 +15,18 @@ AdGuard采用的默认过滤器+几个中国的过滤器。
 adguard是屏蔽广告
 dns应该是可以解决一些投毒的网站访问？
 #quote Alpher
+
+#p 21345067 yuguorui yuguorui 2019-11-18 16:13:09
+nslookup www.baidu.com 10.128.201.222
+Server:                10.128.201.222
+Address:        10.128.201.222#53
+Non-authoritative answer:
+www.baidu.com        canonical name = www.a.shifen.com.
+www.a.shifen.com        canonical name = www.wshifen.com.
+Name:        www.wshifen.com
+Address: 104.193.88.123
+Name:        www.wshifen.com
+Address: 104.193.88.77
+CloudFlare默认会把百度、淘宝等解析到美国服务器。
+#quote chemharuka
 
