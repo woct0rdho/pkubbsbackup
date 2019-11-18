@@ -1,7 +1,7 @@
-#t 35 16264150 hiaoxui 2017-11-10 00:00:00 yonezusang 2019-11-14 17:44:00
+#t 35 16264150 hiaoxui 2017-11-10 00:00:00 meerkat 2019-11-18 19:15:00
 科学上网, SSR 服务器分享
 
-#p 17134091 hiaoxui 小辉 2019-09-20 03:36:53
+#p 17134091 hiaoxui 小辉 2019-11-16 04:36:36
 
 
 2017-11-10 23:53:54
@@ -9,12 +9,14 @@
 如果你没有任何翻墙经验, 请阅读教程: [https://blog.hiaoxui.com/blog/post/hiaoxui/ssr-manual-zh](jump-to.php?url=https%3A%2F%2Fblog.hiaoxui.com%2Fblog%2Fpost%2Fhiaoxui%2Fssr-manual-zh)
 以上教程适用于 Windows 系统, OS X 系统 (苹果电脑), Android 系统 和 iOS 系统. 
 如果你之前使用过 SSR 服务, 现在只是缺少服务器, 请在 [https://hiaoxui.com/ssr/register](jump-to.php?url=https%3A%2F%2Fhiaoxui.com%2Fssr%2Fregister) 中获取一份配置信息.
+如果你遇到了什么问题, 请参考这个链接:
+[https://blog.hiaoxui.com/blog/post/hiaoxui/ssr-faq-zh](jump-to.php?url=https%3A%2F%2Fblog.hiaoxui.com%2Fblog%2Fpost%2Fhiaoxui%2Fssr-faq-zh)
 本人无意借此项目盈利, 服务**不收取费用**. 如果您使用我的服务, 则代表您已经阅读并同意以下协议:
 1. **您使用该服务只用于科研学习**, 不做任何违反中国或服务器所在国家的法律法规的事情. 
 2. 您不会私自将服务器配置信息分享他人.
 3. 如果您超额使用流量, 我可能会停止您当天的服务. ([https://blog.hiaoxui.com/blog/post/hiaoxui/ssr-data-policy-zh](jump-to.php?url=https%3A%2F%2Fblog.hiaoxui.com%2Fblog%2Fpost%2Fhiaoxui%2Fssr-data-policy-zh))
 4. 您确保所有的重要信息都在加密条件下交换. ([https://blog.hiaoxui.com/blog/post/hiaoxui/ssr-privacy-zh](jump-to.php?url=https%3A%2F%2Fblog.hiaoxui.com%2Fblog%2Fpost%2Fhiaoxui%2Fssr-privacy-zh))
-**致某些人: 墙的存在对科学研究和学术交流是一个灾难, 许多墙外的资源是不可能在国内找到替代品的. 这是一个无法解决的矛盾. 如果我不能继续提供服务, 那我的用户只能去寻找别的工具, 而这些工具很多都是别有用心的, 所以封禁我只会带来更坏的后果. 我们无法改变现状, 但请把枪口抬高一寸, 为北大留下一点自由的网络空间.**
+**致管理部门: 墙的存在对科学研究是一个灾难, 许多墙外的资源是不可能在国内找到替代品的. 这是一个无法解决的矛盾. 如果我不能继续提供服务, 那我的用户一定会寻找别的工具, 而这些工具很多都是别有用心的, 所以封禁我只会带来更坏的后果. 我们无法改变现状, 但请把枪口抬高一寸, 为北大留下一点自由的网络空间.**
 
 #p 17136173 opteronx 从删库到跑路 2017-11-11 15:39:47
 提醒3个方面的问题
@@ -1335,4 +1337,8 @@ hhh没问题，注意安全
 #quote hiaoxui
 邮件已发👌
 发自我的“北大未名”iOS客户端([http://t.cn/R7ZhtYc](jump-to.php?url=http%3A%2F%2Ft.cn%2FR7ZhtYc))
+
+#p 21345973 meerkat meerkat 2019-11-18 19:14:59
+感谢lz！！！
+#quote hiaoxui
 
