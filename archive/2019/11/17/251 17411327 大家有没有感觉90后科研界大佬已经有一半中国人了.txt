@@ -1,4 +1,4 @@
-#t 251 17411327 bobprime 2019-11-17 00:11:00 Ryn 2019-11-19 00:19:00
+#t 251 17411327 bobprime 2019-11-17 00:11:00 MDP 2019-11-19 01:45:00
 大家有没有感觉90后科研界大佬已经有一半中国人了
 
 #p 21338954 bobprime bobprime 2019-11-17 11:11:50
@@ -16,4 +16,12 @@
 #p 21348182 Ryn 大酸葡萄 2019-11-19 00:18:26
 系统安全方面全球最牛逼之一的团队是wxf的全华班
 #quote pkuX
+
+#p 21348391 MDP MarkovDecisionProcess 2019-11-19 01:44:37
+中国人占的比例确实感觉越来越高了，虽然还不至于一半，不过是真心强。
+最近两年CMU的新faculty中国内地本科的已经数量相当不少了
+[http://www.cs.cmu.edu/~awm/2018_scs_cmu_new_faculty_profiles.pdf](jump-to.php?url=http%3A%2F%2Fwww.cs.cmu.edu%2F%7Eawm%2F2018_scs_cmu_new_faculty_profiles.pdf)
+[http://www.cs.cmu.edu/~nicholem/scs-new-faculty/profiles-2019.pdf](jump-to.php?url=http%3A%2F%2Fwww.cs.cmu.edu%2F%7Enicholem%2Fscs-new-faculty%2Fprofiles-2019.pdf)
+而且不仅是数量上去，质量也上去了。和以往做的工作都很边缘不同，现在不少中国人大牛都是最top级别了，比如陈天奇、何恺明。
+#quote bobprime
 
