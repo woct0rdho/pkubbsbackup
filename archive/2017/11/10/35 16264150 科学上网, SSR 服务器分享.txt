@@ -1,4 +1,4 @@
-#t 35 16264150 hiaoxui 2017-11-10 00:00:00 dwk 2019-11-20 00:13:00
+#t 35 16264150 hiaoxui 2017-11-10 00:00:00 hiaoxui 2019-11-20 06:24:00
 科学上网, SSR 服务器分享
 
 #p 17134091 hiaoxui 小辉 2019-11-16 04:36:36
@@ -1354,4 +1354,12 @@ hhh没问题，注意安全
 #p 21356092 dwk 弦歌清绝 2019-11-20 00:12:29
 谢谢，很有帮助~
 #quote hiaoxui
+
+#p 21356639 gravitywall insidetheNo7 2019-11-20 06:01:01
+弱弱地问一下，安卓端能正常使用Google，但是Google play无法下载是正常的现象吗(ಥ _ ಥ)
+#quote hiaoxui
+
+#p 21356654 hiaoxui 小辉 2019-11-20 06:23:14
+正常, 你的 google play framework 很可能被阉割了.
+#quote gravitywall
 
