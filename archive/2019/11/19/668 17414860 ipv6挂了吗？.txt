@@ -1,0 +1,13 @@
+#t 668 17414860 sxpeter 2019-11-19 16:22:00 sxpeter 2019-11-19 16:22:00
+ipv6挂了吗？
+
+#p 21351331 sxpeter  2019-11-19 16:22:18
+
+
+2019-11-19 16:21:07
+坐标36楼5层
+下图是运行test-ipv6.com的结果
+<img src="https://bbs.pku.edu.cn/attach/9b/03/9b0322713259f4f0/b1.PNG"/>
+<img src="https://bbs.pku.edu.cn/attach/7e/5a/7e5a4019acbf451a/b2.PNG"/>
+<img src="https://bbs.pku.edu.cn/attach/03/22/0322bf073bad256f/b3.PNG"/>
+
