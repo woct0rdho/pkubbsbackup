@@ -1,6 +1,11 @@
-#t 35 17414490 LeapatHealth 2019-11-19 11:10:00 LeapatHealth 2019-11-19 11:10:00
+#t 35 17414490 LeapatHealth 2019-11-19 00:11:00 IlIl 2019-11-19 21:17:00
 请问如何进行越墙爬虫
 
 #p 21349833 LeapatHealth heihei 2019-11-19 11:09:15
 rt，比如爬取Google的检索结果。谢谢！听说BBS上有，但没找到，求解答/求指路
+
+#p 21355193 IlIl 王铁崖 2019-11-19 21:16:45
+BBS上并没有，将来报道上出现偏差是要负责的，还是老老实实购买Google API吧，简单省事。
+[https://console.developers.google.com/apis/dashboard](jump-to.php?url=https%3A%2F%2Fconsole.developers.google.com%2Fapis%2Fdashboard)
+#quote LeapatHealth
 
