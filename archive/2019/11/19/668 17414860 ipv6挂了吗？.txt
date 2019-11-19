@@ -1,4 +1,4 @@
-#t 668 17414860 sxpeter 2019-11-19 16:22:00 sxpeter 2019-11-19 16:22:00
+#t 668 17414860 sxpeter 2019-11-19 16:21:00 PKUCC 2019-11-19 17:02:00
 ipv6挂了吗？
 
 #p 21351331 sxpeter  2019-11-19 16:22:18
@@ -10,4 +10,8 @@ ipv6挂了吗？
 <img src="https://bbs.pku.edu.cn/attach/9b/03/9b0322713259f4f0/b1.PNG"/>
 <img src="https://bbs.pku.edu.cn/attach/7e/5a/7e5a4019acbf451a/b2.PNG"/>
 <img src="https://bbs.pku.edu.cn/attach/03/22/0322bf073bad256f/b3.PNG"/>
+
+#p 21351576 PKUCC 北京大学计算中心 2019-11-19 17:02:05
+2001:da8:201::是校园网的ipv6地址，您可以试试bt.byr.cn能不能访问
+#quote sxpeter
 
