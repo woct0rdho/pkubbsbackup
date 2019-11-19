@@ -1,4 +1,4 @@
-#t 668 17414893 RyanBern 2019-11-19 16:49:00 RyanBern 2019-11-19 16:49:00
+#t 668 17414893 RyanBern 2019-11-19 00:16:00 PKUCC 2019-11-19 18:06:00
 【端口相关】网信办对“信息服务”的定义
 
 #p 21351483 RyanBern r.bern 2019-11-19 16:48:20
@@ -16,4 +16,8 @@
 2. 《北京大学网络安全管理办法（试行）》：进入门户 -&gt; 北大制度库
 3. 《北京大学校园网用户守则》：[https://its.pku.edu.cn/rule_campus_network.jsp](jump-to.php?url=https%3A%2F%2Fits.pku.edu.cn%2Frule_campus_network.jsp)
 邮件来往记录见附件（已经删去了无关信息）。
+
+#p 21351910 PKUCC 北京大学计算中心 2019-11-19 18:05:33
+wpn系统我们正在抓紧时间调整，争取尽快提供稳定的服务。谢谢关注和建议！
+#quote RyanBern
 
