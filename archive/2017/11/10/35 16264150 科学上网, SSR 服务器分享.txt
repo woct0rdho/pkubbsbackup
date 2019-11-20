@@ -1,4 +1,4 @@
-#t 35 16264150 hiaoxui 2017-11-10 00:00:00 hiaoxui 2019-11-20 10:45:00
+#t 35 16264150 hiaoxui 2017-11-10 00:00:00 tsiau 2019-11-20 11:32:00
 科学上网, SSR 服务器分享
 
 #p 17134091 hiaoxui 小辉 2019-11-16 04:36:36
@@ -1382,5 +1382,13 @@ Click on the number and type the assigned port. Sorry having trouble typing Chin
 
 #p 21358067 hiaoxui 小辉 2019-11-20 10:45:10
 Click on the number and type the assigned port. Sorry having trouble typing Chinese now.
+#quote gxsong
+
+#p 21358072 gxsong 陪你度过漫长岁月 2019-11-20 10:45:56
+解决了，非常感谢楼主，实验成功了
+#quote hiaoxui
+
+#p 21358304 tsiau 待晞 2019-11-20 11:31:49
+（我记得我当初手动划到了1w，然后才发现可以直接修改
 #quote gxsong
 
