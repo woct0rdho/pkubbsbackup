@@ -1,4 +1,4 @@
-#t 35 17414517 PhilaDroso 2019-11-19 00:11:00 IlIl 2019-11-20 12:10:00
+#t 35 17414517 PhilaDroso 2019-11-19 00:11:00 PhilaDroso 2019-11-20 13:47:00
 求问挂学校vpn登不上六维空间怎么解决
 
 #p 21349934 PhilaDroso 小露|Bio09->CLS13 2019-11-19 11:27:58
@@ -21,4 +21,13 @@ VPN是好使的，用BDWM测试显示是校内（不登录能看十大）
 #p 21358542 IlIl 王铁崖 2019-11-20 12:10:25
 [https://ipv6-test.com/](jump-to.php?url=https%3A%2F%2Fipv6-test.com%2F)
 #quote PhilaDroso
+
+#p 21358825 sxpeter  2019-11-20 13:04:05
+ipconfig /all
+贴结果
+#quote PhilaDroso
+
+#p 21358995 PhilaDroso 小露|Bio09->CLS13 2019-11-20 13:46:17
+突然能上了！谢谢！
+#quote sxpeter
 
