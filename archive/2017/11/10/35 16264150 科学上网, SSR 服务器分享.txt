@@ -1,4 +1,4 @@
-#t 35 16264150 hiaoxui 2017-11-10 00:00:00 tsiau 2019-11-20 22:43:00
+#t 35 16264150 hiaoxui 2017-11-10 00:00:00 ssssrrrr 2019-11-20 23:42:00
 科学上网, SSR 服务器分享
 
 #p 17134091 hiaoxui 小辉 2019-11-16 04:36:36
@@ -1412,5 +1412,13 @@ Click on the number and type the assigned port. Sorry having trouble typing Chin
 #p 21361385 tsiau 待晞 2019-11-20 22:43:26
 呜呜呜呜当时划到怀疑人生，回来网页看我是不是有什么地方误解了，才看到了那个F&amp;Q。
 感谢您！
+#quote hiaoxui
+
+#p 21361524 xdrczrm 刑铭 2019-11-20 23:27:23
+大佬，服务器好像挂掉了
+#quote hiaoxui
+
+#p 21361606 ssssrrrr 一颗大橙子 2019-11-20 23:41:20
+啊 好像服务器挂掉了。。
 #quote hiaoxui
 
