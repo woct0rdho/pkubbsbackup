@@ -1,4 +1,4 @@
-#t 35 17417001 PKUDDD 2019-11-20 00:23:00 CoreM 2019-11-21 12:56:00
+#t 35 17417001 PKUDDD 2019-11-20 00:23:00 ortuskun 2019-11-21 13:57:00
 一天时间感觉VPN全挂了
 
 #p 21361619 PKUDDD 不如躺尸 2019-11-20 23:44:35
@@ -113,4 +113,70 @@ re
 #p 21365493 CoreM AMDYES 2019-11-21 12:56:37
 亲测好用，感谢层主
 #quote foolaaa
+
+#p 21365565 hzhbf 虹之彼方 2019-11-21 13:08:16
+挂了的换端口试试，然后最近好多亚洲线路是都断了
+#quote PKUDDD
+
+#p 21365596 thuzhangga 孫咲川 2019-11-21 13:12:47
+v2ray无忧
+#quote PKUDDD
+
+#p 21365651 dandanovo 虾扯蛋子 2019-11-21 13:21:18
+同.......
+#quote PKUDDD
+
+#p 21365663 Leeves 小灰灰 2019-11-21 13:22:26
+Mark一下，回头尝试一下V2ray
+#quote PKUDDD
+
+#p 21365667 dash dash 2019-11-21 13:24:13
+用的bwg+v2ray，现在还活着
+问一句楼主不会用到bwg自带的ss一键拓展吧？
+那个好像据说特别容易被封，因为对墙来说数据特征很明显
+#quote PKUDDD
+
+#p 21365675 wmdcstdio 一条咸鱼 2019-11-21 13:25:16
+wireguard毫无压力
+#quote PKUDDD
+
+#p 21365732 TroyChan desperado 2019-11-21 13:38:52
+越贵的付费vpn挂的越快，真是铁率了
+#quote PKUDDD
+
+#p 21365755 PKUDDD 不如躺尸 2019-11-21 13:41:35
+用的SSR，我准备下次也试试V2ray了，顶不住了
+#quote dash
+
+#p 21365759 PKUDDD 不如躺尸 2019-11-21 13:42:25
+是的呀，五十刀好亏的
+#quote TroyChan
+
+#p 21365762 PKUDDD 不如躺尸 2019-11-21 13:43:32
+现在VPS被封了，什么操作都搞不定，等看看能不能解封好了，实在不行花钱再买个IP
+#quote hzhbf
+
+#p 21365767 TroyChan desperado 2019-11-21 13:44:01
+以后只用免费的了，呜呜
+#quote PKUDDD
+
+#p 21365769 PKUDDD 不如躺尸 2019-11-21 13:44:10
+大佬你的IPV6的还依然坚挺，v4的是凉了
+#quote hiaoxui
+
+#p 21365781 PKUDDD 不如躺尸 2019-11-21 13:44:55
+换个IP再花8刀感觉更亏，特么的
+#quote TroyChan
+
+#p 21365794 erdaye 二大爷 2019-11-21 13:48:05
+SSR能用啊
+#quote PKUDDD
+
+#p 21365814 massltime Ryant 2019-11-21 13:55:49
+都不看新闻联播的嘛…昨天骂了十多分钟某国的特务间谍帮助人策反，晚上直接给大家断网了…
+#quote PKUDDD
+
+#p 21365822 ortuskun ortus 2019-11-21 13:57:11
+应该就是因为hk法案 昨天还奇怪怎么突然全封了
+#quote PKUDDD
 

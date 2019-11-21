@@ -1,0 +1,53 @@
+#t 668 17114271 Hotarubi 2019-05-20 00:14:00 hiaoxui 2019-11-21 13:04:00
+可预见的日子里能用上gsuite么(转载)
+
+#p 20250765 Hotarubi 是扇底闪躲|或雨水摧折 2019-05-20 14:48:55
+[原文由 NexTU 发表在 Google 版 &gt;&gt;&gt;](post-read.php?bid=1001&amp;threadid=17114271)
+已知邮箱可用 onedrive 1T
+如果管理员开通 gsuite 就更好了，教育版的gdrive 貌似不限量
+[https://support.google.com/a/answer/2856827?hl=zh-Hans](jump-to.php?url=https%3A%2F%2Fsupport.google.com%2Fa%2Fanswer%2F2856827%3Fhl%3Dzh-Hans)
+
+#p 20251293 PKUCC 北京大学计算中心 2019-05-20 16:32:46
+貌似google的服务，服务质量难以保证吧。
+#quote Hotarubi
+
+#p 20253925 NexTU Hey 2019-05-21 10:37:35
+1.  Onedrive 其实有时候也会同步困难，需要采取“措施”辅助更新
+2.  希望提供 gsuite 的原因:
+   ①  gmail，gmail 虽然大陆无法访问，但国内某些邮箱 app 可以正常收发 gmail 邮件，教育版的 gmail 提供无容量电子信箱(之前提供无限，现在未知)，除此之外，邮件防护机制我想应该不用多说了， 校内邮箱有时候会出现丢件的问题，gmail 可以作为备选使用，也可以在国外时使用
+   ②  gdrive 教育版的 gdrive 不限制存储，可以提供一个云端备份选择/文件分享等等
+3. 服务质量这个，是针对国内大环境来说的么？ 加上辅助措施，其实问题也不大
+4. 因为是免费提供的教育版，给大家提供一个备选方案，感觉也挺好的
+#quote PKUCC
+
+#p 20254267 Brainor Leong 2019-05-21 11:18:53
+同意楼上, 而且根据[https://support.google.com/a/answer/139019#6_storage](jump-to.php?url=https%3A%2F%2Fsupport.google.com%2Fa%2Fanswer%2F139019%236_storage)
+无限量的存储空间啊同志们
+#quote NexTU
+
+#p 20254717 juruo 蒟蒻MagicPoi 2019-05-21 12:45:19
+附议，还是很实用的
+#quote Hotarubi
+
+#p 20256619 ShanYiHao 弋 2019-05-21 19:20:26
+同意的   使用onedrive同步oneNote 时常出现异常的 需要一个辅助的  
+#quote Hotarubi
+
+#p 20329720 wkh 嘻嘻 2019-05-28 16:18:16
+Google Drive的无限储存服务还是很有用的，十分希望学校能够提供
+#quote Hotarubi
+
+#p 20334401 Hotarubi 是扇底闪躲|或雨水摧折 2019-05-29 14:33:50
+就，虽然在墙内访问服务质量难以保证，但是好说歹说不要钱啊
+那当然不开白不开对嘛
+#quote PKUCC
+
+#p 20416660 zhongzhong sigh&smile 2019-06-15 20:34:02
+此言差矣！ipv6 在手还用担心 google 的服务质量[1]？
+[1]: [https://gsuiteupdates.googleblog.com/2012/05/ipv6-will-be-permanently-enabled-on.html](jump-to.php?url=https%3A%2F%2Fgsuiteupdates.googleblog.com%2F2012%2F05%2Fipv6-will-be-permanently-enabled-on.html)
+#quote PKUCC
+
+#p 21365539 hiaoxui 小辉 2019-11-21 13:04:00
+这恐怕不是谷歌的问题.
+#quote PKUCC
+

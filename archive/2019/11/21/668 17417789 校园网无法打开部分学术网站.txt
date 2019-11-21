@@ -1,0 +1,10 @@
+#t 668 17417789 zxzb 2019-11-21 14:00:00 zxzb 2019-11-21 14:00:00
+校园网无法打开部分学术网站
+
+#p 21365829 zxzb Tom&Jerry 2019-11-21 13:59:57
+www.Pombase.org   
+www.Uniprot.org  
+genome.ucsc.edu 
+www.expasy.org 
+打不开呀，严重影响工作。
+
