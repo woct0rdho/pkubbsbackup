@@ -1,6 +1,28 @@
-#t 35 17418398 huangzhiyan 2019-11-21 21:42:00 huangzhiyan 2019-11-21 21:42:00
+#t 35 17418398 huangzhiyan 2019-11-21 00:21:00 vimacs 2019-11-21 23:07:00
 请求科普如何翻墙
 
 #p 21368852 huangzhiyan 妍同学 2019-11-21 21:41:48
 想知道如何翻墙，主要是想看油管视频，查维基百科这类的。
+
+#p 21369225 vimacs Lisp Interaction Paredit AC 2019-11-21 23:06:57
+TL;DR: 简单的方式是找现成的shadowsocks[4]服务，socks5服务也许能起作用。使用加密DNS可以收发GMail邮件，访问duckduckgo等部分被墙网站。有能力的考虑自己搭建代理服务。
+首先你要了解墙做了什么，然后针对性地对付这些手段。我作为非专业人士对见过的封锁手段做个简单的介绍。
+1. DNS污染
+你用域名访问一台主机的时候，会向DNS服务器查询域名对应的IP地址。这个过程用的是明文传输，也没有完整性验证，因此攻击者可以伪造一个IP返回给查询者。
+应对方法包括用本地hosts文件，作用是强制让软件的域名解析将某些域名解析为特定IP，还有加密DNS，包括dnscrypt-proxy[1], DNS over HTTPS, DNS over TLS，让域名解析变成加密带验证的过程，从而使攻击者无法篡改DNS查询的结果，并保护了用户的隐私。
+2. IP/端口封锁
+运营商可能会封锁某些IP或端口，造成某些主机或服务无法访问。封锁方式包括了修改IP包的TTL值使得IP包无法到达目标主机，造成连接超时。
+3. 流量检测/SNI检测
+攻击者会检测网络流量的特征，发现可以的流量，从而可以切断用于“翻墙”的流量，例如TOR协议的检测。现在GFW还可以检测加密流量中的TLS流量[2]，例如之前我发现在WireGuard中的HTTPS连接会被切断，但是同样是加密流量的SSH却没问题。
+此外，现在大部分的网站都启用了HTTPS，但是TLS握手的过程中的SNI信息会泄露域名，GFW会根据域名重置连接。典型的现象是用curl访问相应网站时，用HTTP协议访问会正常得到302响应，但是用HTTPS协议访问会发生连接重置现象。GFW对wikipedia和reddit的封锁都是用这种手段。
+对于2,3两种封锁，一般的方式是使用代理类软件。普通的socks5代理是不加密的，但是我发现socks5代理的效果还不错，访问Google等网站一般没问题，有时甚至能成功访问wikipedia和reddit(有可能是墙放过了这些流量，也有可能是TLS会话重用)。[3]如果socks5代理无效，那就要使用加密隧道。SSH本身可以作为加密隧道使用，但是流量特征过于明显，性能也不好，所以常用的是shadowsocks[4]和类似的软件，这些软件和SSH代理都是和服务器建立一个加密隧道，并在本机开一个socks5代理端口，使得支持socks5代理的软件都能用它。此外VPN也是一种隧道，常见的有WireGuard,Tinc,OpenVPN,IPSec,Openconnect等协议，它们都有加密功能，VPN在本机体现为一个网络接口，用户可以通过修改路由表使网络流量通过VPN的加密隧道。我社区的某些网友不建议使用VPN翻墙。
+要使用这些代理类软件或VPN，需要有一个远程服务器作为代理用的服务器。如果想找免费代理，可以在网上找免费的socks5,甚至还有免费的shadowsocks服务。如果愿意花钱的话，网上有收费的代理服务或VPN(riseup和purism都提供VPN服务用于隐藏IP[5]).如果需要灵活的配置的话，也可以自己购买主机搭建（我比较喜欢自己搭建，但不是每个人都认同）。
+最后一点提醒，请避免使用私有软件[6]，它们可能会监控你的行为。此外，代理服务器/VPN提供商会记录你的流量，加密隧道不能代替安全连接。
+[1] [https://dnscrypt.info/](jump-to.php?url=https%3A%2F%2Fdnscrypt.info%2F)
+[2] [http://blog.zorinaq.com/my-experience-with-the-great-firewall-of-china/](jump-to.php?url=http%3A%2F%2Fblog.zorinaq.com%2Fmy-experience-with-the-great-firewall-of-china%2F)
+[3] 我使用3proxy搭设socks5代理 [https://github.com/z3APA3A/3proxy](jump-to.php?url=https%3A%2F%2Fgithub.com%2Fz3APA3A%2F3proxy)
+[4] [https://pypi.python.org/pypi/shadowsocks](jump-to.php?url=https%3A%2F%2Fpypi.python.org%2Fpypi%2Fshadowsocks) 此外还有v2ray等更先进的混淆工具
+[5] [https://riseup.net/en/vpn](jump-to.php?url=https%3A%2F%2Friseup.net%2Fen%2Fvpn), [https://librem.one/](jump-to.php?url=https%3A%2F%2Flibrem.one%2F)
+[6] [https://fsfs-zh.readthedocs.io/free-sw/](jump-to.php?url=https%3A%2F%2Ffsfs-zh.readthedocs.io%2Ffree-sw%2F)
+#quote huangzhiyan
 
