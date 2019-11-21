@@ -1,4 +1,4 @@
-#t 35 16264150 hiaoxui 2017-11-10 00:00:00 hiaoxui 2019-11-21 01:32:00
+#t 35 16264150 hiaoxui 2017-11-10 00:00:00 thermo 2019-11-21 09:22:00
 科学上网, SSR 服务器分享
 
 #p 17134091 hiaoxui 小辉 2019-11-16 04:36:36
@@ -1428,5 +1428,9 @@ Click on the number and type the assigned port. Sorry having trouble typing Chin
 
 #p 21362112 hiaoxui 小辉 2019-11-21 01:31:45
 不知道最近有什么敏感事件. 校内有条件的同学先用 IPv6 地址吧, 我会尽快恢复.
+#quote hiaoxui
+
+#p 21363830 thermo 猫猴子圈 2019-11-21 09:21:37
+ipv6的也挂了。。。
 #quote hiaoxui
 
