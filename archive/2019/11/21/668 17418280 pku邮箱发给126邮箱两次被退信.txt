@@ -1,4 +1,4 @@
-#t 668 17418280 Postel 2019-11-21 20:12:00 PKUCC 2019-11-21 20:51:00
+#t 668 17418280 Postel 2019-11-21 00:20:00 PKUCC 2019-11-21 21:45:00
 pku邮箱发给126邮箱两次被退信
 
 #p 21368495 Postel 天马 2019-11-21 20:11:44
@@ -12,7 +12,14 @@ The sending IP address doesn't match the SPF record of your own domain.
 SMTP error, MAIL FROM: (CM)Host (220.181.15.141)  MAIL FROM said 550 MI:SPF 126 mx23,KcmowADHJm80fdZdJkwNFQ--.62611S2 1574337844 [http://mail.163.com/help/help_spam_16.htm?ip=124.205.77.179&amp;hostid=mx23&amp;time=1574337844](jump-to.php?url=http%3A%2F%2Fmail.163.com%2Fhelp%2Fhelp_spam_16.htm%3Fip%3D124.205.77.179%26hostid%3Dmx23%26time%3D1574337844)
 好奇一下原因……
 
-#p 21368648 PKUCC 北京大学计算中心 2019-11-21 20:50:43
-你好！谢谢提醒。已经开始排查原因。
+#p 21368648 PKUCC 北京大学计算中心 2019-11-21 20:58:35
+
+
+2019-11-21 20:50:43
+你好！谢谢提醒。已经开始排查原因。方便的话，站内信或给its@pku.edu.cn发信提供一下你的邮箱地址。
+#quote Postel
+
+#p 21368865 PKUCC 北京大学计算中心 2019-11-21 21:45:07
+你好！针对这个问题策略上做了一些调整，应该已经解决了。如果仍有问题，请通知我们。
 #quote Postel
 
