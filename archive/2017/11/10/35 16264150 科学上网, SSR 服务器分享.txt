@@ -1,4 +1,4 @@
-#t 35 16264150 hiaoxui 2017-11-10 00:00:00 xdrczrm 2019-11-21 15:59:00
+#t 35 16264150 hiaoxui 2017-11-10 00:00:00 physalisL 2019-11-21 20:31:00
 科学上网, SSR 服务器分享
 
 #p 17134091 hiaoxui 小辉 2019-11-16 04:36:36
@@ -625,7 +625,7 @@ cernet 的墙可能略高于外界. 不同的出口的封禁可能并不同步. 
 谢谢！
 #quote hiaoxui
 
-#p 20641885 ShengZhaohua 咋回事呀 2019-08-06 11:27:10
+#p 20641885 ShengZhaohua Dover 2019-08-06 11:27:10
 谢谢分享！！！
 #quote hiaoxui
 
@@ -1512,5 +1512,9 @@ ipv6的也挂了。。。
 
 #p 21366413 xdrczrm 刑铭 2019-11-21 15:58:34
 多谢，已经恢复了
+#quote hiaoxui
+
+#p 21368576 physalisL physalis 2019-11-21 20:30:38
+求使用，谢谢！
 #quote hiaoxui
 
