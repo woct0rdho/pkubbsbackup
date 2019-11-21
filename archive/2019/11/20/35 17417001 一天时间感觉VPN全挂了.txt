@@ -1,4 +1,4 @@
-#t 35 17417001 PKUDDD 2019-11-20 00:23:00 jiamingpku 2019-11-21 11:59:00
+#t 35 17417001 PKUDDD 2019-11-20 00:23:00 CoreM 2019-11-21 12:56:00
 一天时间感觉VPN全挂了
 
 #p 21361619 PKUDDD 不如躺尸 2019-11-20 23:44:35
@@ -88,4 +88,29 @@ xshell直接登不上去，国内都ping不通了
 #p 21365193 jiamingpku jiamingpku 2019-11-21 11:59:28
 re
 #quote PKUDDD
+
+#p 21365306 hpnzss hpnzss 2019-11-21 12:20:05
+同，昨天晚上突然
+#quote PKUDDD
+
+#p 21365340 MCSF MCSF 2019-11-21 12:27:08
+同 昨天aws的ss挂了
+#quote PKUDDD
+
+#p 21365348 lijinpei 陈冠嘻 2019-11-21 12:28:16
+可能是。。。要下手了?
+#quote juruo
+
+#p 21365446 ultimate Springfield 2019-11-21 12:49:05
+香港区议会选举？
+#quote lijinpei
+
+#p 21365449 hiaoxui 小辉 2019-11-21 12:49:30
+我猜测是香港法案影响.
+不过我觉得这波封禁还不算太猛, 虽然影响范围大, 但是远远没有儿童节那次恐怖.
+#quote PKUDDD
+
+#p 21365493 CoreM AMDYES 2019-11-21 12:56:37
+亲测好用，感谢层主
+#quote foolaaa
 
