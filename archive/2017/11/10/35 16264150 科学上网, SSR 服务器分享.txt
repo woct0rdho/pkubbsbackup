@@ -1,4 +1,4 @@
-#t 35 16264150 hiaoxui 2017-11-10 00:00:00 thermo 2019-11-21 09:22:00
+#t 35 16264150 hiaoxui 2017-11-10 00:00:00 pkultf 2019-11-21 09:51:00
 科学上网, SSR 服务器分享
 
 #p 17134091 hiaoxui 小辉 2019-11-16 04:36:36
@@ -1432,5 +1432,9 @@ Click on the number and type the assigned port. Sorry having trouble typing Chin
 
 #p 21363830 thermo 猫猴子圈 2019-11-21 09:21:37
 ipv6的也挂了。。。
+#quote hiaoxui
+
+#p 21363999 pkultf 说实话就挨打 2019-11-21 09:51:05
+我还有一个，之前发文共享，被某人举报了，所以我关闭了共享。。真需要我还可以顶着被喝茶的风险，私聊共享（绝对不能公开共享了）
 #quote hiaoxui
 
