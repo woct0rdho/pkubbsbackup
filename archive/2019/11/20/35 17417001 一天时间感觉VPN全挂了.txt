@@ -1,4 +1,4 @@
-#t 35 17417001 PKUDDD 2019-11-20 00:23:00 MetatronCube 2019-11-21 10:59:00
+#t 35 17417001 PKUDDD 2019-11-20 00:23:00 jiamingpku 2019-11-21 11:59:00
 一天时间感觉VPN全挂了
 
 #p 21361619 PKUDDD 不如躺尸 2019-11-20 23:44:35
@@ -63,5 +63,29 @@
 
 #p 21364338 MetatronCube 神蚀 2019-11-21 10:58:50
 v2ray无压力
+#quote PKUDDD
+
+#p 21364393 Taindall Charlie 2019-11-21 11:11:12
+我也突然挂了，不过换了一个端口就又能用了
+#quote PKUDDD
+
+#p 21364428 ohHeisenberg Heisenberg 2019-11-21 11:19:54
+搬瓦工挂了不是很正常。。。这种太多人用的vps早点换吧
+#quote PKUDDD
+
+#p 21364941 PKUDDD 不如躺尸 2019-11-21 11:27:21
+xshell直接登不上去，国内都ping不通了
+#quote Taindall
+
+#p 21365014 PKUDDD 不如躺尸 2019-11-21 11:27:35
+小众的有啥好用的
+#quote ohHeisenberg
+
+#p 21365053 juruo 蒟蒻MagicPoi 2019-11-21 11:35:23
+最近发生了什么嘛
+#quote PKUDDD
+
+#p 21365193 jiamingpku jiamingpku 2019-11-21 11:59:28
+re
 #quote PKUDDD
 
