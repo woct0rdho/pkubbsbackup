@@ -1,4 +1,4 @@
-#t 35 17417001 PKUDDD 2019-11-20 00:23:00 assmdxr 2019-11-21 18:58:00
+#t 35 17417001 PKUDDD 2019-11-20 00:23:00 yqdfy 2019-11-21 19:51:00
 一天时间感觉VPN全挂了
 
 #p 21361619 PKUDDD 不如躺尸 2019-11-20 23:44:35
@@ -358,5 +358,29 @@ hhhhhhhhh确实是这样
 
 #p 21368117 assmdxr assmdxrzc123 2019-11-21 18:58:03
 伟大的PkU网关2秒内就干掉了我的梯子
+#quote PKUDDD
+
+#p 21368233 scalefree 蛋白质手刀 2019-11-21 19:26:19
+我的VPS昨天也被封了端口，我还纳闷来着，原来不只是我出了问题啊
+#quote PKUDDD
+
+#p 21368254 ltbyron Anonymous 2019-11-21 19:28:44
+要顾大体，识大局！
+#quote hrcegg
+
+#p 21368256 ltbyron Anonymous 2019-11-21 19:29:28
+我们有那么多国产的优秀搜索引擎，为什么要用Google？（狗头
+#quote massltime
+
+#p 21368298 yuyuexi 鱼越溪 2019-11-21 19:36:31
+vultr的芝加哥节点也挂了，换了个端口，又活了。
+#quote PKUDDD
+
+#p 21368370 IlIl 王铁崖 2019-11-21 19:48:14
+贵校计算中心没那么大的算力，锅还是cert的。
+#quote assmdxr
+
+#p 21368389 yqdfy 卢瑟夫 2019-11-21 19:50:57
+本版置顶里的ssr，ipv6还可以用
 #quote PKUDDD
 
