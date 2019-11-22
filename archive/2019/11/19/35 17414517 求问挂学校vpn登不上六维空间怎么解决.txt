@@ -1,4 +1,4 @@
-#t 35 17414517 PhilaDroso 2019-11-19 00:11:00 PhilaDroso 2019-11-20 13:47:00
+#t 35 17414517 PhilaDroso 2019-11-19 00:11:00 PhilaDroso 2019-11-22 09:19:00
 求问挂学校vpn登不上六维空间怎么解决
 
 #p 21349934 PhilaDroso 小露|Bio09->CLS13 2019-11-19 11:27:58
@@ -29,5 +29,9 @@ ipconfig /all
 
 #p 21358995 PhilaDroso 小露|Bio09->CLS13 2019-11-20 13:46:17
 突然能上了！谢谢！
+#quote sxpeter
+
+#p 21373815 PhilaDroso 小露|Bio09->CLS13 2019-11-22 09:18:09
+今天打开又挂了。。求看咋回事儿，谢谢@@
 #quote sxpeter
 
