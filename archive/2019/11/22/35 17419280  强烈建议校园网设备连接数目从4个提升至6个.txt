@@ -1,4 +1,4 @@
-#t 35 17419280 wjk 2019-11-22 00:12:00 INTZC 2019-11-23 04:49:00
+#t 35 17419280 wjk 2019-11-22 00:12:00 ForestMilan 2019-11-23 05:58:00
  强烈建议校园网设备连接数目从4个提升至6个
 
 #p 21374729 wjk wjk-left1 2019-11-22 23:28:54
@@ -184,4 +184,15 @@ up
 #p 21379150 INTZC 渣渣 2019-11-23 04:48:58
 re
 #quote onlyglory
+
+#p 21379208 ForestMilan forestmilan 2019-11-23 05:55:59
+建议先需求调研。
+我自己及周围人从来没听说过这个需求Z
+#quote wjk
+发自我的“北大未名”iOS客户端([http://t.cn/R7ZhtYc](jump-to.php?url=http%3A%2F%2Ft.cn%2FR7ZhtYc))
+
+#p 21379212 ForestMilan forestmilan 2019-11-23 05:58:00
+可以考虑收费申请连接数。
+#quote wjk
+发自我的“北大未名”iOS客户端([http://t.cn/R7ZhtYc](jump-to.php?url=http%3A%2F%2Ft.cn%2FR7ZhtYc))
 
