@@ -1,0 +1,17 @@
+#t 72 17408527 jiamingpku 2019-11-23 19:16:00 Tranquilsun 2019-11-23 19:57:00
+Re 1个有线网卡，但是设备管理器却显示2个网(转载)
+
+#p 21382660 jiamingpku jiamingpku 2019-11-23 19:15:25
+[原文由 Tranquilsun 发表在 Computer 版 &gt;&gt;&gt;](post-read.php?bid=1361&amp;threadid=17408527)
+一个作业需要搞明白这个😂
+#quote kissme
+
+#p 21382661 jiamingpku jiamingpku 2019-11-23 19:15:29
+[原文由 CoreM 发表在 Computer 版 &gt;&gt;&gt;](post-read.php?bid=1361&amp;threadid=17408527)
+作业自己做
+#quote Tranquilsun
+
+#p 21382803 Tranquilsun 串口|不丧|无常 2019-11-23 19:56:25
+猴哥好坏。。。。
+#quote jiamingpku
+
