@@ -1,4 +1,4 @@
-#t 668 17420617 Tariel 2019-11-23 10:50:00 Tariel 2019-11-23 10:50:00
+#t 668 17420617 Tariel 2019-11-23 10:50:00 lisuiasdf 2019-11-23 11:23:00
 gmail无法使用POP3收取PKU邮箱的信件
 
 #p 21380591 Tariel 塔里埃尔|萌物保护协会 2019-11-23 10:50:00
@@ -6,4 +6,12 @@ gmail无法使用POP3收取PKU邮箱的信件
 错误信息：
         Connection Error.
 Server returned error "Connection reset by peer: The other server terminated our connection. Please ..."
+
+#p 21380649 PKUCC 北京大学计算中心 2019-11-23 11:05:27
+你好！这是网络连接的问题。邮件服务器有多个入口，除了mail.pku.edu.cn之外，请试试mailt.pku.edu.cn（电信入口），mailu.pku.edu.cn（连通入口），mailc.pku.edu.cn（教育网入口） 。
+#quote Tariel
+
+#p 21380730 lisuiasdf sui | CS2010~2020 2019-11-23 11:22:26
+我也遇到了这个问题，这几天只能手动收邮件，很麻烦
+#quote Tariel
 
