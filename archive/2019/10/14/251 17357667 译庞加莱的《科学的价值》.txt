@@ -1,12 +1,12 @@
-#t 251 17357667 Masonry 2019-10-14 00:01:00 Masonry 2019-11-17 20:50:00
+#t 251 17357667 Masonry 2019-10-14 00:01:00 lyshv 2019-11-24 19:31:00
 译庞加莱的《科学的价值》
 
-#p 21091859 Masonry Magnum Chaos 2019-11-06 17:27:17
+#p 21091859 Masonry Magnum Chaos 2019-11-20 09:00:54
 
 
 2019-10-14 01:58:37
 法国数学家庞加莱(Henri Poincaré)的著作《科学的价值》于1913年由George Halsted翻译为英文，论述的主题就是“科学的价值”，其中也有几处提及中国和东方文明，漫不经心但振聋发聩。我很难说的比庞加莱更好，因此希望在闲暇之时将这些文章翻译，以供大家参考和交流，姑且认为是一个习作。我也希望能听到读者的感受，不论是对文章内容还是翻译的细节上的。在我看来，每一篇文章具有相对的独立性，感兴趣的读者可以从中挑选一篇来读，无需整本读完。
-庞加莱的写作是很一般(general)的，正因此，一个相当广泛的群体可以从中找到乐趣和启发。他的著作问世后获得了广泛的欢迎，不论专业、不论国别的人都从中找到了乐趣，这点可以从Eric Bell在《Men of mathematics》写的Poincaré传记中看出。
+庞加莱的写作是很一般(general)的，正因此，一个相当广泛的群体可以从中找到乐趣和启发。他的著作问世后获得了广泛的欢迎，不论专业、不论国别的人都从中找到了乐趣，这点可以从Eric Bell在《Men of mathematics》写的Poincaré传记中看出。如果法国的工人和女侍者可以读庞加莱，那我们当然也可以。
 无需刻意强调，大师的作品，每经一次翻译都丧失一份美感，从开始的法语途径英语再由我翻译为汉语，其中的美感估计会丧失大半。在这样的情况下，看法、英文是更好的选择，目前应该也有很多汉语译本了，我的翻译仅提供一种参考和理解。译文中的黑体字是我标注的，旨在指出我个人认为十分关键的内容。更新很可能是缓慢而不定时的。囿于个人水平和见识，必将有不少错译之处。之所以发在bbs上，是希望同学不吝指正，以使这个翻译更好。
 从中节选两句我喜欢的话，为读者作示例：
 如果再继续引用下去，恐怕要把整本书引用上来了，请读者看下面的译文吧。
@@ -265,7 +265,7 @@ By that means the difficulties arising from passing to the limit, or from the co
 后天晚上会把III、IV一并放出来，敬请期待
 #quote Miky
 
-#p 21243927 Masonry Magnum Chaos 2019-11-13 02:59:04
+#p 21243927 Masonry Magnum Chaos 2019-11-17 22:33:18
 
 
 2019-11-01 17:07:17
@@ -276,7 +276,7 @@ Intuition and logic in mathematics
 A first question presents itself. Is this evolution ended? Have we finally attained absolute rigor? At each stage of the evolution our fathers also thought they had reached it. If they deceived themselves, do we not likewise cheat ourselves?
 一个问题出现了。这场演化在今天结束了吗？**我们终于达到了绝对的严格吗？**在这场演化的每个时期，我们的父辈都自认达到完全的严格了。如果他们都骗了自己，那我们会不会也是在自我欺骗呢？
 We believe that in our reasonings we no longer appeal to intuition; the philosophers will tell us this is an illusion. Pure logic could never lead us to anything but tautologies; it could create nothing new; not from it alone can any science issue. In one sense these philosophers are right; to make arithmetic, as to make geometry, or to make any science, something else than pure logic is necessary. To designate this something else we have no word other than intuition. But how many different ideas are hidden under this same word?
-我们相信我们的推理已不再依赖于直觉了；但哲学家会告诉我们这是个错觉。**纯逻辑只能为我们提供重言式；它不能创造任何新的事物；单凭逻辑本身，是无法产生科学的。**在特定意义下，这些哲学家说的没错；为创造算术，创造几何，或创造任何一门科学，一些逻辑之外的东西是必需的。要形容这种东西，除“直觉”外我想不到更好的词了。**但在“直觉”这一词之下，究竟藏了多少种不同的意思？**
+我们相信我们的推理已不再依赖于直觉了；但哲学家会告诉我们，这是个错觉。**纯逻辑只能为我们提供重言式；它不能创造任何新的事物；单凭逻辑本身，是无法产生科学的。**在特定意义下，这些哲学家说的没错；为创造算术，创造几何，或创造任何一门科学，一些逻辑之外的东西是必需的。要形容这种东西，除“直觉”外我想不到更好的词了。**但在“直觉”这一词之下，究竟藏了多少种不同的意思？**
 Compare these four axioms: (1) Two quantities equal to a third are equal to one another; (2) if a theorem is true of number 1 and if we prove that it is true of n+1 if true for n, then will it be true of all whole numbers; (3) if on a straight the point C is between A and B and the point D between A and C, then the point D will be between A and B; (4) through a given point there is not more than one parallel to a give straight. 
 比较下面四条公理：（1）若两个量同时与第三个量相等，那么这两个量亦相等；（2）如果一个定理对自然数“1”成立且我们证明了它在对n成立时必对n+1成立，那么这个定理对所有自然数都将成立；（3）如果在一条直线上，点C位于A和B之间，而点D位于A和C之间，那么点D也在A、B之间；（4）给定一条直线，给定一点，则在该点上至多仅能做一条与给定直线平行的直线。
 All four are attributed to intuition, and yet the first is the enunciation of one of the rules of formal logic; the second is a real synthetic a priori judgement, it is the foundation of rigorous mathematical induction; the third is an appeal to the imagination; the fourth is a disguised definition. 
@@ -450,7 +450,17 @@ deduction是演绎（是完全的） induction叫归纳（是不完全的）
 然鹅数学归纳法是完全的，就emmmmm
 #quote kingsfoil
 
-#p 21341468 Masonry Magnum Chaos 2019-11-17 20:50:27
-我对这两个词是这样理解的：induction(bottom-up logic)是从个例、具体的前提，推出的总体、普遍的结论，其中就包括通过观察个例推断整体的推理；deduction(top-down logic)与之相反，是从普遍推出个例，比如公理化体系中的推理。其实我也一直有些怀疑，福尔摩斯中的“科学演绎法”这一名称是否准确。福尔摩斯对人的判断显然和duck test是类似的，都是根据某一实例的一些具体特征及其组合（风度、气概、肤色、面容、左臂受伤等），判断这一实例的抽象性质（职业、经历），再根据抽象性质推及其更多特征和心理动机等等。但事实上，福尔摩斯的推断只可能是概率上的，因为他不能“逻辑”地证明这个人曾在阿富汗做军医，除非直接观测结果，但那样就不是“演绎”了。通常说的演绎，需要的是在确定性的系统下、从普遍到个例的推理，恰好与福尔摩斯进行的推理是相反的。而现代法庭所通用的推理体系，应该是统计学的推理，而非形式逻辑的推理，所以福尔摩斯按理来说使用的应该是类似于统计推理的东西，而不是逻辑推理。再者，福尔摩斯所选用的特征并不是逻辑的，而是完全基于直觉，比如“风度”和“气概”，是非常高层次的特征，不是能够确凿观察的底层特征，是需要大量的经验的训练的，因此在本质上也是统计的。总而言之，他的推理是归纳的、统计的、直觉的，而不是逻辑的、演绎的。我甚至见到过统计学课本里面经常引用福尔摩斯里的片段，这也可见一斑。柯南道尔想刻画福尔摩斯的“逻辑推理能力”非常出色，但现在看来，好像是弄巧成拙了。
+#p 21341468 Masonry Magnum Chaos 2019-11-17 22:30:13
+
+
+2019-11-17 20:50:27
+我对这两个词是这样理解的：induction(bottom-up logic)是从个例、具体的前提，推出的总体、普遍的结论，其中就包括通过观察个例推断整体的推理；deduction(top-down logic)与之相反，是从普遍推出个例，比如公理化体系中的推理。
+其实我也一直有些怀疑，福尔摩斯中的“科学演绎法”这一名称是否准确。福尔摩斯对人的判断显然和duck test是类似的，都是根据某一实例的一些具体特征及其组合（风度、气概、肤色、面容、左臂受伤等），判断这一实例的抽象性质（职业、经历），再根据抽象性质推及其更多特征和心理动机等等。但事实上，福尔摩斯的推断只可能是概率上的，因为他不能“逻辑”地证明这个人曾在阿富汗做军医，除非直接观测结果，但那样就不是“演绎”了。
+通常说的演绎，指的是在确定性的逻辑系统下进行从普遍到个例的推理，恰好与福尔摩斯进行的推理是相反的。而现代法庭所通用的用于综合证据做推断的工具，应该是统计学的，而非形式逻辑的。所以，福尔摩斯使用的方法在本质上应该与统计相近，而不是逻辑推理。我想，福尔摩斯大多数时候应该不会使用Bayes公式，至少在小说中没有这样描述（虽然在某一改编版本中，他的父母是数学家，但或许福尔摩斯有较强的叛逆精神，没有学习数学，而是去学习了更重要的东西，比如amo, amas, amat）。我们只能猜测，他的直觉与统计学的规律吻合的很好。当然这并不容易，因为即便是牛顿这样的大数学家也曾因概率直觉的不准确而犯错误。这恰好说明，他既然是如此出色的一个侦探，就不可能依赖于“演绎推理法”来断案，因为统计学常常给出一些违背逻辑直觉的结论，比如“幸存者偏差”。历史上的赌徒深知这一点，所以他们才求助于数学家，而我们因此有了概率论。再者，福尔摩斯所选用的特征并不是逻辑的，而基本上是基于直觉的；比如“风度”和“气概”，这些都是非常高层次的特征，不是能够确凿观察的底层特征，而是需要大量经验的训练才能形成的特征；因此，其在本质上也是统计的。如果人要对福尔摩斯的这种智慧惊叹，那也该是对他的大脑作为统计机器的效能的赞叹。
+总而言之，他的推理是归纳的、统计的、直觉的、合成的，而不是逻辑的、演绎的、分析的。甚至，有统计学课本多次引用福尔摩斯的片段，这也可见一斑。柯南道尔想通过刻画福尔摩斯的“逻辑推理能力”的出色来突出他的天才，在现在看来，好像有些弄巧成拙了。用庞加莱的术语来说，对侦探而言，直觉似乎比逻辑更重要。人们通常刻板地认为，诸如牛顿这样的科学家，或像福尔摩斯这样的大侦探，首要的本领在逻辑推理。这是个谬误，不论是牛顿还是福尔摩斯，他进行逻辑推理的能力都不比经院哲学家的更好，而这就像庞加莱在文章中指出的：“唯有泛化能使科学前进”；其实，正是泛化和归纳这种在大众看来平淡无奇的能力给了我们最有力的科学理论。再进一步说，不少虚构作品几乎把“逻辑”看成天才的唯一标准，这是很可笑的——人的所有天才都是直觉上的天才，而运用逻辑的直觉只是其中一种。
 #quote kingsfoil
+
+#p 21387323 lyshv 道尘疏柵 2019-11-24 19:30:57
+再码一下，本周是不是要上新？
+#quote Masonry
 

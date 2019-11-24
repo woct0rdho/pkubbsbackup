@@ -1,4 +1,4 @@
-#t 668 17250726 lhydave 2019-08-14 00:11:00 flyingrose 2019-11-22 13:59:00
+#t 668 17250726 lhydave 2019-08-14 00:11:00 francisekawa 2019-11-24 19:43:00
 部分Adobe软件在mac上无法安装
 
 #p 20677330 lhydave 哀牢 2019-08-14 11:55:19
@@ -103,5 +103,13 @@ mac升级后无法正常安装adobe,我们正在与adobe代理商协商解决办
 
 #p 21375241 flyingrose ly 2019-11-22 13:58:59
 Catalina安装pr出现同样问题，同问解决进度
+#quote lhydave
+
+#p 21387362 francisekawa Francis 2019-11-24 19:41:41
+这个帖子有没有办法上十大啊，真的很忧伤啊……
+#quote lhydave
+
+#p 21387364 francisekawa Francis 2019-11-24 19:42:07
+不知道十大对于热度有什么要求
 #quote lhydave
 
