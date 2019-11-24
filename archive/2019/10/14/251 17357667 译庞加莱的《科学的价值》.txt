@@ -1,4 +1,4 @@
-#t 251 17357667 Masonry 2019-10-14 00:01:00 Homagod 2019-11-24 22:43:00
+#t 251 17357667 Masonry 2019-10-14 00:01:00 hmqfc 2019-11-25 01:24:00
 译庞加莱的《科学的价值》
 
 #p 21091859 Masonry Magnum Chaos 2019-11-24 22:28:39
@@ -41,7 +41,7 @@
 （对标题的翻译可能会再做更改）
 **------      ------**
 
-#p 21091865 Masonry Magnum Chaos 2019-11-05 18:08:56
+#p 21091865 Masonry Magnum Chaos 2019-11-24 23:07:01
 
 
 2019-10-14 02:02:28
@@ -66,10 +66,10 @@ In such a world there would be no science; perhaps thought and even life would b
 Which then are the facts likely to reappear? They are first the simple facts. It is clear that in a complex fact a thousand circumstances are united by chance, and that only a chance still much less probable could reunite them anew. But are there any simple facts? And if there are, how recognize them? What assurance is there that a thing we think simple does not hide a dreadful complexity? All we can say is that we ought to prefer the facts which seem simple to those where our crude eye discerns unlike elements. And then one of two things: either this simplicity is real, or else the elements are so intimately mingled as not to be distinguishable. In the first case there is chance of our meeting anew this same simple fact, either in all its purity or entering itself as element in a complex manifold. In the second case this intimate mixture has likewise more chances of recurring than a heterogeneous assemblage; chance knows how to mix, it knows not how to disentangle, and to make with multiple elements a well-ordered edifice in which something is distinguishable, it must be made expressly. The facts which appear simple, even if they are not so, will therefore be more easily revived by chance. This it is which justifies the method instinctively adopted by the scientist, and what justifies it still better, perhaps, is that oft-recurring facts appear to us simple, precisely because we are used to them. 
 哪些事实更可能反复出现呢？首先，是简单的事实。因为，一个复合的事实，通常是因上千种环境的巧合形成的，单单因为巧合就再次形成同样的复合的几率是非常小的。真的有简单的事实吗？如果有的话，要怎么辨别它们？怎么确保我们所以为的简单，背后没有隐藏着极大的复杂性呢？对此，我们唯一的方法就是：选择那些我们肉眼看起来更简单的事实，而不是那些看起来根本不像基元的事实（英译文“Elements”，意为“元素，其他事物的组成部分”）。因此对于简单的事实，只有两种可能：要么我们所见的简单性是真实的，要么这简单性的构成基元已如此亲密地混杂，以至于我们已经无法分辨。在第一种情形下，我们可能会再次遇到这个事实，它或以纯粹的形式出现，或作为一个复杂复合体中的组成基元出现。在第二种情形下，简单事实的组成部分混合地已经如此紧密，以至于无法将这些组成部分分离，因此他们也有更大的共同出现的可能性；几率他懂得如何混合，却不知道如何分开，如果多个基元已能形成一个秩序森然而足以辨认的结构，那么这个结构的形成必定是刻意的。因此，我们看起来简单的事实，即使事实上是复合形成的，也更容易被几率重新唤起。以上的论述可以解释科学家们凭本能采用的选取事实的方法。或许，还有一个更好的解释——那些反复出现的事实之所以看起来简单，其实恰巧是因为我们已经习惯了。
 But where is the simple fact? Scientists have been seeking it in the two extremes, in the infinitely great and in the infinitely small. The astronomer has found it because the distances of the stars are immense, so great that each of them appears but as a point, so great that the qualitative differences are effaced, and because a point is simpler than a body which has form and qualities. The physicist, on the other hand, has sought the elementary phenomenon in fictively cutting up bodies into infinitesimal cubes, because the conditions of the problem, which undergo slow and continuous variation in passing from one point of the body to another, may be regarded as constant in the interior of each of these little cubes. In the same way the biologist has been instinctively led to regard the cell as more interesting than the whole animal, and the outcome has shown his wisdom, since cells belonging to organisms the most different are more alike, for the one who can recognize their resemblances, than are these organisms themselves. The sociologists are more embarrassed; the elements, which for him are men, are too unlike, too variable, too capricious in a word, too complex; besides, history never begins over again. How then choose the interesting fact, which is that which begins again? Method is precisely the choice of facts; it is needful then to be occupied first with creating a method, and many have been imagined, since none imposes itself, so that sociology is the science which has the most methods and the fewest results. 
-在哪里寻找这些简单事实呢？**科学家们在两个极端中找寻事实——在至大和至小之中。**天文学家之所以找到了简单事实，是因为星体之间的距离是如此的浩瀚，在这极大尺度下星体看起来几乎成了一点，因此他们各自特性的影响被去除了，物体的形态和性质造成的复杂性也被隐去了。物理学家通过想象将空间分割成很多个无穷小方块，在这至小的层次上寻找简单现象，这是因为物理学所研究的问题满足这个条件：从物体的一点移动到另一点时，条件的变化是缓慢而连续的，因此在每一个无限小块的内部都可看作常数。生物学家也本能地将细胞看作比整只动物更有意思的研究对象，而结果已经证实了他的智慧——对于那些认识到细胞之间的相似性的人而言，即便看起来很不相同的生物也有着较相似的细胞。社会学家的处境是最尴尬的，他所研究的基元是人类，而人之间的差别太大、太多变、太难以预测，总而言之，人太复杂；另外，历史从来不会真正地重演。在这种情况下，要怎么选择事实，如何确定现象的重复单元为何，以及这些单元开始在哪里呢？方法，其实就是对事实的选择，在研究开始前需要先确立一个方法。到目前为止，社会学家已经想象了许多方法，却还没有一个方法能得到确定的地位。因此在所有科学中，社会学有最多的方法，却有着最少的结论。
+在哪里寻找这些简单事实呢？**科学家们在两个极端中找寻事实——在至大和至小之中。**天文学家之所以找到了简单事实，是因为星体之间的距离是如此的浩瀚，在这极大尺度下星体看起来几乎成了一点，因此他们各自特性的影响被去除了，物体的形态和性质造成的复杂性也被隐去了。物理学家通过想象将空间分割成很多个无穷小方块，在这至小的层次上寻找简单现象，这是因为物理学所研究的问题满足这个条件：从物体的一点移动到另一点时，条件的变化是缓慢而连续的，因此在每一个无限小块的内部都可看作常数。生物学家也本能地将细胞看作比整只动物更有意思的研究对象，而结果已经证实了他的智慧——对于那些认识到细胞之间的相似性的人而言，即便看起来很不相同的生物也有着较相似的细胞。社会学家的处境是最尴尬的，他所研究的基元是人类，而人之间的差别太大、太多变、太难以预测，总而言之，人太复杂；另外，历史从来不会真正地重演。在这种情况下，要怎么选择事实，如何选择那些有趣的，也就是那些会反复发生的事情呢？方法，其实就是对事实的选择，在研究开始前需要先确立一个方法。到目前为止，社会学家已经想象了许多方法，却还没有一个方法能得到确定的地位。因此在所有科学中，社会学有最多的方法，却有着最少的结论。
         
 Therefore it is by the regular facts that it is proper to begin. But after the rule is well established, after it is beyond all doubt, the facts in full conformity with it are ere long without interest since they no longer teach us anything new. It is then the exception which becomes important. We cease to seek resemblances; we devote ourselves above all to the differences, and among the differences are chosen first the most accentuated, not only because they are the most striking, but because they will be the most instructive. A simple example will make my thought plainer: Suppose one wishes to determine a curve by observing some of its points. The practician who concerns himself only with immediate utility would observe only the points he might need for some special object. These points would be badly distributed on the curve; they would be crowded in certain regions, rare in others, so that it would be impossible to join them by a continuous line, and they would be unavailable for other applications. The scientist will proceed differently; as he wishes to study the curve for itself, he will distribute regularly the points to be observed, and when enough are known he will join them by a regular line and then he will have the entire curve. But for that how does he proceed? If he has determined an extreme point of the curve, he does not stay near this extremity, but goes first to the other end; after the two extremities the most instructive point will be the mid-point and so on. 
-因此，我们要首先选择的是那些寻常的事实。此后通过这些事实确立了法则并保证了可信性后，那些与法则相吻合的事实，就失去了重要性；因为，我们从这些事实中无法再了解新的信息了。这时，违反规则的例外反而变得重要了。我们不再寻找相似性，而开始寻找差异性，我们要选择的是那些最醒目的差异，不仅是因为这些事实最让人惊讶，更是因为它们是最具指导性的。一个简单的例子更能说明我的想法：假设一个人想通过描点将一条曲线画出来。那些只在乎眼前效益的实践者，只会观测他为了达成特殊目的所需要的点。他画下的点在曲线上的分布将是丑陋的；在一些区域很密，有些区域却太稀少，很难将这些点连成一条连续的线，因而他们所描的图无法用于其他应用。科学家则会采取一种不同的手段，因为他的目的是研究曲线本身。他会尽可能均匀地将观测点分布在整条曲线上，当观测点足够多的时候，他就可以把它们连成一条连续的线了。这样，他就得到了整条曲线。具体要怎么做呢？他先观测一个端点，但他并不停留在这个端点附近，下次他就会观测另一端的端点；两个端点都观测后他会观察中点，然后继续这样进行下去。
+因此，我们要首先选择的是那些寻常的事实。但在我们建立法则并确保它们的可信性后，那些与法则完全吻合的事实就失去了原本的重要性；因为，我们从这些事实中无法再了解新的信息了。这时，违反法则的例外反而变得重要了。我们不再寻找相似性，而开始寻找差异性，我们要选择的是那些最醒目的差异，不仅是因为这些事实最让人惊讶，更是因为它们是最具指导性的。一个简单的例子更能说明我的想法：假设一个人想通过描点将一条曲线画出来。那些只在乎眼前效益的实践者，只会观测他为了达成特殊目的所需要的点。他画下的点在曲线上的分布将是丑陋的；在一些区域很密，有些区域却太稀少，很难将这些点连成一条连续的线，因而他们所描的图无法用于其他应用。科学家则会采取一种不同的手段，因为他的目的是研究曲线本身。他会尽可能均匀地将观测点分布在整条曲线上，当观测点足够多的时候，他就可以把它们连成一条连续的线了。这样，他就得到了整条曲线。具体要怎么做呢？他先观测一个端点，但他并不停留在这个端点附近，下次他就会观测另一端的端点；两个端点都观测后他会观察中点，然后继续这样进行下去。
 So when a rule is established we should first seek the cause where this rule has the greatest chance of failing. Thence, among other reasons, come the interest of astronomic facts and the interest of the geologic past; by going very far away in space or very far away in time, we may find out usual rules entirely overturned, and these grand overturnings aid us the better to see or the better to understand the little changes which may happen nearer to us, in the little corner of the world where we are called to live and act. We shall better know this corner for having traveled in distant countries with which we have nothing to do. 
 所以当一个规则被确立下来之后，我们应该检验的是，这个规则在何时最可能失效。这正是科学家对天文事实和地质历史产生兴趣的原因之一；我们在空间和时间上走到极远的地方，是希望在那里看到我们的规则被完全颠覆。这些大的颠覆，让我们对自己栖身的一角有了更敏感的观察和更深刻的认识。正因为我们曾遨游于乌有之乡与广漠之野，我们今天更了解我们偏安的一隅了。
 But what we ought to aim at is less the ascertainment of resemblances and differences than the recognition of likenesses hidden under apparent divergences. Particular rules seem at first discordant, but looking more closely we see in general that they resemble each other; different as to matter, they are alike as to form, as to the order of their parts. When we look at them with this bias, we shall see them enlarge and tend to embrace everything. And this it is which makes the value of certain facts which come to complete an assemblage and to show that it is the faithful image of other known assemblages. 
@@ -511,7 +511,7 @@ Therefore two difficulties: (1) Can we transform psychologic time, which is qual
 所以，有两重困难：（1）我们能否将定性的心理时间转化为一种定量的时间？（2）我们能否将散布于不同世界的事实化简为一种通用的测量方式？
 (II 译完)
 
-#p 21388093 Masonry Magnum Chaos 2019-11-24 22:28:14
+#p 21388093 Masonry Magnum Chaos 2019-11-25 00:05:59
 
 
 2019-11-24 21:52:19
@@ -519,19 +519,23 @@ The measure of time
 时间的测量
 III
 三
-The first difficulty has long been noticed; it has been the subject of long discussions and one may say the question is settled. We have not a direct intuition of the equality of two intervals of time. The persons who believe they possess this intuition are dupes of an illusion. When I say, from noon to one the same time passes as from two to three, that meaning has this affirmation?
-前一种困难早已被注意到了；人们关于这一论题进行了许多探讨，我们可以说这问题已解决了。我们没有关于时长相等的直觉。那些自以为有这一直觉的人，不过是错觉的受害者罢了。当我说“自正午至一点的时长与自二点至三点的时长相同”的时候，是什么意思？
+The first difficulty has long been noticed; it has been the subject of long discussions and one may say the question is settled. We have not a direct intuition of the equality of two intervals of time. The persons who believe they possess this intuition are dupes of an illusion. When I say, from noon to one the same time passes as from two to three, what meaning has this affirmation?
+前一种困难早已被注意到了；人们关于这一论题进行了许多探讨，我们可以说这问题已解决了。我们没有关于时长相等的直觉。那些自以为有这一直觉的人，不过是错觉的受害者罢了。当我说“自正午至一点的时长与自二点至三点的时长相同”，这句话表明了什么意思？
 The least reflection shows that by itself it has none at all. It will only have that which I choose to give it, by a definition which will certainly possess a certain degree of arbitrariness. Psychologists could have done without this definition; physicists and astronomers could not; let us see how they have managed. 
-只要稍加思索，我们就认清这句话没有任何含义。它只有我选择给他的含义，而这是由我们的定义决定的，因此它永远带着一定的任意性。即使没有这个定义，心理学家也不受多少影响，但物理学家和天文学就不行了；让我们看看他们是怎么应对这个问题的。
+只要稍加思索，我们就认清这句话没有任何含义。它只有我选择给它的含义，而这是由我们的定义决定的，因此它必定带有一定程度的任意性。即使没有这个定义，心理学家也不受多少影响，但物理学家和天文学家就不行了；让我们看看他们是怎么应对这个问题的。
 To measure time they use the pendulum and they suppose by definition that all the beats of this pendulum are of equal duration. But this is only a first approximation; the temperature, the resistance of the air, the barometric pressure, make the pace of the pendulum vary. If we could escape these sources of error, we should obtain a much closer approximation, but it would still be only an approximation. New causes, hitherto neglected, electric, magnetic or others, would introduce minute perturbations. 
 为测量时间，他们采用了钟摆，并假定钟摆一拍的时长是固定的。然而，这只是粗略的初步近似而已；温度、空气阻力、气压都会改变钟摆的步伐。如果我们能逃离这些误差，我们就得到了一个更精确的近似，但这仍仅仅是近似。那些我们尚未注意到的因素（比如电磁效应或其他效应），仍会引入微小的扰动。
 In fact, the best chronometers must be corrected from time to time, and the corrections are made by the aid of astronomic observations; arrangements are made so that the sidereal clock marks the same hour when the same star passes the meridian. In other words, it is the sidereal day, that is, the duration of the rotation of the earth, which is the constant unit of time. It is supposed, by a new definition substituted for that based on the beats of the pendulum, that two complete rotations of the earth about its axis have the same duration.
-实际上，即使最精密的计时器也需要不断的更正，更正的依据是天文观测；这种更正确保恒星时钟在相同的星体在跨过子午线时指向同样的时刻。换言之，恒星时间，也就是地球自转的周期是我们不变的时间单位。我们用这一新定义替换基于钟摆的旧定义时，相当于假设了地球的两次完整自转时长相同。
+实际上，即使最精密的计时器也需要不断的更正，更正的依据是天文观测；这种更正使得同一星体每次跨过子午线时，恒星时钟都指向同一时刻。换言之，恒星时间——也就是地球自转一周的时长——是我们的不变的时间单位。我们用这一新定义替换基于钟摆的旧定义时，相当于假设了地球的两次完整自转时长相同。
 However, the astronomers are still not content with this definition. Many of them think that the tides act as a check on our globe, and that the rotation of the earth is becoming slower and slower. Thus would be explained the apparent acceleration of the motion of the moon, which would seem to be going more rapidly than theory permits because our watch, which is the earth, is going slow. 
-然而，天文学家对这个定义仍不满意。不少天文学家认为潮汐对地球的旋转起到阻碍作用，因此地球自转的自转也越来越慢。这可以解释月球运动的加速为什么迅速到了与我们的理论相悖的程度，这是因为我们的时钟——也就是地球——正在不断的减慢。
+然而，天文学家对这个定义仍不满意。不少天文学家认为潮汐对地球的旋转起到阻碍作用，因此地球自转的自转也越来越慢。这可以解释为什么月球运动的加速超出了我们的理论所允许的范围，这是因为我们的时钟——也就是地球——正在不断的减慢。
 (III 译完)
 
 #p 21388276 Homagod 不愉快です 2019-11-24 22:42:46
 孤陋寡闻的我
+#quote Masonry
+
+#p 21388972 hmqfc FC 2019-11-25 01:23:32
+插个楼，支持一下
 #quote Masonry
 
