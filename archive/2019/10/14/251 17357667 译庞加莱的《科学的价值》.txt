@@ -1,7 +1,7 @@
-#t 251 17357667 Masonry 2019-10-14 00:01:00 Masonry 2019-11-24 21:53:00
+#t 251 17357667 Masonry 2019-10-14 00:01:00 Homagod 2019-11-24 22:43:00
 译庞加莱的《科学的价值》
 
-#p 21091859 Masonry Magnum Chaos 2019-11-24 20:56:31
+#p 21091859 Masonry Magnum Chaos 2019-11-24 22:28:39
 
 
 2019-10-14 01:58:37
@@ -26,6 +26,7 @@
 2. 时间的测量
     I     38楼 [https://bbs.pku.edu.cn/v2/post-read-single.php?bid=251&amp;postid=21387548](post-read-single.php?bid=251&amp;postid=21387548)
     II    40楼 [https://bbs.pku.edu.cn/v2/post-read-single.php?bid=251&amp;postid=21387622](post-read-single.php?bid=251&amp;postid=21387622)
+    III   41楼 [https://bbs.pku.edu.cn/v2/post-read-single.php?bid=251&amp;postid=21388093](post-read-single.php?bid=251&amp;postid=21388093)
 3. 空间的观念
 4. 空间和它的三个维度
 **第二部分 物理科学**
@@ -471,7 +472,7 @@ deduction是演绎（是完全的） induction叫归纳（是不完全的）
 这几周更新会比较缓慢，请各位读者多包涵，谢谢。
 #quote lyshv
 
-#p 21387548 Masonry Magnum Chaos 2019-11-24 20:56:18
+#p 21387548 Masonry Magnum Chaos 2019-11-24 22:20:10
 
 
 2019-11-24 20:35:44
@@ -480,22 +481,22 @@ The measure of time
 **I**
 **一**
 So long as we do not go outside the domain of consciousness, the notion of time is relatively clear. Not only do we distinguish without difficulty present sensation from the remembrance of past sensations or the anticipation of future sensations, but we know perfectly well what we mean when we say that, of two conscious phenomena which we remember, one was anterior to the other; or that, of two foreseen conscious phenomena, one will be anterior to the other.
-只要我们不走出意识的范围，时间的观念就还算相对清楚。我们不仅可以辨别此刻的知觉和过去的回忆，还能将此刻的知觉与的对未来直觉的预期分辨。而且，当我们说“在意识中发生过的两个现象有前后之分”，或者“在意识中预见的两个现象有前后之分”，我们十分明白自己是什么意思。
+只要我们不走出意识的范围，时间的观念就还算相对清楚。我们不仅可以辨别此刻的知觉和过去的回忆，还能将此刻的知觉与对未来知觉的预期分辨。而且，当我们说在意识中发生过的两个现象有前后之分，或者说在意识中预见的两个现象有前后之分时，我们无疑能明白自己是什么意思。
 When we say that two conscious facts are simultaneous, we mean that they profoundly interpenetrate, so that analysis can not separate them without mutilating them. 
 当我们说意识中的两个事实同时发生，其实是在说，这两个现象互相渗透的相当彻底，以至于我们无法通过分析将之分离。
 The order in which we arrange conscious phenomena does not admit of any arbitrariness. It is imposed upon us and of it we can change nothing.
-我们将事实在意识中排列的方法并不是任意的。这个顺序是强加于我们的，对它我们什么也不能改变。
+我们将事实在意识中排列的方法并不是任意的。这个顺序是强加于我们的，对它我们并不能改变什么。
 I have only a single observation to add. For an aggregate of sensations to have become a remembrance capable of classification in time, it must have ceased to be actual, we must have lost the sense of its infinite complexity, otherwise it would have remained present. It must, so to speak, have crystallized around a center of associations of ideas which will be a sort of label. It is only when they thus have lost all life that we can classify our memories in time as a botanist arranges dried flowers in his herbarium. 
-关于这个话题，我只想再补充一点。如果一个由知觉构成的的聚集体已经变成回忆，而在时间上可以划分了，那么我们必定已经失去了它的无限的复杂度，否则，它就一定还在进行。不妨这么说，这万千思绪必定已在它们联结的中心结晶，而这中心就成了一个标签。只有它们失去了生命之后，我们才能将它们在记忆中归类，就像一个植物学家在他的标本馆里摆放早已干枯的花。
+关于这个话题，我只想再补充一点。如果一个由知觉构成的的聚集体已经成为了回忆而可在时间上划分了，那么我们必定已经失去了它的无限的复杂度，否则，它就一定还在进行。不妨这么说，这万千思绪必定已在它们联结的中心结晶，而这中心就成了一个标签。只有它们失去了生命之后，我们才能将它们在记忆中归类，就像一个植物学家在他的标本馆里摆放早已干枯的花。
 But these labels can only be finite in number. On that score, psychologic time should be discontinuous. Whence comes the feeling that between any two instants there are others? We arrange our recollections in time, but we know that there remain empty compartments. How could that be, if time were not a form preexistent in our mind? How could we know there were empty compartments, if these compartments were revealed to us only by their content?
-然而这些标签的数量最多是有限的。如果是这样，那么心理上的时间应是间断的。那么，为什么我们会认为在每两个时刻之间都还有其它的时刻？我们将回忆在时间之上摆放，但我们知道它们中间总有空的房间。如果时间不是在脑中预先存在的概念，这怎么可能发生呢？设想，如果有一些房间，它们只在盛装内容时才对我们可见，那我们怎么会发现其中仍有空着的房间？
+然而这些标签的数量最多是有限的。如果是这样，那么心理时间应是间断的。那么，为什么我们会认为在每两个时刻之间都还有其它的时刻？我们将回忆在时间之上摆放，但我们知道它们中间总有空置的区域。如果时间不是在脑中预先存在的概念，这怎么可能发生呢？设想，如果有一些房间，它们只在盛装内容时才对我们可见，那我们怎么会发现其中仍有空着的房间？
 (I 译完)
 
 #p 21387563 Wizarding wizarding 2019-11-24 20:41:25
 辛苦了
 #quote Masonry
 
-#p 21387622 Masonry Magnum Chaos 2019-11-24 21:37:17
+#p 21387622 Masonry Magnum Chaos 2019-11-24 22:23:47
 
 
 2019-11-24 20:53:55
@@ -505,12 +506,12 @@ The measure of time
 But that is not all; into this form we wish to put not only the phenomena of our own consciousness, but those of which other consciousnesses are the theater. But more, we wish to put there physical facts, these I know not what with which we people space and which no consciousness sees directly. This is necessary because without it science could not exist. In a word, psychologic time is given to us and must needs create scientific and physical time. There the difficulty begins, or rather the difficulties, for there are two. 
 但问题还不只如此；我们不仅要将意识中的现象放入这一形式之中，还需要把发生于其他意识中的现象也放入其中。不但如此，我们还希望把物理现象也包括进去，而我知道，这些物理现象并非人们用于充斥空间而无法直接看见的那些东西。我们必须这样做，否则就没有科学了。总之，心理时间是天生的，但我们必须自己建立科学上的和物理上的时间。真正的困难从这开始，实际上，我们面对的不只一个困难，而是两个。
 Think of two consciousnesses, which are like two worlds impenetrable one to the other. By what do we strive to put them into the same mold, to measure them by the same standard? Is it not as if one strove to measure length with a gram or weight with a meter? And besides, why do we speak of measuring?  We know perhaps that some fact is anterior to some other, but not by how much it is anterior.
-让我们假想两个意识，它们就如同相互隔绝的两个世界一样。我们要怎么才能把它们放入同一个模具，来用共同的尺度去测量它们呢？这不是像用“克”作为单位来测量长度，或者用“米”来测量重量？而且，我们为什么认为自己可以“测量”？我们或许知道一些事实发生在另一些之前，但却无法确知具体在其之前多少。
+让我们假想两个意识，它们就如同相互隔绝的两个世界一样。我们要怎么才能把它们放入同一个模具，来用共同的尺度去测量它们呢？这不是像用“克”作为单位来测量长度，或者用“米”来测量重量吗？而且，我们为什么用了“测量”一词？我们或许知道一些事实发生在另一些之前，但却无法确知具体在其之前多少。
 Therefore two difficulties: (1) Can we transform psychologic time, which is qualitative, into a quantitative time? (2) Can we reduce to one and the same measure facts which transpire in different worlds?
-所以，我们面对着双重的困难：（1）我们能否将定性的心理时间转化为一种定量的时间？（2）我们能否将为一种散布于不同世界的事实归简为一种通用的测量方式？
+所以，有两重困难：（1）我们能否将定性的心理时间转化为一种定量的时间？（2）我们能否将散布于不同世界的事实化简为一种通用的测量方式？
 (II 译完)
 
-#p 21388093 Masonry Magnum Chaos 2019-11-24 21:53:06
+#p 21388093 Masonry Magnum Chaos 2019-11-24 22:28:14
 
 
 2019-11-24 21:52:19
@@ -519,11 +520,18 @@ The measure of time
 III
 三
 The first difficulty has long been noticed; it has been the subject of long discussions and one may say the question is settled. We have not a direct intuition of the equality of two intervals of time. The persons who believe they possess this intuition are dupes of an illusion. When I say, from noon to one the same time passes as from two to three, that meaning has this affirmation?
-前一种困难早就被注意到了；关于这一问题，人们进行了长篇大论，我们可以说这个问题已基本解决了。我们没有关于时长相等的直觉。那些自以为有这一直觉的人，不过是错觉的受害者罢了。倘若我说“自正午至一点的时长与自二点至三点的时长相同”，这是什么意思？
+前一种困难早已被注意到了；人们关于这一论题进行了许多探讨，我们可以说这问题已解决了。我们没有关于时长相等的直觉。那些自以为有这一直觉的人，不过是错觉的受害者罢了。当我说“自正午至一点的时长与自二点至三点的时长相同”的时候，是什么意思？
 The least reflection shows that by itself it has none at all. It will only have that which I choose to give it, by a definition which will certainly possess a certain degree of arbitrariness. Psychologists could have done without this definition; physicists and astronomers could not; let us see how they have managed. 
-稍加思索，我们就认清这句话没有任何含义。它只有我选择给他的某种含义，这是由我们的定义决定的，因而永远带着一定的任意性。心理学家即使没有这个定义也不受多少影响，但物理学家和天文学就不行了；让我们看看他们是怎么解决这个问题的。
+只要稍加思索，我们就认清这句话没有任何含义。它只有我选择给他的含义，而这是由我们的定义决定的，因此它永远带着一定的任意性。即使没有这个定义，心理学家也不受多少影响，但物理学家和天文学就不行了；让我们看看他们是怎么应对这个问题的。
 To measure time they use the pendulum and they suppose by definition that all the beats of this pendulum are of equal duration. But this is only a first approximation; the temperature, the resistance of the air, the barometric pressure, make the pace of the pendulum vary. If we could escape these sources of error, we should obtain a much closer approximation, but it would still be only an approximation. New causes, hitherto neglected, electric, magnetic or others, would introduce minute perturbations. 
+为测量时间，他们采用了钟摆，并假定钟摆一拍的时长是固定的。然而，这只是粗略的初步近似而已；温度、空气阻力、气压都会改变钟摆的步伐。如果我们能逃离这些误差，我们就得到了一个更精确的近似，但这仍仅仅是近似。那些我们尚未注意到的因素（比如电磁效应或其他效应），仍会引入微小的扰动。
 In fact, the best chronometers must be corrected from time to time, and the corrections are made by the aid of astronomic observations; arrangements are made so that the sidereal clock marks the same hour when the same star passes the meridian. In other words, it is the sidereal day, that is, the duration of the rotation of the earth, which is the constant unit of time. It is supposed, by a new definition substituted for that based on the beats of the pendulum, that two complete rotations of the earth about its axis have the same duration.
+实际上，即使最精密的计时器也需要不断的更正，更正的依据是天文观测；这种更正确保恒星时钟在相同的星体在跨过子午线时指向同样的时刻。换言之，恒星时间，也就是地球自转的周期是我们不变的时间单位。我们用这一新定义替换基于钟摆的旧定义时，相当于假设了地球的两次完整自转时长相同。
 However, the astronomers are still not content with this definition. Many of them think that the tides act as a check on our globe, and that the rotation of the earth is becoming slower and slower. Thus would be explained the apparent acceleration of the motion of the moon, which would seem to be going more rapidly than theory permits because our watch, which is the earth, is going slow. 
-(未完)
+然而，天文学家对这个定义仍不满意。不少天文学家认为潮汐对地球的旋转起到阻碍作用，因此地球自转的自转也越来越慢。这可以解释月球运动的加速为什么迅速到了与我们的理论相悖的程度，这是因为我们的时钟——也就是地球——正在不断的减慢。
+(III 译完)
+
+#p 21388276 Homagod 不愉快です 2019-11-24 22:42:46
+孤陋寡闻的我
+#quote Masonry
 
