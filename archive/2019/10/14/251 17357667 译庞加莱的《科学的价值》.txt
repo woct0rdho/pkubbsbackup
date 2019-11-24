@@ -1,4 +1,4 @@
-#t 251 17357667 Masonry 2019-10-14 00:01:00 lyshv 2019-11-24 19:31:00
+#t 251 17357667 Masonry 2019-10-14 00:01:00 Masonry 2019-11-24 20:54:00
 译庞加莱的《科学的价值》
 
 #p 21091859 Masonry Magnum Chaos 2019-11-20 09:00:54
@@ -463,4 +463,40 @@ deduction是演绎（是完全的） induction叫归纳（是不完全的）
 #p 21387323 lyshv 道尘疏柵 2019-11-24 19:30:57
 再码一下，本周是不是要上新？
 #quote Masonry
+
+#p 21387485 Masonry Magnum Chaos 2019-11-24 20:19:17
+最近比较忙，所以翻译的较慢。稍等一下会把一节放上来。
+这几周更新会比较缓慢，请各位读者多包涵，谢谢。
+#quote lyshv
+
+#p 21387548 Masonry Magnum Chaos 2019-11-24 20:35:44
+The measure of time
+时间的测量
+**I**
+**一**
+So long as we do not go outside the domain of consciousness, the notion of time is relatively clear. Not only do we distinguish without difficulty present sensation from the remembrance of past sensations or the anticipation of future sensations, but we know perfectly well what we mean when we say that, of two conscious phenomena which we remember, one was anterior to the other; or that, of two foreseen conscious phenomena, one will be anterior to the other.
+只要我们不走出意识的范围，时间的观念就还算相对清楚。我们不仅可以辨别此刻的知觉和过去的回忆，还能将此刻的知觉与的对未来直觉的预期分辨。而且，当我们说“在意识中发生过的两个现象有前后之分”，或者“在意识中预见的两个现象有前后之分”，我们十分明白自己是什么意思。
+When we say that two conscious facts are simultaneous, we mean that they profoundly interpenetrate, so that analysis can not separate them without mutilating them. 
+当我们说意识中的两个事实同时发生，其实是在说，这两个现象互相渗透的相当彻底，以至于我们无法通过分析将之分离。
+The order in which we arrange conscious phenomena does not admit of any arbitrariness. It is imposed upon us and of it we can change nothing.
+我们将事实在意识中排列的方法并不是任意的。这个顺序是强加于我们的，对它我们什么也不能改变。
+I have only a single observation to add. For an aggregate of sensations to have become a remembrance capable of classification in time, it must have ceased to be actual, we must have lost the sense of its infinite complexity, otherwise it would have remained present. It must, so to speak, have crystallized around a center of associations of ideas which will be a sort of label. It is only when they thus have lost all life that we can classify our memories in time as a botanist arranges dried flowers in his herbarium. 
+关于这个话题，我只想再补充一点。如果一个由知觉构成的的聚集体已经变成回忆，而在时间上可以划分了，那么我们必定已经失去了它的无限的复杂度，否则，它就一定还在进行。不妨这么说，这万千思绪必定已在它们联结的中心结晶，而这中心就成了一个标签。只有它们失去了生命之后，我们才能将它们在记忆中归类，就像一个植物学家在他的标本馆里摆放早已干枯的花。
+But these labels can only be finite in number. On that score, psychologic time should be discontinuous. Whence comes the feeling that between any two instants there are others? We arrange our recollections in time, but we know that there remain empty compartments. How could that be, if time were not a form preexistent in our mind? How could we know there were empty compartments, if these compartments were revealed to us only by their content?
+然而这些标签的数量最多是有限的。如果是这样，那么心理上的时间应是间断的。那么，为什么我们会认为在每两个时刻之间都还有其它的时刻？我们将回忆在时间之上摆放，但我们知道它们中间总有空的房间。如果时间不是在脑中预先存在的概念，这怎么可能发生呢？设想，如果有一些房间，它们只在盛装内容时才对我们可见，那我们怎么会发现其中仍有空着的房间？
+
+#p 21387563 Wizarding wizarding 2019-11-24 20:41:25
+辛苦了
+#quote Masonry
+
+#p 21387622 Masonry Magnum Chaos 2019-11-24 20:53:55
+The measure of time
+**II**
+**二**
+But that is not all; into this form we wish to put not only the phenomena of our own consciousness, but those of which other consciousnesses are the theater. But more, we wish to put there physical facts, these I know not what with which we people space and which no consciousness sees directly. This is necessary because without it science could not exist. In a word, psychologic time is given to us and must needs create scientific and physical time. There the difficulty begins, or rather the difficulties, for there are two. 
+但问题还不只如此；我们不仅要将意识中的现象放入这一形式之中，还需要把发生于其他意识中的现象也放入其中。不但如此，我们还希望把物理现象也包括进去，而我知道，这些物理现象并非人们用于充斥空间而无法直接看见的那些东西。我们必须这样做，否则就没有科学了。总之，心理时间是天生的，但我们必须自己建立科学上的和物理上的时间。真正的困难从这开始，实际上，我们面对的不只一个困难，而是两个。
+Think of two consciousnesses, which are like two worlds impenetrable one to the other. By what do we strive to put them into the same mold, to measure them by the same standard? Is it not as if one strove to measure length with a gram or weight with a meter? And besides, why do we speak of measuring?  We know perhaps that some fact is anterior to some other, but not by how much it is anterior.
+让我们假想两个意识，它们就如同相互隔绝的两个世界一样。我们要怎么才能把它们放入同一个模具，来用共同的尺度去测量它们呢？这不是像用“克”作为单位来测量长度，或者用“米”来测量重量？而且，我们为什么认为自己可以“测量”？我们或许知道一些事实发生在另一些之前，但却无法确知具体在其之前多少。
+Therefore two difficulties: (1) Can we transform psychologic time, which is qualitative, into a quantitative time? (2) Can we reduce to one and the same measure facts which transpire in different worlds?
+所以，我们面对着双重的困难：（1）我们能否将定性的心理时间转化为一种定量的时间？（2）我们能否将不同的世界中发生的事实简化为一种共同的测量方式？
 
