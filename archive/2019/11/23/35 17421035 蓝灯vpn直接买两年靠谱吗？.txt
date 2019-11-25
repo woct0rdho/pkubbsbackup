@@ -1,4 +1,4 @@
-#t 35 17421035 zhao 2019-11-23 00:16:00 nmslwsnd 2019-11-25 17:11:00
+#t 35 17421035 zhao 2019-11-23 00:16:00 pieere 2019-11-25 19:39:00
 蓝灯vpn直接买两年靠谱吗？
 
 #p 21381941 zhao 大苦苦 2019-11-23 16:35:43
@@ -51,4 +51,9 @@ Hotspot挺香的啊
 #p 21393239 nmslwsnd Yury小弟 2019-11-25 17:10:40
 expressVPN +1
 #quote lowgalaxy
+
+#p 21393869 pieere William 2019-11-25 19:38:51
+可以试试这个5元一月（最好5块钱开通一下vip节点）  [https://sockboom.network/auth/register?affid=59769](jump-to.php?url=https%3A%2F%2Fsockboom.network%2Fauth%2Fregister%3Faffid%3D59769)
+一般建议 不要买长期的 
+#quote zhao
 
