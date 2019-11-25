@@ -1,4 +1,4 @@
-#t 668 17419062 Katrina 2019-11-22 00:10:00 lihuacheng 2019-11-23 15:12:00
+#t 668 17419062 Katrina 2019-11-22 00:10:00 Katrina 2019-11-25 08:58:00
 请问怎么使用overleaf
 
 #p 21374021 Katrina Calvin Klein 2019-11-22 10:05:03
@@ -15,4 +15,8 @@
 #p 21381595 lihuacheng hua 2019-11-23 15:12:01
 [https://github.com/overleaf/docker-image.git](jump-to.php?url=https%3A%2F%2Fgithub.com%2Foverleaf%2Fdocker-image.git) 本地docker安装
 #quote Katrina
+
+#p 21389588 Katrina Calvin Klein 2019-11-25 08:57:55
+感谢您！
+#quote lihuacheng
 
