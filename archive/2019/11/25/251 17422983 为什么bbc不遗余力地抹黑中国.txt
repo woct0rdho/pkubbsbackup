@@ -1,4 +1,4 @@
-#t 251 17422983 monolingual 2019-11-25 00:02:00 euio 2019-11-25 06:07:00
+#t 251 17422983 monolingual 2019-11-25 00:02:00 hitonls 2019-11-25 07:27:00
 为什么bbc不遗余力地抹黑中国
 
 #p 21389058 monolingual monolingual 2019-11-25 02:33:54
@@ -9,5 +9,9 @@
 
 #p 21389262 euio 耳目一心 2019-11-25 06:06:41
 道不同
+#quote monolingual
+
+#p 21389340 hitonls hitonls 2019-11-25 07:26:16
+人家就是吃这碗饭的
 #quote monolingual
 
