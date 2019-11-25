@@ -1,4 +1,4 @@
-#t 251 17421663 bobprime 2019-11-24 00:02:00 euio 2019-11-25 13:59:00
+#t 251 17421663 bobprime 2019-11-24 00:02:00 twowater 2019-11-25 14:47:00
 汉语是一门优秀的语言
 
 #p 21384032 bobprime bobprime 2019-11-24 02:33:35
@@ -426,4 +426,15 @@ SVO不需要区分主格和宾格，中间又有动词天然隔开，省多少�
 #p 21392299 euio 耳目一心 2019-11-25 13:58:52
 是，因为汉字在造字之初本来就是表示概念的。
 #quote Ryn
+
+#p 21392480 bdwmjs Catfly 2019-11-25 14:46:18
+《汉语还是英语？人类文明的终极选择》
+[https://mp.weixin.qq.com/s/apuHgj9I8ovMFct6bV1KoQ](jump-to.php?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FapuHgj9I8ovMFct6bV1KoQ)
+#quote bobprime
+
+#p 21392483 twowater 徐二水 2019-11-25 14:46:37
+不止年轻人，我联系的东大教授做人机交互的，专业名直接就写了假名英语拼音。
+human-computer interaction ubiquitous computing
+ヒューマン・コンピュータ・インタラクション ユビキタスコンピューティング
+#quote euio
 
