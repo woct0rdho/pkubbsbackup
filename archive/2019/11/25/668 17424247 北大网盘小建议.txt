@@ -1,4 +1,4 @@
-#t 668 17424247 uniqueyd 2019-11-25 00:20:00 uniqueyd 2019-11-25 21:28:00
+#t 668 17424247 uniqueyd 2019-11-25 00:20:00 uniqueyd 2019-11-25 23:30:00
 北大网盘小建议
 
 #p 21394122 uniqueyd unique 2019-11-25 20:40:26
@@ -13,4 +13,12 @@ Windows客户端，这个输密码的框我忍很久了[捂脸][捂脸][捂脸]
 win10家庭版1903，ie11.476.18362.0
 哦既然是小范围问题就算啦
 #quote PKUCC
+
+#p 21395478 Mlfamlfy SentryJun 2019-11-25 23:17:32
+9102年了别再用ie浏览器了
+#quote uniqueyd
+
+#p 21395543 uniqueyd unique 2019-11-25 23:29:30
+ie内核？不太了解。。我用Chrome
+#quote Mlfamlfy
 

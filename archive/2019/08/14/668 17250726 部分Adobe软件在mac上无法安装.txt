@@ -1,4 +1,4 @@
-#t 668 17250726 lhydave 2019-08-14 00:11:00 francisekawa 2019-11-24 19:43:00
+#t 668 17250726 lhydave 2019-08-14 00:11:00 bdyymwx 2019-11-25 23:53:00
 部分Adobe软件在mac上无法安装
 
 #p 20677330 lhydave 哀牢 2019-08-14 11:55:19
@@ -111,5 +111,9 @@ Catalina安装pr出现同样问题，同问解决进度
 
 #p 21387364 francisekawa Francis 2019-11-24 19:42:07
 不知道十大对于热度有什么要求
+#quote lhydave
+
+#p 21395616 bdyymwx 自牧归荑 2019-11-25 23:52:59
+帮顶，出现同样情况quq
 #quote lhydave
 
