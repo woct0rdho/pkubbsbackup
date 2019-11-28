@@ -1,4 +1,4 @@
-#t 35 16264150 hiaoxui 2017-11-10 00:00:00 hiaoxui 2019-11-23 12:32:00
+#t 35 16264150 hiaoxui 2017-11-10 00:00:00 yuanhuang 2019-11-28 20:24:00
 科学上网, SSR 服务器分享
 
 #p 17134091 hiaoxui 小辉 2019-11-16 04:36:36
@@ -1536,4 +1536,8 @@ lz好人啊，已经成功看到了zn-Wikipedia
 #p 21380988 hiaoxui 小辉 2019-11-23 12:31:48
 试试 [http://direct.hiaoxui.com/ssr/register](jump-to.php?url=http%3A%2F%2Fdirect.hiaoxui.com%2Fssr%2Fregister)
 #quote billyldcl
+
+#p 21412751 yuanhuang 鬼儿飘~ 2019-11-28 20:23:49
+LZ服务器配置页面504啦
+#quote hiaoxui
 

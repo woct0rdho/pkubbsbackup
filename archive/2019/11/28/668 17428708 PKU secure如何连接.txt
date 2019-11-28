@@ -1,0 +1,12 @@
+#t 668 17428708 Imple 2019-11-28 20:14:00 PKUCC 2019-11-28 20:27:00
+PKU secure如何连接
+
+#p 21412702 Imple 民 2019-11-28 20:13:42
+最近想试试PKU secure, 但输了帐号密码后, windows 10说"无法连接到这个网络", Android也说不能连接, 请问该怎么用?
+另外之前在这里看到"PKU secure还在测试"的说法, 请问这个测试大概什么时候结束, 还是说已经进入正式运行阶段了?
+最后, 有(各主流平台上)如何连接PKU secure的详细说明吗?
+
+#p 21412760 PKUCC 北京大学计算中心 2019-11-28 20:26:11
+您好！PKU Secure已结束测试，属于正式运行的安全无线网络，目前正在逐步覆盖到所有有PKU无线的区域。Windows10连接PKU Secure的方法可以参考如下链接：[https://wk.baidu.com/view/32ee04097dd184254b35eefdc8d376eeafaa1751?ivk_sa=1023194j](jump-to.php?url=https%3A%2F%2Fwk.baidu.com%2Fview%2F32ee04097dd184254b35eefdc8d376eeafaa1751%3Fivk_sa%3D1023194j)
+#quote Imple
+
