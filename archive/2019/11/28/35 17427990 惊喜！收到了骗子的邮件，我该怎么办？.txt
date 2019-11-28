@@ -1,4 +1,4 @@
-#t 35 17427990 wangdong 2019-11-28 00:09:00 dp 2019-11-28 14:27:00
+#t 35 17427990 wangdong 2019-11-28 00:09:00 mazhuangtech 2019-11-28 19:24:00
 惊喜！收到了骗子的邮件，我该怎么办？
 
 #p 21409546 wangdong Simba 2019-11-28 09:49:14
@@ -43,5 +43,13 @@ Good luck.
 
 #p 21411321 dp Dynamic Programming 2019-11-28 14:26:37
 都知道是骗子邮件了，不理呗。。。
+#quote wangdong
+
+#p 21412506 mazhuangtech Jonsen 2019-11-28 19:22:05
+同收到，内容除了邮箱地址，一模一样。有点慌！
+#quote wangdong
+
+#p 21412511 mazhuangtech Jonsen 2019-11-28 19:24:14
+价钱还不一样， $912。
 #quote wangdong
 
