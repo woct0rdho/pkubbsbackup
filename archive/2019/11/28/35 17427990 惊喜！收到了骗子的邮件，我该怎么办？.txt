@@ -1,4 +1,4 @@
-#t 35 17427990 wangdong 2019-11-28 09:49:00 wangdong 2019-11-28 09:49:00
+#t 35 17427990 wangdong 2019-11-28 00:09:00 dp 2019-11-28 14:27:00
 惊喜！收到了骗子的邮件，我该怎么办？
 
 #p 21409546 wangdong Simba 2019-11-28 09:49:14
@@ -40,4 +40,8 @@ P.S. You are not my single victim. so, I guarantee you that I will not disturb y
 I also ask you to regularly update your antiviruses in the future. This way you will no longer fall into a similar situation.
 Do not hold evil! I just do my job.
 Good luck.
+
+#p 21411321 dp Dynamic Programming 2019-11-28 14:26:37
+都知道是骗子邮件了，不理呗。。。
+#quote wangdong
 
