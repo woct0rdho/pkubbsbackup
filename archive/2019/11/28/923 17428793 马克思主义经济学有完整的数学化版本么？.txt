@@ -1,4 +1,4 @@
-#t 923 17428793 barak 2019-11-28 00:21:00 masonxuexf 2019-11-30 09:31:00
+#t 923 17428793 barak 2019-11-28 00:21:00 barak 2019-11-30 10:51:00
 马克思主义经济学有完整的数学化版本么？
 
 #p 21412957 barak 嘿嘿嘿 2019-11-28 21:13:34
@@ -68,4 +68,18 @@ emmm
 #p 21421421 masonxuexf 小峰 2019-11-30 09:30:50
 康特洛维奇创立线性规划理论完全可以算
 #quote barak
+
+#p 21421581 Delphi Delphi 2019-11-30 10:18:17
+记得之前在知乎看到过一个回答：
+[https://www.zhihu.com/question/62222271/answer/245825071](jump-to.php?url=https%3A%2F%2Fwww.zhihu.com%2Fquestion%2F62222271%2Fanswer%2F245825071)
+似乎现在表征马克思主义政治经济学用的是线性经济学的方法
+#quote barak
+
+#p 21421639 barak 嘿嘿嘿 2019-11-30 10:28:56
+ok，我去查一下他~
+#quote shiyaoliu
+
+#p 21421741 barak 嘿嘿嘿 2019-11-30 10:50:41
+计算机建模，爽
+#quote Delphi
 
