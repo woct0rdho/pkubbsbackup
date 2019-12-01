@@ -1,4 +1,4 @@
-#t 668 17432335 Tranquilsun 2019-12-01 00:11:00 Tranquilsun 2019-12-01 13:45:00
+#t 668 17432335 Tranquilsun 2019-12-01 00:11:00 Tranquilsun 2019-12-01 20:44:00
 电脑安装北大网盘提示错误
 
 #p 21425936 Tranquilsun 串口|不丧|无常 2019-12-01 11:03:03
@@ -15,4 +15,12 @@
 #p 21426410 Tranquilsun 串口|不丧|无常 2019-12-01 13:44:41
 重新安装好了
 #quote PKUCC
+
+#p 21428403 woshiLL LL 2019-12-01 20:13:50
+求问，在哪儿能现在PC的客户端啊
+#quote Tranquilsun
+
+#p 21428756 Tranquilsun 串口|不丧|无常 2019-12-01 20:43:15
+disk.pku.edu.cn  页面左下角
+#quote woshiLL
 

@@ -1,0 +1,14 @@
+#t 668 17432899 woshiLL 2019-12-01 20:18:00 PKUCC 2019-12-01 20:38:00
+求问哪里可以下载Windows的北大网盘客户端
+
+#p 21428428 woshiLL LL 2019-12-01 20:17:59
+求问哪里可以下载Windows的北大网盘客户端？
+
+#p 21428651 goodfella goodfella 2019-12-01 20:32:48
+[https://disk.pku.edu.cn](jump-to.php?url=https%3A%2F%2Fdisk.pku.edu.cn)登录以后左下角下载
+#quote woshiLL
+
+#p 21428688 PKUCC 北京大学计算中心 2019-12-01 20:37:34
+您好，进入北大网盘地址pan. pku. edu. cn，然后登录统一认证系统后，在左下方可以看到客户端下载位置。
+#quote woshiLL
+
