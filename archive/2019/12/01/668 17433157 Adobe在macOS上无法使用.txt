@@ -1,0 +1,7 @@
+#t 668 17433157 Iowa 2019-12-01 23:39:00 Iowa 2019-12-01 23:39:00
+Adobe在macOS上无法使用
+
+#p 21429570 Iowa IA 2019-12-01 23:38:22
+下载激活补丁、运行AdobeSerialization后，打开Adobe Acrobat Reader，要求必须登陆，且显示许可证已过期，7天试用期过后将停止使用。
+在本版面看到若干类似问题，请检查是不是AdobeSerialization有问题
+
