@@ -1,4 +1,4 @@
-#t 35 17433814 treasureyou 2019-12-02 00:11:00 weilovebvb 2019-12-02 15:00:00
+#t 35 17433814 treasureyou 2019-12-02 00:11:00 pennsecret 2019-12-02 16:03:00
 求助，adobe到期后，卸载重新安装，一直安装不成功
 
 #p 21432247 treasureyou 笨学生 2019-12-02 11:27:25
@@ -18,5 +18,10 @@
 
 #p 21433214 weilovebvb 什变月饼|圣埃克絮佩里 2019-12-02 14:59:10
 同，顶一下
+#quote treasureyou
+
+#p 21433527 pennsecret Fantasy polaris 2019-12-02 16:02:40
+你去看正版软件那里，Adobe安装教程下面，有一个补丁包。针对30号到期问题解决办法。
+根本不用重新安装。
 #quote treasureyou
 

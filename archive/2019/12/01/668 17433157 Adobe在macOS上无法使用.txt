@@ -1,4 +1,4 @@
-#t 668 17433157 Iowa 2019-12-01 00:23:00 Iowa 2019-12-02 15:54:00
+#t 668 17433157 Iowa 2019-12-01 00:23:00 YiYiZ 2019-12-02 16:49:00
 Adobe在macOS上无法使用
 
 #p 21429570 Iowa IA 2019-12-01 23:38:22
@@ -16,4 +16,13 @@ catalina同问题
 #p 21433461 Iowa IA 2019-12-02 15:53:52
 感谢回复。我的电脑系统是Mojave 10.14.6
 #quote PKUCC
+
+#p 21433709 YiYiZ 伊 2019-12-02 16:34:18
+同Mojave 10.14，尝试拆卸所有Adobe系列软件（包括Creative Cloud）后再安装学校提供的安装包，可以使用，但是在打开AI，PS软件的时候提示安装Adobe application manager（会给一个链接到Creative Cloud的下载）。
+于是拆卸所有软件后安装Creative Cloud，登陆后退出账号，退出Creative Cloud软件，再安装学校提供的AI，此时打开AI直接可以使用，并没有任何过期提示，但是再安装学校提供的PS后，打开PS便开始要求登陆，这种情况下再打开AI也变成要求登陆了。
+#quote Iowa
+
+#p 21433806 YiYiZ 伊 2019-12-02 16:48:48
+反复拆卸安装不下5遍多，甚至用时间机器恢复原来的Adobe软件后发现PS的安装时候会联系Creative Cloud，然后Creative Cloud会把AI也关照了，变成都需要登陆，目前就试了AI和PS，激活无效@PKUCC
+#quote Iowa
 
