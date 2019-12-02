@@ -1,0 +1,262 @@
+#t 35 17175664 nicoleli 2019-06-26 00:15:00 zbjcn 2019-12-02 14:43:00
+【小白求问】毕业后如何连接ipv6网络？
+
+#p 20464101 nicoleli 锦鲤抄 2019-06-26 15:43:05
+如题。IT小白一枚，可能需要比较详细浅白的说明...
+主要还是想登BT站。向技术大佬求助！
+
+#p 20464112 Minoshiro 小蓑白|洗澡是人生第一要义 2019-06-26 15:45:31
+现在大多数宽带服务商都会分配IPv6地址了吧
+需要你的路由器支持IPv6
+#quote nicoleli
+
+#p 20464161 nicoleli 锦鲤抄 2019-06-26 15:58:24
+这样。所以我只要买一个支持ipv6的路由器就可以了么？
+家庭宽带的话还需要向服务商提出特别要求么？
+#quote Minoshiro
+
+#p 20464365 Minoshiro 小蓑白|洗澡是人生第一要义 2019-06-26 16:40:29
+一般应该不用，你可以先直接接你现在路由器WAN上的网线看看有没有IPv6
+#quote nicoleli
+
+#p 20464376 ChairmanJ 僵还是老的辣 2019-06-26 16:42:59
+支持v6的isp自然支持 不支持的你提了也没用
+但是要注意光猫的配置，有可能网络支持了ipv6但是光猫没配置好导致无法使用
+另外不要用宽带通等分销商
+即使三大运营商支持了ipv6，由于种种原因，这些分销商也不一定支持v6
+#quote nicoleli
+
+#p 20464390 nicoleli 锦鲤抄 2019-06-26 16:45:38
+好。谢谢！
+#quote Minoshiro
+
+#p 20464403 nicoleli 锦鲤抄 2019-06-26 16:47:50
+谢谢解答！
+#quote ChairmanJ
+
+#p 20469559 opteronx 从删库到跑路 2019-06-27 16:35:33
+现在三大运营商基本把ipv6分到个人了，但是要上PT站还是不行的，屏蔽了cernet2之外的访问
+#quote nicoleli
+
+#p 20469711 himitsu 神山よしか 2019-06-27 17:07:23
+亲测在家封锁了网关连学校VPN也能连接各大pt站
+#quote nicoleli
+
+#p 20469733 Minoshiro 小蓑白|洗澡是人生第一要义 2019-06-27 17:12:26
+route是：家-v4-学校-v6-PT站] ？感觉不太对呀？
+#quote himitsu
+
+#p 20469843 himitsu 神山よしか 2019-06-27 17:37:02
+不知道，但是确实可行
+#quote Minoshiro
+
+#p 20469880 nicoleli 锦鲤抄 2019-06-27 17:47:53
+确实可行，我也试过。
+但是下载速度特别慢，是为什么呢？
+#quote himitsu
+
+#p 20469915 nicoleli 锦鲤抄 2019-06-27 17:55:21
+啊...那有解救措施么......
+#quote opteronx
+
+#p 20469926 himitsu 神山よしか 2019-06-27 17:58:58
+太高深的我就不懂了，我只能看看表面现象
+#quote nicoleli
+
+#p 20469998 Minoshiro 小蓑白|洗澡是人生第一要义 2019-06-27 18:23:33
+北大 VPN 的带宽有限制，应该不会太快
+#quote nicoleli
+
+#p 20470069 nicoleli 锦鲤抄 2019-06-27 18:40:04
+酱紫。感觉失去校园网已经无法直连pt站了...
+#quote Minoshiro
+
+#p 20470451 hiaoxui 小辉 2019-06-27 20:43:17
+一般的 IDC 都会有版权限制. 违规下载会被 DMCA 警告. 不过欧洲的机子一般可以无视 DMCA.
+不同的 pt 站策略不一样. 像六维就只能用 cernet2 访问, 但是 byt 就对所有 IPv6 开放. 我也有一些 pt 帐号支持 IPv4 的.
+#quote nicoleli
+
+#p 20471649 CharAznable 赤い彗星 2019-06-27 23:16:23
+公网上也是有pt站的，不过里面的东西跟校园里这俩风味不太一样就是了（
+#quote nicoleli
+
+#p 20472023 nicoleli 锦鲤抄 2019-06-28 00:42:38
+啊谢谢！正好我用BYT比较多，它要求低就太好了。
+#quote hiaoxui
+
+#p 20472026 nicoleli 锦鲤抄 2019-06-28 00:43:04
+我当然是更倾向于校园的啦。。。不过有别的话，，，，那有啥呢？?
+#quote CharAznable
+
+#p 20472096 CharAznable 赤い彗星 2019-06-28 01:09:35
+以我自己常用的两个公网上的pt来说，一般动画这块儿比校园网里这俩弱很多，一般电影电视剧的话都差不多，如果是国外的pt的话国内的影视也基本就没有了，另外感觉外面的对上传考核要求也稍高一些，free的东西以及频率都比不上北邮人跟六维
+另外外面的pt站一般还有成人内容之类的（（
+#quote nicoleli
+
+#p 20473138 Nameless 麦田与十三岁|石榴成熟时 2019-06-28 11:00:35
+我其实经常家-V6-VPS-v4-网站]
+#quote Minoshiro
+
+#p 20473260 nicoleli 锦鲤抄 2019-06-28 11:26:39
+嗯...可以问下网站地址么😂
+#quote CharAznable
+
+#p 20473438 yawnlon yawnlon 2019-06-28 12:23:01
+我现在是联通200M宽带
+家v6 ss到 美国的VPS v6 然后访问 北邮人
+uTorrent设置了代理，下载速度3-8MB/s不等
+#quote nicoleli
+
+#p 20473445 yawnlon yawnlon 2019-06-28 12:24:29
+也可以家v4 ss到 美国的vps v4 然后 美国的vps v6访问北邮人
+#quote nicoleli
+
+#p 20473547 opteronx 从删库到跑路 2019-06-28 12:51:13
+只要不是稀缺资源，bt站就可以了。
+rip组出资源放公网肯定也先上bt和ed2k，哪会先轮到中文pt
+#quote CharAznable
+
+#p 20473568 CharAznable 赤い彗星 2019-06-28 12:56:58
+
+
+2019-06-28 12:56:48
+我人在国外啊，乱下bt有点虚得，又不太想折腾vpn之类的了
+#quote opteronx
+
+#p 20473572 CharAznable 赤い彗星 2019-06-28 12:58:52
+
+
+2019-06-28 12:57:51
+[https://tp.m-team.cc/](jump-to.php?url=https%3A%2F%2Ftp.m-team.cc%2F)
+[https://iptorrents.com](jump-to.php?url=https%3A%2F%2Fiptorrents.com)
+我一般用这俩
+不过给你网站也没用啊。。。都是邀请制得。。。没的账号就只能看个登陆界面。。。
+#quote nicoleli
+
+#p 20473596 Minoshiro 小蓑白|洗澡是人生第一要义 2019-06-28 13:04:17
+这感觉是正常操作
+然鹅学校VPN真的有v4-to-v6的机制吗
+#quote Nameless
+
+#p 20473633 CharAznable 赤い彗星 2019-06-28 13:14:07
+现在滚蛋了不知道，前几年是可以的，还能用谷歌全家桶速度还不错（
+#quote Minoshiro
+
+#p 20475688 opteronx 从删库到跑路 2019-06-28 22:24:25
+挂个代理啊，违反tos被杀掉了也无所谓
+#quote CharAznable
+
+#p 20476113 CharAznable 赤い彗星 2019-06-29 00:07:35
+那不还得再掏钱
+#quote opteronx
+
+#p 20476141 nicoleli 锦鲤抄 2019-06-29 00:15:29
+没事儿，先摸个门儿，谁知道哪天就有邀请了呢╮(╯_╰)╭
+#quote CharAznable
+
+#p 20476869 opteronx 从删库到跑路 2019-06-29 09:30:08
+人在美国选最便宜的机器就行了，月付2.5刀的水平不贵吧
+#quote CharAznable
+
+#p 20476942 karlmarx 还我三角地！灵均·六月雪 2019-06-29 09:53:39
+美国的vps一般不都是禁止p2p的吗？
+#quote yawnlon
+
+#p 20478284 yawnlon yawnlon 2019-06-29 17:07:47
+不知道呀，到现在还没被封
+#quote karlmarx
+
+#p 20549894 Karonheaven  2019-07-15 19:31:49
+国内三大站吧
+TTG，M-TEAM，还有一个不了解
+#quote nicoleli
+
+#p 20622765 yuguorui yuguorui 2019-08-01 16:56:10
+稍微更正一点。
+BYR PT现在已经封锁三大运营商（移动、电信、联通）的IPv6地址了，目前只有校园网以及国外的IPv6可以联通。
+一个简单的办法就是找人要个梯子（或者自己搭一个），然后就能上PT了。
+#quote nicoleli
+
+#p 20623855 zbjcn 伯爵 2019-08-01 22:59:15
+谷歌云搭的ssr和v2ray可以吗？
+#quote yuguorui
+
+#p 20623861 zbjcn 伯爵 2019-08-01 23:00:05
+今天毕业生转成校友账户后，连接vpn已经无法上北邮人了... 
+#quote yuguorui
+
+#p 20625426 hanhp 二月的风铃 2019-08-02 11:28:25
+前几天刚看到一个公网上byr的指南（见附件），大概会对你有所帮助？
+#quote nicoleli
+
+#p 20628382 yuguorui yuguorui 2019-08-02 21:04:45
+应该没问题的👌
+#quote zbjcn
+
+#p 20633093 nicoleli 锦鲤抄 2019-08-04 02:22:10
+十分感谢！
+但是按攻略操作到第7页中，粘贴一键安装脚本时发生了差错，显示missing URL,“秋水逸冰大神”好像不干了，源地址中也没有找到脚本。
+不知道您是不是有解决的办法呢？
+#quote hanhp
+
+#p 20633095 nicoleli 锦鲤抄 2019-08-04 02:24:10
+求一个教程。。。谢谢！
+#quote yawnlon
+
+#p 20633629 hanhp 二月的风铃 2019-08-04 09:59:12
+抱歉哈，我还没有认真研究过这个教程，这个大神今年1月被请去喝茶后就被迫停止更新博客了，所以源地址肯定是上不了的（被墙了）。
+PS：不过我看了一下脚本，脚本中的那个网址（[https://raw.githubusercontent.com/teddysun/shadowsocks_install/master/shadowsocks-all.sh](jump-to.php?url=https%3A%2F%2Fraw.githubusercontent.com%2Fteddysun%2Fshadowsocks_install%2Fmaster%2Fshadowsocks-all.sh)）还是能打开的，今年1月停止更新的代码到现在应该不会太过时，要不你再试下？
+#quote nicoleli
+
+#p 20651468 hanhp 二月的风铃 2019-08-08 19:39:21
+前几天没时间搞这玩意，刚才试了一下，可以上北邮人啊，完全没问题的（见附件图片），就是速度可能有点慢
+#quote nicoleli
+
+#p 20657161 nicoleli 锦鲤抄 2019-08-10 00:37:19
+
+
+2019-08-10 00:31:01
+啊感谢！工作了刚刚有时间~
+但是我还是打不开脚本中的网址，求问我是应该先翻个墙么？？
+或者...是不是我直接复制PDF里的代码会有空格一类的问题？
+#quote hanhp
+
+#p 20658144 hanhp 二月的风铃 2019-08-10 11:10:50
+teddysun.com/486.html这个肯定是打不开的，博主早就清空内容了。
+但是脚本还是可以用的，脚本中的网址（[https://raw.github](jump-to.php?url=https%3A%2F%2Fraw.github)...）也是可以打开的（不过你不用打开啊），可能PDF比较难复制，我放在下面：
+wget --no-check-certificate -O shadowsocks-all.sh [https://raw.githubusercontent.com/teddysun/shadowsocks_install/master/shadowsocks-all.sh](jump-to.php?url=https%3A%2F%2Fraw.githubusercontent.com%2Fteddysun%2Fshadowsocks_install%2Fmaster%2Fshadowsocks-all.sh)
+chmod +x shadowsocks-all.sh
+./shadowsocks-all.sh 2&gt;&amp;1 | tee shadowsocks-all.log
+在最开始配置的时候的确要翻墙，不然你也打不开digitalocean，但是后续再使用时就不用翻墙了，直接打开putty输入root@你的IPV4地址，然后再输入服务器密码，同时打开shadowsocks就可以了，因为这时你已经翻墙了。
+我刚才又试了一遍，没啥大问题……
+#quote nicoleli
+
+#p 20659085 DefLem 阳光 2019-08-10 15:57:08
+请问只要开了学校vpn就可以上pt站吗？还需要其他设置吗？非常感谢！
+#quote himitsu
+
+#p 20659092 DefLem 阳光 2019-08-10 15:59:22
+电信自带的ipv6不能访问byr的，还是说路由器需要另外再设置一下？
+#quote hiaoxui
+
+#p 20659366 himitsu 神山よしか 2019-08-10 17:24:42
+至少我的电脑是这样的
+#quote DefLem
+
+#p 20659694 DefLem 阳光 2019-08-10 19:17:55
+毕业生也不能登录正版软件平台了，sigh
+#quote zbjcn
+
+#p 20659706 DefLem 阳光 2019-08-10 19:20:17
+谢谢分享！
+#quote hanhp
+
+#p 20661535 hiaoxui 小辉 2019-08-11 09:11:35
+根据我的经验, 家用的 IPv6 访问 80 和 443 奇慢, 可能是被故意限制过的.
+你需要别的手段登录 byr. 我在家 p2p 的传输速度还是非常理想的.
+#quote DefLem
+
+#p 21433126 zbjcn 伯爵 2019-12-02 14:42:54
+成功了吗？
+#quote nicoleli
+
