@@ -1,4 +1,4 @@
-#t 251 17434115 deliver 2019-12-02 00:14:00 mycNoone 2019-12-02 22:50:00
+#t 251 17434115 deliver 2019-12-02 00:14:00 derekdut 2019-12-02 23:04:00
 motaguoke 封禁 doctor 在 Counterculture 的发文权
 
 #p 21433194 deliver 自动发信系统 2019-12-02 14:55:30
@@ -109,4 +109,8 @@ sp，辛苦了
 #p 21435705 mycNoone 白学家|傻狗|重度KY患者 2019-12-02 22:49:41
 那可以多来happynewyear逛逛
 #quote skytale
+
+#p 21435791 derekdut 学渣的忧桑 2019-12-02 23:03:38
+支持，其实封禁一些言论，禁止一些言论持续发酵，其实也是对BBS和对站友的一种保护。
+#quote deliver
 
