@@ -1,4 +1,4 @@
-#t 35 17433814 treasureyou 2019-12-02 00:11:00 zuiaiwoge 2019-12-03 14:02:00
+#t 35 17433814 treasureyou 2019-12-02 00:11:00 treasureyou 2019-12-03 18:31:00
 求助，adobe到期后，卸载重新安装，一直安装不成功
 
 #p 21432247 treasureyou 笨学生 2019-12-02 11:27:25
@@ -35,5 +35,9 @@ mac最新版不行10.15.1。。。
 
 #p 21438673 zuiaiwoge zuiaiwoge 2019-12-03 14:02:04
 我就说怎么有问题，重装就可以用么
+#quote treasureyou
+
+#p 21440867 treasureyou 笨学生 2019-12-03 18:30:23
+问了技术支持，目前adobe 不支持10.15系统，升级系统的同志们，放弃adobe吧。。
 #quote treasureyou
 

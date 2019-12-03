@@ -1,4 +1,4 @@
-#t 35 17433657 hanwater 2019-12-02 00:09:00 xinwu 2019-12-02 22:55:00
+#t 35 17433657 hanwater 2019-12-02 00:09:00 qazwsxedc 2019-12-03 18:22:00
 Adobe pdf过期了，要重新登录验证？？
 
 #p 21430772 hanwater 海绵 2019-12-02 09:41:19
@@ -59,4 +59,16 @@ mac的补丁好像运行不了
 嗯嗯，是的
 补丁下载：学校平台-使用帮助-Adobe 11月30日到期处理下个补丁运行就行
 #quote qazwsxedc
+
+#p 21440791 qazwsxedc qazwsx 2019-12-03 18:18:23
+谢谢同学！[http://software.pku.edu.cn/help/caHelpIndex.aspx?i&amp;mid=0](jump-to.php?url=http%3A%2F%2Fsoftware.pku.edu.cn%2Fhelp%2FcaHelpIndex.aspx%3Fi%26mid%3D0) 我看这个链接说的是适用于 Mac 10.15.1以下(不包括)版本用户，那么已经更新到10.15.1的用户该怎么办呀
+#quote xinwu
+
+#p 21440812 xinwu 心舞 2019-12-03 18:20:57
+这个不清楚哎！我是15.1以下的版本🙈🙈
+#quote qazwsxedc
+
+#p 21440817 qazwsxedc qazwsx 2019-12-03 18:21:35
+好的 还是感谢！
+#quote xinwu
 
