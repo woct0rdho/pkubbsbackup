@@ -1,4 +1,4 @@
-#t 251 17432528 NGAinspector 2019-12-01 00:14:00 hxanti 2019-12-03 14:42:00
+#t 251 17432528 NGAinspector 2019-12-01 00:14:00 Vulcan 2019-12-03 15:03:00
 美国就联合国《促进性别平等和妇女赋权》投下反对票
 
 #p 21426519 NGAinspector NGA水区特派观察员 2019-12-01 14:17:19
@@ -179,8 +179,11 @@ TED演讲: 比尔盖茨:"新型疫苗可以作为一种降低世界人口的方�
 是知也。
 #quote Vulcan
 
-#p 21438660 hxanti hx 2019-12-03 13:58:49
-有新的解读啊。比如2008年哥伦比亚特区诉海勒案，最高法院认定“美国公民即使不参与民兵组织，因合法的传统原因（例如在家中进行自我防卫）仍可拥有火器”（Private citizens have the right under the Second Amendment to possess an ordinary type of weapon and use it for lawful, historically established situations such as self-defense in a home, even when there is no relationship to a local militia.[1]）
+#p 21438660 hxanti hx 2019-12-03 14:49:10
+
+
+2019-12-03 13:58:49
+有新的解读啊。比如2008年哥伦比亚特区诉海勒案，最高法院认定“美国公民即使不参与民兵组织，因合法的传统原因（例如在住所中开展自我防卫）仍可拥有火器”（Private citizens have the right under the Second Amendment to possess an ordinary type of weapon and use it for lawful, historically established situations such as self-defense in a home, even when there is no relationship to a local militia.[1]）
 [1] [https://supreme.justia.com/cases/federal/us/554/570/](jump-to.php?url=https%3A%2F%2Fsupreme.justia.com%2Fcases%2Ffederal%2Fus%2F554%2F570%2F)
 #quote paull
 
@@ -200,7 +203,24 @@ TED演讲: 比尔盖茨:"新型疫苗可以作为一种降低世界人口的方�
 你看第2条，持枪自由不是无限的。但是第3条，限枪政策是违宪的……
 #quote hxanti
 
-#p 21438941 hxanti hx 2019-12-03 14:41:54
-第三条所指的限枪政策，乃本案所涉、华盛顿哥伦比亚特区的限枪政策，不是任意限枪政策都是违宪的。
+#p 21438941 hxanti hx 2019-12-03 14:43:21
+
+
+2019-12-03 14:41:54
+第三条所指的限枪政策，乃本案所涉、华盛顿哥伦比亚特区的限枪政策。最高法院没有说任意限枪政策都是违宪的，仅仅说特区的政策是违宪的。
 #quote Vulcan
+
+#p 21439380 Vulcan 空中劈叉擦甲板的舰长 2019-12-03 15:02:59
+嗯嗯，晓得。
+不过这还是没法平息美国关于持枪和限枪的争议，还是公说公有理婆说婆有理。
+而且这种解读明显就是在朝着放松枪支管制的方向迈进。跟美国传统的限枪政策背道而驰。
+在DC的限枪政策违宪，同样意味着其他州的限枪政策有违宪风险。
+譬如说2010年伊利诺伊州限枪令的案子，芝加哥地区已经实行了几十年的限枪令，一直以来都很正常，但是最后也还是被联邦法院裁定违宪，给推翻了
+[https://www.sj-r.com/news/20180201/illinois-supreme-court-says-gun-ban-near-parks-unconstitutional](jump-to.php?url=https%3A%2F%2Fwww.sj-r.com%2Fnews%2F20180201%2Fillinois-supreme-court-says-gun-ban-near-parks-unconstitutional)
+怎么施行了几十年的法律一直以来都没有听说违宪，到了现在就突然违宪了？
+在这种方向下，原本有几十年的限枪控枪政策的各州都不得不一个个取消了对枪支的管控。现在美国各州对枪支的管控已经远不如几十年前了。
+难道说几十年前大家都集体反对宪法了？
+不是，几十年前的控枪政策在当时并不违宪，而今天违宪；几十年前人们觉得管控枪支是正确的，现在被洗脑洗的认为控枪是错误的。
+仅仅是因为近些年来“全民持枪”被弄成了政治正确，仅此而已。
+#quote hxanti
 
