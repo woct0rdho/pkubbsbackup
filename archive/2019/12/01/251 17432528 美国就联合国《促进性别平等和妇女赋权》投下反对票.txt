@@ -1,4 +1,4 @@
-#t 251 17432528 NGAinspector 2019-12-01 00:14:00 hxanti 2019-12-03 13:59:00
+#t 251 17432528 NGAinspector 2019-12-01 00:14:00 hxanti 2019-12-03 14:42:00
 美国就联合国《促进性别平等和妇女赋权》投下反对票
 
 #p 21426519 NGAinspector NGA水区特派观察员 2019-12-01 14:17:19
@@ -183,4 +183,24 @@ TED演讲: 比尔盖茨:"新型疫苗可以作为一种降低世界人口的方�
 有新的解读啊。比如2008年哥伦比亚特区诉海勒案，最高法院认定“美国公民即使不参与民兵组织，因合法的传统原因（例如在家中进行自我防卫）仍可拥有火器”（Private citizens have the right under the Second Amendment to possess an ordinary type of weapon and use it for lawful, historically established situations such as self-defense in a home, even when there is no relationship to a local militia.[1]）
 [1] [https://supreme.justia.com/cases/federal/us/554/570/](jump-to.php?url=https%3A%2F%2Fsupreme.justia.com%2Fcases%2Ffederal%2Fus%2F554%2F570%2F)
 #quote paull
+
+#p 21438769 Vulcan 空中劈叉擦甲板的舰长 2019-12-03 14:19:11
+但是这个判例仍然没有解释，第二修正案到底是为了保障国家民间武装力量，还是因为认定持枪权是天赋的权利。
+要是第一点的话，政府如果进行限枪控枪甚至禁枪也是合法的，如果是后者，那么任何对枪支的限制法规都有违宪的风险。
+所以时至今日，无论是支持控枪的还是支持全民随意自由持枪的，都是各自说各自有理……
+#quote hxanti
+
+#p 21438863 WallaceBbee 埃及猫神 瓦坎达皇帝 万王之王 华莱士·彼伊 2019-12-03 14:31:04
+教改风云
+#quote euio
+
+#p 21438866 Vulcan 空中劈叉擦甲板的舰长 2019-12-03 14:31:18
+2.Like most rights, the Second Amendment right is not unlimited. It is not a right to keep and carry any weapon whatsoever in any manner whatsoever and for whatever purpose:  For example, concealed weapons prohibitions have been upheld under the Amendment or state analogues. The Court’s opinion should not be taken to cast doubt on longstanding prohibitions on the possession of firearms by felons and the mentally ill, or laws forbidding the carrying of firearms in sensitive places such as schools and government buildings, or laws imposing conditions and qualifications on the commercial sale of arms. Miller’s holding that the sorts of weapons protected are those “in common use at the time” finds support in the historical tradition of prohibiting the carrying of dangerous and unusual weapons. Pp. 54–56.
+   3. The handgun ban and the trigger-lock requirement (as applied to self-defense) violate the Second Amendment. The District’s total ban on handgun possession in the home amounts to a prohibition on an entire class of “arms” that Americans overwhelmingly choose for the lawful purpose of self-defense. Under any of the standards of scrutiny the Court has applied to enumerated constitutional rights, this prohibition—in the place where the importance of the lawful defense of self, family, and property is most acute—would fail constitutional muster. Similarly, the requirement that any lawful firearm in the home be disassembled or bound by a trigger lock makes it impossible for citizens to use arms for the core lawful purpose of self-defense and is hence unconstitutional. Because Heller conceded at oral argument that the D. C. licensing law is permissible if it is not enforced arbitrarily and capriciously, the Court assumes that a license will satisfy his prayer for relief and does not address the licensing requirement. Assuming he is not disqualified from exercising Second Amendment rights, the District must permit Heller to register his handgun and must issue him a license to carry it in the home. Pp. 56–64.
+你看第2条，持枪自由不是无限的。但是第3条，限枪政策是违宪的……
+#quote hxanti
+
+#p 21438941 hxanti hx 2019-12-03 14:41:54
+第三条所指的限枪政策，乃本案所涉、华盛顿哥伦比亚特区的限枪政策，不是任意限枪政策都是违宪的。
+#quote Vulcan
 

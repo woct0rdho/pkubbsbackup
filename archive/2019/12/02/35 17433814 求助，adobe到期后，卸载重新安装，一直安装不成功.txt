@@ -1,4 +1,4 @@
-#t 35 17433814 treasureyou 2019-12-02 00:11:00 gjgjh 2019-12-03 13:50:00
+#t 35 17433814 treasureyou 2019-12-02 00:11:00 zuiaiwoge 2019-12-03 14:02:00
 求助，adobe到期后，卸载重新安装，一直安装不成功
 
 #p 21432247 treasureyou 笨学生 2019-12-02 11:27:25
@@ -31,5 +31,9 @@ Mac升了系统以后，补丁运行不了，哭）
 
 #p 21438620 gjgjh gjgjh 2019-12-03 13:50:18
 mac最新版不行10.15.1。。。
+#quote treasureyou
+
+#p 21438673 zuiaiwoge zuiaiwoge 2019-12-03 14:02:04
+我就说怎么有问题，重装就可以用么
 #quote treasureyou
 
