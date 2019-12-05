@@ -1,4 +1,4 @@
-#t 35 17440262 RichardWake 2019-12-05 15:57:00 RichardWake 2019-12-05 16:44:00
+#t 35 17440262 RichardWake 2019-12-05 00:15:00 karlmarx 2019-12-05 17:36:00
 Vultr + shadowsocks是不是不能再用了？
 
 #p 21455762 RichardWake RichardWake 2019-12-05 15:56:44
@@ -11,4 +11,9 @@ Vultr + shadowsocks是不是不能再用了？
 #p 21458731 RichardWake RichardWake 2019-12-05 16:43:17
 具体是指什么协议啊？我之前的设置是按照网上的路子来的，其它不是太懂。有没有推荐的设置方案啊？谢谢啦
 #quote karlmarx
+
+#p 21459026 karlmarx 还我三角地！灵均·六月雪 2019-12-05 17:36:29
+选gcm结尾的协议，或者poly135，不过似乎后者已经被识破了。
+或者换v2ray，一键安装，问题不大。比ss麻烦点儿，但是反正也就是一次性的事。
+#quote RichardWake
 

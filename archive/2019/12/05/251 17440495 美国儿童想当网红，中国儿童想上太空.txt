@@ -1,0 +1,7 @@
+#t 251 17440495 vimacs 2019-12-05 17:57:00 vimacs 2019-12-05 17:57:00
+美国儿童想当网红，中国儿童想上太空
+
+#p 21459110 vimacs Lisp Interaction Paredit AC 2019-12-05 17:56:19
+在 Hacker News 上看到的，原文链接 [https://www.businessinsider.sg/american-kids-youtube-star-astronauts-survey-2019-7/?r=US&amp;IR=T](jump-to.php?url=https%3A%2F%2Fwww.businessinsider.sg%2Famerican-kids-youtube-star-astronauts-survey-2019-7%2F%3Fr%3DUS%26IR%3DT)
+看起来好像不是事实啊。
+
