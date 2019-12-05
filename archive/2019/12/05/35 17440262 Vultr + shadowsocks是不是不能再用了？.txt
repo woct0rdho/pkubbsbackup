@@ -1,6 +1,14 @@
-#t 35 17440262 RichardWake 2019-12-05 15:57:00 RichardWake 2019-12-05 15:57:00
+#t 35 17440262 RichardWake 2019-12-05 15:57:00 RichardWake 2019-12-05 16:44:00
 Vultr + shadowsocks是不是不能再用了？
 
 #p 21455762 RichardWake RichardWake 2019-12-05 15:56:44
 重新安装了试了很多次，发现已经上不去google了，求问大家怎么样？有没有备选的方案啊？上google太需要了
+
+#p 21458691 karlmarx 还我三角地！灵均·六月雪 2019-12-05 16:38:44
+可以用，换协议，换个ip试试看。
+#quote RichardWake
+
+#p 21458731 RichardWake RichardWake 2019-12-05 16:43:17
+具体是指什么协议啊？我之前的设置是按照网上的路子来的，其它不是太懂。有没有推荐的设置方案啊？谢谢啦
+#quote karlmarx
 
