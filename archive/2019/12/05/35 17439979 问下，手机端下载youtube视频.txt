@@ -1,4 +1,4 @@
-#t 35 17439979 Tranquilsun 2019-12-05 12:50:00 dvorah 2019-12-05 13:39:00
+#t 35 17439979 Tranquilsun 2019-12-05 00:12:00 Jackieyang 2019-12-05 14:42:00
 问下，手机端下载youtube视频
 
 #p 21451333 Tranquilsun 串口|不丧|无常 2019-12-05 12:49:32
@@ -8,5 +8,9 @@
 有一些网站复制网址进去就能下载mp4格式的，我之前用过这俩
 [https://www.clipconverter.cc/](jump-to.php?url=https%3A%2F%2Fwww.clipconverter.cc%2F)
 [https://en.savefrom.net/?rmode=false](jump-to.php?url=https%3A%2F%2Fen.savefrom.net%2F%3Frmode%3Dfalse)
+#quote Tranquilsun
+
+#p 21454383 Jackieyang valkjsaaa 2019-12-05 14:41:51
+try: [https://github.com/Roman2K/youtube-dl-ios](jump-to.php?url=https%3A%2F%2Fgithub.com%2FRoman2K%2Fyoutube-dl-ios)
 #quote Tranquilsun
 
