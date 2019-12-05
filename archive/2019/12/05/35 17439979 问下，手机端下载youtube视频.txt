@@ -1,4 +1,4 @@
-#t 35 17439979 Tranquilsun 2019-12-05 00:12:00 Jackieyang 2019-12-05 14:42:00
+#t 35 17439979 Tranquilsun 2019-12-05 00:12:00 Tranquilsun 2019-12-05 18:08:00
 问下，手机端下载youtube视频
 
 #p 21451333 Tranquilsun 串口|不丧|无常 2019-12-05 12:49:32
@@ -13,4 +13,8 @@
 #p 21454383 Jackieyang valkjsaaa 2019-12-05 14:41:51
 try: [https://github.com/Roman2K/youtube-dl-ios](jump-to.php?url=https%3A%2F%2Fgithub.com%2FRoman2K%2Fyoutube-dl-ios)
 #quote Tranquilsun
+
+#p 21459166 Tranquilsun 串口|不丧|无常 2019-12-05 18:07:54
+谢谢了，不过这适配于ios？
+#quote Jackieyang
 
