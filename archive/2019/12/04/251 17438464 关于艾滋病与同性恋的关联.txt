@@ -1,4 +1,4 @@
-#t 251 17438464 paoshuren 2019-12-04 00:14:00 paoshuren 2019-12-06 00:18:00
+#t 251 17438464 paoshuren 2019-12-04 00:14:00 YimuCharles 2019-12-07 04:58:00
 关于艾滋病与同性恋的关联
 
 #p 21446365 paoshuren 抛书人 2019-12-04 14:51:03
@@ -383,4 +383,16 @@
 #p 21464534 paoshuren 抛书人 2019-12-06 18:26:07
 感谢普及，tql！
 #quote YimuCharles
+
+#p 21466286 YimuCharles 夏尔 2019-12-07 04:57:37
+效果随时间如何衰减我不太确定，简单检索了一下暂时没有找到相关研究，但可以确定的是不同指南的推荐时间是不同的。
+在一篇文献[1]中看到欧洲的推荐时间为48小时内[2]，美国是72小时[3]，而纽约州的指南是36小时[4][5]
+这种time window我觉得只能是推荐，很难去研究随时间的效果变化规律，因为针对这一规律的实验研究很大概率是有伦理问题的。阻断一定是越早越好，没什么理由要求人家自愿晚一点服用……另一方面，肯定不能将实验对象人工感染艾滋病……那如何寻找实验对象或如何从医疗记录里收集相关信息都是很困难的，这样判断的话这样的研究没有很大意义，同时也并不cost-effective……
+总之，越早越好是肯定的，如有风险请第二天早上出现在指定医院买药。
+[1]Rey, D., 2011. Post-exposure prophylaxis for HIV infection. Expert review of anti-infective therapy, 9(4), pp.431-442.
+[2]Clinical management and treatment of HIV-infected adults in Europe. Version 5–2 www.europeanaidsclinicalsociety.org/guidelinespdf/1_Treatment_of_HIV_ Infected_Adults.pdf
+[3]Fox J, Fidler S. Sexual transmission of HIV-1. Antivir. Res. 85(1), 276–285 (2010).
+[4]HIV Prophylaxis Following Occupational Exposure. New York State Department of Health AIDS Institute, Albany, NY, USA (2008).
+[5]上一篇没找到具体文献，只搜到了这个页面[https://www.hivguidelines.org/pep-for-hiv-prevention/non-occupational/#tab_3](jump-to.php?url=https%3A%2F%2Fwww.hivguidelines.org%2Fpep-for-hiv-prevention%2Fnon-occupational%2F%23tab_3)
+#quote euio
 
