@@ -1,4 +1,4 @@
-#t 251 17357667 Masonry 2019-10-14 00:01:00 Masonry 2019-12-06 00:15:00
+#t 251 17357667 Masonry 2019-10-14 00:01:00 Masonry 2019-12-06 22:44:00
 译庞加莱的《科学的价值》
 
 #p 21091859 Masonry Magnum Chaos 2019-11-24 22:28:39
@@ -562,4 +562,26 @@ If experience made us witness such a sight, our postulate would be contradicted.
 Now can we affirm that the hypotheses I have just made are absurd? They are in no wise contrary to the principle of contradiction. Doubtless they could not happen without the principle of sufficient reason seeming violated. But to justify a definition so fundamental I should prefer some other guarantee. ﻿
 我们是否可以断言刚才做的假设是荒谬的？它们和矛盾律并无甚差别，它们若成立似乎必定违背充足理由律。然而，对于如此根本的定义，我希望有一些其它的保障。
 (IV 译完)
+
+#p 21465496 Masonry Magnum Chaos 2019-12-06 22:44:07
+
+
+2019-12-06 22:43:03
+The measure of time
+时间的测量
+V
+五
+But that is not all. In physical reality one cause does not produce a given effect, but a multitude of distinct causes contribute to produce it, without our having any means of discriminating the part of each of them. 
+但这尚且不是问题的全部。在物理现实中，并不是一个原因导致一个结果，而是许多不同的原因共同起到作用，我们没有手段真正地将这些原因分离。
+Physicists seek to make this distinction; but they make it only approximately, and, however they progress, they never will make it except approximately. It is approximately true that the motion of the pendulum is due solely to the earth’s attraction; but in all rigor every attraction, even of Sirius, acts on the pendulum. 
+物理学家试图做到这种区分；然而他们只能进似地做到，而且，不论他们怎样前进，他们也只能近似地做到了。近似地，钟摆的运动只依赖于地球的吸引；但严格地说，即使遥远如天狼星，我们也必须将其引力计入其中。
+Under these conditions, it is clear that the causes which have produced a certain effect will never be reproduced except approximately. Then we should modify our postulate and out definition. Instead of saying: ‘The same causes take the same time to produce the same effects,’ we should say: ‘Causes almost identical take almost the same time to produce almost the same effects.’ 
+Our definition therefore is no longer anything but approximate. Besides, as M. Calinon very justly remarks in a recent memoir:
+<font color="#000000">        One of the circumstances of any phenomenon is the velocity of the earth’s rotation; if this velocity of rotation varies, it constitutes in the reproduction of this phenomenon a circumstance which no longer remains the same. But to suppose this velocity of rotation constant is to suppose that we know how to measure time. </font>
+Our definition is therefore not yet satisfactory; it is certainly not that which the astronomers of whom I spoke above implicitly adopt, when they affirm that the terrestrial rotation is slowing down. 
+What meaning according to them has this affirmation? We can only understand it by analyzing the proofs they give of their proposition. They say first that the friction of the tides producing heat must destroy vis viva. They invoke therefore the principle of vis viva, or of the conservation of energy. 
+They say next that the secular acceleration of the moon, calculated according to Newton’s law, would be less than that deduced from observations unless the correction relative to the slowing down of the terrestrial rotation were made. They invoke therefore Newton’s law. In other words, they define duration in the following way: time should be so defined that Newton’s law and that of vis viva may be verified. Newton’s law is an experimental truth; as such it is only approximate, which shows that we still have only a definition by approximation. 
+If now it be supposed that another way of measuring time is adopted, the experiments on which Newton’s law is founded would none the less have the same meaning. Only the enunciation of the law would be different, because it would be translated into another language; it would evidently be much less simple. So that the definition implicitly adopted by the astronomers may be summed up thus: Time should be so defined that the equations of mechanics may be as simple as possible. In other words, there is not one way of measuring time more true than another; that which is generally adopted is only more convenient. Of two watches, we have no right to say that the one goes true, the other wrong; we can only say that it is advantageous to conform to the indications of the first. 
+The difficulty which has just occupied us has been, as I have said, often pointed out; among the most recent works in which it is considered, I may mention, besides M. Calinon’s little book, the treatise on mechanics of M. Andrade. 
+(未完)
 
