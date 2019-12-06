@@ -1,4 +1,4 @@
-#t 35 17440262 RichardWake 2019-12-05 00:15:00 RichardWake 2019-12-05 19:30:00
+#t 35 17440262 RichardWake 2019-12-05 00:15:00 karlmarx 2019-12-06 21:15:00
 Vultr + shadowsocks是不是不能再用了？
 
 #p 21455762 RichardWake RichardWake 2019-12-05 15:56:44
@@ -20,4 +20,8 @@ Vultr + shadowsocks是不是不能再用了？
 #p 21459584 RichardWake RichardWake 2019-12-05 19:29:06
 多谢大佬，用gcm的协议可以用了。感谢。请教一下，gcm和fcb有什么区别吗？我之前试cfb的一直不行
 #quote karlmarx
+
+#p 21465208 karlmarx 还我三角地！灵均·六月雪 2019-12-06 21:14:42
+搜索“AEAD”或者加上“加密”等关键词。
+#quote RichardWake
 
