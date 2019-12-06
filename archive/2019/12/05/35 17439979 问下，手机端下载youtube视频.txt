@@ -1,4 +1,4 @@
-#t 35 17439979 Tranquilsun 2019-12-05 00:12:00 Tranquilsun 2019-12-05 18:08:00
+#t 35 17439979 Tranquilsun 2019-12-05 00:12:00 Tranquilsun 2019-12-06 00:09:00
 问下，手机端下载youtube视频
 
 #p 21451333 Tranquilsun 串口|不丧|无常 2019-12-05 12:49:32
@@ -17,4 +17,30 @@ try: [https://github.com/Roman2K/youtube-dl-ios](jump-to.php?url=https%3A%2F%2Fg
 #p 21459166 Tranquilsun 串口|不丧|无常 2019-12-05 18:07:54
 谢谢了，不过这适配于ios？
 #quote Jackieyang
+
+#p 21460259 vimacs Lisp Interaction Paredit AC 2019-12-05 22:11:39
+
+
+2019-12-05 22:10:39
+我看了一下，其实就是用了 youtube-dl. Android 也可以装个 Termux 然后在里面装上 Python 再下一个 youtube-dl 用。
+Android 下其实可以用 NewPipe 播放和下载 YouTube 视频，F-Droid 里面有。
+[https://github.com/TeamNewPipe/NewPipe](jump-to.php?url=https%3A%2F%2Fgithub.com%2FTeamNewPipe%2FNewPipe)
+[https://f-droid.org/packages/org.schabi.newpipe/](jump-to.php?url=https%3A%2F%2Ff-droid.org%2Fpackages%2Forg.schabi.newpipe%2F)
+#quote Tranquilsun
+
+#p 21461489 Jackieyang valkjsaaa 2019-12-06 05:22:05
+是的，Android 应该有别的办法
+#quote Tranquilsun
+
+#p 21461877 Tranquilsun 串口|不丧|无常 2019-12-06 09:20:11
+谢谢H站推荐~
+#quote dvorah
+
+#p 21461883 Tranquilsun 串口|不丧|无常 2019-12-06 09:21:05
+嗯嗯~
+#quote Jackieyang
+
+#p 21461888 Tranquilsun 串口|不丧|无常 2019-12-06 09:21:28
+谢谢推荐，pipe体验还不错~
+#quote vimacs
 

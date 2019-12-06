@@ -1,4 +1,4 @@
-#t 668 17433157 Iowa 2019-12-01 00:23:00 YiYiZ 2019-12-02 16:49:00
+#t 668 17433157 Iowa 2019-12-01 00:23:00 Camouve 2019-12-06 00:13:00
 Adobe在macOS上无法使用
 
 #p 21429570 Iowa IA 2019-12-01 23:38:22
@@ -25,4 +25,8 @@ catalina同问题
 #p 21433806 YiYiZ 伊 2019-12-02 16:48:48
 反复拆卸安装不下5遍多，甚至用时间机器恢复原来的Adobe软件后发现PS的安装时候会联系Creative Cloud，然后Creative Cloud会把AI也关照了，变成都需要登陆，目前就试了AI和PS，激活无效@PKUCC
 #quote Iowa
+
+#p 21463023 Camouve Hyde 2019-12-06 13:13:05
+请问Catalina系统的问题什么时候可以解决？
+#quote PKUCC
 

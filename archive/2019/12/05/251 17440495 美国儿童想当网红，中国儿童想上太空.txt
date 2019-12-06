@@ -1,7 +1,15 @@
-#t 251 17440495 vimacs 2019-12-05 17:57:00 vimacs 2019-12-05 17:57:00
+#t 251 17440495 vimacs 2019-12-05 00:17:00 NorthStars 2019-12-06 00:18:00
 美国儿童想当网红，中国儿童想上太空
 
 #p 21459110 vimacs Lisp Interaction Paredit AC 2019-12-05 17:56:19
 在 Hacker News 上看到的，原文链接 [https://www.businessinsider.sg/american-kids-youtube-star-astronauts-survey-2019-7/?r=US&amp;IR=T](jump-to.php?url=https%3A%2F%2Fwww.businessinsider.sg%2Famerican-kids-youtube-star-astronauts-survey-2019-7%2F%3Fr%3DUS%26IR%3DT)
 看起来好像不是事实啊。
+
+#p 21463306 ljtonly naïve 2019-12-06 14:07:44
+小时候大家都想当科学家，长大后才发现只是科学民工，哪有什么科学家。真不如网红挣的多
+#quote vimacs
+
+#p 21464535 NorthStars chen. 2019-12-06 18:26:16
+也不都是这样吧
+#quote vimacs
 
