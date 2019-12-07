@@ -1,4 +1,4 @@
-#t 251 17440495 vimacs 2019-12-05 00:17:00 NorthStars 2019-12-06 00:18:00
+#t 251 17440495 vimacs 2019-12-05 00:17:00 jincharles 2019-12-07 12:40:00
 美国儿童想当网红，中国儿童想上太空
 
 #p 21459110 vimacs Lisp Interaction Paredit AC 2019-12-05 17:56:19
@@ -12,4 +12,16 @@
 #p 21464535 NorthStars chen. 2019-12-06 18:26:16
 也不都是这样吧
 #quote vimacs
+
+#p 21467375 liuyz liuyz 2019-12-07 12:05:43
+长得不好想当网红也难啊
+#quote ljtonly
+
+#p 21467434 derekdut 学渣的忧桑 2019-12-07 12:19:11
+也不是呀，我看很多男网红长得都咋地啊。
+#quote liuyz
+
+#p 21467515 jincharles 尿科巫医 2019-12-07 12:39:10
+長得有特色就行就怕大眾臉
+#quote liuyz
 
