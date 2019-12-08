@@ -1,4 +1,4 @@
-#t 251 17442687 barak 2019-12-07 00:00:00 ATP 2019-12-08 13:34:00
+#t 251 17442687 barak 2019-12-07 00:00:00 geniusadven 2019-12-08 14:17:00
 人民的感情真是廉价，且易操控
 
 #p 21465960 barak 嘿嘿嘿 2019-12-07 00:31:29
@@ -447,4 +447,8 @@ https 的连接也能这样从基站截取并解密吗？
 作为专业程序员怎么看待华为的鸿蒙系统？ - 知乎
 [https://www.zhihu.com/question/339841531](jump-to.php?url=https%3A%2F%2Fwww.zhihu.com%2Fquestion%2F339841531)
 #quote chrome
+
+#p 21471982 geniusadven Rock 2019-12-08 14:16:01
+很冷静了
+#quote bookreadertt
 
