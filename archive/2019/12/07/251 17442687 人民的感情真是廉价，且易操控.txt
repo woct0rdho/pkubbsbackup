@@ -1,4 +1,4 @@
-#t 251 17442687 barak 2019-12-07 00:00:00 Homagod 2019-12-08 12:57:00
+#t 251 17442687 barak 2019-12-07 00:00:00 ATP 2019-12-08 13:34:00
 人民的感情真是廉价，且易操控
 
 #p 21465960 barak 嘿嘿嘿 2019-12-07 00:31:29
@@ -429,4 +429,22 @@ https 的连接也能这样从基站截取并解密吗？
 #p 21471705 Homagod 不愉快です 2019-12-08 12:56:32
 是的= =
 #quote liuyz
+
+#p 21471722 Lebesgue Pd(PPh3)4 2019-12-08 13:00:45
+被举报的多了吧！
+#quote barak
+
+#p 21471757 Lebesgue Pd(PPh3)4 2019-12-08 13:12:05
+脚上有屎的人看谁脚上都粘了屎。华为及其海军怕是对花钱删帖、花钱洗地这一套太熟悉了，所以看到汹涌民意第一反应就是有人在幕后操纵舆论。楼主被删帖，我估计大概率就是洗地姿势太难看，被很多人举报才导致删帖的~~
+#quote xuexue
+
+#p 21471827 ATP 渔夫 2019-12-08 13:33:26
+有兴趣不妨看看这3个按时间顺序的问题，可以发现自从鸿蒙真的正式发布后，知乎的舆论就从一边倒的支持华为变成了两边五五开了：
+华为的鸿蒙系统黄了吗？ - 知乎
+[https://www.zhihu.com/question/334596233](jump-to.php?url=https%3A%2F%2Fwww.zhihu.com%2Fquestion%2F334596233)
+如何看待华为 2019 年 8 月 9 日正式发布的 HarmonyOS 鸿蒙系统？ - 知乎
+[https://www.zhihu.com/question/339567108](jump-to.php?url=https%3A%2F%2Fwww.zhihu.com%2Fquestion%2F339567108)
+作为专业程序员怎么看待华为的鸿蒙系统？ - 知乎
+[https://www.zhihu.com/question/339841531](jump-to.php?url=https%3A%2F%2Fwww.zhihu.com%2Fquestion%2F339841531)
+#quote chrome
 
