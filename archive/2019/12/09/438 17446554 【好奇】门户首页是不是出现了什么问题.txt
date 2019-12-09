@@ -1,0 +1,15 @@
+#t 438 17446554 Tranquilsun 2019-12-09 16:05:00 Tranquilsun 2019-12-09 16:06:00
+【好奇】门户首页是不是出现了什么问题
+
+#p 21477380 Tranquilsun 串口|不丧|无常 2019-12-09 16:05:29
+
+
+2019-12-09 16:05:11
+显示空的 9999 而且时间也没有对齐，如下图所示 
+<img src="https://bbs.pku.edu.cn/attach/3b/e5/3be515f27f8162de/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20191209160352.png"/>
+
+#p 21477385 Tranquilsun 串口|不丧|无常 2019-12-09 16:05:47
+@NeverHigh
+@Reply
+#quote Tranquilsun
+
