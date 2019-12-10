@@ -1,0 +1,25 @@
+#t 668 17448568 RyanBern 2019-12-10 20:45:00 PKUCC 2019-12-10 20:49:00
+WPN 下 jupyter-notebook 等应用无法正常使用
+
+#p 21484102 RyanBern r.bern 2019-12-10 20:44:25
+在校内主机开设 jupyter-notebook 服务后，可正常从其他主机使用 web 访问。但我测试了一下从 WPN 访问，会发生如下问题：
+**1. **验证成功之后无法显示当前目录（见附件 jupyter-1.png），控制台报错为（我已经隐去了我自己主机的地址）
+[W 20:19:56.440 NotebookApp] Blocking Cross Origin API request for /notebook/api/config/tree.  Origin: http://1.2.3.4, Host: 1.2.3.4:8888[W 20:19:56.440 NotebookApp] Not Found[W 20:19:56.441 NotebookApp] 404 GET /notebook/api/config/tree?_=1575980396305 (10.128.60.2) 0.75ms referer=http://1.2.3.4:8888/notebook/tree﻿
+这个问题虽然可以通过往配置文件里加入
+c.NotebookApp.allow_origin = '*'
+来暂时解决，但本质上来说应该是 WPN 没有处理好请求。
+**2. **1 暂时解决之后，新建 notebook 无法启动 python kernel。症状为启动 kernel 时一直处于无响应状态，点击重启控制台会有如下输出。
+[W 20:23:44.078 NotebookApp] Replacing stale connection: d04a6484-3d94-4f0e-817d-916a9439f3f7:516e29fa25e14bd18c18c16cad82647b[I 20:23:44.080 NotebookApp] Restoring connection for d04a6484-3d94-4f0e-817d-916a9439f3f7:516e29fa25e14bd18c18c16cad82647b
+浏览器症状见 jupyter-2.png。这个错误我暂时无法确定原因，但应该也是 WPN 导致的。
+**PS：**以上两个错误只有通过 WPN 访问才会出现，内网直连不会有。
+**PPS：**其他类似的服务（例如 rstudio-server）也会出现无法使用的现象，例如跑一个 rstudio-server，从 WPN 可以打开登录界面，但输入口令之后会发生错误提示：
+Error: Download of http://1.2.3.4:8787/rstudio/deferredjs/95E622F0D260019E99A4939C1A87BC99/30.cache.js?autoRetry=3 failed with status 404(Script Tag Failure - no status available)﻿
+不知道是否是同样原因。老师可以自己找一台校内机器跑上这两个服务测试一下。
+**附：相关链接**
+[https://jupyter.org/install](jump-to.php?url=https%3A%2F%2Fjupyter.org%2Finstall)
+[https://rstudio.com/products/rstudio/download-server/](jump-to.php?url=https%3A%2F%2Frstudio.com%2Fproducts%2Frstudio%2Fdownload-server%2F)
+
+#p 21484112 PKUCC 北京大学计算中心 2019-12-10 20:48:58
+好的。我们联系系统研发，尽可能解决问题。谢谢你的信息！
+#quote RyanBern
+
