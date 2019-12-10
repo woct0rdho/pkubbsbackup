@@ -1,4 +1,4 @@
-#t 35 17446136 pkulxj 2019-12-09 00:11:00 YimuCharles 2019-12-10 00:19:00
+#t 35 17446136 pkulxj 2019-12-09 00:11:00 pkulxj 2019-12-10 10:36:00
 毕业了还能继续使用学校的vpn访问图书馆资源吗
 
 #p 21475985 pkulxj hahaha 2019-12-09 11:26:37
@@ -17,4 +17,9 @@
 打开sci-hub.ren
 输入doi
 #quote pkulxj
+
+#p 21480901 pkulxj hahaha 2019-12-10 10:36:29
+啊啊啊啊啊啊啊，我怎么才知道
+太厉害了吧
+#quote YimuCharles
 
