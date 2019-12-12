@@ -1,0 +1,10 @@
+#t 668 17450093 ChopinWaltz 2019-12-11 00:19:00 PKUCC 2019-12-11 00:19:00
+苹果官网被墙
+
+#p 21489207 ChopinWaltz ChopinWaltz 2019-12-11 19:09:22
+目前在校内无无线网络下访问apple官网和售后官网时，无法加载页面，需要翻墙才可以访问，出现问题的网站是[https://www.apple.com](jump-to.php?url=https%3A%2F%2Fwww.apple.com)和[https://idmsa.apple.com/](jump-to.php?url=https%3A%2F%2Fidmsa.apple.com%2F)事实上涉及几乎苹果的所有网站都无法正常访问。。。不知道是不是校内网络的问题
+
+#p 21489268 PKUCC 北京大学计算中心 2019-12-11 19:26:37
+您好！经测试，校园网可以访问apple.com以及apple.com.cn/cn等苹果相关网站。
+#quote ChopinWaltz
+

@@ -1,4 +1,4 @@
-#t 35 17447744 Sanho 2019-12-10 11:05:00 Sanho 2019-12-10 11:16:00
+#t 35 17447744 Sanho 2019-12-10 00:11:00 haowill 2019-12-12 00:22:00
 iOS系统无法访问任何ipv6网站，其他操作系统均正常
 
 #p 21481086 Sanho Bearlover 2019-12-10 11:04:53
@@ -8,5 +8,33 @@ iOS系统无法访问任何ipv6网站，其他操作系统均正常
 不过我老是感觉是iOS系统本身的bug。。
 多重启几次，每次重启都有较小的概率重获访问ipv6网站的能力，一般来说重启个三四次，就能打开一次ipv6网站。而访问ipv6的能力将在开机后不久消失，便只能再重启一次。
 iOS的品控做得越来越差了。哪怕是ipv4的网络，iOS系统也是最爱断网的，不管是用校园网还是家里的Wi-Fi还是手机流量。
+#quote Sanho
+
+#p 21485391 Jackieyang valkjsaaa 2019-12-11 05:02:40
+用的什么版本的系统？
+#quote Sanho
+
+#p 21487856 Sanho Bearlover 2019-12-11 15:19:22
+iOS 13.3
+#quote Jackieyang
+
+#p 21490816 Jackieyang valkjsaaa 2019-12-12 05:40:54
+试过自带浏览器吗，另外，检查 Wi-Fi 是否配置代理，是否能读到分配的 IPv6 地址
+#quote Sanho
+
+#p 21492695 Sanho Bearlover 2019-12-12 13:43:29
+Safari和chrome都一样，WiFi设置就是最初没改过的，也没有proxy
+#quote Jackieyang
+
+#p 21495878 Jackieyang valkjsaaa 2019-12-12 21:41:26
+那设置里能看到 IPv6 地址吗？连的什么 Wi-Fi 啊
+#quote Sanho
+
+#p 21495890 Sanho Bearlover 2019-12-12 21:43:27
+此时此刻ipv6的连接正常，能看到ip地址，但是挂掉的时候是怎么样的我没有注意
+#quote Jackieyang
+
+#p 21496208 haowill 实验室摸鱼大人 2019-12-12 22:44:52
+刚试了一下，手机safari可以进六维空间
 #quote Sanho
 

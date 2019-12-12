@@ -1,4 +1,4 @@
-#t 1431 17441762 jupyterlab 2019-12-06 00:13:00 forever 2019-12-07 18:37:00
+#t 1431 17441762 jupyterlab 2019-12-06 00:13:00 jupyterlab 2019-12-12 00:02:00
 新买的裤子被近邻宝的快递柜割破了
 
 #p 21463045 jupyterlab jupyterlab 2019-12-06 13:19:24
@@ -40,4 +40,12 @@
 最好每个柜子前再画一条警示线。
 我每次选择走两排柜子的中间。
 #quote jupyterlab
+
+#p 21490654 jupyterlab jupyterlab 2019-12-12 02:16:12
+算了，感觉她也没做错什么
+#quote LikeAPoem
+
+#p 21490656 jupyterlab jupyterlab 2019-12-12 02:16:41
+这个建议不错，顶一下
+#quote forever
 
