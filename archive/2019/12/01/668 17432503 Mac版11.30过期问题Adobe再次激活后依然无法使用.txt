@@ -1,4 +1,4 @@
-#t 668 17432503 wwyydd 2019-12-01 00:13:00 hlshlshls 2019-12-12 00:11:00
+#t 668 17432503 wwyydd 2019-12-01 00:13:00 luckyjojoo 2019-12-13 22:33:00
 Mac版11.30过期问题Adobe再次激活后依然无法使用
 
 #p 21426439 wwyydd !@# 2019-12-01 13:52:27
@@ -95,4 +95,8 @@ Catalina系统的问题什么时候可以解决啊sigh
 #p 21491772 hlshlshls 未名湖小何 2019-12-12 11:02:03
 我也Mac catalina adobe 开始闪退了 严重影响日常工作 希望学校能快点解决！！！！！！！！！！！！！！
 #quote wwyydd
+
+#p 21502455 luckyjojoo lucky 2019-12-13 22:32:29
+麻烦联系adobe赶紧给个Catalina的解决方案吧。
+#quote PKUCC
 
