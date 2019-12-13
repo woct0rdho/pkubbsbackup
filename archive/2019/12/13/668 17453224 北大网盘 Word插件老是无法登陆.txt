@@ -1,0 +1,22 @@
+#t 668 17453224 Tranquilsun 2019-12-13 10:07:00 Tranquilsun 2019-12-13 10:35:00
+北大网盘 Word插件老是无法登陆
+
+#p 21498062 Tranquilsun 串口|不丧|无常 2019-12-13 10:06:47
+
+
+2019-12-13 10:06:20
+RT  提示内部错误，请问该怎么解决呢
+<img src="https://bbs.pku.edu.cn/attach/70/a1/70a161956dfa507f/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20191213100446.png"/>
+
+#p 21498066 Tranquilsun 串口|不丧|无常 2019-12-13 10:06:55
+@PKU_CC
+#quote Tranquilsun
+
+#p 21498193 PKUCC 北京大学计算中心 2019-12-13 10:23:39
+您好，成功登录北大网盘客户端后，会自动登录office插件，并进行使用。
+#quote Tranquilsun
+
+#p 21498261 Tranquilsun 串口|不丧|无常 2019-12-13 10:34:16
+我登录了客户端 但是没有自动登陆office插件。。
+#quote PKUCC
+
