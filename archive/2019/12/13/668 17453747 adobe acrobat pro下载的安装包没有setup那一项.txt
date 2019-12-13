@@ -1,6 +1,16 @@
-#t 668 17453747 yuyuwang 2019-12-13 13:57:00 yuyuwang 2019-12-13 13:57:00
+#t 668 17453747 yuyuwang 2019-12-13 13:58:00 yuyuwang 2019-12-13 14:38:00
 adobe acrobat pro下载的安装包没有setup那一项
 
 #p 21499571 yuyuwang 聿聿喵 2019-12-13 13:57:20
 如附件所示，在软件平台上下载的安装包里没有AdobeSetup,安装不了好捉急啊ಥ_ಥ
+
+#p 21499663 PKUCC 北京大学计算中心 2019-12-13 14:13:35
+应该是进入build目录有一个安装文件
+#quote yuyuwang
+
+#p 21499784 yuyuwang 聿聿喵 2019-12-13 14:37:18
+啊好的安装好了，但现在又有这个提示
+There was a RAISE without a handler. The application will now exit.
+是咋回事呀ಥ_ಥ
+#quote PKUCC
 
