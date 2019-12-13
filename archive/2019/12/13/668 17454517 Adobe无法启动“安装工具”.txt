@@ -1,0 +1,18 @@
+#t 668 17454517 xumosky 2019-12-13 22:56:00 derbin 2019-12-13 23:08:00
+Adobe无法启动“安装工具”
+
+#p 21502543 xumosky 一座山 2019-12-13 23:05:16
+
+
+2019-12-13 22:55:26
+Windows系统，第一次安装Adobe。
+到最后一步运行“AdobeSetup”的时候，先是提示未识别软件（关闭windows smartscreen），点击“仍然运行”后快速弹出一个看不清楚的界面，然后“Setup”的文件直接消失。
+
+#p 21502587 PKUCC 北京大学计算中心 2019-12-13 23:05:58
+您可将报错信息发送给adobe工程师，邮箱为xiebin@zhope.com.cn，工程师正常两个工作日内会给回应
+#quote xumosky
+
+#p 21502596 derbin 小柒 2019-12-13 23:07:55
+文件消失应该是被清理了。需要关闭windows defender smartscreen (安全中心-&gt; 应用和浏览器控制-&gt;关闭右侧的三个检查)
+#quote xumosky
+
