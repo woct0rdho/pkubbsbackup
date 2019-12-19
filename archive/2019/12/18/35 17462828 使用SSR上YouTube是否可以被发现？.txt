@@ -1,4 +1,4 @@
-#t 35 17462828 yunbiaozhao 2019-12-18 00:21:00 yunbiaozhao 2019-12-19 23:32:00
+#t 35 17462828 yunbiaozhao 2019-12-18 00:21:00 Drifter 2019-12-20 00:05:00
 使用SSR上YouTube是否可以被发现？
 
 #p 21528349 yunbiaozhao 蝶舞沧海 2019-12-18 21:04:40
@@ -45,4 +45,20 @@ ssr保护你跟油管的连接不受运营商的监控。
 #p 21534496 yunbiaozhao 蝶舞沧海 2019-12-19 23:31:24
 也就是说，学校也不知道我在看啥网站，那我干嘛还要浏览器上网开隐身模式啊。只要服务器供应商不卖我，我暂时就是安全的。另外，翻墙学英语犯法么？我是在油管上学英语吧。
 #quote hiaoxui
+
+#p 21534639 Drifter 德利弗特 2019-12-20 00:07:19
+
+
+2019-12-20 00:04:32
+请阅读下列段落，并段落内容回答下列问题：
+一、隐身模式是对服务供应商隐身吗？（2分）
+二、总结隐身模式如何保护了你的隐私。（2分）
+火狐的隐身模式标签页说明
+You’re in a Private Window
+Firefox clears your search and browsing history when you quit the app or close all Private Browsing tabs and windows.** While this doesn’t make you anonymous to websites or your internet service provider**, it makes it easier to keep what you do online private from anyone else who uses this computer.﻿
+克鲁姆隐身模式标签页说明
+Now you can browse privately, and other people who use this device won’t see your activity. However, downloads and bookmarks will be saved. Learn more
+Chrome won’t save the following information:Your browsing history; Cookies and site data; Information entered in forms.
+**Your activity might still be visible to: Websites you visit; Your employer or school; Your internet service provider.**
+#quote yunbiaozhao
 
