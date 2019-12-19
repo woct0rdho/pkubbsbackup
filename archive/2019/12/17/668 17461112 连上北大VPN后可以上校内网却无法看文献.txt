@@ -1,0 +1,16 @@
+#t 668 17461112 rainbowow 2019-12-17 00:22:00 rainbowow 2019-12-18 00:12:00
+连上北大VPN后可以上校内网却无法看文献
+
+#p 21522756 rainbowow rainbowow 2019-12-17 22:16:35
+如题，在校生，在外地连接北大VPN，可以登录校内网站，但是打开文献（Sciencedirect）后仍然看不了全文，请问是什么原因呢？
+
+#p 21524090 PKUCC 北京大学计算中心 2019-12-18 09:08:44
+你好，
+请按照[https://its.pku.edu.cn/service_1_vpn.jsp](jump-to.php?url=https%3A%2F%2Fits.pku.edu.cn%2Fservice_1_vpn.jsp)里常见问题4检查是否成功登录VPN。
+经校内测试，sciencedirect里的部分PDF文档也是无法下载的，若VPN登录没问题，请咨询下图书馆。
+#quote rainbowow
+
+#p 21525244 rainbowow rainbowow 2019-12-18 12:22:58
+问题已经解决，谢谢老师！
+#quote PKUCC
+

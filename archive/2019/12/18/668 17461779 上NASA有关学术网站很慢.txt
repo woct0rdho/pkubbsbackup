@@ -1,0 +1,15 @@
+#t 668 17461779 landSKA 2019-12-18 00:10:00 landSKA 2019-12-18 00:12:00
+上NASA有关学术网站很慢
+
+#p 21524617 landSKA 懒懶嬾 2019-12-18 10:39:59
+如题，下载上面的数据也超级慢（比如[https://fermi.gsfc.nasa.gov](jump-to.php?url=https%3A%2F%2Ffermi.gsfc.nasa.gov)），打开梯子久好了。麻烦您排查一下原因。谢谢
+
+#p 21524982 PKUCC 北京大学计算中心 2019-12-18 11:36:40
+同学你好，
+经排查 nasa.gov 加载时会访问 youtube.com 相关API，因此导致加载缓慢，我们已将问题反馈给教育网。
+#quote landSKA
+
+#p 21525175 landSKA 懒懶嬾 2019-12-18 12:10:43
+感谢！
+#quote PKUCC
+

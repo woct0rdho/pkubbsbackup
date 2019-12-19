@@ -1,0 +1,71 @@
+#t 35 16982524 ChairmanJ 2019-02-26 00:16:00 Winsland 2019-12-16 00:09:00
+V2ray的域前置抗SNI嗅探方案
+
+#p 19648930 ChairmanJ 僵还是老的辣 2019-02-26 16:40:42
+
+
+2019-02-26 16:29:17
+参考：
+[https://docs.google.com/document/d/1lanYeQbELX7pytehvXO8SndZ0iGyivc2XopkMV5HWW0/edit?usp=sharing](jump-to.php?url=https%3A%2F%2Fdocs.google.com%2Fdocument%2Fd%2F1lanYeQbELX7pytehvXO8SndZ0iGyivc2XopkMV5HWW0%2Fedit%3Fusp%3Dsharing)
+[https://steemit.com/cn/@v2ray/sni](jump-to.php?url=https%3A%2F%2Fsteemit.com%2Fcn%2F%40v2ray%2Fsni)
+今天看见，就照着搭了一下,在pixiv和zh.wiki等网站上实验了一下，用是能用。就是局限性大了一些，仅限于被SNI阻断，但是没有被IP黑洞(or TCP阻断)的网站。
+试了一些网站，例如
+steamcommunity.com
+www.pixiv.net
+zh.wikipedia.org
+www.reddit.com
+pornhub.com
+等都是被SNI阻断封锁的。这些网站可以用域前置的方法，无需任何代理服务器就可以直连。
+如果你访问https网站，浏览器显示“连接已重置”（如附件），一般来说，你就是被TCP阻断了，而且很有可能就是被SNI嗅探识别了。
+但是目前很多网站主要是死于DNS污染+IP阻断，例如google，youtube等，并没有用到SNI阻断，对于这类网站，只需要找到一个无污染且能返回未被阻断的ip地址的DNS/hosts即可，域前置对于这类网站并没有用处。
+而且不是所有服务器都支持域前置。
+另一方面，实现中有MITM，需要信任自签发根证书，如果自签证书泄露，也会带来安全问题。
+所以我觉得这玩意儿用处不是很大（除非GFW全面放弃IP阻断）
+唯一的优势在于和改hosts方法一样，不需要任何第三方服务器即可。如果实在不想搭服务器翻墙，域前置v2ray作为hosts的扩展来说，还是具有一定价值的。
+另见：[https://github.com/bypass-GFW-SNI/main](jump-to.php?url=https%3A%2F%2Fgithub.com%2Fbypass-GFW-SNI%2Fmain)  另一个实现，原理相同
+
+#p 19650087 opteronx 从删库到跑路 2019-02-26 21:46:23
+这个自签证书的流量不上公网的吧，应该问题不大，有人获取数据的话都已经入侵你的电脑了
+不过其实更科学的方式是直接修改浏览器改域名？不知道chrome和Firefox的插件有没有这个权限
+#quote ChairmanJ
+
+#p 19650496 ChairmanJ 僵还是老的辣 2019-02-26 23:41:06
+应该不只是改域名吧，是要改TLS第一次握手时的SNI域名
+插件估计没有到发送TLS握手这一级的权限
+而且google本身也不太赞同域前置
+chrome插件大概也就以下这些权限了吧：
+[https://crxdoc-zh.appspot.com/apps/permission_warnings](jump-to.php?url=https%3A%2F%2Fcrxdoc-zh.appspot.com%2Fapps%2Fpermission_warnings)
+#quote opteronx
+
+#p 19651952 opteronx 从删库到跑路 2019-02-27 12:02:12
+但是插件本身至少有拦截代理的权限，其实只要让接收证书的校验部分仍然在chrome进程里，应该就好办
+#quote ChairmanJ
+
+#p 19652077 ChairmanJ 僵还是老的辣 2019-02-27 12:37:55
+
+
+2019-02-27 12:32:37
+有道理 插件似乎只要拦截第一个tls握手包 只更改SNI字段然后就行了
+#quote opteronx
+
+#p 19652418 MasterXJ Master 2019-02-27 13:37:32
+#quote opteronx
+Firefox的扩展可以修改HTTP头部的Host，Chrome不可以。
+下面两个文件组成的扩展就可以在Firefox里通过Domain fronting访问中文维基百科。
+{  "manifest_version": 2,  "name": "domain-fronting",  "version": "1.0",  "permissions": ["webRequest", "webRequestBlocking", "&lt;all_urls&gt;"],  "background": {"scripts": ["background.js"]}}
+a = "zh.wikipedia.org", b = "hi.wikipedia.org";function header(e) {  e.requestHeaders.forEach(function(h){    if (h.name.toLowerCase() == "host") h.value = a;  });  return {requestHeaders: e.requestHeaders};}function redirect(e) {return {redirectUrl: e.url.replace(a, b)};}browser.webRequest.onBeforeRequest.addListener(  redirect, {urls: ["https://"+a+"/*"]}, ["blocking"]);browser.webRequest.onBeforeSendHeaders.addListener(  header, {urls: ["https://"+b+"/*"]}, ["blocking", "requestHeaders"]);
+
+#p 19653395 ChairmanJ 僵还是老的辣 2019-02-27 17:39:27
+哇 666
+#quote MasterXJ
+
+#p 19673263 yuguorui yuguorui 2019-03-04 15:57:52
+这种在浏览器内解决的方案才有价值呀，666
+#quote MasterXJ
+
+#p 21514069 Winsland 四月为你而歌 2019-12-16 09:56:01
+firefox好像一年前就支持ESNI了（火狐还是强，：以天朝的尿性，怕是要禁止国内浏览器厂商支持ESNI）, 希望能规避SNI审查吧。
+虽然目前有人在包括USENIX等顶会上提倡将ESNI纳入新的TLS，但是如果服务器名称可以通过DNS通道泄漏，就没有太大意义了。
+'''从一个极端来说，ESNI背后的根本动机是让审查者陷入两难境地，他们要么审查所有ESNI流量，要么不审查任何流量[20]。因此，ESNI的成功关键取决于它的主要采用。更准确地说，ESNI应该在大量的日常TLS连接中使用，而不是专门用于规避。这样，为了达到规避目的，屏蔽相对较少的ESNI流量，审查人员不得不以破坏大量互联网服务为代价。尽管我们的实验显示，在排名前100万的网站中，有10.9%的网站支持ESNI，但截至2019年7月，只有不到0.01%的TLS-ClientHello消息包含ESNI扩展[9]。这强烈表明，在默认情况下，有更多的客户机和CDN提供商支持ESNI的重要性。'''
+#quote yuguorui
+

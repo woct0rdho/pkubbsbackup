@@ -1,0 +1,52 @@
+#t 35 17460279 chilianchan 2019-12-17 00:13:00 chilianchan 2019-12-18 00:13:00
+PKU邮箱注册office365教育版，使用onedrive 安全吗
+
+#p 21520030 chilianchan Irving Langmuir 2019-12-17 13:54:00
+PKU邮箱注册office365教育版，使用onedrive ，会被管理员删除账号或者偷看其中内容吗
+
+#p 21520032 chilianchan Irving Langmuir 2019-12-17 13:54:37
+顶
+#quote chilianchan
+
+#p 21520229 dvorah 尺蠖·德沃夏蛤 2019-12-17 14:30:51
+管理员不是自己么？
+#quote chilianchan
+
+#p 21520347 chilianchan Irving Langmuir 2019-12-17 14:50:05
+教育版的是免费1T大小，管理员好像是学校的某个账号
+#quote dvorah
+
+#p 21520686 thdzxc lx 2019-12-17 15:48:14
+mark
+#quote chilianchan
+
+#p 21521158 ChairmanJ 僵还是老的辣 2019-12-17 17:05:46
+
+
+2019-12-17 17:05:04
+管理员有权限删除账号或者重置你的密码
+所以存个人文件并不安全 
+但是能在设置里看出来有没有实际管理员的
+我记得至少去年 贵校还是没有联系微软官方来认领这个office管理员的
+#quote chilianchan
+
+#p 21522555 chilianchan Irving Langmuir 2019-12-17 21:32:28
+感谢
+#quote ChairmanJ
+
+#p 21522897 yangwang zsy 2019-12-17 22:57:30
+能看到这个“管理”说明暂无管理员认领，但仍建议将重要文件备份；另外可采用加密压缩方式加密隐私文件，一般文件也少有人会感兴趣。
+#quote chilianchan
+
+#p 21523578 iOcean 若为雄才 2019-12-18 03:41:44
+教育版onedrive吧不能部署oneindex或者pyone，可惜了
+#quote chilianchan
+
+#p 21525415 ysmintor YorkYu 2019-12-18 12:58:57
+PKU邮箱可以注册office365教育版？我之前申请过一直没通过呢，有链接吗
+#quote chilianchan
+
+#p 21525706 chilianchan Irving Langmuir 2019-12-18 13:45:07
+[https://signup.microsoft.com/signup?sku=student](jump-to.php?url=https%3A%2F%2Fsignup.microsoft.com%2Fsignup%3Fsku%3Dstudent)
+#quote ysmintor
+

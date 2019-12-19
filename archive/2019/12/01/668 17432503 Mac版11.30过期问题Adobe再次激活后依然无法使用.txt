@@ -1,7 +1,7 @@
-#t 668 17432503 wwyydd 2019-12-01 00:13:00 luckyjojoo 2019-12-13 22:33:00
+#t 668 17432503 wwyydd 2019-12-01 00:13:00 Wolf 2019-12-18 00:16:00
 Mac版11.30过期问题Adobe再次激活后依然无法使用
 
-#p 21426439 wwyydd !@# 2019-12-01 13:52:27
+#p 21426439 wwyydd ### 2019-12-01 13:52:27
 之前发布解决方案后我就已经下载激活了一次（图一），今天12.1再打开PDF文件的时候就发现过期没法用了，于是再次下载激活补丁重来，依然不行
 
 #p 21426452 pkusole 美国·圣地亚戈 2019-12-01 13:59:25
@@ -63,7 +63,7 @@ Mac版11.30过期问题Adobe再次激活后依然无法使用
 没有。那个Serialisation根本没用
 #quote DaPing
 
-#p 21434253 wwyydd !@# 2019-12-02 18:28:25
+#p 21434253 wwyydd ### 2019-12-02 18:28:25
 软件平台网站上已经更新了操作说明，亲测问题解决了！大家可以去尝试一下
 #quote wwyydd
 
@@ -99,4 +99,28 @@ Catalina系统的问题什么时候可以解决啊sigh
 #p 21502455 luckyjojoo lucky 2019-12-13 22:32:29
 麻烦联系adobe赶紧给个Catalina的解决方案吧。
 #quote PKUCC
+
+#p 21518972 pangguanOOOI 追风少年王二狗 2019-12-17 10:14:08
+求解决方案，现在每次看到升级提示都不知道应不应该升级Catalina
+#quote PKUCC
+
+#p 21519256 proton 西瓜球 2019-12-17 11:03:36
+求问Catalina的话怎么解决
+#quote PKUCC
+
+#p 21524899 JackieAA HapogHa9 2019-12-18 11:20:12
+求解决Catalina问题！！
+#quote wwyydd
+
+#p 21524976 pangguanOOOI 追风少年王二狗 2019-12-18 11:34:50
+sigh Catalina好捉急
+#quote PKUCC
+
+#p 21526313 MeowFET 场效应猫 2019-12-18 15:36:13
+同 Catalina，今天重启后突然就都打不开了……
+#quote wwyydd
+
+#p 21526788 Wolf Quantum 2019-12-18 16:44:21
+catalina系统的问题不准备解决了吗？
+#quote wwyydd
 

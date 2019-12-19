@@ -1,4 +1,4 @@
-#t 35 17437955 wobanwozou 2019-12-04 00:09:00 SarahyunHan 2019-12-09 16:17:00
+#t 35 17437955 wobanwozou 2019-12-04 00:09:00 dlxy 2019-12-18 00:15:00
 现在校外vpn到校内不能用ipv6了吗？
 
 #p 21444460 wobanwozou 牵手和放手　幸福和祝福 2019-12-04 09:47:27
@@ -8,5 +8,9 @@
 
 #p 21477453 SarahyunHan XiaoDingDang 2019-12-09 16:16:01
 同问
+#quote wobanwozou
+
+#p 21526215 dlxy lxy444 2019-12-18 15:20:24
+顶一下，发现确实不能用了，以前可以连接 VPN 之后上北邮人 BT 的，现在不行了
 #quote wobanwozou
 

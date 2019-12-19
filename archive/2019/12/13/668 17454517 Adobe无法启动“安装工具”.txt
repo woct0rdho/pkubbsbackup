@@ -1,4 +1,4 @@
-#t 668 17454517 xumosky 2019-12-13 22:56:00 derbin 2019-12-13 23:08:00
+#t 668 17454517 xumosky 2019-12-13 00:22:00 petrellzh 2019-12-18 00:11:00
 Adobe无法启动“安装工具”
 
 #p 21502543 xumosky 一座山 2019-12-13 23:05:16
@@ -15,4 +15,15 @@ Windows系统，第一次安装Adobe。
 #p 21502596 derbin 小柒 2019-12-13 23:07:55
 文件消失应该是被清理了。需要关闭windows defender smartscreen (安全中心-&gt; 应用和浏览器控制-&gt;关闭右侧的三个检查)
 #quote xumosky
+
+#p 21507011 xumosky 一座山 2019-12-14 20:05:17
+关闭了 但还是消失了......求方法
+#quote derbin
+
+#p 21524847 petrellzh petrellzh 2019-12-18 11:12:40
+
+
+2019-12-18 11:12:19
+adobe acrobat 下载后安装程序输入激活码显示错误，这个请问怎么处理？
+#quote PKUCC
 
