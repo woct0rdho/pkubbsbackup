@@ -1,4 +1,4 @@
-#t 35 17462828 yunbiaozhao 2019-12-18 00:21:00 SZMTR 2019-12-20 07:21:00
+#t 35 17462828 yunbiaozhao 2019-12-18 00:21:00 hiaoxui 2019-12-20 09:12:00
 使用SSR上YouTube是否可以被发现？
 
 #p 21528349 yunbiaozhao 蝶舞沧海 2019-12-18 21:04:40
@@ -64,5 +64,10 @@ Chrome won’t save the following information:Your browsing history; Cookies and
 
 #p 21535133 SZMTR 港铁(深圳)·心系生活每一程 2019-12-20 07:20:02
 这个版不能匿名啊
+#quote yunbiaozhao
+
+#p 21535364 hiaoxui 小辉 2019-12-20 09:11:53
+不管你开不开 incognito, 学校都不知道你在看什么. 开 incognito 只能减少你在自己设备上的记录.
+Youtube 不是法外之地!
 #quote yunbiaozhao
 
