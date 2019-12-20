@@ -1,4 +1,4 @@
-#t 35 17462828 yunbiaozhao 2019-12-18 00:21:00 hiaoxui 2019-12-20 09:12:00
+#t 35 17462828 yunbiaozhao 2019-12-18 00:21:00 rachelblah 2019-12-20 10:28:00
 使用SSR上YouTube是否可以被发现？
 
 #p 21528349 yunbiaozhao 蝶舞沧海 2019-12-18 21:04:40
@@ -69,5 +69,13 @@ Chrome won’t save the following information:Your browsing history; Cookies and
 #p 21535364 hiaoxui 小辉 2019-12-20 09:11:53
 不管你开不开 incognito, 学校都不知道你在看什么. 开 incognito 只能减少你在自己设备上的记录.
 Youtube 不是法外之地!
+#quote yunbiaozhao
+
+#p 21535618 keyes Celeborn 2019-12-20 10:12:31
+hhhhhh
+#quote hiaoxui
+
+#p 21535698 rachelblah 灰头绿 2019-12-20 10:28:08
+hhhhh你被监控了
 #quote yunbiaozhao
 
