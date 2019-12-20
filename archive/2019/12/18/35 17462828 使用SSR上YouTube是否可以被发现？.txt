@@ -1,4 +1,4 @@
-#t 35 17462828 yunbiaozhao 2019-12-18 00:21:00 Drifter 2019-12-20 00:05:00
+#t 35 17462828 yunbiaozhao 2019-12-18 00:21:00 SZMTR 2019-12-20 07:21:00
 使用SSR上YouTube是否可以被发现？
 
 #p 21528349 yunbiaozhao 蝶舞沧海 2019-12-18 21:04:40
@@ -60,5 +60,9 @@ Firefox clears your search and browsing history when you quit the app or close a
 Now you can browse privately, and other people who use this device won’t see your activity. However, downloads and bookmarks will be saved. Learn more
 Chrome won’t save the following information:Your browsing history; Cookies and site data; Information entered in forms.
 **Your activity might still be visible to: Websites you visit; Your employer or school; Your internet service provider.**
+#quote yunbiaozhao
+
+#p 21535133 SZMTR 港铁(深圳)·心系生活每一程 2019-12-20 07:20:02
+这个版不能匿名啊
 #quote yunbiaozhao
 
