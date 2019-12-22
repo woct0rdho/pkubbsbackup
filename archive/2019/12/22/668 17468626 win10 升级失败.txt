@@ -1,7 +1,12 @@
-#t 668 17468626 fbw 2019-12-22 14:57:00 fbw 2019-12-22 14:57:00
+#t 668 17468626 fbw 2019-12-22 14:57:00 PKUCC 2019-12-22 15:14:00
 win10 升级失败
 
 #p 21544921 fbw 小小狈 2019-12-22 14:56:42
 win10 安装升级失败，错误代码 0xC1900101 -0x30018
 不知道该怎么办？
+
+#p 21544973 PKUCC 北京大学计算中心 2019-12-22 15:13:09
+可查看微软给的解决方法
+[https://answers.microsoft.com/zh-hans/windows/forum/windows_10-update/win10](jump-to.php?url=https%3A%2F%2Fanswers.microsoft.com%2Fzh-hans%2Fwindows%2Fforum%2Fwindows_10-update%2Fwin10)升级卡在33/712fbbdf-4124-4847-ab77-a50cb154a61c
+#quote fbw
 
