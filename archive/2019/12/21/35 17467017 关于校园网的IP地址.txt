@@ -1,4 +1,4 @@
-#t 35 17467017 Color 2019-12-21 00:11:00 IlIl 2019-12-22 16:03:00
+#t 35 17467017 Color 2019-12-21 00:11:00 Color 2019-12-22 18:40:00
 关于校园网的IP地址
 
 #p 21540114 Color Colorful唐 2019-12-21 11:51:34
@@ -13,4 +13,9 @@
 #p 21545139 IlIl 王铁崖 2019-12-22 16:02:17
 校园网目前是不能直接链接Google的，仔细检查一下有没有使用代理。以及Google的这个定位不一定准确，曾经把我定位到朝鲜。具体查看ip可以用这个网站 [https://whatismyipaddress.com/](jump-to.php?url=https%3A%2F%2Fwhatismyipaddress.com%2F)
 #quote Color
+
+#p 21545696 Color Colorful唐 2019-12-22 18:39:25
+好的，谢谢~查了还是在北京！
+代理是啥？/捂脸
+#quote IlIl
 
