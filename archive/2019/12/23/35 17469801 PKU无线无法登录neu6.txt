@@ -1,7 +1,15 @@
-#t 35 17469801 stevezhang 2019-12-23 10:21:00 stevezhang 2019-12-23 10:21:00
+#t 35 17469801 stevezhang 2019-12-23 00:10:00 Winsn 2019-12-23 14:10:00
 PKU无线无法登录neu6
 
-#p 21548384 stevezhang shiGaRo 2019-12-23 10:21:34
-rt 是六维自己的问题？
+#p 21548384 stevezhang shiGaRo 2019-12-23 10:22:52
+
+
+2019-12-23 10:21:34
+rt [http://bt.neu6.edu.cn/forum.php](jump-to.php?url=http%3A%2F%2Fbt.neu6.edu.cn%2Fforum.php) 连接失败
+是六维自己的问题？
 PS：顺便求北邮人邀请码（捂脸
+
+#p 21549746 Winsn 哥德尔的耳朵 2019-12-23 14:09:37
+6维不能登录好几天了...等等吧，全国都这样
+#quote stevezhang
 
