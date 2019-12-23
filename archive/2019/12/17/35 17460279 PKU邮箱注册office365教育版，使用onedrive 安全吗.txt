@@ -1,4 +1,4 @@
-#t 35 17460279 chilianchan 2019-12-17 00:13:00 chilianchan 2019-12-18 00:13:00
+#t 35 17460279 chilianchan 2019-12-17 00:13:00 ChrisH 2019-12-23 20:00:00
 PKU邮箱注册office365教育版，使用onedrive 安全吗
 
 #p 21520030 chilianchan Irving Langmuir 2019-12-17 13:54:00
@@ -49,4 +49,8 @@ PKU邮箱可以注册office365教育版？我之前申请过一直没通过呢�
 #p 21525706 chilianchan Irving Langmuir 2019-12-18 13:45:07
 [https://signup.microsoft.com/signup?sku=student](jump-to.php?url=https%3A%2F%2Fsignup.microsoft.com%2Fsignup%3Fsku%3Dstudent)
 #quote ysmintor
+
+#p 21551568 ChrisH 北漠极光 2019-12-23 19:59:47
+好帖子，顶一下
+#quote chilianchan
 
