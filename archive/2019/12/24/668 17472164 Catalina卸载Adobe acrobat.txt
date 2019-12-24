@@ -1,4 +1,4 @@
-#t 668 17472164 pangguanOOOI 2019-12-24 00:15:00 manifecr 2019-12-24 16:57:00
+#t 668 17472164 pangguanOOOI 2019-12-24 00:15:00 pangguanOOOI 2019-12-24 21:17:00
 Catalina卸载Adobe acrobat
 
 #p 21604071 pangguanOOOI 追风少年王二狗 2019-12-24 15:32:09
@@ -16,4 +16,8 @@ Catalina卸载Adobe acrobat
 #p 21604634 manifecr say 2019-12-24 16:57:05
 那样第二次安装就会安装不上，多台MacBook测试都是，会提示installercheck error。adobe这样做是为了版权保护
 #quote PKUCC
+
+#p 21605752 pangguanOOOI 追风少年王二狗 2019-12-24 21:16:05
+我这边安装上了，但是显示需要登陆账户，现在在联系Adobe工程师。。。
+#quote manifecr
 
