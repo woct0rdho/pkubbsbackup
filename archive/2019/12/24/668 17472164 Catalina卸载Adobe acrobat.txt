@@ -1,0 +1,11 @@
+#t 668 17472164 pangguanOOOI 2019-12-24 15:32:00 PKUCC 2019-12-24 15:53:00
+Catalina卸载Adobe acrobat
+
+#p 21604071 pangguanOOOI 追风少年王二狗 2019-12-24 15:32:09
+看到正版软件平台上已经有了安装Adobe acrobat的方法：[http://software.pku.edu.cn/help/caHelpIndex.aspx](jump-to.php?url=http%3A%2F%2Fsoftware.pku.edu.cn%2Fhelp%2FcaHelpIndex.aspx)
+请问Catalina使用acrobat uninstaller进行卸载出现问题应如何处理
+
+#p 21604227 PKUCC 北京大学计算中心 2019-12-24 15:53:08
+不用这个卸载，从应用文件夹直接拖到垃圾桶就好了
+#quote pangguanOOOI
+
