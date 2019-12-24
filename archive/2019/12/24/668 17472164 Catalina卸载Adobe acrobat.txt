@@ -1,4 +1,4 @@
-#t 668 17472164 pangguanOOOI 2019-12-24 15:32:00 PKUCC 2019-12-24 15:53:00
+#t 668 17472164 pangguanOOOI 2019-12-24 00:15:00 manifecr 2019-12-24 16:57:00
 Catalina卸载Adobe acrobat
 
 #p 21604071 pangguanOOOI 追风少年王二狗 2019-12-24 15:32:09
@@ -8,4 +8,12 @@ Catalina卸载Adobe acrobat
 #p 21604227 PKUCC 北京大学计算中心 2019-12-24 15:53:08
 不用这个卸载，从应用文件夹直接拖到垃圾桶就好了
 #quote pangguanOOOI
+
+#p 21604338 pangguanOOOI 追风少年王二狗 2019-12-24 16:09:35
+好嘞~
+#quote PKUCC
+
+#p 21604634 manifecr say 2019-12-24 16:57:05
+那样第二次安装就会安装不上，多台MacBook测试都是，会提示installercheck error。adobe这样做是为了版权保护
+#quote PKUCC
 
