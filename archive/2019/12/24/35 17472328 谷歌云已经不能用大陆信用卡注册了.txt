@@ -1,7 +1,11 @@
-#t 35 17472328 zhbzhbzhbz 2019-12-24 16:50:00 zhbzhbzhbz 2019-12-24 16:50:00
+#t 35 17472328 zhbzhbzhbz 2019-12-24 00:16:00 liuxilai 2019-12-24 19:49:00
 谷歌云已经不能用大陆信用卡注册了
 
 #p 21604586 zhbzhbzhbz RedB 2019-12-24 16:49:38
 试了3张visa和mastercard都不行了，说需要Verification，然后提交了证件和卡面的照片也不给通过。
 刚找了个在国外的朋友，用美国的信用卡，一次成功
+
+#p 21605368 liuxilai Lewsley 2019-12-24 19:48:38
+同测试失败，扣了的钱退回来了。。
+#quote zhbzhbzhbz
 
