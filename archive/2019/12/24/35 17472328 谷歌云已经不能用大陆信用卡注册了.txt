@@ -1,4 +1,4 @@
-#t 35 17472328 zhbzhbzhbz 2019-12-24 00:16:00 liuxilai 2019-12-24 19:49:00
+#t 35 17472328 zhbzhbzhbz 2019-12-24 00:16:00 CoreM 2019-12-24 22:37:00
 谷歌云已经不能用大陆信用卡注册了
 
 #p 21604586 zhbzhbzhbz RedB 2019-12-24 16:49:38
@@ -7,5 +7,42 @@
 
 #p 21605368 liuxilai Lewsley 2019-12-24 19:48:38
 同测试失败，扣了的钱退回来了。。
+#quote zhbzhbzhbz
+
+#p 21606020 KakaHiguain 喵利国家生死以 2019-12-24 22:20:27
+是那个翻墙的工具吗
+#quote zhbzhbzhbz
+
+#p 21606041 zhbzhbzhbz RedB 2019-12-24 22:26:40
+嗯嗯 
+#quote KakaHiguain
+
+#p 21606051 KakaHiguain 喵利国家生死以 2019-12-24 22:30:18
+所以是一年之后换一张信用卡就OK？
+#quote zhbzhbzhbz
+
+#p 21606057 zhbzhbzhbz RedB 2019-12-24 22:31:22
+前提是你有非双币卡（中行的mastercard和visa都不行）
+#quote KakaHiguain
+
+#p 21606064 CoreM AMDYES 2019-12-24 22:33:01
+非双币卡，就是单币卡？
+#quote zhbzhbzhbz
+
+#p 21606071 zhbzhbzhbz RedB 2019-12-24 22:34:33
+据说全币种可以
+#quote CoreM
+
+#p 21606072 KakaHiguain 喵利国家生死以 2019-12-24 22:34:40
+我有三张美卡XD
+#quote zhbzhbzhbz
+
+#p 21606077 zhbzhbzhbz RedB 2019-12-24 22:35:09
+总之还是国外银行的信用卡方便，国内的更高级的信用卡我没试过，也说不准
+#quote CoreM
+
+#p 21606083 CoreM AMDYES 2019-12-24 22:36:52
+我有中行的visa，单币的芯片卡。
+不知道跟你的一不一样。
 #quote zhbzhbzhbz
 
