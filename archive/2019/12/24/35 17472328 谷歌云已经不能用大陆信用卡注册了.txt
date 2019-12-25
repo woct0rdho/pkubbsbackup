@@ -1,4 +1,4 @@
-#t 35 17472328 zhbzhbzhbz 2019-12-24 00:16:00 TA 2019-12-25 12:37:00
+#t 35 17472328 zhbzhbzhbz 2019-12-24 00:16:00 Sanho 2019-12-25 13:47:00
 谷歌云已经不能用大陆信用卡注册了
 
 #p 21604586 zhbzhbzhbz RedB 2019-12-24 16:49:38
@@ -92,4 +92,22 @@ google为什么要这么配合墙呢
 #p 21608071 TA TA 2019-12-25 12:36:46
 大概这就是是蝗虫过境，寸草不生吧……
 #quote zhbzhbzhbz
+
+#p 21608189 bbb Ich |  habe Schwein 2019-12-25 13:09:25
+我升级了正式版也没扣过钱啊，难道是我用的太少了。。。
+#quote zhbzhbzhbz
+
+#p 21608264 Smallst Fox loves sea. 2019-12-25 13:25:09
+谷歌大陆信用卡一直有问题吧
+当年买了个google home它发货后给我退款了emm
+#quote zhbzhbzhbz
+
+#p 21608324 Wolf Quantum 2019-12-25 13:36:05
+这个月初用大陆信用卡还可以
+#quote zhbzhbzhbz
+
+#p 21608376 Sanho Bearlover 2019-12-25 13:46:15
+Google对有fq需求的人已经很友好了，至少还能在github上找到fq工具的.apk文件。
+苹果才是最恶劣的，国区vpn全部下架，美区账号必须有真实的美国信用卡（以前不需要，现在要了）。
+#quote Alpher
 

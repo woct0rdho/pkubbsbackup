@@ -1,4 +1,4 @@
-#t 668 17472164 pangguanOOOI 2019-12-24 00:15:00 pangguanOOOI 2019-12-24 21:17:00
+#t 668 17472164 pangguanOOOI 2019-12-24 00:15:00 pangguanOOOI 2019-12-25 13:45:00
 Catalina卸载Adobe acrobat
 
 #p 21604071 pangguanOOOI 追风少年王二狗 2019-12-24 15:32:09
@@ -20,4 +20,12 @@ Catalina卸载Adobe acrobat
 #p 21605752 pangguanOOOI 追风少年王二狗 2019-12-24 21:16:05
 我这边安装上了，但是显示需要登陆账户，现在在联系Adobe工程师。。。
 #quote manifecr
+
+#p 21608314 Wolf Quantum 2019-12-25 13:34:23
+我也是需要登录，联系工程师三天了也没搞好
+#quote pangguanOOOI
+
+#p 21608368 pangguanOOOI 追风少年王二狗 2019-12-25 13:44:12
+握爪。。。
+#quote Wolf
 
