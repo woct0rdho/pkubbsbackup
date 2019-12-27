@@ -1,7 +1,7 @@
-#t 251 17357667 Masonry 2019-10-14 00:01:00 Masonry 2019-12-06 22:44:00
+#t 251 17357667 Masonry 2019-10-14 00:01:00 Masonry 2019-12-27 12:13:00
 译庞加莱的《科学的价值》
 
-#p 21091859 Masonry Magnum Chaos 2019-11-24 22:28:39
+#p 21091859 Masonry Magnum Chaos 2019-12-07 00:50:11
 
 
 2019-10-14 01:58:37
@@ -11,22 +11,24 @@
 从中节选两句我喜欢的话，为读者作示例：
 如果再继续引用下去，恐怕要把整本书引用上来了，请读者看下面的译文吧。
 **------目录------**
-**序言** 对事实的选择
+**序言** 事实的选择
         2楼 [https://bbs.pku.edu.cn/v2/post-read-single.php?bid=251&amp;postid=21091865](post-read-single.php?bid=251&amp;postid=21091865)
 **引言**
         13楼 [https://bbs.pku.edu.cn/v2/post-read-single.php?bid=251&amp;postid=21129681](post-read-single.php?bid=251&amp;postid=21129681)
 **第一部分 数学科学**
-1. 数学中的直觉与逻辑
+1. 数学中的直觉与逻辑 (共6节)
     I     15楼 [https://bbs.pku.edu.cn/v2/post-read-single.php?bid=251&amp;postid=21211679](post-read-single.php?bid=251&amp;postid=21211679)
     II    17楼 [https://bbs.pku.edu.cn/v2/post-read-single.php?bid=251&amp;postid=21225521](post-read-single.php?bid=251&amp;postid=21225521)
     III   21楼 [https://bbs.pku.edu.cn/v2/post-read-single.php?bid=251&amp;postid=21243927](post-read-single.php?bid=251&amp;postid=21243927)
     IV   22楼 [https://bbs.pku.edu.cn/v2/post-read-single.php?bid=251&amp;postid=21246571](post-read-single.php?bid=251&amp;postid=21246571)
     V    23楼 [https://bbs.pku.edu.cn/v2/post-read-single.php?bid=251&amp;postid=21250717](post-read-single.php?bid=251&amp;postid=21250717)
     VI   24楼 [https://bbs.pku.edu.cn/v2/post-read-single.php?bid=251&amp;postid=21266635](post-read-single.php?bid=251&amp;postid=21266635)
-2. 时间的测量
+2. 时间的测量 (共13节)
     I     38楼 [https://bbs.pku.edu.cn/v2/post-read-single.php?bid=251&amp;postid=21387548](post-read-single.php?bid=251&amp;postid=21387548)
     II    40楼 [https://bbs.pku.edu.cn/v2/post-read-single.php?bid=251&amp;postid=21387622](post-read-single.php?bid=251&amp;postid=21387622)
     III   41楼 [https://bbs.pku.edu.cn/v2/post-read-single.php?bid=251&amp;postid=21388093](post-read-single.php?bid=251&amp;postid=21388093)
+    IV   44楼 [https://bbs.pku.edu.cn/v2/post-read-single.php?bid=251&amp;postid=21463762](post-read-single.php?bid=251&amp;postid=21463762)
+    V    45楼 [https://bbs.pku.edu.cn/v2/post-read-single.php?bid=251&amp;postid=21465496](post-read-single.php?bid=251&amp;postid=21465496)
 3. 空间的观念
 4. 空间和它的三个维度
 **第二部分 物理科学**
@@ -41,12 +43,12 @@
 （对标题的翻译可能会再做更改）
 **------      ------**
 
-#p 21091865 Masonry Magnum Chaos 2019-11-24 23:07:01
+#p 21091865 Masonry Magnum Chaos 2019-12-07 00:50:24
 
 
 2019-10-14 02:02:28
 The Choice of Facts
-对事实的**选择 **
+事实的**选择 **
 Tolstoi somewhere explains why ‘science for its own sake’ is in his eyes an absurd conception. We can not know all facts, since their number is practically infinite. It is necessary to choose; then we may let this choice depend on the pure caprice of our curiosity; would it not be better to let ourselves be guided by utility, by our practical and above all by our moral needs; have we nothing better to do than counting the number of lady-bugs on our planet?        
 托尔斯泰曾提到，“只为科学的科学”在他眼中是一种荒谬的想法。**我们无法知悉所有的事实，因为事实的数目是无法穷尽的。**我们必须从中选择；或许，我们可以单凭好奇心的一时兴起来选择，又或者，可以按它们带来的效益做选择，以尽可能满足我们的生活的和道德的需求。毕竟，总该有些事比统计地球上瓢虫的数量更有意义吧？（注：这段所提到的Tolstoi是我们熟知的列夫·托尔斯泰）
 It is clear the word utility has not for him the sense men of affairs give it, and following them most of our contemperaries. Little cares he for industrial applications, for the marvels of electricity or of automobiles, which he regards rather as obstacles to moral progress; utility for him is solely what can make man better.         
@@ -126,18 +128,18 @@ Great...第一段中的Tolstoi应该就是托尔斯泰的英译名，但不确�
 感谢
 #quote Masonry
 
-#p 21112748 Kindness 立言立德 2019-10-18 15:40:56
+#p 21112748 Kindness 东冬咚 2019-10-18 15:40:56
 翻译这种东西真的好高深。
 #quote Masonry
 
-#p 21129681 Masonry Magnum Chaos 2019-12-05 04:35:51
+#p 21129681 Masonry Magnum Chaos 2019-12-07 00:59:37
 
 
 2019-10-21 22:32:23
 Introduction
 **引言**
 The search for truth should be the goal of our activities; it is the sole end worthy of them. Doubtless we should first bend our efforts to assuage human suffering, but why? Not to suffer is a negative ideal more surely attained by the annihilation of the world. If we wish more and more to free man from material cares, it is that he may be able to employ the liberty obtained in the study and contemplation of truth. 
-**对真理的追寻，应是我们生存的唯一目的**；唯有它，有如此的价值。无疑，我们应首先把精力倾注在减少人类苦难上。但，为什么？如果只是为了减少痛苦，那么直接毁灭整个世界难道不是更易达到这种否定式的理想吗？我们之所以希望人们能从物质的忧虑中解放出来，是因为唯有如此，他才能将自由用于对真理的研习和思考上。
+**对真理的追寻，应是我们生存的唯一目的**；唯有它，有如此的价值。无疑，我们应首先把精力倾注在减少人类苦难上。但，为什么？如果只是为了减少痛苦，那么直接毁灭整个世界难道不是更易达到这种否定式的理想吗？我们之所以希望人能从物质的忧虑中解放出来，是因为唯有如此，他才能将自由用于对真理的研习和思考上。
 But sometimes truths frightens us. And in fact we know that it is sometimes deceptive, that it is phantom never showing itself for a moment except to ceaselessly flee, that it must be pursued further and ever further without ever being attained. Yet to work one must stop, as some Greek, Aristotle or another, has said. We also know how cruel the truth often is, and we wonder whether illusion is not more consoling, yea, even more bracing, for illusion it is which gives confidence. When it shall have vanished, will hope remain and shall we have the courage to achieve? Thus would the horse harnessed to his treadmill refuse to go, were his eyes not bandaged? And then to seek truth it is necessary to be independent, wholly independent. If on the contrary we wish to act, to be strong, we should be united. This is why many of us fear truth; we consider it a cause of weakness. Yet truth should not be feared, for it alone is beautiful. 
 然而，真理却常让人感到恐惧。我们知道，真理常是欺骗性的——它是一个幽灵，在显现的一瞬间又立刻开始逃离，我们必须一刻也不停地追寻它，但却永远无法将它捕获。然而，Aristotle或某个希腊人却这样说：“为了工作，我们必须停留”。我们也知道，真理常是残忍的，而错觉可能更让人心安；错觉也更振奋人心，因为，是错觉给了我们自信。倘若没有这种自信，我们真的还能保留任何希望吗？我们还会有勇气去实现这些希望吗？试想，如果马的眼睛没有被蒙蔽，那他还会愿意继续推动他的踏车吗？再者，追寻真理的人必须独立，而且必须是彻底的独立。然而，为了行动、为了变得强大，我们就必须联合在一起。这或许就是多数人恐惧真理的原由——他们把真理看作虚弱的来源。然而我们不应恐惧真理，因为世上**只有真理是美的**。
 When I speak here of truth, assuredly I refer first to scientific truth; but I also mean moral truth, of which what we call justice is only one aspect. It may seem that I am misusing words, that I combine thus under the same name two things having nothing in common; That scientific truth, which is demonstrated, can in no way be likened to moral truth, which is felt. And yet I can not separate them, and whosoever loves the one can not help loving the other. To find the one, as well as to find the other, it is necessary to free the soul completely from prejudice and from passion; it is necessary to attain absolute sincerity. These two sorts of truth when discovered give the same joy; each when perceived beams with the same splendor, so that we must see it or close our eyes. Lastly, both attract us and flee from us; they are never fixed: when we think to have reached them, we find that we have still to advance, and he who pursues them is condemned never to know repose. It must be added that those who fear the one will also fear the other; for they are the ones who in everything are concerned above all with consequences. In a word, I liken the two truths, because the same reasons makes us love them and because the.same reasons makes us love them and because the same reasons make us fear them. 
@@ -176,7 +178,7 @@ Does the harmony the human intelligence thinks it discovers in nature exist outs
 下一篇开始进入数学科学的部分，讲的是数学中的直觉与逻辑这两种思考模式。这种思维倾向的差异在数学家身上是很明显的，对数学感兴趣的同学尤其应该一读（陶哲轩曾在博客中推荐此文）。
 用Poincaré自己的引言来介绍：
 
-#p 21211679 Masonry Magnum Chaos 2019-11-06 17:29:25
+#p 21211679 Masonry Magnum Chaos 2019-12-17 12:46:24
 
 
 2019-10-27 15:24:58
@@ -201,15 +203,15 @@ Doubtless Professor Klein well knows he has given here only a sketch: neverthele
 Again, permit me to compare two men, the honor of French science, who have recently been taken from us, but who both entered long ago into immortality. I speak of M. Bertrand and M. Hermite. They were scholars of the same school at the same time; they had the same education, were under the same influences; and yet what a difference! Not only does it blaze forth in their writings; it is in their teaching, in their way of speaking, in their very look.  In the memory of all their pupils these two faces are stamped in deathless lines, this remembrance is still fresh; it is easy for us to evoke it. 
 下面 ，请允许我比较两个人，他们是法国科学的荣耀。最近，他们被从我们身边带走，但他们其实早已永垂不朽。我指的是Bertrand和Hermite。这两位学者同时处在同一所学院；他们有相同的教育，受相同的影响；然而，他们是多么地不同啊！这差异，不仅在他们的作品中迸发出来；还体现在他们的授课上，他们说话的方式上，甚至是他们的外表上。在他们的学生的记忆中，这两张脸已用无法抹去的线条铭刻下来了，至今犹新；我们很容易就能回想起他们间的差别。
 While speaking, M. Bertrand is always in motion; now he seems in combat with some outside enemy, now he outlines with a gesture of the hand the figures he studies. Plainly he sees and he is eager to paint, this is why he calls gesture to his aid. With M. Hermite, it is just the opposite; his eyes seem to shun contact with the world; it is not without, it is within he seeks the vision of truth. 
-当Bertrand在说话时，他常常是运动的；他一会儿好像在与外界的敌人战斗，一会儿又突然用手势勾画出他所研究的图像。总之，**他看见了什么，并且总渴望把它们画出来**，这就是他总用手势作辅助的原因。然而，Hermite则是截然相反的；他的眼睛好像躲避着与外界的接触；**他不是在外界，而是在内心中寻求对真理的视觉**。
+Bertrand先生说话时，总是运动着的；他一会儿像在与外界的敌人战斗，一会儿又突然用手势勾画出他所研究的图像。总之，**他看见了什么，并且总渴望把它们画出来**，这就是他总用手势作辅助的原因。然而，Hermite则是截然相反的；他的眼睛好像躲避着与外界的接触；**他不是在外界，而是在内心中寻求对真理的视觉**。
 Among the German geometers of this century, two names above all are illustrious,  those of the two scientists who have founded the general theory of functions, Weierstrass and Riemann. Weierstrass leads everything back to the consideration of series and their analytic transformations; to express it better, he reduces analysis to a sort of prolongation of arithmetic; you may turn through all his books without finding a figure. Riemann, on the contrary, at once calls geometry to his aid; each of his conceptions is an image that no one can forget, once he has caught its meaning. 
 在本世纪的所有德国几何学家中，有两个名字最为耀眼，那就是创造了函数的一般理论的两个数学家，Weierstrass和Riemann。Weierstrass将所有问题都转变为对级数和解析变换的思考；更准确的说，他把分析简化成了算数的某种延伸；翻遍他的所有书，你也找不到一张图。而Riemann则和他相反，他几乎立刻就把几何唤来作他的助手；他的每个观念都是一幅图像，一旦掌握它的含义，你就再也无法忘却。
 More recently, Lie was an intuitionalist; this might have been doubted in reading his books, no one could doubt it after talking with him; you saw at once that he thought in pictures. Madame Kovalevski was a logician. 
 更近一些的数学家中，Lie是一个直觉者；也许你看他的书的时候不这样想，但一旦你和他谈话，对此就不会怀疑了；你会立刻发现，他是用图画思考的。Kovalevski女士则是一个逻辑者。
 Among our students we notice the same differences; some prefer to treat their problems ‘by analysis’, others ‘by geometry’. The first are incapable of ‘seeing in space’, the others are quickly tired of long calculations and become perplexed. 
-在我们的学生中，也能看到相同的差别；有些学生偏爱“用分析”去解决问题，另外一些人则“用几何”。前者无法“看到空间”，而后者则在接连的计算中，很快就变得疲劳而困惑。
+在我们的学生中，也能看到相同的差别；有些学生偏爱“用分析”去解决问题，另外一些人则“用几何”。前者无法“看到空间”，而后者在接连的计算中很快就感到厌烦、变得迷惑。
 The two sorts of minds are equally necessary for the progress of science; both the logicians and the intuitionalists have achieved great things that others could not have done. Who would venture to say whether he preferred that Weierstrass had never written or that there had never been a Riemann? Analysis and synthesis have then both their legitimate roles. But it is interesting to study more closely in the history of science the part which belongs to each. 
-**这两种心智，对科学的发展是同样必要的**；逻辑者和直觉者都做到了对方不能做到的事情。谁敢说，他宁愿Weierstrass从没写过他的著作，或世上从没有一个Riemann？**分析**与**合成**，有着各自应当的角色。不过，在科学史的情境下更仔细地研究它们的职责，会是一件有意思的事情。
+**这两种心智，对科学的发展是同样必要的**；逻辑者和直觉者都做到了对方不能做到的事情。谁敢说，他宁愿Weierstrass从没写过他的著作，或世上从没有一个Riemann？**分析**与**合成**，有着各自应当的角色。不过，在科学史中进一步研究它们各自的职责将会是有趣的。
 （I 译完）
 
 #p 21215720 Masonry Magnum Chaos 2019-10-28 10:51:53
@@ -219,7 +221,7 @@ The two sorts of minds are equally necessary for the progress of science; both t
 “数学中的直觉和逻辑”的I部分已译完，因为后面一篇文章的篇幅较长，而且作者已将文章分成小的部分，我将每段都另回一贴，这也是为方便读者阅读。
 在数学中，直觉和逻辑的张力是最值得注意的事情了。庞加莱在以上文中举了一些著名数学家作为例子，具有相当的启发性。因此，再次推荐“数学中的直觉和逻辑”这篇文章。
 
-#p 21225521 Masonry Magnum Chaos 2019-11-06 17:28:59
+#p 21225521 Masonry Magnum Chaos 2019-12-17 12:51:00
 
 
 2019-10-29 20:38:19
@@ -228,11 +230,11 @@ Intuition and logic in mathematics
 **II**
 **二**
 Strange! If we read over the works of the ancients we are tempted to class them all among the intuitionalists. And yet nature is always the same; it is hardly probable that it has begun in this century to create minds devoted to logic. If we could put ourselves into the flow of ideas which reigned in their time, we should recognize that many of the old geometers were in tendency analysts. Euclid, for example, erected a scientific structure wherein his contemporaries could find no fault. In this vast construction, of which each piece however is due to intuition, we may still to-day without much effort, recognize the work of a logician.
-奇怪！若去读早期数学家的著作，我们会觉得他们都是直觉者。然而，自然从那时到现在无甚变化；要说自然在本世纪才开始创造擅长逻辑的心智，实在不太可能。如果身处于当时的思想源流中，我们会发现，那时就有许多几何学家具有分析学家的倾向。比如，欧几里得构筑的那个科学结构，在他的时代看起来是无可挑剔的。在这个宏伟的建构中，每一个部件都依直觉产生，但这在今天看来无疑是个逻辑者的杰作。
+奇怪！若去读早期数学家的著作，我们可能认为他们都是直觉者。然而，自然总是不变的；要说大自然在这世纪才开始创造擅长逻辑的心智，实在不太可能。如果身处于当时的思想源流中，我们会发现，那时就有许多几何学家具有分析学家的倾向。比如，欧几里得构筑的那个科学结构，在他的时代看起来是无可挑剔的。在这个宏伟的建构中，每一个部件都依直觉产生，但这在今天看来无疑是个逻辑者的杰作。
 It is not minds that have changed, it is ideas; the intuitional minds have remained the same; but their readers have required of them greater concessions. 
 **改变的并非心智，而是想法；直觉的心智仍和原来一样；不过，如今读者却要求他们作出更多退让。**
 What is the cause of this evolution? It is not hard to find. Intuition can not give us rigor, nor even certainty; this has been recognized more and more. Let us cite some examples. We know there exist continuous functions lacking derivatives. Nothing is more shocking to intuition than this proposition which is imposed upon us by logic. Our fathers would not have failed to say:”It is evident that every continuous function has a derivative, since every curve has a tangent.”
-是什么引起了这种演化？这不难回答。**因为直觉不能给我们严格性，甚至连确定性也不能保证；**这一点，我们近来看得愈发清楚。让我举几个例子。我们知道，存在着一个不可导的连续函数。没有什么比这更令我们的直觉震惊了，但这结论正是逻辑强加于我们的。我们的父辈却会毫不顾忌地说：“显然，每个连续函数均有导函数，因为每条曲线都有切线。”
+是什么引起了这种演化？这不难回答。**因为直觉不能给我们严格性，甚至连确定性也不能保证；**这一点，我们看得愈发清楚。让我举几个例子。我们知道，存在一个不可导的连续函数。没什么比这更让我们的直觉惊讶了，而这一结论却也正是逻辑强加给我们的。我们的父辈却会毫不顾忌地说：“显然，每个连续函数均有导函数，因为每条曲线都有切线。”
 How can intuition deceive us on this point? It is because when we seek to imagine a curve, we can not represent it to ourselves without width; just so, when we represent to ourselves a straight line, we see it under the form of a rectilinear band of a certain breadth. We well know these line have no width; we try to imagine them narrower and narrower and thus to approach the limit; so we do in a certain measure, but we shall never attain this limit. And then it is clear we can always picture these two narrow bands, one straight, one curved, in a position such that they encroach slightly one upon the other without crossing. We shall thus be led, unless warned by a rigorous analysis, to conclude that a curve always has a tangent. 
 为什么直觉会在这一问题上欺骗我们？这是因为，我们在想象中画出一条曲线时，无法将它真正地表示为无宽度的曲线；同理，在想象直线时，我们看到的也是一个具宽度的直线。我们心中知道，这些线条没有宽度；因此我们把它想象得越来越细以趋近一个极限；我们可以做到某个程度，但却永不能真正达到这个极限。到此，事情已经清楚了：当我们想象的是一直一弯两个细带，当然可以使它们刚好触碰而不至于穿过彼此。若没有严格的分析学作为警戒，我们就会断言：每个曲线都有切线。
 I shall take as second example Dirichlet’s principle on which rest so many theorems of mathematical physics; to-day we establish it by reasonings very rigorous but very long; heretofore, on the contrary, we were content with a very summary proof. A certain integral depending on an arbitrary function can never vanish. Hence it is concluded that it must have a minimum. The flaw in this reasoning strikes us immediately, since we use the abstract term function and are familiar with all the singularities functions can present when the word is understood in the most general sense. 
@@ -247,7 +249,7 @@ So, in the case of incommensurable numbers. The vague idea of continuity, which 
 事情对不可通约数而言，也是如此。连续性的模糊概念，是从我们的直觉而来的，而它最终被确定为一组涉及自然数的复杂不等式得以解决。
 （注：whole numbers，其实是我们说的自然数：0, 1, 2, 3, 4... ）
 By that means the difficulties arising from passing to the limit, or from the consideration of infinitesimals, are finally removed. Today in analysis only whole numbers are left or systems, finite or infinite, of whole numbers bound together by a net of equality or inequality relations. Mathematics, as they say, is arithmetized. 
-以这种方式，我们终于解决了那些因趋向极限或考虑无穷小量造成的困难。今天，分析学中只剩下自然数，以及由等式与不等式共同约束而成的自然数系统。他们说，**数学被算术化了**。
+以这种方式，我们终于解决了那些因趋向极限或考虑无穷小量造成的困难。今天，分析学中只剩下自然数，以及由等式与不等式共同约束而成的自然数系统。如人们所说，**数学被算术化了**。
 (II 译完)
 
 #p 21227672 Masonry Magnum Chaos 2019-10-30 01:29:36
@@ -346,7 +348,7 @@ Thus logic and intuition have each their necessary role. Each is indispensable. 
 （V 译完）
 （参考了@Miky的翻译，再次感谢）
 
-#p 21266635 Masonry Magnum Chaos 2019-11-14 00:00:42
+#p 21266635 Masonry Magnum Chaos 2019-12-17 12:59:58
 
 
 2019-11-05 18:03:03
@@ -357,7 +359,7 @@ Intuition and logic in mathematics
 But at the moment of formulating this conclusion I am seized with scruples. At the outset I distinguished two kinds of mathematical minds, the one sort logicians and analysts, the others intuitionalists and geometers. Well, the analysts also have been inventors. The names I have just cited make my insistence on this unnecessary. 
 然而，就在得到结论的一刻，我被一些疑虑困扰了。一开始，我将数学心智分为两类：一类是逻辑者和分析学家，另一类是直觉者和几何学家。当然**，分析学家中也有不少数学的创造者。**这一点，只需回想我前文提过的那些名字就不言而喻了。
 Here is a contradiction, at least apparently, which needs explanation. And first, do you think these logicians have always proceeded from the general to the particular, as the rules of formal logic would seem to require of them? Not thus could they have extended the boundaries of science; scientific conquest is to be made only by generalization. 
-这看起来是个矛盾，因此我需要进一步解释。首先，难道你觉得逻辑者都是按照形式逻辑的规则从一般推及具体的吗？假如真是这样，那么逻辑者就不可能延伸科学的边界了；**因为只有泛化能让科学前进。**
+这是个矛盾，至少看起来是，因此我需要进一步解释。首先，难道你觉得逻辑者都是按照形式逻辑的规则从一般推及具体的吗？假如真是这样，那么逻辑者就不可能延伸科学的边界了；**因为只有泛化能让科学前进。**
 In one of the chapters of ‘Science and Hypothesis’, I have had occasion to study the nature of mathematical reasoning, and I have shown how this reasoning, without ceasing to be absolutely rigorous, could lift us from the particular to the general by a procedure I have called mathematical induction. It is by this procedure that the analysts have made science progress, and if we examine the detail itself of their demonstrations, we shall find it there at each instant beside the classic syllogism of Aristotle. We, therefore, see already that the analysts are not simply makers of syllogisms after the fashion of the scholastics. 
 在“科学与假设”的某一章中，我曾论及数学推理的本质，我还说明了这种推理如何在不失严格性的前提下把我们从具体提升到一般，我称这方法为“数学归纳法”。通过这一方法，分析学家们不断推进着科学前进。如果我们仔细研读他们的论证，会发现数学归纳法与亚里士多德的三段论一样随处可见。因此我们看到，分析学家并不像经院学者那样只知道制造三段论。
 Besides, do you think they have always marched step by step with no vision of the goal they wished to attain? They must have divined the way leading thither, and for that they needed a guide. This guide is, first, analogy. For example, one of the methods of demonstration dear to analysts is that founded on the employment of dominant functions. We know it has already served to solve a multitude of problems; in what consists then the role of the inventor who wishes to apply it to a new problem? At the outset he must recognize the analogy of this question with those which have already be solved by this method; then he must perceive in what way this new question differs from the others, and thence deduce the modifications necessary to apply the methods. 
@@ -373,7 +375,7 @@ No, our distinction corresponds to something real. I have said above that there 
 Is the abyss which separates them less profound than it first appeared? Could we recognize with a little attention that this pure intuition itself could not do without the aid of the senses? This is the affair of the psychologist and the metaphysician and I shall not discuss the question. But the thing’s being doubtful is enough to justify me in recognizing and affirming an essential difference between the two kinds of intuition; they have not the same object and seem to call into play two different faculties of our soul; one would think of two search-lights directed upon two worlds strangers to one another. 
 这个深渊是不是并不像初看之下那般不可逾越？**如果我们稍加注意，会不会发现这种纯数的直觉也同样要求感官的帮助？**这就是心理学家和形而上学家关心的事了，我在此不再多提。不过，我们的这种疑问就已足以说明这两种直觉中存在着根源上的区别；它们的对象不同，而且似乎运用了我们灵魂中的不同官能；它们就像两盏探灯，分别照向两个不相往来的世界。
 It is the intuition of pure number, that of pure logical forms, which illumines and directs those we have called analysts. This it is which enables them not alone to demonstrate, but also to invent. By it they perceive at a glance the general plan of a logical edifice, and that too without the senses appearing to intervene. In rejecting the aid of the imagination, which, as we have seen, is not always infallible, they can advance without fear of deceiving themselves. Happy, therefore, are those who can do without this aid! We must admire them; but how rare they are!
-**正是这种纯数的直觉、逻辑形式的直觉，照亮了分析学世界，指引着分析学家前进。**这种直觉使分析学家不仅能论证，还能创造。通过这种直觉，他们能够在远处就看见逻辑大厦的全景，而这个本领看似没有感官的参与。他们拒绝了有时并不可靠的想象的辅助，因而可以无所畏惧的前进，而无需担心自己被想象欺骗。真幸福，那些无需这种辅助的人！我们应当崇拜他们，但他们是多么罕见！
+**正是这种纯数的直觉、逻辑形式的直觉，照亮了分析学的世界，指引着分析学家前进。**这种直觉使分析学家不仅能论证，还能创造。通过这种直觉，他们能够在远处就看见逻辑大厦的全景，而这个本领看似没有感官的参与。他们拒绝了有时并不可靠的想象的辅助，因而可以无所畏惧的前进，而无需担心自己被想象欺骗。真幸福，那些无需这种辅助的人！我们应当崇拜他们，但他们是多么罕见！
 Among the analysts there will then be inventors, but they will be few. The majority of us, if we wished to see afar by pure intuition alone, would soon feel ourselves seized with vertigo. Our weakness has need of a staff more solid, and, despite the exceptions of which we have just spoken, it is none the less true that sensible intuition is in mathematics the most usual instrument of invention. 
 因此，在分析学家中也会有创造者，但数目不多。我们大多数人，如果尝试通过纯直觉眺望远方，很快就会发现自己陷入眩晕之中。我们的弱点迫使我们用一根更坚固的拐杖。虽说也有刚才提及的那些例外，但感官的直觉仍是数学中最常见的发明的器具。
 Apropos of these reflections, a question comes up that I have not the time either to solve or even to enunciate with the developments it would admit of. Is there room for a new distinction, for distinguishing among the analysts those who above all use this pure intuition and those who are first of all preoccupied with formal logic?
@@ -472,7 +474,7 @@ deduction是演绎（是完全的） induction叫归纳（是不完全的）
 这几周更新会比较缓慢，请各位读者多包涵，谢谢。
 #quote lyshv
 
-#p 21387548 Masonry Magnum Chaos 2019-11-24 22:20:10
+#p 21387548 Masonry Magnum Chaos 2019-12-07 01:00:51
 
 
 2019-11-24 20:35:44
@@ -481,7 +483,7 @@ The measure of time
 **I**
 **一**
 So long as we do not go outside the domain of consciousness, the notion of time is relatively clear. Not only do we distinguish without difficulty present sensation from the remembrance of past sensations or the anticipation of future sensations, but we know perfectly well what we mean when we say that, of two conscious phenomena which we remember, one was anterior to the other; or that, of two foreseen conscious phenomena, one will be anterior to the other.
-只要我们不走出意识的范围，时间的观念就还算相对清楚。我们不仅可以辨别此刻的知觉和过去的回忆，还能将此刻的知觉与对未来知觉的预期分辨。而且，当我们说在意识中发生过的两个现象有前后之分，或者说在意识中预见的两个现象有前后之分时，我们无疑能明白自己是什么意思。
+只要我们不走出意识的范围，时间的观念就还算相对清楚。我们不仅可以辨别此刻的知觉和过去的回忆，还能分辨此刻的知觉与对未来知觉的预期。而且，当我们说在意识中发生过的两个现象有前后之分，或者说在意识中预见的两个现象有前后之分时，我们无疑能明白自己是什么意思。
 When we say that two conscious facts are simultaneous, we mean that they profoundly interpenetrate, so that analysis can not separate them without mutilating them. 
 当我们说意识中的两个事实同时发生，其实是在说，这两个现象互相渗透的相当彻底，以至于我们无法通过分析将之分离。
 The order in which we arrange conscious phenomena does not admit of any arbitrariness. It is imposed upon us and of it we can change nothing.
@@ -511,20 +513,20 @@ Therefore two difficulties: (1) Can we transform psychologic time, which is qual
 所以，有两重困难：（1）我们能否将定性的心理时间转化为一种定量的时间？（2）我们能否将散布于不同世界的事实化简为一种通用的测量方式？
 (II 译完)
 
-#p 21388093 Masonry Magnum Chaos 2019-11-25 00:05:59
+#p 21388093 Masonry Magnum Chaos 2019-12-07 00:52:40
 
 
 2019-11-24 21:52:19
 The measure of time
 时间的测量
-III
-三
+**III**
+**三**
 The first difficulty has long been noticed; it has been the subject of long discussions and one may say the question is settled. We have not a direct intuition of the equality of two intervals of time. The persons who believe they possess this intuition are dupes of an illusion. When I say, from noon to one the same time passes as from two to three, what meaning has this affirmation?
-前一种困难早已被注意到了；人们关于这一论题进行了许多探讨，我们可以说这问题已解决了。我们没有关于时长相等的直觉。那些自以为有这一直觉的人，不过是错觉的受害者罢了。当我说“自正午至一点的时长与自二点至三点的时长相同”，这句话表明了什么意思？
+前一种困难早已被注意到了；人们关于这一论题进行了许多探讨，我们可以说这问题已解决了。**我们没有关于时长相等的直觉。**那些自以为有这一直觉的人，不过是错觉的受害者罢了。当我说“自正午至一点的时长与自二点至三点的时长相同”，这句话表明了什么意思？
 The least reflection shows that by itself it has none at all. It will only have that which I choose to give it, by a definition which will certainly possess a certain degree of arbitrariness. Psychologists could have done without this definition; physicists and astronomers could not; let us see how they have managed. 
 只要稍加思索，我们就认清这句话没有任何含义。它只有我选择给它的含义，而这是由我们的定义决定的，因此它必定带有一定程度的任意性。即使没有这个定义，心理学家也不受多少影响，但物理学家和天文学家就不行了；让我们看看他们是怎么应对这个问题的。
 To measure time they use the pendulum and they suppose by definition that all the beats of this pendulum are of equal duration. But this is only a first approximation; the temperature, the resistance of the air, the barometric pressure, make the pace of the pendulum vary. If we could escape these sources of error, we should obtain a much closer approximation, but it would still be only an approximation. New causes, hitherto neglected, electric, magnetic or others, would introduce minute perturbations. 
-为测量时间，他们采用了钟摆，并假定钟摆一拍的时长是固定的。然而，这只是粗略的初步近似而已；温度、空气阻力、气压都会改变钟摆的步伐。如果我们能逃离这些误差，我们就得到了一个更精确的近似，但这仍仅仅是近似。那些我们尚未注意到的因素（比如电磁效应或其他效应），仍会引入微小的扰动。
+**为测量时间，他们采用了钟摆，并假定钟摆一拍的时长是固定的。然而，这只是粗略的初步近似而已；**温度、空气阻力、气压都会改变钟摆的步伐。如果我们能逃离这些误差，我们就得到了一个更精确的近似，但这仍仅仅是近似。那些我们尚未注意到的因素（比如电磁效应或其他效应），仍会引入微小的扰动。
 In fact, the best chronometers must be corrected from time to time, and the corrections are made by the aid of astronomic observations; arrangements are made so that the sidereal clock marks the same hour when the same star passes the meridian. In other words, it is the sidereal day, that is, the duration of the rotation of the earth, which is the constant unit of time. It is supposed, by a new definition substituted for that based on the beats of the pendulum, that two complete rotations of the earth about its axis have the same duration.
 实际上，即使最精密的计时器也需要不断的更正，更正的依据是天文观测；这种更正使得同一星体每次跨过子午线时，恒星时钟都指向同一时刻。换言之，恒星时间——也就是地球自转一周的时长——是我们的不变的时间单位。我们用这一新定义替换基于钟摆的旧定义时，相当于假设了地球的两次完整自转时长相同。
 However, the astronomers are still not content with this definition. Many of them think that the tides act as a check on our globe, and that the rotation of the earth is becoming slower and slower. Thus would be explained the apparent acceleration of the motion of the moon, which would seem to be going more rapidly than theory permits because our watch, which is the earth, is going slow. 
@@ -539,20 +541,20 @@ However, the astronomers are still not content with this definition. Many of the
 插个楼，支持一下
 #quote Masonry
 
-#p 21463762 Masonry Magnum Chaos 2019-12-06 18:31:20
+#p 21463762 Masonry Magnum Chaos 2019-12-07 00:54:18
 
 
 2019-12-06 15:26:23
 The measure of time
 时间的测量
-IV
-四
+**IV**
+**四**
 All this is unimportant, one will say; doubtless our instruments of measurement are imperfect, but it suffices that we can conceive a perfect instrument. This ideal can not be reached, but it is enough to have conceived it and so to have put rigor into the definition of the unit of time. 
 有些人会认为：“这些都不重要，我们的测量仪器不是完美的，但只要我们可以想象一个完美的仪器就可以了。这种理想不能被达到，但只要我们可以设想它的存在，那我们就在单位时间的定义中达到了严格。”
 The trouble is that there is no rigor in the definition. When we use the pendulum to measure time, what postulate do we implicitly admit? It is that the duration of two identical phenomena is the same; or, if you prefer, that the same causes take the same time to produce the same effects. 
-然而，问题恰恰在于这个定义中是没有严格性的。当我们用钟摆测量时间时，我们是不是隐含了一个假定？这个假定是，两个相同的现象的时间长度是相同的；或者可以这样说，相同的原因导致相同的结果花费的时间相等。
+然而，问题恰恰在于这个定义中并没有严格性。**当我们用钟摆测量时间时，我们是不是隐含了一个假定？这个假定是，两个相同的现象的时间长度是相同的；或者可以这样说，相同的原因导致相同的结果所用的时间相等。**
 And at first blush, this is a good definition of the equality of two durations. But take care. Is it impossible that experiment may some day contradict our postulate?
-初看之下，这个对时长相等的定义已经足够好了。但请注意，实验会不会有朝一日与这一假定相悖呢？
+初看之下，这个对时长相等的定义已经足够好了。**但请注意，实验会不会有朝一日与这一假定相悖呢？**
 Let me explain myself. I suppose that at a certain place in the world the phenomenon α happens, causing a consequence at the end of a certain time the effect α’. At another place in the world very far away the first, happens the phenomenon β, which causes as consequence the effect β’. The phenomena α and β are simultaneous, as are also the effects α’ and β’.
 请容我进一步解释。我假设了，在世界的某处一个现象发生了现象α，在一段时间后导致了结果α’。在遥远的另一处地方发生了现象β，导致了结果β‘。现象α和现象β是同时的，他们的导致的效应α’和β’也同时发生。
 Later, the phenomenon α is reproduced under approximately the same conditions as before, and simultaneously the phenomenon β is also reproduced at a very distant place in the world and almost under the same circumstances. The effects α’ and β’ also take place. Let us suppose that the effect α’ happens perceptibly before the effect β’.
@@ -563,25 +565,47 @@ Now can we affirm that the hypotheses I have just made are absurd? They are in n
 我们是否可以断言刚才做的假设是荒谬的？它们和矛盾律并无甚差别，它们若成立似乎必定违背充足理由律。然而，对于如此根本的定义，我希望有一些其它的保障。
 (IV 译完)
 
-#p 21465496 Masonry Magnum Chaos 2019-12-06 22:44:07
+#p 21465496 Masonry Magnum Chaos 2019-12-27 11:27:35
 
 
 2019-12-06 22:43:03
 The measure of time
 时间的测量
-V
-五
+**V**
+**五**
 But that is not all. In physical reality one cause does not produce a given effect, but a multitude of distinct causes contribute to produce it, without our having any means of discriminating the part of each of them. 
-但这尚且不是问题的全部。在物理现实中，并不是一个原因导致一个结果，而是许多不同的原因共同起到作用，我们没有手段真正地将这些原因分离。
+但这尚且不是问题的全部。**在物理现实中，并不是一个原因导致一个结果，而是许多不同的原因共同起到作用，我们没有手段真正地将这些原因分离。**
 Physicists seek to make this distinction; but they make it only approximately, and, however they progress, they never will make it except approximately. It is approximately true that the motion of the pendulum is due solely to the earth’s attraction; but in all rigor every attraction, even of Sirius, acts on the pendulum. 
-物理学家试图做到这种区分；然而他们只能进似地做到，而且，不论他们怎样前进，他们也只能近似地做到了。近似地，钟摆的运动只依赖于地球的吸引；但严格地说，即使遥远如天狼星，我们也必须将其引力计入其中。
+物理学家试图做到这种区分；然而他们只能**近似**地区分，而且，不论怎样进步，他们也只能**近似**地区分了。**近似**地说，钟摆的运动只依赖于地球的吸引；但**严格**地说，即使遥远如天狼星，我们也必须将其引力计入其中。
 Under these conditions, it is clear that the causes which have produced a certain effect will never be reproduced except approximately. Then we should modify our postulate and out definition. Instead of saying: ‘The same causes take the same time to produce the same effects,’ we should say: ‘Causes almost identical take almost the same time to produce almost the same effects.’ 
+既然如此，我们已经明白，原因和它导致的结果永远都只能近似地重复。因此我们必须修改我们的假定和定义。与其说“相同的原因用一定的时间产生相同的结果”，我们更应说“几乎相同的原因用几乎相等的时间导致几乎相同的结果。”
 Our definition therefore is no longer anything but approximate. Besides, as M. Calinon very justly remarks in a recent memoir:
 <font color="#000000">        One of the circumstances of any phenomenon is the velocity of the earth’s rotation; if this velocity of rotation varies, it constitutes in the reproduction of this phenomenon a circumstance which no longer remains the same. But to suppose this velocity of rotation constant is to suppose that we know how to measure time. </font>
+因此，我们的定义只可能是一种近似的定义。在这里，我引述Calinon先生最近发表的对这一问题的公正见解：
+        我们经历的所有现象，都处在地球旋转的背景下；如果地球的旋转速度改变，那么在这一环境之下的现象的重复也一定和原先不同了。但是，我们去假设地球运动的速度是常数，就已经建立在我们知道如何测量时间的基础上了。
 Our definition is therefore not yet satisfactory; it is certainly not that which the astronomers of whom I spoke above implicitly adopt, when they affirm that the terrestrial rotation is slowing down. 
+因此，我们的定义还不完全令人满意；当那些天文学家在说地球正在减速的时候，他们用的显然不是这个定义。
 What meaning according to them has this affirmation? We can only understand it by analyzing the proofs they give of their proposition. They say first that the friction of the tides producing heat must destroy vis viva. They invoke therefore the principle of vis viva, or of the conservation of energy. 
+对天文学家而言，上面那句话是什么意思？我们只有分析他们的论证才能知道。**他们说潮汐的摩擦力一定会减损地球的动能。因此，他们引用了动能定律，或者说能量守恒定律。**
 They say next that the secular acceleration of the moon, calculated according to Newton’s law, would be less than that deduced from observations unless the correction relative to the slowing down of the terrestrial rotation were made. They invoke therefore Newton’s law. In other words, they define duration in the following way: time should be so defined that Newton’s law and that of vis viva may be verified. Newton’s law is an experimental truth; as such it is only approximate, which shows that we still have only a definition by approximation. 
+接下来他们说，实际观测到的月球加速比牛顿定律预测的加速更快，除非校正以地球自转的减慢。这里，他们又用了牛顿定律。换言之，他们按照如下的方式定义时间：时间的定义，应使得牛顿定律和动能定律为真。牛顿定律是实验上的真相；因此它这能是一种近似，也就是说我们仍然只有一种近似的定义。
 If now it be supposed that another way of measuring time is adopted, the experiments on which Newton’s law is founded would none the less have the same meaning. Only the enunciation of the law would be different, because it would be translated into another language; it would evidently be much less simple. So that the definition implicitly adopted by the astronomers may be summed up thus: Time should be so defined that the equations of mechanics may be as simple as possible. In other words, there is not one way of measuring time more true than another; that which is generally adopted is only more convenient. Of two watches, we have no right to say that the one goes true, the other wrong; we can only say that it is advantageous to conform to the indications of the first. 
+假设我们又提出另一种测量时间的方法，那些建立了牛顿定律的实验也还是会有同样的含义。只是，牛顿定律的阐述的形式会发生改变，这是因为它被翻译成了另一种语言；只不过它会显得更复杂。**所以，天文学家对时间的隐含着的定义是：时间应该使力学方程看起来尽可能简单。换句话说，没有一种测量时间的方法是更正确的，我们通常采用的方法不过是更简单而已。**对于两只走得不同的钟表，我们没有理由说一个正确而另一个是错误的；我们只能说，遵照第一只表对我们更有益。
 The difficulty which has just occupied us has been, as I have said, often pointed out; among the most recent works in which it is considered, I may mention, besides M. Calinon’s little book, the treatise on mechanics of M. Andrade. 
-(未完)
+如我之前说的，这个占据了我们不少精力的困难，常常被人指出；在最近的探讨这一问题的作品中，除Calinon先生的小书外，我还想提及Andrade先生关于力学的论著。
+(V 译完)
+
+#p 21617213 Masonry Magnum Chaos 2019-12-27 12:13:17
+The measure of time
+时间的测量
+VI
+六
+The second difficulty has up to the present attracted much less attention; yet it is altogether analogous to the preceding; and even, logically, I should have spoken of it first. 
+第二个困难到目前为止受的关注远少于第一个困难；但其实这两个困难是相似的；甚至，如果从逻辑出发，我应先提及这第二个困难。
+Two psychological phenomena happen in two different consciousnesses; when I say they are simultaneous, what do I mean? When I say that a physical phenomenon, which happens outside of every consciousness, is before or after a psychological phenomenon, what do I mean?
+两个不同的心理现象，是发生在两个不同的意识中的；当我说这两现象同时发生，是在表达什么意思？当我说，发生于意识之外的物理现象，在某个心理现象之前或之后发生，这又是什么意思？
+In 1572, Tycho Brahe noticed in the heavens a new star. An immense conflagration had happened in some far distant heavenly body; but it had happened long before; at least two hundred years were necessary for the light from that star to reach our earth. This conflagration therefore happened before the discovery of America. Well, when considering this gigantic phenomenon, which perhaps had no witness, since the satellites of that star were perhaps uninhabited, I say this phenomenon is anterior to the formation of the visual image of the isle of Española in the consciousness of Christopher Columbus, what do I mean? 
+在1572年，第谷·布拉赫在天空中发现了一颗新星。此前，一场剧烈的爆发在某个遥远的天体发生；但它发生在许久之前；光从那个星体射至地球至少需要两百年。因此，这次爆发应当发生在美洲新大陆的发现之前。然而，这个星体可能没有住民，那么或许无人亲历这一星体爆发的宏伟现象，我说这现象发生于Española岛的视觉映像在哥伦布的意识中形成之前，这又是什么意思？
+A little reflection is sufficient to understand that all these affirmations have by themselves no meaning. They can have one only as the outcome of a convention. 
+经过一些思索，我们能明白这些论断本身没有任何含义。它们的意义，只不过是某种惯例的结果。
 
