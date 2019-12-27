@@ -1,13 +1,14 @@
-#t 251 17357667 Masonry 2019-10-14 00:01:00 Masonry 2019-12-27 13:34:00
+#t 251 17357667 Masonry 2019-10-14 00:01:00 Masonry 2019-12-27 14:35:00
 译庞加莱的《科学的价值》
 
-#p 21091859 Masonry Magnum Chaos 2019-12-07 00:50:11
+#p 21091859 Masonry Magnum Chaos 2019-12-27 13:55:30
 
 
 2019-10-14 01:58:37
 法国数学家庞加莱(Henri Poincaré)的著作《科学的价值》于1913年由George Halsted翻译为英文，论述的主题就是“科学的价值”，其中也有几处提及中国和东方文明，漫不经心但振聋发聩。我很难说的比庞加莱更好，因此希望在闲暇之时将这些文章翻译，以供大家参考和交流，姑且认为是一个习作。我也希望能听到读者的感受，不论是对文章内容还是翻译的细节上的。在我看来，每一篇文章具有相对的独立性，感兴趣的读者可以从中挑选一篇来读，无需整本读完。
-庞加莱的写作是很一般(general)的，正因此，一个相当广泛的群体可以从中找到乐趣和启发。他的著作问世后获得了广泛的欢迎，不论专业、不论国别的人都从中找到了乐趣，这点可以从Eric Bell在《Men of mathematics》写的Poincaré传记中看出。如果法国的工人和女侍者可以读庞加莱，那我们当然也可以。
-无需刻意强调，大师的作品，每经一次翻译都丧失一份美感，从开始的法语途径英语再由我翻译为汉语，其中的美感估计会丧失大半。在这样的情况下，看法、英文是更好的选择，目前应该也有很多汉语译本了，我的翻译仅提供一种参考和理解。译文中的黑体字是我标注的，旨在指出我个人认为十分关键的内容。更新很可能是缓慢而不定时的。囿于个人水平和见识，必将有不少错译之处。之所以发在bbs上，是希望同学不吝指正，以使这个翻译更好。
+庞加莱的写作是很一般(general)的，正因此，一个相当广泛的群体可以从中找到乐趣和启发。他的著作问世后获得了广泛的欢迎，不论专业、不论国别的人都从中找到乐趣，这点可以从Eric Bell在《Men of mathematics》写的Poincaré传记中印证。
+如果法国的工人和女侍者可以读庞加莱，那我们当然也可以。
+无需刻意强调，大师的作品，每经一次翻译都丧失一份美感，从开始的法语途径英语再由我翻译为汉语，其中的美感估计会丧失大半。在这样的情况下，看法、英文是更好的选择，目前应该也有很多汉语译本了，我的翻译仅提供一种参考和理解。译文中的黑体字是我标注的，旨在指出我认为重要的内容。更新将是缓慢而不定时的。囿于个人水平和见识，其中必有不少错译之处。之所以发在bbs上，是希望同学不吝指正，以使这个翻译更好。
 从中节选两句我喜欢的话，为读者作示例：
 如果再继续引用下去，恐怕要把整本书引用上来了，请读者看下面的译文吧。
 **------目录------**
@@ -565,7 +566,7 @@ Now can we affirm that the hypotheses I have just made are absurd? They are in n
 我们是否可以断言刚才做的假设是荒谬的？它们和矛盾律并无甚差别，它们若成立似乎必定违背充足理由律。然而，对于如此根本的定义，我希望有一些其它的保障。
 (IV 译完)
 
-#p 21465496 Masonry Magnum Chaos 2019-12-27 11:27:35
+#p 21465496 Masonry Magnum Chaos 2019-12-27 13:51:09
 
 
 2019-12-06 22:43:03
@@ -595,14 +596,14 @@ The difficulty which has just occupied us has been, as I have said, often pointe
 如我之前说的，这个占据了我们不少精力的困难，常常被人指出；在最近的探讨这一问题的作品中，除Calinon先生的小书外，我还想提及Andrade先生关于力学的论著。
 (V 译完)
 
-#p 21617213 Masonry Magnum Chaos 2019-12-27 13:17:46
+#p 21617213 Masonry Magnum Chaos 2019-12-27 13:58:54
 
 
 2019-12-27 12:13:17
 The measure of time
 时间的测量
-VI
-六
+**VI**
+**六**
 The second difficulty has up to the present attracted much less attention; yet it is altogether analogous to the preceding; and even, logically, I should have spoken of it first. 
 第二个困难到目前为止受的关注远少于第一个困难；但其实这两个困难是相似的；甚至，如果从逻辑出发，我应先提及这第二个困难。
 Two psychological phenomena happen in two different consciousnesses; when I say they are simultaneous, what do I mean? When I say that a physical phenomenon, which happens outside of every consciousness, is before or after a psychological phenomenon, what do I mean?
@@ -626,14 +627,14 @@ This hypothesis is indeed crude and incomplete, because this supreme intelligenc
 What I have just said shows us, perhaps, why we have tried to put all physical phenomena into the same frame. But that can not pass for a definition of simultaneity, since this hypothetical intelligence, even if it existed, would be for us impenetrable. It is therefore necessary to seek something else. 
 我刚才说的这些，或许能够解释，为什么我们试图将所有的物理现象放置于同一个框架之下。但这与同时性的定义却是冲突的，因为这个假想的智能即便存在，也不能被我们窥见。因此，我们必须另寻出路。
 
-#p 21617599 Masonry Magnum Chaos 2019-12-27 13:18:03
+#p 21617599 Masonry Magnum Chaos 2019-12-27 13:43:09
 
 
 2019-12-27 13:17:31
 The measure of time
 时间的测量
-VII
-七
+**VII**
+**七**
 We should first ask ourselves how one could have had the idea of putting into the same frame so many worlds impenetrable to each other. We should like to represent to ourselves the external universe, and only by so doing could we feel that we understood it. We know we never can attain this representation: our weakness is too great. But at least we desire the ability to conceive an infinite intelligence for which this representation would be possible, a sort of great consciousness which should see all, and which should classify all in its time, as we classify, in our time, the little we see. 
 或许，我们应自问，一个人怎么会产生时间这个想法，而将如此众多的互相隔绝的世界置于同一框架之内？我们想要将整个外部宇宙表示于内心之中，而只有这样做，我们才觉得自己理解了它。然而，我们知道自己永远无法得到这个表示：我们的缺陷太严重了。但至少，我们仍寄希望于设想一个无限的智能，使得这一表示对它而言是可能的。或者说，我们希望设想一个至高的意识，它能看见一切，并将一切都在它的时间中划分，正如我们，将所见的微毫在我们的时间中划分。
 This hypothesis is indeed crude and incomplete, because this supreme intelligence would be only a demigod; infinite in one sense, it would be limited in another, since it would have only an imperfect recollections of the past; and it could have no other, since otherwise all recollections would be equally present to it and for it there would be no time. And yet when we speak of time, for all which happens outside of us, do we not unconsciously adopt this hypothesis; do we not put ourselves in the place of this imperfect god; and do not even the atheists put themselves in the place where god would be if he existed?
@@ -642,14 +643,33 @@ What I have just said shows us, perhaps, why we have tried to put all physical p
 我刚才说的这些，或许能够解释，为什么我们试图将所有的物理现象放置于同一个框架之下。但这与同时性的定义却是冲突的，因为这个假想的智能即便存在，也不能被我们窥见。因此，我们必须另寻出路。
 (VII 译完)
 
-#p 21617691 Masonry Magnum Chaos 2019-12-27 13:33:41
+#p 21617691 Masonry Magnum Chaos 2019-12-27 14:15:52
+
+
+2019-12-27 13:33:41
 The measure of time
 时间的测量
-VIII
-八
+**VIII**
+**八**
 The ordinary definitions which are proper for psychologic time would suffice us no better. Two simultaneous psychologic facts are so closely bound together that analysis can not separate without mutilating them. Is it the same with two physical facts? Is not my present nearer my past of yesterday than the present of Sirius?
-对心理时间适用的那个常规定义，也不能更好地满足我们。两个同时的心理现象相互连接得如此紧密，以至于若不更改它们就无法将它们分离。对物理现象也是如此吗？我的此刻与我的昨日之间的距离，不是比与天狼星的此刻之间的距离更近吗？
+适用于心理时间的常规定义，也不能更好地满足我们。若两个心理现象相互连接得如此紧密，以至于若不更改它们就无法将它们分离，那我们就称它们是同时的。物理现象也能如此定义吗？**我的此刻**离**我的昨日**，不是比**离天狼星的此刻**更近吗？
 It has also been said that two facts should be regarded as simultaneous when the order of their succession may be inverted at will. It is evident that this definition would not suit two physical facts which happen far from one another, and that, in what concerns them, we no longer even understand what this reversibility would be; besides, succession itself must first be defined. 
 也有人曾说，两个事实应被视作同时发生，若他们之间相继的顺序可以任意颠倒。显然，这个定义不适用于两个相距较远的物理事实，甚至我们无法确定这种颠倒本身会是什么，而且，我们必须首先定义“相继”。
 (VIII 译完)
+
+#p 21618038 Masonry Magnum Chaos 2019-12-27 14:35:03
+The measure of time
+时间的测量
+**IX**
+**九**
+Let us then seek to give an account of what is understood by simultaneity or antecedence, and for this let us analyze some examples. 
+我们现在对同时性和先后性做一些描述。为此，让我们分析一些例子。
+I write a letter; it is afterward read by the friend to whom I have addressed it. These are two facts which have had for their theater two different consciousnesses. In writing this letter I have had the visual image of it, and my friend has had in his turn this same visual image in reading the letter. Though these two facts happen in impenetrable worlds, I do not hesitate to regard the first as anterior to the second, because I believe it is its cause. 
+我写了一封信；我的朋友收到这封信后读了它。这是两个事实，分别上演于两个不同的意识的剧场中。我写这封信时，有了视觉上的图像，而我的朋友在读信时有了相同的视觉图像。虽然这两个事实发生于两个无法穿越的世界，我毫不犹豫地将第一个事实放置在第二个事实之前，以为我确信它是原因。
+I hear thunder, and I conclude there has been an electric discharge; I do not hesitate to consider the physical phenomenon as anterior to the auditory image perceived in my consciousness, because I believe it is its cause. 
+我听见雷声，于是推断某处曾发生了一次放电；我丝毫不怀疑物理现象发生在意识中的听觉现象之前，这是因为我确信它是原因。
+Behold then the rule we follow, and the only one we can follow: when a phenomenon appears to us as the cause of another, we regard it as anterior. It is therefore by cause that we define time; but most often, when two facts appear to us bound by a constant relation, how do we recognize which is the cause and which the effect? We assume that the anterior fact, the antecedent, is the cause of the other, of the consequent. It is then by time that we define cause. How save ourselves from this petitio principii?
+请留意我们遵从的这个 规则，这也是我们唯一能遵从的规则：当一个现象看起来像是另一个的原因时，我们就认为它发生在前。因此，我们是根据因果来定义时间的；但很多时候，当两件事情看起来由固定关系紧连在一起时，我们怎么区分那个是原因、哪个是结果呢？我们通常认为，发生在前的是原因，发生在后的是结果。因此，我们又是根据时间来定义因果的 。我们如何才能将自己从这种循环论证中解救出来呢？
+We say now <font color="#000000">post hoc, ergo propter hoc</font>; now propter hoc, ergo post hoc; shall we escape from this vicious circle?
+**我们先说“在其后，故为其果”，又说“为其果，故在其后”；我们要怎么逃出这无功的循环呢？**
 
