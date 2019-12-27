@@ -1,6 +1,14 @@
-#t 668 17476546 Tranquilsun 2019-12-27 09:58:00 Tranquilsun 2019-12-27 09:58:00
+#t 668 17476546 Tranquilsun 2019-12-27 09:58:00 Tranquilsun 2019-12-27 10:30:00
 校外用pulse连VPN能享受到网盘的下载速度吗
 
 #p 21616335 Tranquilsun 串口|不丧|无常 2019-12-27 09:57:59
 RT 谢谢了~
+
+#p 21616362 PKUCC 北京大学计算中心 2019-12-27 10:01:36
+可以的
+#quote Tranquilsun
+
+#p 21616577 Tranquilsun 串口|不丧|无常 2019-12-27 10:29:54
+哇，太赞了！！！！
+#quote PKUCC
 
