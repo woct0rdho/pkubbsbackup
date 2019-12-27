@@ -1,4 +1,4 @@
-#t 251 17357667 Masonry 2019-10-14 00:01:00 Masonry 2019-12-27 12:13:00
+#t 251 17357667 Masonry 2019-10-14 00:01:00 Masonry 2019-12-27 13:34:00
 译庞加莱的《科学的价值》
 
 #p 21091859 Masonry Magnum Chaos 2019-12-07 00:50:11
@@ -595,7 +595,10 @@ The difficulty which has just occupied us has been, as I have said, often pointe
 如我之前说的，这个占据了我们不少精力的困难，常常被人指出；在最近的探讨这一问题的作品中，除Calinon先生的小书外，我还想提及Andrade先生关于力学的论著。
 (V 译完)
 
-#p 21617213 Masonry Magnum Chaos 2019-12-27 12:13:17
+#p 21617213 Masonry Magnum Chaos 2019-12-27 13:17:46
+
+
+2019-12-27 12:13:17
 The measure of time
 时间的测量
 VI
@@ -608,4 +611,45 @@ In 1572, Tycho Brahe noticed in the heavens a new star. An immense conflagration
 在1572年，第谷·布拉赫在天空中发现了一颗新星。此前，一场剧烈的爆发在某个遥远的天体发生；但它发生在许久之前；光从那个星体射至地球至少需要两百年。因此，这次爆发应当发生在美洲新大陆的发现之前。然而，这个星体可能没有住民，那么或许无人亲历这一星体爆发的宏伟现象，我说这现象发生于Española岛的视觉映像在哥伦布的意识中形成之前，这又是什么意思？
 A little reflection is sufficient to understand that all these affirmations have by themselves no meaning. They can have one only as the outcome of a convention. 
 经过一些思索，我们能明白这些论断本身没有任何含义。它们的意义，只不过是某种惯例的结果。
+(VI 译完)
+
+#p 21617598 Masonry Magnum Chaos 2019-12-27 13:17:26
+#DELETED
+The measure of time
+时间的测量
+VII
+七
+We should first ask ourselves how one could have had the idea of putting into the same frame so many worlds impenetrable to each other. We should like to represent to ourselves the external universe, and only by so doing could we feel that we understood it. We know we never can attain this representation: our weakness is too great. But at least we desire the ability to conceive an infinite intelligence for which this representation would be possible, a sort of great consciousness which should see all, and which should classify all in its time, as we classify, in our time, the little we see. 
+或许，我们应自问，一个人怎么会产生时间这个想法，而将如此众多的互相隔绝的世界置于同一框架之内？我们想要将整个外部宇宙表示于内心之中，而只有这样做，我们才觉得自己理解了它。然而，我们知道自己永远无法得到这个表示：我们的缺陷太严重了。但至少，我们仍寄希望于设想一个无限的智能，使得这一表示对它而言是可能的。或者说，我们希望设想一个至高的意识，它能看见一切，并将一切都在它的时间中划分，正如我们，将所见的微毫在我们的时间中划分。
+This hypothesis is indeed crude and incomplete, because this supreme intelligence would be only a demigod; infinite in one sense, it would be limited in another, since it would have only an imperfect recollections of the past; and it could have no other, since otherwise all recollections would be equally present to it and for it there would be no time. And yet when we speak of time, for all which happens outside of us, do we not unconsciously adopt this hypothesis; do we not put ourselves in the place of this imperfect god; and do not even the atheists put themselves in the place where god would be if he existed?
+这一设想确实粗略而疏漏，因为我们设想的智能只能是一个半神；它虽在一种含义下无限，但在另一种含义下则有限，因为它对过去的记忆必是未完成的；要不然，所有回忆对它都同样当前，它也就没有“时间”了。可是，当我们对发生在意识之外的事情谈论时间时，难道我们不是无意识地采用了这个假设吗？难道我们没有把自己当成这个不整全的神吗？哪怕是无神论者，不也会将自己放在这个假想的神的位置上吗？
+What I have just said shows us, perhaps, why we have tried to put all physical phenomena into the same frame. But that can not pass for a definition of simultaneity, since this hypothetical intelligence, even if it existed, would be for us impenetrable. It is therefore necessary to seek something else. 
+我刚才说的这些，或许能够解释，为什么我们试图将所有的物理现象放置于同一个框架之下。但这与同时性的定义却是冲突的，因为这个假想的智能即便存在，也不能被我们窥见。因此，我们必须另寻出路。
+
+#p 21617599 Masonry Magnum Chaos 2019-12-27 13:18:03
+
+
+2019-12-27 13:17:31
+The measure of time
+时间的测量
+VII
+七
+We should first ask ourselves how one could have had the idea of putting into the same frame so many worlds impenetrable to each other. We should like to represent to ourselves the external universe, and only by so doing could we feel that we understood it. We know we never can attain this representation: our weakness is too great. But at least we desire the ability to conceive an infinite intelligence for which this representation would be possible, a sort of great consciousness which should see all, and which should classify all in its time, as we classify, in our time, the little we see. 
+或许，我们应自问，一个人怎么会产生时间这个想法，而将如此众多的互相隔绝的世界置于同一框架之内？我们想要将整个外部宇宙表示于内心之中，而只有这样做，我们才觉得自己理解了它。然而，我们知道自己永远无法得到这个表示：我们的缺陷太严重了。但至少，我们仍寄希望于设想一个无限的智能，使得这一表示对它而言是可能的。或者说，我们希望设想一个至高的意识，它能看见一切，并将一切都在它的时间中划分，正如我们，将所见的微毫在我们的时间中划分。
+This hypothesis is indeed crude and incomplete, because this supreme intelligence would be only a demigod; infinite in one sense, it would be limited in another, since it would have only an imperfect recollections of the past; and it could have no other, since otherwise all recollections would be equally present to it and for it there would be no time. And yet when we speak of time, for all which happens outside of us, do we not unconsciously adopt this hypothesis; do we not put ourselves in the place of this imperfect god; and do not even the atheists put themselves in the place where god would be if he existed?
+这一设想确实粗略而疏漏，因为我们设想的智能只能是一个半神；它虽在一种含义下无限，但在另一种含义下则有限，因为它对过去的记忆必是未完成的；要不然，所有回忆对它都同样当前，它也就没有“时间”了。可是，当我们对发生在意识之外的事情谈论时间时，难道我们不是无意识地采用了这个假设吗？难道我们没有把自己当成这个不整全的神吗？哪怕是无神论者，不也会将自己放在这个假想的神的位置上吗？
+What I have just said shows us, perhaps, why we have tried to put all physical phenomena into the same frame. But that can not pass for a definition of simultaneity, since this hypothetical intelligence, even if it existed, would be for us impenetrable. It is therefore necessary to seek something else. 
+我刚才说的这些，或许能够解释，为什么我们试图将所有的物理现象放置于同一个框架之下。但这与同时性的定义却是冲突的，因为这个假想的智能即便存在，也不能被我们窥见。因此，我们必须另寻出路。
+(VII 译完)
+
+#p 21617691 Masonry Magnum Chaos 2019-12-27 13:33:41
+The measure of time
+时间的测量
+VIII
+八
+The ordinary definitions which are proper for psychologic time would suffice us no better. Two simultaneous psychologic facts are so closely bound together that analysis can not separate without mutilating them. Is it the same with two physical facts? Is not my present nearer my past of yesterday than the present of Sirius?
+对心理时间适用的那个常规定义，也不能更好地满足我们。两个同时的心理现象相互连接得如此紧密，以至于若不更改它们就无法将它们分离。对物理现象也是如此吗？我的此刻与我的昨日之间的距离，不是比与天狼星的此刻之间的距离更近吗？
+It has also been said that two facts should be regarded as simultaneous when the order of their succession may be inverted at will. It is evident that this definition would not suit two physical facts which happen far from one another, and that, in what concerns them, we no longer even understand what this reversibility would be; besides, succession itself must first be defined. 
+也有人曾说，两个事实应被视作同时发生，若他们之间相继的顺序可以任意颠倒。显然，这个定义不适用于两个相距较远的物理事实，甚至我们无法确定这种颠倒本身会是什么，而且，我们必须首先定义“相继”。
+(VIII 译完)
 
