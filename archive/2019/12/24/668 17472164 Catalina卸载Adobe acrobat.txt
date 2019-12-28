@@ -1,4 +1,4 @@
-#t 668 17472164 pangguanOOOI 2019-12-24 00:15:00 pangguanOOOI 2019-12-26 14:28:00
+#t 668 17472164 pangguanOOOI 2019-12-24 00:15:00 pangguanOOOI 2019-12-29 00:41:00
 Catalina卸载Adobe acrobat
 
 #p 21604071 pangguanOOOI 追风少年王二狗 2019-12-24 15:32:09
@@ -36,4 +36,14 @@ Catalina卸载Adobe acrobat
 #p 21613127 pangguanOOOI 追风少年王二狗 2019-12-26 14:27:46
 sigh 还没收到结果
 #quote PKUCC
+
+#p 21625975 luckyjojoo lucky 2019-12-29 00:15:20
+我也没有搞定，他让我把包含adobe的文件全部删除了，清空重启。再装还是一样跳出登陆。
+我觉得这个负责维护的自己也不知道程序文件里哪个代码是负责跳出登陆窗口的。
+讽刺的是盗版软件反而可以轻而易举的做到的事情，官方却搞不定。
+#quote pangguanOOOI
+
+#p 21626035 pangguanOOOI 追风少年王二狗 2019-12-29 00:40:10
+看了看邮箱连俺邮件都没回复sigh
+#quote luckyjojoo
 
