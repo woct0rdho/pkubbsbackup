@@ -1,7 +1,7 @@
-#t 438 17483139 endeavor 2019-12-31 00:13:00 herocampbell 2019-12-31 15:40:00
+#t 438 17483139 endeavor 2019-12-31 00:13:00 PekingU 2019-12-31 16:41:00
 新主页发布啦！
 
-#p 21640962 endeavor LTP 2019-12-31 13:36:17
+#p 21640962 endeavor LT 2019-12-31 13:36:17
 惊艳！清爽！比隔壁的逼格高一大截！
 
 #p 21641040 DarricDing BSHS 2019-12-31 13:52:06
@@ -10,7 +10,7 @@
 P大更主流。
 #quote endeavor
 
-#p 21641062 endeavor LTP 2019-12-31 13:56:49
+#p 21641062 endeavor LT 2019-12-31 13:56:49
 bug慢慢来，先占领视觉优势撒。2020发布，新年新气象啊
 #quote DarricDing
 
@@ -69,11 +69,11 @@ webmaster@pku.edu.cn
 不过，北大教育基金会（北美）的网页设计已经相当不错了。
 #quote endeavor
 
-#p 21641201 endeavor LTP 2019-12-31 14:21:05
+#p 21641201 endeavor LT 2019-12-31 14:21:05
 的确是，感觉是不是为了手机适配啊
 #quote DarricDing
 
-#p 21641218 endeavor LTP 2019-12-31 14:23:47
+#p 21641218 endeavor LT 2019-12-31 14:23:47
 啊！刚才没有看见。这个有点炫了！
 #quote JACKXING
 
@@ -92,11 +92,11 @@ webmaster@pku.edu.cn
 http跳转old.pku.edu.cn
 #quote DarricDing
 
-#p 21641318 endeavor LTP 2019-12-31 14:36:18
+#p 21641318 endeavor LT 2019-12-31 14:36:18
 点击旧版，火狐64位过不去。但新主页能打开。
 #quote redleaves
 
-#p 21641408 endeavor LTP 2019-12-31 14:52:41
+#p 21641408 endeavor LT 2019-12-31 14:52:41
 天，这反应速度好快啊。这个bug，已经修复拉！
 #quote DarricDing
 
@@ -113,7 +113,7 @@ http跳转old.pku.edu.cn
 新版主页颜值好高啊，赞赞赞~
 #quote endeavor
 
-#p 21641478 endeavor LTP 2019-12-31 15:04:38
+#p 21641478 endeavor LT 2019-12-31 15:04:38
 还真是，照片太真实了吧，没有艺术处理
 #quote DarricDing
 
@@ -142,4 +142,29 @@ http跳转old.pku.edu.cn
 #p 21641672 herocampbell 大葱 2019-12-31 15:40:06
 这个功能太霸气了！！！好看
 #quote JACKXING
+
+#p 21641921 pkuct 我不是程陶 2019-12-31 16:20:03
+移动端的适配还是不太行，而且感觉是在设计的时候就被放弃的，大图强行裁剪，尾图也是
+#quote endeavor
+
+#p 21641935 pkuct 我不是程陶 2019-12-31 16:24:06
+而且吧，在大图的设计和制图水平上，还是隔壁的更高，图更好看，我们基本就是三种风格
+1，学校风景图裁剪直接上
+2，一堆人物的照片或者几个活动的图挨个切图（院士评选、杰青评选、共和国勋章、北大故宫敦煌合作、校庆校园图）
+3，大活动自身的主视觉图调整比例
+#quote endeavor
+
+#p 21641948 Thesharing Thesharing 2019-12-31 16:26:54
+确实比以前好看了一点
+但是第一页没信息量 纯粹是图片
+隔壁居然没有买下thu.edu.cn这倒是令人意外
+#quote endeavor
+
+#p 21641978 klsl 古一兔叽 2019-12-31 16:34:09
+我怎么只找得到旧主页……
+#quote endeavor
+
+#p 21642012 PekingU PekingU 2019-12-31 16:40:24
+花里胡哨，不如旧版。
+#quote endeavor
 
