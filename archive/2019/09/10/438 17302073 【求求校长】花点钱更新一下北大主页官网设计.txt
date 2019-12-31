@@ -1,4 +1,4 @@
-#t 438 17302073 DarricDing 2019-09-10 00:19:00 mysteryxh 2019-12-04 08:49:00
+#t 438 17302073 DarricDing 2019-09-10 00:19:00 DarricDing 2019-12-31 13:43:00
 【求求校长】花点钱更新一下北大主页官网设计
 
 #p 20879616 DarricDing BSHS 2019-09-17 14:32:08
@@ -188,7 +188,7 @@
 反对！对现北大官网很满意，没必要搞太多花里胡哨的。
 #quote DarricDing
 
-#p 20909525 lxy 间歇性孤独患者 2019-09-17 11:07:24
+#p 20909525 lxy 陆6 2019-09-17 11:07:24
 然鹅我觉得清华官网的配色实在辣眼睛……
 #quote DarricDing
 
@@ -439,7 +439,7 @@ UP！
 校长快看看我！
 #quote DarricDing
 
-#p 21322337 albertfreud fiji 2019-11-14 10:58:45
+#p 21322337 albertfreud PKU 2019-11-14 10:58:45
 顶
 #quote DarricDing
 
@@ -448,7 +448,7 @@ UP！
 建议参考一下文研院的官网设计。
 #quote DarricDing
 
-#p 21350112 albertfreud fiji 2019-11-19 12:06:00
+#p 21350112 albertfreud PKU 2019-11-19 12:06:00
 顶
 #quote DarricDing
 
@@ -459,4 +459,39 @@ UP！
 #p 21444080 mysteryxh 新王加冕 2019-12-04 08:48:57
 怎么这么长时间了还没搞定
 #quote PKUCC
+
+#p 21640920 DarricDing BSHS 2019-12-31 13:27:29
+本帖子复活了！
+#quote DarricDing
+
+#p 21640924 DarricDing BSHS 2019-12-31 13:28:23
+本帖子终于等来了新官网。
+但是设计感不如想象中那么好。
+#quote DarricDing
+
+#p 21640930 DarricDing BSHS 2019-12-31 13:29:46
+感觉动画稍显杂乱。
+另外，英文版没有及时更新。
+#quote DarricDing
+
+#p 21640953 DarricDing BSHS 2019-12-31 13:34:03
+另外，菜单栏红色块的运用比例不太协调。
+#quote DarricDing
+
+#p 21640954 DarricDing BSHS 2019-12-31 13:34:24
+建议参考一下康奈尔大学、斯坦福大学的主页设计。
+#quote DarricDing
+
+#p 21640968 DarricDing BSHS 2019-12-31 13:38:12
+发现了一个bug，希望更正，请参见第一张图片。
+另外，菜单栏的红色块使用太过粗糙，也不是北大红，建议再去完善，
+#quote PKUCC
+
+#p 21640970 DarricDing BSHS 2019-12-31 13:38:28
+搞定了，现在可以提意见了。
+#quote mysteryxh
+
+#p 21640988 DarricDing BSHS 2019-12-31 13:42:37
+关于北大那个界面有一个问题，希望修改。
+#quote DarricDing
 
