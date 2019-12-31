@@ -1,4 +1,4 @@
-#t 438 17302073 DarricDing 2019-09-10 00:19:00 DarricDing 2019-12-31 13:43:00
+#t 438 17302073 DarricDing 2019-09-10 00:19:00 DarricDing 2019-12-31 14:15:00
 【求求校长】花点钱更新一下北大主页官网设计
 
 #p 20879616 DarricDing BSHS 2019-09-17 14:32:08
@@ -493,5 +493,11 @@ UP！
 
 #p 21640988 DarricDing BSHS 2019-12-31 13:42:37
 关于北大那个界面有一个问题，希望修改。
+#quote DarricDing
+
+#p 21641169 DarricDing BSHS 2019-12-31 14:15:03
+webmaster@pku.edu.cn
+如果对新官网的设计有问题，可以发邮件给这个邮箱。
+已经把问题汇总发过去了。
 #quote DarricDing
 

@@ -1,4 +1,4 @@
-#t 438 17483139 endeavor 2019-12-31 13:36:00 endeavor 2019-12-31 13:57:00
+#t 438 17483139 endeavor 2019-12-31 00:13:00 DarricDing 2019-12-31 14:58:00
 新主页发布啦！
 
 #p 21640962 endeavor LTP 2019-12-31 13:36:17
@@ -13,4 +13,99 @@ P大更主流。
 #p 21641062 endeavor LTP 2019-12-31 13:56:49
 bug慢慢来，先占领视觉优势撒。2020发布，新年新气象啊
 #quote DarricDing
+
+#p 21641099 CHAAAA CHAAAA 2019-12-31 14:02:25
+强烈支持！
+#quote endeavor
+
+#p 21641118 pattyluo pattyluo 2019-12-31 14:04:43
+哇！
+#quote endeavor
+
+#p 21641129 JACKXING JACKXING888 2019-12-31 14:12:01
+
+
+2019-12-31 14:05:51
+点右边那个“探索百廿北大”，太惊艳了，隔壁小伙伴发出了哇哇的声音
+#quote endeavor
+
+#p 21641146 dmsx nm 2019-12-31 14:09:24
+哇，惊艳，顶起。
+#quote endeavor
+
+#p 21641165 zgbha RICK 2019-12-31 14:14:24
+来顶起，一万个赞，新主页太惊艳了，北大红真是好看！！！
+#quote endeavor
+
+#p 21641166 DarricDing BSHS 2019-12-31 14:14:47
+webmaster@pku.edu.cn
+如果对新官网的设计有问题，可以发邮件给这个邮箱。
+已经把问题汇总发过去了。
+#quote endeavor
+
+#p 21641176 Goston Goston 2019-12-31 14:16:05
+那个“探索百廿北大”，真的太炫酷了！！
+#quote endeavor
+
+#p 21641177 DarricDing BSHS 2019-12-31 14:16:20
+一个明显的BUG就是“北大概况”里面，字和图片重叠了。
+#quote endeavor
+
+#p 21641183 DarricDing BSHS 2019-12-31 14:16:56
+这个问题和其他问题都已经反馈了，有问题可以随时反馈webmaster@pku.edu.cn。
+#quote DarricDing
+
+#p 21641185 shim young 2019-12-31 14:17:21
+视觉冲击。。杠杠的
+#quote endeavor
+
+#p 21641190 liuqi 狂风 2019-12-31 14:18:05
+除了图看起来不错，但是对信息的提取来说，很不方便
+#quote endeavor
+
+#p 21641193 DarricDing BSHS 2019-12-31 14:19:06
+另外，
+希望英文版也尽快上线！
+不过，北大教育基金会（北美）的网页设计已经相当不错了。
+#quote endeavor
+
+#p 21641201 endeavor LTP 2019-12-31 14:21:05
+的确是，感觉是不是为了手机适配啊
+#quote DarricDing
+
+#p 21641218 endeavor LTP 2019-12-31 14:23:47
+啊！刚才没有看见。这个有点炫了！
+#quote JACKXING
+
+#p 21641230 lantong 姿懿 2019-12-31 14:24:57
+设计得还不错！
+主页也得时常换换新装~~~
+#quote endeavor
+
+#p 21641262 redleaves 红叶飘飘 2019-12-31 14:29:58
+
+
+2019-12-31 14:28:50
+火狐32位，https页面载入出错，
+安全连接失败
+载入页面时与服务器的连接被重置。
+http跳转old.pku.edu.cn
+#quote DarricDing
+
+#p 21641318 endeavor LTP 2019-12-31 14:36:18
+点击旧版，火狐64位过不去。但新主页能打开。
+#quote redleaves
+
+#p 21641408 endeavor LTP 2019-12-31 14:52:41
+天，这反应速度好快啊。这个bug，已经修复拉！
+#quote DarricDing
+
+#p 21641416 DarricDing BSHS 2019-12-31 14:54:18
+可能是他们真的看邮件了。
+哈哈哈哈。
+#quote endeavor
+
+#p 21641432 DarricDing BSHS 2019-12-31 14:57:29
+拉到最下面的那张图片，真的太没有美感了。
+#quote endeavor
 
