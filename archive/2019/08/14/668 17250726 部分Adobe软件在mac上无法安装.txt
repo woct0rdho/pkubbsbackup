@@ -1,4 +1,4 @@
-#t 668 17250726 lhydave 2019-08-14 00:00:00 shmilyhlx 2020-01-03 15:06:00
+#t 668 17250726 lhydave 2019-08-14 00:00:00 ZTGGG 2020-01-03 23:03:00
 部分Adobe软件在mac上无法安装
 
 #p 20677330 lhydave 哀牢 2019-08-14 11:55:19
@@ -167,5 +167,10 @@ dd
 
 #p 21655247 shmilyhlx shmily 2020-01-03 15:05:09
 请问这个问题解决了吗
+#quote lhydave
+
+#p 21657066 ZTGGG 仙女本仙 2020-01-03 23:02:15
+[http://itjcc.com/498/html](jump-to.php?url=http%3A%2F%2Fitjcc.com%2F498%2Fhtml)
+我用方案二解决的，大家可以参考一下
 #quote lhydave
 
