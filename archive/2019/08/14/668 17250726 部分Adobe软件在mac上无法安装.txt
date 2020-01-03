@@ -1,4 +1,4 @@
-#t 668 17250726 lhydave 2019-08-14 00:11:00 Camouve 2019-12-06 00:13:00
+#t 668 17250726 lhydave 2019-08-14 00:00:00 shmilyhlx 2020-01-03 15:06:00
 部分Adobe软件在mac上无法安装
 
 #p 20677330 lhydave 哀牢 2019-08-14 11:55:19
@@ -163,5 +163,9 @@ dd
 
 #p 21463017 Camouve Hyde 2019-12-06 13:11:17
 同问，Catalina系统升级后Adobe acrobat打不开没法使用，求尽快解决！
+#quote lhydave
+
+#p 21655247 shmilyhlx shmily 2020-01-03 15:05:09
+请问这个问题解决了吗
 #quote lhydave
 
