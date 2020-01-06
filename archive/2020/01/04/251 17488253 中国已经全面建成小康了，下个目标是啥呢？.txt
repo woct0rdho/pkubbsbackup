@@ -1,4 +1,4 @@
-#t 251 17488253 bobprime 2020-01-04 00:03:00 escapemaster 2020-01-06 19:06:00
+#t 251 17488253 bobprime 2020-01-04 00:03:00 cashflow 2020-01-07 02:12:00
 中国已经全面建成小康了，下个目标是啥呢？
 
 #p 21657526 bobprime bobprime 2020-01-04 03:02:39
@@ -617,4 +617,8 @@ good
 #p 21670653 escapemaster emmmmmm 2020-01-06 19:05:31
 我也想说
 #quote loasa
+
+#p 21672422 cashflow futurecashflow 2020-01-07 02:11:47
+现在是百年未有之大变局～
+#quote euio
 
