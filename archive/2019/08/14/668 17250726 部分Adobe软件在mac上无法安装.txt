@@ -1,4 +1,4 @@
-#t 668 17250726 lhydave 2019-08-14 00:00:00 ZTGGG 2020-01-03 23:03:00
+#t 668 17250726 lhydave 2019-08-14 00:00:00 moonl 2020-01-06 13:27:00
 部分Adobe软件在mac上无法安装
 
 #p 20677330 lhydave 哀牢 2019-08-14 11:55:19
@@ -121,7 +121,7 @@ Catalina安装pr出现同样问题，同问解决进度
 帮顶，还是没有解决，很痛苦
 #quote lhydave
 
-#p 21407179 kickmknees 小东西够妖艳儿 2019-11-27 21:11:03
+#p 21407179 kickmknees 勉強します 2019-11-27 21:11:03
 帮顶，昨天发现自己升级了Catalina之后也无法安装Pr，之前装Ai都没问题的
 #quote lhydave
 
@@ -172,5 +172,9 @@ dd
 #p 21657066 ZTGGG 仙女本仙 2020-01-03 23:02:15
 [http://itjcc.com/498/html](jump-to.php?url=http%3A%2F%2Fitjcc.com%2F498%2Fhtml)
 我用方案二解决的，大家可以参考一下
+#quote lhydave
+
+#p 21669060 moonl 皓月 2020-01-06 13:26:14
+已经一月了...还是没有解决
 #quote lhydave
 
