@@ -1,0 +1,10 @@
+#t 668 17493056 onthesky 2020-01-07 12:22:00 PKUCC 2020-01-07 12:57:00
+账号疑似被人盗用
+
+#p 21674205 onthesky stardust 2020-01-07 12:22:26
+如题。今天看到餐饮中心推出了一个“燕园味道送祝福”活动，登陆其网址[http://yywd.pku.edu.cn/yywd/wap/default/index](jump-to.php?url=http%3A%2F%2Fyywd.pku.edu.cn%2Fyywd%2Fwap%2Fdefault%2Findex)并输入个人校园卡账号密码后，显示的却是别人的名字（如图）。但是账号密码被盗后又登陆了其他如邮箱、门户网站，都正常显示的是本人的名字，不知道是哪里出现了问题。
+
+#p 21674372 PKUCC 北京大学计算中心 2020-01-07 12:56:51
+已通知网站建设单位，据称已解决问题。
+#quote onthesky
+
