@@ -1,4 +1,4 @@
-#t 668 17448568 RyanBern 2019-12-10 00:00:00 PKUCC 2020-01-07 19:19:00
+#t 668 17448568 RyanBern 2019-12-10 00:00:00 RyanBern 2020-01-08 11:03:00
 WPN 下 jupyter-notebook 等应用无法正常使用
 
 #p 21484102 RyanBern r.bern 2019-12-10 20:44:25
@@ -26,4 +26,18 @@ Error: Download of http://1.2.3.4:8787/rstudio/deferredjs/95E622F0D260019E99A493
 #p 21677323 PKUCC 北京大学计算中心 2020-01-07 19:19:56
 用户您好，已经针对这个问题更新了版本，应该已经解决。方便请再试试，如发现还有问题请再联系我们。谢谢您的关注！
 #quote RyanBern
+
+#p 21680317 RyanBern r.bern 2020-01-08 11:02:17
+感谢回复！
+刚刚测试了一下，主楼提出的问题 2 已经解决。但问题 1 好像还是存在的。
+复现问题 1 的步骤：
+1. 将 jupyter_notebook_config.py 中的 c.NotebookApp.allow_origin = '*' 去掉
+2. 使用 WPN 连接 jupyter-notebook 服务器。
+我查了一些资料，解决办法还是添加这个配置。这个配置默认没有启用是出于安全性考虑。麻烦再看下是不是有别的解决办法，如果不行的话可以考虑写个指南告诉用户如何进行配置。
+---
+另一个 rstudio 的问题还是存在。具体症状为打开 rstudio 的登录界面后，使用用户名+密码方式无法登录。报错见附件的 rstudio.png。
+这个错误能查到的资料比较少，例如：
+[https://stackoverflow.com/questions/28875651/error-http-404-script-tag-failure-no-status-available-in-gwt-application](jump-to.php?url=https%3A%2F%2Fstackoverflow.com%2Fquestions%2F28875651%2Ferror-http-404-script-tag-failure-no-status-available-in-gwt-application)
+﻿应该不太像是本地配置原因，直连登录没有任何问题。
+#quote PKUCC
 
