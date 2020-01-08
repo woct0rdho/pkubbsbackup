@@ -1,4 +1,4 @@
-#t 35 16264150 hiaoxui 2017-11-10 00:00:00 hiaoxui 2020-01-08 14:36:00
+#t 35 16264150 hiaoxui 2017-11-10 00:00:00 stevezhang 2020-01-08 16:08:00
 科学上网, SSR 服务器分享
 
 #p 17134091 hiaoxui 小辉 2019-11-16 04:36:36
@@ -1798,4 +1798,12 @@ hiaoxui可以分享一下你的配置吗？我自用的vps最近太不稳定了�
 哦我才明白你刚刚在问我有什么VPS的推荐。
 其实我觉得这类信息在一些主机信息网站都可以看到。可以看看 zhujiwiki 之类的网站。
 #quote wasmonarch
+
+#p 21682057 stevezhang shiGaRo 2020-01-08 16:07:51
+想请问一下hiaoxui目前怎么解决Linux客户端的问题。最近重新开始倒腾Linux上的客户端 (Fedora 28)，试了下面两种办法都没有成功：
+ssr-helper: [https://github.com/noahziheng/ssr-helper](jump-to.php?url=https%3A%2F%2Fgithub.com%2Fnoahziheng%2Fssr-helper)
+electron-ssr: [https://github.com/shadowsocksrr/electron-ssr/](jump-to.php?url=https%3A%2F%2Fgithub.com%2Fshadowsocksrr%2Felectron-ssr%2F)
+这两个应该都是对shadowsocksR-python的包装。第一个ssr edit配置好服务器 (windows和macos上均可用)，ssr start; ssr status得到connection test pass，但是google.com仍连不上。第二个是一个GUI，下载了rpm包安装，点图标以后竟然不能弹出GUI...
+PS：SSR-python用的是shadowsocksr-backup/shadowsocksr的manyuser分支。
+#quote hiaoxui
 
