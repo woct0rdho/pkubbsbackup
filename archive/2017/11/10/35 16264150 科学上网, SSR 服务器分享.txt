@@ -1,4 +1,4 @@
-#t 35 16264150 hiaoxui 2017-11-10 00:00:00 czcqwer 2020-01-09 13:25:00
+#t 35 16264150 hiaoxui 2017-11-10 00:00:00 hiaoxui 2020-01-10 02:42:00
 科学上网, SSR 服务器分享
 
 #p 17134091 hiaoxui 小辉 2019-11-16 04:36:36
@@ -1821,4 +1821,8 @@ PS：SSR-python用的是shadowsocksr-backup/shadowsocksr的manyuser分支。
 我在获取配置信息时, 输入邮箱点击Go之后, 总是“Server Error(500)”。请问是怎么回事啊
 (已经发了验证邮件了)
 #quote hiaoxui
+
+#p 21690479 hiaoxui 小辉 2020-01-10 02:41:12
+抱歉, 是我的代码 bug, 我已经修复.
+#quote czcqwer
 
