@@ -1,4 +1,4 @@
-#t 35 16264150 hiaoxui 2017-11-10 00:00:00 stevezhang 2020-01-08 16:08:00
+#t 35 16264150 hiaoxui 2017-11-10 00:00:00 czcqwer 2020-01-09 13:25:00
 科学上网, SSR 服务器分享
 
 #p 17134091 hiaoxui 小辉 2019-11-16 04:36:36
@@ -1799,11 +1799,26 @@ hiaoxui可以分享一下你的配置吗？我自用的vps最近太不稳定了�
 其实我觉得这类信息在一些主机信息网站都可以看到。可以看看 zhujiwiki 之类的网站。
 #quote wasmonarch
 
-#p 21682057 stevezhang shiGaRo 2020-01-08 16:07:51
-想请问一下hiaoxui目前怎么解决Linux客户端的问题。最近重新开始倒腾Linux上的客户端 (Fedora 28)，试了下面两种办法都没有成功：
+#p 21682057 stevezhang shiGaRo 2020-01-08 16:11:16
+
+
+2020-01-08 16:07:51
+想请问一下hiaoxui目前Linux客户端的解决方案是怎样的。最近重新开始倒腾Linux上的客户端 (Fedora 28)，试了下面两种办法都没有成功：
 ssr-helper: [https://github.com/noahziheng/ssr-helper](jump-to.php?url=https%3A%2F%2Fgithub.com%2Fnoahziheng%2Fssr-helper)
 electron-ssr: [https://github.com/shadowsocksrr/electron-ssr/](jump-to.php?url=https%3A%2F%2Fgithub.com%2Fshadowsocksrr%2Felectron-ssr%2F)
 这两个应该都是对shadowsocksR-python的包装。第一个ssr edit配置好服务器 (windows和macos上均可用)，ssr start; ssr status得到connection test pass，但是google.com仍连不上。第二个是一个GUI，下载了rpm包安装，点图标以后竟然不能弹出GUI...
 PS：SSR-python用的是shadowsocksr-backup/shadowsocksr的manyuser分支。
+#quote hiaoxui
+
+#p 21684453 hiaoxui 小辉 2020-01-09 01:55:55
+我不清楚这个客户端包办了哪些事情. 如果它只负责在 1080 端口开一个监听本地的服务的话, 可能你给浏览器加一个插件就解决了, 比如 swichyomega. 或者你修改系统的代理设置, 但我不清楚系统代理设置的作用范围有多大. 据我所知, 至少 terminal 没有被代理. terminal 可以用 proxychians 解决.
+我自己的解决方案是用 python-ssr 命令行版本在本地监听 1080 端口, 配合浏览器插件和 proxychains.
+另外你不嫌麻烦的话可以用 redsocks + iptables 解决. 用 iptables 把所有 OUTPUT chain 的流量转发给 redsocks, 然后把 redsocks 代理就可以了. 这种代理比较彻底, 而且可以做到透明. 
+彻底透明和安全的方案是开两台主机 A 和 B, A 负责代理和路由, B 负责上网. A 负责把流量路由和代理, B 不直连 Internet, B 的网关是 A, 然后全部流量被 A 代理. A 可以是一台功能齐全的主机, 也可以是家用路由器. 我因为没有能刷 OpenWRT 的路由器, 就用两台虚拟机实现了.
+#quote stevezhang
+
+#p 21686391 czcqwer cqwer 2020-01-09 13:25:09
+我在获取配置信息时, 输入邮箱点击Go之后, 总是“Server Error(500)”。请问是怎么回事啊
+(已经发了验证邮件了)
 #quote hiaoxui
 
