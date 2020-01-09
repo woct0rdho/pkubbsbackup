@@ -1,4 +1,4 @@
-#t 22 17495120 ElonBrown 2020-01-08 00:20:00 loasa 2020-01-09 00:25:00
+#t 22 17495120 ElonBrown 2020-01-08 00:20:00 dygj 2020-01-09 18:36:00
 学生公交卡折断了怎么办？
 
 #p 21683322 ElonBrown 飞 2020-01-08 20:41:30
@@ -9,5 +9,10 @@
 
 #p 21684210 loasa 鲁鱼亥豕 2020-01-09 00:24:40
 去充值那问问？
+#quote ElonBrown
+
+#p 21689074 dygj 东营公交126路 2020-01-09 18:35:10
+要去可以处理坏卡的网点处理
+具体位置[https://www.bmac.com.cn/userserver/fwwd](jump-to.php?url=https%3A%2F%2Fwww.bmac.com.cn%2Fuserserver%2Ffwwd)
 #quote ElonBrown
 
