@@ -1,4 +1,4 @@
-#t 35 16264150 hiaoxui 2017-11-10 00:00:00 cmc 2020-01-10 11:05:00
+#t 35 16264150 hiaoxui 2017-11-10 00:00:00 hiaoxui 2020-01-10 12:20:00
 科学上网, SSR 服务器分享
 
 #p 17134091 hiaoxui 小辉 2019-11-16 04:36:36
@@ -1840,4 +1840,8 @@ PS：SSR-python用的是shadowsocksr-backup/shadowsocksr的manyuser分支。
 #p 21691666 cmc cmc 2020-01-10 11:05:03
 请问，最近可以上google，wikipedia什么的，可是打开google scholar会出现“... but your computer or network may be sending automated queries. To protect our users, we can't process your request right now.”这样的信息，这是什么情况？
 #quote hiaoxui
+
+#p 21692327 hiaoxui 小辉 2020-01-10 12:20:19
+Google Scholar 屏蔽了一些 IP. 你可以尝试换两台服务器. 不是所有服务器都在黑名单.
+#quote cmc
 
