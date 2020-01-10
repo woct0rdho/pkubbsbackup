@@ -1,4 +1,4 @@
-#t 35 16264150 hiaoxui 2017-11-10 00:00:00 hiaoxui 2020-01-10 02:42:00
+#t 35 16264150 hiaoxui 2017-11-10 00:00:00 cmc 2020-01-10 11:05:00
 科学上网, SSR 服务器分享
 
 #p 17134091 hiaoxui 小辉 2019-11-16 04:36:36
@@ -1381,6 +1381,7 @@ Click on the number and type the assigned port. Sorry having trouble typing Chin
 #quote lakemountain
 
 #p 21358067 hiaoxui 小辉 2019-11-20 10:45:10
+#DELETED
 Click on the number and type the assigned port. Sorry having trouble typing Chinese now.
 #quote gxsong
 
@@ -1447,14 +1448,17 @@ ipv6的也挂了。。。
 #quote PKUDDD
 
 #p 21365413 hiaoxui 小辉 2019-11-21 12:40:39
+#DELETED
 可能是收到美国香港法案影响, 昨天有一波规模较大的封禁. 已经恢复了大部分 IPv4 服务器, 请再次尝试.
 #quote xdrczrm
 
 #p 21365414 hiaoxui 小辉 2019-11-21 12:40:43
+#DELETED
 可能是收到美国香港法案影响, 昨天有一波规模较大的封禁. 已经恢复了大部分 IPv4 服务器, 请再次尝试.
 #quote ssssrrrr
 
 #p 21365415 hiaoxui 小辉 2019-11-21 12:40:49
+#DELETED
 可能是收到美国香港法案影响, 昨天有一波规模较大的封禁. 已经恢复了大部分 IPv4 服务器, 请再次尝试.
 #quote thermo
 
@@ -1742,6 +1746,7 @@ re
 #quote hiaoxui
 
 #p 21679079 hiaoxui 小辉 2020-01-08 04:00:01
+#DELETED
 抱歉! 这是我的责任.
 近期我在试图把服务器的数据库从 SQLite 迁移到 MySQL 上, 用 MySQL 来同步远程节点和中心节点的信息. 为此我需要重写大部分的后端代码. 我自己测试了两天没有什么问题, 就在前天上线新的后端了, 但是期间遇到了很多 bug, 很不稳定, 节点运行大概几个小时以后就会挂掉, 必须重启. 我不能保证随时在线并维护服务器 (我和你们有时差). 幸运的是我刚刚已经找到了这个 bug 并处理掉了, 服务又重新上线了, 但是我不是很确定最近几天能不能稳定工作.
 简而言之, 由于我对代码的一些升级, 服务器宕机了. 我已经修复了我发现的所有问题, 并重新上线了服务, 但是最近几天也许还会有别的问题.
@@ -1749,6 +1754,7 @@ re
 #quote askey
 
 #p 21679080 hiaoxui 小辉 2020-01-08 04:00:07
+#DELETED
 抱歉! 这是我的责任.
 近期我在试图把服务器的数据库从 SQLite 迁移到 MySQL 上, 用 MySQL 来同步远程节点和中心节点的信息. 为此我需要重写大部分的后端代码. 我自己测试了两天没有什么问题, 就在前天上线新的后端了, 但是期间遇到了很多 bug, 很不稳定, 节点运行大概几个小时以后就会挂掉, 必须重启. 我不能保证随时在线并维护服务器 (我和你们有时差). 幸运的是我刚刚已经找到了这个 bug 并处理掉了, 服务又重新上线了, 但是我不是很确定最近几天能不能稳定工作.
 简而言之, 由于我对代码的一些升级, 服务器宕机了. 我已经修复了我发现的所有问题, 并重新上线了服务, 但是最近几天也许还会有别的问题.
@@ -1763,6 +1769,7 @@ re
 #quote Brainor
 
 #p 21679084 hiaoxui 小辉 2020-01-08 04:00:28
+#DELETED
 感谢理解. 如果这段时间遇到问题请及时告知我.
 #quote tsiau
 
@@ -1825,4 +1832,12 @@ PS：SSR-python用的是shadowsocksr-backup/shadowsocksr的manyuser分支。
 #p 21690479 hiaoxui 小辉 2020-01-10 02:41:12
 抱歉, 是我的代码 bug, 我已经修复.
 #quote czcqwer
+
+#p 21690855 czcqwer cqwer 2020-01-10 08:54:08
+谢谢, 辛苦了~
+#quote hiaoxui
+
+#p 21691666 cmc cmc 2020-01-10 11:05:03
+请问，最近可以上google，wikipedia什么的，可是打开google scholar会出现“... but your computer or network may be sending automated queries. To protect our users, we can't process your request right now.”这样的信息，这是什么情况？
+#quote hiaoxui
 
