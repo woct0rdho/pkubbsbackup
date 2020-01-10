@@ -1,4 +1,4 @@
-#t 668 17480575 quicy 2019-12-29 00:00:00 pangguanOOOI 2020-01-08 11:30:00
+#t 668 17480575 quicy 2019-12-29 00:00:00 MKYKNIGHT 2020-01-10 20:31:00
 Adobe 系列什么时候能支持 Catalina？
 
 #p 21629173 quicy quicy 2019-12-29 19:28:38
@@ -19,4 +19,8 @@ Adobe 系列什么时候能支持 Catalina？
 #p 21680480 pangguanOOOI 追风少年王二狗 2020-01-08 11:29:28
 sigh 那个方法已经失效了 啥时候才能出新的啊
 #quote PKUCC
+
+#p 21694583 MKYKNIGHT 流浪猫 2020-01-10 20:30:43
+自闭了 还是不能用
+#quote quicy
 
