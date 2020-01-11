@@ -1,0 +1,6 @@
+#t 35 17499122 luckysixx 2020-01-11 19:59:00 luckysixx 2020-01-11 19:59:00
+Adobe_Acrobat_DC_Win_X64 安装失败求助
+
+#p 21698619 luckysixx smoker 2020-01-11 19:58:27
+按照[http://software.pku.edu.cn/help/caHelpIndex.aspx?i&amp;mid=0](jump-to.php?url=http%3A%2F%2Fsoftware.pku.edu.cn%2Fhelp%2FcaHelpIndex.aspx%3Fi%26mid%3D0) 的步骤下载、解压、安装之后，解压后的adobesetup文件就被自动删除，安装就终止了，这是什么情况，刚到手的联想y7000。。。
+
