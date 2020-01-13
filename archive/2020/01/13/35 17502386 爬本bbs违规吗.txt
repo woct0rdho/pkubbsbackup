@@ -1,4 +1,4 @@
-#t 35 17502386 twinklestar 2020-01-13 23:51:00 twinklestar 2020-01-13 23:51:00
+#t 35 17502386 twinklestar 2020-01-13 23:51:00 IlIl 2020-01-14 00:32:00
 爬本bbs违规吗
 
 #p 21712384 twinklestar 星尘 2020-01-13 23:51:33
@@ -7,4 +7,8 @@
 2020-01-13 23:50:10
 bbs的搜索功能似乎不是很完善，想把所有帖子爬一遍，再自建索引。话说这样违法或者违规吗。因为记得之前听谁说未名bbs不让爬。
 如果可以的话，一个ip一秒请求几次比较合适
+
+#p 21712525 IlIl 王铁崖 2020-01-14 00:31:41
+[https://bbs.pku.edu.cn/v2/mobile/post-read.php?bid=1&amp;threadid=16537733](mobile/post-read.php?bid=1&amp;threadid=16537733)
+#quote twinklestar
 
