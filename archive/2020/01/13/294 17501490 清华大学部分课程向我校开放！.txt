@@ -1,4 +1,4 @@
-#t 294 17501490 NorthStars 2020-01-13 11:20:00 NorthStars 2020-01-13 11:49:00
+#t 294 17501490 NorthStars 2020-01-13 00:11:00 MDP 2020-01-13 12:37:00
 清华大学部分课程向我校开放！
 
 #p 21707492 NorthStars chen. 2020-01-13 11:19:57
@@ -28,4 +28,62 @@ RT，感觉还是不错的，可以选一些隔壁的工科课程了hhh
 #p 21708947 NorthStars chen. 2020-01-13 11:48:48
 其实讲真，应该是得考虑到能拿的出手的来开吧，不然开了没人上岂不是很尴尬，所以……（手动滑稽）
 #quote xongkorohui
+
+#p 21709135 MDP MarkovDecisionProcess 2020-01-13 12:15:05
+我在这里强势推荐一下《制造工程体验》这门课
+可以亲身感受一下为什么叫技校
+#quote NorthStars
+
+#p 21709140 xongkorohui 惠愚 2020-01-13 12:16:23
+据说隔壁暑期有门课叫
+“给你三星期 造台计算机”（？？？
+#quote MDP
+
+#p 21709147 xongkorohui 惠愚 2020-01-13 12:17:17
+再转新段子（来源yp同学）
+清华怒吼：工科怎么了！工科也分那么多门类！工科通识就不是通识了？！
+#quote NorthStars
+
+#p 21709160 NorthStars chen. 2020-01-13 12:19:18
+hhhhhh涨红了脸
+#quote xongkorohui
+
+#p 21709162 NorthStars chen. 2020-01-13 12:19:52
+真的动手上吗（捂脸）动手能力差的我逃了
+#quote MDP
+
+#p 21709173 MDP MarkovDecisionProcess 2020-01-13 12:22:02
+那不是这门课，那门叫《计算机组成原理》。
+这门课是《金属工艺实习》的退阶版，是真技校课程，课上教怎么铸铁、做锤子等等
+#quote xongkorohui
+
+#p 21709177 MDP MarkovDecisionProcess 2020-01-13 12:22:43
+当然动手呀，不然哪来的乐趣！
+#quote NorthStars
+
+#p 21709178 MDP MarkovDecisionProcess 2020-01-13 12:23:08
+而且不是暑期，是秋天的课
+#quote xongkorohui
+
+#p 21709179 mycNoone 雪菜厨|傻狗|重度ky患者 2020-01-13 12:23:19
+hhhh，说的我也想去了（bushi
+#quote MDP
+
+#p 21709193 xongkorohui 惠愚 2020-01-13 12:25:56
+捂脸）
+#quote MDP
+
+#p 21709228 NorthStars chen. 2020-01-13 12:31:18
+我怕我把零件给拆了（捂脸）
+#quote MDP
+
+#p 21709232 NorthStars chen. 2020-01-13 12:31:58
+计算机组成原理是拆计算机的啊，我以为是编程的
+#quote MDP
+
+#p 21709253 MDP MarkovDecisionProcess 2020-01-13 12:36:33
+不是😂弄混了
+《计算机组成原理》是编程的课，“三周造台计算机”就是这个课的课程作业。不过这里有点歧义，“造”不是从零部件开始搭，而是在FPGA上用一个个门电路搭出来CPU、内存。总之还是编程，这门课不动手。
+我说的动手的技校课程是《制造工程体验》
+#quote NorthStars
 
