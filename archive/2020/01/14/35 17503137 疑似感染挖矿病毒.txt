@@ -1,4 +1,4 @@
-#t 35 17503137 xywd 2020-01-14 00:14:00 mycNoone 2020-01-15 07:00:00
+#t 35 17503137 xywd 2020-01-14 00:14:00 Alpher 2020-01-15 08:48:00
 疑似感染挖矿病毒
 
 #p 21714452 xywd 淆紊 2020-01-14 16:33:44
@@ -163,4 +163,13 @@ dalao，我的个人linux主机也貌似感染了挖矿病毒（root的ssh进程
 [原文由 PKUCC 发表在 PKU_CC 版 &gt;&gt;&gt;](post-read.php?bid=668&amp;threadid=17503137)
 谢谢你的信息，这台可疑的主机(162.105.92.117)已经进行了封禁。此外，已经感染的主机，建议参考此前计算中心关于挖矿病毒的通知（[https://its.pku.edu.cn/announce/tz20190830153200.jsp](jump-to.php?url=https%3A%2F%2Fits.pku.edu.cn%2Fannounce%2Ftz20190830153200.jsp)），看看是否为类似情况或变种，并按提示进行查杀。或搜索网上相关文档进行处理。有问题欢迎电话咨询：62751023。
 #quote mycNoone
+
+#p 21717808 mycNoone 雪菜厨|傻狗|重度ky患者 2020-01-15 06:59:49
+[原文由 PKUCC 发表在 PKU_CC 版 &gt;&gt;&gt;](post-read.php?bid=668&amp;threadid=17503137)
+谢谢你的信息，这台可疑的主机(162.105.92.117)已经进行了封禁。此外，已经感染的主机，建议参考此前计算中心关于挖矿病毒的通知（[https://its.pku.edu.cn/announce/tz20190830153200.jsp](jump-to.php?url=https%3A%2F%2Fits.pku.edu.cn%2Fannounce%2Ftz20190830153200.jsp)），看看是否为类似情况或变种，并按提示进行查杀。或搜索网上相关文档进行处理。有问题欢迎电话咨询：62751023。
+#quote mycNoone
+
+#p 21718017 Alpher 小现 2020-01-15 08:47:33
+28楼，新28楼
+#quote xywd
 
