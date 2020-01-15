@@ -1,7 +1,28 @@
-#t 35 17500745 Tranquilsun 2020-01-12 22:04:00 Tranquilsun 2020-01-12 22:04:00
+#t 35 17500745 Tranquilsun 2020-01-12 00:22:00 Tranquilsun 2020-01-15 16:48:00
 打开谷歌浏览器，只开了又一个标签
 
 #p 21703681 Tranquilsun 串口|不丧|无常 2020-01-12 22:03:05
 为何会这样。。
 有没有大佬知道呢？谢谢了~
+
+#p 21721229 Luck 阿一 2020-01-15 16:43:43
+
+
+2020-01-15 16:43:04
+看了下自己的chrome进程，没有software reporter tool这个东西。百度了一下，以下两个csdn上的链接也不知道有没有用，仅供参考。
+[https://blog.csdn.net/sean908/article/details/92803354](jump-to.php?url=https%3A%2F%2Fblog.csdn.net%2Fsean908%2Farticle%2Fdetails%2F92803354)
+[https://blog.csdn.net/afudos/article/details/90600321](jump-to.php?url=https%3A%2F%2Fblog.csdn.net%2Fafudos%2Farticle%2Fdetails%2F90600321)
+#quote Tranquilsun
+
+#p 21721240 Tranquilsun 串口|不丧|无常 2020-01-15 16:46:19
+感谢感谢~
+#quote Luck
+
+#p 21721242 Luck 阿一 2020-01-15 16:46:43
+建议直接百度“chrome software reporter tool”
+#quote Tranquilsun
+
+#p 21721248 Tranquilsun 串口|不丧|无常 2020-01-15 16:47:24
+嗯嗯
+#quote Luck
 
