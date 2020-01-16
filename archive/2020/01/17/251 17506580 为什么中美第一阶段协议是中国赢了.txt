@@ -1,0 +1,29 @@
+#t 251 17506580 gaobo 2020-01-17 03:56:00 gaobo 2020-01-17 03:56:00
+为什么中美第一阶段协议是中国赢了
+
+#p 21729507 gaobo blabla 2020-01-17 03:55:48
+先说结论，我对中美贸易战第一阶段协议的看法是：
+不考虑中美国力的差距，算是小输。考虑到中美国力的差距，算是赢。战术上是小输，战略上是赢。
+以下是我的论证：
+1. 美国对中国的大概$1200亿的货物关税从15%降到7.5%，绝不是川普口嗨，而是美国政府官方公告中的。比如说这里：
+"The United States will be maintaining 25 percent tariffs on approximately $250 billion of Chinese imports, along with 7.5 percent tariffs on approximately $120 billion of Chinese imports."
+引自 [https://ustr.gov/about-us/policy-offices/press-office/press-releases/2019/december/united-states-and-china-reach](jump-to.php?url=https%3A%2F%2Fustr.gov%2Fabout-us%2Fpolicy-offices%2Fpress-office%2Fpress-releases%2F2019%2Fdecember%2Funited-states-and-china-reach)
+另外最重要的一点是在phase two谈蹦之前不会有新的关税，因为川普已经说过大选之后再谈phase two（实际上他大选前也没功夫谈），这就给了中国至少一年的时间。
+有关关税的条款虽然没有写进协议，但是美国实际上是用关税作为中国违反协议的惩罚，也就是说如果美国不降关税/加新的关税，那这个协议也就基本作废了。
+2. 中国目前来看还是国际贸易的最大受益者，如果可以花一些代价把现行体系多维持两年当然是好事。具体地说：
+“2019年我国货物贸易进出口总值31.54万亿元人民币，比2018年增长3.4%。其中，出口17.23万亿元，增长5%；进口14.31万亿元，增长1.6%；贸易顺差2.92万亿元，扩大25.4%。”（未考虑人民币贬值因素，同时出口利润部分被关税压缩） 引自 [http://www.xinhuanet.com/fortune/2020-01/15/c_1125462716.htm](jump-to.php?url=http%3A%2F%2Fwww.xinhuanet.com%2Ffortune%2F2020-01%2F15%2Fc_1125462716.htm)
+中国对美国虽然贸易额大幅下降，但是现在仍有大量的贸易顺差。具体地说：
+“根据中国海关总署统计的数据，2019年，价值4185亿美元的中国产品越过了国境，进口美国，这一数字明显高于中国进口的1227亿美元的美国产品。” 考虑到中国每年花1000多亿美元向美国购买服务，中美贸易顺差还是每年1000多亿。注意这是中国口径的统计，美国口径统计的贸易顺差从来都是只多不少，比如说2018年中国认为的中美顺差是1700亿，美国认为的是4100亿（[https://www.bbc.com/zhongwen/trad/world-48566980](jump-to.php?url=https%3A%2F%2Fwww.bbc.com%2Fzhongwen%2Ftrad%2Fworld-48566980)）。另外由于贸易协议一定程度上消除了不确定性，接下来一年对美出口还会上升。
+3. 美国现在还是世界霸主，美国霸权的根本是海权，也就是在最坏情况下可以切断航线让谁都做不成生意的这个大杀手锏。跟美国摊牌，当然是越晚越好。
+4. 中国接下来两年要增购2000亿美元的美国产品，就是给霸主交的保护费，让我们可以继续做生意。交完这个保护费后我们对美国还有每年至少几百亿美元的贸易顺差（按照美国的口径可能还有2000多亿美元的贸易顺差）。而且这个大采购伤害更多的是拉美、纽、澳的农产品，以及中东的油气国，也许还有欧洲的高科技公司（比如说空客），对我国伤害很有限。
+5. 美国对华贸易战的最重要原因不是贸易逆差，而是阻止中国的产业升级，而且这是有两党共识的。具体地说，白宫前首席策略师班农多次提到中国制造2025。像Niall Ferguson和林毅夫最近的辩论当中，也多次提到中国的产业升级/国企补贴。这个协议签订之后民主党人对其大加鞭挞，当然是选举操作，但是他们的主要concern也是产业政策。我引述民主党参议院领袖Chuck Schumer的twitter:
+"This deal puts no limits on China’s massive subsidies and the other predatory practices its State Owned Enterprises use that have cost millions of U.S. jobs and gutted our manufacturing."
+Chuck Schumer在发布会上说道：“这个所谓的协议几乎没有为感受到中国残酷无情的贸易和产业恶行重压的工人和公司做任何事情。我非常担心，习主席在我们的背后笑话我们，因为他让步这么少，却让美国的工人、农民和公司付出代价。行政当局为了在2020年选举之前达成协议而不惜代价，抛弃了美国工人和美国公司，面临后果的将是他们。” [https://www.voachinese.com/a/us-lawmakers-on-us-china-phase-one-trade-deal-20200115/5247270.html](jump-to.php?url=https%3A%2F%2Fwww.voachinese.com%2Fa%2Fus-lawmakers-on-us-china-phase-one-trade-deal-20200115%2F5247270.html)
+6. 这场原计划阻止中国产业升级的贸易战，最后变成了保护费谈判。现在中国在新兴领域（电动车/光伏/AI）都是第一梯队，在传统领域（半导体/航空）都在快速追赶，似乎有望在2025进入第二梯队，美国只能干瞪眼。而且最后收来的保护费跟2017年中国就承诺购买的数量差不多。所以美国整体上除了川普及其幕僚，以及农业州之外，基本上最多是中立看法。这是我认为在战略上中国赢了的重要原因。
+7. 贸易协议中几乎全是对中国的要求，当然是美国占优势。但是都是中方承诺自行改革，没有屈辱性语言，跟广场协议/美墨边境谈判/美法未来的数字税谈判有明显不同。这是我说“不考虑中美国力的差距，中国小输”的重要原因。但是经过这场贸易战，中国已经是世界公认的在经济上和美国有一战之力的国家了，某种程度上算是经济上的朝鲜战争。绝大多数主要外媒的报道也都认为这是双边协议，没谁认为中国丧权乳国了。随便贴两个：
+[https://www.france24.com/en/20200115-us-and-china-sign-phase-one-trade-deal-aimed-at-easing-tensions](jump-to.php?url=https%3A%2F%2Fwww.france24.com%2Fen%2F20200115-us-and-china-sign-phase-one-trade-deal-aimed-at-easing-tensions)
+[https://www.bbc.com/news/business-51025464](jump-to.php?url=https%3A%2F%2Fwww.bbc.com%2Fnews%2Fbusiness-51025464)
+8. 有句老话是，在人际交往中，如果你认为你吃亏了，那实际上是平手，如果你认为是平手，那实际上你就赚了，国与国之间更是如此。很多人没有意识到的一点是，美国关税是美国内政，即使不谈产业升级，现在美国白银（美元）大量外流中国的情况是无论如何持续不下去的。中国如果不能用坚船利炮打开美国市场（大雾），就要用利益交换打开美国市场。所以这个deal, 和川普上台前TPP、TTIP可能给中国造成的围堵相比，对于中国来说实在是个好deal。
+9. 考虑到中美国力差距，小輸就是赢。就好比说台湾国军以武拒统，最后在非核心利益方面让步（比如说丢了个金门）就逼解放军签了停战协议，那虽然他做了让步，恐怕还是会被当作军神来看待。
+最后，对于所谓的phase two deal，目前普遍认为不可能谈成。我觉得最后大概要看川普竞选之后美股会不会爆雷。如果不爆雷，应该会继续升级，这个deal作废。如果爆雷，那大概率是中国继续向美国交保护费来维持现状。
+
