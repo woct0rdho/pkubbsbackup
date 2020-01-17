@@ -1,6 +1,11 @@
-#t 668 17506983 Starsunny 2020-01-17 11:48:00 Starsunny 2020-01-17 11:48:00
+#t 668 17506983 Starsunny 2020-01-17 11:48:00 PKUCC 2020-01-17 12:03:00
 EndNote MAC无法将本地文献信息同步到EndNote网页版
 
 #p 21730860 Starsunny Starsunny 2020-01-17 11:47:35
 我使用的是MAC客户端的EndNote，想把本地的文献信息同步到EndNote网页版以在不同机器上使用。之前点同步选项后可以完成同步，但目前点同步选项后EndNote在显示Authorzing...之后就不继续处理了，登录网页版发现没有同步，不知道是什么原因，求解答。
+
+#p 21730968 PKUCC 北京大学计算中心 2020-01-17 12:02:14
+endnote为图书馆购买软件，相关问题可联系图书馆相关负责人员
+[https://www.lib.pku.edu.cn/portal/cn/zy/software](jump-to.php?url=https%3A%2F%2Fwww.lib.pku.edu.cn%2Fportal%2Fcn%2Fzy%2Fsoftware)
+#quote Starsunny
 
