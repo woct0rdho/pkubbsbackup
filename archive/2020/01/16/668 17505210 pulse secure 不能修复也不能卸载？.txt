@@ -1,4 +1,4 @@
-#t 668 17505210 OoOlOoO 2020-01-16 00:02:00 Rabbit 2020-01-18 22:53:00
+#t 668 17505210 OoOlOoO 2020-01-16 00:02:00 llf 2020-01-19 00:27:00
 pulse secure 不能修复也不能卸载？
 
 #p 21724169 OoOlOoO Olo 2020-01-16 02:42:00
@@ -16,5 +16,9 @@ pulse secure 不能修复也不能卸载？
 
 #p 21737289 Rabbit 噗噗 2020-01-18 22:53:00
 我尝试用任务管理器，把所有有关pulse secure的进程全部停了就卸了
+#quote OoOlOoO
+
+#p 21737830 llf NONE 2020-01-19 00:26:26
+我的 win10 安装学校提供的 pulse secure 会导致断网，卸载后恢复。安装应用商店里的 pulse secure 可以正常使用。
 #quote OoOlOoO
 
