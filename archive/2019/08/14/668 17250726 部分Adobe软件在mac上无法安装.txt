@@ -1,4 +1,4 @@
-#t 668 17250726 lhydave 2019-08-14 00:00:00 pangguanOOOI 2020-01-09 10:31:00
+#t 668 17250726 lhydave 2019-08-14 00:00:00 jiamingpku 2020-01-20 00:09:00
 部分Adobe软件在mac上无法安装
 
 #p 20677330 lhydave 哀牢 2019-08-14 11:55:19
@@ -184,5 +184,9 @@ dd
 
 #p 21685474 pangguanOOOI 追风少年王二狗 2020-01-09 10:30:16
 什么时候可以解决啊。。。。
+#quote PKUCC
+
+#p 21741865 jiamingpku jiamingpku 2020-01-20 09:26:06
+催一下
 #quote PKUCC
 
