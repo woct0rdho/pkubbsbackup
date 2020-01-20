@@ -1,4 +1,4 @@
-#t 668 17480575 quicy 2019-12-29 00:00:00 jiamingpku 2020-01-20 00:09:00
+#t 668 17480575 quicy 2019-12-29 00:00:00 jiamingpku 2020-01-20 19:47:00
 Adobe 系列什么时候能支持 Catalina？
 
 #p 21629173 quicy quicy 2019-12-29 19:28:38
@@ -38,4 +38,8 @@ sigh 那个方法已经失效了 啥时候才能出新的啊
 #p 21741863 jiamingpku jiamingpku 2020-01-20 09:25:40
 催一下
 #quote PKUCC
+
+#p 21744358 jiamingpku jiamingpku 2020-01-20 19:46:24
+刚刚装了，不支持……
+#quote RichardWake
 
