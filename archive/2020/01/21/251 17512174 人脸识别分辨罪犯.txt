@@ -1,0 +1,16 @@
+#t 251 17512174 motaguoke 2020-01-21 19:23:00 MDP 2020-01-21 19:50:00
+人脸识别分辨罪犯
+
+#p 21748233 motaguoke 孤帆远影 2020-01-21 19:23:15
+最新的进展是美国也用上了。数据库来源是fb/twitter和各种社交网站
+不过他们的系统比较奇怪，把这个工作外包给了公司，可能不想惹上麻烦可以随时切断联系吧……
+但怎么感觉问题更大了
+关键词是clearview florida。想起贵版之前的讨论，转过来报道一下最新进展
+看起来只有欧洲在推进recongntion ban，因缺思厅
+
+#p 21748307 MDP MarkovDecisionProcess 2020-01-21 19:49:55
+上个应景的
+[https://www.youtube.com/watch?v=CLo3e1Pak-Y](jump-to.php?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DCLo3e1Pak-Y)
+（需翻墙）
+#quote motaguoke
+
