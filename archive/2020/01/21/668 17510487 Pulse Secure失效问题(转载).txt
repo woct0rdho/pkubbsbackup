@@ -1,0 +1,22 @@
+#t 668 17510487 mycNoone 2020-01-21 23:14:00 mycNoone 2020-01-21 23:15:00
+Pulse Secure失效问题(转载)
+
+#p 21749327 mycNoone 雪菜厨|傻狗|重度ky患者 2020-01-21 23:14:00
+[原文由 wjk 发表在 Networking 版 &gt;&gt;&gt;](post-read.php?bid=35&amp;threadid=17510487)
+如题,现在pulse secure登录了vpn以后，its.pku.edu.cn显示校外地址，校内资源也无法访问
+
+#p 21749329 mycNoone 雪菜厨|傻狗|重度ky患者 2020-01-21 23:14:09
+[原文由 wjk 发表在 Networking 版 &gt;&gt;&gt;](post-read.php?bid=35&amp;threadid=17510487)
+iPad客户端
+#quote wjk
+
+#p 21749330 mycNoone 雪菜厨|傻狗|重度ky患者 2020-01-21 23:14:09
+[原文由 wjk 发表在 Networking 版 &gt;&gt;&gt;](post-read.php?bid=35&amp;threadid=17510487)
+iPad客户端
+#quote wjk
+
+#p 21749331 mycNoone 雪菜厨|傻狗|重度ky患者 2020-01-21 23:14:15
+[原文由 Eureka 发表在 Networking 版 &gt;&gt;&gt;](post-read.php?bid=35&amp;threadid=17510487)
+iPad加一，安卓没问题。另外，Linux的pulse secure无法启动
+#quote wjk
+

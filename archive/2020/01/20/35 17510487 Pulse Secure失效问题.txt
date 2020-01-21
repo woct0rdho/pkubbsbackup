@@ -1,4 +1,4 @@
-#t 35 17510487 wjk 2020-01-20 00:10:00 Eureka 2020-01-21 12:45:00
+#t 35 17510487 wjk 2020-01-20 00:10:00 mycNoone 2020-01-21 23:15:00
 Pulse Secure失效问题
 
 #p 21742037 wjk wjk-left1 2020-01-20 10:14:06
@@ -10,5 +10,9 @@ iPad客户端
 
 #p 21746972 Eureka Eureka 2020-01-21 12:45:09
 iPad加一，安卓没问题。另外，Linux的pulse secure无法启动
+#quote wjk
+
+#p 21749333 mycNoone 雪菜厨|傻狗|重度ky患者 2020-01-21 23:14:35
+已转寄至[https://bbs.pku.edu.cn/v2/post-read.php?bid=668&amp;threadid=17510487](post-read.php?bid=668&amp;threadid=17510487)
 #quote wjk
 
