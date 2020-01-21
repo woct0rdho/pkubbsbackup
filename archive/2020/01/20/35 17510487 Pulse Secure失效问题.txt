@@ -1,4 +1,4 @@
-#t 35 17510487 wjk 2020-01-20 00:10:00 wjk 2020-01-20 21:31:00
+#t 35 17510487 wjk 2020-01-20 00:10:00 Eureka 2020-01-21 12:45:00
 Pulse Secure失效问题
 
 #p 21742037 wjk wjk-left1 2020-01-20 10:14:06
@@ -6,5 +6,9 @@ Pulse Secure失效问题
 
 #p 21744895 wjk wjk-left1 2020-01-20 21:30:41
 iPad客户端
+#quote wjk
+
+#p 21746972 Eureka Eureka 2020-01-21 12:45:09
+iPad加一，安卓没问题。另外，Linux的pulse secure无法启动
 #quote wjk
 
