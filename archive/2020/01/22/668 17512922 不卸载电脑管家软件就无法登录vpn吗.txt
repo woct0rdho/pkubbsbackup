@@ -1,0 +1,10 @@
+#t 668 17512922 slay 2020-01-22 11:31:00 PKUCC 2020-01-22 11:51:00
+不卸载电脑管家软件就无法登录vpn吗
+
+#p 21750665 slay 柚子 2020-01-22 11:30:31
+请问一下，退出电脑管家后仍出现断网现象，不想卸载电脑管家，还有别的方法吗？已取消了Juniper Network Service。吐槽一下，学校的vpn也太难用了！
+
+#p 21750764 PKUCC 北京大学计算中心 2020-01-22 11:50:29
+建议您试试[https://vpns.pku.edu.cn](jump-to.php?url=https%3A%2F%2Fvpns.pku.edu.cn)，不需安装客户端。
+#quote slay
+
