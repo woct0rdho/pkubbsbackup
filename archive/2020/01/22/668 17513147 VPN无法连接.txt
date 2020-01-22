@@ -1,0 +1,10 @@
+#t 668 17513147 geniusadven 2020-01-22 15:43:00 PKUCC 2020-01-22 15:59:00
+VPN无法连接
+
+#p 21751585 geniusadven Rock 2020-01-22 15:42:40
+Pulse Secure 9.1.4，连接学校VPN，持续显示“正在保护连接”，无法登录。
+
+#p 21751641 PKUCC 北京大学计算中心 2020-01-22 15:59:33
+请参照its.pku.edu.cn里VPN常见问题，试着连VPN的其它服务地址。或者建议您使用[https://vpns.pku.edu.cn](jump-to.php?url=https%3A%2F%2Fvpns.pku.edu.cn)，无需使用客户端。
+#quote geniusadven
+
