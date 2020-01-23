@@ -1,0 +1,98 @@
+#t 35 17216199 pkuct 2019-07-22 00:00:00 Starsunny 2020-01-23 11:59:00
+pulse secure 如何关闭开机自启？
+
+#p 20578208 pkuct 我不是程陶 2019-07-22 09:41:25
+就是学校那个VPN的程序，Windows10系统，没有安装360那样的电脑管家，在软件里也没有找到相关的设置
+
+#p 20578600 liweiheng 车道尽头的海洋 2019-07-22 11:31:35
+在任务管理器的 启动 里面禁用就好了
+#quote pkuct
+
+#p 20579328 pkuct 我不是程陶 2019-07-22 14:45:42
+我去看一下，谢谢！
+#quote liweiheng
+
+#p 20579600 askey askey 2019-07-22 16:02:45
+歪楼，mac的怎么取消呢？开机启动程序里没看见有，但是每次开机都会自动启动
+#quote pkuct
+
+#p 20579899 wyuxuan wyx119 2019-07-22 17:25:29
+同歪楼， mac的开机自启已经纠结我好几年了。。。
+#quote askey
+
+#p 20580342 MDP MarkovDecisionProcess 2019-07-22 19:33:46
+顶，同样的困惑
+#quote wyuxuan
+
+#p 20581117 ShortID 短ID), 表情: (￣▽￣ 2019-07-22 22:29:36
+接着歪楼，同纠结……
+#quote MDP
+顶，同样的困惑
+#quote wyuxuan
+
+#p 20581962 featzero featzero 2019-07-23 08:51:23
+顶，同样纠结好多年了，能找过的设置我都试过，都没有用。
+#quote askey
+
+#p 20582489 Minoshiro 小蓑白|洗澡是人生第一要义 2019-07-23 10:50:58
+看了大家都不会
+其实我也不会
+#quote featzero
+
+#p 20582843 askey askey 2019-07-23 12:02:31
+试过了，登录项就根本没有这个程序，我电脑系统是10.12
+#quote davy
+
+#p 20582916 Minoshiro 小蓑白|洗澡是人生第一要义 2019-07-23 12:34:08
+我也好久没关机了，所以其实没有影响我的强迫症（
+#quote davy
+
+#p 20582924 davy 青研🐂🍺 2019-07-23 12:36:03
+最佳解决方案【
+#quote Minoshiro
+
+#p 20582962 Minoshiro 小蓑白|洗澡是人生第一要义 2019-07-23 12:44:28
+你的 nick 在 term 下就只剩“青研”了，如下：
+<font color="#c0c0c0">发信人: davy (青研), 信区: Networking                                           </font>
+<font color="#c0c0c0">标  题: Re: pulse secure 如何关闭开机自启？                                     </font>
+<font color="#c0c0c0">发信站: 北大未名站 (2019年07月23日12:36:03 星期二), 站内信件 </font>
+#quote davy
+
+#p 20583292 parkourcx 泡泡的泡泡 2019-07-23 13:45:07
+Mac要删除一些配置文件，但是删除以后确实不开机自启了，也不能用了，建议用命令行工具openconnect
+#quote wyuxuan
+
+#p 20584452 juruo 蒟蒻太蒻了嘤嘤嘤 2019-07-23 19:35:23
+歪楼，mac为什么要关机呢
+#quote pkuct
+
+#p 20585058 stevezhang shiGaRo 2019-07-23 22:24:38
+官方给的一个解决方案是：
+用Automator写个脚本在开机时自动运行如下命令
+launchctl unload –w /Library/LaunchAgents/net.pulsesecure.pulsetray.plist
+用一个开机自启动脚本关闭一个开机自启动程序，可以说很迷了...当然，如果你只是希望不显示托盘图标，可以试一下这个SO解答
+[https://stackoverflow.com/a/42703554](jump-to.php?url=https%3A%2F%2Fstackoverflow.com%2Fa%2F42703554)
+#quote pkuct
+
+#p 20585909 MDP MarkovDecisionProcess 2019-07-24 08:16:23
+感谢大神，赞Automator这个思路，虽然有脱裤子放屁的嫌疑，但至少可以解决强迫症了。隐藏托盘图标那个还会在后台运行，那简直要被逼死了。
+#quote stevezhang
+
+#p 20586362 stevezhang shiGaRo 2019-07-24 10:17:49
+不是大神，只是谷歌的搬运工
+#quote MDP
+
+#p 20591669 Karonheaven  2019-07-25 12:58:06
+[https://blog.yangl1996.com/post/use-openconnect-to-connect-to-pulse-secure-on-mac/](jump-to.php?url=https%3A%2F%2Fblog.yangl1996.com%2Fpost%2Fuse-openconnect-to-connect-to-pulse-secure-on-mac%2F)
+Google了一下
+#quote MDP
+
+#p 20592126 gspku null 2019-07-25 14:23:33
+方法1：下载微软提供的Sysinternal Autoruns软件（[https://docs.microsoft.com/zh-cn/sysinternals/downloads/autoruns](jump-to.php?url=https%3A%2F%2Fdocs.microsoft.com%2Fzh-cn%2Fsysinternals%2Fdownloads%2Fautoruns)），删除启动项。或者直接到注册表里找到并删除启动项。
+方法2：不使用学校提供的Win32版本Pulse Secure。在Windows应用商店里下载UWP版的Pulse Secure。这个版本没有开机自启，不用安装虚拟网卡，可以与系统自带的VPN设置集成，推荐使用。
+#quote pkuct
+
+#p 21754645 Starsunny Starsunny 2020-01-23 11:59:37
+百度有个教程，亲测有效
+#quote wyuxuan
+
