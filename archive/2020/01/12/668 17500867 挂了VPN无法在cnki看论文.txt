@@ -1,4 +1,4 @@
-#t 668 17500867 Satoyann 2020-01-12 00:23:00 chengnj 2020-01-23 18:13:00
+#t 668 17500867 Satoyann 2020-01-12 00:23:00 PKUCC 2020-01-24 13:42:00
 挂了VPN无法在cnki看论文
 
 #p 21704057 Satoyann 洒脱系赞 2020-01-12 23:10:14
@@ -32,4 +32,8 @@
 #p 21755730 chengnj 橙子151 2020-01-23 18:12:46
 +1，同不能下载
 #quote PKUCC
+
+#p 21758557 PKUCC 北京大学计算中心 2020-01-24 13:42:06
+建议您使用[https://vpns.pku.edu.cn](jump-to.php?url=https%3A%2F%2Fvpns.pku.edu.cn)，无需使用客户端。
+#quote chengnj
 
