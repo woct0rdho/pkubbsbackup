@@ -1,4 +1,4 @@
-#t 294 17516493 slay 2020-01-25 00:16:00 fenggan 2020-01-26 00:24:00
+#t 294 17516493 slay 2020-01-25 00:16:00 liuxunlin 2020-01-26 01:43:00
 北大的VPN是三所大学里最难用的！
 
 #p 21762075 slay 柚子 2020-01-25 16:35:37
@@ -130,4 +130,8 @@ Linux上可以直接使用openconnect，支持Pluse Secure的协议。
 Windows系统的vpn很好用，但是macOS系统一旦断开vpn就失去了所有网络连接需要重启才能解决问题。
 #quote slay
 发自我的“北大未名”iOS客户端([http://t.cn/R7ZhtYc](jump-to.php?url=http%3A%2F%2Ft.cn%2FR7ZhtYc))
+
+#p 21763621 liuxunlin 燕南一猫 2020-01-26 01:42:31
+我才刚换的电脑=。=国内也一样扑街。。
+#quote zhangxiaoqi
 
