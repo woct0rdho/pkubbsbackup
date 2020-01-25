@@ -1,4 +1,4 @@
-#t 35 17516128 MetatronCube 2020-01-25 09:00:00 MetatronCube 2020-01-25 09:00:00
+#t 35 17516128 MetatronCube 2020-01-25 00:08:00 doctor 2020-01-25 10:38:00
 Github 疑似被封锁？
 
 #p 21760909 MetatronCube 神蚀 2020-01-25 08:59:52
@@ -6,4 +6,12 @@ V2ray需要全局模式才能打开
 也ping不通
 网上也有人反映这两天访问不稳定
 此外，如图：
+
+#p 21761150 HDTTfun 泽 2020-01-25 10:34:30
+试了一下确实没连上
+#quote MetatronCube
+
+#p 21761161 doctor 老博士 2020-01-25 10:38:02
+不能让民众了解真相。
+#quote MetatronCube
 
