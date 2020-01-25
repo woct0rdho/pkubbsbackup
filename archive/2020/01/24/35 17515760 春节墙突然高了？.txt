@@ -1,4 +1,4 @@
-#t 35 17515760 jiamingpku 2020-01-24 00:23:00 PKUDDD 2020-01-25 08:53:00
+#t 35 17515760 jiamingpku 2020-01-24 00:23:00 MetatronCube 2020-01-25 09:10:00
 春节墙突然高了？
 
 #p 21760111 jiamingpku jiamingpku 2020-01-24 23:46:40
@@ -69,4 +69,9 @@ YouTube 看春晚直播不太行了 （大概是7点左右）
 我自己的vpn封了，然后看了看你的，也封了，看来这次范围挺大的
 #quote hiaoxui
 发自我的“北大未名”iOS客户端([http://t.cn/R7ZhtYc](jump-to.php?url=http%3A%2F%2Ft.cn%2FR7ZhtYc))
+
+#p 21760932 MetatronCube 神蚀 2020-01-25 09:09:29
+我v2ray换了一个端口，能用了
+准备搭建trojan作为后手
+#quote jiamingpku
 
