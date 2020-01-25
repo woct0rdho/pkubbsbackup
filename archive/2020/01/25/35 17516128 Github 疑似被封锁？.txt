@@ -1,4 +1,4 @@
-#t 35 17516128 MetatronCube 2020-01-25 00:08:00 MDP 2020-01-25 12:22:00
+#t 35 17516128 MetatronCube 2020-01-25 00:08:00 liuxilai 2020-01-26 00:32:00
 Github 疑似被封锁？
 
 #p 21760909 MetatronCube 神蚀 2020-01-25 08:59:52
@@ -17,5 +17,9 @@ V2ray需要全局模式才能打开
 
 #p 21761505 MDP MarkovDecisionProcess 2020-01-25 12:22:06
 我也发现了
+#quote MetatronCube
+
+#p 21763527 liuxilai Lewsley 2020-01-26 00:31:22
+应该不是？我这里电信可连，感觉和运营商有关系，之前也出现过我所用的电信不能访问但其他的可以的类似情况。
 #quote MetatronCube
 
