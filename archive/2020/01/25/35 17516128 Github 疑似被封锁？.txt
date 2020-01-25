@@ -1,4 +1,4 @@
-#t 35 17516128 MetatronCube 2020-01-25 00:08:00 doctor 2020-01-25 10:38:00
+#t 35 17516128 MetatronCube 2020-01-25 00:08:00 MDP 2020-01-25 12:22:00
 Github 疑似被封锁？
 
 #p 21760909 MetatronCube 神蚀 2020-01-25 08:59:52
@@ -13,5 +13,9 @@ V2ray需要全局模式才能打开
 
 #p 21761161 doctor 老博士 2020-01-25 10:38:02
 不能让民众了解真相。
+#quote MetatronCube
+
+#p 21761505 MDP MarkovDecisionProcess 2020-01-25 12:22:06
+我也发现了
 #quote MetatronCube
 
