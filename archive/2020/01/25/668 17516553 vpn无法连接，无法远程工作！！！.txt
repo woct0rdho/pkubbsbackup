@@ -1,4 +1,4 @@
-#t 668 17516553 xinxinxinxin 2020-01-25 17:46:00 PKUCC 2020-01-25 18:16:00
+#t 668 17516553 xinxinxinxin 2020-01-25 00:17:00 xinxinxinxin 2020-01-26 20:33:00
 vpn无法连接，无法远程工作！！！
 
 #p 21762297 xinxinxinxin 欣 2020-01-25 17:46:39
@@ -10,4 +10,14 @@ vpn无法连接，无法远程工作！！！
 Web_VPN模式：[https://vpns.pku.edu.cn](jump-to.php?url=https%3A%2F%2Fvpns.pku.edu.cn)
 客户端模式:[https://its.pku.edu.cn/service_1_vpn.jsp](jump-to.php?url=https%3A%2F%2Fits.pku.edu.cn%2Fservice_1_vpn.jsp)
 #quote xinxinxinxin
+
+#p 21766252 xinxinxinxin 欣 2020-01-26 20:17:36
+得，不满归不满，大过年的能得到回复还是很不容易的。
+幸苦了，新年快乐~
+#quote PKUCC
+
+#p 21766299 xinxinxinxin 欣 2020-01-26 20:32:54
+Windows10下卡的一批，而且经常断，完全没法用。Ubuntu下貌似还算流畅，电信、联通、通用接口都试了
+就是说一声，反正都不如不接vpn直接端口来的快
+#quote PKUCC
 
