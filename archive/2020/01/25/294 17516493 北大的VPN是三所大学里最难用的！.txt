@@ -1,4 +1,4 @@
-#t 294 17516493 slay 2020-01-25 00:16:00 endeavor 2020-01-26 16:45:00
+#t 294 17516493 slay 2020-01-25 00:16:00 angellll 2020-01-26 18:00:00
 北大的VPN是三所大学里最难用的！
 
 #p 21762075 slay 柚子 2020-01-25 16:35:37
@@ -192,5 +192,26 @@ MacBook pro
 
 #p 21765519 endeavor LT 2020-01-26 16:45:45
 macbook pro 最新macos系统。用的官网its上下载的客户端，没有出过啥问题。
+#quote slay
+
+#p 21765655 quick quick 2020-01-26 17:32:11
+总是出bug，连接网就上不了，还不如以前大学的···
+#quote slay
+
+#p 21765702 PKUCC 北京大学计算中心 2020-01-26 17:51:12
+#DELETED
+如果VPN登录后出现断网现象，请按如下方式处理：
+　　a) 打开控制面板选择“网络和共享中心--&gt;更改适配器--&gt;无线网卡WLAN”，右键选择属性，在下拉列表里，取消选中“Juniper Network Service”；
+　　b) 打开VPN客户端Pluse Secure，登录VPN后，在“网络和共享中心--&gt;更改适配器--&gt;Pluse Secure适配器”，同样右键选择属性，在下拉列表里取消选中“Juniper Network Service”
+VPN地址： [https://vpn.pku.edu.cn](jump-to.php?url=https%3A%2F%2Fvpn.pku.edu.cn) (推荐使用)
+如果推荐地址无法连接，可能是网络问题，请尝试以下地址：
+VPN教育网入口: [https://vpnc.pku.edu.cn](jump-to.php?url=https%3A%2F%2Fvpnc.pku.edu.cn)
+VPN电信入口: [https://vpnt.pku.edu.cn](jump-to.php?url=https%3A%2F%2Fvpnt.pku.edu.cn)
+VPN联通入口: [https://vpnu.pku.edu.cn](jump-to.php?url=https%3A%2F%2Fvpnu.pku.edu.cn)
+VPN电信通入口: [https://vpnp.pku.edu.cn](jump-to.php?url=https%3A%2F%2Fvpnp.pku.edu.cn)
+#quote slay
+
+#p 21765731 angellll aniiiiirrrrr 2020-01-26 17:59:44
+同意，➕1
 #quote slay
 
