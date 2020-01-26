@@ -1,4 +1,4 @@
-#t 251 17517078 bobprime 2020-01-26 00:05:00 bobprime 2020-01-26 12:07:00
+#t 251 17517078 bobprime 2020-01-26 00:05:00 FakeJuXie 2020-01-26 13:12:00
 为什么领导讲话，下面要疯狂做笔记
 
 #p 21763801 bobprime bobprime 2020-01-26 05:19:32
@@ -48,5 +48,9 @@ It's a show
 
 #p 21764659 bobprime bobprime 2020-01-26 12:06:51
 领导人这么大年纪了，记笔记能记过来吗
+#quote block
+
+#p 21764882 FakeJuXie FakeJuXie 2020-01-26 13:11:41
+学习了!
 #quote block
 
