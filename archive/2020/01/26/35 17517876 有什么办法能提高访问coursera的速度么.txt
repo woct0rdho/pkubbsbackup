@@ -1,4 +1,4 @@
-#t 35 17517876 mintcandy 2020-01-26 00:21:00 jiamingpku 2020-01-27 12:24:00
+#t 35 17517876 mintcandy 2020-01-26 00:21:00 mintcandy 2020-01-27 16:52:00
 有什么办法能提高访问coursera的速度么
 
 #p 21766484 mintcandy 来豆瓣找我玩呀 2020-01-26 21:44:10
@@ -23,4 +23,8 @@
 #p 21768397 jiamingpku jiamingpku 2020-01-27 12:23:45
 这个两年前的了当时用着还行，看评论也是好多失效的
 #quote windseeker
+
+#p 21769297 mintcandy 来豆瓣找我玩呀 2020-01-27 16:51:58
+今天试着挂学校的VPN感觉快一些了~
+#quote mintcandy
 
