@@ -1,0 +1,15 @@
+#t 668 17518502 xelmirage 2020-01-27 11:21:00 PKUCC 2020-01-27 11:38:00
+请计算中心及时优化VPN连接质量
+
+#p 21768165 xelmirage 糊你一脸 2020-01-27 11:20:51
+现在疫情这么严峻各个院系都不让同学们返校了，要在家工作的同学们都严重依赖VPN
+但是VPN的连接质量还是一如既往的堪忧，连RDP不是老断就是持续卡顿，严重影响工作，这么糟糕的体验简直就是逼人回学校
+请计算中心对VPN连接质量进行有效优化，让同学们可以安心在家工作
+
+#p 21768240 PKUCC 北京大学计算中心 2020-01-27 11:37:53
+你好，学校提供了如下三种VPN模式，请根据自己需求选取使用。
+轻量级VPN模式，支持rdp/ssh等协议的无客户端使用：[https://wpn.pku.edu.cn](jump-to.php?url=https%3A%2F%2Fwpn.pku.edu.cn)
+常规的客户端模式:[https://its.pku.edu.cn/service_1_vpn.jsp](jump-to.php?url=https%3A%2F%2Fits.pku.edu.cn%2Fservice_1_vpn.jsp)（支持选择不同的链路访问）
+无客户端和客户端同时支持的VPN：[https://vpns.pku.edu.cn](jump-to.php?url=https%3A%2F%2Fvpns.pku.edu.cn)
+#quote xelmirage
+
