@@ -1,4 +1,4 @@
-#t 35 17517876 mintcandy 2020-01-26 00:21:00 jiamingpku 2020-01-27 08:44:00
+#t 35 17517876 mintcandy 2020-01-26 00:21:00 jiamingpku 2020-01-27 12:24:00
 有什么办法能提高访问coursera的速度么
 
 #p 21766484 mintcandy 来豆瓣找我玩呀 2020-01-26 21:44:10
@@ -14,4 +14,13 @@
 为什么上Coursera 网站很卡？ - 羅亦奇的回答 - 知乎
 [https://www.zhihu.com/question/22792917/answer/142221065](jump-to.php?url=https%3A%2F%2Fwww.zhihu.com%2Fquestion%2F22792917%2Fanswer%2F142221065)
 #quote mintcandy
+
+#p 21768383 windseeker 风行者 2020-01-27 12:18:12
+这个似乎对我无效……
+一直觉得 coursera 的速度是个谜，有时候 VPN 能速度变得很快，有时候开了 VPN 速度变得更慢。
+#quote jiamingpku
+
+#p 21768397 jiamingpku jiamingpku 2020-01-27 12:23:45
+这个两年前的了当时用着还行，看评论也是好多失效的
+#quote windseeker
 
