@@ -1,4 +1,4 @@
-#t 35 17517876 mintcandy 2020-01-26 21:44:00 karlmarx 2020-01-26 22:01:00
+#t 35 17517876 mintcandy 2020-01-26 00:21:00 jiamingpku 2020-01-27 08:44:00
 有什么办法能提高访问coursera的速度么
 
 #p 21766484 mintcandy 来豆瓣找我玩呀 2020-01-26 21:44:10
@@ -8,5 +8,10 @@
 
 #p 21766520 karlmarx 还我三角地！灵均·六月雪 2020-01-26 22:00:42
 换梯子。手机或平板，用1.1.1.1
+#quote mintcandy
+
+#p 21767723 jiamingpku jiamingpku 2020-01-27 08:43:39
+为什么上Coursera 网站很卡？ - 羅亦奇的回答 - 知乎
+[https://www.zhihu.com/question/22792917/answer/142221065](jump-to.php?url=https%3A%2F%2Fwww.zhihu.com%2Fquestion%2F22792917%2Fanswer%2F142221065)
 #quote mintcandy
 
