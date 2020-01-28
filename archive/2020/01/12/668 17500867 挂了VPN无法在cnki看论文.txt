@@ -1,4 +1,4 @@
-#t 668 17500867 Satoyann 2020-01-12 00:23:00 Homagod 2020-01-24 17:16:00
+#t 668 17500867 Satoyann 2020-01-12 00:23:00 Homagod 2020-01-24 00:17:00
 挂了VPN无法在cnki看论文
 
 #p 21704057 Satoyann 洒脱系赞 2020-01-12 23:10:14
@@ -44,5 +44,15 @@
 #p 21759193 Homagod 不愉快です 2020-01-24 17:15:54
 vpn上知网是真不行
 我在日本一年基本上没成功过，让同学帮忙吧
+#quote Satoyann
+
+#p 21772004 Qiulin Qiulin 2020-01-28 12:53:39
+#DELETED
+登了学校网关，也连接了Pulse Secure, 还是无法作为北大用户进入知网下载或在线阅读文献，是什么原因呢 &gt;.&lt; 
+#quote Satoyann
+
+#p 21772006 Qiulin Qiulin 2020-01-28 12:54:34
+#DELETED
+登了学校网关，也连接了Pulse Secure, 还是无法作为北大用户进入知网下载或在线阅读文献，是什么原因呢 &gt;.&lt;
 #quote Satoyann
 
