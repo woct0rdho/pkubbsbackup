@@ -1,0 +1,24 @@
+#t 668 17520280 dvorah 2020-01-28 22:07:00 dvorah 2020-01-28 22:49:00
+关于通过CARSI在校外直接访问部分电子资源的通知
+
+#p 21774023 dvorah 尺蠖·德沃夏蛤 2020-01-28 22:07:03
+[https://its.pku.edu.cn/announce/tz20200128202900.jsp](jump-to.php?url=https%3A%2F%2Fits.pku.edu.cn%2Fannounce%2Ftz20200128202900.jsp)
+看到这个直接转过来了
+根据学校疫情防控工作部署，计算中心为全校师生提供一种通过CARSI在校外直接访问部分电子资源的方法，无需使用VPN。
+电子资源目录：[https://ds.carsi.edu.cn/resourcelist.html](jump-to.php?url=https%3A%2F%2Fds.carsi.edu.cn%2Fresourcelist.html)
+该资源目录目前已收录知网、EBSCO、Emerald、IEEE、RSC、SpringerNature等40多种电子资源，具体使用方法请参考资源目录中相应的访问流程说明。
+如需帮助，请联系计算中心用户热线：62751023，电子邮件：its@pku.edu.cn。
+
+#p 21774138 Wolfson Canis lupus 2020-01-28 22:38:23
+您好，
+[https://ds.carsi.edu.cn/resourcelist.html](jump-to.php?url=https%3A%2F%2Fds.carsi.edu.cn%2Fresourcelist.html) 页面上nature的帮助文档打不开呢。能帮忙看一下么？
+谢谢您啦！
+#quote dvorah
+
+#p 21774195 dvorah 尺蠖·德沃夏蛤 2020-01-28 22:49:11
+有些应该是等进一步补充
+ 大概方法都差不多 
+  点击nature中间蓝字链接   右上角 login 跳转后 选择log in下方的  Access through your institution
+ 输入peking  university  点选链接跳转
+#quote Wolfson
+

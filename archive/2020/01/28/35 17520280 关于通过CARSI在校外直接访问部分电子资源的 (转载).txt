@@ -1,0 +1,12 @@
+#t 35 17520280 dvorah 2020-01-28 22:08:00 dvorah 2020-01-28 22:08:00
+关于通过CARSI在校外直接访问部分电子资源的 (转载)
+
+#p 21774024 dvorah 尺蠖·德沃夏蛤 2020-01-28 22:07:14
+[原文由 dvorah 发表在 PKU_CC 版 &gt;&gt;&gt;](post-read.php?bid=668&amp;threadid=17520280)
+[https://its.pku.edu.cn/announce/tz20200128202900.jsp](jump-to.php?url=https%3A%2F%2Fits.pku.edu.cn%2Fannounce%2Ftz20200128202900.jsp)
+看到这个直接转过来了
+根据学校疫情防控工作部署，计算中心为全校师生提供一种通过CARSI在校外直接访问部分电子资源的方法，无需使用VPN。
+电子资源目录：[https://ds.carsi.edu.cn/resourcelist.html](jump-to.php?url=https%3A%2F%2Fds.carsi.edu.cn%2Fresourcelist.html)
+该资源目录目前已收录知网、EBSCO、Emerald、IEEE、RSC、SpringerNature等40多种电子资源，具体使用方法请参考资源目录中相应的访问流程说明。
+如需帮助，请联系计算中心用户热线：62751023，电子邮件：its@pku.edu.cn。
+
