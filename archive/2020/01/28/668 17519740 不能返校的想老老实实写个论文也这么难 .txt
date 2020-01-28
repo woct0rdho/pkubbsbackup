@@ -1,6 +1,11 @@
-#t 668 17519740 Qiulin 2020-01-28 12:58:00 Qiulin 2020-01-28 12:58:00
+#t 668 17519740 Qiulin 2020-01-28 12:58:00 PKUCC 2020-01-28 13:15:00
 不能返校的想老老实实写个论文也这么难 
 
 #p 21772019 Qiulin Qiulin 2020-01-28 12:58:01
 登了学校网关，也连接了Pulse Secure, 还是无法作为北大用户进入知网下载或在线阅读文献，是什么原因呢 &gt;.&lt;
+
+#p 21772052 PKUCC 北京大学计算中心 2020-01-28 13:15:00
+你好，
+如果搞不定pulse secure, 建议使用[https://vpns.pku.edu.cn](jump-to.php?url=https%3A%2F%2Fvpns.pku.edu.cn),无需安装客户端。
+#quote Qiulin
 
