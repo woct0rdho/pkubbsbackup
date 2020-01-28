@@ -1,4 +1,4 @@
-#t 668 17518502 xelmirage 2020-01-27 00:11:00 jiamingpku 2020-01-27 23:23:00
+#t 668 17518502 xelmirage 2020-01-27 00:11:00 PKUCC 2020-01-28 10:56:00
 请计算中心及时优化VPN连接质量
 
 #p 21768165 xelmirage 糊你一脸 2020-01-27 11:20:51
@@ -32,4 +32,20 @@
 #p 21770502 jiamingpku jiamingpku 2020-01-27 23:22:22
 想多了
 #quote Niyi
+
+#p 21771475 PKUCC 北京大学计算中心 2020-01-28 10:36:48
+通常是本地链路速度质量差导致的，试着ping vpn.pku.edu.cn -t，查查是否延迟很大或时快时慢极其不稳定？
+#quote mht
+
+#p 21771513 mht MHT 2020-01-28 10:42:54
+而且为啥打开pulse这个软件，电脑经常就卡住了呢
+#quote PKUCC
+
+#p 21771550 CharleneYang 神迷塔米 2020-01-28 10:47:27
+求问一下mac 的pulse secure一直显示错误，也没有办法重新安装是什么原因啊？
+#quote xelmirage
+
+#p 21771593 PKUCC 北京大学计算中心 2020-01-28 10:55:33
+您用Web-vpn试试，无需安装客户端
+#quote CharleneYang
 

@@ -1,4 +1,4 @@
-#t 668 17510487 mycNoone 2020-01-21 00:23:00 PKUCC 2020-01-22 08:05:00
+#t 668 17510487 mycNoone 2020-01-21 00:23:00 CharleneYang 2020-01-28 10:56:00
 Pulse Secure失效问题(转载)
 
 #p 21749327 mycNoone 雪菜厨|傻狗|重度ky患者 2020-01-21 23:14:00
@@ -23,4 +23,8 @@ iPad加一，安卓没问题。另外，Linux的pulse secure无法启动
 #p 21750150 PKUCC 北京大学计算中心 2020-01-22 08:04:23
 请站内私信学号，以便查找原因。Linux有不同的版本，请私信邮箱。另建议您使用[https://vpns.pku.edu.cn](jump-to.php?url=https%3A%2F%2Fvpns.pku.edu.cn),无需使用客户端。
 #quote mycNoone
+
+#p 21771591 CharleneYang 神迷塔米 2020-01-28 10:55:20
+请问一下，mac的pulse secure重新安装也一直显示错误，是否能够提供更新版本的pulse secure软件？
+#quote PKUCC
 
