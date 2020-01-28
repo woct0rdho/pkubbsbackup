@@ -1,4 +1,4 @@
-#t 668 17520280 dvorah 2020-01-28 22:07:00 dvorah 2020-01-28 22:50:00
+#t 668 17520280 dvorah 2020-01-28 00:22:00 PKUCC 2020-01-29 00:06:00
 关于通过CARSI在校外直接访问部分电子资源的通知
 
 #p 21774023 dvorah 尺蠖·德沃夏蛤 2020-01-28 22:07:03
@@ -20,5 +20,9 @@
  大概方法都差不多 
   点击nature中间蓝字链接   右上角 login 跳转后 选择log in下方的  Access through your institution
  输入peking  university  点选链接跳转
+#quote Wolfson
+
+#p 21774533 PKUCC 北京大学计算中心 2020-01-29 00:05:59
+好了，看一下。
 #quote Wolfson
 
