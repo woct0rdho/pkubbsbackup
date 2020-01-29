@@ -1,4 +1,4 @@
-#t 35 17519900 tryndamere 2020-01-28 00:15:00 dvorah 2020-01-28 22:05:00
+#t 35 17519900 tryndamere 2020-01-28 00:15:00 scalefree 2020-01-29 10:12:00
 求助：连接VPN显示 此领域用户数太多
 
 #p 21772553 tryndamere 自己人/ 2020-01-28 15:51:57
@@ -18,5 +18,9 @@
 
 #p 21774014 dvorah 尺蠖·德沃夏蛤 2020-01-28 22:05:10
 [https://mp.weixin.qq.com/s/1mAINl9fqeXE7NvccmSxgQ](jump-to.php?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F1mAINl9fqeXE7NvccmSxgQ)
+#quote tryndamere
+
+#p 21775522 scalefree 蛋白质手刀 2020-01-29 10:11:46
+等就完事了。。。白天还是很流畅的，越到晚上越拥堵
 #quote tryndamere
 
