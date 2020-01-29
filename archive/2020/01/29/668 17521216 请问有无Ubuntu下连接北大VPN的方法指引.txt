@@ -1,4 +1,4 @@
-#t 668 17521216 hellworld 2020-01-29 17:05:00 hellworld 2020-01-29 17:59:00
+#t 668 17521216 hellworld 2020-01-29 00:17:00 xinxinxinxin 2020-01-29 21:01:00
 请问有无Ubuntu下连接北大VPN的方法指引
 
 #p 21777132 hellworld hellworld 2020-01-29 17:04:37
@@ -18,4 +18,8 @@
 #p 21777276 hellworld hellworld 2020-01-29 17:58:42
 阅读该文件的文档之后解决，谢谢回复。
 #quote PKUCC
+
+#p 21778104 xinxinxinxin 欣 2020-01-29 21:00:50
+我是在ubuntu下安装的pulse，直接安装会打不开。你在命令行里启动程序，会报错缺少两个库，然后把那两个库装了就能打开了，基本操作和windows下差不多。
+#quote hellworld
 
