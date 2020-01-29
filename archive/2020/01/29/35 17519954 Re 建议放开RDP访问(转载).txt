@@ -1,0 +1,8 @@
+#t 35 17519954 dvorah 2020-01-29 11:20:00 dvorah 2020-01-29 11:20:00
+Re 建议放开RDP访问(转载)
+
+#p 21775884 dvorah 尺蠖·德沃夏蛤 2020-01-29 11:19:26
+[原文由 PKUCC 发表在 PKU_CC 版 &gt;&gt;&gt;](post-read.php?bid=668&amp;threadid=17519954)
+你好，学校提供了轻量级VPN模式，支持rdp/ssh等协议的无客户端使用：[https://wpn.pku.edu.cn](jump-to.php?url=https%3A%2F%2Fwpn.pku.edu.cn)，建议试试。有使用问题欢迎电话联系010-62751023
+#quote LW
+
