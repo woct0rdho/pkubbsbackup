@@ -1,0 +1,21 @@
+#t 668 17521216 hellworld 2020-01-29 17:05:00 hellworld 2020-01-29 17:59:00
+请问有无Ubuntu下连接北大VPN的方法指引
+
+#p 21777132 hellworld hellworld 2020-01-29 17:04:37
+根据贵中心的VPN帮助说明（[https://its.pku.edu.cn/service_1_vpn_client.jsp](jump-to.php?url=https%3A%2F%2Fits.pku.edu.cn%2Fservice_1_vpn_client.jsp)）里面并无Linux下如何连接VPN的说明，安装了贵中心提供的包之后，发现后面只有一句
+“Linux系统客户端只需在“登录页面”里输入VPN服务器为[https://vpn.pku.edu.cn](jump-to.php?url=https%3A%2F%2Fvpn.pku.edu.cn)即可。”
+请问登录页面在哪？
+请给详细说明。
+
+#p 21777148 hellworld hellworld 2020-01-29 17:11:10
+自问自答一下……去看文档
+#quote hellworld
+
+#p 21777232 PKUCC 北京大学计算中心 2020-01-29 17:44:14
+你好，如果是桌面环境，与WINDOWS下的配置没什么区别。若需要命令行，请发邮件到its@pku.edu.cn。
+#quote hellworld
+
+#p 21777276 hellworld hellworld 2020-01-29 17:58:42
+阅读该文件的文档之后解决，谢谢回复。
+#quote PKUCC
+
