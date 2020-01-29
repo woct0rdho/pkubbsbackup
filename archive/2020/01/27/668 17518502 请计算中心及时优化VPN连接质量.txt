@@ -1,4 +1,4 @@
-#t 668 17518502 xelmirage 2020-01-27 00:11:00 jiamingpku 2020-01-28 19:34:00
+#t 668 17518502 xelmirage 2020-01-27 00:11:00 fbw 2020-01-29 12:50:00
 请计算中心及时优化VPN连接质量
 
 #p 21768165 xelmirage 糊你一脸 2020-01-27 11:20:51
@@ -60,4 +60,8 @@
 #p 21773357 jiamingpku jiamingpku 2020-01-28 19:33:32
 [https://bbs.pku.edu.cn/v2/thread.php?bid=1001](thread.php?bid=1001)
 #quote Niyi
+
+#p 21776339 fbw 小小狈 2020-01-29 12:49:22
+使用 [https://wpn.pku.edu.cn/](jump-to.php?url=https%3A%2F%2Fwpn.pku.edu.cn%2F)的同学，登录后bbs-常用网站 直达图书馆和校内应用
+#quote PKUCC
 
