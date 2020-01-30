@@ -1,0 +1,12 @@
+#t 35 17522202 XiaoNi 2020-01-30 13:16:00 hiaoxui 2020-01-30 13:38:00
+Mac如何设置ubuntu虚拟机走主机代理？
+
+#p 21780676 XiaoNi \varnothing 2020-01-30 13:15:21
+Parallels Desktop装的ubuntu虚拟机，主机Macos已经用ss代理。打算让ubuntu也用ss代理。但是小白弄了一天也没设置成功，所以打算直接让ubuntu走主机的ss，请问这样可行吗？可以的话麻烦告诉我怎么操作，十分感谢。
+
+#p 21780733 hiaoxui 小辉 2020-01-30 13:37:27
+这应该不是一个简单的问题...
+我的解决方案是再开一台虚拟机当路由器, 用 REDSOCKS 把  PREROUTING 的包交给 SS 代理.
+如果没有太变态的需求的话, 可以考虑直接在 ubuntu 上运行 ss, 应该是更简洁的解决方案.
+#quote XiaoNi
+
