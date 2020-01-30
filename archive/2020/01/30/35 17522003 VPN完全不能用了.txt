@@ -1,0 +1,15 @@
+#t 35 17522003 yufeicao 2020-01-30 09:33:00 yufeicao 2020-01-30 09:41:00
+VPN完全不能用了
+
+#p 21779678 yufeicao 飞鹰 2020-01-30 09:33:01
+VPN完全不能用了，点击连接后登陆不了知网，怎么恢复下？
+
+#p 21779703 dvorah 尺蠖·德沃夏蛤 2020-01-30 09:40:05
+[https://fsso.cnki.net/](jump-to.php?url=https%3A%2F%2Ffsso.cnki.net%2F)
+参照上面CARSI的访问 一帖
+#quote yufeicao
+
+#p 21779706 yufeicao 飞鹰 2020-01-30 09:41:19
+谢谢~
+#quote dvorah
+
