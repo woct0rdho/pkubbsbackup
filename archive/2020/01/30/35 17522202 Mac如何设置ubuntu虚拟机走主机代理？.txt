@@ -1,4 +1,4 @@
-#t 35 17522202 XiaoNi 2020-01-30 00:13:00 dingbur 2020-01-30 15:40:00
+#t 35 17522202 XiaoNi 2020-01-30 00:13:00 XiaoNi 2020-01-30 17:52:00
 Mac如何设置ubuntu虚拟机走主机代理？
 
 #p 21780676 XiaoNi \varnothing 2020-01-30 13:15:21
@@ -23,4 +23,27 @@ Parallels Desktop装的ubuntu虚拟机，主机Macos已经用ss代理。打算�
 ubuntu直接运行ss肯定是最简单的方法。
 单说你的方法2，我不是ubuntu用户，不太清楚ubuntu的配置细节。但是如果你手动运行ssserver，那就不能用systemctl去查它的状态，直接ps aux | grep ssserver看看有没有对应进程就行。在调试的时候可以把参数-d start去掉在前台运行，看看log有没有问题。确认没有问题以后再加上-d start后台启动或者直接用systemd管理。
 #quote XiaoNi
+
+#p 21781500 gspku null 2020-01-30 17:47:00
+
+
+2020-01-30 17:30:08
+先说一下操作二里的错误：
+rc-local.service是开机一次性执行性质的系统服务，执行完自然会退出进入inactive状态，是正常现象。
+sudo ssserver -c /etc/shadowsocks.json -d start命令的作用是启动ss服务器并且在后台运行，并不会自动设置开机自启，和rc.local没有任何关系。自然用systemctl无法检查它的状态。而且你这里不应该用ssserver，客户端应该用sslocal才对。
+操作一（使用ss-qt）应该是正确的
+“失败”具体指什么情况？ 是指程序不走SS吗？
+Linux里的ss是没有全局代理功能的（不准确，暂且这么理解）。也就是说，单纯启动ss之后，各种程序是不走SS的。需要设置程序使用SOCKS5代理（地址127.0.0.1，端口是ss里设置的本地端口），才能走SS。
+Chrome和Firefox浏览器可以使用SwitchyOmega扩展来实现自动切换代理的功能。
+关于这些问题的解决方法，目前网上还是较容易找到的，就算是使用不靠谱的百度搜索“ss-qt”，也能搜到一些有用的解答。
+#quote XiaoNi
+
+#p 21781537 XiaoNi \varnothing 2020-01-30 17:51:18
+第二种我看不懂了:)，那先说第一种吧：
+我说的失败是指firefox无法访问外网，其他程序暂时没有试过。
+另外“设置程序使用SOCK5代理”具体应该怎么操作？
+设置成功之后Firefox还需要使用那个拓展吗？
+其他程序（如邮箱）应该怎么做才能访问外网？
+谢谢回答🐶
+#quote gspku
 
