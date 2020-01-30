@@ -1,4 +1,4 @@
-#t 35 17522202 XiaoNi 2020-01-30 00:13:00 XiaoNi 2020-01-30 14:38:00
+#t 35 17522202 XiaoNi 2020-01-30 00:13:00 dingbur 2020-01-30 15:40:00
 Mac如何设置ubuntu虚拟机走主机代理？
 
 #p 21780676 XiaoNi \varnothing 2020-01-30 13:15:21
@@ -18,4 +18,9 @@ Parallels Desktop装的ubuntu虚拟机，主机Macos已经用ss代理。打算�
 结果：显示inactive(dead)
 请问我这两种方法的哪几步错了ಥ_ಥ
 #quote hiaoxui
+
+#p 21781139 dingbur dingbur 2020-01-30 15:39:48
+ubuntu直接运行ss肯定是最简单的方法。
+单说你的方法2，我不是ubuntu用户，不太清楚ubuntu的配置细节。但是如果你手动运行ssserver，那就不能用systemctl去查它的状态，直接ps aux | grep ssserver看看有没有对应进程就行。在调试的时候可以把参数-d start去掉在前台运行，看看log有没有问题。确认没有问题以后再加上-d start后台启动或者直接用systemd管理。
+#quote XiaoNi
 
