@@ -1,4 +1,4 @@
-#t 35 17522202 XiaoNi 2020-01-30 00:13:00 vimacs 2020-01-30 19:00:00
+#t 35 17522202 XiaoNi 2020-01-30 00:13:00 hiaoxui 2020-01-31 02:35:00
 Mac如何设置ubuntu虚拟机走主机代理？
 
 #p 21780676 XiaoNi \varnothing 2020-01-30 13:15:21
@@ -64,5 +64,20 @@ Chrome和Firefox浏览器可以使用SwitchyOmega扩展来实现自动切换代�
 #p 21781771 vimacs Lisp Interaction Paredit AC 2020-01-30 18:59:13
 shadowsocks客户端程序的名字是sslocal而不是ssserver.
 systemctl是配服务的，配置文件也不需要放到/etc下，你应该先运行sslocal测一下代理能不能用，再考虑配置成服务。
+#quote XiaoNi
+
+#p 21783213 hiaoxui 小辉 2020-01-31 02:32:27
+ss-qt 只能在本地 1080 端口 (这是默认设置) 给你开一个 ss 的服务, 你的程序需要主动把自己代理到 socks5://127.0.0.1:1080 才行. 大部分情况下你应该是需要翻墙浏览网页, 所以你下载一些浏览器插件 (比如 switchyomega), 然后把浏览器插件代理到上述地址就可以了.
+如果你不想或者因为不能翻墙所以没法下载浏览器插件, 可以考虑修改 ubuntu 的系统设置里的 proxy 选项, 把它代理到 socks5://127.0.0.1:1080. 但是我不是很清楚这个系统代理都负责一些什么任务, 不过至少浏览器是被代理的.
+如果你想在命令行代理, 你可以用 proxychains 之类的代理软件代理到 ss, 这是最简单的方案.
+如果你想彻底代理自己的虚拟机, 还是得从网卡下手. 这种情况下你要学的东西就太多了.
+另外 ssserver 是用来建立 ss 服务器的, sslocal 才是客户端.
+#quote XiaoNi
+
+#p 21783215 hiaoxui 小辉 2020-01-31 02:34:38
+我可以帮助提供一下 chrome 的浏览器插件:
+[https://hiaoxui.com/f/switchyomega/4bbjd9p4](jump-to.php?url=https%3A%2F%2Fhiaoxui.com%2Ff%2Fswitchyomega%2F4bbjd9p4)
+因为你下载这个插件可能需要翻墙. 这个压缩包里已经包含了我写好的一个配置备份, 你直接导入就能用.
+你可以去 google 一下这个插件怎么用. 注意一定要配合 ss 使用.
 #quote XiaoNi
 
