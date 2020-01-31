@@ -1,4 +1,4 @@
-#t 35 17522202 XiaoNi 2020-01-30 00:13:00 XiaoNi 2020-01-31 09:26:00
+#t 35 17522202 XiaoNi 2020-01-30 00:13:00 RyanBern 2020-01-31 13:56:00
 Mac如何设置ubuntu虚拟机走主机代理？
 
 #p 21780676 XiaoNi \varnothing 2020-01-30 13:15:21
@@ -95,4 +95,40 @@ ss-qt 只能在本地 1080 端口 (这是默认设置) 给你开一个 ss 的服
 失败🏳️。我等下试试v2ray的vmess算了，听说这个可以全局。
 多谢指导(´･ω･`)
 #quote hiaoxui
+
+#p 21784934 RyanBern r.bern 2020-01-31 13:55:53
+分享一下自己在 ubuntu 上 fq 的解决方案吧，用了好几年了没出啥问题。楼主的 ubuntu 在虚拟机内，在虚拟机网络正确配置的条件下，在虚拟机内配置 ss 和在 linux host 上直接配置的过程是一样的。
+**注：配置前请关闭或卸载之前安装过的其它客户端。**
+**一、客户端准备**
+看楼上大多讨论的是 ssserver/sslocal，这个是 shadowsocks-python 里的命令。现在使用 shadowsocks-libev (ss-libev) 可能更好一些（命令是 ss-server/ss-local，中间带个 - ），之前看到 shadowsocks-qt5 已经停止支持了。
+ss-libev 的安装方式见 [https://github.com/shadowsocks/shadowsocks-libev](jump-to.php?url=https%3A%2F%2Fgithub.com%2Fshadowsocks%2Fshadowsocks-libev)，高版本的 ubuntu 可直接从源安装。
+sudo apt install shadowsocks-libev
+安装完毕后，系统会创建个新目录 /etc/shadowsocks-libev，里面有一个示例配置文件 config.json。将这个文件复制一份（示例：1.json）。
+cd /etc/shadowsocks-libevsudo cp config.json 1.json
+编辑 1.json，填写你自己的服务器配置（地址，服务器端口，加密方式，密码等）。
+最后一步是启动服务
+sudo systemctl start shadowsocks-libev-local@1sudo systemctl enable shadowsocks-libev-local@1
+这里 1 对应的就是 1.json，如果使用了其它名称请换成相应的文件名。
+可用 systemctl status shadowsocks-libev-local@1 来检查服务是否正常启动。
+**二、程序配置（firefox）**
+ubuntu 上的全局代理配置不太好用，我的方案还是具体到每个应用上。以 firefox 为例，选择 Preferences -&gt; General，拉到最下面的 Network Settings ，进入后会看到代理配置。我自己常用的是 pac 模式 (Automatic proxy configuration url)。
+使用 pac 模式需要 pac 文件，这个是用程序生成的，推荐用 gfwlist2pac。为此先去 github 下载 gfwlist：[https://github.com/gfwlist/gfwlist](jump-to.php?url=https%3A%2F%2Fgithub.com%2Fgfwlist%2Fgfwlist) 
+之后下载  gfwlist2pac 程序：
+sudo apt install python-pippip install gfwlist2pac --user
+注意 gfwlist2pac 是基于 python2 编写的，不兼容 python3。
+生成 pac 文件的命令是：
+gfwlist2pac -i gfwlist.txt -f proxy.pac -p "SOCKS5 127.0.0.1:1080"
+这里 SOCKS5 127.0.0.1:1080 是你的 ss-local 代理地址和端口，如果使用了别的端口需要做相应调整。
+生成 pac 文件之后，在 firefox 配置的 Automatic proxy configuration url 中输入 pac 文件的位置。例：file:///home/user/proxy.pac。
+并勾选下方的 proxy dns using socks5，最后重启 firefox 即可生效。
+注意：pac 规则是根据 gfwlist 生成的，因此这个文件要定期更新。某些被墙的地址可能没被 gfwlist 收录，这时候需要在 Network Settings 中选择 Manual 模式强行 fq。
+**三、其它程序配置**
+一般需要联网的程序都有独立的代理设置区域，例如：Dropbox：Prefercence -&gt; Proxies
+命令行 fq 可用 proxychains 小工具（楼上大佬已经提到了）
+安装：
+sudo apt install proxychains4
+修改 /etc/proxychains.conf 后，使用方式是在所有需要过代理的命令前打个 proxychains4
+proxychains4 curl https://www.baidu.com
+最后注意：启动客户端和应用过代理是两个独立步骤，需要根据具体情况来配置。
+#quote XiaoNi
 
