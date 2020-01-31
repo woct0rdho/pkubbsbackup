@@ -1,4 +1,4 @@
-#t 35 17522202 XiaoNi 2020-01-30 00:13:00 hiaoxui 2020-01-31 02:35:00
+#t 35 17522202 XiaoNi 2020-01-30 00:13:00 XiaoNi 2020-01-31 09:26:00
 Mac如何设置ubuntu虚拟机走主机代理？
 
 #p 21780676 XiaoNi \varnothing 2020-01-30 13:15:21
@@ -80,4 +80,19 @@ ss-qt 只能在本地 1080 端口 (这是默认设置) 给你开一个 ss 的服
 因为你下载这个插件可能需要翻墙. 这个压缩包里已经包含了我写好的一个配置备份, 你直接导入就能用.
 你可以去 google 一下这个插件怎么用. 注意一定要配合 ss 使用.
 #quote XiaoNi
+
+#p 21783629 XiaoNi \varnothing 2020-01-31 09:04:04
+哇成功了！原来是因为我没下这个插件( ･᷄ὢ･᷅ )
+请问其他程序有类似的东西吗？我的邮箱什么的还是登不上去∠( ᐛ 」∠)＿
+#quote hiaoxui
+
+#p 21783652 hiaoxui 小辉 2020-01-31 09:10:31
+应该每个软件都要单独代理. 我想你说的可能是 evolution? Evolution 内部自带代理设置, 在 preferences -&gt; Network Preferences -&gt; Default Proxy Settings. 用 socks5 127.0.0.1 和 1080 端口就可以了.
+或者你可以在桌面设置里开启桌面级别的代理设置, 和 evolution 同理.
+#quote XiaoNi
+
+#p 21783696 XiaoNi \varnothing 2020-01-31 09:25:25
+失败🏳️。我等下试试v2ray的vmess算了，听说这个可以全局。
+多谢指导(´･ω･`)
+#quote hiaoxui
 
