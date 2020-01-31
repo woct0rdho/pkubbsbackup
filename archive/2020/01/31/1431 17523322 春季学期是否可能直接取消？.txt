@@ -1,4 +1,4 @@
-#t 1431 17523322 kierkegaard 2020-01-31 11:32:00 substract 2020-01-31 11:57:00
+#t 1431 17523322 kierkegaard 2020-01-31 00:11:00 Gross 2020-01-31 12:40:00
 春季学期是否可能直接取消？
 
 #p 21784250 kierkegaard Albert Camus 2020-01-31 11:32:13
@@ -10,5 +10,13 @@
 
 #p 21784378 substract 撤回了一条消息 2020-01-31 11:56:46
 怎么可能………………
+#quote kierkegaard
+
+#p 21784597 kierkegaard Albert Camus 2020-01-31 12:32:55
+怎么不可能？牛顿时代大学停了一年半
+#quote substract
+
+#p 21784629 Gross G 2020-01-31 12:39:21
+那毕业怎么办？所有人都要延半年？
 #quote kierkegaard
 
