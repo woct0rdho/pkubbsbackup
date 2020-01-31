@@ -1,4 +1,4 @@
-#t 35 17522202 XiaoNi 2020-01-30 00:13:00 RyanBern 2020-01-31 13:56:00
+#t 35 17522202 XiaoNi 2020-01-30 00:13:00 XiaoNi 2020-01-31 16:52:00
 Mac如何设置ubuntu虚拟机走主机代理？
 
 #p 21780676 XiaoNi \varnothing 2020-01-30 13:15:21
@@ -131,4 +131,8 @@ sudo apt install proxychains4
 proxychains4 curl https://www.baidu.com
 最后注意：启动客户端和应用过代理是两个独立步骤，需要根据具体情况来配置。
 #quote XiaoNi
+
+#p 21785580 XiaoNi \varnothing 2020-01-31 16:52:05
+不胜感激！待我细细拜读(｡･ω･｡)ﾉ
+#quote RyanBern
 
