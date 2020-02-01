@@ -1,4 +1,4 @@
-#t 1431 17523830 Antoine 2020-01-31 00:20:00 timelessblue 2020-02-01 23:58:00
+#t 1431 17523830 Antoine 2020-01-31 00:20:00 zhangxiaoqi 2020-02-02 00:44:00
 能不能有准确返校日期啊，要毕业的人真的耗不起
 
 #p 21786421 Antoine 有何不可 2020-01-31 20:50:45
@@ -43,4 +43,16 @@
 #p 21791171 timelessblue summerdaygoneway 2020-02-01 23:57:23
 本来订的1号回校的，这下感觉都要到3月了
 #quote timelessblue
+
+#p 21791238 zhangxiaoqi 柒先生 2020-02-02 00:12:58
+主要当前学校也决定不了吧，跟导师沟通了在家先写着吧……
+#quote Antoine
+
+#p 21791273 IlIl 王铁崖 2020-02-02 00:24:47
+家里的网上不了overleaf，简直要命😭😭😭
+#quote Antoine
+
+#p 21791324 zhangxiaoqi 柒先生 2020-02-02 00:43:11
+我每天挂着VPN在overleaf上码字，可以试试
+#quote IlIl
 
