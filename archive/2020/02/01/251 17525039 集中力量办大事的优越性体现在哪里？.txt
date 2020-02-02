@@ -1,4 +1,4 @@
-#t 251 17525039 Baandarin 2020-02-01 00:22:00 euio 2020-02-02 10:00:00
+#t 251 17525039 Baandarin 2020-02-01 00:22:00 Lanimus 2020-02-02 10:55:00
 集中力量办大事的优越性体现在哪里？
 
 #p 21790754 Baandarin 板子 2020-02-01 22:05:34
@@ -181,6 +181,7 @@ Z
 #quote herbertzou
 
 #p 21792048 XIIL 绝尘 2020-02-02 09:44:53
+#DELETED
 诛十族！
 #quote Vulcan
 
@@ -264,4 +265,60 @@ Z
 对上负责，做事就只需要屁股（坐稳位子）；
 对下负责，做事就更需要脑袋（多动脑子）。
 #quote seasideice
+
+#p 21792102 qiyu 齐羽 2020-02-02 10:01:09
+权力只对权力的来源负责。
+#quote euio
+
+#p 21792104 gaobo blabla 2020-02-02 10:01:34
+再多说一句，现在中国的医疗物资短缺很大程度上是结构性问题，根本原因就是日常的产能适应不了疫情之下的消耗，再加上春节放假产能不能一下子恢复。
+“以医用防护服为例，我国国内总的生产能力大概是3万套/天，算上出口的生产能力是5万套/天，如果没有发生疫情，满足需求绰绰有余。
+1月21日需求快速上升的时候，许多防护用品生产企业已经早早放假。经过一番摸底和做工作，1月26日，企业复工复产面达到40%。
+但同期仅湖北省提供的需求清单，就接近每天10万件医用防护服，更不用说全国其他地方了。供需矛盾非常突出。”
+引自 [https://mp.weixin.qq.com/s/TuwuTIhA-tkkM6mz87sBxg](jump-to.php?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FTuwuTIhA-tkkM6mz87sBxg)
+另外我很怀疑“前线医院只能靠跪求社会捐赠来维持，社会捐款反而变成主力了”这句话的真实性。湖北省一天报上来的防护服需求是10万件，那口罩需求可能是上百万件，因为相当一部分人，包括很多病人都需要戴口罩，但不需要防护服。我看到的捐赠的最大笔也就是二、三十万件，所以我估计主要还是靠政府调拨。
+#quote Baandarin
+
+#p 21792109 euio 耳目一心 2020-02-02 10:02:23
+那是自然。
+睁眼说瞎话的还在当指挥，能不想着怎么甩锅于人？
+#quote qiyu
+
+#p 21792114 euio 耳目一心 2020-02-02 10:04:36
+这个道理狗都知道。
+主人给狗吃的，狗就向主人摆尾巴。
+#quote qiyu
+
+#p 21792116 Nameless 麦田与十三岁|石榴成熟时 2020-02-02 10:04:43
+社会医院调配的医生是自愿的，部队医院的话职责所系吧，而且可能也是基于自愿。
+#quote Koppelbarg
+
+#p 21792222 Baandarin 板子 2020-02-02 10:34:15
+和波多黎各比烂？
+难不成建设社会主义为的是超越波多黎各这种国家
+#quote gaobo
+
+#p 21792245 gaobo blabla 2020-02-02 10:38:21
+波多黎各独立了？你可真是厉害，用嘴炮就能让美国解体。
+"1.5 million customers lost electricity across Puerto Rico, causing the largest blackout in US history."
+引自 [https://www.vox.com/identities/2018/8/15/17692414/puerto-rico-power-electricity-restored-hurricane-maria](jump-to.php?url=https%3A%2F%2Fwww.vox.com%2Fidentities%2F2018%2F8%2F15%2F17692414%2Fpuerto-rico-power-electricity-restored-hurricane-maria)
+另外，单单考虑波多黎各的人均gdp也是超过3万美元的。
+#quote Baandarin
+
+#p 21792257 redhated 小红帽 2020-02-02 10:40:49
+我和你不一样，我认为是99%
+#quote seasideice
+
+#p 21792266 GlaserHay 拉基醱鶸维奇 2020-02-02 10:42:06
+因为建医院不通过红会啊。
+另外新医院物资也是直接接受捐赠不通过红会，等于是国家意志上上下下完全接管
+#quote Baandarin
+
+#p 21792345 Lanimus Lanimus 2020-02-02 10:54:25
+您这个目前看来有数据对比依据吗，是因为捐赠的在媒体上出现频率高给人的错觉吧
+#quote Vulcan
+
+#p 21792346 Lanimus Lanimus 2020-02-02 10:54:28
+您这个目前看来有数据对比依据吗，是因为捐赠的在媒体上出现频率高给人的错觉吧
+#quote Vulcan
 
