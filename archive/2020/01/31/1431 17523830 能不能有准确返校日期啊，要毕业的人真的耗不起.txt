@@ -1,4 +1,4 @@
-#t 1431 17523830 Antoine 2020-01-31 00:20:00 Drogoncheng 2020-02-02 17:26:00
+#t 1431 17523830 Antoine 2020-01-31 00:20:00 xiongxiaoben 2020-02-02 18:42:00
 能不能有准确返校日期啊，要毕业的人真的耗不起
 
 #p 21786421 Antoine 有何不可 2020-01-31 20:50:45
@@ -151,4 +151,24 @@ overleaf国内可以直接用吧？
 #p 21794297 Drogoncheng Drogon 2020-02-02 17:25:53
 同求
 #quote Antoine
+
+#p 21794434 liuxunlin 燕南一猫 2020-02-02 18:19:30
+唔。。
+#quote dvorah
+
+#p 21794440 liuxunlin 燕南一猫 2020-02-02 18:21:10
+捏回去！
+#quote zqzq
+
+#p 21794508 xiongxiaoben tianyi 2020-02-02 18:40:38
+老老实实用texstudio不好么
+#quote IlIl
+
+#p 21794509 xiongxiaoben tianyi 2020-02-02 18:40:57
+老老实实用texstudio不好么
+#quote zhangxiaoqi
+
+#p 21794510 xiongxiaoben tianyi 2020-02-02 18:41:19
+老老实实用texstudio不好么
+#quote sysml
 
