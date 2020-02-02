@@ -1,4 +1,4 @@
-#t 1431 17523830 Antoine 2020-01-31 00:20:00 liuxunlin 2020-02-02 04:39:00
+#t 1431 17523830 Antoine 2020-01-31 00:20:00 jiamingpku 2020-02-02 09:36:00
 能不能有准确返校日期啊，要毕业的人真的耗不起
 
 #p 21786421 Antoine 有何不可 2020-01-31 20:50:45
@@ -62,4 +62,8 @@
 2020-02-02 04:38:35
 恐怕真没有。。bless...
 #quote Antoine
+
+#p 21792012 jiamingpku jiamingpku 2020-02-02 09:35:06
+[https://www.slant.co/topics/8032/~online-latex-editors](jump-to.php?url=https%3A%2F%2Fwww.slant.co%2Ftopics%2F8032%2F%7Eonline-latex-editors)
+#quote IlIl
 
