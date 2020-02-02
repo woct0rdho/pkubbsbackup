@@ -1,4 +1,4 @@
-#t 35 17517876 mintcandy 2020-01-26 00:21:00 mintcandy 2020-01-27 16:52:00
+#t 35 17517876 mintcandy 2020-01-26 00:21:00 nietsnie 2020-02-02 17:14:00
 有什么办法能提高访问coursera的速度么
 
 #p 21766484 mintcandy 来豆瓣找我玩呀 2020-01-26 21:44:10
@@ -26,5 +26,13 @@
 
 #p 21769297 mintcandy 来豆瓣找我玩呀 2020-01-27 16:51:58
 今天试着挂学校的VPN感觉快一些了~
+#quote mintcandy
+
+#p 21794242 nietsnie 嗯，我是一个昵称 2020-02-02 17:13:59
+应该是你的默认DNS没办法正确解析cloudfront.net的服务器ip，至少尝试了114DNS和移动电信都是Timeout Error
+可以考虑换DNS
+或者改改hosts:
+99.84.138.226 d3c33hcgiwev3.cloudfront.net
+99.84.143.126 d3njjcbhbojbot.cloudfront.net
 #quote mintcandy
 
