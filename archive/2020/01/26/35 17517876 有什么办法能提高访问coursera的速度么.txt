@@ -1,4 +1,4 @@
-#t 35 17517876 mintcandy 2020-01-26 00:21:00 nietsnie 2020-02-02 17:14:00
+#t 35 17517876 mintcandy 2020-01-26 00:21:00 thinky 2020-02-03 16:13:00
 有什么办法能提高访问coursera的速度么
 
 #p 21766484 mintcandy 来豆瓣找我玩呀 2020-01-26 21:44:10
@@ -34,5 +34,9 @@
 或者改改hosts:
 99.84.138.226 d3c33hcgiwev3.cloudfront.net
 99.84.143.126 d3njjcbhbojbot.cloudfront.net
+#quote mintcandy
+
+#p 21798249 thinky 披风罗汉 2020-02-03 16:12:51
+coursera这种教育网站，为什么要墙呢？
 #quote mintcandy
 
