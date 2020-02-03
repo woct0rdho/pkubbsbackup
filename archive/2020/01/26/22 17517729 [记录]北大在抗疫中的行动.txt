@@ -1,4 +1,4 @@
-#t 22 17517729 xongkorohui 2020-01-26 00:18:00 xongkorohui 2020-02-03 12:00:00
+#t 22 17517729 xongkorohui 2020-01-26 00:18:00 xongkorohui 2020-02-03 13:00:00
 [记录]北大在抗疫中的行动
 
 #p 21765907 xongkorohui 惠愚 2020-01-26 18:49:00
@@ -551,4 +551,206 @@ pkuzixun2020@163.com
 甘于奉献、大爱无疆
 让我们再一次致敬战斗在疫情前线的73名北大医学人
 祝平安，盼凯旋！<img src="data:image/gif;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQImWNgYGBgAAAABQABh6FO1AAAAABJRU5ErkJggg=="/><img src="data:image/gif;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQImWNgYGBgAAAABQABh6FO1AAAAABJRU5ErkJggg=="/><img src="data:image/gif;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQImWNgYGBgAAAABQABh6FO1AAAAABJRU5ErkJggg=="/><img src="data:image/gif;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQImWNgYGBgAAAABQABh6FO1AAAAABJRU5ErkJggg=="/>
+
+#p 21797250 xongkorohui 惠愚 2020-02-03 12:07:23
+北大科学家与合作者发布新研究，或将提供灵敏简单的新型冠状病毒测序手段！
+北京大学 2月1日发布
+近日，北京大学的黄岩谊和谢晓亮研究团队联合清华大学王建斌研究团队在国际权威学术期刊《美国科学院院刊》发布研究论文，称已开发出名为SHERRY的转录组测序快速建库新方法，这一方法有望助力于新型冠状病毒的测序。
+核糖核酸（RNA）是存在于生物细胞以及部分病毒、类病毒中的遗传信息载体。目前，RNA测序技术已广泛应用于绘制物种转录组图谱、研究疾病分子调控机制等方向。
+据了解，针对不同研究需求，不同起始量的RNA需采用不同的RNA扩增方法，但目前常见的扩增方法大多操作繁复、耗时长，不利于多样本的实验。对于微量样本的检测，也存在很多技术挑战。
+北京大学的黄岩谊和谢晓亮研究团队联合清华大学王建斌研究团队该研究开发了一种新的基于Tn5转座酶的转录组测序快速建库方法，将大大简化了建库的过程，同时对样品的用量还很小。
+该研究成果不仅可以用于高质量的单细胞转录组测序，而且对包括目前正在肆意蔓延的冠状病毒等样本的测序质量和速度或许也将有大大的提升。与谢晓亮教授此前发表的MALBAC、LIANTI等方法一样，研究团队继续以红酒的名字来命名，并起名为SHERRY（Sequencing HEteRo RNA-DNA-hYbrid ）。
+SHERRY流程仅需五步、四小时
+<img src="data:image/gif;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQImWNgYGBgAAAABQABh6FO1AAAAABJRU5ErkJggg=="/>
+基于SHERRY方法的转录组测序建库流程如图1所示，样本可以来自裂解的单细胞或bulk RNA；RNA分子经过oligo-dT 引物的反转录后，RNA/DNA杂合链可直接被Tn5转座酶打断（图中灰色的波浪线及直线分别代表RNA及DNA分子）；在Tagmentation之后，转座酶会在杂合链两端加上adaptor接头，进行之后的建库PCR扩增。
+基于100pg的RNA起始量，SHERRY表现出了高的read匹配率，同时可检测出近9000个基因，其中72%的基因可在三个重复样本中检测出，可重复性较好。与目前普遍应用于单细胞转录组测序的Smart-seq2技术相比，SHERRY与其建库质量不相上下，并且具较低的GC bias。
+此外，根据课题组成员北京大学黄岩谊教授和清华大学王建斌研究员介绍，实验结果表明，SHERRY建库质量较好，对碱基序列表现出了较高的均衡率，且操作流程简单，整个流程仅需要5个步骤，可在一个试管中完成，时间仅约4小时，其中手工操作时间不到半小时。
+相比之下，Smart-seq2整个耗时约为SHERRY二倍的时间，且需要一些前处理等操作；此外，包含十个步骤的NEBNext方法则需要更加多的实验室操作和时间成本。值得一提的是，在成本方面，SHERRY方法仅为其他两种方法的五分之一，将大大节省实验成本。
+SHERRY首个临床应用——新型冠状病毒
+<img src="data:image/gif;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQImWNgYGBgAAAABQABh6FO1AAAAABJRU5ErkJggg=="/>文章通讯作者之一，北京大学生物医学前沿创新中心主任谢晓亮教授表示，新方法应用广泛，但当下研究团队的首个临床应用是对新型冠状病毒感染者进行测序。
+新型冠状病毒属于RNA病毒，其序列已被中国科学家测出。与现有的RNA测序建库方法相比，SHERRY更灵敏、更简单，这对检测和分析十分重要。
+谢晓亮教授表示，其团队目前正在夜以继日、争分夺秒地攻关，希望提供更好的新型冠状病毒的测序方法，服务于疫情防控。
+据介绍，该论文的两位共同第一作者是北京大学生物医学前沿创新中心（BIOPIC）的博士研究生狄琳和傅语思，大部分的实验工作在清华大学和北京大学合作下完成。这一工作的合作者还包括南京师范大学王冠博教授、美国XGen公司劳开勤博士团队以及美国加州大学圣地亚哥分校王栋教授团队。该工作得到了国家自然科学基金、国家科技部、北京未来基因诊断高精尖创新中心（ICG）、北京结构生物学高精尖创新中心、北大-清华生命科学联合中心、北京脑科学计划以及深圳湾实验室的支持。
+
+#p 21797257 xongkorohui 惠愚 2020-02-03 12:08:12
+北大科学家与合作者……
+“我决不允许清华两个字出现在标题里”，蒋朗朗说道。
+#quote xongkorohui
+
+#p 21797453 xongkorohui 惠愚 2020-02-03 12:50:45
+开学延期！宅在家中看北大讲座！
+北京大学 2月2日发布
+北大开学推迟
+为了同学们能更好地宅在家里学习
+面向校内或在校外使用vpn的北大同学
+除了图书馆资源外
+你是不是还不知道有这个宝藏地方？
+北大媒体资源服务平台！
+resource.pku.edu.cn 
+在这里
+有北大的学术讲座
+有北大的优质课程<img src="data:image/gif;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQImWNgYGBgAAAABQABh6FO1AAAAABJRU5ErkJggg=="/>还有北大优秀教师的教学视频
+媒资平台虽然年轻
+但其中“北大讲座网”的视频资源已经十年积累
+光阴荏苒
+足有近7000个
+现在
+全部免费开放！！！
+让你足不出户
+懒在床上也可聆听经典课堂
+窝在家里也会收获满满
+
+#p 21797461 xongkorohui 惠愚 2020-02-03 12:52:28
+北大学生信息报送平台今日上线！快加入燕园云战“疫”！
+北京大学 2月2日发布
+燕园云战“疫”系统
+由学生工作部和计算中心联手开发
+依托于学校门户和学生管理系统
+在充分保障学生信息安全的前提下
+可以及时便捷地实现信息统计管理
+为疫情防控提供有力支持
+疫情就是命令
+防控就是责任
+@PKUer
+快来填写系统，加入战斗
+注：燕园云战“疫”系统目前向校本部同学开放
+燕园学子云战“疫”的三大特点
+1 - 填写通道便捷：
+同学们可使用手机或电脑通过浏览器在校内门户填报每日信息，也可以在“北京大学信息门户”微信公众号中进行填报。系统会自动生成多项信息，并每日保存，无需重复填写。
+2 - 填写项目清晰明确
+界面分为每日填报、基本信息、通知信息三个板块
+【基本信息】预置了学生个人基本情况和少量需要一次性补充的内容
+【每日填报】包括了各项由学生每日填报的内容，学生只要进行相应的勾选便可完成大部分操作
+【通知信息】及时提醒学生关注防疫期间各类重要信息。
+3 - 信息安全有保障
+系统由学校计算中心自主开发，管理模式依托于学生管理系统，有严格的数据权限控制，数据安全性得到有效的保障
+“打赢战‘疫’”的两个途径
+可通过电脑、手机两种方式
+使用燕园云战“疫”系统
+登录校内信息门户→信息服务
+找到燕园云战“疫”
+即可填写相关信息
+基本信息只需维护一次即可
+每日信息请填报身体状况和行动轨迹
+<img src="data:image/gif;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQImWNgYGBgAAAABQABh6FO1AAAAABJRU5ErkJggg=="/>电脑端（推荐火狐、谷歌等浏览器）
+1-登录北京大学门户[https://portal.pku.edu.cn](jump-to.php?url=https%3A%2F%2Fportal.pku.edu.cn)，点击“燕园云战‘疫’”
+2-首次登录需完善个人基本信息
+姓名、学号、院系等信息为系统自动生成，无需填写
+以上信息均为必填，填写完成后点击“保存”
+3-填报每日信息
+标*号的信息均为必填，填写完成后点击“保存”
+<img src="data:image/gif;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQImWNgYGBgAAAABQABh6FO1AAAAABJRU5ErkJggg=="/>手机端
+1-微信搜索“北京大学信息门户”公众号（首次关注的同学需要进行账号绑定）
+2-点击左下角“信息·办事”，选择“信息服务”，后续操作与电脑端一致
+<img src="data:image/gif;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQImWNgYGBgAAAABQABh6FO1AAAAABJRU5ErkJggg=="/>
+<img src="data:image/gif;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQImWNgYGBgAAAABQABh6FO1AAAAABJRU5ErkJggg=="/>联系咨询
+信息填报方面的疑问可联系院系辅导员咨询或联系学生工作部，联系方式为：
+电话：010-62756372
+邮箱：yqfk@pku.edu.cn
+计算中心技术支持电话：010-62751023
+<img src="data:image/gif;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQImWNgYGBgAAAABQABh6FO1AAAAABJRU5ErkJggg=="/>
+小贴士：
+每日填报安排，请以院系通知为准
+<img src="data:image/gif;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQImWNgYGBgAAAABQABh6FO1AAAAABJRU5ErkJggg=="/>
+
+#p 21797462 xongkorohui 惠愚 2020-02-03 12:52:28
+北大学生信息报送平台今日上线！快加入燕园云战“疫”！
+北京大学 2月2日发布
+燕园云战“疫”系统
+由学生工作部和计算中心联手开发
+依托于学校门户和学生管理系统
+在充分保障学生信息安全的前提下
+可以及时便捷地实现信息统计管理
+为疫情防控提供有力支持
+疫情就是命令
+防控就是责任
+@PKUer
+快来填写系统，加入战斗
+注：燕园云战“疫”系统目前向校本部同学开放
+燕园学子云战“疫”的三大特点
+1 - 填写通道便捷：
+同学们可使用手机或电脑通过浏览器在校内门户填报每日信息，也可以在“北京大学信息门户”微信公众号中进行填报。系统会自动生成多项信息，并每日保存，无需重复填写。
+2 - 填写项目清晰明确
+界面分为每日填报、基本信息、通知信息三个板块
+【基本信息】预置了学生个人基本情况和少量需要一次性补充的内容
+【每日填报】包括了各项由学生每日填报的内容，学生只要进行相应的勾选便可完成大部分操作
+【通知信息】及时提醒学生关注防疫期间各类重要信息。
+3 - 信息安全有保障
+系统由学校计算中心自主开发，管理模式依托于学生管理系统，有严格的数据权限控制，数据安全性得到有效的保障
+“打赢战‘疫’”的两个途径
+可通过电脑、手机两种方式
+使用燕园云战“疫”系统
+登录校内信息门户→信息服务
+找到燕园云战“疫”
+即可填写相关信息
+基本信息只需维护一次即可
+每日信息请填报身体状况和行动轨迹
+<img src="data:image/gif;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQImWNgYGBgAAAABQABh6FO1AAAAABJRU5ErkJggg=="/>电脑端（推荐火狐、谷歌等浏览器）
+1-登录北京大学门户[https://portal.pku.edu.cn](jump-to.php?url=https%3A%2F%2Fportal.pku.edu.cn)，点击“燕园云战‘疫’”
+2-首次登录需完善个人基本信息
+姓名、学号、院系等信息为系统自动生成，无需填写
+以上信息均为必填，填写完成后点击“保存”
+3-填报每日信息
+标*号的信息均为必填，填写完成后点击“保存”
+<img src="data:image/gif;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQImWNgYGBgAAAABQABh6FO1AAAAABJRU5ErkJggg=="/>手机端
+1-微信搜索“北京大学信息门户”公众号（首次关注的同学需要进行账号绑定）
+2-点击左下角“信息·办事”，选择“信息服务”，后续操作与电脑端一致
+<img src="data:image/gif;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQImWNgYGBgAAAABQABh6FO1AAAAABJRU5ErkJggg=="/>
+<img src="data:image/gif;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQImWNgYGBgAAAABQABh6FO1AAAAABJRU5ErkJggg=="/>联系咨询
+信息填报方面的疑问可联系院系辅导员咨询或联系学生工作部，联系方式为：
+电话：010-62756372
+邮箱：yqfk@pku.edu.cn
+计算中心技术支持电话：010-62751023
+<img src="data:image/gif;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQImWNgYGBgAAAABQABh6FO1AAAAABJRU5ErkJggg=="/>
+小贴士：
+每日填报安排，请以院系通知为准
+<img src="data:image/gif;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQImWNgYGBgAAAABQABh6FO1AAAAABJRU5ErkJggg=="/>
+
+#p 21797475 xongkorohui 惠愚 2020-02-03 12:55:50
+**北大以色列校友高佑思筹集医疗物资捐赠武汉**
+2月3日 北京大学 发布
+高佑思(GALOR,RAZZVI)，2014年-2018年就读于北京大学国际关系学院。“我们每天都在非常密切的关注中国的疫情状况，很想通过自己的力量，真正为中国朋友做些什么。”
+得知在这场战役中
+口罩、防护服、医用手套、消毒用品
+这些医疗物资的缺乏成为抗击病毒的阻碍
+高佑思动员各方力量
+通过各界帮助
+积极奔走，希望通过自己的力量做些贡献
+在得知药店口罩库存有限
+无法在后续提供更多帮助后
+高佑思把目光投向大型医疗机构
+以色列中国商会董事会的召开提供了契机
+参会的有全世界最大的十家医院代表之一
+也有来自世界各地的投资人
+在会议快结束的时候
+他们被准许进入，并提出了
+“我们有一个希望帮助中国朋友”的计划
+得到了各方赞同
+之后他们获得以色列各界捐赠的
+3万只医用口罩
+通过捐赠者提供的信息
+他们找到特拉维夫最大医院的
+医疗设备供应商
+获得了更多的医用口罩和其他医疗物资
+10万只口罩
+5万双医用手套
+2000套医用手术衣
+……
+一批来自以色列的医用物资
+在一天之内“集结完毕”
+送往中国湖北
+以上仅仅是24小时内做成的事
+而这仅仅是一个开始
+“现在筹集到的物资仅仅是一个开始。后续我们会时刻和大家分享进展。“
+虽身处世界各地
+但心系中国
+北大人正在尽自己所能
+凝聚全球力量
+为武汉加油
+为中国加油
+
+#p 21797491 xongkorohui 惠愚 2020-02-03 12:59:29
+2333欢迎大家关注歪果仁研究会及B站Up主高佑思😂
+他爸爸超有钱？）
+#quote xongkorohui
 
