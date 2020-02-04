@@ -1,4 +1,4 @@
-#t 251 17528593 eagle 2020-02-04 23:47:00 eagle 2020-02-04 23:47:00
+#t 251 17528593 eagle 2020-02-04 00:23:00 derekdut 2020-02-05 02:16:00
 美国 2009 年 H1N1 甲流感染人数的估计方法
 
 #p 21803710 eagle 鹰|理二的李二 2020-02-04 23:46:14
@@ -21,4 +21,8 @@ b. 在此基础上，再将总收治病例乘以 221.79，得到对甲流总感�
 2. Shrestha SS, et al., Estimating the burden of 2009 pandemic influenza A (H1N1) in the United States (April 2009-April 2010), Clin Infect Dis. 2011 Jan 1;52 Suppl 1:S75-82. 
 [https://academic.oup.com/cid/article/52/suppl_1/S75/499147](jump-to.php?url=https%3A%2F%2Facademic.oup.com%2Fcid%2Farticle%2F52%2Fsuppl_1%2FS75%2F499147)
 3. [http://www.cidrap.umn.edu/news-perspective/2009/11/cdcs-new-estimation-method-raises-h1n1-numbers](jump-to.php?url=http%3A%2F%2Fwww.cidrap.umn.edu%2Fnews-perspective%2F2009%2F11%2Fcdcs-new-estimation-method-raises-h1n1-numbers)
+
+#p 21803978 derekdut 学渣的忧桑 2020-02-05 02:15:43
+就是两种算法，分别是两种不同的结论，但是结论都是不不太好。前者感染数量巨大，后者死亡概率巨大。
+#quote eagle
 
