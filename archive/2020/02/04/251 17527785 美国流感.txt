@@ -1,4 +1,4 @@
-#t 251 17527785 Stellashero 2020-02-04 08:36:00 scienco 2020-02-04 09:08:00
+#t 251 17527785 Stellashero 2020-02-04 00:08:00 dadaye 2020-02-04 12:14:00
 美国流感
 
 #p 21800953 Stellashero 小可爱突然出现 2020-02-04 08:35:59
@@ -25,5 +25,10 @@
 
 2020-02-04 09:07:50
 反正我周围没什么人在意流感……
+#quote Stellashero
+
+#p 21801689 dadaye Psyche & Osiris 2020-02-04 12:13:39
+因为统计口径不一样，美国估的人数是流感季比非流感季多死的人数：
+[https://mp.weixin.qq.com/s/AaJ-tbZTePXQ_TCyuzTbrw](jump-to.php?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FAaJ-tbZTePXQ_TCyuzTbrw)
 #quote Stellashero
 
