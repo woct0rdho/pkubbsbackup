@@ -1,0 +1,24 @@
+#t 251 17528593 eagle 2020-02-04 23:47:00 eagle 2020-02-04 23:47:00
+美国 2009 年 H1N1 甲流感染人数的估计方法
+
+#p 21803710 eagle 鹰|理二的李二 2020-02-04 23:46:14
+【讨论动机】
+在相关讨论中，有部分站友多次援引资料，提到对美国 2009 年 H1N1 甲流总感染人数的估计数字 (数千万量级，有站友指出这一数字约占美国当时人口的五分之一), 并作为论据，且形成了一些感性认识。我发现部分站友可能对这一数字的代表含义及得出这一数字的统计方法存在误解，故把我的认识汇报如下，供大家讨论。
+【文献背景】
+2009 年 4 月爆发了 H1N1 甲型流感，美国疫情严重：截至 2009 年 7 月 23 日，全美 (50 个州加哥伦比亚特区，不含波多黎各和美属维京群岛等) 累计报告实验室确诊 (laboratory-confirmed infections) 43677 例 [1]. 美国疾控中心于 2011 年 1 月发表了对该疫情的最终估计 [2], 指出 2009 年 4 月到次年 4 月间，全美累计感染病例估计约有**六千零八十万**人，这个数字与前述部分网友的认识相符。值得注意的是，**这一数字是基于一个统计概率模型推算出的**，其中已考虑到了寻求就医，样本收集，样本上交，样本检验和病例报告等所有环节的漏报和低估情形 [1]，**并不是实际报告确诊人数**——这一事实对版上部分有关时事的讨论，特别是横向对比话题尤为重要。
+【估计方法】
+限于篇幅和受众，这一部分并不详细描述美国疾控中心在早期 [1] 和最终 [2] 统计报告中采用的估计方法细节，仅概述其逻辑，给出部分关键数值。另外局限于整体感染人数，而不讨论病死率，不同人群，疫情阶段，地区差异等其他内容。核心思路是基于小范围精确流行病学调查，估计出实际感染者中就医检测确诊上报并最终成功纳入计数的比例，换句话说，**给医院确诊收治病例乘以一个倍乘系数**，以得到对实际感染总人数的估计。最终报告 [2] 沿用了早期报告 [1] 对这个倍乘系数的估计值。如果抛开一些应用上的细节，这一估计大致可分为两个步骤 (来自 [2] 图 1)：
+<img src="https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/cid/52/suppl_1/10.1093_cid_ciq012/1/cidciq012f01_lw.gif?Expires=1583848014&amp;Signature=M7ABU40LgJwlzZC3Zt-mr~~5F2TlfL6zpbo4HgMCljq4dgZ1crdkA7cBTCWnSq4Foh2E3epJWjLwT9KgUjWXabEKN0bDMYe-ZkurePVg1f8rVhivVxr1ZqXSbsDs2mWG9LvCVpo2NjP2iB7inG-2vCNouxYN-Ticj7BDTB7IRJIVV0YwfAlu-4LPP9NwZNLAG5DLBidO9QmrdY3cqyl8krFopYwAWVICDiRPWToaiW9rLU8Mi60M-Hyix1Uev~Dfj3jquhD9WEFYgfct~Wlh3ax84RsSCwJNPbyJ8P54tU057r7f-xUFVSu8RMtnfHI1oLJk~QEJbG0cI7jQW7KgEw__&amp;Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"/>
+a. 把医院实际收治甲流病例总数乘以 2.7, 这是为了把受到甲流影响，但在临床上未诊断出甲流的收治病例考虑进来，也就是说医院每按甲流收治一位病人，实际上共有 2.7 位病人受到甲流影响；
+b. 在此基础上，再将总收治病例乘以 221.79，得到对甲流总感染病例的估计值，这是考虑到了前述所有环节的对感染人群数目统计的低估影响，换句话说，认为所有感染人群中，只有约 0.45% 被医院收治 ([1], "...an estimated ratio of hospitalizations to total symptomatic cases of 0.45%..."). 
+【主要结论】
+按这一估计方法，美国疾控中心**将甲流实际感染人群总数估计为医院收治甲流病例总数的约六百倍** (2.7*221.79 = 598.833). 反过来说，最终报告 [2] 中**估计的逾六千万总感染人数，对应的实际收治甲流病例数约为十万**。
+【扩展讨论】
+结论中反推出来的 “实际收治甲流病例数” 并不是实践中真实发生的数字，而是美国疾控中心根据其 Emerging Infections Program (EIP), 重点监控了分布于十个州六十个县覆盖约两千两百万人口的流感有关病例收治情况，再将其外推到全美而推算得到的。这一外推统计方法显著地放大了对感染总人数的估计值 [3]. 
+【参考文献】
+1. Reed C, Angulo FJ, Swerdlow DL, et al. Estimates of the prevalence of pandemic (H1N1) 2009, United States, April–July 2009. Emerg Infect Dis 2009; 15:2004–2007.
+[https://wwwnc.cdc.gov/eid/article/15/12/09-1413_article](jump-to.php?url=https%3A%2F%2Fwwwnc.cdc.gov%2Feid%2Farticle%2F15%2F12%2F09-1413_article)
+2. Shrestha SS, et al., Estimating the burden of 2009 pandemic influenza A (H1N1) in the United States (April 2009-April 2010), Clin Infect Dis. 2011 Jan 1;52 Suppl 1:S75-82. 
+[https://academic.oup.com/cid/article/52/suppl_1/S75/499147](jump-to.php?url=https%3A%2F%2Facademic.oup.com%2Fcid%2Farticle%2F52%2Fsuppl_1%2FS75%2F499147)
+3. [http://www.cidrap.umn.edu/news-perspective/2009/11/cdcs-new-estimation-method-raises-h1n1-numbers](jump-to.php?url=http%3A%2F%2Fwww.cidrap.umn.edu%2Fnews-perspective%2F2009%2F11%2Fcdcs-new-estimation-method-raises-h1n1-numbers)
+
