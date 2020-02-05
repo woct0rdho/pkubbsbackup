@@ -1,4 +1,4 @@
-#t 35 17529744 depression 2020-02-05 22:22:00 depression 2020-02-05 22:35:00
+#t 35 17529744 depression 2020-02-05 00:22:00 Homagod 2020-02-05 23:28:00
 今天被墙了两个IP
 
 #p 21807071 depression ssdsdowe 2020-02-05 22:22:05
@@ -17,5 +17,13 @@
 #p 21807116 depression ssdsdowe 2020-02-05 22:34:38
 基本上刚做出来就被封掉了
 前后做了好几次
+#quote depression
+
+#p 21807272 IlIl 王铁崖 2020-02-05 23:18:12
+尽量少用热门大厂和热门地区的，就那么几个ip段已经快被中国人用烂了。
+#quote depression
+
+#p 21807314 Homagod 不愉快です 2020-02-05 23:27:10
+非常时期？
 #quote depression
 

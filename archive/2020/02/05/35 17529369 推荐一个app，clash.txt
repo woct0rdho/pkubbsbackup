@@ -1,4 +1,4 @@
-#t 35 17529369 Dalpku 2020-02-05 15:34:00 Dalpku 2020-02-05 15:52:00
+#t 35 17529369 Dalpku 2020-02-05 00:15:00 Homagod 2020-02-05 23:28:00
 推荐一个app，clash
 
 #p 21805840 Dalpku YuYu 2020-02-05 15:38:16
@@ -28,5 +28,9 @@ v2ray的订阅 转clash 订阅
 #p 21805898 Dalpku YuYu 2020-02-05 15:51:47
 安卓使用教程  [https://www.jianshu.com/p/30d8843964a9](jump-to.php?url=https%3A%2F%2Fwww.jianshu.com%2Fp%2F30d8843964a9)
 windows 使用教程 [https://www.i5seo.com/clash-for-windows.html](jump-to.php?url=https%3A%2F%2Fwww.i5seo.com%2Fclash-for-windows.html)
+#quote Dalpku
+
+#p 21807317 Homagod 不愉快です 2020-02-05 23:27:55
+可
 #quote Dalpku
 
