@@ -1,0 +1,32 @@
+#t 35 17529369 Dalpku 2020-02-05 15:34:00 Dalpku 2020-02-05 15:52:00
+推荐一个app，clash
+
+#p 21805840 Dalpku YuYu 2020-02-05 15:38:16
+
+
+2020-02-05 15:34:06
+对于mac ，windows，还有安卓，目前使用上最舒服的就是clash。clash只支持ss和v2ray，不支持ssr,算是surge很好的替代。大家可以尝鲜。
+mac版本 ：
+[https://github.com/yichengchen/clashX](jump-to.php?url=https%3A%2F%2Fgithub.com%2Fyichengchen%2FclashX)
+windows版本：
+[https://github.com/Fndroid/clash_for_windows_pkg](jump-to.php?url=https%3A%2F%2Fgithub.com%2FFndroid%2Fclash_for_windows_pkg)
+安卓版本：
+直接搜 clash for Android  就可以下
+之前源码可以从别人fork的找到，如果直接用，点击release下载编译好的就好。
+
+#p 21805870 Dalpku YuYu 2020-02-05 15:42:34
+普通订阅  转 clash 规则有很多，大家可以直接百度：
+[https://merlinblog.xyz/wiki/api.html](jump-to.php?url=https%3A%2F%2Fmerlinblog.xyz%2Fwiki%2Fapi.html)
+v2ray的订阅 转clash 订阅
+[https://scaleya.netlify.com/posts/7/](jump-to.php?url=https%3A%2F%2Fscaleya.netlify.com%2Fposts%2F7%2F)
+#quote Dalpku
+
+#p 21805874 Dalpku YuYu 2020-02-05 15:43:16
+大家可以搜机场测评来购买✈️哈
+#quote Dalpku
+
+#p 21805898 Dalpku YuYu 2020-02-05 15:51:47
+安卓使用教程  [https://www.jianshu.com/p/30d8843964a9](jump-to.php?url=https%3A%2F%2Fwww.jianshu.com%2Fp%2F30d8843964a9)
+windows 使用教程 [https://www.i5seo.com/clash-for-windows.html](jump-to.php?url=https%3A%2F%2Fwww.i5seo.com%2Fclash-for-windows.html)
+#quote Dalpku
+
