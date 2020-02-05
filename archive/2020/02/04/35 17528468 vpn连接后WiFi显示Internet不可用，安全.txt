@@ -1,6 +1,10 @@
-#t 35 17528468 anima 2020-02-04 21:45:00 anima 2020-02-04 21:45:00
+#t 35 17528468 anima 2020-02-04 00:21:00 PKUCC 2020-02-05 11:23:00
 vpn连接后WiFi显示Internet不可用，安全
 
 #p 21803289 anima anima 2020-02-04 21:44:28
 <img src="file:///C:/Users/anima/Pictures/Saved%20Pictures"/>使用Pulse secuse 连接北京大学vpn后，WiFi即显示网络不可用，安全，连接上经常断开。
+
+#p 21804877 PKUCC 北京大学计算中心 2020-02-05 11:23:10
+请查看 [https://its.pku.edu.cn/service_1_vpn.jsp](jump-to.php?url=https%3A%2F%2Fits.pku.edu.cn%2Fservice_1_vpn.jsp)  常见问题解决方法
+#quote anima
 
