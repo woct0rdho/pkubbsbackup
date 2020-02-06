@@ -1,4 +1,4 @@
-#t 35 16264150 hiaoxui 2017-11-10 00:00:00 shellywhen 2020-02-06 14:46:00
+#t 35 16264150 hiaoxui 2017-11-10 00:00:00 QUESTIONSSS 2020-02-06 19:40:00
 科学上网, SSR 服务器分享
 
 #p 17134091 hiaoxui 小辉 2019-11-16 04:36:36
@@ -1923,5 +1923,17 @@ SSR服务器 ping不通了
 
 #p 21809408 shellywhen shellywhen 2020-02-06 14:45:28
 学长辛苦了！
+#quote hiaoxui
+
+#p 21810483 grdecy raymondey 2020-02-06 19:03:43
+前辈求问您觉得现在v2ray和ssr加密相比
+哪个稳定性会更强呢..
+您为什么推得是ssr
+#quote hiaoxui
+
+#p 21810608 QUESTIONSSS 旅客 2020-02-06 19:39:56
+超级感谢学长！！！
+可惜最近ipv4都被封，没法在coursera上听课了……唉
+(｀ﾍ´)=3
 #quote hiaoxui
 
