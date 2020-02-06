@@ -1,4 +1,4 @@
-#t 35 17529744 depression 2020-02-05 00:22:00 grdecy 2020-02-06 19:02:00
+#t 35 17529744 depression 2020-02-05 00:22:00 Dalpku 2020-02-06 21:17:00
 今天被墙了两个IP
 
 #p 21807071 depression ssdsdowe 2020-02-05 22:22:05
@@ -164,4 +164,8 @@ dei
 #p 21810474 grdecy raymondey 2020-02-06 19:01:51
 v2ray搭起来和ssr相比会复杂很多吗- -
 #quote zhbzhbzhbz
+
+#p 21811220 Dalpku YuYu 2020-02-06 21:16:57
+会复杂很多，但是还行，还要注册垃圾域名，有时候还要更新数字签证
+#quote grdecy
 
