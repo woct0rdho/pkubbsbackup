@@ -1,4 +1,4 @@
-#t 35 17529744 depression 2020-02-05 00:22:00 seasideice 2020-02-06 09:27:00
+#t 35 17529744 depression 2020-02-05 00:22:00 makcum 2020-02-06 10:58:00
 今天被墙了两个IP
 
 #p 21807071 depression ssdsdowe 2020-02-05 22:22:05
@@ -42,4 +42,24 @@ ss凉
 #p 21808123 seasideice Cortot 2020-02-06 09:26:18
 现在发现还是v比较稳。
 #quote xuyimiao
+
+#p 21808281 csiriusx mifflin 2020-02-06 10:21:22
+好像是因为之前有个人拍疫情的情况，然后当天晚上就被查水表了…youtube还有他被抓的视频…
+#quote depression
+
+#p 21808305 Biels 啊啊 2020-02-06 10:27:31
+前两天v2我被封了3个端口，后来ws+vmess+tls坚持到了现在
+#quote depression
+
+#p 21808386 markjiang chinaxyz 2020-02-06 10:43:37
+vultr是不行了，不出5分钟必封。求推荐好用稳定的
+#quote depression
+
+#p 21808466 hahayay 哈哈哈哈 2020-02-06 10:53:55
+求推荐可用vpn
+#quote Biels
+
+#p 21808486 makcum Музыка, книга, сон 2020-02-06 10:57:19
+头像是一个汉子吗？
+#quote Homagod
 
