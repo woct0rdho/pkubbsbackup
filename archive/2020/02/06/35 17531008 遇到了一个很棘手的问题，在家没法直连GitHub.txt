@@ -1,0 +1,11 @@
+#t 35 17531008 MDP 2020-02-06 22:47:00 MDP 2020-02-06 22:57:00
+遇到了一个很棘手的问题，在家没法直连GitHub
+
+#p 21811656 MDP MarkovDecisionProcess 2020-02-06 22:46:29
+我想要GitHub的教育版discount，因此需要登录GitHub网站。但是在家里没办法直连，只能爬梯子。但我的梯子在东京，这样的话GitHub说我的location不在学校附近。。。是不是死结了？有办法解决吗？
+GitHub的回复如下图
+
+#p 21811676 MDP MarkovDecisionProcess 2020-02-06 22:56:20
+额，原来只是慢，并没有被墙。。。。等了2分钟多之后网页打开了
+#quote MDP
+
