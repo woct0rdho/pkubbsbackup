@@ -1,0 +1,15 @@
+#t 668 17523917 sxpeter 2020-02-06 18:57:00 sxpeter 2020-02-06 18:59:00
+辣鸡移动墙中墙(转载)
+
+#p 21810448 sxpeter  2020-02-06 18:56:20
+[原文由 sxpeter 发表在 Networking 版 &gt;&gt;&gt;](post-read.php?bid=35&amp;threadid=17523917)
+把vpn.pku.edu.cn给墙了可还行
+
+#p 21810456 sxpeter  2020-02-06 18:58:29
+@PKU_CC
+请计算中心向国家教育网有关部门上报，与各商业网络运营商协商解决这个问题
+今天又不能用了，而且iaaa.pku.edu.cn（我本地nslookup结果124.205.79.28）也上不去了
+这挺影响我们学习科研的。。
+要不你就干脆把校园网的端口开放算了
+#quote sxpeter
+
