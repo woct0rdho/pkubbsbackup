@@ -1,4 +1,4 @@
-#t 668 17528198 pkutina 2020-02-04 00:16:00 Kurapica 2020-02-04 21:57:00
+#t 668 17528198 pkutina 2020-02-04 00:16:00 xinxinxinxin 2020-02-06 17:48:00
 连校园VPN后访问github极慢
 
 #p 21802500 pkutina tina 2020-02-04 16:42:32
@@ -15,4 +15,8 @@
 #p 21803335 Kurapica 库卡 2020-02-04 21:56:50
 去pku_suggest版呼吁放开远程端口
 #quote pkutina
+
+#p 21810183 xinxinxinxin 欣 2020-02-06 17:47:21
+这个时期倒是个呼吁开放端口不错的时期，大家远程需求高涨，vpn似乎不能满足需求了
+#quote Kurapica
 
