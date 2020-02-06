@@ -1,4 +1,4 @@
-#t 35 17529744 depression 2020-02-05 00:22:00 Homagod 2020-02-06 14:43:00
+#t 35 17529744 depression 2020-02-05 00:22:00 zhbzhbzhbz 2020-02-06 15:55:00
 今天被墙了两个IP
 
 #p 21807071 depression ssdsdowe 2020-02-05 22:22:05
@@ -134,4 +134,20 @@ V2ray +ws+tls稳定了两年没被封，现在日常用国内小厂做的v2ray�
 #p 21809400 Homagod 不愉快です 2020-02-06 14:43:07
 dei
 #quote keyes
+
+#p 21809469 makcum Музыка, книга, сон 2020-02-06 15:00:54
+拆解为”大一大大吉利”？
+#quote MYFYWITWW
+
+#p 21809503 loasa 鲁鱼亥豕 2020-02-06 15:08:30
+大一大吉大万
+#quote makcum
+
+#p 21809567 derekdut 学渣的忧桑 2020-02-06 15:20:05
+我别的vps 都不好用了，都挂了，唯一还好用的竟然是谷歌云。。。
+#quote depression
+
+#p 21809702 zhbzhbzhbz RedB 2020-02-06 15:54:33
+谷歌云香港v2ray，非ws，一直用的很好
+#quote depression
 
