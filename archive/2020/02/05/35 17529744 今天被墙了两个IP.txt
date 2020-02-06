@@ -1,4 +1,4 @@
-#t 35 17529744 depression 2020-02-05 00:22:00 mozzie 2020-02-06 13:58:00
+#t 35 17529744 depression 2020-02-05 00:22:00 Homagod 2020-02-06 14:43:00
 今天被墙了两个IP
 
 #p 21807071 depression ssdsdowe 2020-02-05 22:22:05
@@ -114,4 +114,24 @@ vultr是不行了，不出5分钟必封。求推荐好用稳定的
 #p 21809248 mozzie 轩 2020-02-06 13:57:50
 我也是vultr的，用ws+vmess+tls+cloudflare，没被封过
 #quote markjiang
+
+#p 21809301 keyes 乌鸦天狗 2020-02-06 14:13:44
+石田三成？
+#quote Homagod
+
+#p 21809322 Dalpku YuYu 2020-02-06 14:20:40
+V2ray +ws+tls稳定了两年没被封，现在日常用国内小厂做的v2ray很稳定，被封了也会马上增加线路
+#quote depression
+
+#p 21809344 markjiang chinaxyz 2020-02-06 14:28:37
+有教程嘛~
+#quote mozzie
+
+#p 21809365 hahayay 哈哈哈哈 2020-02-06 14:34:30
+有购买链接咩?求站内信~
+#quote sonya
+
+#p 21809400 Homagod 不愉快です 2020-02-06 14:43:07
+dei
+#quote keyes
 
