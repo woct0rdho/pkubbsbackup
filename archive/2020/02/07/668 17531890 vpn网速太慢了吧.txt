@@ -1,4 +1,4 @@
-#t 668 17531890 huanghuayang 2020-02-07 15:59:00 PKUCC 2020-02-07 16:39:00
+#t 668 17531890 huanghuayang 2020-02-07 00:15:00 PKUCC 2020-02-07 17:41:00
 vpn网速太慢了吧
 
 #p 21814464 huanghuayang 海拉鲁小霸王 2020-02-07 15:59:00
@@ -11,5 +11,13 @@ VPN教育网入口: [https://vpnc.pku.edu.cn](jump-to.php?url=https%3A%2F%2Fvpnc
 VPN电信入口: [https://vpnt.pku.edu.cn](jump-to.php?url=https%3A%2F%2Fvpnt.pku.edu.cn)
 VPN联通入口: [https://vpnu.pku.edu.cn](jump-to.php?url=https%3A%2F%2Fvpnu.pku.edu.cn)
 VPN电信通入口: [https://vpnp.pku.edu.cn](jump-to.php?url=https%3A%2F%2Fvpnp.pku.edu.cn)
+#quote huanghuayang
+
+#p 21814771 huanghuayang 海拉鲁小霸王 2020-02-07 17:16:40
+每个都试了，联通的连不上，其他速度都是一样的
+#quote PKUCC
+
+#p 21814856 PKUCC 北京大学计算中心 2020-02-07 17:40:28
+你好，VPN是远程访问，速度快慢主要取决于连到VPN服务器的链路状况。
 #quote huanghuayang
 

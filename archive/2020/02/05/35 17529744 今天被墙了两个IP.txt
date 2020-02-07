@@ -1,4 +1,4 @@
-#t 35 17529744 depression 2020-02-05 00:22:00 markjiang 2020-02-07 15:15:00
+#t 35 17529744 depression 2020-02-05 00:22:00 depression 2020-02-07 17:34:00
 今天被墙了两个IP
 
 #p 21807071 depression ssdsdowe 2020-02-05 22:22:05
@@ -208,4 +208,9 @@ orz...稳定就行，去试试看
 #p 21814259 markjiang chinaxyz 2020-02-07 15:14:34
 小哥有推荐的ip节点嘛，用日本，美国洛杉矶的貌似被封的好快。
 #quote zhbzhbzhbz
+
+#p 21814828 depression ssdsdowe 2020-02-07 17:33:21
+现在不太建议大家买服务器，成本太高了，被Feng了很不划算
+如果要买，就买一个月的，或者买流量的
+#quote depression
 
