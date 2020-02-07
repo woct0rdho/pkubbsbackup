@@ -1,6 +1,15 @@
-#t 668 17531890 huanghuayang 2020-02-07 15:59:00 huanghuayang 2020-02-07 15:59:00
+#t 668 17531890 huanghuayang 2020-02-07 15:59:00 PKUCC 2020-02-07 16:39:00
 vpn网速太慢了吧
 
 #p 21814464 huanghuayang 海拉鲁小霸王 2020-02-07 15:59:00
 在校内的时候一分钟不到的事情，今天搞了一下午。能把vpn搞快点吗？
+
+#p 21814634 PKUCC 北京大学计算中心 2020-02-07 16:38:54
+你好，VPN有多条链路可选：
+[https://vpn.pku.edu.cn](jump-to.php?url=https%3A%2F%2Fvpn.pku.edu.cn) (推荐使用)
+VPN教育网入口: [https://vpnc.pku.edu.cn](jump-to.php?url=https%3A%2F%2Fvpnc.pku.edu.cn)
+VPN电信入口: [https://vpnt.pku.edu.cn](jump-to.php?url=https%3A%2F%2Fvpnt.pku.edu.cn)
+VPN联通入口: [https://vpnu.pku.edu.cn](jump-to.php?url=https%3A%2F%2Fvpnu.pku.edu.cn)
+VPN电信通入口: [https://vpnp.pku.edu.cn](jump-to.php?url=https%3A%2F%2Fvpnp.pku.edu.cn)
+#quote huanghuayang
 
