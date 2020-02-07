@@ -1,4 +1,4 @@
-#t 35 17529744 depression 2020-02-05 00:22:00 depression 2020-02-07 17:34:00
+#t 35 17529744 depression 2020-02-05 00:22:00 zhbzhbzhbz 2020-02-07 22:59:00
 今天被墙了两个IP
 
 #p 21807071 depression ssdsdowe 2020-02-05 22:22:05
@@ -213,4 +213,14 @@ orz...稳定就行，去试试看
 现在不太建议大家买服务器，成本太高了，被Feng了很不划算
 如果要买，就买一个月的，或者买流量的
 #quote depression
+
+#p 21816353 grdecy raymondey 2020-02-07 22:03:31
+咦好像还在维护[https://github.com/wulabing/V2Ray_ws-tls_bash_onekey](jump-to.php?url=https%3A%2F%2Fgithub.com%2Fwulabing%2FV2Ray_ws-tls_bash_onekey)  初一还有更新记录
+但是我怎么没看懂啊，的确是一键，事先需要准备好域名，添加好a记录
+但是作为一键脚本，在运行过程中应该没有给我输入个人域名的机会？那域名怎么和脚本关联起来...
+#quote zhbzhbzhbz
+
+#p 21816595 zhbzhbzhbz RedB 2020-02-07 22:58:09
+说实话我从digital ocean到google cloud，ip一次没被封过……
+#quote markjiang
 

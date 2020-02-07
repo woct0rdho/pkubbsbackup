@@ -1,4 +1,4 @@
-#t 668 17531890 huanghuayang 2020-02-07 00:15:00 huanghuayang 2020-02-07 18:09:00
+#t 668 17531890 huanghuayang 2020-02-07 00:15:00 PKUwuming 2020-02-07 22:39:00
 vpn网速太慢了吧
 
 #p 21814464 huanghuayang 海拉鲁小霸王 2020-02-07 15:59:00
@@ -24,4 +24,8 @@ VPN电信通入口: [https://vpnp.pku.edu.cn](jump-to.php?url=https%3A%2F%2Fvpnp
 #p 21814960 huanghuayang 海拉鲁小霸王 2020-02-07 18:08:45
 我家是重庆广电的宽带，下载游戏的时候都有几M/s，怎么连接学校的vpn就这么慢。。。
 #quote PKUCC
+
+#p 21816527 PKUwuming 无名 2020-02-07 22:38:17
+用北大网盘下载很快，好几MB每秒。有条件的话，可以利用校内的主机（远程桌面连接）先将软件上传到你的北大网盘，再通过北大网盘来下载
+#quote huanghuayang
 
