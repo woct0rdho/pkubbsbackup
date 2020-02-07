@@ -1,4 +1,4 @@
-#t 35 17529744 depression 2020-02-05 00:22:00 Dalpku 2020-02-06 21:17:00
+#t 35 17529744 depression 2020-02-05 00:22:00 mozzie 2020-02-07 09:56:00
 今天被墙了两个IP
 
 #p 21807071 depression ssdsdowe 2020-02-05 22:22:05
@@ -168,4 +168,10 @@ v2ray搭起来和ssr相比会复杂很多吗- -
 #p 21811220 Dalpku YuYu 2020-02-06 21:16:57
 会复杂很多，但是还行，还要注册垃圾域名，有时候还要更新数字签证
 #quote grdecy
+
+#p 21812853 mozzie 轩 2020-02-07 09:55:27
+[https://www.ecsoe.com/archives/38.html](jump-to.php?url=https%3A%2F%2Fwww.ecsoe.com%2Farchives%2F38.html)
+[https://www.stackcc.com/2019/04/02/v2raysetup/](jump-to.php?url=https%3A%2F%2Fwww.stackcc.com%2F2019%2F04%2F02%2Fv2raysetup%2F)
+[https://www.svlik.com/2113.html](jump-to.php?url=https%3A%2F%2Fwww.svlik.com%2F2113.html)
+#quote markjiang
 
