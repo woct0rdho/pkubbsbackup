@@ -1,4 +1,4 @@
-#t 35 17529744 depression 2020-02-05 00:22:00 markjiang 2020-02-07 11:29:00
+#t 35 17529744 depression 2020-02-05 00:22:00 zhbzhbzhbz 2020-02-07 13:53:00
 今天被墙了两个IP
 
 #p 21807071 depression ssdsdowe 2020-02-05 22:22:05
@@ -182,4 +182,26 @@ v2ray搭起来和ssr相比会复杂很多吗- -
 #p 21813224 markjiang chinaxyz 2020-02-07 11:28:44
 用一键脚本需要申请免费网址嘛？ 比如freedom（申请不上，都是不可用）
 #quote zhbzhbzhbz
+
+#p 21813693 grdecy raymondey 2020-02-07 13:08:59
+orz...稳定就行，去试试看
+#quote Dalpku
+
+#p 21813697 grdecy raymondey 2020-02-07 13:10:22
+可以可以XD
+我用gcp的台湾节点试试看
+#quote zhbzhbzhbz
+
+#p 21813909 zhbzhbzhbz RedB 2020-02-07 13:52:36
+不需要
+#quote markjiang
+
+#p 21813910 zhbzhbzhbz RedB 2020-02-07 13:52:50
+香港最快，台湾也还行
+#quote grdecy
+
+#p 21813913 zhbzhbzhbz RedB 2020-02-07 13:53:25
+[https://github.com/Jrohy/multi-v2ray](jump-to.php?url=https%3A%2F%2Fgithub.com%2FJrohy%2Fmulti-v2ray)
+推荐这个一键脚本，233那个已经不维护了
+#quote depression
 
