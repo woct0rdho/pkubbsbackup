@@ -1,4 +1,4 @@
-#t 35 17529744 depression 2020-02-05 00:22:00 zhbzhbzhbz 2020-02-07 22:59:00
+#t 35 17529744 depression 2020-02-05 00:22:00 zhbzhbzhbz 2020-02-07 23:00:00
 今天被墙了两个IP
 
 #p 21807071 depression ssdsdowe 2020-02-05 22:22:05
@@ -223,4 +223,14 @@ orz...稳定就行，去试试看
 #p 21816595 zhbzhbzhbz RedB 2020-02-07 22:58:09
 说实话我从digital ocean到google cloud，ip一次没被封过……
 #quote markjiang
+
+#p 21816605 zhbzhbzhbz RedB 2020-02-07 22:59:14
+额……不需要域名啊~不是这个Github的项目
+试试科学上网访问这个：[https://bbat.xyz/post/16/](jump-to.php?url=https%3A%2F%2Fbbat.xyz%2Fpost%2F16%2F)
+#quote grdecy
+
+#p 21816608 zhbzhbzhbz RedB 2020-02-07 22:59:38
+执行这句就行
+bash &lt;(curl -s -L [https://git.io/v2ray.sh](jump-to.php?url=https%3A%2F%2Fgit.io%2Fv2ray.sh))
+#quote grdecy
 
