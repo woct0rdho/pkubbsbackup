@@ -1,4 +1,4 @@
-#t 35 17530162 LeapatHealth 2020-02-06 00:09:00 nietsnie 2020-02-06 10:21:00
+#t 35 17530162 LeapatHealth 2020-02-06 00:09:00 hiaoxui 2020-02-07 15:25:00
 最近墙变高，有还能使用的SSR服务器吗
 
 #p 21808094 LeapatHealth heihei 2020-02-06 09:10:13
@@ -7,4 +7,8 @@
 #p 21808280 nietsnie 嗯，我是一个昵称 2020-02-06 10:20:37
 ss、ssr基本能被精准识别了，建议换v2ray或trojan
 #quote LeapatHealth
+
+#p 21814300 hiaoxui 小辉 2020-02-07 15:24:41
+你看看各大机场的惨状就知道现在没什么协议能活下来了.
+#quote nietsnie
 

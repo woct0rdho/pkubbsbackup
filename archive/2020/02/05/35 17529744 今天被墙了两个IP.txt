@@ -1,4 +1,4 @@
-#t 35 17529744 depression 2020-02-05 00:22:00 zhbzhbzhbz 2020-02-07 13:54:00
+#t 35 17529744 depression 2020-02-05 00:22:00 markjiang 2020-02-07 15:15:00
 今天被墙了两个IP
 
 #p 21807071 depression ssdsdowe 2020-02-05 22:22:05
@@ -204,4 +204,8 @@ orz...稳定就行，去试试看
 [https://github.com/Jrohy/multi-v2ray](jump-to.php?url=https%3A%2F%2Fgithub.com%2FJrohy%2Fmulti-v2ray)
 推荐这个一键脚本，233那个已经不维护了
 #quote depression
+
+#p 21814259 markjiang chinaxyz 2020-02-07 15:14:34
+小哥有推荐的ip节点嘛，用日本，美国洛杉矶的貌似被封的好快。
+#quote zhbzhbzhbz
 
