@@ -1,4 +1,4 @@
-#t 35 17529744 depression 2020-02-05 00:22:00 zhbzhbzhbz 2020-02-07 10:07:00
+#t 35 17529744 depression 2020-02-05 00:22:00 markjiang 2020-02-07 11:29:00
 今天被墙了两个IP
 
 #p 21807071 depression ssdsdowe 2020-02-05 22:22:05
@@ -178,4 +178,8 @@ v2ray搭起来和ssr相比会复杂很多吗- -
 #p 21812878 zhbzhbzhbz RedB 2020-02-07 10:06:40
 一键脚本，没有任何复杂度（复制，按一下回车）
 #quote grdecy
+
+#p 21813224 markjiang chinaxyz 2020-02-07 11:28:44
+用一键脚本需要申请免费网址嘛？ 比如freedom（申请不上，都是不可用）
+#quote zhbzhbzhbz
 
