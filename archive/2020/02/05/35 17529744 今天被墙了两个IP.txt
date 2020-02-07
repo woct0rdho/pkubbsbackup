@@ -1,4 +1,4 @@
-#t 35 17529744 depression 2020-02-05 00:22:00 mozzie 2020-02-07 09:56:00
+#t 35 17529744 depression 2020-02-05 00:22:00 zhbzhbzhbz 2020-02-07 10:07:00
 今天被墙了两个IP
 
 #p 21807071 depression ssdsdowe 2020-02-05 22:22:05
@@ -174,4 +174,8 @@ v2ray搭起来和ssr相比会复杂很多吗- -
 [https://www.stackcc.com/2019/04/02/v2raysetup/](jump-to.php?url=https%3A%2F%2Fwww.stackcc.com%2F2019%2F04%2F02%2Fv2raysetup%2F)
 [https://www.svlik.com/2113.html](jump-to.php?url=https%3A%2F%2Fwww.svlik.com%2F2113.html)
 #quote markjiang
+
+#p 21812878 zhbzhbzhbz RedB 2020-02-07 10:06:40
+一键脚本，没有任何复杂度（复制，按一下回车）
+#quote grdecy
 
