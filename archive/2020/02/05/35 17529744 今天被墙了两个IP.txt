@@ -1,4 +1,4 @@
-#t 35 17529744 depression 2020-02-05 00:22:00 zhbzhbzhbz 2020-02-07 23:00:00
+#t 35 17529744 depression 2020-02-05 00:22:00 grdecy 2020-02-08 00:00:00
 今天被墙了两个IP
 
 #p 21807071 depression ssdsdowe 2020-02-05 22:22:05
@@ -233,4 +233,8 @@ orz...稳定就行，去试试看
 执行这句就行
 bash &lt;(curl -s -L [https://git.io/v2ray.sh](jump-to.php?url=https%3A%2F%2Fgit.io%2Fv2ray.sh))
 #quote grdecy
+
+#p 21816904 grdecy raymondey 2020-02-08 00:36:45
+TQL!先试试v2ray裸奔看看
+#quote zhbzhbzhbz
 
