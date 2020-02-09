@@ -1,4 +1,4 @@
-#t 35 17529744 depression 2020-02-05 00:22:00 zhbzhbzhbz 2020-02-09 09:27:00
+#t 35 17529744 depression 2020-02-05 00:22:00 grdecy 2020-02-09 14:36:00
 今天被墙了两个IP
 
 #p 21807071 depression ssdsdowe 2020-02-05 22:22:05
@@ -235,10 +235,16 @@ bash &lt;(curl -s -L [https://git.io/v2ray.sh](jump-to.php?url=https%3A%2F%2Fgit
 #quote grdecy
 
 #p 21816904 grdecy raymondey 2020-02-08 00:36:45
+#DELETED
 TQL!先试试v2ray裸奔看看
 #quote zhbzhbzhbz
 
 #p 21821961 zhbzhbzhbz RedB 2020-02-09 09:26:06
 嗯嗯，我自己是裸奔很久都没事，但是有时候可能会被拦截，但是不会封ip
 #quote grdecy
+
+#p 21823203 grdecy raymondey 2020-02-09 14:35:40
+24h了，真的很稳啊....ssr五分钟就没了
+而且速度比ssr快很多，不知道是台湾换香港的提升，还是协议的提升...
+#quote zhbzhbzhbz
 
