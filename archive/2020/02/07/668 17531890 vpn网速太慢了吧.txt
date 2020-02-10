@@ -1,4 +1,4 @@
-#t 668 17531890 huanghuayang 2020-02-07 00:15:00 PKUwuming 2020-02-10 18:33:00
+#t 668 17531890 huanghuayang 2020-02-07 00:15:00 PKUwuming 2020-02-10 21:43:00
 vpn网速太慢了吧
 
 #p 21814464 huanghuayang 海拉鲁小霸王 2020-02-07 15:59:00
@@ -35,5 +35,13 @@ VPN电信通入口: [https://vpnp.pku.edu.cn](jump-to.php?url=https%3A%2F%2Fvpnp
 
 #p 21828054 PKUwuming 无名 2020-02-10 18:32:16
 目的不一样，远程桌面只是用来将软件上传到网盘。实际下载时不用VPN
+#quote xinxinxinxin
+
+#p 21828530 xinxinxinxin 欣 2020-02-10 21:01:55
+我不在北京的话，反正开vpn接远程桌面卡的一批[人生艰难]
+#quote PKUwuming
+
+#p 21828667 PKUwuming 无名 2020-02-10 21:42:59
+我用VPN接远程桌面挺快的~ 后面借助云服务器内网穿透可以不用VPN就连接远程桌面，也挺快的
 #quote xinxinxinxin
 
