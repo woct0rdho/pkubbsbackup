@@ -1,7 +1,11 @@
-#t 35 17534674 fbttrestart 2020-02-09 20:10:00 fbttrestart 2020-02-09 20:10:00
+#t 35 17534674 fbttrestart 2020-02-09 00:20:00 vango 2020-02-10 10:44:00
 关于在校外下载学校正版软件
 
 #p 21824554 fbttrestart hahhh 2020-02-09 20:09:49
 不挂VPN就无法下载，挂上VPN网速也奇低，真的没有什么解决办法吗
 爆头痛哭
+
+#p 21826169 vango vango 2020-02-10 10:43:33
+wpn.pku.edu.cn
+#quote fbttrestart
 
