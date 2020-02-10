@@ -1,4 +1,4 @@
-#t 668 17531890 huanghuayang 2020-02-07 00:15:00 PKUwuming 2020-02-07 22:39:00
+#t 668 17531890 huanghuayang 2020-02-07 00:15:00 xinxinxinxin 2020-02-10 17:31:00
 vpn网速太慢了吧
 
 #p 21814464 huanghuayang 海拉鲁小霸王 2020-02-07 15:59:00
@@ -28,4 +28,8 @@ VPN电信通入口: [https://vpnp.pku.edu.cn](jump-to.php?url=https%3A%2F%2Fvpnp
 #p 21816527 PKUwuming 无名 2020-02-07 22:38:17
 用北大网盘下载很快，好几MB每秒。有条件的话，可以利用校内的主机（远程桌面连接）先将软件上传到你的北大网盘，再通过北大网盘来下载
 #quote huanghuayang
+
+#p 21827834 xinxinxinxin 欣 2020-02-10 17:30:30
+远程桌面不还是得连VPN [面无表情]
+#quote PKUwuming
 
