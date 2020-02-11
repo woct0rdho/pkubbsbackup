@@ -1,6 +1,10 @@
-#t 668 17536558 Twentyseven 2020-02-11 09:55:00 Twentyseven 2020-02-11 09:55:00
+#t 668 17536558 Twentyseven 2020-02-11 09:55:00 PKUCC 2020-02-11 10:04:00
 电脑Chrome端无法登陆iaaa
 
 #p 21829990 Twentyseven Poppy 2020-02-11 09:54:54
 不知道为什么，电脑Chrome登陆不了门户或者下载文献IAAA. 但是火狐和手机浏览器Safari都可以。
+
+#p 21830021 PKUCC 北京大学计算中心 2020-02-11 10:03:43
+实测校外chrome 可以。您可以清一下缓存试试，尤其是cookie。有问题可联系62751023，谢谢。
+#quote Twentyseven
 

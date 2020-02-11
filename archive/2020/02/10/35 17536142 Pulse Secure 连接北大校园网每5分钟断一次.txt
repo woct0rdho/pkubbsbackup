@@ -1,4 +1,4 @@
-#t 35 17536142 YiYiZ 2020-02-10 00:23:00 PKUCC 2020-02-11 08:40:00
+#t 35 17536142 YiYiZ 2020-02-10 00:23:00 YiYiZ 2020-02-11 10:47:00
 Pulse Secure 连接北大校园网每5分钟断一次
 
 #p 21829007 YiYiZ 伊 2020-02-10 23:25:28
@@ -12,4 +12,8 @@ VPN电信入口: [https://vpnt.pku.edu.cn](jump-to.php?url=https%3A%2F%2Fvpnt.pk
 VPN联通入口: [https://vpnu.pku.edu.cn](jump-to.php?url=https%3A%2F%2Fvpnu.pku.edu.cn)
 VPN电信通入口: [https://vpnp.pku.edu.cn](jump-to.php?url=https%3A%2F%2Fvpnp.pku.edu.cn)
 #quote YiYiZ
+
+#p 21830211 YiYiZ 伊 2020-02-11 10:46:53
+谢谢回复，我就是用的你给的这几个地址，但是有数据传输的时候一会儿就断了，然后再尝试重新连接，就一直处于重新连接的状态，再新建一个才能连上
+#quote PKUCC
 
