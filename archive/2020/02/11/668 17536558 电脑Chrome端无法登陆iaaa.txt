@@ -1,4 +1,4 @@
-#t 668 17536558 Twentyseven 2020-02-11 09:55:00 PKUCC 2020-02-11 10:04:00
+#t 668 17536558 Twentyseven 2020-02-11 00:09:00 Twentyseven 2020-02-11 16:02:00
 电脑Chrome端无法登陆iaaa
 
 #p 21829990 Twentyseven Poppy 2020-02-11 09:54:54
@@ -7,4 +7,8 @@
 #p 21830021 PKUCC 北京大学计算中心 2020-02-11 10:03:43
 实测校外chrome 可以。您可以清一下缓存试试，尤其是cookie。有问题可联系62751023，谢谢。
 #quote Twentyseven
+
+#p 21831449 Twentyseven Poppy 2020-02-11 16:01:26
+谢谢老师~
+#quote PKUCC
 
