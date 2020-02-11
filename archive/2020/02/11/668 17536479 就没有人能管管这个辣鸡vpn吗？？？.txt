@@ -1,0 +1,26 @@
+#t 668 17536479 tinydanger 2020-02-11 08:09:00 PKUCC 2020-02-11 08:59:00
+就没有人能管管这个辣鸡vpn吗？？？
+
+#p 21829732 tinydanger 小蛋卷 2020-02-11 08:09:12
+疫情当前，响应学校号召宅在家学习。
+然而学校vpn的速度慢得简直令！人！发！指！！！
+国内数据库下载论文速度不到1k/s，国外数据库更是经常连链接都点不进去。费劲千辛万苦刷进去后经常下载到一半就断线了。在部分mac os操作系统下，断开vpn连接后还经常要等很长一段时间，甚至重启后，才能重新上网。
+据了解这并非我一个人的问题。版上也不止一人反映vpn的问题。使用同一网络连接人大vpn甚至国外大学vpn，都比贵校vpn强一百倍！！！
+既不允许返校，又不推迟论文交稿时间，vpn还这么渣渣，能不能给我们毕业狗一点活路？？？
+
+#p 21829736 tinydanger 小蛋卷 2020-02-11 08:12:10
+整个版面有一半都在反映vpn的问题，学校是否应该重视一下？？？特殊时期，vpn的重要性更是不比以往！！
+#quote tinydanger
+
+#p 21829786 PKUCC 北京大学计算中心 2020-02-11 08:44:36
+你好，目前学校提供了几种VPN模式，其中前两种方式可访问图书馆电子资源。
+1、常规的客户端模式:[https://its.pku.edu.cn/service_1_vpn.jsp](jump-to.php?url=https%3A%2F%2Fits.pku.edu.cn%2Fservice_1_vpn.jsp)（提供多个链路入口，请根据情况选用）；
+2、无客户端和客户端同时支持的VPN：[https://vpns.pku.edu.cn](jump-to.php?url=https%3A%2F%2Fvpns.pku.edu.cn)；
+3、轻量级VPN模式，支持rdp/ssh等协议的无客户端使用，用于校内资源访问：[https://wpn.pku.edu.cn](jump-to.php?url=https%3A%2F%2Fwpn.pku.edu.cn)；
+此外，根据学校疫情防控工作部署，计算中心为全校师生提供一种通过教育网资源共享服务CARSI（[https://www.carsi.edu.cn](jump-to.php?url=https%3A%2F%2Fwww.carsi.edu.cn)）在校外直接访问部分电子资源的方法，无需使用VPN。详情请参考：[https://its.pku.edu.cn/announce/tz20200128202900.jsp](jump-to.php?url=https%3A%2F%2Fits.pku.edu.cn%2Fannounce%2Ftz20200128202900.jsp)
+#quote tinydanger
+
+#p 21829804 PKUCC 北京大学计算中心 2020-02-11 08:59:20
+学校也提供了[https://wvpn.pku.edu.cn](jump-to.php?url=https%3A%2F%2Fwvpn.pku.edu.cn)和[https://vpns.pku.edu.cn](jump-to.php?url=https%3A%2F%2Fvpns.pku.edu.cn), 无需安装客户端，你可以试试. VPN每天有上万用户上线，平均速度在600kb/s, 建议您换不同链路服务器地址或使用手机4G热点WI-FI试试。
+#quote tinydanger
+
