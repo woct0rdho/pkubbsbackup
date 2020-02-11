@@ -1,4 +1,4 @@
-#t 35 17533648 Juriss 2020-02-08 00:23:00 pgyaa 2020-02-11 16:09:00
+#t 35 17533648 Juriss 2020-02-08 00:23:00 shuyangfang 2020-02-11 17:26:00
 想问一下有什么能用的vpn加速器吗
 
 #p 21821233 Juriss Jacktobeunchained 2020-02-08 23:47:37
@@ -11,5 +11,13 @@
 #p 21831473 pgyaa 会飞的小龙 2020-02-11 16:08:46
 不建议买vpn。
 可以办一个免年费的visa、运通卡，然后注册亚马逊云、谷歌云，搭梯子。纯学术用途的话，被ban的几率比较小。
+#quote Juriss
+
+#p 21831741 zhbzhbzhbz RedB 2020-02-11 17:19:44
+国内的visa、mastercard已经不能注册谷歌云了，亲测
+#quote pgyaa
+
+#p 21831759 shuyangfang 白音 2020-02-11 17:25:44
+私信我，支持ios和安卓，上youtube无压力
 #quote Juriss
 
