@@ -1,4 +1,4 @@
-#t 35 17533648 Juriss 2020-02-08 00:23:00 Qcemyr 2020-02-12 22:50:00
+#t 35 17533648 Juriss 2020-02-08 00:23:00 Qcemyr 2020-02-12 23:39:00
 想问一下有什么能用的vpn加速器吗
 
 #p 21821233 Juriss Jacktobeunchained 2020-02-08 23:47:37
@@ -61,4 +61,12 @@ chrome浏览器安装ghelper插件
 #p 21837664 Qcemyr 泥鳅 2020-02-12 22:50:04
 亲测 v2ray好用。可以在VPS和本机装。  或者嫌麻烦可以在线购买能用的v2ray节点。
 #quote Juriss
+
+#p 21837735 KakaHiguain 喵利国家生死以 2020-02-12 23:10:41
+怎么弄啊
+#quote Qcemyr
+
+#p 21837862 Qcemyr 泥鳅 2020-02-12 23:39:02
+[https://www.wmsoho.com/google-cloud-platform-ssr-bbr-tutorial/](jump-to.php?url=https%3A%2F%2Fwww.wmsoho.com%2Fgoogle-cloud-platform-ssr-bbr-tutorial%2F)
+#quote KakaHiguain
 
