@@ -1,0 +1,23 @@
+#t 1465 17537598 zheshishenme 2020-02-12 00:00:00 tronphy 2020-02-12 00:06:00
+WHO正式命名新冠病毒为COVID-19
+
+#p 21833189 zheshishenme 消息发布｜这是什么 2020-02-12 10:03:34
+
+
+2020-02-12 00:29:57
+2月11日晚，WHO世界卫生组织总干事谭德塞在日内瓦的全球研究与创新论坛上宣布，2019年底出现的新型冠状病毒正式命名为“COVID-19”。
+在此之前，这个新型冠状病毒并没有正式的名字，此前流行的名字是2019-nCoV/novel coronavirus。
+2月8日下午的国务院应对新型冠状病毒感染的肺炎疫情联防联控机制举行新闻发布会上，国家卫健委新闻发言人宋树立在会上通报，国务院应对新型冠状病毒肺炎疫情联防联控机制成员现决定，将新型冠状病毒感染的肺炎暂命名为“新型冠状病毒肺炎”，英文名为“Novel coronavirus pneumonia”，中文简称“新冠肺炎”，英文简称“NCP”。
+据介绍，冠状病毒是一大类病毒，已知会引起疾病，患者表现为从普通感冒到重症肺部感染等不同临床症状，例如中东呼吸综合征(MERS)、严重急性呼吸综合征(SARS)，后者就是17年前肆虐的“非典”。
+此次武汉发现的新型冠状病毒COVID-19，是一种以前尚未在人类中发现的新型冠状病毒，目前还没找到最初的传染源。
+--原文如此。COVI是冠状病毒，D是疾病，可能是要对NCP更名？以及选择性忽略或改变了WHO原文？
+
+#p 21833452 tronphy 纠缠的皮卡丘 2020-02-12 02:20:16
+貌似COVID-19指的是疾病，病毒应该还是2019-nCov
+#quote zheshishenme
+
+#p 21833669 tronphy 纠缠的皮卡丘 2020-02-12 06:20:31
+Shortly after the WHO announced the disease’s official name, the virus causing it was named SARS-CoV-2 by the International Committee on Taxonomy of Viruses. In a paper posted to the bioRxiv preprint server, the Committee’s study group on coronaviruses explains that this term highlights the new virus’ similarity to the SARS virus identified in 2003.
+这时nature官网的介绍，新的病毒名称为SARS-CoV-2，是为了强调与SARS的相似性，但是否是从属关系呢，等今天科普号科普了
+#quote zheshishenme
+

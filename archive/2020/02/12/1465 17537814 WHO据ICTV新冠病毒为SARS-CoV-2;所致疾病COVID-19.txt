@@ -1,0 +1,126 @@
+#t 1465 17537814 tronphy 2020-02-12 00:06:00 tronphy 2020-02-12 12:59:00
+WHO据ICTV新冠病毒为SARS-CoV-2;所致疾病COVID-19
+
+#p 21833677 tronphy 纠缠的皮卡丘 2020-02-12 12:20:26
+
+
+2020-02-12 06:26:27
+nature 官网有个网页专业更新新冠病毒的进展信息：
+[https://www.nature.com/articles/d41586-020-00154-w](jump-to.php?url=https%3A%2F%2Fwww.nature.com%2Farticles%2Fd41586-020-00154-w)
+不用翻墙应该都能看到，
+国内媒体翻译的时候太不仔细了，把疾病的名称翻译成病毒名称。
+The World Health Organization has officially named the disease caused by the coronavirus COVID-19. This will replace various monikers and hashtags given to the emerging illness over the past few weeks. Most recently, on 8 February, China’s National Health Commission decided to temporarily call the disease novel coronavirus pneumonia, or NCP. But because viruses continue to spread from animals to people, this coronavirus won’t be novel for long.
+“COVID-19 stands for coronavirus disease in 2019,” said Soumya Swaminathan, chief scientist at the World Health Organization in Geneva, Switzerland, at a press briefing. She explained that there are many coronaviruses, and this style of naming will provide a format for referring to new coronavirus diseases in future years. “The virus itself is named by international group of virologists who will look into the taxonomy,” she said. “But it is important to have a name for this disease that everybody uses.”
+Shortly after the WHO announced the disease’s official name, the virus causing it was named SARS-CoV-2 by the International Committee on Taxonomy of Viruses. In a paper posted to the bioRxiv preprint server, the Committee’s study group on coronaviruses explains that this term highlights the new virus’ similarity to the SARS virus identified in 2003.
+
+#p 21833721 dadaye Psyche & Osiris 2020-02-12 07:18:31
+
+
+2020-02-12 07:14:00
+可能是故意略过这个point，毕竟现在唯一能说李医生传谣的点是 新冠状病毒不叫SARS ……
+#quote tronphy
+
+#p 21834031 zheshishenme 消息发布｜这是什么 2020-02-12 12:15:17
+
+
+2020-02-12 10:05:56
+SARS-CoV-2是ICTV给出的病原体的名字。
+[https://talk.ictvonline.org/](jump-to.php?url=https%3A%2F%2Ftalk.ictvonline.org%2F)，Current News栏目。
+COVID-19是WHO对此次疾病的命名。
+[https://www.who.int/dg/speeches/detail/who-director-general-s-remarks-at-the-media-briefing-on-2019-ncov-on-11-february-2020](jump-to.php?url=https%3A%2F%2Fwww.who.int%2Fdg%2Fspeeches%2Fdetail%2Fwho-director-general-s-remarks-at-the-media-briefing-on-2019-ncov-on-11-february-2020)
+#quote tronphy
+
+#p 21834058 Curry 黄昏绯月｜重度生人恐惧症患者 2020-02-12 10:14:01
+Coronavirus Study Group在biorxiv上发表的文章，声明新命名并给出相应的依据
+[https://www.biorxiv.org/content/10.1101/2020.02.07.937862v1](jump-to.php?url=https%3A%2F%2Fwww.biorxiv.org%2Fcontent%2F10.1101%2F2020.02.07.937862v1)
+#quote tronphy
+
+#p 21834099 WallaceBbee 埃及猫神 瓦坎达皇帝 万王之王 华莱士·彼伊 2020-02-12 10:31:40
+我早就说叫sarsⅡ了……
+至于sars2是不是sars，白🐎是不是🐎……
+各位公孙龙子自己搞吧
+#quote tronphy
+
+#p 21834111 euio 耳目一心 2020-02-12 10:35:25
+强！
+膜！
+#quote WallaceBbee
+
+#p 21834116 euio 耳目一心 2020-02-12 10:36:47
+&gt;可能是故意略过这个point，毕竟现在唯一能说李医生传谣的点是 新冠状病毒不叫SARS ……
+其行可恶
+其心可诛
+#quote dadaye
+
+#p 21834163 Smart 睡意盎然 2020-02-12 10:51:35
+有必要么？
+太阴谋论了吧
+#quote dadaye
+
+#p 21834203 WallaceBbee 埃及猫神 瓦坎达皇帝 万王之王 华莱士·彼伊 2020-02-12 10:58:09
+之前是官方先用“白🐎非🐎”的理由搞铁幕训诫的……
+现在真的成白🐎了，大家心里好歹有点13数了
+#quote Smart
+
+#p 21834506 dadaye Psyche & Osiris 2020-02-12 12:00:01
+之前陈焕春“口误”不是全网删？
+#quote Smart
+
+#p 21834525 tronphy 纠缠的皮卡丘 2020-02-12 12:03:03
+我看nature那条新闻，SARS-CoV-2也算WHO公布的
+#quote zheshishenme
+
+#p 21834536 WallaceBbee 埃及猫神 瓦坎达皇帝 万王之王 华莱士·彼伊 2020-02-12 12:04:13
+陈院士不是老眼昏花，是不小心把实话说秃噜嘴了
+#quote dadaye
+
+#p 21834625 zheshishenme 消息发布｜这是什么 2020-02-12 12:17:18
+是口误还是被口误？
+#quote WallaceBbee
+
+#p 21834705 euio 耳目一心 2020-02-12 12:28:28
+“可能是口误，也许有一点错误”
+#quote zheshishenme
+
+#p 21834714 WallaceBbee 埃及猫神 瓦坎达皇帝 万王之王 华莱士·彼伊 2020-02-12 12:30:00
+稿件原意肯定是SARSr-cov或者同义词……
+谁敢写SARS怕是不要命了。
+然后你看原视频，陈院士读的时候，在这里卡了一下……想了一下……才说的。
+明显他绝对不是无脑念稿。
+（从善意的思路思考估计是临时的手写稿没看清楚？）
+然后所以他就按他觉得没太大问题的思路讲出来了（？）。
+emmmm说明在他心目中这玩意跟SARS确实没啥区别。
+一个玩意，长得像鸭子，跑起来像鸭子，飞起来像鸭子，叫起来像鸭子，吃起来像鸭子……就因为群众害怕鸭子所以禁止叫它鸭子，谁叫它鸭子谁就“违法”“造谣”……还是挺难受的。
+#quote zheshishenme
+
+#p 21834721 lea 无爱即无忧 2020-02-12 12:31:43
+小浣熊和小熊猫确实挺像的...
+#quote WallaceBbee
+
+#p 21834740 WallaceBbee 埃及猫神 瓦坎达皇帝 万王之王 华莱士·彼伊 2020-02-12 12:40:18
+
+
+2020-02-12 12:35:43
+普遍解释是陈院士把稿子的SARSr看成了SARS（）
+然后国际病毒分类学会现在准备把所有SARSr都变成SARS病毒x号了🤤
+#quote lea
+
+#p 21834762 tronphy 纠缠的皮卡丘 2020-02-12 12:40:22
+知识分子刚发的文章说石正丽并不认可WHO的命名，但是陈院士说依据的是石正丽的研究
+#quote WallaceBbee
+
+#p 21834804 WallaceBbee 埃及猫神 瓦坎达皇帝 万王之王 华莱士·彼伊 2020-02-12 12:48:21
+石正丽的研究原文里管SARS病毒的近亲叫
+SARS related CoV（SARS相关冠状病毒）
+简称SARSr CoV
+很好查到
+然后陈老一个眼花+说秃噜嘴（不小心说了心里实话）就把r给看丢了……
+现在WHO和国际病毒分类学会的新命名相当于把所有的SARSr病毒都改名成SARS病毒几号了……
+现在是二号，下次可能是三号四号五号……
+可能问题最后会回到白🐎到底是不是🐎的问题……爱咋咋地吧。
+#quote tronphy
+
+#p 21834835 tronphy 纠缠的皮卡丘 2020-02-12 12:58:58
+所以算是搞了一个病毒子分支，其中包括2003和2019年的冠状病毒？原则上它俩还属于并列关系吧，并不是简单的从属关系。
+#quote WallaceBbee
+
