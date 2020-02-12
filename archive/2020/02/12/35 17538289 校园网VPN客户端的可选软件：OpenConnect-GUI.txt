@@ -1,4 +1,4 @@
-#t 35 17538289 PKUwuming 2020-02-12 15:20:00 PKUwuming 2020-02-12 15:20:00
+#t 35 17538289 PKUwuming 2020-02-12 00:15:00 jiamingpku 2020-02-12 21:21:00
 校园网VPN客户端的可选软件：OpenConnect-GUI
 
 #p 21835506 PKUwuming 无名 2020-02-12 15:19:34
@@ -12,4 +12,8 @@
 - 用户名为：学号
 - VPN协议选择 Juniper Network Connect
 MacOS下的配置示意图如附件所示
+
+#p 21837189 jiamingpku jiamingpku 2020-02-12 21:20:14
+Linux 版有讨论
+#quote PKUwuming
 
