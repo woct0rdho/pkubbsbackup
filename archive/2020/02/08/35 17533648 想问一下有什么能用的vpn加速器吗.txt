@@ -1,4 +1,4 @@
-#t 35 17533648 Juriss 2020-02-08 00:23:00 Schiffer 2020-02-12 19:43:00
+#t 35 17533648 Juriss 2020-02-08 00:23:00 Qcemyr 2020-02-12 22:50:00
 想问一下有什么能用的vpn加速器吗
 
 #p 21821233 Juriss Jacktobeunchained 2020-02-08 23:47:37
@@ -52,5 +52,13 @@ hhh
 
 #p 21836709 Schiffer sn 2020-02-12 19:42:28
 chrome浏览器安装ghelper插件
+#quote Juriss
+
+#p 21837659 Qcemyr 泥鳅 2020-02-12 22:49:04
+谷歌云可以，但是服务器不能用ssr，需要装v2ray才可以翻墙。
+#quote KakaHiguain
+
+#p 21837664 Qcemyr 泥鳅 2020-02-12 22:50:04
+亲测 v2ray好用。可以在VPS和本机装。  或者嫌麻烦可以在线购买能用的v2ray节点。
 #quote Juriss
 
