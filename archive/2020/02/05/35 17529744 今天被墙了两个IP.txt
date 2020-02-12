@@ -1,4 +1,4 @@
-#t 35 17529744 depression 2020-02-05 00:22:00 YUHE 2020-02-11 16:04:00
+#t 35 17529744 depression 2020-02-05 00:22:00 depression 2020-02-12 18:25:00
 今天被墙了两个IP
 
 #p 21807071 depression ssdsdowe 2020-02-05 22:22:05
@@ -255,4 +255,8 @@ v2ray好像是在ss基础上的，主要还是线路应该
 #p 21831457 YUHE YUHE 2020-02-11 16:04:11
 昨天封了两个v，今天开了个新的，一个小时后被封了
 #quote depression
+
+#p 21836288 depression ssdsdowe 2020-02-12 18:24:39
+最近的Feng 得比较厉害，暂时别搞了
+#quote YUHE
 
