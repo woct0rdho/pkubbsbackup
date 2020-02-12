@@ -1,4 +1,4 @@
-#t 1465 17536618 euio 2020-02-11 00:10:00 euio 2020-02-12 15:08:00
+#t 1465 17536618 euio 2020-02-11 00:10:00 euio 2020-02-12 16:55:00
 我终于明白了：高福所说的“科学思维”防控治是什么
 
 #p 21830238 euio 耳目一心 2020-02-11 10:54:48
@@ -61,4 +61,14 @@
 &gt;我看他像病毒
 他是思维病毒
 #quote fly
+
+#p 21835727 speechless Gid 2020-02-12 16:24:30
+[https://www.nejm.org/doi/full/10.1056/NEJMoa2001316](jump-to.php?url=https%3A%2F%2Fwww.nejm.org%2Fdoi%2Ffull%2F10.1056%2FNEJMoa2001316)
+#quote euio
+
+#p 21835848 euio 耳目一心 2020-02-12 16:54:46
+我要的是能统计出文章中那些图表的原始数据，不是结果。（这篇文章连Supplementary material都没有）
+是为了验证和看其他的角度。
+拜托。
+#quote speechless
 
