@@ -1,0 +1,15 @@
+#t 35 17538289 PKUwuming 2020-02-12 15:20:00 PKUwuming 2020-02-12 15:20:00
+校园网VPN客户端的可选软件：OpenConnect-GUI
+
+#p 21835506 PKUwuming 无名 2020-02-12 15:19:34
+经测试，OpenConnect-GUI 比学校提供的VPN客户端 Pulse Secure 要稳定
+下载地址：
+- Windows: [https://github.com/openconnect/openconnect-gui/releases/download/v1.5.3/openconnect-gui-1.5.3-win32.exe](jump-to.php?url=https%3A%2F%2Fgithub.com%2Fopenconnect%2Fopenconnect-gui%2Freleases%2Fdownload%2Fv1.5.3%2Fopenconnect-gui-1.5.3-win32.exe)
+- MacOS: [https://github.com/openconnect/openconnect-gui/releases/download/v1.5.3/openconnect-gui-1.5.3.high_sierra.bottle.tar.gz](jump-to.php?url=https%3A%2F%2Fgithub.com%2Fopenconnect%2Fopenconnect-gui%2Freleases%2Fdownload%2Fv1.5.3%2Fopenconnect-gui-1.5.3.high_sierra.bottle.tar.gz)
+- 其它版本: [https://github.com/openconnect/openconnect-gui/releases](jump-to.php?url=https%3A%2F%2Fgithub.com%2Fopenconnect%2Fopenconnect-gui%2Freleases)
+注意事项：
+- Gateway为：vpn.pku.edu.cn
+- 用户名为：学号
+- VPN协议选择 Juniper Network Connect
+MacOS下的配置示意图如附件所示
+

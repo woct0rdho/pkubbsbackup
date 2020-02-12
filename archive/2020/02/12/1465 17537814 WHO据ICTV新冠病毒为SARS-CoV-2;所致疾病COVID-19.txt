@@ -1,4 +1,4 @@
-#t 1465 17537814 tronphy 2020-02-12 00:06:00 Dondonda 2020-02-12 14:24:00
+#t 1465 17537814 tronphy 2020-02-12 00:06:00 wuruiyang 2020-02-12 15:52:00
 WHO据ICTV新冠病毒为SARS-CoV-2;所致疾病COVID-19
 
 #p 21833677 tronphy 纠缠的皮卡丘 2020-02-12 12:20:26
@@ -142,11 +142,37 @@ SARS related CoV（SARS相关冠状病毒）
 哈哈哈哈
 #quote WallaceBbee
 
-#p 21835311 Dondonda Dondonda 2020-02-12 14:23:59
+#p 21835311 Dondonda Dondonda 2020-02-12 14:29:44
+
+
+2020-02-12 14:23:59
 别在这马不马的，白马和马都是同一个物种。
 这两病毒不是同一个种，连同种的两个亚种都不是。不存在白马非马的问题。夸张点说这是草泥马和马的区别。
-即使是更高分类群的名字（其实并不是），比如属于人属于人族，黑猩猩也属于人族，这种情况下也得讲清楚。黑猩猩是人族没问题，但黑猩猩是人对吗？
+即使是更高分类群的名字（其实并不是），比如人类属于人族，黑猩猩也属于人族，这种情况下也得讲清楚。黑猩猩是人族没问题，但黑猩猩是人对吗？人类属于硬骨鱼纲，所以人是硬骨鱼？
 何况sars并不是更高分类群的名字。
-最后这位答主如此“据理力争”，我想你不是想探讨分类学上的事。你想说这病毒就是sars，李医生没错，这个国家不敢说真话，真是邪恶吧。有话直说，别弯弯绕。
+最后这位WallaceBbee如此“据理力争”，玩文字游戏，我想你不是想探讨分类学上的事。你想说这病毒就是sars，李医生没错，这个国家不敢说真话，真是邪恶吧。有话直说，别弯弯绕。
 #quote WallaceBbee
+
+#p 21835481 wuruiyang 锅 2020-02-12 15:12:39
+看四楼文章，SARS-CoV和SARS-CoV-2同属于species: severe acute respiratory syndrome-related coronavirus
+#quote Dondonda
+
+#p 21835522 Postel 天马 2020-02-12 15:23:26
+这是白马和斑马的问题
+但这和李医生的问题无关
+国内媒体就是在回避SARS-CoV-2这个名字，国内有NCP了还报道covid2019，但SARS2这个就没及时报
+#quote tronphy
+
+#p 21835533 Dondonda Dondonda 2020-02-12 15:37:47
+
+
+2020-02-12 15:25:51
+this virus as a sister to severe acute respiratory syndrome coronaviruses (SARS-CoVs)
+sister，不是同一个种。我说的哪错了？从系统发育来说它们亲缘关系近而已。
+另外科普一下，亚种叫subspecies，同种异名叫synonym。通篇下来没有这样的说话。
+#quote wuruiyang
+
+#p 21835623 wuruiyang 锅 2020-02-12 15:51:40
+第四页最后一段SARS-CoV-2 clusters with SARS-CoVs in trees of the species Severe acute respiratory syndrome-related coronavirus。后面还有很多对这个结果的阐述。不知道你引一句不相干的sister想说明个啥
+#quote Dondonda
 
