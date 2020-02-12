@@ -1,4 +1,4 @@
-#t 1465 17537633 PKUHSCzxh 2020-02-12 00:01:00 qkdbdzh 2020-02-12 13:18:00
+#t 1465 17537633 PKUHSCzxh 2020-02-12 00:01:00 Maxwell 2020-02-13 00:32:00
 钟老谈李医生
 
 #p 21833315 PKUHSCzxh kumamon 2020-02-12 01:18:03
@@ -76,5 +76,9 @@
 
 #p 21834899 qkdbdzh qkdbdzh 2020-02-12 13:17:10
 有新增，也有治愈
+#quote jiamingpku
+
+#p 21838062 Maxwell Demon 2020-02-13 00:31:52
+噢噢，累计病例确实是，因为治愈的人数不从中扣除的。
 #quote jiamingpku
 
