@@ -1,4 +1,4 @@
-#t 35 17533648 Juriss 2020-02-08 00:23:00 moyixi 2020-02-13 17:44:00
+#t 35 17533648 Juriss 2020-02-08 00:23:00 Keithandy 2020-02-13 21:59:00
 想问一下有什么能用的vpn加速器吗
 
 #p 21821233 Juriss Jacktobeunchained 2020-02-08 23:47:37
@@ -229,4 +229,8 @@ shadowsocks
 #p 21841146 moyixi 司徒钟 2020-02-13 17:43:27
 不建议vpn、不建议自建，还是上机场比较稳
 #quote Juriss
+
+#p 21842070 Keithandy miruku 2020-02-13 21:59:06
+express vpn 是随时能用，还是有时会连不上呢？我非常想找一个稳定可连接的VPN，不知express能否达到这样的使用体验？
+#quote heshuigao
 
