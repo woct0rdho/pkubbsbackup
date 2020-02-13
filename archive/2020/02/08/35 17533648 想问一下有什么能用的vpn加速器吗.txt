@@ -1,4 +1,4 @@
-#t 35 17533648 Juriss 2020-02-08 00:23:00 yunbiaozhao 2020-02-13 15:36:00
+#t 35 17533648 Juriss 2020-02-08 00:23:00 Schiffer 2020-02-13 16:09:00
 想问一下有什么能用的vpn加速器吗
 
 #p 21821233 Juriss Jacktobeunchained 2020-02-08 23:47:37
@@ -199,4 +199,17 @@ shadowsocks
 <img src="https://s2.ax1x.com/2020/02/13/1LPlOx.png"/>
 <img src="https://s2.ax1x.com/2020/02/13/1LCLOP.png"/>
 #quote Juriss
+
+#p 21840799 SmallStone Miracle 2020-02-13 16:01:50
+这个我用了接近一年了，非常好用，出了去年十一出了一些问题……
+推荐
+#quote caoluyang
+
+#p 21840823 xylbxuexi e宇航员 2020-02-13 16:06:23
+我现在用这个也翻不出去了 你是ipv4 还是 ipv6 ？？顺便求服务器配置，谢谢。
+#quote SKTFaker
+
+#p 21840835 Schiffer sn 2020-02-13 16:08:47
+嗯，免费路线只有谷歌和维基百科，其他网站得付费整个vip。
+#quote clp
 
