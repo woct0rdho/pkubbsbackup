@@ -1,4 +1,4 @@
-#t 35 17529744 depression 2020-02-05 00:22:00 depression 2020-02-12 18:25:00
+#t 35 17529744 depression 2020-02-05 00:22:00 thinky 2020-02-13 13:53:00
 今天被墙了两个IP
 
 #p 21807071 depression ssdsdowe 2020-02-05 22:22:05
@@ -259,4 +259,8 @@ v2ray好像是在ss基础上的，主要还是线路应该
 #p 21836288 depression ssdsdowe 2020-02-12 18:24:39
 最近的Feng 得比较厉害，暂时别搞了
 #quote YUHE
+
+#p 21840166 thinky 披风罗汉 2020-02-13 13:52:53
+vpn开启休假式治疗阶段。
+#quote depression
 
