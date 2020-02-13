@@ -1,4 +1,4 @@
-#t 1465 17539571 phuran 2020-02-13 14:21:00 phuran 2020-02-13 14:47:00
+#t 1465 17539571 phuran 2020-02-13 00:14:00 zheshishenme 2020-02-13 15:42:00
 全国疫情每日数据来源
 
 #p 21840313 phuran 殁子 2020-02-13 14:21:39
@@ -25,13 +25,33 @@ bbs曾有人连续更新全国级的疫情数据。
 这就得在此前每日跟数据了
 #quote phuran
 
-#p 21840462 phuran 殁子 2020-02-13 14:46:58
+#p 21840462 phuran 殁子 2020-02-13 15:19:41
+
+
+2020-02-13 14:46:58
 发现了一个前人整理版本，数据细化到地区，到11号。
 [https://zhuanlan.zhihu.com/p/105421763?utm_source=wechat_session](jump-to.php?url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F105421763%3Futm_source%3Dwechat_session)
+数据仓库csv格式，从1月24日开始，地级市级，每日更新
+[https://github.com/BlankerL/DXY-COVID-19-Data](jump-to.php?url=https%3A%2F%2Fgithub.com%2FBlankerL%2FDXY-COVID-19-Data)
 #quote phuran
 
-#p 21840462 phuran 殁子 2020-02-13 14:46:58
+#p 21840462 phuran 殁子 2020-02-13 15:19:41
+
+
+2020-02-13 14:46:58
 发现了一个前人整理版本，数据细化到地区，到11号。
 [https://zhuanlan.zhihu.com/p/105421763?utm_source=wechat_session](jump-to.php?url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F105421763%3Futm_source%3Dwechat_session)
+数据仓库csv格式，从1月24日开始，地级市级，每日更新
+[https://github.com/BlankerL/DXY-COVID-19-Data](jump-to.php?url=https%3A%2F%2Fgithub.com%2FBlankerL%2FDXY-COVID-19-Data)
 #quote phuran
+
+#p 21840681 Baandarin 板子 2020-02-13 15:34:21
+今天国家卫健委怎么还没公布昨天全国范围内的汇总数字
+#quote zheshishenme
+
+#p 21840706 zheshishenme 消息发布｜这是什么 2020-02-13 15:41:55
+不知。
+很迷幻，数据一直出不来。
+品。
+#quote Baandarin
 

@@ -1,4 +1,4 @@
-#t 35 17533648 Juriss 2020-02-08 00:23:00 caoluyang 2020-02-13 14:51:00
+#t 35 17533648 Juriss 2020-02-08 00:23:00 yunbiaozhao 2020-02-13 15:36:00
 想问一下有什么能用的vpn加速器吗
 
 #p 21821233 Juriss Jacktobeunchained 2020-02-08 23:47:37
@@ -180,5 +180,23 @@ shadowsocks
 #p 21840473 caoluyang 习武园301 2020-02-13 14:50:24
 [https://justmysocks.in/buy.html](jump-to.php?url=https%3A%2F%2Fjustmysocks.in%2Fbuy.html)
 不用你费心劳力去维护节点了，被ban他们会后台自己换ip
+#quote Juriss
+
+#p 21840616 volshebnik volshebnik 2020-02-13 15:23:54
+之前长期用免费的，速度慢还经常翻不过去，现在买这个[https://efanccyun.net/](jump-to.php?url=https%3A%2F%2Fefanccyun.net%2F)一个月20块钱50G套餐解决一切问题，感觉以前为了这点钱浪费大把时间的自己简直是个SB……
+#quote Juriss
+
+#p 21840685 yunbiaozhao 蝶舞沧海 2020-02-13 15:35:24
+我最近一直用 卡车家族 的机场，最近一直没有问题。下面是邀请链接（不知道有没有被墙，但是很稳定）
+[https://kcjisu.casa/auth/register?code=v2o5](jump-to.php?url=https%3A%2F%2Fkcjisu.casa%2Fauth%2Fregister%3Fcode%3Dv2o5)
+<img src="https://s2.ax1x.com/2020/02/13/1LPlOx.png"/>
+<img src="https://s2.ax1x.com/2020/02/13/1LCLOP.png"/>
+#quote Juriss
+
+#p 21840686 yunbiaozhao 蝶舞沧海 2020-02-13 15:35:25
+我最近一直用 卡车家族 的机场，最近一直没有问题。下面是邀请链接（不知道有没有被墙，但是很稳定）
+[https://kcjisu.casa/auth/register?code=v2o5](jump-to.php?url=https%3A%2F%2Fkcjisu.casa%2Fauth%2Fregister%3Fcode%3Dv2o5)
+<img src="https://s2.ax1x.com/2020/02/13/1LPlOx.png"/>
+<img src="https://s2.ax1x.com/2020/02/13/1LCLOP.png"/>
 #quote Juriss
 
