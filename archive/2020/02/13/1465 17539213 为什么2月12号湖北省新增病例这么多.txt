@@ -1,4 +1,4 @@
-#t 1465 17539213 resurrection 2020-02-13 00:08:00 mztkenan 2020-02-13 11:47:00
+#t 1465 17539213 resurrection 2020-02-13 00:08:00 propagator 2020-02-13 12:38:00
 为什么2月12号湖北省新增病例这么多
 
 #p 21838691 resurrection Romantic Mystery 2020-02-13 08:18:59
@@ -67,5 +67,13 @@
 
 #p 21839574 mztkenan zzz 2020-02-13 11:46:33
 原因很简单。省委书记换了啊。上海市委书记挂帅。
+#quote resurrection
+
+#p 21839742 golder laughter 2020-02-13 12:23:58
+上海市长
+#quote mztkenan
+
+#p 21839787 propagator 马甲 2020-02-13 12:37:47
+不知道谁想出来的用曲线连接，曲线形状难道有任何意义？
 #quote resurrection
 

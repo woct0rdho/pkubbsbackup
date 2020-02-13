@@ -1,4 +1,4 @@
-#t 35 17533648 Juriss 2020-02-08 00:23:00 conanhohoho 2020-02-13 11:51:00
+#t 35 17533648 Juriss 2020-02-08 00:23:00 lorivue 2020-02-13 12:52:00
 想问一下有什么能用的vpn加速器吗
 
 #p 21821233 Juriss Jacktobeunchained 2020-02-08 23:47:37
@@ -136,4 +136,18 @@ shadowsocks
 #p 21839599 conanhohoho 柯南i 2020-02-13 11:50:45
 谢谢～🤗
 #quote Dalpku
+
+#p 21839715 KevinLeft RIO_锐澳 2020-02-13 12:18:16
+这个免费的软件 还挺快 可以试试[https://www.leiting99.live/i/3X0ASS](jump-to.php?url=https%3A%2F%2Fwww.leiting99.live%2Fi%2F3X0ASS)
+#quote Juriss
+
+#p 21839724 pgyaa 会飞的小龙 2020-02-13 12:20:42
+这个分情况。
+购买的vpn也是个人、小团体搭建的，水平有高有低。
+我的google云自搭v2ray用了很久，最严格时候也没出过问题。反倒是同事们买的各种vpn代理，墙高的时候总会崩掉。
+#quote Dalpku
+
+#p 21839856 lorivue 千反田 える 2020-02-13 12:51:58
+不免费啊，靠谱不啊
+#quote KevinLeft
 
