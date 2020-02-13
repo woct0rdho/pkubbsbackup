@@ -1,4 +1,4 @@
-#t 35 17533648 Juriss 2020-02-08 00:23:00 ViaOlivia 2020-02-13 10:20:00
+#t 35 17533648 Juriss 2020-02-08 00:23:00 conanhohoho 2020-02-13 11:51:00
 想问一下有什么能用的vpn加速器吗
 
 #p 21821233 Juriss Jacktobeunchained 2020-02-08 23:47:37
@@ -115,4 +115,25 @@ shadowsocks
 #p 21839010 ViaOlivia Jenn 2020-02-13 10:19:50
 亲测好用，谢谢分享！
 #quote Schiffer
+
+#p 21839447 seasideice Cortot 2020-02-13 11:33:13
+租个vps自己搭吧。
+现在我感觉一切直接氪就能用的那种都不靠谱。
+#quote Juriss
+
+#p 21839547 Dalpku YuYu 2020-02-13 11:44:03
+买vpn比自己搭靠谱很多
+#quote pgyaa
+
+#p 21839580 conanhohoho 柯南i 2020-02-13 11:47:42
+好奇，VPN在家里可以搭吗？还是服务器啥的0.0
+#quote Dalpku
+
+#p 21839587 Dalpku YuYu 2020-02-13 11:48:33
+他们说的是vps，建议买靠谱的别人做好的vps节点
+#quote conanhohoho
+
+#p 21839599 conanhohoho 柯南i 2020-02-13 11:50:45
+谢谢～🤗
+#quote Dalpku
 
