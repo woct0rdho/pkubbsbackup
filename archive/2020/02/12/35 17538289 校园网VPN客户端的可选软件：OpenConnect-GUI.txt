@@ -1,4 +1,4 @@
-#t 35 17538289 PKUwuming 2020-02-12 00:15:00 vimacs 2020-02-13 10:06:00
+#t 35 17538289 PKUwuming 2020-02-12 00:15:00 sail 2020-02-13 20:51:00
 校园网VPN客户端的可选软件：OpenConnect-GUI
 
 #p 21835506 PKUwuming 无名 2020-02-12 15:19:34
@@ -31,4 +31,8 @@ windows不要用pulse secure的客户端。直接在微软应用商店下载。�
 #p 21838962 vimacs Lisp Interaction Paredit AC 2020-02-13 10:05:19
 我倒是不知道openconnect还有GUI，不过有NetworkManager插件可以当GUI用。
 #quote jiamingpku
+
+#p 21841767 sail kifish 2020-02-13 20:50:56
+亲测，确实要比pulse secure稳定流畅。
+#quote PKUwuming
 
