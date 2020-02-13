@@ -1,4 +1,4 @@
-#t 35 17533648 Juriss 2020-02-08 00:23:00 lovebetter 2020-02-13 13:15:00
+#t 35 17533648 Juriss 2020-02-08 00:23:00 caoluyang 2020-02-13 14:51:00
 想问一下有什么能用的vpn加速器吗
 
 #p 21821233 Juriss Jacktobeunchained 2020-02-08 23:47:37
@@ -25,8 +25,13 @@
 什么！那我的北大白是不是只能用来薅星巴克了==
 #quote zhbzhbzhbz
 
-#p 21833262 ihavenoname lalala 2020-02-12 00:56:55
+#p 21833262 ihavenoname lalala 2020-02-13 14:27:30
+
+
+2020-02-12 00:56:55
 我买了不错的机场(可以看nf），在各次重大活动期间均仍可使用，楼主需要的话私信我，给你激活码
+很多人问我要啊，再回复下，直接通过我的链接注册，只能看到免费节点，最近免费节点没有维护，高速和普通节点都是正常的，我和几个同学一起拼的年付高速，感觉还挺合适的
+部分节点如下图，主要就是大部分免费节点不可用，除了那个印度节点，所以可能通过我的链接注册了，试用体验不太好。。。。
 #quote Juriss
 
 #p 21835220 zhbzhbzhbz RedB 2020-02-12 14:05:07
@@ -157,5 +162,23 @@ shadowsocks
 
 #p 21839995 lovebetter 子语 2020-02-13 13:14:27
 熊猫翻滚
+#quote Juriss
+
+#p 21840296 ihavenoname lalala 2020-02-13 14:18:15
+#DELETED
+很多人问我要啊，再回复下，直接通过我的链接注册，只能看到免费节点，最近免费节点没有维护，高速和普通节点都是正常的，我和几个同学一起拼的年付高速，感觉还挺合适的
+#quote ihavenoname
+
+#p 21840351 Llloyd jejhej 2020-02-13 14:27:39
+我有全端直接安装都可以用的，平时1080p无压力
+#quote Juriss
+
+#p 21840464 LeoJ 春秋 2020-02-13 14:47:09
+免费的加+速+神+器，独有加密协议确保隐私安全刚刚的，亲测有效哦 [http://www.fzfmz.xyz/redirect?code=TBVY57W](jump-to.php?url=http%3A%2F%2Fwww.fzfmz.xyz%2Fredirect%3Fcode%3DTBVY57W)
+#quote Juriss
+
+#p 21840473 caoluyang 习武园301 2020-02-13 14:50:24
+[https://justmysocks.in/buy.html](jump-to.php?url=https%3A%2F%2Fjustmysocks.in%2Fbuy.html)
+不用你费心劳力去维护节点了，被ban他们会后台自己换ip
 #quote Juriss
 

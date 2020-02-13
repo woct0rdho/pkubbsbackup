@@ -1,4 +1,4 @@
-#t 251 17539071 liuxunlin 2020-02-13 00:04:00 hanxv 2020-02-13 14:00:00
+#t 251 17539071 liuxunlin 2020-02-13 00:04:00 euio 2020-02-13 14:13:00
 想来想去这个话题应该可以发在这里？
 
 #p 21838397 liuxunlin 燕南一猫 2020-02-13 04:12:37
@@ -53,4 +53,26 @@
 #p 21840206 hanxv 氷空の花束 2020-02-13 14:00:31
 [https://bbs.pku.edu.cn/v2/mobile/collection-read.php?path=groups%2FGROUP_0%2FPersonalCorpus%2FH%2Fhanxv%2FDD0E7FBD6%2FA638E6E38](mobile/collection-read.php?path=groups%2FGROUP_0%2FPersonalCorpus%2FH%2Fhanxv%2FDD0E7FBD6%2FA638E6E38)
 #quote liuxunlin
+
+#p 21840211 euio 耳目一心 2020-02-13 14:01:56
+其实北京公交也曾把车辆编号从6位升到8位，不过人家走的就是分段可解释路线。
+#quote thinky
+
+#p 21840247 euio 耳目一心 2020-02-13 14:10:51
+&gt;6-8位，【一般】与所属学院有关（特殊地，本科留学生同学为9XX）
+&gt;第7-8位疑似是老版的院系代码（后两位）存疑
+这都是民间连蒙带猜破解出来的嗳。
+正应了我前面所说的。
+#quote hanxv
+
+#p 21840250 euio 耳目一心 2020-02-13 14:11:54
+&gt;也可以参考下面这个《北京大学人员编码和单位编码方案》来看，来源北京大学信息化建设与管理办公室 [http://oi.pku.edu.cn/zcgh/xxhzcfg/27009.htm](jump-to.php?url=http%3A%2F%2Foi.pku.edu.cn%2Fzcgh%2Fxxhzcfg%2F27009.htm)。
+&gt;北京大学人员编码和单位编码方案
+（2008年9月30日第695次校长办公会讨论通过）
+这个官方文件完全不能解释。
+#quote euio
+
+#p 21840255 euio 耳目一心 2020-02-13 14:12:58
+我是说无法解释当今学号之迷段。
+#quote euio
 

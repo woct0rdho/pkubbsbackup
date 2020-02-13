@@ -1,4 +1,4 @@
-#t 1465 17539213 resurrection 2020-02-13 00:08:00 rainbowboy 2020-02-13 13:53:00
+#t 1465 17539213 resurrection 2020-02-13 00:08:00 IlIl 2020-02-13 14:16:00
 为什么2月12号湖北省新增病例这么多
 
 #p 21838691 resurrection Romantic Mystery 2020-02-13 08:18:59
@@ -91,4 +91,7 @@
 #p 21840167 rainbowboy 小王子 2020-02-13 13:52:55
 核酸检测的准确度要高不少，但也并非100%。漏打了
 #quote rainbowboy
+
+#p 21840279 IlIl 王铁崖 2020-02-13 14:15:56
+#quote resurrection
 

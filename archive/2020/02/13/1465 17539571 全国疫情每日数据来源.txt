@@ -1,0 +1,37 @@
+#t 1465 17539571 phuran 2020-02-13 14:21:00 phuran 2020-02-13 14:47:00
+全国疫情每日数据来源
+
+#p 21840313 phuran 殁子 2020-02-13 14:21:39
+现在各大平台都有及时更新当日地级市级别的疫情数据。
+bbs曾有人连续更新全国级的疫情数据。
+卫健委网站上有每日的疫情通报，是对一些省合并后的文字描述。
+想要请教一下，如何找到过去的到地级市层面的疫情数据，无论是自己分析，可视化，还是数据留底，都有用，谢谢！
+
+#p 21840320 zheshishenme 消息发布｜这是什么 2020-02-13 14:25:06
+
+
+2020-02-13 14:23:06
+现在本版置顶仍有全国数据更新，展开主题帖即可在二楼看见。
+各省级行政单位卫健委官网，基本上当日数据还是可以搜到。
+此前的不敢保证还能找到。
+#quote phuran
+
+#p 21840365 phuran 殁子 2020-02-13 14:30:20
+全国数据有留底，当日详细数据初步来看调用接口也都还可以爬下来，不需要去省卫健委那边
+想要的历史详细数据，似乎就没有？？
+#quote zheshishenme
+
+#p 21840372 zheshishenme 消息发布｜这是什么 2020-02-13 14:32:37
+这就得在此前每日跟数据了
+#quote phuran
+
+#p 21840462 phuran 殁子 2020-02-13 14:46:58
+发现了一个前人整理版本，数据细化到地区，到11号。
+[https://zhuanlan.zhihu.com/p/105421763?utm_source=wechat_session](jump-to.php?url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F105421763%3Futm_source%3Dwechat_session)
+#quote phuran
+
+#p 21840462 phuran 殁子 2020-02-13 14:46:58
+发现了一个前人整理版本，数据细化到地区，到11号。
+[https://zhuanlan.zhihu.com/p/105421763?utm_source=wechat_session](jump-to.php?url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F105421763%3Futm_source%3Dwechat_session)
+#quote phuran
+
