@@ -1,4 +1,4 @@
-#t 35 17533648 Juriss 2020-02-08 00:23:00 Schiffer 2020-02-13 16:09:00
+#t 35 17533648 Juriss 2020-02-08 00:23:00 moyixi 2020-02-13 17:44:00
 想问一下有什么能用的vpn加速器吗
 
 #p 21821233 Juriss Jacktobeunchained 2020-02-08 23:47:37
@@ -143,6 +143,7 @@ shadowsocks
 #quote Dalpku
 
 #p 21839715 KevinLeft RIO_锐澳 2020-02-13 12:18:16
+#DELETED
 这个免费的软件 还挺快 可以试试[https://www.leiting99.live/i/3X0ASS](jump-to.php?url=https%3A%2F%2Fwww.leiting99.live%2Fi%2F3X0ASS)
 #quote Juriss
 
@@ -212,4 +213,20 @@ shadowsocks
 #p 21840835 Schiffer sn 2020-02-13 16:08:47
 嗯，免费路线只有谷歌和维基百科，其他网站得付费整个vip。
 #quote clp
+
+#p 21841031 CharlesChou Annoying Orange 2020-02-13 17:02:04
+我用的喵帕斯，速度还挺好，但最近不能新注册了。。
+#quote Juriss
+
+#p 21841069 heshuigao 禾水告 2020-02-13 17:15:15
+为啥我能用呢
+#quote redhated
+
+#p 21841070 liaohui 你在哪儿 2020-02-13 17:15:34
+绿灯，手机版很快，很稳定，如果被墙了也会马上补发账号替换。
+#quote Qcemyr
+
+#p 21841146 moyixi 司徒钟 2020-02-13 17:43:27
+不建议vpn、不建议自建，还是上机场比较稳
+#quote Juriss
 
