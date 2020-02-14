@@ -1,4 +1,4 @@
-#t 35 17540916 xuyimiao 2020-02-14 00:15:00 iOcean 2020-02-14 22:27:00
+#t 35 17540916 xuyimiao 2020-02-14 00:15:00 XingJian 2020-02-14 23:34:00
 最近墙的厉害，分享一个自建V2ray
 
 #p 21845121 xuyimiao 续逸淼 2020-02-14 15:26:25
@@ -37,5 +37,9 @@ V2rayX
 #p 21846664 iOcean 若为雄才 2020-02-14 22:27:06
 [http://www.liuhai.net/580.html?__cf_chl_jschl_tk__=0df3d6ae3452a26f50d288d7d321cebd5fc8ef24-1581690333-0-AZGzpF87YffoPX_W0sYxE8Oz_LqlAsf4Jbw7Qi_Ub23WoCVbybs50BN3u7Fq_ANNT0Baqcf9fqxXtPVZHwSsP1Z1ICMFrRPbEHDTVaodJJ6qEqKXKWSbBRH3UM7jWJaaPpXc2hPtDoXZ59l9xOBOqjWFtq53RyzsqjcS5RLFpscNnNk_ObOe25-1e_mo1AKl65ip1SJxBevmvOn9TZQ5XkHCDj0NqqJQtWYJdQ951HcUSlHf6iCN0HbwkgXeqaHv9Xr527evmfZAmqVqjmIu4go](jump-to.php?url=http%3A%2F%2Fwww.liuhai.net%2F580.html%3F__cf_chl_jschl_tk__%3D0df3d6ae3452a26f50d288d7d321cebd5fc8ef24-1581690333-0-AZGzpF87YffoPX_W0sYxE8Oz_LqlAsf4Jbw7Qi_Ub23WoCVbybs50BN3u7Fq_ANNT0Baqcf9fqxXtPVZHwSsP1Z1ICMFrRPbEHDTVaodJJ6qEqKXKWSbBRH3UM7jWJaaPpXc2hPtDoXZ59l9xOBOqjWFtq53RyzsqjcS5RLFpscNnNk_ObOe25-1e_mo1AKl65ip1SJxBevmvOn9TZQ5XkHCDj0NqqJQtWYJdQ951HcUSlHf6iCN0HbwkgXeqaHv9Xr527evmfZAmqVqjmIu4go)这是一个教程
 下载地址[https://github.com/2dust/v2rayN/releases/tag/3.5](jump-to.php?url=https%3A%2F%2Fgithub.com%2F2dust%2Fv2rayN%2Freleases%2Ftag%2F3.5)
+#quote xuyimiao
+
+#p 21846856 XingJian 行健 2020-02-14 23:33:18
+感谢楼主
 #quote xuyimiao
 

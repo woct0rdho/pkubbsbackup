@@ -1,4 +1,4 @@
-#t 438 17522782 Kurapica 2020-01-30 00:23:00 sail 2020-02-13 17:39:00
+#t 438 17522782 Kurapica 2020-01-30 00:23:00 redleaves 2020-02-14 23:15:00
 再不打开远程端口就强行回校了
 
 #p 21782849 Kurapica 库卡 2020-01-30 23:36:11
@@ -16,4 +16,9 @@
 #p 21841138 sail kifish 2020-02-13 17:38:07
 诶…要是vpn和wpn真的好用，怕不会有这么多人说这个事了
 #quote Kurapica
+
+#p 21846797 redleaves 红叶飘飘 2020-02-14 23:14:31
+ps-pulse-win-9.1r4.0-b1761-64bitinstaller
+下载此文件安装，登录vpn.pku.edu.cn。然后mstsc你实验室/宿舍开着的电脑IP。
+#quote sail
 
