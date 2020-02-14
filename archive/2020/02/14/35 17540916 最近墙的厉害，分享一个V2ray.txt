@@ -1,0 +1,9 @@
+#t 35 17540916 xuyimiao 2020-02-14 15:26:00 xuyimiao 2020-02-14 15:26:00
+最近墙的厉害，分享一个V2ray
+
+#p 21845121 xuyimiao 续逸淼 2020-02-14 15:25:56
+SS和SSR已经基本上分分钟被墙，目前V2伪装流量稳的很。
+使用方法：自备V2ray客户端，然后复制链接，选择粘贴板导入就行。
+不限流量，但是希望请勿滥用。
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogInh1eWltaWFvIiwNCiAgImFkZCI6ICJ4dXlpbWlhby54eXoiLA0KICAicG9ydCI6ICI0NDMiLA0KICAiaWQiOiAiNzdlNjEyNzctZWY2Ni00M2EwLWE1MzAtOGNmMDE5MDUwYzZjIiwNCiAgImFpZCI6ICIyIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJ4dXlpbWlhby54eXoiLA0KICAicGF0aCI6ICIvZjhlNzBmZWYvIiwNCiAgInRscyI6ICJ0bHMiDQp9
+

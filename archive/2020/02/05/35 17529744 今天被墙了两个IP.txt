@@ -1,4 +1,4 @@
-#t 35 17529744 depression 2020-02-05 00:22:00 Dalpku 2020-02-14 13:15:00
+#t 35 17529744 depression 2020-02-05 00:22:00 thinky 2020-02-13 00:13:00
 今天被墙了两个IP
 
 #p 21807071 depression ssdsdowe 2020-02-05 22:22:05
@@ -265,6 +265,7 @@ vpn开启休假式治疗阶段。
 #quote depression
 
 #p 21844464 Dalpku YuYu 2020-02-14 13:14:24
+#DELETED
 v2ray 应该不会比ss快
 #quote grdecy
 
