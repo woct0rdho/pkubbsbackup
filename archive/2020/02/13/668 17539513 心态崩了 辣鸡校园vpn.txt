@@ -1,4 +1,4 @@
-#t 668 17539513 sail 2020-02-13 00:13:00 sail 2020-02-13 20:53:00
+#t 668 17539513 sail 2020-02-13 00:13:00 LW 2020-02-14 10:51:00
 心态崩了 辣鸡校园vpn
 
 #p 21840058 sail kifish 2020-02-13 13:26:46
@@ -21,4 +21,8 @@
 #p 21841771 sail kifish 2020-02-13 20:52:28
 [https://bbs.pku.edu.cn/v2/post-read.php?bid=35&amp;threadid=17538289](post-read.php?bid=35&amp;threadid=17538289)可以看看这个帖子。亲测，OpenConnect-GUI 比学校提供的VPN客户端 Pulse Secure 要稳定。
 #quote xinxinxinxin
+
+#p 21843897 LW 兔子 2020-02-14 10:50:13
+你把网址都打错了
+#quote PKUCC
 
