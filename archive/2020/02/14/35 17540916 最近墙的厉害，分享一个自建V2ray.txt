@@ -1,4 +1,4 @@
-#t 35 17540916 xuyimiao 2020-02-14 00:15:00 XingJian 2020-02-14 23:34:00
+#t 35 17540916 xuyimiao 2020-02-14 00:15:00 cathykong 2020-02-15 01:51:00
 最近墙的厉害，分享一个自建V2ray
 
 #p 21845121 xuyimiao 续逸淼 2020-02-14 15:26:25
@@ -40,6 +40,10 @@ V2rayX
 #quote xuyimiao
 
 #p 21846856 XingJian 行健 2020-02-14 23:33:18
+感谢楼主
+#quote xuyimiao
+
+#p 21847209 cathykong 化身孤岛的鲸 2020-02-15 01:50:11
 感谢楼主
 #quote xuyimiao
 
