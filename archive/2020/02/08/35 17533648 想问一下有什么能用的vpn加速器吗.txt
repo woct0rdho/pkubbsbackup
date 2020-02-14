@@ -1,4 +1,4 @@
-#t 35 17533648 Juriss 2020-02-08 00:23:00 Keithandy 2020-02-13 21:59:00
+#t 35 17533648 Juriss 2020-02-08 00:23:00 yegucheng 2020-02-14 12:35:00
 想问一下有什么能用的vpn加速器吗
 
 #p 21821233 Juriss Jacktobeunchained 2020-02-08 23:47:37
@@ -233,4 +233,8 @@ shadowsocks
 #p 21842070 Keithandy miruku 2020-02-13 21:59:06
 express vpn 是随时能用，还是有时会连不上呢？我非常想找一个稳定可连接的VPN，不知express能否达到这样的使用体验？
 #quote heshuigao
+
+#p 21844322 yegucheng 叶孤城 2020-02-14 12:34:08
+之前在用蓝灯免费版，最近几天效果极差，不知道该不该买个付费版的
+#quote Juriss
 
