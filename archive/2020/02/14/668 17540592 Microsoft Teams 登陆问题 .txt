@@ -1,4 +1,4 @@
-#t 668 17540592 Qiulin 2020-02-14 00:10:00 PKUCC 2020-02-14 11:12:00
+#t 668 17540592 Qiulin 2020-02-14 00:10:00 Qiulin 2020-02-14 17:54:00
 Microsoft Teams 登陆问题 
 
 #p 21843766 Qiulin Qiulin 2020-02-14 10:11:23
@@ -7,4 +7,8 @@ Microsoft Teams 登陆问题
 #p 21843979 PKUCC 北京大学计算中心 2020-02-14 11:11:26
 我们将核查您提到的问题
 #quote Qiulin
+
+#p 21845628 Qiulin Qiulin 2020-02-14 17:53:44
+问题已经解决啦 谢谢！
+#quote PKUCC
 
