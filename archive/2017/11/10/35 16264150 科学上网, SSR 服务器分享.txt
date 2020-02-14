@@ -1,4 +1,4 @@
-#t 35 16264150 hiaoxui 2017-11-10 00:00:00 yegucheng 2020-02-14 12:41:00
+#t 35 16264150 hiaoxui 2017-11-10 00:00:00 seaandgull 2020-02-14 21:57:00
 科学上网, SSR 服务器分享
 
 #p 17134091 hiaoxui 小辉 2019-11-16 04:36:36
@@ -2004,4 +2004,12 @@ win10下面学校vpn没有ipv6，
 #p 21844346 yegucheng 叶孤城 2020-02-14 12:41:01
 我也是！！都快拿到Certificate了，突然上不去
 #quote QUESTIONSSS
+
+#p 21846492 nmslwsnd Yury小弟 2020-02-14 21:48:21
+最近好像裂开了= =
+#quote hiaoxui
+
+#p 21846529 seaandgull 这是一只逗比 2020-02-14 21:56:53
+最近用学长的这个好像不可以了 前几天express vpn还行 今天下午开始express vpn也上不去了...求推荐可用vpn！（至少我想用skype，不连vpn好像不太稳定容易掉线的样子... 那就顺便求skype正确使用方法... 感谢！
+#quote hiaoxui
 

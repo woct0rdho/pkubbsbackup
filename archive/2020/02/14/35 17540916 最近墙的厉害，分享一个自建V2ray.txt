@@ -1,4 +1,4 @@
-#t 35 17540916 xuyimiao 2020-02-14 00:15:00 chenzh 2020-02-14 19:09:00
+#t 35 17540916 xuyimiao 2020-02-14 00:15:00 hpnzss 2020-02-14 21:59:00
 最近墙的厉害，分享一个自建V2ray
 
 #p 21845121 xuyimiao 续逸淼 2020-02-14 15:26:25
@@ -12,5 +12,21 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogInh1eWltaWFvIiwNCiAgImFkZCI6ICJ4dXlpbWlh
 
 #p 21845860 chenzh Cium 2020-02-14 19:08:36
 感谢LZ，登上了gmail 
+#quote xuyimiao
+
+#p 21846412 nmslwsnd Yury小弟 2020-02-14 21:30:19
+多谢LZ
+#quote xuyimiao
+
+#p 21846451 iOcean 若为雄才 2020-02-14 21:40:19
+mark
+#quote xuyimiao
+
+#p 21846531 CharlesChou Annoying Orange 2020-02-14 21:57:37
+请教一下，现在mac上的v2Ray客户端有啥推荐的吗？谢谢
+#quote xuyimiao
+
+#p 21846537 hpnzss hpnzss 2020-02-14 21:59:26
+多谢
 #quote xuyimiao
 
