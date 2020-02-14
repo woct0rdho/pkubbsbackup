@@ -1,6 +1,10 @@
-#t 668 17540592 Qiulin 2020-02-14 10:12:00 Qiulin 2020-02-14 10:12:00
+#t 668 17540592 Qiulin 2020-02-14 00:10:00 PKUCC 2020-02-14 11:12:00
 Microsoft Teams 登陆问题 
 
 #p 21843766 Qiulin Qiulin 2020-02-14 10:11:23
 之前用pku邮箱注册过Microsoft Office账号，登陆Teams后显示 “Someone has already set up Teams for your organisation", 不知道有没有人有同样的问题？
+
+#p 21843979 PKUCC 北京大学计算中心 2020-02-14 11:11:26
+我们将核查您提到的问题
+#quote Qiulin
 
