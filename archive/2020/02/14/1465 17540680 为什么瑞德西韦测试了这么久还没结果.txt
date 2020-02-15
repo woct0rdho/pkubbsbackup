@@ -1,4 +1,4 @@
-#t 1465 17540680 bobprime 2020-02-14 00:11:00 liuyz 2020-02-15 09:23:00
+#t 1465 17540680 bobprime 2020-02-14 00:11:00 aeroboy 2020-02-15 11:28:00
 为什么瑞德西韦测试了这么久还没结果
 
 #p 21844132 bobprime bobprime 2020-02-14 11:49:43
@@ -85,4 +85,22 @@
 #p 21847697 liuyz liuyz 2020-02-15 09:22:21
 专利申请似乎只要你觉得可能有用就行
 #quote dadaye
+
+#p 21848259 xelmirage 糊你一脸 2020-02-15 11:10:53
+就国内这养蛊的科研环境，国外有点啥东西冒出来国内都能抢着把国外尚未想到的用处先占上
+#quote dadaye
+
+#p 21848400 aeroboy pit 2020-02-15 11:28:01
+转贴  硬核分析：瑞德西韦治疗新冠肺炎，临床药理学者怎么看？
+原创 佳琳，培敏  菠萝因子  昨天
+文 | 徐佳琳 毕业于加拿大英属哥伦比亚大学；
+       马培敏 毕业于美国普度大学。
+两位均供职于某药企临床药理部门。本文仅代表个人观点，与所在公司无关。
+太长不看版：
+瑞德西韦治疗新冠病毒的临床试验已经启动。
+在当前缺药的情况下，重新启动瑞德西韦这样的药物是紧急情况下“老药新用”的合理尝试，但面临巨大挑战和风险。
+临床试验设计中的瑞德西韦剂量已经接近安全剂量的上限，但能达到的体内浓度依然低于体外测试时抑制病毒所需浓度。
+战略性储备尽量多的广谱抗病毒药物，才可能避免在未来疫情中再次陷入目前无药可用的困境。
+[https://mp.weixin.qq.com/s?__biz=MzI1MjMyMzIxMw==&amp;mid=2247490857&amp;idx=1&amp;sn=a8667dcd13dc40b2a45ab0ef8f24f32f&amp;chksm=e9e429cbde93a0dd17a5c8f6609406787b264c95b410c869731cd089ca35599ed9fec18312d2&amp;mpshare=1&amp;scene=1&amp;srcid=&amp;sharer_sharetime=1581736504249&amp;sharer_shareid=2432078072ac257203dde0d0398e4ede&amp;key=e87e115d3ae945bf797f9987a3b64a4d928c20e5f94071bd2d4493f234e6d0cd0710621d81ad8a2a67440967906371b35f57e68d69a8faed8d76a87a0ab7b2a5ccee6f43f5a5c849e9d1a6a8c8f5bb96&amp;ascene=1&amp;uin=MjMwNjY0MTUwMw%3D%3D&amp;devicetype=Windows+10&amp;version=62080079&amp;lang=zh_CN&amp;exportkey=AaOn5ao9hhjOCCN0QXOcXx4%3D&amp;pass_ticket=v3NZq38X55A76mnEw4hGtKtsTs0cwe3N2LgqgLS4gld6K%2BSciZR%2F%2BuqzoZhp14Yg](jump-to.php?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzI1MjMyMzIxMw%3D%3D%26mid%3D2247490857%26idx%3D1%26sn%3Da8667dcd13dc40b2a45ab0ef8f24f32f%26chksm%3De9e429cbde93a0dd17a5c8f6609406787b264c95b410c869731cd089ca35599ed9fec18312d2%26mpshare%3D1%26scene%3D1%26srcid%3D%26sharer_sharetime%3D1581736504249%26sharer_shareid%3D2432078072ac257203dde0d0398e4ede%26key%3De87e115d3ae945bf797f9987a3b64a4d928c20e5f94071bd2d4493f234e6d0cd0710621d81ad8a2a67440967906371b35f57e68d69a8faed8d76a87a0ab7b2a5ccee6f43f5a5c849e9d1a6a8c8f5bb96%26ascene%3D1%26uin%3DMjMwNjY0MTUwMw%253D%253D%26devicetype%3DWindows%2B10%26version%3D62080079%26lang%3Dzh_CN%26exportkey%3DAaOn5ao9hhjOCCN0QXOcXx4%253D%26pass_ticket%3Dv3NZq38X55A76mnEw4hGtKtsTs0cwe3N2LgqgLS4gld6K%252BSciZR%252F%252BuqzoZhp14Yg)
+#quote bobprime
 
