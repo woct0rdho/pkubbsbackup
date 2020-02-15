@@ -1,4 +1,4 @@
-#t 438 17522782 Kurapica 2020-01-30 00:23:00 MiraculousMa 2020-02-15 11:33:00
+#t 438 17522782 Kurapica 2020-01-30 00:23:00 Kurapica 2020-02-15 15:00:00
 再不打开远程端口就强行回校了
 
 #p 21782849 Kurapica 库卡 2020-01-30 23:36:11
@@ -37,4 +37,8 @@ ps-pulse-win-9.1r4.0-b1761-64bitinstaller
 直到有一天我打算本地关机的时候把实验室的电脑关机了……
 （我就应该装个Windows Server……）
 #quote Kurapica
+
+#p 21849406 Kurapica 库卡 2020-02-15 15:00:41
+比如会搞乱我本地的路由表，会影响我本地翻墙。一边VPN一边Google的确很精神分裂。
+#quote RichardWake
 
