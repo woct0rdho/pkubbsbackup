@@ -1,4 +1,4 @@
-#t 35 17540916 xuyimiao 2020-02-14 00:15:00 sixeyedfish 2020-02-15 19:10:00
+#t 35 17540916 xuyimiao 2020-02-14 00:15:00 heartbeats 2020-02-15 20:59:00
 最近墙的厉害，分享一个自建V2ray
 
 #p 21845121 xuyimiao 续逸淼 2020-02-14 15:26:25
@@ -60,6 +60,7 @@ V2rayX
 #quote xuyimiao
 
 #p 21849415 phuran 殁子 2020-02-15 15:03:40
+#DELETED
 谢谢楼主！
 #quote xuyimiao
 
@@ -119,5 +120,9 @@ Server里面不是有个import嘛
 
 #p 21850445 sixeyedfish 六眼飞鱼|好险，差点饿死了 2020-02-15 19:09:49
 哇赞！！好久没上维基了，手都痒痒了
+#quote xuyimiao
+
+#p 21850980 heartbeats hope forever 2020-02-15 20:58:40
+感谢楼主~
 #quote xuyimiao
 

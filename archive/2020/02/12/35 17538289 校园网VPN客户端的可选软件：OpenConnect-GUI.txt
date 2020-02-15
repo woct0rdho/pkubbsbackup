@@ -1,4 +1,4 @@
-#t 35 17538289 PKUwuming 2020-02-12 00:15:00 thaikon 2020-02-15 18:33:00
+#t 35 17538289 PKUwuming 2020-02-12 00:15:00 gspku 2020-02-15 20:46:00
 校园网VPN客户端的可选软件：OpenConnect-GUI
 
 #p 21835506 PKUwuming 无名 2020-02-15 16:52:13
@@ -79,4 +79,9 @@ linux版有讨论，不知道是不是你问的
 #p 21850312 thaikon 陶象 2020-02-15 18:32:30
 谢谢。我最后的解决方法居然是在 Pulse Secure 里，，，让他忘记 vpn.pku.edu.cn 那个连接然后重连一次……
 #quote jiamingpku
+
+#p 21850889 gspku null 2020-02-15 20:45:33
+UWP版本是集成到Windows自带的VPN设置里的。
+安装好UWP版本以后，只需在Windows自带的VPN设置页面添加VPN，其中提供商设置成“Pulse Secure”，其它信息（服务器、用户名、密码）照常填写。然后选择连接就行。
+#quote iOcean
 
