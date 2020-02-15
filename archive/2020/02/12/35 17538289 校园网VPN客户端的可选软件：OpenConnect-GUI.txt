@@ -1,4 +1,4 @@
-#t 35 17538289 PKUwuming 2020-02-12 00:15:00 jiamingpku 2020-02-15 17:54:00
+#t 35 17538289 PKUwuming 2020-02-12 00:15:00 thaikon 2020-02-15 18:33:00
 校园网VPN客户端的可选软件：OpenConnect-GUI
 
 #p 21835506 PKUwuming 无名 2020-02-15 16:52:13
@@ -75,4 +75,8 @@ UWP版本的确定能用？我打开只有跳转到设置页面
 #p 21850168 jiamingpku jiamingpku 2020-02-15 17:54:01
 linux版有讨论，不知道是不是你问的
 #quote thaikon
+
+#p 21850312 thaikon 陶象 2020-02-15 18:32:30
+谢谢。我最后的解决方法居然是在 Pulse Secure 里，，，让他忘记 vpn.pku.edu.cn 那个连接然后重连一次……
+#quote jiamingpku
 
