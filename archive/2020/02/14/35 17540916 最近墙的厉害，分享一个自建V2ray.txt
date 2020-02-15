@@ -1,4 +1,4 @@
-#t 35 17540916 xuyimiao 2020-02-14 00:15:00 cathykong 2020-02-15 01:51:00
+#t 35 17540916 xuyimiao 2020-02-14 00:15:00 RichardWake 2020-02-15 10:02:00
 最近墙的厉害，分享一个自建V2ray
 
 #p 21845121 xuyimiao 续逸淼 2020-02-14 15:26:25
@@ -45,5 +45,9 @@ V2rayX
 
 #p 21847209 cathykong 化身孤岛的鲸 2020-02-15 01:50:11
 感谢楼主
+#quote xuyimiao
+
+#p 21847798 RichardWake RichardWake 2020-02-15 10:01:51
+请问网速怎么样？可以看youtube吗？嘿嘿
 #quote xuyimiao
 
