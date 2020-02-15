@@ -1,4 +1,4 @@
-#t 35 17540916 xuyimiao 2020-02-14 00:15:00 immmortal 2020-02-15 16:44:00
+#t 35 17540916 xuyimiao 2020-02-14 00:15:00 XiaoNi 2020-02-15 18:00:00
 最近墙的厉害，分享一个自建V2ray
 
 #p 21845121 xuyimiao 续逸淼 2020-02-14 15:26:25
@@ -96,4 +96,12 @@ emmm  要不我出一个教程 自己搭建一个月也就二十块钱不到。
 #p 21849858 immmortal immmortal 2020-02-15 16:43:41
 写过一个小教程，可以参考：[https://www.notion.so/1a512ee370cf455bbbf7c0f492844280](jump-to.php?url=https%3A%2F%2Fwww.notion.so%2F1a512ee370cf455bbbf7c0f492844280)
 #quote xuyimiao
+
+#p 21850088 Bazin 铁甲依然在 2020-02-15 17:33:45
+小白求问如何导入
+#quote XiaoNi
+
+#p 21850192 XiaoNi \varnothing 2020-02-15 17:59:41
+Server里面不是有个import嘛
+#quote Bazin
 

@@ -1,7 +1,10 @@
-#t 35 17538289 PKUwuming 2020-02-12 00:15:00 thaikon 2020-02-15 16:45:00
+#t 35 17538289 PKUwuming 2020-02-12 00:15:00 jiamingpku 2020-02-15 17:54:00
 校园网VPN客户端的可选软件：OpenConnect-GUI
 
-#p 21835506 PKUwuming 无名 2020-02-12 15:19:34
+#p 21835506 PKUwuming 无名 2020-02-15 16:52:13
+
+
+2020-02-12 15:19:34
 经测试，OpenConnect-GUI 比学校提供的VPN客户端 Pulse Secure 要稳定
 下载地址：
 - Windows: [https://github.com/openconnect/openconnect-gui/releases/download/v1.5.3/openconnect-gui-1.5.3-win32.exe](jump-to.php?url=https%3A%2F%2Fgithub.com%2Fopenconnect%2Fopenconnect-gui%2Freleases%2Fdownload%2Fv1.5.3%2Fopenconnect-gui-1.5.3-win32.exe)
@@ -12,6 +15,7 @@
 - 用户名为：学号
 - VPN协议选择 Juniper Network Connect
 MacOS下的配置示意图如附件所示
+（有同学反馈软件下载不了，麻烦私信我，我用邮箱发给你）
 
 #p 21837189 jiamingpku jiamingpku 2020-02-12 21:20:14
 Linux 版有讨论
@@ -58,4 +62,17 @@ UWP版本的确定能用？我打开只有跳转到设置页面
 #p 21849862 thaikon 陶象 2020-02-15 16:44:28
 没明白，去应用商店下载什么啊
 #quote mrmrfan
+
+#p 21850115 thaikon 陶象 2020-02-15 17:39:13
+问一下这是什么情况，目测是学校VPN的问题？
+#quote PKUwuming
+
+#p 21850129 VarianWrynn RoCinante 2020-02-15 17:44:10
+可以用，但是我没觉得跟学校提供的客户端有啥区别，如果你用学校的客户端不稳定可以试试这个UWP版本的。
+安装以后，下图里第一栏选择VPN提供商，会多出来一个Pulse Secure选项，剩下的按学校说明配置即可。
+#quote iOcean
+
+#p 21850168 jiamingpku jiamingpku 2020-02-15 17:54:01
+linux版有讨论，不知道是不是你问的
+#quote thaikon
 
