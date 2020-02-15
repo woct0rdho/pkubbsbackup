@@ -1,4 +1,4 @@
-#t 35 17538289 PKUwuming 2020-02-12 00:15:00 gspku 2020-02-15 20:46:00
+#t 35 17538289 PKUwuming 2020-02-12 00:15:00 lvxhui 2020-02-15 22:50:00
 校园网VPN客户端的可选软件：OpenConnect-GUI
 
 #p 21835506 PKUwuming 无名 2020-02-15 16:52:13
@@ -84,4 +84,8 @@ linux版有讨论，不知道是不是你问的
 UWP版本是集成到Windows自带的VPN设置里的。
 安装好UWP版本以后，只需在Windows自带的VPN设置页面添加VPN，其中提供商设置成“Pulse Secure”，其它信息（服务器、用户名、密码）照常填写。然后选择连接就行。
 #quote iOcean
+
+#p 21851666 lvxhui 哆啦A晖 2020-02-15 22:49:12
+点赞，真的好用。
+#quote PKUwuming
 
