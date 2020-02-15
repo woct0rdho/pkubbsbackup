@@ -1,4 +1,4 @@
-#t 35 17540916 xuyimiao 2020-02-14 00:15:00 RichardWake 2020-02-15 10:02:00
+#t 35 17540916 xuyimiao 2020-02-14 00:15:00 seaandgull 2020-02-15 12:25:00
 最近墙的厉害，分享一个自建V2ray
 
 #p 21845121 xuyimiao 续逸淼 2020-02-14 15:26:25
@@ -49,5 +49,9 @@ V2rayX
 
 #p 21847798 RichardWake RichardWake 2020-02-15 10:01:51
 请问网速怎么样？可以看youtube吗？嘿嘿
+#quote xuyimiao
+
+#p 21848717 seaandgull 这是一只逗比 2020-02-15 12:24:12
+感谢楼主！
 #quote xuyimiao
 
