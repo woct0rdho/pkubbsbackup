@@ -1,4 +1,4 @@
-#t 35 17540916 xuyimiao 2020-02-14 00:15:00 dvorah 2020-02-16 17:32:00
+#t 35 17540916 xuyimiao 2020-02-14 00:15:00 iposeidon 2020-02-16 18:59:00
 最近墙的厉害，分享一个自建V2ray
 
 #p 21845121 xuyimiao 续逸淼 2020-02-14 15:26:25
@@ -145,4 +145,21 @@ Server里面不是有个import嘛
 你这个生成的是不是有问题
 [https://intmainreturn0.com/v2ray-config-gen/](jump-to.php?url=https%3A%2F%2Fintmainreturn0.com%2Fv2ray-config-gen%2F)
 #quote iposeidon
+
+#p 21855087 iposeidon iposeidon 2020-02-16 18:47:10
+#DELETED
+谢谢热心回复
+我就直接导入LZ给的地址：
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogInh1eWltaWFvIiwNCiAgImFkZCI6ICJ4dXlpbWlhby54eXoiLA0KICAicG9ydCI6ICI0NDMiLA0KICAiaWQiOiAiNzdlNjEyNzctZWY2Ni00M2EwLWE1MzAtOGNmMDE5MDUwYzZjIiwNCiAgImFpZCI6ICIyIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJ4dXlpbWlhby54eXoiLA0KICAicGF0aCI6ICIvZjhlNzBmZWYvIiwNCiAgInRscyI6ICJ0bHMiDQp9
+不知道哪里出问题了，我生成的和你链接显示的配置 的确不一样
+粘贴你这个以后显示：invalid inbound stream settings.security
+不知道有没有手动模式的配置？
+再次感谢！
+，还是说要“手动模式”？
+不知能否给出
+#quote dvorah
+
+#p 21855143 iposeidon iposeidon 2020-02-16 18:59:01
+非常感谢！搞定了
+#quote dvorah
 
