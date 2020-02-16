@@ -1,4 +1,4 @@
-#t 35 17540916 xuyimiao 2020-02-14 00:15:00 iposeidon 2020-02-16 18:59:00
+#t 35 17540916 xuyimiao 2020-02-14 00:15:00 elfandi 2020-02-17 00:34:00
 最近墙的厉害，分享一个自建V2ray
 
 #p 21845121 xuyimiao 续逸淼 2020-02-14 15:26:25
@@ -159,7 +159,19 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogInh1eWltaWFvIiwNCiAgImFkZCI6ICJ4dXlpbWlh
 不知能否给出
 #quote dvorah
 
-#p 21855143 iposeidon iposeidon 2020-02-16 18:59:01
-非常感谢！搞定了
+#p 21855143 iposeidon iposeidon 2020-02-16 19:02:44
+
+
+2020-02-16 18:59:01
+我导入模式下用的就是lz给的地址：
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogInh1eWltaWFvIiwNCiAgImFkZCI6ICJ4dXlpbWlhby54eXoiLA0KICAicG9ydCI6ICI0NDMiLA0KICAiaWQiOiAiNzdlNjEyNzctZWY2Ni00M2EwLWE1MzAtOGNmMDE5MDUwYzZjIiwNCiAgImFpZCI6ICIyIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJ4dXlpbWlhby54eXoiLA0KICAicGF0aCI6ICIvZjhlNzBmZWYvIiwNCiAgInRscyI6ICJ0bHMiDQp9
+生成的的确和你的这个链接的不一样。
+粘贴你这个好像也不行哦
+不知有没有手动模式的配置？
+感谢耐心解答！
 #quote dvorah
+
+#p 21856770 elfandi 暂时没有好的nick了 2020-02-17 00:33:59
+我也提供一点资源，请站内，谢谢！
+#quote xuyimiao
 
