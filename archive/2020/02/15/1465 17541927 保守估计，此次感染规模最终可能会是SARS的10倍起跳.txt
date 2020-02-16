@@ -1,4 +1,4 @@
-#t 1465 17541927 bobprime 2020-02-15 00:10:00 coldda 2020-02-16 14:50:00
+#t 1465 17541927 bobprime 2020-02-15 00:10:00 WangJL 2020-02-16 15:47:00
 保守估计，此次感染规模最终可能会是SARS的10倍起跳
 
 #p 21847996 bobprime bobprime 2020-02-15 10:38:09
@@ -622,4 +622,12 @@ windy的数据是1500微克/m³，对比一下，北京2018年二氧化硫浓度
 #p 21854035 coldda CNS解剖 2020-02-16 14:49:34
 控制变量似乎是好文明，现在可不是中世纪
 #quote MiniSheldon
+
+#p 21854316 WangJL Arsenal591 2020-02-16 15:46:16
+原文：the son reportedly ran a stall at the implicated seafood market and his mother frequently visited him there. “They could have been exposed [to the same pathogen] simultaneously,” he says.
+翻译：儿子在那家海鲜市场开了一个货摊，而他的母亲经常到访那里。“它们可能同时接触到了同种病原体”，他（管轶）说道。
+请问哪里体现出“管某明知存在可能存在家族感染情形”了？原文中的逻辑推理哪里又有问题？
+而且不要忘了那篇文章是1月3号的，那时候疫情还处于一个相当早期的阶段，即还处于抓捕造谣者的阶段。
+还要注意一点的就是，管轶是香港大学的教授，能够掌握的信息与身处体制内部的学者有着天壤之别，所以这种对比本身就极不公平。
+#quote Vulcan
 
