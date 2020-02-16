@@ -1,4 +1,4 @@
-#t 35 17540916 xuyimiao 2020-02-14 00:15:00 elfandi 2020-02-17 00:34:00
+#t 35 17540916 xuyimiao 2020-02-14 00:15:00 iposeidon 2020-02-16 00:18:00
 最近墙的厉害，分享一个自建V2ray
 
 #p 21845121 xuyimiao 续逸淼 2020-02-14 15:26:25
@@ -172,6 +172,7 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogInh1eWltaWFvIiwNCiAgImFkZCI6ICJ4dXlpbWlh
 #quote dvorah
 
 #p 21856770 elfandi 暂时没有好的nick了 2020-02-17 00:33:59
+#DELETED
 我也提供一点资源，请站内，谢谢！
 #quote xuyimiao
 
