@@ -1,4 +1,4 @@
-#t 35 17540916 xuyimiao 2020-02-14 00:15:00 idleyouth 2020-02-16 16:02:00
+#t 35 17540916 xuyimiao 2020-02-14 00:15:00 dvorah 2020-02-16 17:32:00
 最近墙的厉害，分享一个自建V2ray
 
 #p 21845121 xuyimiao 续逸淼 2020-02-14 15:26:25
@@ -140,4 +140,9 @@ Server里面不是有个import嘛
 #p 21854385 idleyouth idleyouth 2020-02-16 16:01:14
 导入后不能正常使用，求教；或者有没有人和我遇到相似情况
 #quote xuyimiao
+
+#p 21854790 dvorah 尺蠖·德沃夏蛤 2020-02-16 17:32:02
+你这个生成的是不是有问题
+[https://intmainreturn0.com/v2ray-config-gen/](jump-to.php?url=https%3A%2F%2Fintmainreturn0.com%2Fv2ray-config-gen%2F)
+#quote iposeidon
 
