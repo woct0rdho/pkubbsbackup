@@ -1,4 +1,4 @@
-#t 35 17540916 xuyimiao 2020-02-14 00:15:00 iposeidon 2020-02-16 13:00:00
+#t 35 17540916 xuyimiao 2020-02-14 00:15:00 depression 2020-02-16 14:43:00
 最近墙的厉害，分享一个自建V2ray
 
 #p 21845121 xuyimiao 续逸淼 2020-02-14 15:26:25
@@ -131,5 +131,9 @@ Server里面不是有个import嘛
 已经导入了
 但是还是上不了
 非常感谢！
+#quote xuyimiao
+
+#p 21854009 depression ssdsdowe 2020-02-16 14:42:52
+非常感谢楼主！SSR被墙了两个IP，心痛得无法肤吸...
 #quote xuyimiao
 
