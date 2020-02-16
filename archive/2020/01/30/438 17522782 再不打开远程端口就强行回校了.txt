@@ -1,4 +1,4 @@
-#t 438 17522782 Kurapica 2020-01-30 00:23:00 xelmirage 2020-02-15 15:32:00
+#t 438 17522782 Kurapica 2020-01-30 00:23:00 sail 2020-02-16 21:03:00
 再不打开远程端口就强行回校了
 
 #p 21782849 Kurapica 库卡 2020-01-30 23:36:11
@@ -50,4 +50,8 @@ ps-pulse-win-9.1r4.0-b1761-64bitinstaller
 这种情况，可以把电脑插在wifi插头上，然后在bios里面把恢复电源时的行为设置成开机
 当然本地也一直不关机就完美了╮(╯▽╰)╭
 #quote MiraculousMa
+
+#p 21855875 sail kifish 2020-02-16 21:02:07
+pulse确实有这个问题。openconnect没有这问题。高峰期用pku vpn很不稳定。
+#quote Kurapica
 
