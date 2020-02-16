@@ -1,4 +1,4 @@
-#t 35 17540916 xuyimiao 2020-02-14 00:15:00 heartbeats 2020-02-15 20:59:00
+#t 35 17540916 xuyimiao 2020-02-14 00:15:00 iposeidon 2020-02-16 13:00:00
 最近墙的厉害，分享一个自建V2ray
 
 #p 21845121 xuyimiao 续逸淼 2020-02-14 15:26:25
@@ -124,5 +124,12 @@ Server里面不是有个import嘛
 
 #p 21850980 heartbeats hope forever 2020-02-15 20:58:40
 感谢楼主~
+#quote xuyimiao
+
+#p 21853583 iposeidon iposeidon 2020-02-16 12:59:40
+求帮忙看看哪里有问题
+已经导入了
+但是还是上不了
+非常感谢！
 #quote xuyimiao
 
