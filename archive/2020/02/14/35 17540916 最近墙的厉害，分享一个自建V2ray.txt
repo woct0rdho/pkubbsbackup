@@ -1,4 +1,4 @@
-#t 35 17540916 xuyimiao 2020-02-14 00:15:00 xuexue 2020-02-17 12:25:00
+#t 35 17540916 xuyimiao 2020-02-14 00:15:00 sulmae 2020-02-17 13:32:00
 最近墙的厉害，分享一个自建V2ray
 
 #p 21845121 xuyimiao 续逸淼 2020-02-14 15:26:25
@@ -179,4 +179,8 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogInh1eWltaWFvIiwNCiAgImFkZCI6ICJ4dXlpbWlh
 #p 21858766 xuexue koko 2020-02-17 12:24:29
 +1
 #quote idleyouth
+
+#p 21859107 sulmae simone 2020-02-17 13:31:50
+谢谢LZ！你救了我！
+#quote xuyimiao
 
