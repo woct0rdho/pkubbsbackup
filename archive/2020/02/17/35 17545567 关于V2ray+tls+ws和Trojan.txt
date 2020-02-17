@@ -1,0 +1,12 @@
+#t 35 17545567 zhbzhbzhbz 2020-02-17 22:03:00 zhbzhbzhbz 2020-02-17 22:03:00
+关于V2ray+tls+ws和Trojan
+
+#p 21861996 zhbzhbzhbz RedB 2020-02-17 22:02:59
+
+
+2020-02-17 22:02:43
+看了油管上的视频，说去年11月普通加密的V2ray都挂了，是因为正常加密型的V2ray、SS，表现的是完全无特征的数据包，这样反而会被检测出来。
+而V2ray+tls+ws这种伪装型的，反而难以区分（网上有海量的HTTPS流量），所以一直活的很好。
+Trojan呢，相当于就是简化版的V2ray+tls+ws
+https://油管/watch?v=zlOTrR1AzpA
+

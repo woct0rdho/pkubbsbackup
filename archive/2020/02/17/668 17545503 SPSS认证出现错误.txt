@@ -1,4 +1,4 @@
-#t 668 17545503 miumiumiu 2020-02-17 21:19:00 PKUCC 2020-02-17 21:35:00
+#t 668 17545503 miumiumiu 2020-02-17 00:21:00 miumiumiu 2020-02-17 22:06:00
 SPSS认证出现错误
 
 #p 21861655 miumiumiu 一个萝卜 2020-02-17 21:18:39
@@ -8,4 +8,8 @@ SPSS认证出现错误
 SPSS为图书馆所购软件，2019版本支持12人同时在线。
 更多详情可查看[https://www.lib.pku.edu.cn/portal/cn/zy/software](jump-to.php?url=https%3A%2F%2Fwww.lib.pku.edu.cn%2Fportal%2Fcn%2Fzy%2Fsoftware)
 #quote miumiumiu
+
+#p 21862005 miumiumiu 一个萝卜 2020-02-17 22:05:01
+“超过12个人同时在线就不能用”的意思吗？伤心。
+#quote PKUCC
 

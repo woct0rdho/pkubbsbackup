@@ -1,4 +1,4 @@
-#t 1431 17148145 hbhzshengao 2019-06-09 00:00:00 dyd 2020-02-17 20:55:00
+#t 1431 17148145 hbhzshengao 2019-06-09 00:00:00 spiridempt 2020-02-17 22:48:00
 能够在线查询空宿舍吗
 
 #p 20387713 hbhzshengao 这个人学神经的 2019-06-09 23:18:39
@@ -31,4 +31,8 @@
 可以参考一下这个：[https://bbs.pku.edu.cn/v2/mobile/post-read-single.php?bid=807&amp;type=0&amp;postid=18161492](mobile/post-read-single.php?bid=807&amp;type=0&amp;postid=18161492)
 每年的政策大同小异，具体可以问一下宿管中心
 #quote spiridempt
+
+#p 21862167 spiridempt Spiridempt 2020-02-17 22:47:32
+谢谢！
+#quote dyd
 
