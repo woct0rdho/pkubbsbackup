@@ -1,0 +1,10 @@
+#t 35 17545079 SunRiseYon 2020-02-17 15:27:00 SunRiseYon 2020-02-17 15:29:00
+为什么openconnect显示已经连接，仍然无法访问资源
+
+#p 21859653 SunRiseYon SunRiseYon 2020-02-17 15:26:07
+如题。
+按照置顶帖的步骤成功用openconnect连接了北大的VPN。但无论是知网、图书馆教参资源都无法使用？
+
+#p 21859660 SunRiseYon SunRiseYon 2020-02-17 15:28:05
+#quote SunRiseYon
+
