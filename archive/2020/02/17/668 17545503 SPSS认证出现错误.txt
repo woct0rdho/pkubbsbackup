@@ -1,0 +1,11 @@
+#t 668 17545503 miumiumiu 2020-02-17 21:19:00 PKUCC 2020-02-17 21:35:00
+SPSS认证出现错误
+
+#p 21861655 miumiumiu 一个萝卜 2020-02-17 21:18:39
+我按照使用帮助中输入的IP地址，在证书认证与安装完成后分别出现以下错误，导致无法正常使用，希望能够得到解答。
+
+#p 21861787 PKUCC 北京大学计算中心 2020-02-17 21:34:39
+SPSS为图书馆所购软件，2019版本支持12人同时在线。
+更多详情可查看[https://www.lib.pku.edu.cn/portal/cn/zy/software](jump-to.php?url=https%3A%2F%2Fwww.lib.pku.edu.cn%2Fportal%2Fcn%2Fzy%2Fsoftware)
+#quote miumiumiu
+
