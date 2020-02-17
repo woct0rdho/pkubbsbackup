@@ -1,6 +1,10 @@
-#t 35 17539408 Dalpku 2020-02-13 11:48:00 Dalpku 2020-02-13 11:48:00
+#t 35 17539408 Dalpku 2020-02-13 00:11:00 Dalpku 2020-02-17 18:16:00
 mac 用clash的注意
 
 #p 21839583 Dalpku YuYu 2020-02-13 11:47:48
 clash应该还是有一些bug，取消代理以后，网速无法回到正常情况，正常带宽300M  开始代理并关闭回到正常状态后测速仅10M，而v2rayX 则比较正常
+
+#p 21860545 Dalpku YuYu 2020-02-17 18:15:52
+SR断流？V2ray被墙？来试一试Trojan！Trojan服务器小白一键脚本搭建安装！Trojan客户端全平台使用教程（Windows/安卓android/苹果ios）
+#quote Dalpku
 
