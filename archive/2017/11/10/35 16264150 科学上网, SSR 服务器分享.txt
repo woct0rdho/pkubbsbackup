@@ -1,4 +1,4 @@
-#t 35 16264150 hiaoxui 2017-11-10 00:00:00 ortuskun 2020-02-15 16:14:00
+#t 35 16264150 hiaoxui 2017-11-10 00:00:00 zjzszjzs 2020-02-18 21:15:00
 科学上网, SSR 服务器分享
 
 #p 17134091 hiaoxui 小辉 2019-11-16 04:36:36
@@ -792,7 +792,7 @@ local port 太小了. 小于 1024 的端口是系统保留端口, 需要 sudo �
 自己的ss崩掉了，用了楼主的，万分感谢
 #quote hiaoxui
 
-#p 20919279 Rymiliza Susan Williams 2019-09-19 07:43:38
+#p 20919279 Rymiliza Élise 2019-09-19 07:43:38
 超级超级感谢楼主滴分享！！！真的很赞~
 #quote hiaoxui
 
@@ -2013,7 +2013,14 @@ win10下面学校vpn没有ipv6，
 最近用学长的这个好像不可以了 前几天express vpn还行 今天下午开始express vpn也上不去了...求推荐可用vpn！（至少我想用skype，不连vpn好像不太稳定容易掉线的样子... 那就顺便求skype正确使用方法... 感谢！
 #quote hiaoxui
 
-#p 21849732 ortuskun ortus 2020-02-15 16:13:57
-最近用ipv6的线路速度也相当慢，几乎是不可用的状态……v2ray稍微好一点。目前在尝试另一款第三方软件。
+#p 21849732 ortuskun ortus 2020-02-15 16:20:01
+
+
+2020-02-15 16:13:57
+最近用ipv6的线路速度也相当慢，v2ray也好不到哪里去……目前在尝试另一款第三方软件。
 #quote hiaoxui
+
+#p 21867030 zjzszjzs SKT Bang 2020-02-18 21:14:45
+是，已经断粮好几天了
+#quote seaandgull
 
