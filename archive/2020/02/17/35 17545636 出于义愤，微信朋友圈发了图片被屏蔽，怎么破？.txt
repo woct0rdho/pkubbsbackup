@@ -1,4 +1,4 @@
-#t 35 17545636 hbddwj 2020-02-17 00:22:00 euio 2020-02-18 16:00:00
+#t 35 17545636 hbddwj 2020-02-17 00:22:00 kodama 2020-02-18 16:55:00
 出于义愤，微信朋友圈发了图片被屏蔽，怎么破？
 
 #p 21862203 hbddwj 冰企鹅 2020-02-17 22:56:44
@@ -50,4 +50,42 @@
 #p 21865568 euio 耳目一心 2020-02-18 16:00:21
 说明这个技术已经很成熟了
 #quote ganhuodekuli
+
+#p 21865581 thinky 披风罗汉 2020-02-18 16:01:46
+我还记得。
+#quote ganhuodekuli
+
+#p 21865586 euio 耳目一心 2020-02-18 16:02:07
+&gt;尽量少使用一切国产软件。
+只要有国外软件可选，比如Zoom.
+#quote karlmarx
+
+#p 21865692 boson boson 2020-02-18 16:22:14
+zoom怎么聊天
+#quote euio
+
+#p 21865705 ganhuodekuli 断舍离|苦力 2020-02-18 16:23:28
+可以说清华大学是图片偷偷屏蔽新技术的先驱！
+#quote euio
+
+#p 21865719 euio 耳目一心 2020-02-18 16:24:47
+所以无法取代。
+能取代的都被墙了。
+#quote boson
+
+#p 21865794 vimacs Lisp Interaction Paredit AC 2020-02-18 16:36:57
+
+
+2020-02-18 16:35:45
+用电子邮件、XMPP、Matrix这些邦联式协议，或者用Tox这些P2P协议，尽量开端到端加密。或者自己搭IRC、Rocket.Chat、MatterMost服务器内部通信。
+最重要的是不要用私有软件，不论是国内的腾讯还是国外的Facebook/Google/Microsoft.
+#quote euio
+
+#p 21865883 Imperio Mobile 2020-02-18 16:49:37
+我也是
+#quote ganhuodekuli
+
+#p 21865927 kodama 木霊 2020-02-18 16:55:12
+倒过来发
+#quote hbddwj
 
