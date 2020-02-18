@@ -1,4 +1,4 @@
-#t 35 17543247 thinky 2020-02-16 00:10:00 thinky 2020-02-18 22:50:00
+#t 35 17543247 thinky 2020-02-16 00:10:00 ultraBad 2020-02-18 23:54:00
 求教 疑似DNS污染的解决办法
 
 #p 21852951 thinky 披风罗汉 2020-02-16 10:41:23
@@ -51,4 +51,33 @@ dns over https，dns请求全部走应用层加密，这样dns就劫持不了了
 #p 21867339 thinky 披风罗汉 2020-02-18 22:49:50
 谢谢，稍稍改进了一些。好像还是有问题。
 #quote ultraBad
+
+#p 21867477 ultraBad 海淀吴彦祖 2020-02-18 23:42:25
+
+
+2020-02-18 23:32:40
+火狐我很久没用了，doh需要设置才会生效
+[https://support.mozilla.org/zh-CN/kb/%E7%81%AB%E7%8B%90%E5%9F%BA%E4%BA%8Ehttps%20%E7%9A%84%20dns](jump-to.php?url=https%3A%2F%2Fsupport.mozilla.org%2Fzh-CN%2Fkb%2F%25E7%2581%25AB%25E7%258B%2590%25E5%259F%25BA%25E4%25BA%258Ehttps%2520%25E7%259A%2584%2520dns)
+dns解析速度较正常情况应该会慢一点点
+你也可以照上面那位同学的方法用chrome
+如果还是老样子那可能就不是dns污染的问题了，尝试:
+连上wifi的其他电脑手机是否有一样的现象
+本子不连wifi直接网线连路由器是什么情况
+跳过路由器本子直接网线连光猫按照isp的配置设置后上网是什么情况
+#quote thinky
+
+#p 21867505 thinky 披风罗汉 2020-02-18 23:42:31
+您好，没有网线。但电脑wifi有时会显示wifi连接没有可用的internet，歌华有线，整体速度不如4g联通，手机连此wifi，开网页秒开，而笔记本要10秒，但笔记本在麦当劳wifi就是秒开。
+#quote ultraBad
+
+#p 21867507 thinky 披风罗汉 2020-02-18 23:43:08
+谢谢，怎么输入在哪里输入?
+#quote nietsnie
+
+#p 21867534 ultraBad 海淀吴彦祖 2020-02-18 23:53:57
+
+
+2020-02-18 23:53:33
+浏览器的地址栏里输入，找到一项secure DNS lookups，设为enabled，另外系统的dns改成cloudflare的
+#quote thinky
 
