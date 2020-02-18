@@ -1,4 +1,4 @@
-#t 35 17546949 laegoE 2020-02-18 18:52:00 iOcean 2020-02-18 19:03:00
+#t 35 17546949 laegoE 2020-02-18 00:18:00 mintcandy 2020-02-18 20:06:00
 求教！ 图书馆web of science无法访问
 
 #p 21866472 laegoE 会开花的小木头 2020-02-18 18:51:56
@@ -14,5 +14,9 @@
 或者进入中国科学院文献情报中心网站
 [https://webvpn.las.ac.cn/](jump-to.php?url=https%3A%2F%2Fwebvpn.las.ac.cn%2F)
 利用OAuth登录自己的中国科技云通账号，如果没有账号可以先注册一个，很容易注册的
+#quote laegoE
+
+#p 21866793 mintcandy 退行中 2020-02-18 20:05:50
+现在还能用网页版vpn吗
 #quote laegoE
 
