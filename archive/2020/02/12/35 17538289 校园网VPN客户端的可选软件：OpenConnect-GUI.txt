@@ -1,4 +1,4 @@
-#t 35 17538289 PKUwuming 2020-02-12 00:15:00 gjgjh 2020-02-18 12:05:00
+#t 35 17538289 PKUwuming 2020-02-12 00:15:00 lcdlyxrqy 2020-02-19 21:51:00
 校园网VPN客户端的可选软件：OpenConnect-GUI
 
 #p 21835506 PKUwuming 无名 2020-02-15 16:52:13
@@ -96,4 +96,13 @@ UWP版本是集成到Windows自带的VPN设置里的。
 #p 21864255 gjgjh gjgjh 2020-02-18 12:04:44
 谢谢楼主，亲测可用。pulse secure有时不太好用
 #quote PKUwuming
+
+#p 21871489 innocentwang 柳烟轻寒 2020-02-19 21:46:15
+太感谢了，pulse secure一直用不了，显示未能连接虚拟适配器，卸了杀毒软件也不管用，用了这个以后瞬间连上！
+另：不要随便用UWP版本的pulse secure，有风险！我今天试了以后，本地网瞬间断了，关闭vpn也不管用，只有重启才有概率恢复！我今天一边听课一边弄vpn，结果瞬间掉出课堂……
+#quote PKUwuming
+
+#p 21871511 lcdlyxrqy 诺弗兰特的水晶公的老乡 2020-02-19 21:50:08
+vpn会断原网络难道不是再正常不过的行为么……
+#quote innocentwang
 
