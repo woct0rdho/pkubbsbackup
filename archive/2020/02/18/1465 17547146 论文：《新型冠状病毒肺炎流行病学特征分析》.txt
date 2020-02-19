@@ -1,4 +1,4 @@
-#t 1465 17547146 windseeker 2020-02-18 00:22:00 Homagod 2020-02-19 11:09:00
+#t 1465 17547146 windseeker 2020-02-18 00:22:00 pumpKing 2020-02-19 12:18:00
 论文：《新型冠状病毒肺炎流行病学特征分析》
 
 #p 21867205 windseeker 风行者 2020-02-18 22:02:38
@@ -58,4 +58,9 @@ This finding could be related to a nonuniform case definition of SARS disease, a
 #p 21868844 Homagod 不愉快です 2020-02-19 11:08:32
 谢谢
 #quote myysh
+
+#p 21869176 pumpKing 快或慢的错觉 都珍贵 2020-02-19 12:17:49
+1. 这两个proportion应该按difference而不是ratio理解，0.2还是0.1的两倍呢。
+2. 这个是粗死亡率，即死亡／确诊，没有考虑到人口年龄、健康状况（比如是否有基础性疾病）的影响。
+#quote windseeker
 
