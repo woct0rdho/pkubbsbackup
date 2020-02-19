@@ -1,4 +1,4 @@
-#t 251 17544881 edensnake 2020-02-17 00:12:00 edensnake 2020-02-19 15:16:00
+#t 251 17544881 edensnake 2020-02-17 00:12:00 cbcb 2020-02-19 16:23:00
 讲好中国故事
 
 #p 21858916 edensnake edensnake 2020-02-17 12:52:37
@@ -65,7 +65,7 @@ w
 什么厉害的事
 #quote edensnake
 
-#p 21869222 cbcb cbcb 2020-02-19 12:26:02
+#p 21869222 cbcb cybercivelp 2020-02-19 12:26:02
 什么更厉害的呀@@
 #quote edensnake
 
@@ -92,5 +92,9 @@ w
 
 #p 21869799 edensnake edensnake 2020-02-19 15:15:10
 第一，我没有造谣，我想表达的意思不变，事实有误，我已经承认了;第二，我请求了，版务没有回复。你可以问版务。
+#quote NON
+
+#p 21870129 cbcb cybercivelp 2020-02-19 16:22:16
+造什么谣了？
 #quote NON
 

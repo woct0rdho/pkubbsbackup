@@ -1,4 +1,4 @@
-#t 35 17540916 xuyimiao 2020-02-14 00:15:00 gjgjh 2020-02-18 11:40:00
+#t 35 17540916 xuyimiao 2020-02-14 00:15:00 yuehan 2020-02-19 16:10:00
 最近墙的厉害，分享一个自建V2ray
 
 #p 21845121 xuyimiao 续逸淼 2020-02-14 15:26:25
@@ -186,5 +186,17 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogInh1eWltaWFvIiwNCiAgImFkZCI6ICJ4dXlpbWlh
 
 #p 21864013 gjgjh gjgjh 2020-02-18 11:39:09
 这么多人用，那速度如何
+#quote xuyimiao
+
+#p 21869954 seaandgull 这是一只逗比 2020-02-19 15:51:55
+今天下午好像用不了了...？QAQ
+#quote xuyimiao
+
+#p 21869977 depression ssdsdowe 2020-02-19 15:54:25
+似乎被挂掉了
+#quote xuyimiao
+
+#p 21870072 yuehan lincoln 2020-02-19 16:10:37
+用不了了。。。
 #quote xuyimiao
 
