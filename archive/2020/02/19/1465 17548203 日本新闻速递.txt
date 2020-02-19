@@ -1,4 +1,4 @@
-#t 1465 17548203 qiyu 2020-02-19 00:18:00 SGrove 2020-02-19 21:20:00
+#t 1465 17548203 qiyu 2020-02-19 00:18:00 Implement 2020-02-19 23:46:00
 日本新闻速递
 
 #p 21870531 qiyu 羽羽 2020-02-19 18:10:40
@@ -78,13 +78,13 @@
 #quote qiyu
 
 #p 21870962 zheshishenme 消息发布｜这是什么 2020-02-19 20:40:16
-
-
+#DELETED
 2020-02-19 19:50:43
 <font color="#c0c000">**山**</font>** **<font color="#00c000">**川**</font>** **<font color="#c00000">**疫**</font>** **<font color="#00c0c0">**域**</font>** **<font color="#c0c0c0">**风**</font>** **<font color="#c000c0">**月**</font>** **<font color="#000000">**同**</font>** **<font color="#c0c0c0">**天**</font>
 #quote qiyu
 
 #p 21870980 qiyu 羽羽 2020-02-19 19:53:57
+#DELETED
 山 川 疫 域
 #quote zheshishenme
 
@@ -115,5 +115,20 @@
 
 #p 21871324 SGrove 小树林 2020-02-19 21:19:26
 。。。。
+#quote qiyu
+
+#p 21871870 euio 耳目一心 2020-02-19 23:07:29
+友邦惊诧
+#quote Homagod
+
+#p 21871923 Homagod 不愉快です 2020-02-19 23:21:56
+是友邦啊
+你仔细看看
+我这种喜欢日本的人好起来了
+虽然不知道能用多久
+#quote euio
+
+#p 21872048 Implement 听泉品茶 2020-02-19 23:45:37
+突然感觉武汉政府其实还行。
 #quote qiyu
 
