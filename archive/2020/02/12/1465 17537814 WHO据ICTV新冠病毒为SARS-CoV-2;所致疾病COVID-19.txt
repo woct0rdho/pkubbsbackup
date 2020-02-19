@@ -1,4 +1,4 @@
-#t 1465 17537814 tronphy 2020-02-12 00:06:00 thyzq 2020-02-19 20:00:00
+#t 1465 17537814 tronphy 2020-02-12 00:06:00 thyzq 2020-02-19 20:01:00
 WHO据ICTV新冠病毒为SARS-CoV-2;所致疾病COVID-19
 
 #p 21833677 tronphy 纠缠的皮卡丘 2020-02-12 12:20:26
@@ -390,4 +390,8 @@ who现在也是和稀泥了，推荐使用sars2的名字但没有明确表态sar
 Elliot J. Lefkowitz称，ICTV只正式参与病毒种类（virus taxa）创建和命名，例如物种、属、科等，而不参与病毒名称（的命名）。“如果2019年冠状病毒被确定代表一个新物种，那么ICTV将批准新物种的创建和命名。但如你所知，新病毒与SARS-CoV属同一种，因此不需要新的物种名。”
 [https://www.thepaper.cn/newsDetail_forward_6045283](jump-to.php?url=https%3A%2F%2Fwww.thepaper.cn%2FnewsDetail_forward_6045283)
 #quote tronphy
+
+#p 21871030 thyzq 苟富贵||猫贫穷 2020-02-19 20:01:05
+“新病毒与SARS-CoV属同一种，因此不需要新的物种名。”
+#quote thyzq
 
