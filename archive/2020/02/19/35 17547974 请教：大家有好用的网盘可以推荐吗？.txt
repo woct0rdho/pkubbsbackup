@@ -1,4 +1,4 @@
-#t 35 17547974 CharlesChou 2020-02-19 00:14:00 liuxilai 2020-02-19 20:45:00
+#t 35 17547974 CharlesChou 2020-02-19 00:14:00 CharlesChou 2020-02-20 00:55:00
 请教：大家有好用的网盘可以推荐吗？
 
 #p 21869707 CharlesChou Annoying Orange 2020-02-19 14:54:22
@@ -22,4 +22,13 @@
 #p 21871207 liuxilai Lewsley 2020-02-19 20:45:00
 坚果云？
 #quote CharlesChou
+
+#p 21872277 pikachuuu 丢丢熊 2020-02-20 00:38:14
+onedrive挺好用的
+#quote CharlesChou
+
+#p 21872321 CharlesChou Annoying Orange 2020-02-20 00:54:59
+试了坚果云，比北大网盘同步更顺畅，而且似乎资源占用更少。。唯一不足之处是上传下载流量限制，不过可以花钱解决。。
+谢谢推荐！
+#quote liuxilai
 
