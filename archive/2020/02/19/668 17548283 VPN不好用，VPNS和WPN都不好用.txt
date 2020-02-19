@@ -1,0 +1,10 @@
+#t 668 17548283 thaikon 2020-02-19 19:23:00 PKUCC 2020-02-19 19:41:00
+VPN不好用，VPNS和WPN都不好用
+
+#p 21870823 thaikon 陶象 2020-02-19 19:22:36
+如图，我在家用 Pulse Secure 连接 vpn.pku.edu.cn 结果一直转圈圈。连接 VPNS 和 WPN 就直接提示连接失败。
+
+#p 21870904 PKUCC 北京大学计算中心 2020-02-19 19:40:41
+你好，请参考常见问题里的说明，把ping vpn.pku.edu.cn -t的结果截图发到its@pku.edu.cn，以便排查原因。
+#quote thaikon
+
