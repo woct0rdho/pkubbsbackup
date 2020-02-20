@@ -1,4 +1,4 @@
-#t 35 17549394 seaandgull 2020-02-20 00:15:00 seaandgull 2020-02-20 00:15:00
+#t 35 17549394 seaandgull 2020-02-20 00:15:00 hiaoxui 2020-02-21 02:23:00
 科学上网的数据安全性问题
 
 #p 21874752 seaandgull 这是一只逗比 2020-02-20 15:14:54
@@ -8,5 +8,10 @@
 #DELETED
 服务器提供者理论上可以知道你上过哪些网站（IP），如果应用通信不加密的话（比如HTTP没有S）还能截获所有通信内容（有加密则不行），即对于服务器提供者来说相当于“裸奔”。
 本地电信运营商理论上可以知道你在科学上网，如果软件没有漏洞且没有其它渠道的信息泄露的话不太容易知道你上过哪些网站。
+#quote seaandgull
+
+#p 21877603 hiaoxui 小辉 2020-02-21 02:22:54
+我之前写过一个 blog, 你有兴趣可以读读:
+[https://blog.hiaoxui.com/blog/post/hiaoxui/ssr-privacy-zh](jump-to.php?url=https%3A%2F%2Fblog.hiaoxui.com%2Fblog%2Fpost%2Fhiaoxui%2Fssr-privacy-zh)
 #quote seaandgull
 
