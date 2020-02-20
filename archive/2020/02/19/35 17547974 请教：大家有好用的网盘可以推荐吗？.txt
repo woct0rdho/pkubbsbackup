@@ -1,4 +1,4 @@
-#t 35 17547974 CharlesChou 2020-02-19 00:14:00 iop 2020-02-20 20:01:00
+#t 35 17547974 CharlesChou 2020-02-19 00:14:00 yunbiaozhao 2020-02-20 21:58:00
 请教：大家有好用的网盘可以推荐吗？
 
 #p 21869707 CharlesChou Annoying Orange 2020-02-19 14:54:22
@@ -118,5 +118,18 @@ mac北大网盘体验那么差哦
 
 #p 21876297 iop iop 2020-02-20 20:01:04
 onedrive免费送的5GB空间也基本够用了
+#quote CharlesChou
+
+#p 21876628 YimuCharles 夏尔 2020-02-20 21:22:08
+客气了，我也是无意中发现的。设置中遇到什么问题可以随时交流~
+#quote CharlesChou
+
+#p 21876708 xysmlx xysmlx 2020-02-20 21:38:36
+用pku邮箱可以免费注册office 365 edu版本，有1TB onedrive for business，windows和onedrive的兼容性很好
+[https://www.microsoft.com/zh-cn/education/products/office](jump-to.php?url=https%3A%2F%2Fwww.microsoft.com%2Fzh-cn%2Feducation%2Fproducts%2Foffice)
+#quote CharlesChou
+
+#p 21876807 yunbiaozhao 蝶舞沧海 2020-02-20 21:57:52
+亿方云 你试试
 #quote CharlesChou
 

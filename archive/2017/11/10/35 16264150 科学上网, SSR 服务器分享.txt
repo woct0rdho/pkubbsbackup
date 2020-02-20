@@ -1,4 +1,4 @@
-#t 35 16264150 hiaoxui 2017-11-10 00:00:00 zjzszjzs 2020-02-18 21:15:00
+#t 35 16264150 hiaoxui 2017-11-10 00:00:00 ortuskun 2020-02-20 21:58:00
 科学上网, SSR 服务器分享
 
 #p 17134091 hiaoxui 小辉 2019-11-16 04:36:36
@@ -2023,4 +2023,16 @@ win10下面学校vpn没有ipv6，
 #p 21867030 zjzszjzs SKT Bang 2020-02-18 21:14:45
 是，已经断粮好几天了
 #quote seaandgull
+
+#p 21876541 Safeguard 未知风度 2020-02-20 21:00:53
+ipv6也全部阵亡了嘛。。？
+#quote hiaoxui
+
+#p 21876542 Safeguard 未知风度 2020-02-20 21:01:09
+ipv6是不是也全部阵亡了。。？
+#quote hiaoxui
+
+#p 21876805 ortuskun ortus 2020-02-20 21:57:26
+还能用 但是速度极慢……
+#quote Safeguard
 
