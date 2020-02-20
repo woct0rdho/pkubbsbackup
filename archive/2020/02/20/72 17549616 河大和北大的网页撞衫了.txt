@@ -1,4 +1,4 @@
-#t 72 17549616 exnan 2020-02-20 00:17:00 rubby 2020-02-20 21:40:00
+#t 72 17549616 exnan 2020-02-20 00:17:00 ljq 2020-02-20 22:59:00
 河大和北大的网页撞衫了
 
 #p 21875597 exnan watch 2020-02-20 17:27:54
@@ -40,4 +40,41 @@
 😂 
 这个童鞋你可真是火眼金睛
 #quote SuzumiyaMiku
+
+#p 21876834 twinklestar 星尘 2020-02-20 22:05:57
+99%是其中一个抄袭另一个，或者共同抄某个源码
+网页源代码中许多class名以及id的名都相同，如果是原创，如“navline_3”这些变量都是开发者开发过程中自己取的名字。居然会完全相同
+如北大&lt;section class="subNav yahei clearfix"&gt;
+        &lt;section class="ssubNav"&gt;
+              &lt;span id="navline_1" class="navline"&gt;&lt;/span&gt;
+                      &lt;span id="navline_2" class="navline"&gt;&lt;/span&gt;
+                      &lt;span id="navline_3" class="navline" style="margin-bottom:2px;"&gt;&lt;/span&gt;
+          &lt;/section&gt;
+河大&lt;section class="subNav yahei clearfix"&gt;
+    &lt;section class="ssubNav"&gt;
+        &lt;span id="navline_1" class="navline"&gt;&lt;/span&gt;
+        &lt;span id="navline_2" class="navline"&gt;&lt;/span&gt;
+        &lt;span id="navline_3" class="navline" style="margin-bottom:2px;"&gt;&lt;/span&gt;
+    &lt;/section&gt;
+
+#p 21876843 CHINAZYH Rubisco 2020-02-20 22:08:08
+学校外包找公司做的吧。用的同一套模版。
+一招鲜，吃遍天
+#quote twinklestar
+
+#p 21876857 crux L 2020-02-20 22:11:11
+想多了，学校都是找公司外包的，外包公司都是网上抄的模板
+#quote loasa
+
+#p 21877006 guanglin 广林 2020-02-20 22:51:39
+学校看来没有招设计人员。
+#quote CHINAZYH
+
+#p 21877028 ljq Jesse 2020-02-20 22:59:15
+在河大的页面html代码中搜索“pku”字样可以发现多处匹配
+- logo的名称为&lt;img src="images/pkulogo_red.png"&gt;
+- 搜索框的class包含pku-grey：&lt;i class="fa fa-lg fa-search pku-grey serBtn"&gt;&lt;/i&gt;
+- 多处span（用于展示文章日期）的class包含pku-red，如：&lt;span class="s-dt pku-red"&gt;[2018-12-04]&lt;/span&gt;
+最有趣的是，百度可得，河大的logo并不是红色的 :)
+而且河大网站首页和内容页总有种低仿pku的感觉
 
