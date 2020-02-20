@@ -1,4 +1,4 @@
-#t 35 17547974 CharlesChou 2020-02-19 00:14:00 odysseusq 2020-02-20 15:31:00
+#t 35 17547974 CharlesChou 2020-02-19 00:14:00 lonnyyoung 2020-02-20 16:50:00
 请教：大家有好用的网盘可以推荐吗？
 
 #p 21869707 CharlesChou Annoying Orange 2020-02-19 14:54:22
@@ -43,5 +43,15 @@ onedrive挺好用的
 
 #p 21874838 odysseusq 欸嘿嘿 2020-02-20 15:30:22
 T大云盘等你来:-D
+#quote CharlesChou
+
+#p 21875215 YimuCharles 夏尔 2020-02-20 16:33:39
+如果需求只是两台计算机共享文件，而不是云存储的话，可以使用Windows资源管理器的局域网文件共享功能，两台电脑连在同一Wi-Fi下就可以实现。使用Mac直接访问Windows共享文件夹中的文件，删除或更改都直接反映在Windows的硬盘上，也不会出现同步差错。速度上也比网盘有优势，因为网盘需要有上传和下载两个传输步骤，而这样只需要一次传输。
+只需要在Windows上自定义的路径上新建或选择一个文件夹把属性更改为共享文件夹，然后在用户账户中新建一个本地账户，记住用户名密码（为了方便可以设置成跟Mac上账户一样的），然后在Mac的Finder中选择“Go”-“Go to Folder”（或shift+cmd+G）打开共享文件夹的网络位置，输入刚刚新建的本地账户的用户名密码即可。
+我一直这样用，非常舒适。
+#quote CharlesChou
+
+#p 21875341 lonnyyoung LonnyYoung 2020-02-20 16:49:50
+teamviewer 远程控制
 #quote CharlesChou
 
