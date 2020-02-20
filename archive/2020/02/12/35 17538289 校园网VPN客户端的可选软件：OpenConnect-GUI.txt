@@ -1,4 +1,4 @@
-#t 35 17538289 PKUwuming 2020-02-12 00:15:00 lcdlyxrqy 2020-02-19 21:51:00
+#t 35 17538289 PKUwuming 2020-02-12 00:15:00 innocentwang 2020-02-20 17:35:00
 校园网VPN客户端的可选软件：OpenConnect-GUI
 
 #p 21835506 PKUwuming 无名 2020-02-15 16:52:13
@@ -105,4 +105,8 @@ UWP版本是集成到Windows自带的VPN设置里的。
 #p 21871511 lcdlyxrqy 诺弗兰特的水晶公的老乡 2020-02-19 21:50:08
 vpn会断原网络难道不是再正常不过的行为么……
 #quote innocentwang
+
+#p 21875635 innocentwang 柳烟轻寒 2020-02-20 17:34:48
+问题是断了原网络也上不了网，甚至关闭乃至删除vpn也不能恢复
+#quote lcdlyxrqy
 
