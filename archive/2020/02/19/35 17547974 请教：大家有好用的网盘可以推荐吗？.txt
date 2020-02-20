@@ -1,4 +1,4 @@
-#t 35 17547974 CharlesChou 2020-02-19 00:14:00 lonnyyoung 2020-02-20 17:57:00
+#t 35 17547974 CharlesChou 2020-02-19 00:14:00 Homagod 2020-02-20 18:32:00
 请教：大家有好用的网盘可以推荐吗？
 
 #p 21869707 CharlesChou Annoying Orange 2020-02-19 14:54:22
@@ -86,5 +86,16 @@ emmm。用远程控制来实现文件同步？好像不太符合需求。。还�
 
 #p 21875755 lonnyyoung LonnyYoung 2020-02-20 17:56:48
 我就是用远程控制把文件在办公室电脑和宿舍电脑之间传来传去，那可能和你的应用场景不一样吧
+#quote CharlesChou
+
+#p 21875850 essethon essethon 2020-02-20 18:15:25
+#DELETED
+同推荐 Syncthing. 局域网同步，所有数据都在本地你的设备中，所有设备地位平等，没有服务端客户端的区别。
+当然你要是有个云服务器或者NAS的话在那上面搭个Syncthing节点也很好。
+【网盘】的话，感觉还是Dropbox体验最好啊，而且也有LAN同步功能。只是免费版容量不能满足你的要求。
+#quote CharlesChou
+
+#p 21875926 Homagod 不愉快です 2020-02-20 18:32:05
+mac北大网盘体验那么差哦
 #quote CharlesChou
 
