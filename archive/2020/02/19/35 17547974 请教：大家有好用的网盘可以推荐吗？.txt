@@ -1,4 +1,4 @@
-#t 35 17547974 CharlesChou 2020-02-19 00:14:00 Homagod 2020-02-20 18:32:00
+#t 35 17547974 CharlesChou 2020-02-19 00:14:00 Homagod 2020-02-20 19:29:00
 请教：大家有好用的网盘可以推荐吗？
 
 #p 21869707 CharlesChou Annoying Orange 2020-02-19 14:54:22
@@ -97,5 +97,22 @@ emmm。用远程控制来实现文件同步？好像不太符合需求。。还�
 
 #p 21875926 Homagod 不愉快です 2020-02-20 18:32:05
 mac北大网盘体验那么差哦
+#quote CharlesChou
+
+#p 21876147 CharlesChou Annoying Orange 2020-02-20 19:24:54
+有校园网支持，速度吊打其他网盘，200G容量免费也很给力。
+但每次开机都要重新登录北大统一网关认证、CPU占用率有点高（至少比我后来试的坚果云高）、第一次使用的时候有100多个文件一直卡在“正在上传”，这几点原因加起来，我就在想有没有替代产品了。。
+#quote Homagod
+
+#p 21876153 Homagod 不愉快です 2020-02-20 19:26:45
+原来如此，我windows用的体验还挺不错的，好奇是不是mac版本有问题
+#quote CharlesChou
+
+#p 21876162 CharlesChou Annoying Orange 2020-02-20 19:28:25
+可能是吧。我在mac和win都装了，确实win的没有出现上传的问题，但CPU占用率比坚果云高。
+#quote Homagod
+
+#p 21876168 Homagod 不愉快です 2020-02-20 19:28:58
+居然还更高
 #quote CharlesChou
 
