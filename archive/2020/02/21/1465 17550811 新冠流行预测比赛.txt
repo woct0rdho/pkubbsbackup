@@ -1,0 +1,7 @@
+#t 1465 17550811 MDP 2020-02-21 15:39:00 MDP 2020-02-21 15:39:00
+新冠流行预测比赛
+
+#p 21879530 MDP MarkovDecisionProcess 2020-02-21 15:38:11
+[https://www.biendata.com/competition/epidemic/](jump-to.php?url=https%3A%2F%2Fwww.biendata.com%2Fcompetition%2Fepidemic%2F)
+biendata上有个预测新冠数量的比赛，不过这里比的是确诊和治愈数量。觉得版务可以拿之前用的模型去试一下
+
