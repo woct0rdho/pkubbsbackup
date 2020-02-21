@@ -1,4 +1,4 @@
-#t 35 17550402 CPython 2020-02-21 00:08:00 jiamingpku 2020-02-21 11:40:00
+#t 35 17550402 CPython 2020-02-21 00:08:00 Dalpku 2020-02-22 00:15:00
 查阅资料，需要fanqiang，求简单可用方法，可付费
 
 #p 21877994 CPython 大作家佚名 2020-02-21 08:53:42
@@ -6,5 +6,9 @@
 
 #p 21878677 jiamingpku jiamingpku 2020-02-21 11:39:07
 Google版 5393帖
+#quote CPython
+
+#p 21881489 Dalpku YuYu 2020-02-22 00:15:12
+你可以私信我
 #quote CPython
 
