@@ -1,4 +1,4 @@
-#t 35 17547974 CharlesChou 2020-02-19 00:14:00 Kindness 2020-02-21 10:04:00
+#t 35 17547974 CharlesChou 2020-02-19 00:14:00 out 2020-02-21 13:31:00
 请教：大家有好用的网盘可以推荐吗？
 
 #p 21869707 CharlesChou Annoying Orange 2020-02-19 14:54:22
@@ -150,4 +150,17 @@ onedrive的同步至少在pc上做的挺好的，毕竟微软自家的。但是�
 10G免费
 不过超过流量会被删除个人所有文件
 #quote CharlesChou
+
+#p 21879083 Kirayosikage 吉良吉影｜东方定助 2020-02-21 13:19:17
+onedrive我记得有段时间要fq？
+#quote NFGL
+
+#p 21879124 out Nginx 2020-02-21 13:30:34
+我用的是onedrive，速度比较慢，但是好于百度云非会员
+对百度云不反感又想多设备同步的话，买一年超级会员也还行
+#quote CharlesChou
+
+#p 21879125 out Nginx 2020-02-21 13:30:45
+网页版需要，客户端不需要
+#quote Kirayosikage
 
