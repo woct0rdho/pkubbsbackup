@@ -1,0 +1,16 @@
+#t 35 16192705 rainmount 2017-08-29 00:00:00 qinqintuo 2020-02-21 23:02:00
+求助：学校VPN连接错误——未能设置虚拟适配器
+
+#p 16868887 rainmount rain 2017-08-29 16:28:40
+如题，使用学校的VPN客户端连接时出现错误，显示“未能设置虚拟适配器，错误：1205”，请问该如何解决？
+
+#p 16874616 PKUCC 北京大学计算中心 2017-08-31 10:56:16
+用户，您好！
+请参考VPN常见问题1。
+[https://its.pku.edu.cn/service_1_vpn.jsp](jump-to.php?url=https%3A%2F%2Fits.pku.edu.cn%2Fservice_1_vpn.jsp)
+#quote rainmount
+
+#p 21881188 qinqintuo 琴琴坨 2020-02-21 23:01:46
+上面方法都试过了没有用
+#quote rainmount
+
