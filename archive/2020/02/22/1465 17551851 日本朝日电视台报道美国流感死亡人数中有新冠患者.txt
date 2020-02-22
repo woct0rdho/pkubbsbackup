@@ -1,8 +1,15 @@
-#t 1465 17551851 LaVieInRose 2020-02-22 10:42:00 LaVieInRose 2020-02-22 10:42:00
+#t 1465 17551851 LaVieInRose 2020-02-22 00:10:00 Homagod 2020-02-22 12:58:00
 日本朝日电视台报道美国流感死亡人数中有新冠患者
 
-#p 21882514 LaVieInRose 没品 2020-02-22 10:41:54
+#p 21882514 LaVieInRose 没品 2020-02-22 10:45:42
+
+
+2020-02-22 10:41:54
 日本朝日电视台今日傍晚报道：CDC美国疾病管理预防中心发布惊人的消息，怀疑一万多的流感死亡人数中，有一部分是死于新冠肺炎的，检查体制有漏洞，已经开始新的检测方式，并呼吁有新冠症状的患者重新检查……
 朝日： [https://headlines.yahoo.co.jp/videonews/ann?a=20200221-00000074-ann-int](jump-to.php?url=https%3A%2F%2Fheadlines.yahoo.co.jp%2Fvideonews%2Fann%3Fa%3D20200221-00000074-ann-int)
 美国CDC： [https://www.cdc.gov/flu/about/burden/preliminary-in-season-estimates.htm](jump-to.php?url=https%3A%2F%2Fwww.cdc.gov%2Fflu%2Fabout%2Fburden%2Fpreliminary-in-season-estimates.htm)
+
+#p 21883090 Homagod 不愉快です 2020-02-22 12:57:43
+emmm
+#quote LaVieInRose
 
