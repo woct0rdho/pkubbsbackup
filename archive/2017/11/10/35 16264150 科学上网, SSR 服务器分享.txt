@@ -1,4 +1,4 @@
-#t 35 16264150 hiaoxui 2017-11-10 00:00:00 loveYJM 2020-02-22 00:08:00
+#t 35 16264150 hiaoxui 2017-11-10 00:00:00 nobulxx 2020-02-22 00:00:00
 科学上网, SSR 服务器分享
 
 #p 17134091 hiaoxui 小辉 2019-11-16 04:36:36
@@ -2059,5 +2059,13 @@ IPv6 丢包率奇高, 至今不知道为什么. 印象里丢包率直逼 50%.
 
 #p 21881452 loveYJM shangki 2020-02-22 00:07:21
 最近开始用vmess了，免费的服务器也有，ssr确实挂了不少了..[https://github.com/ntkernel/lantern/blob/master/vmess.txt](jump-to.php?url=https%3A%2F%2Fgithub.com%2Fntkernel%2Flantern%2Fblob%2Fmaster%2Fvmess.txt)
+#quote hiaoxui
+
+#p 21881493 loveYJM shangki 2020-02-22 00:15:37
+接一条，不是砸lz的场子，我也在github随便翻到的，分享一下= =
+#quote hiaoxui
+
+#p 21881627 nobulxx 信长信长信 2020-02-22 00:59:52
+资瓷
 #quote hiaoxui
 
