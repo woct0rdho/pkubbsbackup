@@ -1,4 +1,4 @@
-#t 35 17550370 glsxwyyz 2020-02-21 00:08:00 tyzhang 2020-02-23 13:30:00
+#t 35 17550370 glsxwyyz 2020-02-21 00:08:00 sunflower 2020-02-23 14:29:00
 在华外国人用的什么梯子啊，有了解的吗？
 
 #p 21877897 glsxwyyz 岚山 2020-02-23 11:55:15
@@ -151,5 +151,9 @@ Master
 
 #p 21887776 tyzhang 夏隐、 2020-02-23 13:29:51
 据我了解，部分国外运营商的手机卡到国内不需要额外设置，也可以访问境外网站
+#quote glsxwyyz
+
+#p 21887986 sunflower sunflower 2020-02-23 14:28:22
+我用的是这个，[http://invite.9iclient.vip/auth/register?code=rGAO](jump-to.php?url=http%3A%2F%2Finvite.9iclient.vip%2Fauth%2Fregister%3Fcode%3DrGAO)
 #quote glsxwyyz
 
