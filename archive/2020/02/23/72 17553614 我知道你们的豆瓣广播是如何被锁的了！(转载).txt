@@ -1,0 +1,90 @@
+#t 72 17553614 Pyrojewel 2020-02-23 18:57:00 Pyrojewel 2020-02-23 18:57:00
+我知道你们的豆瓣广播是如何被锁的了！(转载)
+
+#p 21889076 Pyrojewel 即使尘埃看今夜艳火 2020-02-23 18:59:08
+
+
+2020-02-23 18:56:40
+我知道你们的广播是如何被锁的了
+猫郁
+2020-02-23 17:32:35
+[https://www.douban.com/note/751732563/](jump-to.php?url=https%3A%2F%2Fwww.douban.com%2Fnote%2F751732563%2F)
+                
+　　我可能发现了豆瓣的一个审核触发机制。
+　　可能不少友邻也早早发现了这个原理。
+　　不过今天我在这儿好好地说一说。
+　　以下是我发现的过程。
+　　吃完午饭，我准备发一个广播，内容如下：
+<img src="http://img9.doubanio.com/view/note/l/public/p69947804.webp"/>
+　　然后，不出意外地被锁了。
+　　本着求知探索的心态，我迫切地想弄明白究竟是哪个词触发的锁定。
+　　首先，测试最下面那三个字“习惯的”。发的出来，没问题。
+　　那么就在第一句话里面。
+　　本着二分法原则，我把这句话拆成两部分。先发“为何国内言论环境”，没问题。
+　　那么就是第二部分。
+　　“倒退到如此地步”，也没问题。
+　　那问题出在哪呢，我想是不是应该加上最下面那三个词。
+<img src="http://img3.doubanio.com/view/note/l/public/p69947821.webp"/>
+　　果不其然，就是这个。
+　　可是如此一来，更加一头雾水了。两句话分开来完全没问题，为何何在一块就被锁呢？
+　　仔细观察一番后，我恍然大悟。
+　　打出了如下俩字：
+<img src="http://img9.doubanio.com/view/note/l/public/p69947805.webp"/>
+　　这就是触发锁定的原因。意义想必大家都不言而喻。那么关键词就是这两个字没错了。
+<img src="http://img3.doubanio.com/view/note/l/public/p69947813.webp"/>
+<img src="http://img3.doubanio.com/view/note/l/public/p69947811.webp"/>
+　　可是，刚刚的广播中我并没有将这二字连在一块儿，为什么还是被锁？
+　　难道说这两个字不能同时出现在一个广播中？
+<img src="http://img3.doubanio.com/view/note/l/public/p69947820.webp"/>
+　　好像是那么回事。
+<img src="http://img3.doubanio.com/view/note/l/public/p69947802.webp"/>
+　　不一定。
+　　难道说是顺序问题？
+　　为确保严谨，我得控制变量。
+A1
+<img src="http://img1.doubanio.com/view/note/l/public/p69947808.webp"/>
+A2
+<img src="http://img3.doubanio.com/view/note/l/public/p69947812.webp"/>
+B1
+<img src="http://img3.doubanio.com/view/note/l/public/p69947822.webp"/>
+B2
+<img src="http://img9.doubanio.com/view/note/l/public/p69947815.webp"/>
+　　综合A1A2，B1B2来看，好像锁定跟“倒”和“习”的顺序没多大关系。
+　　先看B1B2，两个广播都没有触发锁定可能是因为“学习”是一个常用词的缘故。再结合下列截图，说明不相连的单个的“倒”和单个的“习”并不会触发锁定。
+C1
+<img src="http://img9.doubanio.com/view/note/l/public/p69947824.webp"/>
+　　但是，如果“倒”和某些字组成了双音节词的话……
+C2
+<img src="http://img3.doubanio.com/view/note/l/public/p69947810.webp"/>
+　　显然，“倒退”是万万不能和“习”出现的同一个广播里
+　　接着我们再来看A1A2。
+　　与上图不同的是，这里面出现了一个成语，“习以为常”（下文以“这个成语”指代该词）。既然排除了单字触发锁定的可能。那么此处的触发和这个成语有莫大的关系。
+再次进行实验。
+<img src="http://img9.doubanio.com/view/note/l/public/p69947825.webp"/>
+　　从这张图可以判断出，广播被锁的原因显然是这个成语和“倒”字产生了关联性。那么是怎样的关联？我们姑且可以推断出这样的结论：这个成语不能“倒”字放在同一条广播中。但是由于样本过少，这个结论明显不严谨。于是我做了更多的实验。
+<img src="http://img1.doubanio.com/view/note/l/public/p69947809.webp"/>
+<img src="http://img3.doubanio.com/view/note/l/public/p69947803.webp"/>
+　　结论：这个成语无论跟单个“倒”在一块，还是个“倒”的词汇在一块，都会被锁。
+　　我想，是不是由于间距太近的原因。
+　　于是我复制了一段我以前的未被锁的广播，加上这两个关键词。
+<img src="http://img3.doubanio.com/view/note/l/public/p69947823.webp"/>
+　　依然被锁。
+　　会不会文本容量再大点就不会被锁了。
+　　我随机打了一长串乱码文字。这段文字没有被锁。
+<img src="http://img1.doubanio.com/view/note/l/public/p69947807.webp"/>
+　　接着，加上关键词。
+<img src="http://img9.doubanio.com/view/note/l/public/p69947826.webp"/>
+　　被锁。
+　　调换顺序。
+<img src="http://img3.doubanio.com/view/note/l/public/p69947801.webp"/>
+　　还是被锁。
+　　最终结论：锁定与否，和文本容量与文字顺序都没关系，只要广播被系统识别到有这两个关键词（习以为常与倒），就会自动触发锁定。
+　　由此，算是摸清了豆瓣广播的审核逻辑，十分病态且毫无逻辑可言：
+　　“倒退”和“习”出现在同一个广播中被锁
+　　“习以为常”和“倒”出现在同一个广播被锁
+　　我们可以吃一堑长一智，以后写广播时避免这两个词的出现就好了。然而这只是豆瓣敏感词库的冰山一角，我们根本不知道寥寥数字的广播里，是哪两个相隔百字且不相关的词语造成了广播的锁定。以前还能用二分法，一步步缩小文本来锁定敏感词，而现在这个方法几乎快排不上用场了，本来很多用户经过长期与豆瓣的斗智斗勇，学会了主动避开敏感词，但依旧会遭遇系统算法的霸道锁定。这次能找出关键词全是因为这个词是人尽皆知已经形成了梗文化，然而更多的关键词用户根本无从找起。很多敏感词明显是豆瓣方牵强附会的结果，这对用户造成的不便可想而知。用户即便再谨言慎行，再自我阉割，也不可能像计算机一样识别出脑海里某一段话中任意两个字词的关联性。
+　　审核如此密不透风，足已达到了钳制思想的地步。这样的豆瓣，请问我们该如何爱？
+　　豆瓣，你作的恶可不是三言两语能说完的。
+　　而刚刚可能是因为我进行试验太多，发了太多了敏感词，我的第一小号在出狱不到五天后再一次获得了三天刑期。
+<img src="http://img1.doubanio.com/view/note/l/public/p69947818.webp"/>
+

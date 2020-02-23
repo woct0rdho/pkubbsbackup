@@ -1,4 +1,4 @@
-#t 35 17550370 glsxwyyz 2020-02-21 00:08:00 mojave 2020-02-23 17:40:00
+#t 35 17550370 glsxwyyz 2020-02-21 00:08:00 nofish 2020-02-23 18:35:00
 在华外国人用的什么梯子啊，有了解的吗？
 
 #p 21877897 glsxwyyz 岚山 2020-02-23 11:55:15
@@ -179,4 +179,16 @@ who knows……
 #p 21888763 mojave 你说得都对 2020-02-23 17:39:57
 iOS目前我没有发现免费的v2ray app
 #quote purplelight
+
+#p 21888882 IlIl 王铁崖 2020-02-23 18:10:24
+几个人共享一个applestore的账号，如果不怕麻烦可以试试用虚拟手机号申请美国区的PayPal然后绑定。
+#quote purplelight
+
+#p 21888940 Homagod 不愉快です 2020-02-23 18:20:19
+哪天也想用合法的Q_Q
+#quote CharAznable
+
+#p 21888997 nofish nofish 2020-02-23 18:35:06
+为啥我连不上啊，
+#quote pkuplf
 
