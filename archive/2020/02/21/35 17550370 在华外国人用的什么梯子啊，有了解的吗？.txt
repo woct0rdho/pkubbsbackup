@@ -1,4 +1,4 @@
-#t 35 17550370 glsxwyyz 2020-02-21 00:08:00 wgf 2020-02-24 15:35:00
+#t 35 17550370 glsxwyyz 2020-02-21 00:08:00 CharAznable 2020-02-25 01:31:00
 在华外国人用的什么梯子啊，有了解的吗？
 
 #p 21877897 glsxwyyz 岚山 2020-02-23 11:55:15
@@ -224,6 +224,7 @@ iOS目前我没有发现免费的v2ray app
 #quote purplelight
 
 #p 21891804 shuyangfang 白音 2020-02-24 12:30:39
+#DELETED
 安卓和iOS可用，免费
 [https://www.xoizi2xc2.com/i/2RDM39](jump-to.php?url=https%3A%2F%2Fwww.xoizi2xc2.com%2Fi%2F2RDM39)
 #quote glsxwyyz
@@ -235,4 +236,8 @@ iOS目前我没有发现免费的v2ray app
 #p 21892581 wgf 自己人别开枪🔫 2020-02-24 15:35:06
 有德国rwth的朋友他们用学校的vpn
 #quote glsxwyyz
+
+#p 21894877 CharAznable 赤い彗星 2020-02-25 01:30:43
+你直接买个香港卡漫游回来试试也许就行了吧，我之前看很多人搞这种卡。。。
+#quote Homagod
 
