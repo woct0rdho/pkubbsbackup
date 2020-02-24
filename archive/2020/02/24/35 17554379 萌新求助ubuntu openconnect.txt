@@ -1,6 +1,11 @@
-#t 35 17554379 pkucqw 2020-02-24 09:45:00 pkucqw 2020-02-24 09:45:00
+#t 35 17554379 pkucqw 2020-02-24 00:09:00 MasterXJ 2020-02-24 21:42:00
 萌新求助ubuntu openconnect
 
 #p 21891158 pkucqw pkucqw 2020-02-24 09:44:20
 我安照这个流程[https://websiteforstudents.com/install-openconnect-ssl-vpn-client-on-ubuntu-18-04-18-04/](jump-to.php?url=https%3A%2F%2Fwebsiteforstudents.com%2Finstall-openconnect-ssl-vpn-client-on-ubuntu-18-04-18-04%2F)，最后会报错，怎么都搞不定www
+
+#p 21894077 MasterXJ Master 2020-02-24 21:42:00
+你需要加 --juniper 选项：
+[https://bbs.pku.edu.cn/v2/post-read-single.php?bid=13&amp;postid=15031471](post-read-single.php?bid=13&amp;postid=15031471)
+#quote pkucqw
 
