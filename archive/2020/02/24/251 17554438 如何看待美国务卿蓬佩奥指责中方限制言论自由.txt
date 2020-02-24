@@ -1,4 +1,4 @@
-#t 251 17554438 MiniSheldon 2020-02-24 00:10:00 herensi 2020-02-24 14:44:00
+#t 251 17554438 MiniSheldon 2020-02-24 00:10:00 himitsu 2020-02-24 15:19:00
 如何看待美国务卿蓬佩奥指责中方限制言论自由
 
 #p 21891335 MiniSheldon 少年谢耳朵 2020-02-24 10:46:20
@@ -66,4 +66,43 @@
 不可能单纯因为种族歧视言论被捕，法律会保护你发表种族歧视言论的权力。当然，你的老板可能会开掉你，非政府机构都有权力限制成员发表言论的范围。在美国，只有政府有保护公民言论自由的义务，别的机构都没有这样的义务。
 #quote MiniSheldon
 发自我的“北大未名”iOS客户端([http://t.cn/R7ZhtYc](jump-to.php?url=http%3A%2F%2Ft.cn%2FR7ZhtYc))
+
+#p 21892436 himitsu 神山よしか 2020-02-24 15:01:08
+确实存在此事。NBC就此事进行了报道。
+逮捕的依据是康涅狄格州一般法规§ 53-37。
+“Any person who, by his advertisement, ridicules or holds up to contempt any person or class of persons, on account of the creed, religion, color, denomination, nationality or race of such person or class of persons, shall be guilty of a class D misdemeanor.”
+任何人因其信条，宗教，肤色，宗派，国籍或种族而通过广告嘲笑或or视任何人或某类人一个人或某类人，应处以D类轻罪。
+其最高刑罚是50美元罚款或30日监禁。
+但是，就这一条文是否违反美国宪法第一修正案，是有其争议的。部分法学学者乃至于立法研究室认为这一条文在宪法上存在问题。因该种嘲笑言论未达到第一修正案例外的门槛，如煽动暴力。
+[https://jolt.law.harvard.edu/digest/uconn-students-arrests-following-racial-slurs-raises-first-amendment-concerns](jump-to.php?url=https%3A%2F%2Fjolt.law.harvard.edu%2Fdigest%2Fuconn-students-arrests-following-racial-slurs-raises-first-amendment-concerns)
+#quote liuyz
+
+#p 21892457 ddyytt yyt 2020-02-24 15:05:59
+应该是真的，美国媒体也有报道，比如
+[https://www.nbcnews.com/news/us-news/uconn-students-arrest-over-racial-slur-prompts-review-state-s-n1140441](jump-to.php?url=https%3A%2F%2Fwww.nbcnews.com%2Fnews%2Fus-news%2Fuconn-students-arrest-over-racial-slur-prompts-review-state-s-n1140441)
+“
+Police said the students, Jarred Karal and Ryan Mucaj, uttered the racial slur several times while walking through the parking lot of a campus apartment complex and were recorded by a black student. They said that they were playing a game that involved saying offensive words and that it was not directed at anyone in particular.
+”
+#quote liuyz
+
+#p 21892477 paull Loooong 2020-02-24 15:13:14
+"你这完全是个伪命题
+警察凭什么抓你？"
+#quote himitsu
+
+#p 21892478 himitsu 神山よしか 2020-02-24 15:14:22
+我是凭对美国宪法第一修正案的直觉说的
+没想到该州州法会制定这么一条啊
+不过这篇文章里也说了，有法学家也质疑这项法律是否违反宪法第一修正案
+#quote paull
+
+#p 21892486 paull Loooong 2020-02-24 15:15:41
+就结果来看，问题还是回到了
+"问题的关键是到底什么是言论自由？如果在美国我歧视黑人，被警察抓了，算不算限制我的言论自由，如果不算，为什么美国可以歧视中国人？"
+#quote himitsu
+
+#p 21892499 himitsu 神山よしか 2020-02-24 15:19:00
+那你在这个康涅茨格州也可以根据这项法律控告歧视者，没看到里边有列举”国籍“吗，只要这条法律不因违宪而被废除的话
+那这时候又要讨论什么言辞算嘲笑、歧视，什么不算了
+#quote paull
 
