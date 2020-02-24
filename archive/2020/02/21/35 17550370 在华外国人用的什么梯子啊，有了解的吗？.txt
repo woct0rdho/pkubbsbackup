@@ -1,4 +1,4 @@
-#t 35 17550370 glsxwyyz 2020-02-21 00:08:00 mojave 2020-02-24 09:20:00
+#t 35 17550370 glsxwyyz 2020-02-21 00:08:00 shuyangfang 2020-02-24 12:31:00
 在华外国人用的什么梯子啊，有了解的吗？
 
 #p 21877897 glsxwyyz 岚山 2020-02-23 11:55:15
@@ -222,4 +222,9 @@ iOS目前我没有发现免费的v2ray app
 #p 21891098 mojave 你说得都对 2020-02-24 09:19:23
 10刀起购 好像可以用国内卡
 #quote purplelight
+
+#p 21891804 shuyangfang 白音 2020-02-24 12:30:39
+安卓和iOS可用，免费
+[https://www.xoizi2xc2.com/i/2RDM39](jump-to.php?url=https%3A%2F%2Fwww.xoizi2xc2.com%2Fi%2F2RDM39)
+#quote glsxwyyz
 
