@@ -1,4 +1,4 @@
-#t 35 17538289 PKUwuming 2020-02-12 00:15:00 innocentwang 2020-02-20 17:35:00
+#t 35 17538289 PKUwuming 2020-02-12 00:15:00 mol 2020-02-24 10:46:00
 校园网VPN客户端的可选软件：OpenConnect-GUI
 
 #p 21835506 PKUwuming 无名 2020-02-15 16:52:13
@@ -109,4 +109,22 @@ vpn会断原网络难道不是再正常不过的行为么……
 #p 21875635 innocentwang 柳烟轻寒 2020-02-20 17:34:48
 问题是断了原网络也上不了网，甚至关闭乃至删除vpn也不能恢复
 #quote lcdlyxrqy
+
+#p 21891413 mol 摩尔||阿七 2020-02-24 10:45:57
+一直连不上矣。。。点击connect，就会出现cancel，过一会儿又变成了connect。。。
+2020-02-24 10:44:28 |  de0 | Received DNS server 162.105.129.26
+2020-02-24 10:44:28 |  de0 | Received DNS search domain pku.edu.cn
+2020-02-24 10:44:28 |  de0 | Unknown TLV group 2 attr 3 len 4: 02 00 00 00
+2020-02-24 10:44:28 |  de0 | Received WINS server 255.255.255.255
+2020-02-24 10:44:28 |  de0 | Received internal IP address 222.29.106.184
+2020-02-24 10:44:28 |  de0 | Received netmask 255.255.255.255
+2020-02-24 10:44:28 |  de0 | Received internal gateway address 10.200.200.200
+2020-02-24 10:44:28 |  de0 | 0000: 24 00 00 00 00 00 00 00 01 2f 01 00 00 00 01 00
+2020-02-24 10:44:28 |  de0 | 0010: 00 00 00 00 00 10 00 06 00 00 00 0a 00 02 00 00
+2020-02-24 10:44:28 |  de0 | 0020: 00 04 00 00 05 78
+2020-02-24 10:44:28 |  de0 | Error setting up DTLS
+2020-02-24 10:44:28 |  de0 | No Windows-TAP adapters found. Is the driver installed?
+2020-02-24 10:44:28 |  de0 | No Windows-TAP adapters found. Is the driver installed?
+2020-02-24 10:44:28 | 3860 | Disconnected
+#quote PKUwuming
 

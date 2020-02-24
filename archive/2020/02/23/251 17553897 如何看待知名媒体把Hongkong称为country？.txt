@@ -1,4 +1,4 @@
-#t 251 17553897 monolingual 2020-02-23 00:23:00 saa 2020-02-24 09:34:00
+#t 251 17553897 monolingual 2020-02-23 00:23:00 euio 2020-02-24 10:35:00
 如何看待知名媒体把Hongkong称为country？
 
 #p 21890068 monolingual monolingual 2020-02-23 23:25:08
@@ -54,4 +54,12 @@ CNN。。。什么知名媒体。。。
 国;国家;(尤指具有某种自然特征、适于某目的或与某种人有关的)地区，区域;全国人民;国民;全民
 而主权国家是sovereign state
 感觉可能state的政治意义比较浓，而country可能是一个更接近地理的概念
+
+#p 21891260 monolingual monolingual 2020-02-24 10:14:55
+#quote wanghao
+bbc都知道Hongkong不叫country
+
+#p 21891353 euio 耳目一心 2020-02-24 10:34:37
+中文倒是可以考虑称“国区”
+#quote yuyuyu
 
