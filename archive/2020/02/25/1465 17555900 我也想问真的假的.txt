@@ -1,4 +1,4 @@
-#t 1465 17555900 qingyan 2020-02-25 00:11:00 qkdbdzh 2020-02-25 17:14:00
+#t 1465 17555900 qingyan 2020-02-25 00:11:00 paocai 2020-02-25 18:40:00
 我也想问真的假的
 
 #p 21895768 qingyan 青岩 2020-02-25 11:18:50
@@ -47,4 +47,13 @@
 #p 21897313 qkdbdzh Jay 2020-02-25 17:13:51
 入嘴瞬间就通过口腔黏膜接种了
 #quote mikotojiang
+
+#p 21897571 wssksy llldlldldld 2020-02-25 18:05:43
+开始我也这么想，然后查了文献。发现居然，把酵母送到小肠后，部分酵母会被吞噬，然后酵母表达的蛋白就进入了体内，引起免疫反应，起到疫苗作用。真神奇
+Beier R, Gebert A. Kinetics of particle uptake in the domes of Peyer’s patches[J]. American Journal of Physiology-Gastrointestinal and Liver Physiology, 1998, 275(1): G130-G137.
+#quote mikotojiang
+
+#p 21897677 paocai 泡菜*听花开的声音 2020-02-25 18:39:52
+吹牛的
+#quote qingyan
 
