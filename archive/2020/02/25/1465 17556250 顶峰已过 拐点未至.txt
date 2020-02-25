@@ -1,4 +1,4 @@
-#t 1465 17556250 al 2020-02-25 16:55:00 al 2020-02-25 16:55:00
+#t 1465 17556250 al 2020-02-25 00:16:00 boson 2020-02-25 17:56:00
 顶峰已过 拐点未至
 
 #p 21897256 al aluminium 2020-02-25 16:55:28
@@ -6,4 +6,16 @@
 
 2020-02-25 16:55:04
 是不是这个意思<img src="https://bbs.pku.edu.cn/attach/31/3e/313ea5d98c8c3cf3/25Feb.png"/>
+
+#p 21897508 boson boson 2020-02-25 17:56:38
+
+
+2020-02-25 17:55:42
+——中国-世卫联合专家组提交了一个报告说，他们发现，疫情在1月23日至2月2日期间达到高峰并稳定下来，之后一直在稳步下降，您对这个有什么回应呢？
+——没听过……
+——是谭德塞说的。
+——你不能……你们媒体千万要注意啊，不要见得风是得雨。这个消息（ [http://www.xinhuanet.com/2020-02/25/c_1125622959.htm](jump-to.php?url=http%3A%2F%2Fwww.xinhuanet.com%2F2020-02%2F25%2Fc_1125622959.htm) 
+[https://www.who.int/zh/dg/speeches/detail/who-director-general-s-opening-remarks-at-the-media-briefing-on-covid-19---24-february-2020](jump-to.php?url=https%3A%2F%2Fwww.who.int%2Fzh%2Fdg%2Fspeeches%2Fdetail%2Fwho-director-general-s-opening-remarks-at-the-media-briefing-on-covid-19---24-february-2020) 
+），你们媒体本身也要判断，明白这个意思吧？
+#quote al
 

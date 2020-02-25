@@ -1,4 +1,4 @@
-#t 668 17544701 MatchFilter 2020-02-17 00:11:00 Androlaxy 2020-02-25 16:58:00
+#t 668 17544701 MatchFilter 2020-02-17 00:11:00 PKUCC 2020-02-25 17:38:00
 校外下载正版软件必须连vpn吗
 
 #p 21858195 MatchFilter 迷你糖包 2020-02-17 11:04:26
@@ -27,4 +27,18 @@
 #p 21897264 Androlaxy 吕大棍 2020-02-25 16:57:25
 我也是这样的问题，用第三方比如迅雷也不行，有人解决了吗
 #quote MatchFilter
+
+#p 21897331 PKUCC 北京大学计算中心 2020-02-25 17:19:58
+[https://disk.pku.edu.cn:443/link/5797AF8F2C215B401988E1A1BC39E1D9](jump-to.php?url=https%3A%2F%2Fdisk.pku.edu.cn%3A443%2Flink%2F5797AF8F2C215B401988E1A1BC39E1D9)
+有效期限：2020-03-25 23:59
+这是使用北大网盘共享的office 2019  先下载看看
+#quote MatchFilter
+
+#p 21897334 PKUCC 北京大学计算中心 2020-02-25 17:20:37
+[https://disk.pku.edu.cn:443/link/5797AF8F2C215B401988E1A1BC39E1D9](jump-to.php?url=https%3A%2F%2Fdisk.pku.edu.cn%3A443%2Flink%2F5797AF8F2C215B401988E1A1BC39E1D9)有效期限：2020-03-25 23:59这是使用北大网盘共享的office 2019  先下载看看
+#quote Androlaxy
+
+#p 21897412 PKUCC 北京大学计算中心 2020-02-25 17:37:42
+您用的是webvpn吗，webvpn可能会出现这个问题
+#quote DamonCC
 
