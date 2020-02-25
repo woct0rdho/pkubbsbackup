@@ -1,4 +1,4 @@
-#t 1465 17556250 al 2020-02-25 00:16:00 boson 2020-02-25 17:56:00
+#t 1465 17556250 al 2020-02-25 00:16:00 euio 2020-02-25 19:38:00
 顶峰已过 拐点未至
 
 #p 21897256 al aluminium 2020-02-25 16:55:28
@@ -17,5 +17,14 @@
 ——你不能……你们媒体千万要注意啊，不要见得风是得雨。这个消息（ [http://www.xinhuanet.com/2020-02/25/c_1125622959.htm](jump-to.php?url=http%3A%2F%2Fwww.xinhuanet.com%2F2020-02%2F25%2Fc_1125622959.htm) 
 [https://www.who.int/zh/dg/speeches/detail/who-director-general-s-opening-remarks-at-the-media-briefing-on-covid-19---24-february-2020](jump-to.php?url=https%3A%2F%2Fwww.who.int%2Fzh%2Fdg%2Fspeeches%2Fdetail%2Fwho-director-general-s-opening-remarks-at-the-media-briefing-on-covid-19---24-february-2020) 
 ），你们媒体本身也要判断，明白这个意思吧？
+#quote al
+
+#p 21897760 qin qin 2020-02-25 19:05:15
+#DELETED
+人数应该还在涨吧？出院人数还没有超过新增？
+#quote al
+
+#p 21897856 euio 耳目一心 2020-02-25 19:37:38
+总数拐点就是新增峰值。
 #quote al
 

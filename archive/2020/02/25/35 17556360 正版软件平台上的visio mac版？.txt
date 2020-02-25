@@ -1,4 +1,4 @@
-#t 35 17556360 doryliu 2020-02-25 18:25:00 Jackieyang 2020-02-25 18:39:00
+#t 35 17556360 doryliu 2020-02-25 00:18:00 doryliu 2020-02-25 19:56:00
 正版软件平台上的visio mac版？
 
 #p 21897633 doryliu 多里 2020-02-25 18:24:31
@@ -7,4 +7,8 @@
 #p 21897668 Jackieyang valkjsaaa 2020-02-25 18:38:28
 Visio 根本没有 macOS 版
 #quote doryliu
+
+#p 21897914 doryliu 多里 2020-02-25 19:55:49
+lol 原来如此 谢谢~
+#quote Jackieyang
 
