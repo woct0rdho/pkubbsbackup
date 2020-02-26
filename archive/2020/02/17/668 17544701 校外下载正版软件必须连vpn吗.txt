@@ -1,4 +1,4 @@
-#t 668 17544701 MatchFilter 2020-02-17 00:11:00 PKUCC 2020-02-25 17:38:00
+#t 668 17544701 MatchFilter 2020-02-17 00:11:00 DamonCC 2020-02-26 22:54:00
 校外下载正版软件必须连vpn吗
 
 #p 21858195 MatchFilter 迷你糖包 2020-02-17 11:04:26
@@ -41,4 +41,12 @@
 #p 21897412 PKUCC 北京大学计算中心 2020-02-25 17:37:42
 您用的是webvpn吗，webvpn可能会出现这个问题
 #quote DamonCC
+
+#p 21903713 Androlaxy 吕大棍 2020-02-26 22:48:22
+感谢您在[https://bbs.pku.edu.cn/v2/post-read-single.php?bid=668&amp;postid=21897334](post-read-single.php?bid=668&amp;postid=21897334)中给我的回复，您使用北大网盘共享的office2019完美的解决了此贴楼主的问题。请问您有北大网盘共享的mac版Adobe Audition吗？谢谢！
+#quote PKUCC
+
+#p 21903754 DamonCC 不会写代码 2020-02-26 22:54:50
+我用的pulse secure
+#quote PKUCC
 
