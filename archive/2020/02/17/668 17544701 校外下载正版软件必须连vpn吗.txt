@@ -1,4 +1,4 @@
-#t 668 17544701 MatchFilter 2020-02-17 00:11:00 DamonCC 2020-02-26 22:54:00
+#t 668 17544701 MatchFilter 2020-02-17 00:11:00 mtlong 2020-02-26 23:11:00
 校外下载正版软件必须连vpn吗
 
 #p 21858195 MatchFilter 迷你糖包 2020-02-17 11:04:26
@@ -49,4 +49,8 @@
 #p 21903754 DamonCC 不会写代码 2020-02-26 22:54:50
 我用的pulse secure
 #quote PKUCC
+
+#p 21903807 mtlong 7atlong 2020-02-26 23:10:46
+我下载win10系统也是同样的问题
+#quote DamonCC
 
