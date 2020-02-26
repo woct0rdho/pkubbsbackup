@@ -1,4 +1,4 @@
-#t 668 17523917 sxpeter 2020-02-06 00:18:00 sxpeter 2020-02-07 19:11:00
+#t 668 17523917 sxpeter 2020-02-06 00:18:00 sxpeter 2020-02-26 18:12:00
 辣鸡移动墙中墙(转载)
 
 #p 21810448 sxpeter  2020-02-06 18:56:20
@@ -19,5 +19,15 @@
 
 #p 21815227 sxpeter  2020-02-07 19:10:53
 已发
+#quote PKUCC
+
+#p 21902377 sxpeter  2020-02-26 18:11:42
+再次抽风
+这回访问不了的是disk.pku.edu.cn
+nslookup结果为
+Name:    disk.lb.pku.edu.cn
+Address:  162.105.180.155
+Aliases:  disk.pku.edu.cn
+照理说我觉得应该没问题啊。。
 #quote PKUCC
 
