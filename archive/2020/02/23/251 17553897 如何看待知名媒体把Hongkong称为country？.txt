@@ -1,4 +1,4 @@
-#t 251 17553897 monolingual 2020-02-23 00:23:00 cbcb 2020-02-26 15:54:00
+#t 251 17553897 monolingual 2020-02-23 00:23:00 school 2020-02-27 13:59:00
 如何看待知名媒体把Hongkong称为country？
 
 #p 21890068 monolingual monolingual 2020-02-23 23:25:08
@@ -101,5 +101,10 @@ taiwan称为 country 也不能忍
 
 #p 21901709 cbcb cybercivelpVonBillbrand 2020-02-26 15:53:57
 不必认为是对中国人的敌意或者希望中国不好，就是政治观念不同而已
+#quote monolingual
+
+#p 21906461 school department 2020-02-27 13:58:12
+维基百科：A country may be an independent sovereign state or part of a larger state,[1] as a non-sovereign or formerly sovereign political division, a physical territory with a government, or a geographic region associated with sets of previously independent or differently associated people with distinct political characteristics. It is not inherently sovereign.
+Countries can refer both to sovereign states and to other political entities,[2] while other times it can refer only to states.[3] For example, the CIA World Factbook uses the word in its "Country name" field to refer to "a wide variety of dependencies, areas of special sovereignty, uninhabited islands, and other entities in addition to the traditional countries or independent states".
 #quote monolingual
 
