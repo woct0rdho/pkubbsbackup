@@ -1,7 +1,7 @@
-#t 251 17560491 Homagod 2020-02-28 11:08:00 Homagod 2020-02-28 11:51:00
+#t 251 17560491 Homagod 2020-02-28 00:11:00 motaguoke 2020-02-28 14:53:00
 美国法院裁定YouTube作为私企无义务保障言论自由
 
-#p 21910392 Homagod 不愉快です 2020-02-28 11:49:56
+#p 21910392 Homagod 不愉快です 2020-02-28 12:17:52
 
 
 2020-02-28 11:08:16
@@ -9,10 +9,12 @@
 <font color="#c00000">美国法官认为YouTube不是公开论坛，因此不是必须要保障用户的言论自由。</font>
 <font color="#c00000">The case involved right-wing channel PragerU, which argued YouTube was infringing its rights by "censoring" its conservative views.</font>
 <font color="#c00000">But judges decided that the US constitution's First Amendment did not apply to YouTube, a private company.</font>
-<font color="#c00000">右翼频道PragerU认为自己保守观点被YouTube和谐了，其权利被侵犯了，但美国的法官们认为美國憲法第一修正案并不适用于作为私企的YouTube</font>
+<font color="#c00000">右翼YouTube频道PragerU认为自己所表达的保守观点遭YouTube“和谐”，其权利被因而侵犯了，但美国的法官们认为美国宪法第一修正案并不适用于作为私企的YouTube</font>
 <font color="#c00000">The landmark ruling by US judges could affect future cases involving freedom of speech online.</font>
 <font color="#c00000">这次标志性的判决可能影响未来一系列围绕网络言论自由的案件</font>
 累了，不翻译了hhh
+Ruling against PragerU's First Amendment claim was ultimately a "straightforward" matter, the appeals-court ruling today said:
+<font color="#0000c0">**Both sides say that the sky will fall if we do not adopt their position. PragerU prophesizes living under the tyranny of big-tech, possessing the power to censor any speech it does not like. YouTube and several amicus curiae, on the other hand, foretell the undoing of the Internet if online speech is regulated. While these arguments have interesting and important roles to play in policy discussions concerning the future of the Internet, they do not figure into our straightforward application of the First Amendment. Because the state action doctrine precludes constitutional scrutiny of YouTube's content moderation pursuant to its Terms of Service and Community Guidelines, we affirm the district court's dismissal of PragerU's First Amendment claim.**</font>
 The decision, by San Francisco's Ninth Circuit appeals court, rejected the conservative news outlet's claims that YouTube had breached the First Amendment by censoring its content.
 PragerU said it was still "not done fighting for free speech" and the appeals court "got this one wrong".
 Jim Killock, from the Open Rights Group, said the ruling was "uncontroversial" and followed established interpretations of free speech law.
@@ -58,4 +60,8 @@ It will be led by British human rights expert Thomas Hughes, who said the board 
 #p 21910644 Homagod 不愉快です 2020-02-28 11:51:00
 刚发现是2017年10月就诉YouTube了==
 #quote himitsu
+
+#p 21911537 motaguoke 孤帆远影 2020-02-28 14:52:57
+因缺思厅
+#quote Homagod
 
