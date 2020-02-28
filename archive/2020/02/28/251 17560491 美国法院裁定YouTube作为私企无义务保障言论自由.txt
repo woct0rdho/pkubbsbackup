@@ -1,0 +1,61 @@
+#t 251 17560491 Homagod 2020-02-28 11:08:00 Homagod 2020-02-28 11:51:00
+美国法院裁定YouTube作为私企无义务保障言论自由
+
+#p 21910392 Homagod 不愉快です 2020-02-28 11:49:56
+
+
+2020-02-28 11:08:16
+<font color="#c00000">YouTube is not a "public forum" that must guarantee users' rights to free speech, a US court has ruled.</font>
+<font color="#c00000">美国法官认为YouTube不是公开论坛，因此不是必须要保障用户的言论自由。</font>
+<font color="#c00000">The case involved right-wing channel PragerU, which argued YouTube was infringing its rights by "censoring" its conservative views.</font>
+<font color="#c00000">But judges decided that the US constitution's First Amendment did not apply to YouTube, a private company.</font>
+<font color="#c00000">右翼频道PragerU认为自己保守观点被YouTube和谐了，其权利被侵犯了，但美国的法官们认为美國憲法第一修正案并不适用于作为私企的YouTube</font>
+<font color="#c00000">The landmark ruling by US judges could affect future cases involving freedom of speech online.</font>
+<font color="#c00000">这次标志性的判决可能影响未来一系列围绕网络言论自由的案件</font>
+累了，不翻译了hhh
+The decision, by San Francisco's Ninth Circuit appeals court, rejected the conservative news outlet's claims that YouTube had breached the First Amendment by censoring its content.
+PragerU said it was still "not done fighting for free speech" and the appeals court "got this one wrong".
+Jim Killock, from the Open Rights Group, said the ruling was "uncontroversial" and followed established interpretations of free speech law.
+But he also said the case was part of a continuing row over who made censorship decisions online: "Instinctively, if something is in a public space, why should some content be restricted? Why should a company make that decision?" he said.
+The First Amendment to the US constitution is part of the country's landmark Bill of Rights, from 1791. Among the declarations, it guarantees that the government will not "abridge" the freedom of speech in law.
+That guarantee is between the government and the people - and does not usually involve private companies. But there are rare exceptions in cases where a company becomes a "state actor", performing a public function.How far do free speech protections go in the US?Facebook apologises to right-wing siteTwitter admits 'unfairly' hiding accounts
+In the case of PragerU, YouTube had removed advertising from dozens of videos that present right-wing views, setting some of them to "restricted mode" for adult viewing only.
+The channel is part of a non-profit founded by conservative radio host Dennis Prager, and has nearly 2.5 million subscribers, but it has attracted significant criticism for its videos, including ones on "harnessing" masculine aggression and the nature of Islam.
+PragerU argued that YouTube's size and power meant that the world's biggest video platform was effectively a public space, and it was censoring conservative viewpoints.
+But the court decided on a "straightforward application" of the first amendment, and dismissed the appeal.
+"Despite YouTube's ubiquity and its role as a public-facing platform, it remains a private forum, not a public forum," the court said.
+PragerU's Craig Strazzeri said: "Of course this ruling is disappointing, but we won't stop fighting and spreading public awareness of Big Tech's censorship of conservative ideas."Censorship or moderation
+Mr Killock said the case reflected the problem with content moderation in large companies such as Facebook and Google (which owns YouTube).
+Much of the dispute centres around content that is perfectly legal - but upsetting to some groups.
+He highlighted a model of content moderation recently announced by Facebook, where an independent oversight board will have the power to overrule the company's decisions.
+It will be led by British human rights expert Thomas Hughes, who said the board is committed to protecting free expression and human rights.
+"The problem is they're so large, any restriction affects a large number of people," he said. "Setting the boundaries is a very complex topic," Mr Killock said.
+"They do become de facto public spaces - and whatever decision they come to will be controversial".
+
+#p 21910501 himitsu 神山よしか 2020-02-28 11:25:49
+
+
+2020-02-28 11:25:31
+原告肯定会上诉的
+而且这个案子肯定是不搞到最高法院不罢休的（无论二审是谁败诉）
+#quote Homagod
+
+#p 21910505 Homagod 不愉快です 2020-02-28 11:25:55
+我看也是
+#quote himitsu
+
+#p 21910521 zhangyuqi 张 2020-02-28 11:28:57
+
+
+2020-02-28 11:28:31
+对。YouTube不是一般意义的私企，而是有着强大公共影响力的私企，自然要承担公共责任，包括保障公众言论自由。类比一些著名的私立高等院校，同样需要承担起一部分公立高等院校的社会责任的
+#quote himitsu
+
+#p 21910530 himitsu 神山よしか 2020-02-28 11:29:19
+而且现在联邦最高法院上是保守派占优势地位
+#quote zhangyuqi
+
+#p 21910644 Homagod 不愉快です 2020-02-28 11:51:00
+刚发现是2017年10月就诉YouTube了==
+#quote himitsu
+
