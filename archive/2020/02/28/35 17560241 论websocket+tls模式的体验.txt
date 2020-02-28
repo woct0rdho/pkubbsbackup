@@ -1,4 +1,4 @@
-#t 35 17560241 MetatronCube 2020-02-28 07:03:00 MetatronCube 2020-02-28 07:07:00
+#t 35 17560241 MetatronCube 2020-02-28 00:07:00 YUHE 2020-02-28 16:55:00
 论websocket+tls模式的体验
 
 #p 21909592 MetatronCube 神蚀 2020-02-28 07:03:26
@@ -12,5 +12,9 @@ v2ray在ws模式下打开google主页需要的时间：
 #p 21909599 MetatronCube 神蚀 2020-02-28 07:06:53
 我是被QoS限制了吗？
 魔改bbr和锐速都试过了
+#quote MetatronCube
+
+#p 21912122 YUHE YUHE 2020-02-28 16:54:45
+这个主要是线路问题吧，半夜一般高峰期，延迟高，丢包多
 #quote MetatronCube
 
