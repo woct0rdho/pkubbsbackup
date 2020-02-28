@@ -1,0 +1,16 @@
+#t 35 17560241 MetatronCube 2020-02-28 07:03:00 MetatronCube 2020-02-28 07:07:00
+论websocket+tls模式的体验
+
+#p 21909592 MetatronCube 神蚀 2020-02-28 07:03:26
+v2ray在ws模式下打开google主页需要的时间：
+早晨半秒钟
+上午一秒钟
+下午两秒钟
+晚上三秒钟
+半夜五秒钟
+
+#p 21909599 MetatronCube 神蚀 2020-02-28 07:06:53
+我是被QoS限制了吗？
+魔改bbr和锐速都试过了
+#quote MetatronCube
+
