@@ -1,4 +1,4 @@
-#t 1465 17560196 monolingual 2020-02-28 00:05:00 lea 2020-02-28 09:51:00
+#t 1465 17560196 monolingual 2020-02-28 00:05:00 alaala 2020-02-28 10:31:00
 香港一狗感染新冠病毒
 
 #p 21909501 monolingual monolingual 2020-02-28 05:44:30
@@ -18,5 +18,29 @@
 #p 21910032 lea 无爱即无忧 2020-02-28 09:51:04
 除了耐热性，还有啥是没经过现实检验的，这病毒未来是可以入教科书的了...
 据美国最近研究，青藏高原冰川消融，又有至少28种病毒将现世，真刺激吖...
+#quote monolingual
+
+#p 21910137 monolingual monolingual 2020-02-28 10:15:22
+#quote lea
+🐷也要小心啊
+
+#p 21910141 monolingual monolingual 2020-02-28 10:15:59
+#quote MYFYWITWW
+狗现在也要隔离啦 还要隔离该狗接触过的其他狗
+
+#p 21910144 monolingual monolingual 2020-02-28 10:16:36
+#quote tronphy
+升级了动物传播（
+
+#p 21910149 zheshishenme 消息发布｜这是什么 2020-02-28 10:17:25
+合理怀疑假阳，
+以及一波动物人道主义者该出来了
+#quote monolingual
+
+#p 21910203 alaala alaala 2020-02-28 10:30:41
+确诊患者的狗，可能只是“沾染”  而不是感染。
+新闻链接：[https://news.sina.cn/gn/2020-02-28/detail-iimxyqvz6403614.d.html?sinawapsharesource=newsapp&amp;wm=3200&amp;from=timeline&amp;isappinstalled=0](jump-to.php?url=https%3A%2F%2Fnews.sina.cn%2Fgn%2F2020-02-28%2Fdetail-iimxyqvz6403614.d.html%3Fsinawapsharesource%3Dnewsapp%26wm%3D3200%26from%3Dtimeline%26isappinstalled%3D0)
+渔护署于26日接获卫生署消息称，一名新冠肺炎确诊者的狗需交予渔护署处理。渔护署人员同日傍晚到大坑一住所接走这条狗，随即送往港珠澳大桥口岸动物居留所，并从其<font color="#0000c0">**口腔，鼻腔及肛门抽取样本进行新型冠状病毒测试。结果反应其口腔及鼻腔的样本在测试中呈弱阳性反应。但这条狗并无任何相关病征。**</font>
+虽然渔护署现时没有数据证明宠物会感染而发病或传播新冠肺炎，但署方对这条狗会进行密切监察，并进一步抽取样本化验，以确定该狗是已感染该病毒或是其口及鼻部从环境中<font color="#c00000">**沾染病毒**</font>。
 #quote monolingual
 
