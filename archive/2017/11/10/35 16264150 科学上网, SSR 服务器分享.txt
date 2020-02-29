@@ -1,4 +1,4 @@
-#t 35 16264150 hiaoxui 2017-11-10 00:00:00 JackD 2020-02-29 13:56:00
+#t 35 16264150 hiaoxui 2017-11-10 00:00:00 gtskevin 2020-02-29 23:02:00
 科学上网, SSR 服务器分享
 
 #p 17134091 hiaoxui 小辉 2019-11-16 04:36:36
@@ -2089,4 +2089,13 @@ IPv6 丢包率奇高, 至今不知道为什么. 印象里丢包率直逼 50%.
 #p 21916325 JackD 睡不醒的小强 2020-02-29 13:55:25
 请问有好的V2ray下载渠道么，随便下的有点不敢安装。。。
 #quote sophielqh
+
+#p 21918764 sophielqh sophie 2020-02-29 22:32:31
+我是跟着楼里的教程下的 [http://www.liuhai.net/580.html?__cf_chl_jschl_tk__=0df3d6ae3452a26f50d288d7d321cebd5fc8ef24-1581690333-0-AZGzpF87YffoPX_W0sYxE8Oz_LqlAsf4Jbw7Qi_Ub23WoCVbybs50BN3u7Fq_ANNT0Baqcf9fqxXtPVZHwSsP1Z1ICMFrRPbEHDTVaodJJ6qEqKXKWSbBRH3UM7jWJaaPpXc2hPtDoXZ59l9xOBOqjWFtq53RyzsqjcS5RLFpscNnNk_ObOe25-1e_mo1AKl65ip1SJxBevmvOn9TZQ5XkHCDj0NqqJQtWYJdQ951HcUSlHf6iCN0HbwkgXeqaHv9Xr527evmfZAmqVqjmIu4go](jump-to.php?url=http%3A%2F%2Fwww.liuhai.net%2F580.html%3F__cf_chl_jschl_tk__%3D0df3d6ae3452a26f50d288d7d321cebd5fc8ef24-1581690333-0-AZGzpF87YffoPX_W0sYxE8Oz_LqlAsf4Jbw7Qi_Ub23WoCVbybs50BN3u7Fq_ANNT0Baqcf9fqxXtPVZHwSsP1Z1ICMFrRPbEHDTVaodJJ6qEqKXKWSbBRH3UM7jWJaaPpXc2hPtDoXZ59l9xOBOqjWFtq53RyzsqjcS5RLFpscNnNk_ObOe25-1e_mo1AKl65ip1SJxBevmvOn9TZQ5XkHCDj0NqqJQtWYJdQ951HcUSlHf6iCN0HbwkgXeqaHv9Xr527evmfZAmqVqjmIu4go)
+目前用着没有问题
+#quote JackD
+
+#p 21918894 gtskevin 子feng 2020-02-29 23:02:05
+楼主辛苦了 非常感谢！
+#quote hiaoxui
 
