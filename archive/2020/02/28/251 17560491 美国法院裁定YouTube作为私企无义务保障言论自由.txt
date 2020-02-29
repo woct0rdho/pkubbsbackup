@@ -1,4 +1,4 @@
-#t 251 17560491 Homagod 2020-02-28 00:11:00 Homagod 2020-02-28 16:40:00
+#t 251 17560491 Homagod 2020-02-28 00:11:00 nestal 2020-02-29 08:55:00
 美国法院裁定YouTube作为私企无义务保障言论自由
 
 #p 21910392 Homagod 不愉快です 2020-02-28 12:17:52
@@ -72,4 +72,8 @@ It will be led by British human rights expert Thomas Hughes, who said the board 
 #p 21912022 Homagod 不愉快です 2020-02-28 16:39:49
 是的
 #quote twowater
+
+#p 21914741 nestal 天线宝宝 2020-02-29 08:54:44
+那你猜如果这个案子到了最高法院，保守派到底会为了维护非政府主体的不保障言论自由的自由，从而让保守派原告败诉，还是为了支持保守派原告，把宪法义务强加到个人/私企头上？
+#quote himitsu
 
