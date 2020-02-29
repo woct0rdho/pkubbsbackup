@@ -1,4 +1,4 @@
-#t 668 17561691 albertfreud 2020-02-29 00:08:00 albertfreud 2020-02-29 13:30:00
+#t 668 17561691 albertfreud 2020-02-29 00:08:00 yufeicao 2020-02-29 15:46:00
 已经崩溃，对vpn已经失去了耐心，请求帮助
 
 #p 21914686 albertfreud PKU 2020-02-29 08:19:20
@@ -63,5 +63,9 @@ Do you really want to exit?和这句话有关吗，
 
 #p 21916217 albertfreud PKU 2020-02-29 13:29:43
 pulse secure在main program 以外还会开启一个satellite program 常驻后台保持通讯，satallite program被我不小心禁止了
+#quote albertfreud
+
+#p 21916871 yufeicao 飞鹰 2020-02-29 15:46:00
+用了几次，速度还挺快的
 #quote albertfreud
 

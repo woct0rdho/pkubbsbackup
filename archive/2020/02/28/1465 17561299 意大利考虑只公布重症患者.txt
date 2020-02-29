@@ -1,4 +1,4 @@
-#t 1465 17561299 NON 2020-02-28 00:23:00 Zusammen 2020-02-29 14:44:00
+#t 1465 17561299 NON 2020-02-28 00:23:00 twowater 2020-02-29 15:45:00
 意大利考虑只公布重症患者
 
 #p 21913804 NON 再定？ 2020-02-28 23:27:52
@@ -25,4 +25,15 @@
 2. 找到类似新闻是这个：[https://www.ilmessaggero.it/italia/coronavirus_controlli_tampone_sintomi_ultime_notizie_27_febbraio-5077073.html](jump-to.php?url=https%3A%2F%2Fwww.ilmessaggero.it%2Fitalia%2Fcoronavirus_controlli_tampone_sintomi_ultime_notizie_27_febbraio-5077073.html) （意大利语），也有英文媒体报道：[https://apnews.com/6c7e40fbec09858a3b4dbd65fe0f14f5](jump-to.php?url=https%3A%2F%2Fapnews.com%2F6c7e40fbec09858a3b4dbd65fe0f14f5) 这个应该已经开始实行了，这个英文媒体报道的说这个测试方法的改变是WHO给意大利政府提出的建议。。。以减少恐慌。话说回来，意大利病死率快赶上伊朗了，跟同一时期爆发的韩国比高了三倍还多。韩国目前报道是对新天地所有成员测试核酸，很多确诊的人都还没有症状。（想到了无症状感染者不算感染者）
 3.地方政府通过修改一些病例定义等等的nuance，从而到达政治目的的情况应该是存在的。
 #quote aruki
+
+#p 21916737 aruki aruki 2020-02-29 15:12:51
+非常感谢！
+看了一下您贴的报道。根据这些报道的说法，意大利先前是对曾经到过某些地区的【所有人】做检查，而目前是仅对【有症状的人】做检查。这当然是挺正常的。然而哪怕只是这样，也有媒体质疑，这是刻意想压低确诊病例数。
+至于这个新闻为什么在国内被传成“意大利考虑只公布重症”，各大门户相关新闻搜索结果很多，我也不知道～～
+@NON，您如果有进一步论据，欢迎给出。
+#quote Zusammen
+
+#p 21916869 twowater 徐二水 2020-02-29 15:45:13
+是收紧了检测标准，好像现在各国都流行这么干。。。民主啊
+#quote NON
 
