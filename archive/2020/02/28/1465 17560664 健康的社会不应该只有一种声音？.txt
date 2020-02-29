@@ -1,4 +1,4 @@
-#t 1465 17560664 NON 2020-02-28 00:13:00 thinky 2020-02-29 08:09:00
+#t 1465 17560664 NON 2020-02-28 00:13:00 paull 2020-02-29 12:43:00
 健康的社会不应该只有一种声音？
 
 #p 21911210 NON 再定？ 2020-02-28 13:28:48
@@ -21,4 +21,20 @@
 #p 21914673 thinky 披风罗汉 2020-02-29 08:08:54
 👍
 #quote clinchenlin
+
+#p 21915930 aruki aruki 2020-02-29 12:32:25
+搜了下报道。
+CNN用了cronavirus czar（新冠沙皇）这个词指Deborah L Birx（他确实是医学博士）。
+[https://www.cnn.com/2020/02/27/politics/mike-pence-coronavirus-deborah-birx/index.html](jump-to.php?url=https%3A%2F%2Fwww.cnn.com%2F2020%2F02%2F27%2Fpolitics%2Fmike-pence-coronavirus-deborah-birx%2Findex.html)
+NYTIMES冗长的报道中夹了这么一段。
+The decision to bring in Mr. Pence was not without controversy. （对彭斯的任命并非没有争议）
+Critics of the vice president pointed to Mr. Pence’s record on public health when he was the governor of Indiana as evidence that he was not the right person to lead the government’s response to a health crisis. Democrats noted that Mr. Pence was blamed for aggravating a severe AIDS outbreak among intravenous drug users when he opposed calls for a clean needle exchange program on the grounds it would encourage more drug use.
+Speaker Nancy Pelosi told reporters that she had told Mr. Pence directly that she questioned his new role given that as governor, he had “slashed” the public health budget in Indiana.
+[https://www.nytimes.com/2020/02/27/us/politics/us-coronavirus-pence.html](jump-to.php?url=https%3A%2F%2Fwww.nytimes.com%2F2020%2F02%2F27%2Fus%2Fpolitics%2Fus-coronavirus-pence.html)
+事实上楼主贴的新闻里面（比如引用的《纽约时报》的报道），媒体居然不是那个统一的，昂扬的，拥护的，多难兴邦的调子，就已经能说明问题了。
+#quote NON
+
+#p 21915996 paull Loooong 2020-02-29 12:43:05
+我国有自媒体对大众媒体做为补充，例如"方舱医院里没有新闻"
+#quote aruki
 
