@@ -1,4 +1,4 @@
-#t 668 17561691 albertfreud 2020-02-29 00:08:00 Gitanjali 2020-02-29 10:46:00
+#t 668 17561691 albertfreud 2020-02-29 00:08:00 albertfreud 2020-02-29 11:33:00
 已经崩溃，对vpn已经失去了耐心，请求帮助
 
 #p 21914686 albertfreud PKU 2020-02-29 08:19:20
@@ -16,5 +16,40 @@ mac OS 10.15.1使用无问题，建议试试openconnect-gui，或者openconnect�
 
 #p 21915228 Gitanjali Gitanjali 2020-02-29 10:46:41
 VPN前几日连接正常，最近突然崩溃
+#quote albertfreud
+
+#p 21915378 lfswongc Peter the Great XD 2020-02-29 11:14:50
+對，win10用戶，最近幾天也碰到這問題
+除非重啟電腦
+#quote albertfreud
+
+#p 21915387 albertfreud PKU 2020-02-29 11:15:31
+试了，而且特别把它添加到白名单，还是network error, 
+#quote PKUCC
+
+#p 21915396 albertfreud PKU 2020-02-29 11:16:35
+我是15.3，是系统的原因吗，open connect-gui找不到输入学号密码的地方呀，谢谢回复
+#quote wds
+
+#p 21915404 albertfreud PKU 2020-02-29 11:17:34
+发现一个特点，只能在安装的时候用一次，以后再用就不行了，而且任务栏小图标也会消失了。
+#quote PKUCC
+
+#p 21915410 albertfreud PKU 2020-02-29 11:18:18
+重启电脑也没用。这个软件好垃圾，还不如个人写的软件
+#quote lfswongc
+
+#p 21915445 albertfreud PKU 2020-02-29 11:21:25
+在家还要搬砖，求帮助
+#quote PKUCC
+
+#p 21915491 albertfreud PKU 2020-02-29 11:27:18
+Exiting Pulse Secure may disable some of your network connections until you restart Pulse Secure.
+You can restart Pulse Secure by running it from the applications list.
+Do you really want to exit?和这句话有关吗，
+#quote PKUCC
+
+#p 21915525 albertfreud PKU 2020-02-29 11:32:42
+问题解决了 ，
 #quote albertfreud
 
