@@ -1,4 +1,4 @@
-#t 668 17561691 albertfreud 2020-02-29 08:20:00 PKUCC 2020-02-29 09:04:00
+#t 668 17561691 albertfreud 2020-02-29 00:08:00 Gitanjali 2020-02-29 10:46:00
 已经崩溃，对vpn已经失去了耐心，请求帮助
 
 #p 21914686 albertfreud PKU 2020-02-29 08:19:20
@@ -8,5 +8,13 @@
 
 #p 21914759 PKUCC 北京大学计算中心 2020-02-29 09:03:37
 可能与系统的安全软件或安全配置有关，试试如下操作: 进入系统偏好设置，选择安全性隐私，在通用里选择允许App Store和被认可的开发者，同时检查隐私和防火墙选项，允许程序的写入和运行。如果系统安装有第三方安全软件也请予以检查。
+#quote albertfreud
+
+#p 21915151 wds @B*t9 2020-02-29 10:32:24
+mac OS 10.15.1使用无问题，建议试试openconnect-gui，或者openconnect命令行。pulse secure在windows上经常出问题，mac上比较少。
+#quote albertfreud
+
+#p 21915228 Gitanjali Gitanjali 2020-02-29 10:46:41
+VPN前几日连接正常，最近突然崩溃
 #quote albertfreud
 
