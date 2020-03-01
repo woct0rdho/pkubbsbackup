@@ -1,4 +1,4 @@
-#t 35 17540916 xuyimiao 2020-02-14 00:15:00 jianmei 2020-03-01 11:13:00
+#t 35 17540916 xuyimiao 2020-02-14 00:15:00 cathykong 2020-03-02 00:53:00
 最近墙的厉害，分享一个自建V2ray
 
 #p 21845121 xuyimiao 续逸淼 2020-02-14 15:26:25
@@ -218,5 +218,9 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogInh1eWltaWFvIiwNCiAgImFkZCI6ICJ4dXlpbWlh
 
 #p 21920598 jianmei 剑梅 2020-03-01 11:13:00
 非常感谢楼主的热心分享！正好能用上。😃
+#quote xuyimiao
+
+#p 21923968 cathykong 化身孤岛的鲸 2020-03-02 00:53:29
+感谢楼主拯救于水火之中！！
 #quote xuyimiao
 
