@@ -1,4 +1,4 @@
-#t 251 17563997 masteryoda 2020-03-01 00:17:00 coldda 2020-03-01 20:32:00
+#t 251 17563997 masteryoda 2020-03-01 00:17:00 huanghuayang 2020-03-01 22:56:00
 有什么比较好的平a游戏推荐？
 
 #p 21922336 masteryoda master yoda 2020-03-01 17:53:39
@@ -45,7 +45,7 @@ DOTA2 玩卡尔。
 建议先玩空洞骑士，简单易上手，画风朴实，配置要求低。
 #quote masteryoda
 
-#p 21922848 yawnlon yawnlon 2020-03-01 20:13:57
+#p 21922848 yawnlon miehaha 2020-03-01 20:13:57
 只狼，会平A和防御就行，技能都不用学的
 #quote masteryoda
 
@@ -56,4 +56,8 @@ DOTA2 玩卡尔。
 #p 21922914 coldda CNS解剖 2020-03-01 20:31:10
 奥日，空洞骑士
 #quote thinky
+
+#p 21923532 huanghuayang 海拉鲁小霸王 2020-03-01 22:56:49
+只狼，只需要会按两个键，L1和R1
+#quote masteryoda
 
