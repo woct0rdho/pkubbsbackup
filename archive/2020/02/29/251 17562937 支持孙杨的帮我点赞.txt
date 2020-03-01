@@ -1,4 +1,4 @@
-#t 251 17562937 bobprime 2020-02-29 00:22:00 coldda 2020-03-01 20:33:00
+#t 251 17562937 bobprime 2020-02-29 00:22:00 bobprime 2020-03-02 05:47:00
 支持孙杨的帮我点赞
 
 #p 21918780 bobprime bobprime 2020-02-29 22:36:48
@@ -36,4 +36,8 @@
 #p 21922921 coldda CNS解剖 2020-03-01 20:32:26
 笑死我
 #quote bobprime
+
+#p 21924335 bobprime bobprime 2020-03-02 05:47:29
+为啥笑死呢
+#quote coldda
 
