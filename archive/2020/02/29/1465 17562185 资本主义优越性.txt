@@ -1,14 +1,14 @@
-#t 1465 17562185 Dondonda 2020-02-29 00:15:00 motaguoke 2020-03-02 00:55:00
+#t 1465 17562185 Dondonda 2020-02-29 00:15:00 deardeer 2020-03-02 01:59:00
 资本主义优越性
 
-#p 21916838 Dondonda Dondonda 2020-03-01 18:06:38
+#p 21916838 Dondonda Dondonda 2020-03-02 01:28:27
 
 
 2020-02-29 15:39:50
 一目了然
 ####补充，转自30楼
 [https://www.economist.com/graphic-detail/2020/02/18/diseases-like-covid-19-are-deadlier-in-non-democracies](jump-to.php?url=https%3A%2F%2Fwww.economist.com%2Fgraphic-detail%2F2020%2F02%2F18%2Fdiseases-like-covid-19-are-deadlier-in-non-democracies)
-资本主义主旋律：民主包治百病
+资本主义主旋律：“民主”包治百病
 
 #p 21917376 everyoneeeee somnusM 2020-02-29 17:27:58
 药店碧莲，把纵坐标加上
@@ -633,8 +633,11 @@ you can be open, or you can have a goverment
 按照会变坏的逻辑，对轻症不检测就会造成更多对传播，越来越多的人会发展到重症从而检测出越来越多的病例，也会传染保护不好的医护人员，造成医疗资源短缺。然而，日本并没有很多人发展到重症进行检测，没有报道出医护人员大量发病，也没看到爆发的现象，至少目前看是这样的。这个逻辑是，对轻症不检测让他们自我隔离和自己康复，能大大降低社会恐慌，说不定也会有用。不过，这种政策也是赌一把，没人能给出准确的预测。
 #quote paull
 
-#p 21923894 cbcb cybercivelpVonBillbrand 2020-03-02 00:38:57
-别的国家都是白痴，就您和您的政府政策聪明。
+#p 21923894 cbcb cybercivelpVonBillbrand 2020-03-02 00:57:40
+
+
+2020-03-02 00:38:57
+别的国家都是白痴，就您和您的政府政策聪明。别的国家都拿人命不当人命，就您的政府视人的生命为第一。您自己觉得是这么回事么
 #quote Au
 
 #p 21923898 Homagod 不愉快です 2020-03-02 00:39:42
@@ -662,4 +665,86 @@ you can be open, or you can have a goverment
 我也觉得是，我倒希望日本能控制住，毕竟控制不住了谁都跑不了……
 但是结合汉口人民年前轻松愉悦的气氛，而后人数迅速上升的情况来看，我不太乐观……但愿我是错的
 #quote Zusammen
+
+#p 21923985 Zusammen 鸣龙大仙 2020-03-02 00:59:57
+日本现在还是有一定防护措施的嘛，也停课和停止大型活动了。还是要比武汉（原发地）疾病爆发前的控制措施强很多。这种策略如果有用，我国出湖北外的地区复工的过程中也会更加安心一些。
+#quote motaguoke
+
+#p 21923990 paull Loooong 2020-03-02 01:01:43
+日本政府一路把福岛核电站事件拖成7级，难道是下大棋？
+#quote cbcb
+
+#p 21924000 cbcb cybercivelpVonBillbrand 2020-03-02 01:08:50
+
+
+2020-03-02 01:05:10
+中国处理这次疫情也有拖延啊。能别提以前怎样别提别的么。别的国家没有中国这么多强制措施不代表他们的政策就没有科学性啊。
+#quote paull
+
+#p 21924008 paull Loooong 2020-03-02 01:08:28
+没有人攻击他们的强制性，大家看的都是结果。国外都不是病毒的原发地，他们的增长速度可比中国非原发地省快多了。
+钻石公主号早处理根本不会拖成那样，就说上面的红区绿区的划分和管理，"连塞拉利昂都不如"，这难道不是不把人民生命当回事？
+#quote cbcb
+
+#p 21924016 wqw 快青 2020-03-02 01:12:28
+复工和隔离本身就是矛盾的
+#quote Dondonda
+
+#p 21924018 cbcb cybercivelpVonBillbrand 2020-03-02 01:13:31
+钻石公主号上有死人吗？我都不知道。别的国家大概把这次的肺炎当成大号的流感。感染的人有一部分是轻症，可以自愈。对重症的人都会积极治疗。
+#quote paull
+
+#p 21924023 lea 无爱即无忧 2020-03-02 01:14:47
+据说，日本是民间给力、官方差劲，贵国靠着“制度先进”则相反...
+于是面对不同的灾难，各自就有不同的优势和劣势...
+#quote paull
+
+#p 21924033 cbcb cybercivelpVonBillbrand 2020-03-02 01:21:09
+我觉得中国官方除了控制新闻和整一堆闲人在小区门口强制所有人走在马路上都要戴口罩以外，别的也没有很给力。。。难道腐败成那样的养出郭美美的红十字会不算官方机构么。红十字会那种德行，政府也好不到哪去。大力生产口罩防护服什么的难道还不是都靠民间企业。个人观点。。
+#quote lea
+
+#p 21924037 cbcb cybercivelpVonBillbrand 2020-03-02 01:23:58
+在地铁里火车里教室里或许应该强制戴口罩。现在中国是走在露天的马路上都要没病带口罩。拙见这是不是也太过了。
+#quote Au
+
+#p 21924045 Au 喂 2020-03-02 01:29:07
+我有说前面那些观点吗？  就这么喜欢扣帽子。
+看报道那么多没有武汉接触的人得了病，难道不能让宣传让大家带口罩？ 谁知道自己旁边做的是不是武汉接触史的病人？
+#quote cbcb
+
+#p 21924046 deardeer deardeer 2020-03-02 01:30:04
+没人强制你在大马路上戴口罩，只不过你自己不带看到别人都带你可能会不好意思，然后就开始喷别人都带？这个逻辑不对吧？戴口罩不是强制的，就是自保用，你不爱带的话真的可以不带。
+#quote cbcb
+
+#p 21924048 cbcb cybercivelpVonBillbrand 2020-03-02 01:32:19
+有人强制我。
+#quote deardeer
+
+#p 21924051 cbcb cybercivelpVonBillbrand 2020-03-02 01:44:05
+
+
+2020-03-02 01:34:34
+别人爱带带去，我有喷那些自己想戴的人吗，我只是喷那些闲的没事强迫我走马路上都随时要带口罩的人。露天场合带口罩本来就没用。没病的人露天场合带口罩更没用。
+#quote cbcb
+
+#p 21924062 cbcb cybercivelpVonBillbrand 2020-03-02 01:39:36
+露天场合带口罩没用。
+#quote Au
+
+#p 21924084 Au 喂 2020-03-02 01:50:03
+您现在这样说，是因为大多数人认识到了严重性，尽量减少上马路，戴上了口罩。   要是都像您这样，马路上人多了，都不带口罩，人口密度和室内也没查多少吧，一位认为自己没病的病人一个喷嚏打到您脸上，总是不好的吧。
+PS：露天场合戴口罩没用，请问科学证明确实没用？我之前倒没听说过这个观点，如果您是专业的，那我错了，给您道歉。
+#quote cbcb
+
+#p 21924093 lazyted lazy 2020-03-02 01:54:37
+哪个国家资本家可以随意996裁员？
+#quote liuyz
+
+#p 21924094 cbcb cybercivelpVonBillbrand 2020-03-02 01:55:11
+我反正是从sars那会就看到过说露天的场合不需要带口罩。。随便搜了个文章。。[https://www.baidu.com/link?url=57aywD0Q6WTnl7XKbIHuEttGltdlQIr0b4cdLe1gxoYwgM_A09yT-EJ-fjtVdW2ajNgmGuxH0bHmma8EM_oXH_&amp;wd=&amp;eqid=d02c81a3000cc87e000000025e5bf615](jump-to.php?url=https%3A%2F%2Fwww.baidu.com%2Flink%3Furl%3D57aywD0Q6WTnl7XKbIHuEttGltdlQIr0b4cdLe1gxoYwgM_A09yT-EJ-fjtVdW2ajNgmGuxH0bHmma8EM_oXH_%26wd%3D%26eqid%3Dd02c81a3000cc87e000000025e5bf615)
+#quote Au
+
+#p 21924099 deardeer deardeer 2020-03-02 01:58:26
+那……只能去建设他们了(狗头)
+#quote cbcb
 
