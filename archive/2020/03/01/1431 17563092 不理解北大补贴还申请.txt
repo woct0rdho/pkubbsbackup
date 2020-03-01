@@ -1,4 +1,4 @@
-#t 1431 17563092 yangbiao 2020-03-01 00:00:00 traveller 2020-03-01 22:50:00
+#t 1431 17563092 yangbiao 2020-03-01 00:00:00 boson 2020-03-01 23:58:00
 不理解北大补贴还申请
 
 #p 21919303 yangbiao 阿尔泰尔 2020-03-01 00:38:32
@@ -45,6 +45,7 @@
 #quote yangbiao
 
 #p 21920601 Pejoy 1601110370 2020-03-01 11:13:24
+#DELETED
 [https://m.baidu.com/sf_baijiahao/s?id=1655612996360044777&amp;wfr=spider&amp;for=pc](jump-to.php?url=https%3A%2F%2Fm.baidu.com%2Fsf_baijiahao%2Fs%3Fid%3D1655612996360044777%26wfr%3Dspider%26for%3Dpc)
 #quote yangbiao
 
@@ -255,4 +256,9 @@ tql
 #p 21923501 traveller 冰之旅行者 2020-03-01 22:50:31
 所以说国务院开设微信通道还是很必要的，虽然我举报的事情不大，但是事后确实得到反馈了。
 #quote yczxxyy
+
+#p 21923741 boson boson 2020-03-01 23:58:03
+看成了：不理解北大还申请补贴
+(sorry
+#quote yangbiao
 
