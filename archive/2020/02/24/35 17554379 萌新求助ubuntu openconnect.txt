@@ -1,4 +1,4 @@
-#t 35 17554379 pkucqw 2020-02-24 00:09:00 MasterXJ 2020-02-24 21:42:00
+#t 35 17554379 pkucqw 2020-02-24 00:09:00 parkourcx 2020-03-04 00:16:00
 萌新求助ubuntu openconnect
 
 #p 21891158 pkucqw pkucqw 2020-02-24 09:44:20
@@ -7,5 +7,9 @@
 #p 21894077 MasterXJ Master 2020-02-24 21:42:00
 你需要加 --juniper 选项：
 [https://bbs.pku.edu.cn/v2/post-read-single.php?bid=13&amp;postid=15031471](post-read-single.php?bid=13&amp;postid=15031471)
+#quote pkucqw
+
+#p 21936191 parkourcx 泡泡的泡泡 2020-03-04 16:04:36
+sudo openconnect -u 学号 [https://vpn.pku.edu.cn](jump-to.php?url=https%3A%2F%2Fvpn.pku.edu.cn) --protocol=nc -v
 #quote pkucqw
 

@@ -1,0 +1,288 @@
+#t 1465 17566280 huayuankou 2020-03-03 00:12:00 dir 2020-03-04 17:52:00
+美国CDC停止公布新冠病毒检测和死亡人数
+
+#p 21930465 huayuankou 猪芳芳 | 小锤仔 2020-03-03 13:52:43
+
+
+2020-03-03 12:26:13
+最初的消息在Twitter上由@JuddLegum发布。消息发布于东海岸下午，目前墙外各大媒体一片安详。不过Twitter和Facebook上炸锅了。
+我自己做的验证（需要翻墙）：
+图一截自[https://www.cdc.gov/coronavirus/2019-ncov/cases-in-us.html](jump-to.php?url=https%3A%2F%2Fwww.cdc.gov%2Fcoronavirus%2F2019-ncov%2Fcases-in-us.html)
+图二截自[https://webcache.googleusercontent.com/search?q=cache:uzgAntAco5gJ:https://www.cdc.gov/coronavirus/2019-ncov/cases-in-us.html+&amp;cd=2&amp;hl=en&amp;ct=clnk&amp;gl=ca](jump-to.php?url=https%3A%2F%2Fwebcache.googleusercontent.com%2Fsearch%3Fq%3Dcache%3AuzgAntAco5gJ%3Ahttps%3A%2F%2Fwww.cdc.gov%2Fcoronavirus%2F2019-ncov%2Fcases-in-us.html%2B%26cd%3D2%26hl%3Den%26ct%3Dclnk%26gl%3Dca)，这个是Google cache，意思是这个cache的时间是 2 Mar 2020 11:33:48 GMT。
+可以看到，图二中2月29日的数据有Total tested和Total deaths这两行（edit：补充到了上面的glance），而图一中3月2日的数据却没有。
+edit：
+华盛顿州死亡数6例
+我查到的最早的报道可以追溯到15小时前（美东时间3月2日上午8点），当时CDC尚未更新数据，也未体现在图一中：
+[https://www.npr.org/sections/health-shots/2020/03/02/811161998/coronavirus-2nd-person-dies-in-u-s-new-cases-reported-in-florida-and-new-york](jump-to.php?url=https%3A%2F%2Fwww.npr.org%2Fsections%2Fhealth-shots%2F2020%2F03%2F02%2F811161998%2Fcoronavirus-2nd-person-dies-in-u-s-new-cases-reported-in-florida-and-new-york)
+
+#p 21930483 starfang starfang 2020-03-03 12:29:23
+这比日本政府挤牙膏还要更进一步啊，没有数据就不会恐慌，学到了
+#quote huayuankou
+
+#p 21930495 WallaceBbee 埃及猫神 瓦坎达皇帝 万王之王 华莱士·彼伊 2020-03-03 12:32:21
+你是不是忘记写美帝了
+#quote huayuankou
+
+#p 21930506 nogatnep ko001 2020-03-03 12:33:19
+total death 不是在上面嘛......
+#quote huayuankou
+
+#p 21930507 huayuankou 猪芳芳 | 小锤仔 2020-03-03 12:33:29
+cdc就是指美帝的吧。当然如果你是说东海岸的话……
+#quote WallaceBbee
+
+#p 21930511 starfang starfang 2020-03-03 12:34:14
+那是2月29的total death，3月2日新增的4个就没了
+#quote nogatnep
+
+#p 21930518 nogatnep ko001 2020-03-03 12:35:06
+这样啊
+#quote starfang
+
+#p 21930521 huayuankou 猪芳芳 | 小锤仔 2020-03-03 12:35:42
+华盛顿州死亡数6例
+Coronavirus kills 6 people in Washington state
+[https://www.cbsnews.com/live-updates/coronavirus-outbreak-death-toll-us-infections-latest-news-updates-2020-03-02/](jump-to.php?url=https%3A%2F%2Fwww.cbsnews.com%2Flive-updates%2Fcoronavirus-outbreak-death-toll-us-infections-latest-news-updates-2020-03-02%2F)
+#quote nogatnep
+
+#p 21930529 twowater 徐二水 2020-03-03 12:36:57
+只报死亡也行，算个除法，得出大概感染人数
+#quote huayuankou
+
+#p 21930554 huayuankou 猪芳芳 | 小锤仔 2020-03-03 12:42:00
+这个不太懂，也是一直以来的疑问：一个疾病实际的死亡率和防控有关系么？比如美国人天天上大街不戴口罩，中国人天天闷家里，死亡率是否相同
+#quote twowater
+
+#p 21930568 twowater 徐二水 2020-03-03 12:44:14
+和重症率（就是医院必须接受）传染能力正相关吧，拿死亡率只是因为死亡的数量是最好确定的。
+#quote huayuankou
+
+#p 21930596 starfang starfang 2020-03-03 12:50:30
+医学上不知道，考虑湖北以外省份死亡率略高于韩国(韩国刚开始，1－2周后还会有人去世)了，低于意大利(怀疑意大利确诊数据不真实)，那这个病毒对于室内室外的死亡率来说应该是无差异的
+#quote huayuankou
+
+#p 21930638 Swordshield 燕园瓜农 2020-03-03 13:00:30
+确实，这种做法有效降低感染人数和死亡人数。如果有，就是死于流感。
+佩服佩服。手动狗头。
+#quote huayuankou
+
+#p 21930652 zheshishenme 二萌迷妹mmm 2020-03-03 13:03:14
+在医疗资源饱和之前，死亡率与防控无关。在医疗资源饱和之后，死亡率与防控高度相关。
+#quote huayuankou
+
+#p 21930661 huayuankou 猪芳芳 | 小锤仔 2020-03-03 13:05:14
+让我们看看接下来会发生什么
+#quote starfang
+
+#p 21930683 huayuankou 猪芳芳 | 小锤仔 2020-03-03 13:11:45
+想了一下，确实。不过好像美国前两天做个检测就要动辄一千刀以上，即使医疗资源不饱和，也有很多人不会用吧
+#quote zheshishenme
+
+#p 21930698 NON 再定？ 2020-03-03 13:15:35
+方方气的想去美国写日记[doge]
+#quote huayuankou
+
+#p 21930748 wuruiyang 锅 2020-03-03 13:28:12
+CDC这个网页的信息一直滞后于新闻。
+我在美帝时间今早看的时候显示Updated March 2,total deaths 2 当时没有注意到新的四例死亡有没有报道。我估计CDC更新的时间应该更早。
+还有你截的那个Google cache，相比于现在的网站，多了total tested。其实我注意到他们的网页这几天不断在改格式，之前甚至把total tested的四百多例写成了total death。总之非常buggy。
+我感觉死亡人数会继续更新，现在不过是滞后了。明天后天再看看就知道了
+#quote huayuankou
+
+#p 21930782 huayuankou 猪芳芳 | 小锤仔 2020-03-03 13:33:40
+是啊，这报道一出，Twitter上就把川普全家骂了个遍，这风向看来也会很影响大选
+#quote wuruiyang
+
+#p 21930797 humingda 北大棍侠 2020-03-03 13:36:03
+戴不戴口罩只是会影响感染人数，对死亡率的影响不大。
+#quote huayuankou
+
+#p 21930807 wuruiyang 锅 2020-03-03 13:38:25
+看了一眼这哥们Twitter说的是对的，只是说停止公布检测人数。死亡人数没道理不更。
+#quote huayuankou
+
+#p 21930844 starfang starfang 2020-03-03 13:44:54
+在想如果是民主党在当总统，他们会骂谁
+#quote wuruiyang
+
+#p 21930854 Nd 中华门站 2020-03-03 13:47:00
+检测数不公布倒也不算大问题。美国这死亡率本身就够难看了。
+#quote huayuankou
+
+#p 21930866 Vulcan @这是什么  您原来是这么的要脸啊，失敬失敬 2020-03-03 13:48:36
+跟猪流感的时候一样的操作而已，正常正常……
+#quote WallaceBbee
+
+#p 21930870 zheshishenme 二萌迷妹mmm 2020-03-03 13:49:29
+中国的也叫CDC..看标题看惊了..
+#quote huayuankou
+
+#p 21930894 huayuankou 猪芳芳 | 小锤仔 2020-03-03 13:52:29
+啊……那我改一下吧。我搜cdc直接跳出来美国的，ccdc跳出来加拿大的……
+#quote zheshishenme
+
+#p 21930958 wuruiyang 锅 2020-03-03 14:03:00
+还是骂川普🙃
+#quote starfang
+
+#p 21930959 wuruiyang 锅 2020-03-03 14:03:24
+你不顺便把死亡人数从标题里去了？
+#quote huayuankou
+
+#p 21931246 scienco 这不科学|3/4 20:57 CST 惊蛰 2020-03-03 14:59:59
+This page will be updated regularly on Mondays, Wednesdays, and Fridays. Numbers close out at 4 p.m. the day before reporting.
+#quote huayuankou
+
+#p 21931454 xelmirage 糊你一脸 2020-03-03 15:47:37
+不一定，感染人数多了医疗系统一过载，有些本来能活下来的也会死掉
+#quote humingda
+
+#p 21931502 paull Loooong 2020-03-03 15:59:52
+一个月之前怎么没见你说这话。
+#quote humingda
+
+#p 21931576 humingda 北大棍侠 2020-03-03 16:16:29
+哈？
+#quote paull
+
+#p 21932001 tcfa Tropical Cyclone Formation Alert 2020-03-03 18:01:10
+合理猜测，不公布检测数应当是因为检测能力被下放到地方实验室了。美国权力分散，地方和中央没有必然的隶属关系，如果CDC认为检测人数不是很重要，没必要非得要求地方上报。而且彭斯表示这周末检测权力会进一步下放到医院和学校，这样就更加没有必要统计检测数量。
+#quote huayuankou
+
+#p 21932005 tcfa Tropical Cyclone Formation Alert 2020-03-03 18:04:18
+CDC早就明确表示检测新冠病毒是免费的，但是美国医疗以贵著称，病人即便这个检测费不出，只要去了医院也会产生别的费用，尤其是买不起好的医保的人，所以很多人会选择不去医院。
+#quote huayuankou
+
+#p 21932229 MRxiaoR 独小孤 2020-03-03 19:17:59
+但会影响死亡人数呀
+#quote humingda
+
+#p 21932292 THooFT  2020-03-03 19:33:18
+没有医疗资源挤兑的话死亡率应该差不多  但感染人太多了医疗资源不够用了就凉凉
+#quote huayuankou
+
+#p 21932394 peiyangium 生建办主任助理|柯带宜居办主任|副团级 2020-03-03 20:07:19
+如果CDC这么没能力的话，下面这个报表是怎么来的……
+[https://wonder.cdc.gov/nndss/nndss_weekly_tables_menu.asp](jump-to.php?url=https%3A%2F%2Fwonder.cdc.gov%2Fnndss%2Fnndss_weekly_tables_menu.asp)
+#quote tcfa
+
+#p 21932580 huayuankou 猪芳芳 | 小锤仔 2020-03-03 20:52:20
+明天再看看好了
+#quote scienco
+
+#p 21932600 huayuankou 猪芳芳 | 小锤仔 2020-03-03 20:57:21
+……那真是国籍一换评论过万了。
+#quote tcfa
+
+#p 21932611 humingda 北大棍侠 2020-03-03 21:00:34
+对啊
+#quote MRxiaoR
+
+#p 21932942 starfang starfang 2020-03-03 22:10:36
+有些人总会给美国找理由的
+#quote peiyangium
+
+#p 21933227 massltime Ryant 2020-03-03 23:21:52
+如果是中国政府不公测检测数，你看他们twitter和cnn、bbc、dailymail、微博上说这算不算“大问题”
+#quote Nd
+
+#p 21933844 tgycmzwj rainbow(l) 2020-03-04 03:04:42
+[https://www.cdc.gov/coronavirus/2019-ncov/cases-in-us.html](jump-to.php?url=https%3A%2F%2Fwww.cdc.gov%2Fcoronavirus%2F2019-ncov%2Fcases-in-us.html)
+先问是不是
+#quote huayuankou
+
+#p 21933900 tcfa Tropical Cyclone Formation Alert 2020-03-04 04:16:36
+问题是，中国也没公布检测人数啊。。
+#quote huayuankou
+
+#p 21933902 tcfa Tropical Cyclone Formation Alert 2020-03-04 04:18:03
+你发的这不是确诊人数吗？
+#quote peiyangium
+
+#p 21933904 tcfa Tropical Cyclone Formation Alert 2020-03-04 04:22:55
+
+
+2020-03-04 04:20:05
+请问中国政府的检测人数在哪里查看？我仔细查看了cdc的每日公告，里面没有一个字提及检测了多少人。
+#quote massltime
+
+#p 21933926 lea 无爱即无忧 2020-03-04 04:47:54
+ls更多关注了死亡人数，这才是关键的问题...
+#quote tcfa
+
+#p 21933992 tcfa Tropical Cyclone Formation Alert 2020-03-04 06:04:34
+死亡人数事实上是公布了，lz所言不实，回复中已有指出。
+#quote lea
+
+#p 21934037 Nd 中华门站 2020-03-04 06:43:59
+中国哪里公布检测数了？
+#quote massltime
+
+#p 21934132 monolingual monolingual 2020-03-04 08:07:41
+#quote tcfa
+问题不是出在没公布检测数 是测的人数太少（才测了几百例吧？）于是身边有美国人猜测这是为了掩饰测的太少才不公布
+重点在于 不测=没有 的装死行为
+
+#p 21934326 tcfa Tropical Cyclone Formation Alert 2020-03-04 09:22:49
+
+
+2020-03-04 09:19:04
+对，问题是在于测的标准过于严格，以及前一段时间试剂盒出了问题导致各州没法自己测，检测能力受到极大限制。公布检测人数与否并不是问题所在，我觉得对cdc想要掩饰问题的猜测也没有依据。现在试剂盒问题基本解决，cdc也改变了检测标准，事实上情况还是在改善的，但是已经造成的错误是否可以很快挽回不得而知了。
+#quote monolingual
+
+#p 21934479 huayuankou 猪芳芳 | 小锤仔 2020-03-04 09:54:56
+既然如此，撤掉检测人数的原因是什么？一开始不公布不就好了。
+#quote tcfa
+
+#p 21934750 tcfa Tropical Cyclone Formation Alert 2020-03-04 10:47:17
+所以我提出了一个解释啊。。以前自己检测所以很方便发布，后来把试剂盒发给各州的实验室自己做了，估计觉得统计起来很麻烦就干脆不公布了，反正这个数字也不重要
+#quote huayuankou
+
+#p 21934752 tongye 桶爷 2020-03-04 10:47:57
+还真没谁说这个是大问题的，大多数人包括我都没想到这茬儿
+#quote massltime
+
+#p 21934845 yhszx 银河双子星|个人网站→www.bysun.org 2020-03-04 11:08:22
+越看越觉得现在国内最安全不过了
+#quote huayuankou
+
+#p 21934956 peiyangium 生建办主任助理|柯带宜居办主任|副团级 2020-03-04 11:30:26
+我以为你的意思是检测到的患者人数……
+#quote tcfa
+
+#p 21935062 huayuankou 猪芳芳 | 小锤仔 2020-03-04 11:45:10
+这数字还是有意义的吧。
+中国一开始试剂盒确诊，确诊病例的上限不就是被试剂盒的数量压着呢么？而且如果我没猜错的话，只有出现疑似症状的美利坚人民才会去检测吧。
+#quote tcfa
+
+#p 21935103 wuruiyang 锅 2020-03-04 11:51:26
+官方脚注：CDC is no longer reporting the number of persons under investigation (PUIs) that have been tested, as well as PUIs that have tested negative. Now that states are testing and reporting their own results, CDC’s numbers are not representative all of testing being done nationwide. 
+正如tcfa所陈述的理由。
+#quote huayuankou
+
+#p 21935175 huayuankou 猪芳芳 | 小锤仔 2020-03-04 12:07:48
+看上去说得通，那这样的话是不是美帝人民想知道以国和州为单位的数据还得自己算自己找……
+#quote wuruiyang
+
+#p 21935757 niuxg dangdangdang 2020-03-04 14:26:42
+难道CDC就不要求各州上报结果和数据了，如果这样他们拿什么给总统作为政策的参考？
+#quote wuruiyang
+
+#p 21935778 wuruiyang 锅 2020-03-04 14:32:01
+我只是转载一下官方的说法，具体怎么操作的也不知道。可能有37楼那样的报表，但是数据的及时性和准确性都会大打折扣。
+#quote niuxg
+
+#p 21935860 tcfa Tropical Cyclone Formation Alert 2020-03-04 14:48:44
+所以问题在于检测能力是多少，而这个可以通过其他途径公布，比如媒体发布会等。
+另外cdc最新网页里面证实了我的猜想：
+CDC is no longer reporting the number of persons under investigation (PUIs) that have been tested, as well as PUIs that have tested negative. Now that states are testing and reporting their own results, CDC’s numbers are not representative all of testing being done nationwide. 
+#quote huayuankou
+
+#p 21936335 goodfellows ten years ago 2020-03-04 16:37:11
+赞层主
+#quote tcfa
+
+#p 21936692 dir Sg 2020-03-04 17:52:04
+川同志更关心股市吧……不过资本市场已经炸了，降息50点都没能增强信心……
+#quote huayuankou
+

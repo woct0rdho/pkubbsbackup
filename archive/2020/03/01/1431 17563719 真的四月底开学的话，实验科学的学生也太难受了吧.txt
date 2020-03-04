@@ -1,4 +1,4 @@
-#t 1431 17563719 escapemaster 2020-03-01 00:13:00 cangyang 2020-03-02 23:48:00
+#t 1431 17563719 escapemaster 2020-03-01 00:13:00 SleepInLab 2020-03-04 00:15:00
 真的四月底开学的话，实验科学的学生也太难受了吧
 
 #p 21921216 escapemaster emmmmmm 2020-03-01 13:21:22
@@ -62,4 +62,185 @@
 #p 21928487 cangyang 歇歇副队 2020-03-02 23:47:48
 区别在于没有暑假?
 #quote escapemaster
+
+#p 21928560 zhangbob Dream Fighting 2020-03-03 00:01:46
+反正充分也不一定能中，不怕。
+#quote qingyan
+
+#p 21928795 CoreM AMDYES 2020-03-03 00:57:08
+太秀了
+#quote ATP
+
+#p 21928809 qingyan 青岩 2020-03-03 00:59:39
+扎心了啊集美
+#quote zhangbob
+
+#p 21928827 meijun meijun 2020-03-03 01:04:03
+暑假应该没了👀
+#quote cangyang
+
+#p 21928853 Homagod 不愉快です 2020-03-03 01:19:41
+也算是一个契机
+不然最近我肯定都把事件拿去学韩语，而不是干这种费力的
+#quote myVeritas
+
+#p 21929245 Meme Kmyhrsh 2020-03-03 07:36:17
+本来就没有*
+#quote cangyang
+
+#p 21929589 greenwood WyaTT 2020-03-03 09:39:23
+太秀啦
+#quote ATP
+
+#p 21929755 juruo 蒟蒻太蒻了嘤嘤嘤 2020-03-03 10:14:20
+juruo发现实验室电脑关了&amp;数据都在电脑里的时候也是心凉了一截
+#quote escapemaster
+
+#p 21929763 juruo 蒟蒻太蒻了嘤嘤嘤 2020-03-03 10:15:09
+（老板辞职警告
+#quote ATP
+
+#p 21929777 humingda 北大棍侠 2020-03-03 10:18:02
+你们呀，就好像一个个平时都可努力努力了似的。
+#quote escapemaster
+
+#p 21929870 liuyz liuyz 2020-03-03 10:34:19
+实验室电脑没关的表示全靠这个续命，要是实验室电脑远程连不上了，我的科研路也就断了
+#quote juruo
+
+#p 21930171 QPZ 气泡纸 2020-03-03 11:31:00
+还有剩下的两个学期呢
+狗头
+#quote escapemaster
+
+#p 21930728 juruo 蒟蒻太蒻了嘤嘤嘤 2020-03-03 13:22:31
+净瞎说大实话
+#quote humingda
+
+#p 21930895 Lilian 讨厌雾霾天 2020-03-03 13:52:32
+研究生毕业年级怎么办...
+#quote escapemaster
+
+#p 21931201 Pejoy 1601110370 2020-03-03 14:52:04
+能够毕业的人应该不会在这学期补实验吧
+#quote Lilian
+
+#p 21931273 mrzack 编程诛心 2020-03-03 15:11:17
+真是个狼火
+#quote ATP
+
+#p 21931438 Homagod 不愉快です 2020-03-03 15:44:10
+头像居然变了
+#quote juruo
+
+#p 21931471 zhangbob Dream Fighting 2020-03-03 15:50:56
+都扎透了。
+#quote qingyan
+
+#p 21931493 Lynx 嘟嘟兔 2020-03-03 15:55:48
+真的难受，做不了实验，感觉毕业后就要失学了。
+#quote escapemaster
+
+#p 21931541 fzqjj daihai 2020-03-03 16:07:42
+暑假来补啊
+#quote escapemaster
+
+#p 21931731 juruo 蒟蒻太蒻了嘤嘤嘤 2020-03-03 16:54:55
+嘻嘻嘻
+#quote Homagod
+
+#p 21931774 Homagod 不愉快です 2020-03-03 17:03:49
+啧啧啧
+#quote juruo
+
+#p 21932080 DarkA DarkAp 2020-03-03 18:30:04
+求问您用的什么远程软件 可以一直连着吗？自己电脑这边可以关机吗？
+#quote liuyz
+
+#p 21932097 liuyz liuyz 2020-03-03 18:33:55
+实验室那边电脑开了teamviewer和 Dbadmin两个远程软件，这俩基本上都可以一直连，我平时出差做实验也是这个模式，因为校外下文章啥的不太方便。
+#quote DarkA
+
+#p 21932102 DarkA DarkAp 2020-03-03 18:34:29
+好的 谢谢
+#quote liuyz
+
+#p 21932104 liuyz liuyz 2020-03-03 18:35:38
+不过要想用的前提是校内的电脑要开机且运行这两个软件，要是校内的电脑关了或者重启了，这俩软件基本上都会重置密码，那我就完了。。。
+#quote DarkA
+
+#p 21932107 DarkA DarkAp 2020-03-03 18:36:43
+对的对的 我刚开始用teamviewer 采用了一天就让我重装 不知道这玩意是不是要24小时重新装一次
+#quote liuyz
+
+#p 21932122 liuyz liuyz 2020-03-03 18:41:49
+如果你平时不太使用teamviwer的话，应该不用担心自己的账号被判断为商业用途。那你可以先注册一个teamviewer的正式账号，再把远程的电脑分配到自己的账号上，之后授权轻松访问，那就可以不用管远程的密码是多少，只要teamviwer在远程电脑上运行，在任一电脑登录自己的账号后就直接就可以连上。
+我现在是经常被判断为商业用途，靠破解版苟延残喘，所以以上的方法对我没有意义。。。
+#quote DarkA
+
+#p 21932128 DarkA DarkAp 2020-03-03 18:44:09
+哦哦哦 太感谢您了 
+#quote liuyz
+
+#p 21932317 datouhou datouhou 2020-03-03 19:41:36
+老板为了让我在家继续科研，自己打申请回学校，帮我把实验器材都拿出来，寄给我了（感动）
+#quote escapemaster
+
+#p 21932465 OliverShu 涓滴意念 2020-03-03 20:23:34
+草  你这极乐净土太辣眼睛了
+#quote zhangbob
+
+#p 21932492 zhangbob Dream Fighting 2020-03-03 20:31:51
+哈哈哈，竟然被你看出来了。当我看到这个动图的时候，毫不犹豫保存下来。
+#quote OliverShu
+
+#p 21932550 OliverShu 涓滴意念 2020-03-03 20:44:41
+老二次元了
+#quote zhangbob
+
+#p 21932553 zhangbob Dream Fighting 2020-03-03 20:45:33
+B站大佬。失敬失敬。
+#quote OliverShu
+
+#p 21932564 Yuanorz physcai 2020-03-03 20:48:55
+233
+#quote datouhou
+
+#p 21934553 Huangfang jiumi~~~ 2020-03-04 10:10:49
+这么敢吗
+#quote ATP
+
+#p 21934877 cougar 银河双子星|我的博客→blog.sbysky.com 2020-03-04 11:15:40
+做好实验准备吧，开学后有的加班了
+#quote escapemaster
+
+#p 21934961 yufeicao 飞鹰 2020-03-04 11:30:39
+看样子差不多这个时候了
+#quote escapemaster
+
+#p 21935341 Immo 丶 2020-03-04 12:54:16
+哪怕是四月底开学 能不能早点通知？
+或者哪怕确定点说，4.15之前大家别想了
+也让大家安心些
+#quote escapemaster
+
+#p 21935370 lyyl lyyl 2020-03-04 13:04:47
+毕业生也很难受…
+#quote escapemaster
+
+#p 21935506 jasonw 木农 2020-03-04 13:35:07
+求求让实验的博士生先一步回学校吧
+#quote escapemaster
+
+#p 21936090 Lilian 讨厌雾霾天 2020-03-04 15:41:02
+资瓷....
+希望大概给个时间范围，哪怕是预期五月后开学，也让大家心里大概了解....现在吊着太难受了
+假定：提前两周通知两周后开学，那目前看来三月估计够呛了
+以及，回校后是否需要校内隔离14天呢？
+如果有回京/但不回校的需求，是等通知下来、先在北京其他地方隔离14天、还是只能在学校隔离呢？
+#quote Immo
+
+#p 21936102 SleepInLab 睡觉😪 2020-03-04 15:43:10
+用Windows自带的远程桌面不香吗？
+#quote DarkA
 

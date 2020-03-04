@@ -1,0 +1,30 @@
+#t 668 17566016 Gitanjali 2020-03-03 00:09:00 aeroboy 2020-03-03 00:22:00
+win10系统VPN最近突然崩溃该怎么办
+
+#p 21929448 Gitanjali Gitanjali 2020-03-03 09:05:37
+连接时显示一直在连接中，已关防火墙
+
+#p 21929516 PKUCC 北京大学计算中心 2020-03-03 09:26:52
+
+
+2020-03-03 09:26:36
+重新启动系统，参考常见问题选择其它链路地址试试。
+#quote Gitanjali
+
+#p 21929910 peerless <tex>\blacksquare\blacksquare</tex> 2020-03-03 10:41:33
+换成uwp版的pulse secure
+学校那个版本的不行
+#quote Gitanjali
+
+#p 21931450 Gitanjali Gitanjali 2020-03-03 15:46:15
+重新启动好几次了
+#quote PKUCC
+
+#p 21931477 kunminghu 你猜 2020-03-03 15:52:27
+重启电脑之后就能用一段时间，然后就又又又又不能用了，只能继续重启电脑。反复开关电脑，保存打开文件，查资料真的都要被折腾疯了。
+#quote PKUCC
+
+#p 21933076 aeroboy pit 2020-03-03 22:43:53
+在Windows 10的服务中重启Network Connections服务
+#quote Gitanjali
+

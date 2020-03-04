@@ -1,0 +1,237 @@
+#t 35 17566623 seraphimdk 2020-03-03 00:17:00 EASON 2020-03-04 17:03:00
+最近墙又加高了，学术需求 求vpn推荐翻墙推荐
+
+#p 21931917 seraphimdk seraphimdk 2020-03-03 17:29:31
+3月始墙的厉害，好几个朋友的VPN都被封掉了，没开学但是学术需求需要翻墙，据说V2RAY也会被封掉（我自己没用过） ，请问现在还有靠谱的VPN不会被墙的，能推荐下吗？
+ps：听说12VPN不错，有在用的朋友吗，12VPN会被墙掉吗？
+
+#p 21932021 IlIl 王铁崖 2020-03-03 18:09:43
+只用学术目的的话I2P就好了，除了速度奇慢无比，一直相当稳定。
+#quote seraphimdk
+
+#p 21932066 thinky 披风罗汉 2020-03-03 18:23:53
+有多慢，我的vpn下载只有200k每秒，甚至低到5k。
+#quote IlIl
+
+#p 21932164 seraphimdk seraphimdk 2020-03-03 18:57:03
+需要上维基百科和油管，看教学视频。。。
+#quote IlIl
+
+#p 21932195 zhbzhbzhbz RedB 2020-03-03 19:08:26
+V2ray还好，我自己搭的给一些朋友用一直没啥问题
+#quote seraphimdk
+
+#p 21932198 zhbzhbzhbz RedB 2020-03-03 19:09:00
+另外不存在“靠谱不会被封的VPN”，尤其的收费的
+#quote seraphimdk
+
+#p 21932639 simonyang ** ** 2020-03-03 21:06:42
+V2RAY很方便，顺便排个坑就是一键安装脚本的话，尝试了很多次用CentOS7的系统都连接不成功，换成Debian9就可以了
+#quote seraphimdk
+
+#p 21933335 liweimelody weilody 2020-03-03 23:52:48
+Chrome应用商店的“谷歌上网助手”
+#quote seraphimdk
+
+#p 21934074 hcwanghao 节能小号|迷糊中 2020-03-04 07:26:21
+本版不是有人维护服务吗，北大学生还免费
+不然把买服务器的钱捐给他吧
+#quote seraphimdk
+
+#p 21934143 frieden frieden 2020-03-04 08:12:32
+怎样访问谷歌应用商店？
+#quote liweimelody
+
+#p 21934209 PKUwuming 无名 2020-03-04 08:44:34
+CentOS7需要关闭防火墙或者开放特定端口，默认防火墙是开启的
+#quote simonyang
+
+#p 21934211 lyyl lyyl 2020-03-04 08:44:49
+我已经翻不过去好久了…哎…
+#quote seraphimdk
+
+#p 21934212 lyyl lyyl 2020-03-04 08:45:02
+哈哈哈我也
+#quote thinky
+
+#p 21934249 JackD 睡不醒的小强 2020-03-04 09:00:21
+只能在大神们吃肉的时候，跟着喝口汤  
+现在都喝不到汤了o(╥﹏╥)o
+#quote PKUwuming
+
+#p 21934274 ZPU 伊修扎克 2020-03-04 09:04:20
+我的vultr现在还能用
+#quote seraphimdk
+
+#p 21934351 EASON 朗姆酒 2020-03-04 09:27:24
+quickq，速度贼快，不限流量，一年才200多
+#quote seraphimdk
+
+#p 21934363 thinky 披风罗汉 2020-03-04 09:31:46
+问题是现在基本连不上，连上也是速度5k到15k的差连接，看不了facebook更别想youtube。
+#quote lyyl
+
+#p 21934369 seasideice Cortot 2020-03-04 09:33:38
+贵站审查标准真的松，这帖子换别的地方早就挂了。
+#quote seraphimdk
+
+#p 21934375 lloollmay 听说明天会下雨 2020-03-04 09:36:12
+https://香蕉superman.cf/
+推荐一下……把香蕉换成英文
+#quote seraphimdk
+
+#p 21934477 governcloud 黑斯廷斯的海尔法 2020-03-04 09:54:08
+#quote seasideice
+贵站不就是因为还可以讨论这些尺度稍高的话题才有存在的必要吗？
+难道贵站就应该只剩下鹊桥版…
+发自我的“北大未名”iOS客户端([http://t.cn/R7ZhtYc](jump-to.php?url=http%3A%2F%2Ft.cn%2FR7ZhtYc))
+
+#p 21934499 Doge 伟大而有内涵的导演 2020-03-04 09:59:42
+手机上我有很多快速好用的vpn，但是电脑上有些捉襟见肘。
+搭车问一下：我有https 节点，mac上有啥代理客服端可以用https的吗
+#quote seraphimdk
+
+#p 21934595 XShell 青金色麦田的狐狸 2020-03-04 10:19:36
+只电脑翻墙的想搭车问一下手机快速好用VPN有推荐吗？
+#quote seraphimdk
+
+#p 21934602 Winsn 哥德尔的耳朵 2020-03-04 10:21:50
+推荐毒药评测，里面有几十家代理提供商的评测
+#quote seraphimdk
+
+#p 21934617 IlIl 王铁崖 2020-03-04 10:24:39
+Chrome装个SwitchyOmega?
+#quote Doge
+
+#p 21934630 tricky new 2020-03-04 10:26:45
+求推荐手机VPN
+#quote Doge
+
+#p 21934709 Taindall Charlie 2020-03-04 10:40:21
+自己在vultr搭v2ray 一直很稳定
+#quote seraphimdk
+
+#p 21934785 twowater 徐二水 2020-03-04 10:55:48
+V2ray 增强版trojan
+#quote seraphimdk
+
+#p 21934848 liweimelody weilody 2020-03-04 11:08:29
+额...首先需要先翻出去才能访问商店，可以先用免费版的lantern顶一下，然后过河拆桥哈哈
+[https://github.com/getlantern/download](jump-to.php?url=https%3A%2F%2Fgithub.com%2Fgetlantern%2Fdownload)
+#quote frieden
+
+#p 21934872 Doge 伟大而有内涵的导演 2020-03-04 11:14:17
+Chrome 装过ghelper 插件，还挺快的。有时候其他软件也需要翻墙，所以需要的是整个电脑翻墙的代理
+#quote IlIl
+
+#p 21934880 Doge 伟大而有内涵的导演 2020-03-04 11:15:58
+都挺快的
+#quote tricky
+
+#p 21934922 yufeicao 飞鹰 2020-03-04 11:24:48
+VPN速度还不错近来
+#quote seraphimdk
+
+#p 21934987 ABCDEFG 例如，小甜甜 2020-03-04 11:34:16
+一直用nord VPN 还不错 就是有时候连个大概十几分钟需要重新连一下
+#quote seraphimdk
+
+#p 21935006 Symbolk Dorteo 2020-03-04 11:36:36
+写过一个教程，[https://github.com/Symbolk/BestProxy](jump-to.php?url=https%3A%2F%2Fgithub.com%2FSymbolk%2FBestProxy)，有用的话求个Star~
+#quote seraphimdk
+
+#p 21935028 xinkule 少时不远游 2020-03-04 11:38:43
+确实
+#quote seraphimdk
+
+#p 21935053 BO BlueBunny 2020-03-04 11:44:11
+ssready，要收费，不过可以按月付。上一周推荐给朋友时还能用。寒假时用网速很快，看YouTube没有卡的现象
+#quote seraphimdk
+
+#p 21935156 sakutaro 阿尔托利亚 2020-03-04 12:04:19
+我也用的这个，但是月费好贵，年卡又舍不得( Ĭ ^ Ĭ )
+#quote EASON
+
+#p 21935162 xylbxuexi e宇航员 2020-03-04 12:04:47
+推荐myssr 速度快稳定
+需要找能翻墙的用户帮你注册；myssr的客服非常负责，有问题都可以问他们。
+#quote seraphimdk
+
+#p 21935381 CharlesChou Annoying Orange 2020-03-04 13:06:26
+我和你需求差不多，就是用google和youtube。长期以来用的是喵帕斯，这家也算机场里面的大厂家了吧。。但最近他们的直连节点经常崩，搞的我也很焦躁。近期我就在BBS上某个同学的建议下换到了另一个机场，目前感觉速度很理想。。一个月大概15-20RMB，如果你需要的话，私信我吧，我给你发个邀请链接（当然我有15%的邀请收益）
+#quote seraphimdk
+
+#p 21935418 aqkk aqkk11 2020-03-04 13:13:11
+自己用vultr搭了个v2ray-plugin，联通宽带看2k油管无压力～就是vultr一个月5刀，想找人合用平分费用一直找不到……太贫穷了
+#quote seraphimdk
+
+#p 21935494 Twinkling 2221小星星 2020-03-04 13:33:15
+推荐Panda***，pku校友还可以打八折，用了两年了，几乎没有断过。有两种，一个稍微贵点但是没有流量限制，还有一个专门针对学术的，私信我，我发推荐链接
+#quote seraphimdk
+
+#p 21935546 pkultf 说实话就挨打 2020-03-04 13:41:59
+我有个梯子，但是不知的怎么给大家传，上次传就被约谈过，不知道BBS里面谁是审核员。。。不敢贸然在传了
+#quote seraphimdk
+
+#p 21935626 ccfpwll 龙温德 2020-03-04 14:04:21
+改hosts可能就行了？
+#quote seraphimdk
+
+#p 21935776 pkudaa 迷離若虚 2020-03-04 14:31:26
+有自建节点，稳定的很，CN2新线路，油管1080毫无压力
+有意私信
+#quote seraphimdk
+发自我的“北大未名”iOS客户端([http://t.cn/R7ZhtYc](jump-to.php?url=http%3A%2F%2Ft.cn%2FR7ZhtYc))
+
+#p 21935836 HojoUjiyasu 北条氏康 2020-03-04 14:44:38
+我这边ssr完全没速度，v2ray几个小时端口就被屏蔽
+#quote seraphimdk
+
+#p 21935858 DZK EK 2020-03-04 14:48:34
+如果只需要网页得话，Googlehelper插件应该可以满足你的需求
+#quote seraphimdk
+
+#p 21935928 notech notech 2020-03-04 15:02:41
+目前的解决方案还是自己买台VPS搭v2ray, ss ssr之流就别想了. ps: 搬瓦工还不错
+#quote seraphimdk
+
+#p 21935949 out Nginx 2020-03-04 15:07:46
+自己搞了个v2ray，仍然robust
+#quote seraphimdk
+
+#p 21935950 out Nginx 2020-03-04 15:08:03
+现在ss一个小时就挂……
+#quote notech
+
+#p 21936121 Psecret \(TvT)/ 2020-03-04 15:47:29
+不合时宜的吐槽一句 
+不知道经常求VPN的和经常论证“墙的存在是有必要的，墙是智商筛选器”的人中间有没有非空交集
+#quote seraphimdk
+
+#p 21936163 IlIl 王铁崖 2020-03-04 15:57:11
+#quote Psecret
+
+#p 21936208 seasideice Cortot 2020-03-04 16:08:30
+拳头没砸到自己头上的时候永远都不是拳头。
+#quote IlIl
+
+#p 21936211 seasideice Cortot 2020-03-04 16:08:37
+我也特别好奇。
+#quote Psecret
+
+#p 21936221 lytlogic maxx 2020-03-04 16:11:35
+机场比自己搭靠谱多了，我之前也用vultr的vps，但是速度有点感人，现在在用机场，毒药评测上好多，ssrcloud还不错
+#quote seraphimdk
+
+#p 21936302 thinky 披风罗汉 2020-03-04 16:29:44
+她外公在武汉能住院已经太不容易了，很多患者就莫得床位，在家真的等死。我的武汉的远房爷爷就直到武汉肺炎死在家里也没有排上病房，他的死亡是不被统计为新冠案例的。这样的情况在武汉很多。
+#quote IlIl
+
+#p 21936303 ortuskun ortus 2020-03-04 16:29:56
+迷雾通（Geph）不错，最近一直很稳定~github上可以找到，一般免费线路就够用
+#quote seraphimdk
+
+#p 21936450 EASON 朗姆酒 2020-03-04 17:02:13
+可以两个人合用，毕竟平均下来一个月才十块多
+#quote sakutaro
+
