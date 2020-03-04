@@ -1,4 +1,4 @@
-#t 35 17566623 seraphimdk 2020-03-03 00:17:00 Xuezi 2020-03-04 21:34:00
+#t 35 17566623 seraphimdk 2020-03-03 00:17:00 fullpower 2020-03-04 22:20:00
 最近墙又加高了，学术需求 求vpn推荐翻墙推荐
 
 #p 21931917 seraphimdk seraphimdk 2020-03-03 17:29:31
@@ -259,4 +259,9 @@ ios商店有个vpn能很稳定连上。1080p 油管。但是不给vpn链接码�
 #p 21937622 Xuezi 雪滋 2020-03-04 21:33:17
 关键词是什么呀
 #quote Kirajv
+
+#p 21937790 fullpower fullpower 2020-03-04 22:19:59
+ss全称 s*****socks.at
+我很懒的，都是别人搭好的我就买个包年。坏了他们自己会修的蛮靠谱。现在用的trojan。
+#quote seraphimdk
 
