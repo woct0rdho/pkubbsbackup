@@ -1,4 +1,4 @@
-#t 35 17555501 assmdxr 2020-02-25 00:01:00 zhbzhbzhbz 2020-02-29 19:39:00
+#t 35 17555501 assmdxr 2020-02-25 00:01:00 assmdxr 2020-03-05 01:59:00
 有人知道v2ray怎么绕过学校的封锁吗
 
 #p 21894865 assmdxr assmdxrzc123 2020-02-25 01:24:10
@@ -43,5 +43,9 @@ rt
 
 #p 21917866 zhbzhbzhbz RedB 2020-02-29 19:38:27
 并没有……
+#quote assmdxr
+
+#p 21938475 assmdxr assmdxrzc123 2020-03-05 01:59:07
+我遇到的应该是8楼说的情况，在校外挂着pulse , 和v2ray。然后就翻不出去。
 #quote assmdxr
 
