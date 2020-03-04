@@ -1,6 +1,12 @@
-#t 668 17567875 pikachuuu 2020-03-04 17:14:00 pikachuuu 2020-03-04 17:14:00
+#t 668 17567875 pikachuuu 2020-03-04 00:17:00 PKUCC 2020-03-04 19:41:00
 教学网课程问题
 
 #p 21936510 pikachuuu 丢丢熊 2020-03-04 17:13:36
 我都退课了，我的课表、我的成绩、选课界面都没有这门课，为什么教学网还有这门课的信息？
+
+#p 21937099 PKUCC 北京大学计算中心 2020-03-04 19:41:00
+同学：
+      这个问题，请联系一下教学网，请他们删除就好了。以下有联系方式：
+      [https://portal.pku.edu.cn/portal2017/#/deptNoticeDetail/374214](jump-to.php?url=https%3A%2F%2Fportal.pku.edu.cn%2Fportal2017%2F%23%2FdeptNoticeDetail%2F374214)
+#quote pikachuuu
 

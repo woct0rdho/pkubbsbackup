@@ -1,4 +1,4 @@
-#t 1465 17566280 huayuankou 2020-03-03 00:12:00 dir 2020-03-04 17:52:00
+#t 1465 17566280 huayuankou 2020-03-03 00:12:00 haoba 2020-03-04 19:28:00
 美国CDC停止公布新冠病毒检测和死亡人数
 
 #p 21930465 huayuankou 猪芳芳 | 小锤仔 2020-03-03 13:52:43
@@ -284,5 +284,9 @@ CDC is no longer reporting the number of persons under investigation (PUIs) that
 
 #p 21936692 dir Sg 2020-03-04 17:52:04
 川同志更关心股市吧……不过资本市场已经炸了，降息50点都没能增强信心……
+#quote huayuankou
+
+#p 21937037 haoba 峰峰SIS07|新手奶爸 2020-03-04 19:27:55
+玩过《瘟疫公司》吗？
 #quote huayuankou
 
