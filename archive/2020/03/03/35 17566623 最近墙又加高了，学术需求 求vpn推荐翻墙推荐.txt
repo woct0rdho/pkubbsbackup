@@ -1,4 +1,4 @@
-#t 35 17566623 seraphimdk 2020-03-03 00:17:00 mojave 2020-03-05 17:12:00
+#t 35 17566623 seraphimdk 2020-03-03 00:17:00 Ageliss 2020-03-05 18:13:00
 最近墙又加高了，学术需求 求vpn推荐翻墙推荐
 
 #p 21931917 seraphimdk seraphimdk 2020-03-03 17:29:31
@@ -395,4 +395,8 @@ Trojan好像套不了CDN，它TLS里面的数据流不是WS
 #p 21941448 mojave 你说得都对 2020-03-05 17:11:50
 我没有套cdn
 #quote zhbzhbzhbz
+
+#p 21941690 Ageliss Ageliss 2020-03-05 18:12:22
+你说的对。
+#quote gspku
 
