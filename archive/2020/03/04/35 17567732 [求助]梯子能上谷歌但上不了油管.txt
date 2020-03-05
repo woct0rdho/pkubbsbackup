@@ -1,4 +1,4 @@
-#t 35 17567732 ljslcy 2020-03-04 00:15:00 ljslcy 2020-03-05 10:32:00
+#t 35 17567732 ljslcy 2020-03-04 00:15:00 ljslcy 2020-03-05 11:04:00
 [求助]梯子能上谷歌但上不了油管
 
 #p 21935918 ljslcy StupidArcher 2020-03-04 15:00:42
@@ -66,4 +66,12 @@ Scholar确实也上不去，但提示不一样，就会明明白白告诉我我�
 #p 21939440 ljslcy StupidArcher 2020-03-05 10:31:57
 感谢，清理DNS缓存以后成功上去了！
 #quote txhwind
+
+#p 21939571 ljslcy StupidArcher 2020-03-05 11:00:24
+最新更新， 用我家网清理了之后不行，但是挂北大vpn清理了之后就可以
+#quote txhwind
+
+#p 21939594 ljslcy StupidArcher 2020-03-05 11:04:00
+看了一眼，vpn挂了以后改用了教育网dns解析服务器，可能是因为这个
+#quote ljslcy
 

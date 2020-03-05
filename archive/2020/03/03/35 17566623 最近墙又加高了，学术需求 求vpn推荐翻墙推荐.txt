@@ -1,4 +1,4 @@
-#t 35 17566623 seraphimdk 2020-03-03 00:17:00 zhbzhbzhbz 2020-03-05 09:51:00
+#t 35 17566623 seraphimdk 2020-03-03 00:17:00 Ageliss 2020-03-05 11:45:00
 最近墙又加高了，学术需求 求vpn推荐翻墙推荐
 
 #p 21931917 seraphimdk seraphimdk 2020-03-03 17:29:31
@@ -304,4 +304,16 @@ ss全称 s*****socks.at
 #p 21939218 zhbzhbzhbz RedB 2020-03-05 09:50:42
 跟线路有关
 #quote Ageliss
+
+#p 21939703 Ageliss Ageliss 2020-03-05 11:30:20
+trojan跟访问域名是一样的，v2ray是伪装，有一定概率被查，但加上tls加密似乎没那么容易被查，我还没遇到过…
+#quote zhbzhbzhbz
+
+#p 21939723 Ageliss Ageliss 2020-03-05 11:33:05
+是的，电信联通移动可以走不同CDN节点加速…但我感觉都不快…最好就是trojan裸奔，目前还稳得很。除非ip被抓，要套个cloudflare
+#quote zhbzhbzhbz
+
+#p 21939783 Ageliss Ageliss 2020-03-05 11:44:29
+在设置-网络-高级-代理里面https代理试试？
+#quote Doge
 
