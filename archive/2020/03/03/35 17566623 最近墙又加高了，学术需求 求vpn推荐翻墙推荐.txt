@@ -1,4 +1,4 @@
-#t 35 17566623 seraphimdk 2020-03-03 00:17:00 Doge 2020-03-05 13:25:00
+#t 35 17566623 seraphimdk 2020-03-03 00:17:00 zhbzhbzhbz 2020-03-05 14:17:00
 最近墙又加高了，学术需求 求vpn推荐翻墙推荐
 
 #p 21931917 seraphimdk seraphimdk 2020-03-03 17:29:31
@@ -347,5 +347,20 @@ gcp上用v2ray脚本整了个ws+tls模式 很稳定
 #p 21940269 Doge 伟大而有内涵的导演 2020-03-05 13:24:06
 填进去以后，Safari浏览器就会提示：不能连接到代理服务器。
 节点没问题，手机上的小火箭用同一个节点速度还蛮快的
+#quote Ageliss
+
+#p 21940431 LeoJ 春秋 2020-03-05 14:02:14
+免费，不限速不限流量，本人亲测有效 [https://www.xf80219.com/redirect?code=TBVY57W](jump-to.php?url=https%3A%2F%2Fwww.xf80219.com%2Fredirect%3Fcode%3DTBVY57W)
+#quote seraphimdk
+
+#p 21940518 zhbzhbzhbz RedB 2020-03-05 14:16:11
+好的~
+#quote Ageliss
+
+#p 21940520 zhbzhbzhbz RedB 2020-03-05 14:17:05
+
+
+2020-03-05 14:16:35
+诶那trojan的客户端的话，还能用什么V2rayX（Mac）V2rayN（Windows） V2rayNG（安卓）么
 #quote Ageliss
 
