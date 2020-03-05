@@ -1,4 +1,4 @@
-#t 35 17566623 seraphimdk 2020-03-03 00:17:00 zhbzhbzhbz 2020-03-05 14:17:00
+#t 35 17566623 seraphimdk 2020-03-03 00:17:00 zhbzhbzhbz 2020-03-05 00:14:00
 最近墙又加高了，学术需求 求vpn推荐翻墙推荐
 
 #p 21931917 seraphimdk seraphimdk 2020-03-03 17:29:31
@@ -350,6 +350,7 @@ gcp上用v2ray脚本整了个ws+tls模式 很稳定
 #quote Ageliss
 
 #p 21940431 LeoJ 春秋 2020-03-05 14:02:14
+#DELETED
 免费，不限速不限流量，本人亲测有效 [https://www.xf80219.com/redirect?code=TBVY57W](jump-to.php?url=https%3A%2F%2Fwww.xf80219.com%2Fredirect%3Fcode%3DTBVY57W)
 #quote seraphimdk
 
@@ -363,4 +364,19 @@ gcp上用v2ray脚本整了个ws+tls模式 很稳定
 2020-03-05 14:16:35
 诶那trojan的客户端的话，还能用什么V2rayX（Mac）V2rayN（Windows） V2rayNG（安卓）么
 #quote Ageliss
+
+#p 21941120 Ageliss Ageliss 2020-03-05 15:52:59
+#DELETED
+我一般使用原始版扔后台（通过bash）...然后开socks5代理：
+networksetup -setsocksfirewallproxy Wi-Fi 127.0.0.1 1080
+networksetup -setsocksfirewallproxy Ethernet 127.0.0.1 1080
+networksetup -setsocksfirewallproxystate Wi-Fi on
+networksetup -setsocksfirewallproxystate Ethernet on
+echo "SOCKS proxy enabled."
+echo "Tunneling..."
+所以trojan也是类似的，有：
+trojan-1.14.1-macos.zip
+trojan-1.14.1-win.zip
+苹果用小火箭，安卓不清楚，没用过。😁
+#quote zhbzhbzhbz
 
