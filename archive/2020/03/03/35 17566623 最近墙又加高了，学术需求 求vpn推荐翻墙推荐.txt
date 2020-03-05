@@ -1,4 +1,4 @@
-#t 35 17566623 seraphimdk 2020-03-03 00:17:00 Ageliss 2020-03-05 18:13:00
+#t 35 17566623 seraphimdk 2020-03-03 00:17:00 zhangqingzhi 2020-03-05 19:08:00
 最近墙又加高了，学术需求 求vpn推荐翻墙推荐
 
 #p 21931917 seraphimdk seraphimdk 2020-03-03 17:29:31
@@ -278,8 +278,11 @@ ss全称 s*****socks.at
 用trojan……v2ray稳如狗好吧……为啥你们都这么慢，我都是100m网速跑满看油管4k秒开 8k无压力…… 😂
 #quote seraphimdk
 
-#p 21938423 Ageliss Ageliss 2020-03-05 01:29:26
-补充一下：v2ray+tls+ws套CDN基本上可以永保太平，但速度很慢因为CDN代理绕路；trojan套CDN也非常安全。但最快的还是买个日本的🐔，一键安trojan… ping在60-80…网速满速… 
+#p 21938423 Ageliss Ageliss 2020-03-05 18:13:48
+
+
+2020-03-05 01:29:26
+补充一下：v2ray+tls+ws套CDN基本上可以永保太平，但速度很慢因为CDN代理绕路；trojan相当于直接建站，相比v2ray伪装更为隐蔽。但最快的还是买个日本的🐔，一键安trojan… ping在60-80…网速满速… 
 关于手机端：小火箭shadowrocket
 有点慌透露了太多技术会不会被查水表……
 #quote seraphimdk
@@ -399,4 +402,8 @@ Trojan好像套不了CDN，它TLS里面的数据流不是WS
 #p 21941690 Ageliss Ageliss 2020-03-05 18:12:22
 你说的对。
 #quote gspku
+
+#p 21941892 zhangqingzhi 芝士就是力量 2020-03-05 19:07:20
+一直用不了，failure
+#quote hcwanghao
 
