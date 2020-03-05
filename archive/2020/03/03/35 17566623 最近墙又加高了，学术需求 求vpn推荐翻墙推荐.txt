@@ -1,4 +1,4 @@
-#t 35 17566623 seraphimdk 2020-03-03 00:17:00 Ageliss 2020-03-05 11:45:00
+#t 35 17566623 seraphimdk 2020-03-03 00:17:00 mojave 2020-03-05 12:58:00
 最近墙又加高了，学术需求 求vpn推荐翻墙推荐
 
 #p 21931917 seraphimdk seraphimdk 2020-03-03 17:29:31
@@ -316,4 +316,30 @@ trojan跟访问域名是一样的，v2ray是伪装，有一定概率被查，但
 #p 21939783 Ageliss Ageliss 2020-03-05 11:44:29
 在设置-网络-高级-代理里面https代理试试？
 #quote Doge
+
+#p 21940090 fswherever  2020-03-05 12:45:24
+也是会挂的
+#quote hcwanghao
+
+#p 21940097 eximple eximple 2020-03-05 12:47:31
+推荐dlercloud 有60多个节点速度也很稳 还可以用游戏加速 欢迎注册
+[https://dleris.best/auth/register?affid=37032](jump-to.php?url=https%3A%2F%2Fdleris.best%2Fauth%2Fregister%3Faffid%3D37032)
+#quote seraphimdk
+
+#p 21940102 hcwanghao 节能小号|迷糊中 2020-03-05 12:48:19
+他每天都在更新
+而且现在很多地方公网有ipv6，相对稳定一些
+#quote fswherever
+
+#p 21940119 fswherever  2020-03-05 12:51:29
+没v6的哭了
+#quote hcwanghao
+
+#p 21940143 Twinkling 2221小星星 2020-03-05 12:56:44
+ss最近很不稳定啊，换成v2ray还是挺稳的。当然也有打包一体的software，比如pku校友开发的panda***。
+#quote seraphimdk
+
+#p 21940149 mojave 你说得都对 2020-03-05 12:57:59
+gcp上用v2ray脚本整了个ws+tls模式 很稳定
+#quote seraphimdk
 
