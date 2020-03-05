@@ -1,4 +1,4 @@
-#t 35 17566623 seraphimdk 2020-03-03 00:17:00 Foolfly 2020-03-05 07:41:00
+#t 35 17566623 seraphimdk 2020-03-03 00:17:00 zhbzhbzhbz 2020-03-05 09:51:00
 最近墙又加高了，学术需求 求vpn推荐翻墙推荐
 
 #p 21931917 seraphimdk seraphimdk 2020-03-03 17:29:31
@@ -285,6 +285,23 @@ ss全称 s*****socks.at
 #quote seraphimdk
 
 #p 21938860 Foolfly Fool 2020-03-05 07:40:07
+#DELETED
 分享iphone，登录美国appstore，下载shadowrocket，然后配置一下即可
 #quote seraphimdk
+
+#p 21939158 Yuanorz physcai 2020-03-05 09:36:58
+没有这么分裂的人吧
+#quote Psecret
+
+#p 21939166 Yuanorz physcai 2020-03-05 09:37:59
+太惨了 
+#quote thinky
+
+#p 21939216 zhbzhbzhbz RedB 2020-03-05 09:50:23
+赞，不过不用cdn也行？顶多封域名？
+#quote Ageliss
+
+#p 21939218 zhbzhbzhbz RedB 2020-03-05 09:50:42
+跟线路有关
+#quote Ageliss
 
