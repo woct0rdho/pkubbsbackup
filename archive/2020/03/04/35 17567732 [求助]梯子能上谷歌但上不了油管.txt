@@ -1,4 +1,4 @@
-#t 35 17567732 ljslcy 2020-03-04 00:15:00 ljslcy 2020-03-05 01:39:00
+#t 35 17567732 ljslcy 2020-03-04 00:15:00 ljslcy 2020-03-05 10:32:00
 [求助]梯子能上谷歌但上不了油管
 
 #p 21935918 ljslcy StupidArcher 2020-03-04 15:00:42
@@ -62,4 +62,8 @@ DNS
 #p 21938442 ljslcy StupidArcher 2020-03-05 01:38:56
 Scholar确实也上不去，但提示不一样，就会明明白白告诉我我被封了而不是打不开
 #quote Kirayosikage
+
+#p 21939440 ljslcy StupidArcher 2020-03-05 10:31:57
+感谢，清理DNS缓存以后成功上去了！
+#quote txhwind
 
