@@ -1,4 +1,4 @@
-#t 35 17566623 seraphimdk 2020-03-03 00:17:00 zhbzhbzhbz 2020-03-05 16:55:00
+#t 35 17566623 seraphimdk 2020-03-03 00:17:00 mojave 2020-03-05 17:12:00
 最近墙又加高了，学术需求 求vpn推荐翻墙推荐
 
 #p 21931917 seraphimdk seraphimdk 2020-03-03 17:29:31
@@ -383,4 +383,16 @@ trojan-1.14.1-win.zip
 #p 21941395 zhbzhbzhbz RedB 2020-03-05 16:55:13
 速度会比直接用v2ray慢么
 #quote mojave
+
+#p 21941416 gspku null 2020-03-05 17:00:09
+Trojan好像套不了CDN，它TLS里面的数据流不是WS
+#quote Ageliss
+
+#p 21941427 mojave 你说得都对 2020-03-05 17:03:24
+理论上应该会，但是我没觉得有很大区别
+#quote zhbzhbzhbz
+
+#p 21941448 mojave 你说得都对 2020-03-05 17:11:50
+我没有套cdn
+#quote zhbzhbzhbz
 

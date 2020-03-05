@@ -1,0 +1,7 @@
+#t 35 17569219 dengj 2020-03-05 17:37:00 dengj 2020-03-05 17:37:00
+学校邮箱注册的OneNote无法使用OneNote Clipper
+
+#p 21941542 dengj Shoegazer 2020-03-05 17:36:15
+如题。因为学校邮箱注册的OneNote特别香，一直在用。但是剪藏网页的拓展程序一直无法用学校账户登录，错误反馈是An administrator needs to claim ownership of the company by DNS validation of pku.edu.cn before the application OneNote Web Clipper can be provisioned.
+在微软社区相同错误代码得到的反馈是“关于这个报错的原因是由于您的网络管理员可能将一些通道阻止了， 所以无法连接相应的服务。”，想请问计算中心是否有可能解决这一问题呢？如果不行的话就只好用不同账户间笔记转移的笨方法了qwq，依然表达感谢！
+
