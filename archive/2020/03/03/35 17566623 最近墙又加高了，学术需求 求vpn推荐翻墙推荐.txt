@@ -1,4 +1,4 @@
-#t 35 17566623 seraphimdk 2020-03-03 00:17:00 zhbzhbzhbz 2020-03-05 20:04:00
+#t 35 17566623 seraphimdk 2020-03-03 00:17:00 Kryptia 2020-03-06 10:36:00
 最近墙又加高了，学术需求 求vpn推荐翻墙推荐
 
 #p 21931917 seraphimdk seraphimdk 2020-03-03 17:29:31
@@ -410,4 +410,8 @@ Trojan好像套不了CDN，它TLS里面的数据流不是WS
 #p 21942160 zhbzhbzhbz RedB 2020-03-05 20:03:55
 哦哦谢谢~~
 #quote mojave
+
+#p 21944307 Kryptia 四季 2020-03-06 10:35:53
+I2P出口不会配置呀
+#quote IlIl
 
