@@ -1,6 +1,16 @@
-#t 668 17570878 Gitanjali 2020-03-06 20:33:00 Gitanjali 2020-03-06 20:33:00
+#t 668 17570878 Gitanjali 2020-03-06 20:33:00 PKUCC 2020-03-06 21:06:00
 求助VPN连不上网卸载错误重装不成
 
 #p 21947095 Gitanjali Gitanjali 2020-03-06 20:32:32
 VPN连不上网卸载错误重装不成，请问有其他获取图书馆资源的方式
+
+#p 21947233 PKUCC 北京大学计算中心 2020-03-06 21:04:57
+1.VPN连不上，一般是链路原因，与客户端无关，请对照常见问题排查下。
+2.无法卸载或重装，通常是与系统里的安全软件相关,请从这方面查找原因。
+3.若只是访问电子资源，可用wpn,carsi或vpns([https://vpns.pku.edu.cn](jump-to.php?url=https%3A%2F%2Fvpns.pku.edu.cn))
+#quote Gitanjali
+
+#p 21947236 PKUCC 北京大学计算中心 2020-03-06 21:05:46
+另外也可以访问[https://ds.carsi.edu.cn/resourcelist.html](jump-to.php?url=https%3A%2F%2Fds.carsi.edu.cn%2Fresourcelist.html)试试要访问的资源是否在列表中
+#quote Gitanjali
 
