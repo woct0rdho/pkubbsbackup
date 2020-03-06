@@ -1,0 +1,16 @@
+#t 35 17570569 Freeya 2020-03-06 16:13:00 dvorah 2020-03-06 16:21:00
+求问大神怎么用chrome浏览器登录谷歌学术？
+
+#p 21945935 Freeya 夏虫 2020-03-06 16:12:43
+科研需求，需要登陆谷歌学术。之前用的某大佬推荐的hosts文件，但是最近忽然登不了了，清除了dns缓存也不行。请问各位大神有什么方法能登谷歌学术呢？另，我对这些技术不太了解，跪求大神能解释得通俗易懂一点。感谢！
+
+#p 21945947 Freeya 夏虫 2020-03-06 16:14:42
+不一定chrome浏览器，能登陆就行。。
+#quote Freeya
+
+#p 21945980 dvorah 尺蠖·德沃夏蛤 2020-03-06 16:20:09
+本版有人提供免费服务 需要学号邮箱
+另外可以看一下GitHub上的hosts服务
+[https://github.com/googlehosts/hosts](jump-to.php?url=https%3A%2F%2Fgithub.com%2Fgooglehosts%2Fhosts)
+#quote Freeya
+
