@@ -1,4 +1,4 @@
-#t 35 17570569 Freeya 2020-03-06 00:16:00 fcwrtb 2020-03-07 14:24:00
+#t 35 17570569 Freeya 2020-03-06 00:16:00 pzm 2020-03-07 17:59:00
 求问大神怎么用chrome浏览器登录谷歌学术？
 
 #p 21945935 Freeya 夏虫 2020-03-06 16:12:43
@@ -29,5 +29,9 @@
 
 #p 21950135 fcwrtb fcwrtb 2020-03-07 14:24:10
 同推荐镜像：[https://xs.glgoo.org/](jump-to.php?url=https%3A%2F%2Fxs.glgoo.org%2F)
+#quote Freeya
+
+#p 21951009 pzm 睦 2020-03-07 17:59:50
+有chrome插件，谷歌上网助手，免费，安全性不知道，但是确实可以用
 #quote Freeya
 
