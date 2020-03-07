@@ -1,4 +1,4 @@
-#t 35 17570569 Freeya 2020-03-06 00:16:00 IlIl 2020-03-07 10:34:00
+#t 35 17570569 Freeya 2020-03-06 00:16:00 fcwrtb 2020-03-07 14:24:00
 求问大神怎么用chrome浏览器登录谷歌学术？
 
 #p 21945935 Freeya 夏虫 2020-03-06 16:12:43
@@ -21,5 +21,13 @@
 #p 21949136 IlIl 王铁崖 2020-03-07 10:33:20
 技术不太了解的话很难用文字的办法讲清楚，先用镜像凑合一下吧。
 [http://scholar.hedasudi.com/](jump-to.php?url=http%3A%2F%2Fscholar.hedasudi.com%2F)
+#quote Freeya
+
+#p 21950049 xjin 九日同学 2020-03-07 14:07:24
+用镜像网站？
+#quote Freeya
+
+#p 21950135 fcwrtb fcwrtb 2020-03-07 14:24:10
+同推荐镜像：[https://xs.glgoo.org/](jump-to.php?url=https%3A%2F%2Fxs.glgoo.org%2F)
 #quote Freeya
 
