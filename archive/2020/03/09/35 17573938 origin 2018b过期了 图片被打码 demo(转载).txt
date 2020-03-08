@@ -1,0 +1,13 @@
+#t 35 17573938 shelleyHJ 2020-03-09 00:29:00 IlIl 2020-03-09 00:38:00
+origin 2018b过期了 图片被打码 demo(转载)
+
+#p 21957608 shelleyHJ tlshanlady 2020-03-09 00:29:13
+[原文由 Anonymous 发表在 SecretGarden 版 &gt;&gt;&gt;](post-read.php?bid=414&amp;threadid=17573938)
+如图所示，昨天画的图今天打开，图片复制出来被打上很多“demo”字样。
+然后还多了黑色的线条，乱七八糟的。
+请问这是怎么回事啊？
+
+#p 21957626 IlIl 王铁崖 2020-03-09 00:37:59
+license到期了呗，软件又退回成试用版了，试试用edu邮箱再申请一个新license?
+#quote shelleyHJ
+
