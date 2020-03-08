@@ -1,4 +1,4 @@
-#t 35 17573139 huangzhiyan 2020-03-08 00:15:00 rufeng 2020-03-08 19:39:00
+#t 35 17573139 huangzhiyan 2020-03-08 00:15:00 IlIl 2020-03-08 22:04:00
 如何通过校园的ipv6连谷歌呢？
 
 #p 21955018 huangzhiyan 妍同学 2020-03-08 15:01:17
@@ -21,4 +21,8 @@ github搜索ipv6 hosts，把记录添加到自己系统的hosts文件里去
 #p 21956418 rufeng renormalization 2020-03-08 19:38:49
 哭死
 #quote ultraBad
+
+#p 21956981 IlIl 王铁崖 2020-03-08 22:03:43
+连上学校的VPN便可以自动获取ipv6地址，但是目前Google的ipv6地址也已经被屏蔽，使用修改host的方法已经无法直连Google。但是使用通过ipv6线路的ss/ssr/v2ray都还是稳得一批的。
+#quote huangzhiyan
 
