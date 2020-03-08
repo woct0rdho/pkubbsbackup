@@ -1,4 +1,4 @@
-#t 1465 17572744 flowerofevil 2020-03-08 00:08:00 yufeicao 2020-03-08 10:51:00
+#t 1465 17572744 flowerofevil 2020-03-08 00:08:00 al 2020-03-08 11:13:00
 中药不管用啊
 
 #p 21953167 flowerofevil 离风 2020-03-08 08:39:33
@@ -37,4 +37,21 @@
 #p 21953644 yufeicao 飞鹰 2020-03-08 10:50:50
 一般是辅助治疗
 #quote flowerofevil
+
+#p 21953701 vimacs Lisp Interaction Paredit AC 2020-03-08 11:08:37
+
+
+2020-03-08 11:07:10
+中药官不管用我不知道，如果得病了医生给什么药就用什么。
+此外，我记得那个WHO页面不建议非密切接触病人的健康人使用口罩保护自己，但是在中国这么做风险可能很大。
+#quote flowerofevil
+
+#p 21953725 Turarkhan Turarkhan 2020-03-08 11:11:49
+怕引起误会，中国人看见以为是TCM呗
+#quote everyoneeeee
+
+#p 21953735 al aluminium 2020-03-08 11:12:42
+吃拿卡要
+两千万刀
+#quote Abee
 

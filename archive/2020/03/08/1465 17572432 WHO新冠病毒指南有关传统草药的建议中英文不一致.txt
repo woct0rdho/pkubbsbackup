@@ -1,4 +1,4 @@
-#t 1465 17572432 entropy 2020-03-08 00:01:00 nogatnep 2020-03-08 00:22:00
+#t 1465 17572432 entropy 2020-03-08 00:00:00 tongye 2020-03-08 11:11:00
 WHO新冠病毒指南有关传统草药的建议中英文不一致
 
 #p 21952505 entropy 四斋蒸鹅心|本站第二肥宅 2020-03-08 00:00:47
@@ -14,5 +14,9 @@ WHO新冠病毒指南有关传统草药的建议中英文不一致
 
 #p 21952558 nogatnep ko001 2020-03-08 00:21:11
 网页链接：[https://www.who.int/news-room/q-a-detail/q-a-coronaviruses](jump-to.php?url=https%3A%2F%2Fwww.who.int%2Fnews-room%2Fq-a-detail%2Fq-a-coronaviruses)
+#quote entropy
+
+#p 21953721 tongye 桶爷 2020-03-08 11:10:44
+现在英文版也没有草药那一项了，中药的游说能力比NRA强多了……
 #quote entropy
 
