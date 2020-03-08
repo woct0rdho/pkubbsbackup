@@ -1,4 +1,4 @@
-#t 35 17573139 huangzhiyan 2020-03-08 00:15:00 huangzhiyan 2020-03-08 16:51:00
+#t 35 17573139 huangzhiyan 2020-03-08 00:15:00 ultraBad 2020-03-08 17:18:00
 如何通过校园的ipv6连谷歌呢？
 
 #p 21955018 huangzhiyan 妍同学 2020-03-08 15:01:17
@@ -12,4 +12,9 @@ github搜索ipv6 hosts，把记录添加到自己系统的hosts文件里去
 #p 21955455 huangzhiyan 妍同学 2020-03-08 16:50:23
 请问连上了学校的vpn就连上了ipv6吗？按照学校网络上的说明似乎没有具体谈怎么接入ipv6
 #quote ultraBad
+
+#p 21955590 ultraBad 海淀吴彦祖 2020-03-08 17:17:53
+是的，v4v6双栈
+但是因为ipv6没有好用的dns，另外ipv6的墙近些时间已经建起来了，所以比较鸡肋
+#quote huangzhiyan
 
