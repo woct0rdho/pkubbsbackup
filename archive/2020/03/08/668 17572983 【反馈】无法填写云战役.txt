@@ -1,0 +1,18 @@
+#t 668 17572983 Homagod 2020-03-08 12:23:00 Homagod 2020-03-08 12:36:00
+【反馈】无法填写云战役
+
+#p 21954129 Homagod 不愉快です 2020-03-08 12:23:20
+Error 500--Internal Server Error
+From RFC 2068 Hypertext Transfer Protocol -- HTTP/1.1:
+10.5.1 500 Internal Server Error
+The server encountered an unexpected condition which prevented it from fulfilling the request.
+
+#p 21954195 PKUCC 北京大学计算中心 2020-03-08 12:33:50
+同学：
+      现在可以啦！
+#quote Homagod
+
+#p 21954205 Homagod 不愉快です 2020-03-08 12:36:10
+谢谢你！
+#quote PKUCC
+
