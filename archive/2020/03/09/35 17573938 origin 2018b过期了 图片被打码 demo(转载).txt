@@ -1,4 +1,4 @@
-#t 35 17573938 shelleyHJ 2020-03-09 00:29:00 IlIl 2020-03-09 00:38:00
+#t 35 17573938 shelleyHJ 2020-03-09 00:00:00 IlIl 2020-03-09 18:37:00
 origin 2018b过期了 图片被打码 demo(转载)
 
 #p 21957608 shelleyHJ tlshanlady 2020-03-09 00:29:13
@@ -9,5 +9,14 @@ origin 2018b过期了 图片被打码 demo(转载)
 
 #p 21957626 IlIl 王铁崖 2020-03-09 00:37:59
 license到期了呗，软件又退回成试用版了，试试用edu邮箱再申请一个新license?
+#quote shelleyHJ
+
+#p 21960585 shelleyHJ tlshanlady 2020-03-09 18:08:51
+已经有新的激活码和序列号了，但是许可信息依然是原先过期的激活码，请问怎么更换呢
+而且登录不了新的账号，只要一输入账号，就显示账号无效
+#quote IlIl
+
+#p 21960700 IlIl 王铁崖 2020-03-09 18:36:21
+不知道软件版本是否一样，点help再点deactivate license即可停用旧license。
 #quote shelleyHJ
 
