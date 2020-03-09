@@ -1,4 +1,4 @@
-#t 35 17573938 shelleyHJ 2020-03-09 00:00:00 IlIl 2020-03-09 18:37:00
+#t 35 17573938 shelleyHJ 2020-03-09 00:00:00 shelleyHJ 2020-03-09 20:07:00
 origin 2018b过期了 图片被打码 demo(转载)
 
 #p 21957608 shelleyHJ tlshanlady 2020-03-09 00:29:13
@@ -19,4 +19,16 @@ license到期了呗，软件又退回成试用版了，试试用edu邮箱再申�
 #p 21960700 IlIl 王铁崖 2020-03-09 18:36:21
 不知道软件版本是否一样，点help再点deactivate license即可停用旧license。
 #quote shelleyHJ
+
+#p 21961010 shelleyHJ tlshanlady 2020-03-09 20:03:55
+版本是origin 2018b， 停用许可证的按钮是灰色的，这个办法已经想过了……
+#quote IlIl
+
+#p 21961018 IlIl 王铁崖 2020-03-09 20:05:36
+不怕麻烦的话就试试先卸载软件，然后用ccleaner清理一下注册表再安装吧😂
+#quote shelleyHJ
+
+#p 21961025 shelleyHJ tlshanlady 2020-03-09 20:07:05
+好的 谢谢
+#quote IlIl
 
