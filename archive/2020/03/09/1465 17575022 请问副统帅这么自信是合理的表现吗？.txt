@@ -1,4 +1,4 @@
-#t 1465 17575022 Rockefeller 2020-03-09 00:18:00 Iowa 2020-03-09 20:57:00
+#t 1465 17575022 Rockefeller 2020-03-09 00:18:00 coldhot 2020-03-09 22:36:00
 请问副统帅这么自信是合理的表现吗？
 
 #p 21960757 Rockefeller 找到女朋友之后就不上BBS了 2020-03-09 18:52:03
@@ -36,4 +36,8 @@
 "thanks to the decisive leadership of President Trump"
 和中国的说法类似啊
 #quote Rockefeller
+
+#p 21961630 coldhot 冷炎 2020-03-09 22:35:46
+不防护会导致任何复杂高技术协作无法高效完成。比如程序员要效率要封闭开发，不能都远程办公。
+#quote MDP
 
