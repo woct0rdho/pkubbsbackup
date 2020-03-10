@@ -1,4 +1,4 @@
-#t 35 17576277 cxt 2020-03-10 00:17:00 essethon 2020-03-10 21:54:00
+#t 35 17576277 cxt 2020-03-10 00:17:00 FireWork 2020-03-10 22:52:00
 vultr架设的v2ray和ssr部分网站上不了。。。
 
 #p 21965218 cxt 丞相 2020-03-10 17:37:12
@@ -46,5 +46,9 @@ Pixiv也是2333，用vultr的服务器全部上不了，应该是一并被ban掉
 autonomous 不是匿名的意思 （ [https://zh.wikipedia.org/zh-cn/%E8%87%AA%E6%B2%BB%E7%B3%BB%E7%BB%9F](jump-to.php?url=https%3A%2F%2Fzh.wikipedia.org%2Fzh-cn%2F%25E8%2587%25AA%25E6%25B2%25BB%25E7%25B3%25BB%25E7%25BB%259F) ）
 应该是你同一个 AS 或者近似 IP 段的服务器做了不好的事情，然后网站把整个 AS ban 了你就躺枪了。就像 Google Scholar 屏蔽一些 IP 段。
 忍不了的话换服务商或者换 IP 吧
+#quote cxt
+
+#p 21966517 FireWork 我是火了 2020-03-10 22:51:05
+找个原生ip去试试吧，他可能屏蔽了idc的ip段。
 #quote cxt
 
