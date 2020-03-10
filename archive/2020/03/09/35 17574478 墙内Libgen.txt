@@ -1,4 +1,4 @@
-#t 35 17574478 PsySunrise 2020-03-09 00:12:00 PsySunrise 2020-03-10 04:51:00
+#t 35 17574478 PsySunrise 2020-03-09 00:12:00 nietsnie 2020-03-10 17:13:00
 墙内Libgen
 
 #p 21958948 PsySunrise 无良之心 2020-03-09 12:01:21
@@ -20,4 +20,8 @@
 镜像站——不是proxy
 就是可以直接从该网站access所有资源而不需要别的网站
 #quote nietsnie
+
+#p 21965104 nietsnie 嗯，我是一个昵称 2020-03-10 17:13:00
+重新看了一下，现在 libgen.lc 和 booksdl.org 应该可以访问
+#quote PsySunrise
 

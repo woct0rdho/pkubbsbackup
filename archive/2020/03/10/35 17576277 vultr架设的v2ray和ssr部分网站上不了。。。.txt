@@ -1,0 +1,11 @@
+#t 35 17576277 cxt 2020-03-10 17:37:00 cxt 2020-03-10 17:38:00
+vultr架设的v2ray和ssr部分网站上不了。。。
+
+#p 21965218 cxt 丞相 2020-03-10 17:37:12
+发现用vps架设的v2ray和shadowsocksR上不了5ch（包括用日本ip，似乎是匿名导致的: The owner of this website (5ch.net) has banned the autonomous system number (ASN) your IP address is in (4134) from accessing this website.），bangumi，还有英文维基（中文可以）
+目前是用vultr的服务器，请问各位大佬有什么办法解决吗？（或许关掉匿名就可以了但我不知道怎么搞）
+
+#p 21965222 cxt 丞相 2020-03-10 17:37:35
+而且早上起来的时候网速很快，然后慢慢地就变慢了。。。
+#quote cxt
+
