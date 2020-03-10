@@ -1,4 +1,4 @@
-#t 35 17575359 motaguoke 2020-03-09 23:50:00 motaguoke 2020-03-09 23:50:00
+#t 35 17575359 motaguoke 2020-03-09 00:23:00 CharAznable 2020-03-10 09:27:00
 谷歌收集的用户定位等数据竟然被用来破案？！ 
 
 #p 21961957 motaguoke 孤帆远影 2020-03-09 23:51:13
@@ -7,4 +7,16 @@
 2020-03-09 23:50:40
 [https://mp.weixin.qq.com/s/gzxxY-fdV29CqrTAwBMFNQ](jump-to.php?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FgzxxY-fdV29CqrTAwBMFNQ)
 划重点：您可以在myactivity.google.com上的Google帐户页面上看存储的位置标记
+
+#p 21962857 harovd 蛤夏沃德 2020-03-10 09:21:36
+华为hms可能是最大赢家？
+#quote motaguoke
+
+#p 21962873 CharAznable 赤い彗星 2020-03-10 09:26:27
+大概十年前我就见过类似的新闻了。。。当时还叫Google latitude
+#quote motaguoke
+
+#p 21962875 CharAznable 赤い彗星 2020-03-10 09:26:50
+想多了，华为那就是用了这个数据然后你也见不到新闻。。。
+#quote harovd
 
