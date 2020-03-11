@@ -1,0 +1,12 @@
+#t 668 17577801 thaikon 2020-03-11 20:57:00 thaikon 2020-03-11 20:57:00
+第三天了，每天晚上9点VPN准时卡死
+
+#p 21970795 thaikon 陶象 2020-03-11 20:56:49
+
+
+2020-03-11 20:56:33
+如题。VPN卡死常常导致我被迫从教学一号或者我们课题组的服务器下线。
+昨天这个点测试了一下，结果如下：
+不连VPN时，ping vpn.pku.edu.cn 或者 ping vpnc.pku.edu.cn 都很快。连VPN后，无论是 ping vpn.pku.edu.cn 还是 ping vpnc.pku.edu.cn，甚至连ping www.baidu.com 都提示连接超时。
+敢烦贵中心的老师们解决一下。
+
