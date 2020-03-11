@@ -1,0 +1,12 @@
+#t 668 17577110 Tranquilsun 2020-03-11 10:01:00 PKUCC 2020-03-11 10:20:00
+VPNS登录 下载正版软件提示回调地址错误
+
+#p 21967799 Tranquilsun 串口|不丧|无常 2020-03-11 10:01:13
+如下图所示
+<img src="https://bbs.pku.edu.cn/attach/.thumbnail/30/c4/30c4eb5bbdd2ef9c.jpg"/>
+请问该怎么解决呢？谢谢了~
+
+#p 21967880 PKUCC 北京大学计算中心 2020-03-11 10:19:33
+请从“门户”（[https://portal.pku.edu.cn](jump-to.php?url=https%3A%2F%2Fportal.pku.edu.cn)），然后选择“正版软件”进入下载
+#quote Tranquilsun
+
