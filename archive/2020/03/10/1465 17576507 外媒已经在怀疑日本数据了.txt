@@ -1,8 +1,10 @@
-#t 1465 17576507 gter 2020-03-10 00:21:00 Nd 2020-03-11 10:58:00
+#t 1465 17576507 gter 2020-03-10 00:21:00 gter 2020-03-11 11:40:00
 外媒已经在怀疑日本数据了
 
-#p 21966128 gter 呵呵 2020-03-10 21:19:13
-英国太阳报
+#p 21966128 gter 呵呵 2020-03-11 11:40:33
+
+
+2020-03-10 21:19:13
 [https://www.thesun.co.uk/news/11137090/brits-face-coronavirus-lockdown-italy/](jump-to.php?url=https%3A%2F%2Fwww.thesun.co.uk%2Fnews%2F11137090%2Fbrits-face-coronavirus-lockdown-italy%2F)
 One of these countries is not like the rest——
 Here's the coronavirus data, overlayed with the dates offset by the amounts shown. One of these countries is not like the rest. Everyone else will be Italy in 9-14 days time. pic.twitter.com/VESY54X1gP
@@ -36,4 +38,13 @@ Here's the coronavirus data, overlayed with the dates offset by the amounts show
 #p 21968082 Nd 中华门站 2020-03-11 10:58:01
 日本9号提高了检测数量，但阳性率仍然比较低，而且日本社会也没有出现像意大利、湖北那样医疗资源耗尽的情况，所以先不忙下结论。
 #quote gter
+
+#p 21968220 Rioter 名字太长躲在大树后面容易被联盟发现 2020-03-11 11:32:05
+太阳报就算了吧....
+#quote gter
+发自我的“北大未名”iOS客户端([http://t.cn/R7ZhtYc](jump-to.php?url=http%3A%2F%2Ft.cn%2FR7ZhtYc))
+
+#p 21968261 gter 呵呵 2020-03-11 11:39:58
+你这个信息的source？
+#quote Nd
 
