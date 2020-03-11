@@ -1,4 +1,4 @@
-#t 668 17571029 aluobrown 2020-03-06 00:23:00 zhuxinjie 2020-03-07 12:06:00
+#t 668 17571029 aluobrown 2020-03-06 00:23:00 PKUCC 2020-03-11 09:11:00
 求助！在家挂vpn安装win10无法激活
 
 #p 21947692 aluobrown junjun的夫人 2020-03-06 23:01:57
@@ -18,4 +18,10 @@
 2020-03-07 12:05:38
 <img src="blob:https://bbs.pku.edu.cn/793275d0-f20c-46cc-9bd6-a65e71c47e67"/>
 近段时间Endnote不能使用，文献无法正常引用，Word页面总是提示更新，但是Office插件我都进行了更新，endnote依然不能正常使用。即使将所有的软件进行重装，依然是这样，请问有没有什么办法可以解决此类问题，谢谢。
+
+#p 21967601 PKUCC 北京大学计算中心 2020-03-11 09:10:53
+endnote应该是更新到x9版本了，以下为相关的帮助信息连接；
+[https://www.lib.pku.edu.cn/portal/cn/zy/software?qt-content_page_software=4#qt-content_page_software](jump-to.php?url=https%3A%2F%2Fwww.lib.pku.edu.cn%2Fportal%2Fcn%2Fzy%2Fsoftware%3Fqt-content_page_software%3D4%23qt-content_page_software)
+如果在安装或使用过程中出现问题，可联系图书馆工作人员62759145
+#quote zhuxinjie
 
