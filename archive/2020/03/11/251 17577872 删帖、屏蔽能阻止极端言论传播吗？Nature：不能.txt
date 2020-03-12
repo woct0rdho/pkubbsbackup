@@ -1,4 +1,4 @@
-#t 251 17577872 Baandarin 2020-03-11 22:10:00 Baandarin 2020-03-11 22:10:00
+#t 251 17577872 Baandarin 2020-03-11 00:22:00 coldda 2020-03-12 07:08:00
 删帖、屏蔽能阻止极端言论传播吗？Nature：不能
 
 #p 21971093 Baandarin 板子 2020-03-11 22:09:39
@@ -29,4 +29,8 @@
 论文信息：
 Hidden resilience and adaptive dynamics of the global online hate ecology
 [https://www.nature.com/articles/s41586-019-1494-7](jump-to.php?url=https%3A%2F%2Fwww.nature.com%2Farticles%2Fs41586-019-1494-7)
+
+#p 21972015 coldda CNS解剖 2020-03-12 07:07:52
+“ 任何人都可以在 Facebook 上开设公共账号”。
+#quote Baandarin
 
