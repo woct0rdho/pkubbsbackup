@@ -1,4 +1,4 @@
-#t 1465 17578398 motaguoke 2020-03-12 10:07:00 motaguoke 2020-03-12 10:07:00
+#t 1465 17578398 motaguoke 2020-03-12 00:10:00 expialy 2020-03-12 12:39:00
 USCDC称，一些流感患者死后被检测为新冠
 
 #p 21972490 motaguoke 孤帆远影 2020-03-12 10:06:22
@@ -25,4 +25,8 @@ States dying for what appears to be influenza when in fact it could be
 the coronavirus?”
 The doctor replied that “some cases have actually been diagnosed that way in the United States today.” 
 [https://edition.cnn.com/world/live-news/coronavirus-outbreak-03-11-20-intl-hnk/h_1319f66f92245a2fe4ec63fe91ab66c9/](jump-to.php?url=https%3A%2F%2Fedition.cnn.com%2Fworld%2Flive-news%2Fcoronavirus-outbreak-03-11-20-intl-hnk%2Fh_1319f66f92245a2fe4ec63fe91ab66c9%2F)
+
+#p 21973346 expialy sdcn 2020-03-12 12:38:26
+天啊
+#quote motaguoke
 
