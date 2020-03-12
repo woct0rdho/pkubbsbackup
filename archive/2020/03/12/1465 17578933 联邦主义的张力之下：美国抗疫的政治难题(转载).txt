@@ -1,0 +1,50 @@
+#t 1465 17578933 Pyrojewel 2020-03-12 17:16:00 Pyrojewel 2020-03-12 17:16:00
+联邦主义的张力之下：美国抗疫的政治难题(转载)
+
+#p 21974600 Pyrojewel 即使尘埃看今夜艳火 2020-03-12 17:15:44
+
+
+2020-03-12 17:15:34
+**联邦主义的张力之下：美国抗疫的政治难题**｜2020-03-12
+　　<font color="#c0c0c0">——为何美国这个医疗技术如此进步的国家，会在面对本土疫情爆发时如此捉襟见肘？</font>
+黎班 
+<img src="https://d32kak7w9u5ewj.cloudfront.net/media/image/2020/03/56ccb1d28a8946c99a33a3d0fb09a8ee.jpg"/>2020年3月3日，纽约时代广场不少人人戴上口罩。摄：Eduardo Munoz / VIEWpress via Getty Images
+　　美国疾病管制局（Center of Desease Control）在二月底就发出警告（[https://www.cnn.com/2020/02/25/health/coronavirus-us-american-cases/index.html](jump-to.php?url=https%3A%2F%2Fwww.cnn.com%2F2020%2F02%2F25%2Fhealth%2Fcoronavirus-us-american-cases%2Findex.html)），指这场肺炎不是一个“是否会大流行”的问题，而是一个“何时会大流行”的问题。即便疾病管制局给了这么严厉的警告，川普（特朗普）仍然通过媒体声称，肺炎影响不会过于严重；而CDC和美国的医生们也到处强调口罩用处不大（[https://time.com/5794729/coronavirus-face-masks/](jump-to.php?url=https%3A%2F%2Ftime.com%2F5794729%2Fcoronavirus-face-masks%2F)），必须要留给医院员工使用。
+　　在这样混乱的信息下，毫不意外的，美国民众对于新冠病毒的态度也沿著政治倾向极化（[https://www.reuters.com/article/us-health-coronavirus-usa-polarization/americans-divided-on-party-lines-over-risk-from-coronavirus-reuters-ipsos-poll-idUSKBN20T2O3](jump-to.php?url=https%3A%2F%2Fwww.reuters.com%2Farticle%2Fus-health-coronavirus-usa-polarization%2Famericans-divided-on-party-lines-over-risk-from-coronavirus-reuters-ipsos-poll-idUSKBN20T2O3)）：共和党支持者倾向于大事化小，而民主党支持者则认为事态严重；大部分自由派媒体也都严厉批评（[https://www.nytimes.com/reuters/2020/02/27/world/asia/27reuters-china-health-usa-preparedness.html](jump-to.php?url=https%3A%2F%2Fwww.nytimes.com%2Freuters%2F2020%2F02%2F27%2Fworld%2Fasia%2F27reuters-china-health-usa-preparedness.html)）川普政府刻意弱化疫情、抨击疾管局与食药署（Food Drud Administration）的指挥防疫体系混乱；保守派媒体则在评论性节目上赞扬（[https://www.foxnews.com/media/sean-hannity-blasts-media-mob-and-democrats-for-using-coronavirus-as-a-political-weapon](jump-to.php?url=https%3A%2F%2Fwww.foxnews.com%2Fmedia%2Fsean-hannity-blasts-media-mob-and-democrats-for-using-coronavirus-as-a-political-weapon)）川普的处理并攻击民主党阻挠政府防疫。
+　　从各国面对疫情爆发时所采取的举措来看，国家能做的无非是通过断航、隔离检疫等手段限制境外移入案例，以遏止疫情的本土扩散；而当疫情不幸有本土扩散的状态时，国家能做的也就是征用、动员医疗资源来防止损害扩大。重要的是，国家能在多大程度上快且彻底地采取上述手段，会影响到疫情防治的效率。
+　　为何美国这个医疗技术如此进步的国家，会在面对本土疫情爆发时如此捉襟见肘？这更多的是政治而不是医疗技术问题。本文从这个基本框架出发，分析美国为何在近几周的防疫上如此狼狈，以及接下来可能的挑战是什么。
+**强大的联邦政府（与弱势的州政府）**
+　　这次美国的本土爆发，自由派媒体与评论者都将矛头指向川普政府，批评其准备不足以及刻意忽悠民众。但笔者与这些自由派评论者的意见非常不一样。我认为即便个别政治人物为了选举与金融市场稳定，而刻意弱化这次疫情的严重性，美国联邦政府的官僚们仍有非常强的危机意识。
+　　这从一月底美国领先各国决定断航、撤侨以及对非美国居民施行严格的入境管制就可以看得出来。CDC在疫情尚未在美国爆发时，就快速的采取了非常严格的措施来避免疫情的本土传播。
+　　那为何原本非常有效率的CDC没有发现，病毒可能已经在华盛顿州的社区传播了一个多月？（[https://www.washingtonpost.com/health/coronavirus-may-have-spread-undetected-for-weeks-in-washington-state/2020/03/01/0f292336-5bcc-11ea-9055-5fa12981bbbf_story.html](jump-to.php?url=https%3A%2F%2Fwww.washingtonpost.com%2Fhealth%2Fcoronavirus-may-have-spread-undetected-for-weeks-in-washington-state%2F2020%2F03%2F01%2F0f292336-5bcc-11ea-9055-5fa12981bbbf_story.html)）这要从美国非常独特的联邦体制说起。
+　　美国采取联邦制，而联邦制在政策与制度上的本质意义，是美国的宪法对于联邦政府“可以做什么事情”做了列举性规定（注1）。其中包含了铸币、铺路、建军、收税以及管制跨州商业行为等等。
+　　这规定是美国建国时，北方与南方代表妥协的结果：北方的工商业菁英希望一个强而有力的联邦政府提供各种公共服务，而南方仰赖土地与黑奴的地主菁英只希望一个有限度的小政府就好。这种南北张力长期存在于美国的政治体制中，例如在19世纪时，比起其他金融资本主义大国（例如英国或是荷兰），美国建立中央银行的尝试最后都以失败告终。
+　　或许是因为公共卫生概念在当时不被当成“国家”的核心权力，在这些被列举的联邦权力中，公卫并不包含其中。
+<img src="https://d32kak7w9u5ewj.cloudfront.net/media/image/2020/03/c75b212229174d9b8c146cd3b11ebf76.jpg"/><font color="#c0c0c0">2020年3月5日，纽约市地下铁的乘客戴著口罩。摄： David Dee Delgado/Getty Images</font>
+　　既然公共卫生与医疗不是联邦权限，那美国是怎样发展并建构现代公共卫生系统的呢？答案始于1789年建立的军医机构，联邦海军医院——由于各州民众的医疗服务不是联邦政府的权限，但军人的管理与医疗属于联邦政府权责，所以海军医院成为了联邦政府管理公共卫生的起点。现在美国公共卫生服务的代表徽章（[https://usphs.gov/](jump-to.php?url=https%3A%2F%2Fusphs.gov%2F)）上，还是把象征海军的船锚与象征医学的双蛇杖放在一起。
+　　随著美国的国土、人口与贸易活动的增加，联邦政府势必要更多的介入各种事务。也就是在这背景下，1933年罗斯福开启的新政让联邦政府以保障跨州商业或是征税等等宪法列举的理由，介入管制医疗以及公共卫生（注2）。在这背景下，当代美国公共卫生最重要的几个机关，经由1939年的《政府组织改造法案》，而成为我们今天知道的样子。其中最重要的莫过于从海军医院实验室蜕变而成的国家卫生院（National Institute of Health）、从疟疾防治局演变而来的疾病管制局，以及从农业部独立出来的食物药物管理署。
+　　经过长期的投资，这些机关都成为了医疗以及生物科学界的权威机构，长期与美国一流大学合作，产出各种研究以及权威性意见。但在资金充足且具有科学权威的联邦机关中产生的意见，却并不一定为各州所采纳以及执行。这是因为在联邦主义的框架下，联邦机关再怎么介入也不能完全深入到各州的具体执行层面上。联邦机关只能借由发布指引来建议各州配合，如果各州不配合，联邦机关最强而有力的武器只是扣起发给各州的补助款项，以“胁迫”各州配合。
+　　集权与分权的张力，在面对新型传染病时就会出现反应速度太慢的问题。最明显的例子莫过于检疫隔离：疾管局无权强制要求各地医院隔离检疫新冠肺炎疑似病患，这一要求必须要由各州州长，宣布医疗紧急状态后才能进行；又比如检测试剂的发放，由于食药署规定未被确认的医疗检测方法，只能由全美唯一的疾管局实验室来操作，而新冠病毒检测恰在这一范围。批评者指这种集中检疫的方法拖慢了美国的防疫，也使得尚未确诊的病人带来社区传播的潜在风险。
+　　可见，当公共卫生事务遭遇联邦与州的资源与权力协调时，就会看出联邦系统的弱点：<font color="#0000c0">具有资源且能力强的是联邦政府，但具有管理基层事务权限的是州与其他地方政府，加上各州政府的能力又参差不齐，跟不上传染病的快速传播，应对自然也就慢很多。</font>简言之，这样的强联邦/弱地方政府的状况，让灾难应变与重建变得更为困难。
+**市场导向的医疗服务业**
+　　让事情更为棘手的是全面市场化的医疗服务业体制。美国有全世界绝无仅有的、非常倚赖保险市场的医疗服务业体系，在这个系统下，美国并没有基于身份或是职业类别的医疗保险——雇员的医疗保险情况，取决于雇主愿意花多少钱从保险市场上购买。如此市场导向的医疗服务业造成的后果是，很多人没有医疗保险，或是只有便宜但很烂的医疗保险。导致人们即便有感冒症状也习惯性的不就医，而如果不就医，就没有办法检测、也没有办法确诊。
+　　这种特殊的医疗服务体制是长期以来，国家、医疗专业团体、金融保险业者与劳工运动之间互动的结果。相对于其他有社会福利形态的医疗保险的国家，美国的民众很早就有普选权，所以在20世纪初，美国工人运动在要求福利后，就快速地被吸纳入选举政治体系中，这个民主党与工会的政治结盟就是罗斯福著名的新政联盟。其导致的结果是，劳工的医疗福利诉求被认为是贪婪的肉桶政治（Pork barrel，自肥政治），无法获得更为广泛的支持；再加上每次有社福性医疗的诉求时，医疗专业团体、保险业者与药厂就会快速动员抵制，这使得医疗福利政策在美国成为一个高度选举政治化的议题，而最后的结果就是各项改革和政策都难以推行。
+　　而对于普通美国人来说，更为切身的问题是新冠肺炎检测，到底会不会被纳入保险给付范围，或联邦政府愿不愿意买单。如果政府没有办法保证低廉的检测费用的话，那可能就有感染者没有就医，继而成为病毒传播源；更大的问题是，<font color="#0000c0">病毒在美国的传播与死亡率会沿著社会经济地位有明显的区隔</font>，高社经地位、有良好医疗保险的美国人可以享受全世界最好的医疗服务，而低社经地位的人，连看医生都不敢看。（[https://link.springer.com/article/10.1186/1471-2458-14-214](jump-to.php?url=https%3A%2F%2Flink.springer.com%2Farticle%2F10.1186%2F1471-2458-14-214) 、[https://www.bmj.com/content/312/7037/999.full](jump-to.php?url=https%3A%2F%2Fwww.bmj.com%2Fcontent%2F312%2F7037%2F999.full)）
+<img src="https://d32kak7w9u5ewj.cloudfront.net/media/image/2020/03/28ddc8b424294e4fa1bf8eeea68a18c3.jpg"/><font color="#0000c0">纽约曼哈顿的街头上，一名女子戴著口罩。摄：Spencer Platt/Getty Images</font>
+**（过分）自信的证据导向医学？**
+　　在混乱的联邦公卫体系与糟糕的医疗体制外，美国抗疫的可能隐忧还来自于医生与公卫专家对于循证医学（evidence based medicine）的高度自信。“口罩无用论”大概就是美国医疗专业团体对“证据导向”类医学高度自信的最好展现。
+　　比如笔者简单搜寻期刊，就可发现一篇文章（[https://www.bmj.com/content/350/bmj.h694.abstract](jump-to.php?url=https%3A%2F%2Fwww.bmj.com%2Fcontent%2F350%2Fbmj.h694.abstract)），总结并评述了过去十年，美国运用随机对照实验（Randomized Control Trial）研究口罩与洗手是否有用的所有研究。文章指出，过去的研究基本得出一个结论，就是在医院环境下，戴口罩的组别比起不戴口罩的组别，罹患流行性感冒的机率比较低；而在非医院的社区环境下，戴口罩与否对于得流行性感冒的机率没有显著影响。
+　　但仔细推敲，可发现“口罩无用论”的结论实在是下得太快了。比如大部分的研究在确认实验组与对照组的受试者是否有感冒时，都是采用受试者的主观回报，而非医学采检，这就在统计上造成了不小的误差。又比如，过往的研究都是以受试者“是否有流行性感冒征状”为指标，而这个指标无法直接推论到，口罩对于防止新冠病毒传播有无效果。再如，流行病学上会用二次罹患率（secondary attack rate， 指在有密切接触的人当中疾病的传播率。）来评估疾病的传染强度，流行性感冒的二次罹患率通常在5-15%之间，但从新冠病毒的最新评估来看，二次罹患率可能高达27-44%（[https://www.thelancet.com/journals/lancet/article/PIIS0140-6736%2820%2930462-1/fulltext#%20](jump-to.php?url=https%3A%2F%2Fwww.thelancet.com%2Fjournals%2Flancet%2Farticle%2FPIIS0140-6736%252820%252930462-1%2Ffulltext%23%2520)）。面对这么高的传染率，用针对流行性感冒的研究成果来推论“口罩对新冠病毒无用”，可能是过度推论。
+　　再者，过往针对戴口罩是否有用的研究都只能在统计上得出“无法确定口罩有效”这样的结论，而并没有办法得出“确定口罩无效”这个结论。这就是统计推论的基本问题——我们很难在统计上确定的说一个效果不存在，而只能说无法断定它存在。但是这种理论上要很小心解释的统计研究成果，到了面对一般公众时，就变成了“口罩无用论”，其不精确是显而易见的。
+　　笔者认为，美国公卫专家采取“口罩无用论”这种建议的主因，除了是想避免恐慌并且把资源留给医疗人员使用外，更大的原因是对于循证医学的执著。近二十年来快速发展的循证医学，总是讲求要有样本数够大的研究来支持医生的医疗行为。但即便循证医学快速发展，一线的医生与公卫专家们并不见得都专精于需要谨慎解读的统计研究。在这样的背景下，<font color="#0000c0">有些不见得非常稳健（robust）的研究也被当成证据，进而成为美国的医疗指引与公卫政策方针。</font>
+**美国抗疫的前景**
+<img src="https://d32kak7w9u5ewj.cloudfront.net/media/image/2020/03/6a5f8fd1327141b7bbbb966e8e391371.jpg"/><font color="#c0c0c0">2020年3月9日，大公主号停泊在旧金山接受隔离检疫。摄：Josh Edelson / AFP via Getty Images</font>
+　　随著食药署与疾管局将测试病毒的权力下放到各州，我们可以看到这几天来确诊案例快速增加，而在旧金山外海的大公主号（Grand Princess）目前也被全船检疫隔离。这艘公主号是否会如同在日本的钻石公主号一样，成为交叉感染的温床，应该是美国联邦与地方政府最头疼的问题。
+　　不过，随著各州纷纷宣布进入紧急状态，以及疾管局开始警告美国民众要准备好停课以及远程上班后，美国人似乎开始对防疫提升了警觉。现在在公共场所出入都可以看到提供非常多的酒精洗手液，只是戴口罩的人仍然相对稀少。各州都在采取措施，在纽约州，州政府甚至在爆发大规模感染的富庶郊区，划定了隔离区并派国民兵进入消毒与派发必要物资；华盛顿州的医疗体系正在崩溃边缘（[https://komonews.com/news/coronavirus/bloodworks-northwest-declares-local-blood-supply-emergency-in-wake-of-covid-19-outbreak](jump-to.php?url=https%3A%2F%2Fkomonews.com%2Fnews%2Fcoronavirus%2Fbloodworks-northwest-declares-local-blood-supply-emergency-in-wake-of-covid-19-outbreak)），州与联邦政府希望可以在采取更激烈的措施（例如对华盛顿州断航）之前控制情势。
+　　这些措施无非是要“拉平感染曲线”（[https://www.vox.com/2020/3/10/21171481/coronavirus-us-cases-quarantine-cancellation](jump-to.php?url=https%3A%2F%2Fwww.vox.com%2F2020%2F3%2F10%2F21171481%2Fcoronavirus-us-cases-quarantine-cancellation)），与病毒赛跑，以在感染规模大到医疗体系负荷不了之前，缓和感染速度。
+　　但联邦主义的困境仍然没有解决。与纽约类似，加州的疫情看起来也有可能大爆发，但地方政府采取的措施却非常的消极（[https://www.saccounty.net/news/latest-news/Pages/County-Announces-New-Mitigation-Efforts-COVID-19.aspx](jump-to.php?url=https%3A%2F%2Fwww.saccounty.net%2Fnews%2Flatest-news%2FPages%2FCounty-Announces-New-Mitigation-Efforts-COVID-19.aspx)），沙加缅度郡直接了当地说“不需要检疫隔离”，除非患者快要死了，不然不要去医院。<font color="#0000c0">加州消极的防疫态度就跟纽约非常激烈的防疫手段形成了对比，这样的不一致就会造成防疫漏洞。</font>
+　　病毒扩散暴露各种政治体制的弱点，对美国来说，没有办法同步协调的联邦与州政府，在需要快速协调资源的情况下就会变得非常的没有效率。或许真如许多专家预测的，新冠肺炎会常态化成为流行病并与人类长期共存，而各国要如何调整应对，都会是一个大的挑战。
+（黎班，旅居疫区的中美观察者）
+注1：美国宪法第一条第八项中列举了联邦政府可以管的事项。
+注2：许多公共卫生的管制是管理“有害物品”，例如烟。这种物品的交易是跨州商业活动，所以联邦政府可以管。虽然人们都知道管制烟品并不是出于“商业原因”，但在罗斯福挟著超高支持度上台后，法院也不敢挡罗斯福的这些政策。
+
