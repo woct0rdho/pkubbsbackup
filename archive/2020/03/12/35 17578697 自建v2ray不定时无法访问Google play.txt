@@ -1,4 +1,4 @@
-#t 35 17578697 out 2020-03-12 00:13:00 czatpku 2020-03-13 10:50:00
+#t 35 17578697 out 2020-03-12 00:13:00 vimacs 2020-03-13 11:43:00
 自建v2ray不定时无法访问Google play
 
 #p 21973800 out Nginx 2020-03-12 13:58:46
@@ -39,4 +39,10 @@ dl.google.com正常运营商网络都能下载的……
 同遇到了这个问题。。。现在需要play下载的只能下载下apk然后安装了。。。
 猜测是GMS对华为限制的问题
 #quote out
+
+#p 21977647 vimacs Lisp Interaction Paredit AC 2020-03-13 11:42:25
+试试 Aurora Store 或者 Yalp Store?
+[https://f-droid.org/zh_Hans/packages/com.aurora.store/](jump-to.php?url=https%3A%2F%2Ff-droid.org%2Fzh_Hans%2Fpackages%2Fcom.aurora.store%2F)
+[https://f-droid.org/zh_Hans/packages/com.github.kiliakin.yalpstore/](jump-to.php?url=https%3A%2F%2Ff-droid.org%2Fzh_Hans%2Fpackages%2Fcom.github.kiliakin.yalpstore%2F)
+#quote czatpku
 

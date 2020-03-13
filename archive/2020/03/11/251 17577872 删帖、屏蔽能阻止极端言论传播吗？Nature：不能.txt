@@ -1,4 +1,4 @@
-#t 251 17577872 Baandarin 2020-03-11 00:22:00 hxanti 2020-03-13 05:50:00
+#t 251 17577872 Baandarin 2020-03-11 00:22:00 Homagod 2020-03-13 11:20:00
 删帖、屏蔽能阻止极端言论传播吗？Nature：不能
 
 #p 21971093 Baandarin 板子 2020-03-11 22:09:39
@@ -46,4 +46,8 @@ Hidden resilience and adaptive dynamics of the global online hate ecology
 #p 21976671 hxanti hx 2020-03-13 05:49:54
 和中国大陆的实际网络环境还是有所差别的，实名制＋面临法律威胁可能会降低极端用户在删帖封号之后的迁移意愿。
 #quote Baandarin
+
+#p 21977545 Homagod 不愉快です 2020-03-13 11:19:31
+哈哈哈我也觉得要考虑国情（狗头
+#quote hanxv
 
