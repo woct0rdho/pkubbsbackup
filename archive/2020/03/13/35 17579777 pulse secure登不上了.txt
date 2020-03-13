@@ -1,4 +1,4 @@
-#t 35 17579777 rickmorty 2020-03-13 09:22:00 rickmorty 2020-03-13 09:32:00
+#t 35 17579777 rickmorty 2020-03-13 00:09:00 Lebesgue 2020-03-13 23:05:00
 pulse secure登不上了
 
 #p 21976992 rickmorty 梦的第七章 2020-03-13 09:22:00
@@ -16,5 +16,9 @@ pulse secure登不上了
 联通: [https://vpnu.pku.edu.cn](jump-to.php?url=https%3A%2F%2Fvpnu.pku.edu.cn)
 电信通: [https://vpnp.pku.edu.cn](jump-to.php?url=https%3A%2F%2Fvpnp.pku.edu.cn)
 换了运营商，解决了
+#quote IlIl
+
+#p 21980462 Lebesgue Pd(PPh3)4 2020-03-13 23:05:09
+什么意思？能具体说一下吗？怎么ping？
 #quote IlIl
 
