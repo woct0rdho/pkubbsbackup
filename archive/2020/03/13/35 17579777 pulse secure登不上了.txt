@@ -1,4 +1,4 @@
-#t 35 17579777 rickmorty 2020-03-13 00:09:00 IlIl 2020-03-14 00:30:00
+#t 35 17579777 rickmorty 2020-03-13 00:09:00 ljslcy 2020-03-14 01:17:00
 pulse secure登不上了
 
 #p 21976992 rickmorty 梦的第七章 2020-03-13 09:22:00
@@ -25,4 +25,8 @@ pulse secure登不上了
 #p 21980834 IlIl 王铁崖 2020-03-14 00:30:22
 同时按住win键和r键，弹出运行的输入框，输入cmd并回车即可打开一个terminal，然后输入 ping vpn.pku.edu.cn 并回车。
 #quote Lebesgue
+
+#p 21980969 ljslcy StupidArcher 2020-03-14 01:17:00
+重启pulse服务再尝试连接试试
+#quote rickmorty
 
