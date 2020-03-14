@@ -1,4 +1,4 @@
-#t 1465 17580425 Bayeer 2020-03-13 00:20:00 liuxunlin 2020-03-15 01:55:00
+#t 1465 17580425 Bayeer 2020-03-13 00:20:00 euio 2020-03-15 03:43:00
 ”英国官方刚刚承认：故意让数千万人感染，获得..“
 
 #p 21979716 Bayeer 隐身衣 2020-03-13 20:03:49
@@ -1053,4 +1053,32 @@ PART2.
 #p 21986230 liuxunlin 燕南一猫 2020-03-15 01:54:04
 意大利7%了。。。医疗挤兑
 #quote ang
+
+#p 21986355 euio 耳目一心 2020-03-15 03:33:44
+确实可见水平
+#quote liuxunlin
+
+#p 21986357 euio 耳目一心 2020-03-15 03:34:28
+&gt;cold-flu-covid19季
+会不会继续加项？
+#quote liuxunlin
+
+#p 21986359 dujdao dujdao 2020-03-15 03:36:21
+Part I 
+我觉得太多人都陷入了一个思维惯式吧。其实在英国首相的意志并不能决定内阁的意志，内阁的意志也不能决定整个政府的意志。甚至经常有政府里一个部门这样，另外一个部门那样的情况。所以不能把内阁的态度当作当局（政府）的态度或者把首相的态度当作当局的态度。政府总体的决策是非常复杂的，它的态度只能由最终的决策来体现。
+（一个发现，不一定对。往往举一个反面的例子就能让大家很容易跳出这个误区，比如特朗普做了一个英明的决策，认为应当全国戒严，结果党内有人对着干，政府内有人对着干，政策制定后各州也对着干拒不实施造成无法落实或很慢落实。大家就瞬间认识到了西方体制文化的差异。但是trump发表什么脑残言论大家就纷纷表示美国要完^_^）
+你可以把内阁非常简单的理解为cabinet of trump或者trump's administration类似的概念，甚至只是johnson`s team。具体的话维基上说的也很清楚，“About twenty of the most senior government ministers make up the Cabinet and approximately 100 ministers in total comprise the government. In accordance with constitutional convention, all ministers within the government are either Members of Parliament or peers in the House of Lords.”
+([https://en.wikipedia.org/wiki/Her_Majesty's_Government](jump-to.php?url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FHer_Majesty%27s_Government))
+Part II
+这两句话代表的态度是非常明确的，就是单纯的字面意思。你可以去看之前有楼里提到的johnson的发布会或者uk政府发布的应对指南，或者更多的政府官方材料。
+其实把his government和the government区分开并不是在咬文嚼字，如果它要指代的是英国政府整体，那么一定是会用the government 而不是johnson's government，这两者是有着极大的区别的。这点我觉得你应该可以get到。这毕竟不是政府的原装公文，可能是经不起咬文嚼字的，抛弃这个思路some epidemiologists其实代表的就是政府的态度，你可以理解为这里省略了一个连词“The government is leaning heavily on skepticism......'BECAUSE' some epidemiologists fear.......,” 
+#quote yaosibutuoqi
+
+#p 21986364 euio 耳目一心 2020-03-15 03:42:55
+&gt;关于 England’s chief scientific adviser
+不管其人所言是否靠谱，
+我觉得这个职位还是很有意义的。
+至少，身为CSA, 他就甩不了锅了。
+我国在事实上最接近这个职责的是否应该是高福的CDC主任的位子？
+#quote dujdao
 
