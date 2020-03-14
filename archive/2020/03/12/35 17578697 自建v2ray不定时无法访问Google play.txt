@@ -1,4 +1,4 @@
-#t 35 17578697 out 2020-03-12 00:13:00 vimacs 2020-03-13 11:43:00
+#t 35 17578697 out 2020-03-12 00:13:00 czatpku 2020-03-14 10:05:00
 自建v2ray不定时无法访问Google play
 
 #p 21973800 out Nginx 2020-03-12 13:58:46
@@ -45,4 +45,10 @@ dl.google.com正常运营商网络都能下载的……
 [https://f-droid.org/zh_Hans/packages/com.aurora.store/](jump-to.php?url=https%3A%2F%2Ff-droid.org%2Fzh_Hans%2Fpackages%2Fcom.aurora.store%2F)
 [https://f-droid.org/zh_Hans/packages/com.github.kiliakin.yalpstore/](jump-to.php?url=https%3A%2F%2Ff-droid.org%2Fzh_Hans%2Fpackages%2Fcom.github.kiliakin.yalpstore%2F)
 #quote czatpku
+
+#p 21981764 czatpku czatpkubbs 2020-03-14 10:04:49
+谢谢！
+我之前一般使用apkpure.com或者apk-dl.com来下载，比较奇怪的是有的app这样没法下载，不过当时也从官网上找到apk了，也就没再细究。
+我试试楼主的新方法，感谢。
+#quote vimacs
 

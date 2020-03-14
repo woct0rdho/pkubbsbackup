@@ -1,4 +1,4 @@
-#t 251 17580776 MNTP 2020-03-14 00:01:00 jiangcr 2020-03-14 08:11:00
+#t 251 17580776 MNTP 2020-03-14 00:01:00 Maxwell 2020-03-14 10:25:00
 流浪地球现实中不可能实现的吧
 
 #p 21980995 MNTP 剑网琴 2020-03-14 01:24:53
@@ -15,5 +15,12 @@
 
 #p 21981411 jiangcr 老江头 2020-03-14 08:10:26
 或许几百年、几千年，在某一时段每一星球与地球相撞，人类毁灭也是可能的。
+#quote MNTP
+
+#p 21981881 Maxwell Demon 2020-03-14 10:24:07
+COVID-19在医疗系统完全饱和之后的病死率在10%的级别，感染性又足够强，全国躺平死1亿多人怎么行？
+每个人都想考虑自己后代的生存，共同抗争是很自然的事，困难在于如何对抗争的方案达到共识，而不在于是否抗争。
+星际穿越里有句台词：“We must reach far beyond our own lifespans. We must think not as individuals, but as a species. We must confront the reality of interstellar travel.”
+至于行星发动机，那只是科幻中常见的bug。所有科幻都追求用尽可能少的bug来换取尽可能多的科幻审美。没有bug的那是自然科学基金申请书...
 #quote MNTP
 
