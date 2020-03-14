@@ -1,4 +1,4 @@
-#t 35 17579777 rickmorty 2020-03-13 00:09:00 ljslcy 2020-03-14 01:17:00
+#t 35 17579777 rickmorty 2020-03-13 00:09:00 donnamatch 2020-03-14 08:03:00
 pulse secure登不上了
 
 #p 21976992 rickmorty 梦的第七章 2020-03-13 09:22:00
@@ -28,5 +28,9 @@ pulse secure登不上了
 
 #p 21980969 ljslcy StupidArcher 2020-03-14 01:17:00
 重启pulse服务再尝试连接试试
+#quote rickmorty
+
+#p 21981396 donnamatch 流浪的火柴 2020-03-14 08:02:42
+我这边是能登上pulse secure，但只有刚连上前几分钟是好的，后面就需要不停地断开重连，不然下不动文献
 #quote rickmorty
 
