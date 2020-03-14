@@ -1,4 +1,4 @@
-#t 294 17571369 euio 2020-03-07 00:06:00 CharlesChou 2020-03-14 20:37:00
+#t 294 17571369 euio 2020-03-07 00:06:00 Taindall 2020-03-14 22:00:00
 一个不能上google scholar的一流大学
 
 #p 21948530 euio 耳目一心 2020-03-07 06:42:44
@@ -39,5 +39,32 @@ BAIDU scholar
 
 #p 21984826 CharlesChou Annoying Orange 2020-03-14 20:36:52
 去网络技术版，多翻翻几个帖子，会找到答案的
+#quote yukiyume
+
+#p 21984933 JQK 柴柴柴 2020-03-14 21:01:02
+话说，隔壁怎么实现的
+#quote euio
+
+#p 21985020 mintcandy 退行中 2020-03-14 21:15:22
+一人血书计算中心把google scholar搞回来
+#quote euio
+
+#p 21985073 qkdbdzh Jay 2020-03-14 21:28:19
+大木虫
+#quote mintcandy
+
+#p 21985099 BYQangel Angel 2020-03-14 21:36:11
+镜像凑合用吧o(╥﹏╥)o
+#quote euio
+
+#p 21985142 hongtao hongtao 2020-03-14 21:43:09
+#quote euio
+推荐google的一个插件Ghelper，放到扩展程序里，可以访问google学术
+
+#p 21985156 hongtao hongtao 2020-03-14 21:45:31
+#quote euio
+
+#p 21985220 Taindall Charlie 2020-03-14 21:59:42
+搭梯子吧，又没多少钱。
 #quote yukiyume
 
