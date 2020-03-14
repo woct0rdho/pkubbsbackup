@@ -1,4 +1,4 @@
-#t 1465 17580425 Bayeer 2020-03-13 00:20:00 angelwzx 2020-03-14 23:46:00
+#t 1465 17580425 Bayeer 2020-03-13 00:20:00 virgolucia 2020-03-15 00:54:00
 ”英国官方刚刚承认：故意让数千万人感染，获得..“
 
 #p 21979716 Bayeer 隐身衣 2020-03-13 20:03:49
@@ -990,5 +990,43 @@ But British advisers are also leaning on a more contentious theory: that exposin
 
 #p 21985784 angelwzx 藝 2020-03-14 23:45:14
 什么叫死得其所……你真的是认真的吗？
+#quote zhangyuqi
+
+#p 21985913 lyyl lyyl 2020-03-15 00:13:48
+这可太南了
+#quote Bayeer
+
+#p 21986013 yaosibutuoqi leowang 2020-03-15 00:45:46
+欸欸，我其实不是很明白你所指的“英国当局”具体指的是什么，因为我对于英国的政治体系也只有一个相当粗浅的理解。
+但我大概总结一下
+PART1. 
+"Mr. Johnson …… his government has said ……" 你觉得这个"his government"代表的是内阁？然后后面的"The government is leaning……"中的"the government"代表的是政府官方？但是据我的理解，内阁（Cabinet）代表的就是政府啊
+The Prime Minister is the most senior minister in the Cabinet. They are responsible for chairing Cabinet meetings, selecting Cabinet ministers (and all other positions in Her Majesty's government), and formulating government policy.
+来源：[https://en.wikipedia.org/wiki/Politics_of_the_United_Kingdom#The_United_Kingdom_Government](jump-to.php?url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FPolitics_of_the_United_Kingdom%23The_United_Kingdom_Government)
+如果你认为"his government"代表的就是内阁的话（我同意你的这一个观点），那么我觉得内阁能够代表政府（基于我浅薄的政治知识和Wikipedia）
+如果你认为"his government"不代表内阁，只代表"Sir Patrick Vallance"这样一个非政府人物，我觉得这种说法有点牵强，毕竟用的是"his government"，你指它代表内阁是有道理的，我也同意你说的adviser不一定代表政府，但我觉得"his government"指的就是内阁，而不是这个adviser，所以"his government"能够代表政府态度
+PART2. 
+你援引了后面三段，认为这三段很清楚地代表了政府的态度，但第一段后半部分是"some epidemiologists"的态度，但正如你所说，if "his government" cannot represent "the government", how can "some epidemiologists" represent "the government"，第三段完全是British advisers的态度，也正如你所说"think-tank的意见是否代表zf的态度仍然存疑"
+所以最后三段只剩下"The government is leaning heavily on skepticism in some scientific circles about the effectiveness of mass closures." "It has also said that the measures it has taken, like asking people with persistent coughs and high temperatures to stay home for a week, will reduce the spread of the virus considerably."
+总结下来也就是说1. 英国政府认为封锁全国对于抗击肺炎是无效的，2. 并且认为在家隔离一周等隔离措施能有效降低病毒传播速度。
+第1点反映的态度，我认为就是英国政府想要获得Herd Immunity——因为直接放弃了全国封锁
+第2点反映的态度，我认为就是英国政府想要降低病毒传播速度——而不是阻断病毒传播
+但实际上如何解读这两句话所代表的政府态度，的确有一点ambiguous和arbitrary，所以我觉得更有力的论据还是PART 1，即"his government"代表内阁，即能够代表政府
+#quote dujdao
+
+#p 21986035 mikeshijiale 揣着明白装糊涂 2020-03-15 00:49:35
+我觉得这是为了让菲利普王子提前登基，然后自己成为大功臣
+#quote IlIl
+
+#p 21986041 IlIl 王铁崖 2020-03-15 00:50:59
+我觉得目前形势看来佩洛西提前登基的可能性也很大了。
+#quote mikeshijiale
+
+#p 21986044 mikeshijiale 揣着明白装糊涂 2020-03-15 00:51:49
+是的，那时候川普拒绝和佩洛西握手，我现在看来是救人一命。
+#quote IlIl
+
+#p 21986054 virgolucia 松寒 2020-03-15 00:53:24
+坐标北京，家附近的喜茶和奈雪开了一个月了，商场春节假期一过就开了，饭馆大概开了三分之二，但是堂食不多，主要送外卖，KTV和酒店正常营业三周，超市里三月之后人山人海，显然人口已经返城完毕。我天天出门喝奶茶，外面什么样清楚得很
 #quote zhangyuqi
 
