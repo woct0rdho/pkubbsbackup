@@ -1,0 +1,10 @@
+#t 668 17582805 donnamatch 2020-03-15 17:32:00 donnamatch 2020-03-15 17:32:00
+从CARSI进入web of science 无法下载文献
+
+#p 21988961 donnamatch 流浪的火柴 2020-03-15 17:31:39
+求助计算中心老师：
+我按照“CARSI 用户资源访问流程”进入web of science (www.webofknowledge.com），选择学校并用学号登录后，出现的登录名不是我的名字，也不是“北京大学图书馆”之类（见图1）。
+随后试图在上面下载文献，无论是springer还是Taylor &amp; Francis的期刊都需要付费（见图2和3）。请问现在应该怎么办呢？
+用pulse secure没有出现过这种情况，但是连接极为不稳定，需要不停地断开重连。
+P.S. 我的ip地址在台湾，跟这个会有关系吗？
+
