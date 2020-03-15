@@ -1,4 +1,4 @@
-#t 1465 17580757 motaguoke 2020-03-14 00:01:00 virgolucia 2020-03-14 13:18:00
+#t 1465 17580757 motaguoke 2020-03-14 00:01:00 motaguoke 2020-03-15 09:39:00
 为什么海外首先爆发的是韩国、伊朗和意大利？
 
 #p 21980939 motaguoke 孤帆远影 2020-03-14 01:08:34
@@ -11,7 +11,7 @@
 这个问题想了很久了，一直没有答案
 [1][https://www.sohu.com/a/366777028_383475](jump-to.php?url=https%3A%2F%2Fwww.sohu.com%2Fa%2F366777028_383475)
 
-#p 21980951 BT Bacillus thuringiensis 2020-03-14 01:12:28
+#p 21980951 BT Bitalk 2020-03-14 01:12:28
 中韩间旅行太频繁了
 意大利据说是德国搞的
 伊朗……
@@ -176,4 +176,10 @@ ps.以上说到底也只是我个人的观点，不是什么权威结论。
 不是有意大利的研究说欧洲病毒和武汉病毒不是同一种，按照R0=2.6推算当地12月前就有第一例感染了吗
 伊朗宗教活动有人群聚集和新天地一样，爆发了倒不奇怪，但伦巴第太奇怪了。按现在这个传播路径，伦巴第是欧洲的武汉，意大利其他区域是湖北其他地级市，欧洲其他国家是中国湖北以外的省，伦巴第太像疫源地了，意大利其他地区和欧洲其他国家是输出性散点传播进入社区传播这个阶段
 #quote motaguoke
+
+#p 21986811 motaguoke 孤帆远影 2020-03-15 09:38:18
+我真的觉得你的挤兑说好像不太对，新冠的传染力大概远超“在医院挤兑才会造成大规模传染”
+比如看看这篇文章
+[https://www.bostonglobe.com/2020/03/11/nation/how-biogen-leadership-conference-boston-spread-coronavirus/?p1=Article_Inline_Text_Link](jump-to.php?url=https%3A%2F%2Fwww.bostonglobe.com%2F2020%2F03%2F11%2Fnation%2Fhow-biogen-leadership-conference-boston-spread-coronavirus%2F%3Fp1%3DArticle_Inline_Text_Link)
+#quote Curry
 
