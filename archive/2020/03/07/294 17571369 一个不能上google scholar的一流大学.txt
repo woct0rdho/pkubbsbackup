@@ -1,4 +1,4 @@
-#t 294 17571369 euio 2020-03-07 00:06:00 wuyelinfeng 2020-03-15 09:26:00
+#t 294 17571369 euio 2020-03-07 00:06:00 ATP 2020-03-15 10:55:00
 一个不能上google scholar的一流大学
 
 #p 21948530 euio 耳目一心 2020-03-07 06:42:44
@@ -224,4 +224,32 @@ glgoo scholar
 #p 21986777 wuyelinfeng 临风 2020-03-15 09:25:17
 难道不知道用谷粉吗，谷粉不就后台直接链接到谷歌学术，别再叫了。
 #quote euio
+
+#p 21986945 RichardWake RichardWake 2020-03-15 10:10:18
+是的，对于文科的同学也许不是很友好。不过，弱弱的问一句（自己不是太了解情况），文科的同学查资料我周围的朋友好像都是知网。。他们对于google scholar的需求可能没有理工类的那么强。可以找下周围理工科的同学请教下，简单教一下，准会。
+#quote IlIl
+
+#p 21986946 pkujy 紫电&清霜 2020-03-15 10:10:24
+学校每个月发60块钱不就是让大家买VPN科学上网的嘛
+#quote euio
+
+#p 21986984 nogatnep ko001 2020-03-15 10:19:26
+有道理啊，啥vpn这么贵
+#quote pkujy
+
+#p 21986999 euio 耳目一心 2020-03-15 10:22:58
+60块是什么费？
+#quote pkujy
+
+#p 21987016 euio 耳目一心 2020-03-15 10:26:31
+先ko为敬
+#quote nogatnep
+
+#p 21987048 Symbolk Dorteo 2020-03-15 10:35:46
+[https://c.glgoo.top/scholar/](jump-to.php?url=https%3A%2F%2Fc.glgoo.top%2Fscholar%2F)
+#quote euio
+
+#p 21987133 ATP 捕鱼达人 2020-03-15 10:55:06
+隔壁并不能上谷歌学术，以及谷歌
+#quote JQK
 
