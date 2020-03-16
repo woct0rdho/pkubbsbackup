@@ -1,4 +1,4 @@
-#t 251 17583844 civil 2020-03-16 00:11:00 monolingual 2020-03-17 00:39:00
+#t 251 17583844 civil 2020-03-16 00:11:00 kdmh 2020-03-17 01:52:00
 大数据告诉你，世界上对中国评价最负面的究竟是哪
 
 #p 21992647 civil civil 2020-03-16 11:19:28
@@ -151,4 +151,21 @@
 #p 21996831 monolingual monolingual 2020-03-17 00:38:23
 #quote civil
 这统计真厉害 我在想如果它只统计CNN BBC这种大媒体会怎么样 我看了几年CNN BBC了 基本见不到对中国正面评价的
+
+#p 21996909 ljslcy StupidArcher 2020-03-17 01:16:31
+我好像看到过一个类似的推送，找了一下
+[https://mp.weixin.qq.com/s/TH5Quqgs-ydQvSTj0BbQrw](jump-to.php?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FTH5Quqgs-ydQvSTj0BbQrw)
+数据来自GDELT
+说实话我也对他们的分析结果存疑，本想自己下数据下来分析看看，但仅一年的数据量让我望而却步。。。
+有兴趣的同学可以去试试
+#quote civil
+
+#p 21996966 SignalP R0b1nAry 2020-03-17 01:44:54
+这种排版的文章还想让人信吗
+#quote civil
+
+#p 21996977 kdmh 小咸咸 2020-03-17 01:51:49
+“但是美国很显然都在比较正面地报道中国的事。。。。。。”
+从我自己的经验来看，我的观感完全不同。
+#quote civil
 
