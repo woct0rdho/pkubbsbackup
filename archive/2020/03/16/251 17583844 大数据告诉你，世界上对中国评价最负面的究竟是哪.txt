@@ -1,4 +1,4 @@
-#t 251 17583844 civil 2020-03-16 00:11:00 tuoyan 2020-03-16 18:38:00
+#t 251 17583844 civil 2020-03-16 00:11:00 LifeMaxima 2020-03-16 19:41:00
 大数据告诉你，世界上对中国评价最负面的究竟是哪
 
 #p 21992647 civil civil 2020-03-16 11:19:28
@@ -99,4 +99,16 @@
 #p 21995323 tuoyan 拖延 2020-03-16 18:38:23
 这个早就有分析了，[https://www.zhihu.com/question/27807354/answer/145504999](jump-to.php?url=https%3A%2F%2Fwww.zhihu.com%2Fquestion%2F27807354%2Fanswer%2F145504999)
 #quote sunsky
+
+#p 21995367 liuyz liuyz 2020-03-16 18:46:47
+因为这是个火星新闻，以前火过一次且被讨论过了
+#quote sunsky
+
+#p 21995579 karlwong karlwong 2020-03-16 19:31:45
+当年看到中国对澳门的报导都是负分的时候就知道这个模型或者算法肯定有问题，或者偏差非常大
+#quote civil
+
+#p 21995618 LifeMaxima 嘎子 2020-03-16 19:40:58
+数据哪来，可能有一定参考意义（也可以说这数据分析狗屁不是）
+#quote civil
 
