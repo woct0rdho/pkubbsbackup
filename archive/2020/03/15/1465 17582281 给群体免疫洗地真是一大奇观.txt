@@ -1,4 +1,4 @@
-#t 1465 17582281 gter 2020-03-15 00:09:00 Ender 2020-03-16 04:42:00
+#t 1465 17582281 gter 2020-03-15 00:09:00 biaoge 2020-03-16 08:00:00
 给群体免疫洗地真是一大奇观
 
 #p 21986734 gter 呵呵 2020-03-15 09:10:51
@@ -213,4 +213,12 @@ pyq很清静
 [https://mp.weixin.qq.com/s/ZuhQn3Z1d3Auo-xFoP4Jsw](jump-to.php?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FZuhQn3Z1d3Auo-xFoP4Jsw)
 这篇？
 #quote virgolucia
+
+#p 21991568 starfang starfang 2020-03-16 07:38:05
+目前，这个病毒还没有低毒化的证据，从任何感染1000例以上的国家看，死亡率都是流感的10倍以上，涉及人命的事情，不应该为了一个可能的前景去赌
+#quote willpower
+
+#p 21991605 biaoge 彪彪啊 2020-03-16 08:00:07
+这个rna病毒的疫苗可能开发出来了也用不了很长时间就会因为病毒变异不得不迭代了
+#quote gter
 
