@@ -1,4 +1,4 @@
-#t 668 17584430 sxpeter 2020-03-16 17:58:00 sxpeter 2020-03-16 18:35:00
+#t 668 17584430 sxpeter 2020-03-16 00:17:00 PKUCC 2020-03-16 20:52:00
 校园网打开arxiv论文速度极慢
 
 #p 21995092 sxpeter  2020-03-16 17:57:52
@@ -11,4 +11,8 @@
 #p 21995310 sxpeter  2020-03-16 18:35:23
 比如[https://arxiv.org/pdf/1611.07004v1.pdf](jump-to.php?url=https%3A%2F%2Farxiv.org%2Fpdf%2F1611.07004v1.pdf)
 #quote PKUCC
+
+#p 21995946 PKUCC 北京大学计算中心 2020-03-16 20:51:29
+已收到，我们拍查一下。
+#quote sxpeter
 
