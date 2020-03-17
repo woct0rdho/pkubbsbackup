@@ -1,12 +1,11 @@
-#t 251 17584863 gaobo 2020-03-17 00:28:00 gaobo 2020-03-17 00:28:00
+#t 251 17584863 gaobo 2020-03-17 00:00:00 euio 2020-03-17 08:00:00
 川建国同志语录
 
-#p 21996810 gaobo blabla 2020-03-17 00:28:04
+#p 21996810 gaobo blabla 2020-03-17 01:53:27
 
 
 2020-03-17 00:27:36
 January 22: “We have it totally under control. It’s one person coming in from China. It’s going to be just fine.”
-February 2: “We pretty much shut it down coming in from China.”
 February 24: “The Coronavirus is very much under control in the USA… Stock Market starting to look very good to me!”
 February 25: “CDC and my Administration are doing a GREAT job of handling Coronavirus.”
 February 25: “I think that's a problem that’s going to go away… They have studied it. They know very much. In fact, we’re very close to a vaccine.”
@@ -26,4 +25,8 @@ March 6: “I don't need to have the numbers double because of one ship that was
 March 8: “We have a perfectly coordinated and fine tuned plan at the White House for our attack on CoronaVirus.”
 March 9: “This blindsided the world.”
 March 13: "I take no responsibility."
+
+#p 21997389 euio 耳目一心 2020-03-17 07:59:47
+给个中文版呗
+#quote gaobo
 
