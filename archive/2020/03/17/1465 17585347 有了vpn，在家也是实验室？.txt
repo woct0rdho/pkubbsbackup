@@ -1,4 +1,4 @@
-#t 1465 17585347 speechless 2020-03-17 00:11:00 xingguan 2020-03-17 13:59:00
+#t 1465 17585347 speechless 2020-03-17 00:11:00 xingguan 2020-03-17 15:00:00
 有了vpn，在家也是实验室？
 
 #p 21998110 speechless Gid 2020-03-17 11:25:18
@@ -100,4 +100,44 @@
 #p 21998892 xingguan xinguan 2020-03-17 13:58:58
 不不不不，不要坑我；我不行的
 #quote speechless
+
+#p 21998905 alley alley 2020-03-17 14:02:35
+我以为是一篇介绍科研的推文，还找了半天数据结论
+#quote speechless
+
+#p 21998934 speechless Gid 2020-03-17 14:10:30
+我以为这是要返校了的节奏，瞅了半天看有没有时间点··
+#quote alley
+
+#p 21998936 speechless Gid 2020-03-17 14:11:05
+我意思是你这么给导师说，导师没准一拍桌子就答应了呢
+#quote xingguan
+
+#p 21998969 xingguan xinguan 2020-03-17 14:19:53
+但愿如此，吃瓜gif
+#quote speechless
+
+#p 21999023 hereshui 小白喝热水 2020-03-17 14:31:35
+人都给笑傻了呢
+#quote speechless
+
+#p 21999024 sunsunsunsun 竜之峰帝人 2020-03-17 14:31:53
+我一个文科生在家都无法科研，还连上VPN就能做实验呢，怕不是小学自然课的实验吧
+#quote speechless
+
+#p 21999084 OTATO 去皮大土豆 2020-03-17 14:44:19
+画风新奇…
+#quote speechless
+
+#p 21999103 liuxc 好好gky 2020-03-17 14:49:33
+官微要凉
+#quote speechless
+
+#p 21999143 silentsheep 沉默的羔羊 2020-03-17 14:58:42
+我下个文献都下不了，卡的不行，好不容易进去了，发现pnas和science居然没有下载权限？
+#quote speechless
+
+#p 21999155 xingguan xinguan 2020-03-17 15:00:15
+太惨了‘最近科研全靠谷歌了
+#quote silentsheep
 
