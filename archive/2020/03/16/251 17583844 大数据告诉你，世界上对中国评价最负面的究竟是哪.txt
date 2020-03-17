@@ -1,4 +1,4 @@
-#t 251 17583844 civil 2020-03-16 00:11:00 gryffindorg 2020-03-17 13:22:00
+#t 251 17583844 civil 2020-03-16 00:11:00 NorthStars 2020-03-17 16:25:00
 大数据告诉你，世界上对中国评价最负面的究竟是哪
 
 #p 21992647 civil civil 2020-03-16 11:19:28
@@ -223,4 +223,8 @@ There are three kinds of lies: lies, damned lies, and statistics.
 #p 21998712 gryffindorg APTX4869 2020-03-17 13:21:33
 真.带数据
 #quote civil
+
+#p 21999480 NorthStars chen. 2020-03-17 16:24:31
+但是那个地方卖这种产品多不一定是当地就生产这种产品吧
+#quote Alexy
 
