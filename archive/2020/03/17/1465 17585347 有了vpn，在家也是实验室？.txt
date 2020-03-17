@@ -1,4 +1,4 @@
-#t 1465 17585347 speechless 2020-03-17 00:11:00 GlaserHay 2020-03-17 23:30:00
+#t 1465 17585347 speechless 2020-03-17 00:11:00 EdmondDantes 2020-03-18 00:19:00
 有了vpn，在家也是实验室？
 
 #p 21998110 speechless Gid 2020-03-17 11:25:18
@@ -302,4 +302,24 @@ weimingxueshu老是掉线，太麻烦了😭
 #p 22001403 GlaserHay 拉基醱鶸维奇 2020-03-17 23:30:04
 我第二条我寻思我已经给足了官号面子，已经说的够婉转了。呵，恰，就烂恰
 #quote speechless
+
+#p 22001622 APSNovak 灞桥 2020-03-18 00:09:52
+挂VPN远程控制电脑完全不行，网页都打不开，最后还是用teamviewer。。。这个推送出来着实恶心了一把。。。
+#quote speechless
+
+#p 22001627 yeby yeby 2020-03-18 00:12:16
+来看看VPN的网速吧
+#quote speechless
+
+#p 22001633 EdmondDantes 爱德蒙唐泰斯|岩窟王 2020-03-18 00:13:45
+您可以去看看PKUDevelopment，有多少贵校的青年才俊在大声疾呼要贵校重视宣传，特别是接地气的宣传。。。
+#quote isaactesla
+
+#p 22001647 loasa 鲁鱼亥豕 2020-03-18 00:17:54
+地气这么接还不如不接。。。
+#quote EdmondDantes
+
+#p 22001649 EdmondDantes 爱德蒙唐泰斯|岩窟王 2020-03-18 00:18:11
+可以说是贵校学子求仁得仁了。
+#quote loasa
 
