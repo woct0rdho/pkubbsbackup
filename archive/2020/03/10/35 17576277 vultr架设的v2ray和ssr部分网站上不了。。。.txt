@@ -1,11 +1,11 @@
-#t 35 17576277 cxt 2020-03-10 00:17:00 FireWork 2020-03-10 22:52:00
+#t 35 17576277 cxt 2020-03-10 00:17:00 Angelboy 2020-03-18 20:16:00
 vultr架设的v2ray和ssr部分网站上不了。。。
 
-#p 21965218 cxt 丞相 2020-03-10 17:37:12
+#p 21965218 cxt 栗悟飯とカメハメ波 2020-03-10 17:37:12
 发现用vps架设的v2ray和shadowsocksR上不了5ch（包括用日本ip，似乎是匿名导致的: The owner of this website (5ch.net) has banned the autonomous system number (ASN) your IP address is in (4134) from accessing this website.），bangumi，还有英文维基（中文可以）
 目前是用vultr的服务器，请问各位大佬有什么办法解决吗？（或许关掉匿名就可以了但我不知道怎么搞）
 
-#p 21965222 cxt 丞相 2020-03-10 17:37:35
+#p 21965222 cxt 栗悟飯とカメハメ波 2020-03-10 17:37:35
 而且早上起来的时候网速很快，然后慢慢地就变慢了。。。
 #quote cxt
 
@@ -14,11 +14,11 @@ autonomous可不是匿名的意思……
 是你这ip被毙了啊……
 #quote cxt
 
-#p 21965408 cxt 丞相 2020-03-10 18:11:58
+#p 21965408 cxt 栗悟飯とカメハメ波 2020-03-10 18:11:58
 所以是我的ip转生之前作恶太多吗………
 #quote lcdlyxrqy
 
-#p 21965416 cxt 丞相 2020-03-10 18:13:40
+#p 21965416 cxt 栗悟飯とカメハメ波 2020-03-10 18:13:40
 哦哦，估计是把整个vultr封了吧……
 #quote lcdlyxrqy
 
@@ -30,7 +30,7 @@ autonomous可不是匿名的意思……
 5ch封了很多vps，不用翻墙似乎也能上
 #quote cxt
 
-#p 21965915 cxt 丞相 2020-03-10 20:29:25
+#p 21965915 cxt 栗悟飯とカメハメ波 2020-03-10 20:29:25
 ……今天才发现不翻墙也能上…
 #quote Nd
 
@@ -50,5 +50,9 @@ autonomous 不是匿名的意思 （ [https://zh.wikipedia.org/zh-cn/%E8%87%AA%E
 
 #p 21966517 FireWork 我是火了 2020-03-10 22:51:05
 找个原生ip去试试吧，他可能屏蔽了idc的ip段。
+#quote cxt
+
+#p 22005143 Angelboy 堕落天使 2020-03-18 20:15:57
+我这边分分钟被封锁
 #quote cxt
 
