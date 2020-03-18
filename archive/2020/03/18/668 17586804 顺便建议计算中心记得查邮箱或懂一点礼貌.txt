@@ -1,4 +1,4 @@
-#t 668 17586804 peiyangium 2020-03-18 12:57:00 peiyangium 2020-03-18 12:57:00
+#t 668 17586804 peiyangium 2020-03-18 12:57:00 peiyangium 2020-03-18 13:25:00
 顺便建议计算中心记得查邮箱或懂一点礼貌
 
 #p 22003376 peiyangium 生建办主任助理|柯带宜居办主任|副团级 2020-03-18 12:56:20
@@ -8,4 +8,42 @@
 我2020/3/12 12:14给netinfo@pku.edu.cn转发的钓鱼邮件，显示成功到达对方邮箱。
 不知道是没有人查邮箱，还是没有理我。
 如果是后者，我给你们写了一个模板，请以这个模板回复此类邮件：
+
+#p 22003398 PsySunrise 无良之心 2020-03-18 13:02:12
+抄下来模板了～ 看似很有用～ 打算翻译后分享给我们的计算中心哈哈
+#quote peiyangium
+
+#p 22003411 PKUCC 北京大学计算中心 2020-03-18 13:06:49
+您好！可否私信回复一下你的邮箱地址，我们查一下。
+#quote peiyangium
+
+#p 22003421 peiyangium 生建办主任助理|柯带宜居办主任|副团级 2020-03-18 13:10:03
+Hi ___!
+Thank you for submitting the phishing email. We are currently working to minimize the impact of it, and we will constantly improve the spam filter and the firewall to prevent more malicious emails.
+Your feedback is very important to us, and we admire your effort to improve the security of our network system.
+Best regards,
+IT Team
+#quote PsySunrise
+
+#p 22003428 peiyangium 生建办主任助理|柯带宜居办主任|副团级 2020-03-18 13:11:36
+已发。请回应与Google、Microsoft等公司进行免费学生/教育账户对接的问题。
+#quote PKUCC
+
+#p 22003469 PKUCC 北京大学计算中心 2020-03-18 13:20:34
+你好！我们查看了3月12日netinfo@pku.edu.cn邮箱收到的所有邮件，找到了你发送的邮件。很抱歉确实没回复。
+3月12日像你这样转给我们钓鱼邮件的用户很多。我们当时立即封禁了发信的账号、增加了相应的过滤规则。只是负责回复的老师漏掉你的邮件了。非常抱歉。
+感谢你对邮件系统建设的支持，我们以后会尽力心智工作、避免类似事情的发生。
+#quote peiyangium
+
+#p 22003472 peiyangium 生建办主任助理|柯带宜居办主任|副团级 2020-03-18 13:21:16
+谢谢，5楼的内容请回应一下。
+#quote PKUCC
+
+#p 22003486 PKUCC 北京大学计算中心 2020-03-18 13:22:59
+发的是邮件吗？没收到。
+#quote peiyangium
+
+#p 22003495 peiyangium 生建办主任助理|柯带宜居办主任|副团级 2020-03-18 13:24:27
+请参考本版#20565文章。
+#quote PKUCC
 

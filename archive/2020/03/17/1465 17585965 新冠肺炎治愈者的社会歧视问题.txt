@@ -1,4 +1,4 @@
-#t 1465 17585965 greattreenet 2020-03-17 00:21:00 qkdbdzh 2020-03-18 12:42:00
+#t 1465 17585965 greattreenet 2020-03-17 00:21:00 brewmaster 2020-03-18 13:40:00
 新冠肺炎治愈者的社会歧视问题
 
 #p 22000789 greattreenet greattree 2020-03-17 21:11:08
@@ -39,4 +39,8 @@
 #p 22003318 qkdbdzh Jay 2020-03-18 12:41:42
 害，怎么做都是错
 #quote gaobo
+
+#p 22003535 brewmaster Nuture 2020-03-18 13:39:14
+您没事吧？
+#quote greattreenet
 
