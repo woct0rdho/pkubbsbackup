@@ -1,4 +1,4 @@
-#t 35 17569367 Baandarin 2020-03-05 00:19:00 molimoyu 2020-03-19 22:46:00
+#t 35 17569367 Baandarin 2020-03-05 00:19:00 vimacs 2020-03-19 23:09:00
 同样是8G内存，为何手机杀后台比电脑频繁的多
 
 #p 21942045 Baandarin 板子 2020-03-05 19:39:03
@@ -71,4 +71,13 @@ PC如果杀后台的话，发生如下情况会很恐怖。word文档打了一�
 #p 22011648 molimoyu 多多鱼 2020-03-19 22:45:38
 这个手机用了两年好像还没碰见过杀后台(可能也是我有不用就随手关的强迫症)
 #quote Baandarin
+
+#p 22011787 vimacs Lisp Interaction Paredit AC 2020-03-19 23:09:40
+
+
+2020-03-19 23:09:04
+不，看来还是我错了。我虽然看到了1G swap，但实际上这swap用的是zram. 我刚才是搜了一些 LineageOS 的代码才看出来的。而 zram 实际上还是 RAM 而不是 flash.
+不过我还有一点不明白的是，我看源码里面 fstab 指定的 zram 大小是 512M，不知道为什么我用 free 和 /proc/meminfo 看到的 swap 都是 1G，看来我需要再看看内核文档等资料。
+[https://github.com/LineageOS/android_device_xiaomi_msm8953-common/blob/lineage-16.0/rootdir/fstab.recovery.qcom](jump-to.php?url=https%3A%2F%2Fgithub.com%2FLineageOS%2Fandroid_device_xiaomi_msm8953-common%2Fblob%2Flineage-16.0%2Frootdir%2Ffstab.recovery.qcom)
+#quote out
 
