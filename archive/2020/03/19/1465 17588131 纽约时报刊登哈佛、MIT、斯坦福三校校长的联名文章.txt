@@ -1,7 +1,10 @@
-#t 1465 17588131 nogatnep 2020-03-19 11:10:00 nogatnep 2020-03-19 11:10:00
-zz纽约时报刊登哈佛、MIT 斯坦福三校校长的联名文章
+#t 1465 17588131 nogatnep 2020-03-19 00:11:00 Swordshield 2020-03-19 12:39:00
+纽约时报刊登哈佛、MIT、斯坦福三校校长的联名文章
 
-#p 22007831 nogatnep ko001 2020-03-19 11:09:36
+#p 22007831 nogatnep ko001 2020-03-19 11:11:59
+
+
+2020-03-19 11:09:36
 网址：[https://www.nytimes.com/2020/03/17/opinion/corona-harvard-stanford-mit.html](jump-to.php?url=https%3A%2F%2Fwww.nytimes.com%2F2020%2F03%2F17%2Fopinion%2Fcorona-harvard-stanford-mit.html)
 We Lead Three Universities. It’s Time for Drastic Action.
 Organizations nationwide need to get ahead of the coronavirus, even if it’s not in their community yet.
@@ -14,4 +17,8 @@ Initially, these actions felt awful, and uncomfortably extreme — even to those
 So, is all this disruption really necessary?
 We believe the answer is yes.
 The experience of other countries has shown the crucial value of making big moves as quickly as possible to “flatten the curve” — to slow the rate of infection so that our hospitals and health care workers are not overwhelmed.
+
+#p 22008289 Swordshield 燕园瓜农 2020-03-19 12:38:41
+有点意思，还是得等等。
+#quote nogatnep
 
