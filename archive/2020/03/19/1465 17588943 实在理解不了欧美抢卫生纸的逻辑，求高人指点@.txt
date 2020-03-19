@@ -1,4 +1,4 @@
-#t 1465 17588943 tianrenheyi 2020-03-19 00:23:00 hfeoq 2020-03-20 02:01:00
+#t 1465 17588943 tianrenheyi 2020-03-19 00:23:00 Chips 2020-03-20 03:15:00
 实在理解不了欧美抢卫生纸的逻辑，求高人指点@
 
 #p 22011759 tianrenheyi 墨子不黑 2020-03-19 23:02:46
@@ -14,5 +14,18 @@
 
 #p 22012460 hfeoq hfeoq 2020-03-20 02:00:33
 据说卫生纸和口罩材料相同全力赶工口罩的话卫生纸会紧缺
+#quote tianrenheyi
+
+#p 22012575 Chips 好困好困好困 2020-03-20 03:14:23
+这几天有看到相关的讨论，然后读了一些报道，根据报道大概有这些可能吧：
+- 有言论称中国作为世界最大的卫生纸生产地之一受到疫情影响，生产可能会被打乱（图1）
+- 卫生纸是必需品，人们（在准备疫情宅家囤货时）会抱着“早晚要用”的心态购买（图2）
+- 在社交平台有许多人发表有关抢购卫生纸的动态（Twitter上也有比较热门的相关话题），进一步推动公众跟风恐慌（图3）
+- 在超市中，卫生纸因为占地面积比较大（就是一大袋那种…），使得当售出相同数量时，与其他商品相比，货架显得更空旷，导致给人一种大家都抢走了很多的感觉，于是也推动了更多的人抢购（图4）
+等等。
+我觉得第一条是根本原因，之后各方面包括外部原因促进跟风行为、产生恐慌心理等也功不可没。
+[https://www.news.com.au/lifestyle/health/coronavirus-outbreak-why-are-australians-panic-buying-toilet-paper/news-story/ae5304742e880cb0a0b6f86de1252f0d](jump-to.php?url=https%3A%2F%2Fwww.news.com.au%2Flifestyle%2Fhealth%2Fcoronavirus-outbreak-why-are-australians-panic-buying-toilet-paper%2Fnews-story%2Fae5304742e880cb0a0b6f86de1252f0d)
+[https://www.theguardian.com/commentisfree/2020/mar/05/even-as-behavioural-researchers-we-couldnt-resist-the-urge-to-buy-toilet-paper](jump-to.php?url=https%3A%2F%2Fwww.theguardian.com%2Fcommentisfree%2F2020%2Fmar%2F05%2Feven-as-behavioural-researchers-we-couldnt-resist-the-urge-to-buy-toilet-paper)
+p.s.专业知识储备非常不足，有错误欢迎纠正……
 #quote tianrenheyi
 
