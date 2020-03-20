@@ -1,9 +1,19 @@
-#t 668 17590193 RicherC 2020-03-20 21:59:00 RicherC 2020-03-20 21:59:00
-【SPSS26.0无法正常使用】
+#t 668 17590193 原帖已删除 2020-03-20 22:08:00 RicherC 2020-03-20 22:08:00
+Re 【SPSS26.0无法正常使用】
 
-#p 22016518 RicherC Richer 2020-03-20 21:58:36
+#p 22016518 RicherC Richer 2020-03-20 21:59:58
+#DELETED
+2020-03-20 21:58:36
 各位老师同学好：
        我在北大正版软件平台安装了SPSS26.0，并且安装了网络许可证。安装完许可证后显示如图1。此时进入SPSS却显示我没有许可证，如图2，3。
        出现问题后我已翻阅本版关于SPSS的相关问题，并且登陆网站[https://www.lib.pku.edu.cn/portal/cn/zy/software](jump-to.php?url=https%3A%2F%2Fwww.lib.pku.edu.cn%2Fportal%2Fcn%2Fzy%2Fsoftware)，但是依然未找到解决方案。
        不知道是不是我的安装方法有问题，感谢大家指导。
+
+#p 22016543 PKUCC 北京大学计算中心 2020-03-20 22:04:22
+SPSS为图书馆所购软件，最大支持12个用户同时在线
+#quote RicherC
+
+#p 22016561 RicherC Richer 2020-03-20 22:07:21
+好的，理解了，谢谢老师
+#quote PKUCC
 
