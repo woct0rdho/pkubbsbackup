@@ -1,4 +1,4 @@
-#t 1465 17590451 Dondonda 2020-03-21 00:02:00 golder 2020-03-21 07:15:00
+#t 1465 17590451 Dondonda 2020-03-21 00:02:00 fswherever 2020-03-21 08:31:00
 赵立坚又开一炮
 
 #p 22017420 Dondonda Dondonda 2020-03-21 02:04:19
@@ -52,4 +52,8 @@
 #p 22017723 golder laughter 2020-03-21 07:14:22
 某晨是谁啊
 #quote Dondonda
+
+#p 22017851 fswherever  2020-03-21 08:30:42
+一个官二代，搞gd的
+#quote golder
 
