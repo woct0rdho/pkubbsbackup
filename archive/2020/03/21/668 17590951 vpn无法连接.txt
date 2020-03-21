@@ -1,4 +1,4 @@
-#t 668 17590951 foreyoung 2020-03-21 12:43:00 PKUCC 2020-03-21 13:39:00
+#t 668 17590951 foreyoung 2020-03-21 00:12:00 foreyoung 2020-03-21 14:21:00
 vpn无法连接
 
 #p 22019070 foreyoung young0111 2020-03-21 12:42:42
@@ -7,4 +7,8 @@ vpn无法连接
 #p 22019333 PKUCC 北京大学计算中心 2020-03-21 13:38:27
 检查下浏览器挂代理了吗？或者换个浏览器，或在DOS窗口下route -print把结果发its@pku.edu.cn
 #quote foreyoung
+
+#p 22019552 foreyoung young0111 2020-03-21 14:20:06
+奇怪，上午明明vpn还没办法登录下午就好了...
+#quote PKUCC
 

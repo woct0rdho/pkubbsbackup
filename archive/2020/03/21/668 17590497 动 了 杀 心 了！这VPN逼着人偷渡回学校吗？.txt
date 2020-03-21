@@ -1,4 +1,4 @@
-#t 668 17590497 songly 2020-03-21 00:03:00 NIFE 2020-03-21 13:56:00
+#t 668 17590497 songly 2020-03-21 00:03:00 RichardWake 2020-03-21 14:45:00
 动 了 杀 心 了！这VPN逼着人偷渡回学校吗？
 
 #p 22017506 songly Soluxe 2020-03-21 03:28:22
@@ -171,5 +171,43 @@ lz太惨了...
 
 #p 22019440 NIFE NIFE 2020-03-21 13:56:13
 我的vpn从学校software上下载能稳定在2m/s，我觉得可能和地域有关系？
+#quote songly
+
+#p 22019497 GEOer inspiration 2020-03-21 14:07:31
+本人win10系统，之前下载客户端登陆也是各种连接不上和不稳定。刚刚试了从windows应用商店下载后连接，就十分流畅和稳定。顿时有了希望~楼主可以去试试~
+#quote songly
+
+#p 22019499 songly Soluxe 2020-03-21 14:08:12
+搞定啦！楼主搞定啦！OpenConnect大法好！
+亲测稳定，请扩散~~
+请看这个 校园网VPN客户端的可选软件：OpenConnect-GUI：
+[https://bbs.pku.edu.cn/v2/post-read.php?bid=35&amp;threadid=17538289](post-read.php?bid=35&amp;threadid=17538289)
+谢谢各路大神帮助
+OpenConnect 下载地址是：
+[https://github.com/openconnect/openconnect-gui/releases](jump-to.php?url=https%3A%2F%2Fgithub.com%2Fopenconnect%2Fopenconnect-gui%2Freleases)
+请计算中心也把这个开源软件写到推荐名单里吧~
+#quote songly
+
+#p 22019503 out Nginx 2020-03-21 14:08:29
+pat，我在家办公，公司的vpn也是慢的一批，连个堡垒机敲命令跟ppt似的hhh
+#quote songly
+
+#p 22019529 lxgzg 不需要改密码则不用填写此栏 2020-03-21 14:14:05
+老哥，稳
+#quote sail
+
+#p 22019545 Doge 伟大而有内涵的导演 2020-03-21 14:18:24
+我的MacBook电脑的pulse secure也经常这样，点连接就卡在“正在连接…”。点断开就卡在“正在断开…”。这个时候把整个电脑都搞得没有网了，强制退出pulse secure也没有，只有关机重启才能恢复网络。
+所以**每次连接学校vpn的时候都担惊受怕**，生怕再次卡在“正在连接……”
+一直都是这样，忍气吞声过来了。
+上次在“北京大学”官方公众号看到“<font color="#c00000">**连上北大VPN，在哪都是实验室**</font>”，咱也不知道啥意思，咱也不敢问啊，心想也许只有我的北大VPN比较垃圾吧
+#quote songly
+
+#p 22019640 qwertyuiop 用飘柔就是这么自信 2020-03-21 14:37:23
+老师您好，我也想请问下我的vpn一连电脑就断网应该如何解决
+#quote PKUCC
+
+#p 22019656 RichardWake RichardWake 2020-03-21 14:44:58
+为的Mac和win都用过，感觉mac确实比win要稳定，但是有时候也出bug，连上vpn无法连百度。。。不过连接服务器好在问题不大，所有延时。
 #quote songly
 
