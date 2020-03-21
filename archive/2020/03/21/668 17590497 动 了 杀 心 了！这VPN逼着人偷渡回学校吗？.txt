@@ -1,4 +1,4 @@
-#t 668 17590497 songly 2020-03-21 00:03:00 pennsecret 2020-03-21 11:53:00
+#t 668 17590497 songly 2020-03-21 00:03:00 guotong 2020-03-21 12:54:00
 动 了 杀 心 了！这VPN逼着人偷渡回学校吗？
 
 #p 22017506 songly Soluxe 2020-03-21 03:28:22
@@ -114,5 +114,41 @@ wpn只能解决http和ssh两个协议的请求，只能适配web端，还巨慢�
 
 #p 22018866 pennsecret Fantasy polaris 2020-03-21 11:52:15
 teamviewer？
+#quote songly
+
+#p 22018896 yufeicao 飞鹰 2020-03-21 12:01:17
+前几天（3.18-19）连不上，或断断续续。卸载了重新装一下，恢复正常了。
+#quote songly
+
+#p 22018919 AlanWu 无忌 2020-03-21 12:05:55
+为什么我的vpn很稳定。。。
+#quote songly
+
+#p 22018920 ATP 捕鱼达人 2020-03-21 12:05:59
+传统艺能
+#quote songly
+
+#p 22018997 sail kifish 2020-03-21 12:25:16
+为了避免出现命案，我来分享下我的遭遇：[https://bbs.pku.edu.cn/v2/post-read.php?bid=668&amp;threadid=17539513](post-read.php?bid=668&amp;threadid=17539513) [https://bbs.pku.edu.cn/v2/post-read.php?bid=438&amp;threadid=17522782](post-read.php?bid=438&amp;threadid=17522782)。学校主页提供的windows版本的pulse secure写的比较烂，兼容性不好，不稳定；windows商店里的pulse secure是非常稳定的（vpn设置的时候最好根据你的带宽供应商选择你的入口）。哦，学校主页提供的mac版本的pulse secure极其nb，极其稳定。所以用windows系统的人会很难理解为啥会有人说学校的vpn很好用......因为我正好有2台电脑，发现了这个问题。
+#quote songly
+
+#p 22019015 Homagod 不愉快です 2020-03-21 12:29:18
+lz太惨了...
+#quote songly
+
+#p 22019045 xingguan xinguan 2020-03-21 12:38:19
+哈哈哈哈楼主你好可爱我想跟你玩儿✌️
+#quote songly
+
+#p 22019058 foreyoung young0111 2020-03-21 12:40:29
+最近vpn是感觉不太好用，每次都显示连上了但是ip都是在校外，不知道因为什么
+#quote songly
+
+#p 22019095 shanyumanlou Eskimo dog 2020-03-21 12:49:34
+我用的是Mac，vpn也一直正常，没有遇到什么问题。
+#quote songly
+
+#p 22019112 guotong Grey 2020-03-21 12:53:29
+我前两天也是同样的情况，然后我把电脑上另外一个vpn建立虚拟局域网的程序卸载了，vpn连上就不断了，开了虚拟局域网，vpn就连不上
 #quote songly
 
