@@ -1,4 +1,4 @@
-#t 668 17590497 songly 2020-03-21 00:03:00 PKUwuming 2020-03-21 22:37:00
+#t 668 17590497 songly 2020-03-21 00:03:00 Dinosaur 2020-03-21 23:48:00
 动 了 杀 心 了！这VPN逼着人偷渡回学校吗？
 
 #p 22017506 songly Soluxe 2020-03-21 03:28:22
@@ -264,4 +264,25 @@ vpn用了一年多了一直稳定良好，没任何毛病。我是mac版
 #p 22021768 PKUwuming 无名 2020-03-21 22:37:04
 反向ssh到公网ecs + mosh到公网ecs，能保你几天连接不中断
 #quote songly
+
+#p 22021990 donnamatch 流浪的火柴 2020-03-21 23:09:34
+马一下~谢谢楼主~
+#quote songly
+
+#p 22022053 xuemzh xuemzh 2020-03-21 23:20:13
+我的也这样，是不是软件的问题哇。。清华的同学也一直断，同一个软件。。但是人家其他学校用的另一个软件就不会断。只不过我的登不上。。
+#quote songly
+
+#p 22022131 shallmeet minmin 2020-03-21 23:31:04
+#DELETED
+同.....mac版，用的文献管理软件必须用校园网才能同步，坑爹的内置搜索必须用Google scholar，只能开一个断一个，论文党想骂人
+#quote Thesharing
+
+#p 22022175 shallmeet minmin 2020-03-21 23:39:21
+家里无线连teamviewer老掉线。。。。手机开热点完全连不上。。。
+#quote Manearth
+
+#p 22022216 Dinosaur 小恐龙 2020-03-21 23:47:49
+我在家teamviewer也经常连不上，现在用微软远程桌面+ipv6连的学校台式机，相当稳定
+#quote shallmeet
 
