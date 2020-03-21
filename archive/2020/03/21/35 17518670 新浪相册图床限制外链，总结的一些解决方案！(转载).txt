@@ -1,0 +1,18 @@
+#t 35 17518670 Hotarubi 2020-03-21 13:59:00 Hotarubi 2020-03-21 13:59:00
+新浪相册图床限制外链，总结的一些解决方案！(转载)
+
+#p 22019455 Hotarubi 是扇底闪躲|或雨水摧折 2020-03-21 13:58:56
+[原文由 Hotarubi 发表在 sysop 版 &gt;&gt;&gt;](post-read.php?bid=1&amp;threadid=17518670)
+[https://51.ruyo.net/12432.html](jump-to.php?url=https%3A%2F%2F51.ruyo.net%2F12432.html)
+2020年3月21日更新：
+将ww1.sinaimg.cn ws1.sinaimg.cn wx1.sinaimg.cn 全部换一下！
+ww1.sinaimg.cn …. tva1.sinaimg.cn
+ws1.sinaimg.cn …. tva2.sinaimg.cn
+wx1.sinaimg.cn …. tva3.sinaimg.cn
+wx1.sinaimg.cn …. tva4.sinaimg.cn
+tva1 – 4 都是可以的!
+例如：
+<img src="https://tva2.sinaimg.cn/large/7efa749fly1fourrgj4rrj20lg084dms.jpg"/>
+其他策略包括修改referrer（可以在head里修&lt;meta name=”referrer” content=”no-referrer” /&gt;，也可以在img里修）、强行downgrade为http（但是好蠢啊）、内嵌iframe（使用iframe加载图片不会跟踪到原请求域名）等
+#quote Hotarubi
+
