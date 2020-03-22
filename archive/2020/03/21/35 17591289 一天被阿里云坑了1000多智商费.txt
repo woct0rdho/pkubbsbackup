@@ -1,4 +1,4 @@
-#t 35 17591289 xiongan 2020-03-21 00:18:00 pkujy 2020-03-22 01:05:00
+#t 35 17591289 xiongan 2020-03-21 00:18:00 wuliliwander 2020-03-22 09:59:00
 一天被阿里云坑了1000多智商费
 
 #p 22020539 xiongan 小甜甜 2020-03-21 21:16:25
@@ -102,4 +102,13 @@ aws 坑了我几笔钱，我去投诉之后被客服跪舔式服务前都退回�
 #p 22022558 pkujy 紫电&清霜 2020-03-22 01:04:39
 阿里云的界面也很混乱……我当时选腾讯云大部分是因为web端简洁美观吊打aliyun（不是广告，没有五毛！
 #quote lxgzg
+
+#p 22047383 nazu nazu 2020-03-22 09:35:23
+感谢 ←_←
+#quote pkujy
+
+#p 22047494 wuliliwander 萌物 2020-03-22 09:59:03
+[https://help.aliyun.com/product/27992.html?spm=a2c4g.11186623.6.540.62be2a5cSEHsSv](jump-to.php?url=https%3A%2F%2Fhelp.aliyun.com%2Fproduct%2F27992.html%3Fspm%3Da2c4g.11186623.6.540.62be2a5cSEHsSv)   
+每个产品都有教程和详细API，我觉得还是蛮详细的，也有视频，你可以看看
+#quote xiongan
 
