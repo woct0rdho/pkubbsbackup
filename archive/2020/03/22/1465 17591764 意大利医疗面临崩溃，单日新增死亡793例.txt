@@ -1,4 +1,4 @@
-#t 1465 17591764 coldda 2020-03-22 00:02:00 quloong 2020-03-22 19:12:00
+#t 1465 17591764 coldda 2020-03-22 00:02:00 tgycmzwj 2020-03-22 20:43:00
 意大利医疗面临崩溃，单日新增死亡793例
 
 #p 22046813 coldda CNS解剖 2020-03-22 02:48:50
@@ -100,4 +100,9 @@ bless
 #p 22050553 quloong quloong 2020-03-22 19:11:38
 意大利严重啦
 #quote coldda
+
+#p 22050922 tgycmzwj rainbow(l) 2020-03-22 20:43:28
+[https://covidtracking.com/us-daily/](jump-to.php?url=https%3A%2F%2Fcovidtracking.com%2Fus-daily%2F)
+昨天检测了40000多，感觉最近检测能力增加蛮快的，而且很难把阳性率推广到整个人群吧，毕竟首先被检测的还是被认为风险较高的吧
+#quote hfeoq
 
