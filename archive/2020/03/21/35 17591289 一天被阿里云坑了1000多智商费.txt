@@ -1,4 +1,4 @@
-#t 35 17591289 xiongan 2020-03-21 00:18:00 PsySunrise 2020-03-22 13:26:00
+#t 35 17591289 xiongan 2020-03-21 00:18:00 willpower 2020-03-22 17:58:00
 一天被阿里云坑了1000多智商费
 
 #p 22020539 xiongan 小甜甜 2020-03-21 21:16:25
@@ -136,4 +136,13 @@ aws 坑了我几笔钱，我去投诉之后被客服跪舔式服务前都退回�
 #p 22048982 PsySunrise 无良之心 2020-03-22 13:26:05
 gcloud/aws 也是
 #quote vimacs
+
+#p 22050035 shuianfendi shuianfendi6 2020-03-22 17:07:07
+lz自己建美区然后不记得了？？？
+gg云你用完300刀你会发现收费的点比aliyun还多
+#quote xiongan
+
+#p 22050255 willpower Let me hear 2020-03-22 17:57:49
+我被azure坑过（当然没看懂计费机制也许怪我自己）一千多，后来退了一部分。。
+#quote xiongan
 
