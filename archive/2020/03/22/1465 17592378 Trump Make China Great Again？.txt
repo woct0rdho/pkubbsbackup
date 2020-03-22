@@ -1,4 +1,4 @@
-#t 1465 17592378 bobprime 2020-03-22 00:15:00 zhuwen 2020-03-22 20:53:00
+#t 1465 17592378 bobprime 2020-03-22 00:15:00 bobprime 2020-03-23 03:18:00
 Trump Make China Great Again？
 
 #p 22049655 bobprime bobprime 2020-03-22 15:28:03
@@ -15,4 +15,8 @@ Trump Make China Great Again？
 #p 22050956 zhuwen 平贵君书 2020-03-22 20:52:36
 你咋看出来美国处理很糟糕了？
 #quote bobprime
+
+#p 22052245 bobprime bobprime 2020-03-23 03:18:03
+美国前期检测非常困难，没能在早期做到早检测；现在已经传开了，没能做到早隔离
+#quote zhuwen
 
