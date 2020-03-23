@@ -1,4 +1,4 @@
-#t 251 17592162 WuYe 2020-03-22 00:11:00 Nameless 2020-03-22 22:50:00
+#t 251 17592162 WuYe 2020-03-22 00:11:00 zhangyuqi 2020-03-23 11:45:00
 [征集]第一期：版规制订（2020.3.22-2020.3.29）
 
 #p 22048434 WuYe 吴夜 2020-03-22 11:57:05
@@ -40,4 +40,17 @@ ID: ZOEA
 #p 22051441 Nameless 麦田与十三岁|石榴成熟时 2020-03-22 22:49:34
 互联网的法从来都是政治问题
 #quote PsySunrise
+
+#p 22053540 zhangyuqi 张 2020-03-23 11:47:40
+
+
+2020-03-23 11:44:50
+ID：zhangyuqi
+针对问题：屡次恶劣人身攻击
+解决办法：增加封禁原则——过去一年之内因人身攻击在cc版被封三次以上的，永久禁入cc版。
+补充说明：由于恶劣人身攻击给人造成的强烈负面情绪极大的妨碍了版友们理性真诚地讨论问题，打击了其他版友参与讨论的积极性，甚至给人留下挥之不去的阴影，间接促成优秀版友的流失（证据如下列链接），为防劣币驱逐良币，有必要建立黑名单制度。
+[https://bbs.pku.edu.cn/v2/mobile/post-read.php?bid=1&amp;threadid=17400165](mobile/post-read.php?bid=1&amp;threadid=17400165)
+[https://bbs.pku.edu.cn/v2/mobile/post-read.php?bid=1&amp;threadid=17413749](mobile/post-read.php?bid=1&amp;threadid=17413749)
+[https://bbs.pku.edu.cn/v2/mobile/post-read.php?bid=1&amp;threadid=17413749](mobile/post-read.php?bid=1&amp;threadid=17413749)
+#quote WuYe
 
