@@ -1,4 +1,4 @@
-#t 1465 17592378 bobprime 2020-03-22 00:15:00 bobprime 2020-03-23 03:18:00
+#t 1465 17592378 bobprime 2020-03-22 00:15:00 zhuwen 2020-03-23 08:55:00
 Trump Make China Great Again？
 
 #p 22049655 bobprime bobprime 2020-03-22 15:28:03
@@ -19,4 +19,8 @@ Trump Make China Great Again？
 #p 22052245 bobprime bobprime 2020-03-23 03:18:03
 美国前期检测非常困难，没能在早期做到早检测；现在已经传开了，没能做到早隔离
 #quote zhuwen
+
+#p 22052683 zhuwen 平贵君书 2020-03-23 08:55:06
+最终要看死亡率吧。如果死亡率很低，未必算得上很糟糕。它并没有出现大规模恐慌的局面。
+#quote bobprime
 
