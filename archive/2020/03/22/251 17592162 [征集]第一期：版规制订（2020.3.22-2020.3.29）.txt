@@ -1,4 +1,4 @@
-#t 251 17592162 WuYe 2020-03-22 00:11:00 zhangyuqi 2020-03-23 12:07:00
+#t 251 17592162 WuYe 2020-03-22 00:11:00 zhangyuqi 2020-03-23 17:56:00
 [征集]第一期：版规制订（2020.3.22-2020.3.29）
 
 #p 22048434 WuYe 吴夜 2020-03-22 11:57:05
@@ -53,12 +53,29 @@ ID：zhangyuqi
 [https://bbs.pku.edu.cn/v2/mobile/post-read.php?bid=1&amp;threadid=17413749](mobile/post-read.php?bid=1&amp;threadid=17413749)
 #quote WuYe
 
-#p 22053637 zhangyuqi 张 2020-03-23 12:06:39
+#p 22053637 zhangyuqi 张 2020-03-23 12:08:21
+
+
+2020-03-23 12:06:39
 ID：zhangyuqi
 针对问题：屡次恶劣人身攻击
 解决办法：增加封禁原则——过去一年之内因人身攻击在cc版被封三次以上的，永久禁入cc版。
 补充说明：由于恶劣人身攻击给人造成的强烈负面情绪极大的妨碍了版友们理性真诚地讨论问题，打击了其他版友参与讨论的积极性，甚至给人留下挥之不去的阴影，间接促成优秀版友的流失（证据如下列链接），为防劣币驱逐良币，有必要建立黑名单制度。
 [https://bbs.pku.edu.cn/v2/mobile/post-read.php?bid=1&amp;threadid=17400165](mobile/post-read.php?bid=1&amp;threadid=17400165)
 [https://bbs.pku.edu.cn/v2/mobile/post-read.php?bid=1&amp;threadid=17413749](mobile/post-read.php?bid=1&amp;threadid=17413749)
+[https://bbs.pku.edu.cn/v2/mobile/post-read.php?bid=1&amp;threadid=17413753](mobile/post-read.php?bid=1&amp;threadid=17413753)
 #quote WuYe
+
+#p 22055125 mycNoone 雪菜厨|傻狗|重度ky患者 2020-03-23 17:45:53
+
+
+2020-03-23 17:44:56
+ID：mycNoone（话说站务是不是不该来这提意见的
+针对问题：2L提出的互联网办法中第十五条（七）
+解决办法：主要是关于色情部分的定义，我觉得本版可以有一个自己的定义标准以便执行，这里建议宽泛一些。将严肃的性、性产业文化等讨论和单纯的导向色情的内容区分。其他的几条也可以有类似的标准和定义，但是不知道审查的G点在哪就是了233333（x
+#quote WuYe
+
+#p 22055167 zhangyuqi 张 2020-03-23 17:55:38
+补充一下，我所说的人身攻击包括针对群体的歧视性称呼，比如支那，台巴子，废青，白皮猪，黑鬼等等
+#quote zhangyuqi
 
