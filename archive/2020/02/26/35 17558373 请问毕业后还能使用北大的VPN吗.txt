@@ -1,4 +1,4 @@
-#t 35 17558373 TowerRiver 2020-02-26 00:22:00 yuzulice 2020-03-23 23:29:00
+#t 35 17558373 TowerRiver 2020-02-26 00:22:00 zhbzhbzhbz 2020-03-24 01:57:00
 请问毕业后还能使用北大的VPN吗
 
 #p 21903611 TowerRiver Judge 2020-02-26 22:22:19
@@ -31,4 +31,11 @@ RT
 #p 22057586 yuzulice 有事也别找我 2020-03-23 23:28:33
 哇这个真的不错
 #quote Dalpku
+
+#p 22064706 zhbzhbzhbz RedB 2020-03-24 01:57:36
+
+
+2020-03-24 01:57:09
+有用，比如查看自己的校内门户、以及有一些校内的网站（比如法学院的[http://student.law.pku.edu.cn/](jump-to.php?url=http%3A%2F%2Fstudent.law.pku.edu.cn%2F)）必须用校内的ip或者vpn
+#quote thinky
 
