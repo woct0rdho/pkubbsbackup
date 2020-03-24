@@ -112,3 +112,8 @@ x
 充值之后，在校园网范围内可以，图书馆资源也可以用（无需登vpn）；在校外不可以，登不上vpn。
 #quote TowerRiver
 
+#p 22078723 thinky 披风罗汉 2020-03-24 17:10:01
+#DELETED
+交钱，数据库和ipv6都用不了。
+#quote dvorah
+
