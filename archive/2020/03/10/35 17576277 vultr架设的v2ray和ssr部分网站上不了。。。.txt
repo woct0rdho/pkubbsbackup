@@ -1,4 +1,4 @@
-#t 35 17576277 cxt 2020-03-10 00:17:00 cxt 2020-03-24 17:53:00
+#t 35 17576277 cxt 2020-03-10 00:17:00 uestc 2020-03-24 20:02:00
 vultr架设的v2ray和ssr部分网站上不了。。。
 
 #p 21965218 cxt 栗悟飯とカメハメ波 2020-03-10 17:37:12
@@ -70,5 +70,10 @@ autonomous 不是匿名的意思 （ [https://zh.wikipedia.org/zh-cn/%E8%87%AA%E
 
 #p 22078909 cxt 栗悟飯とカメハメ波 2020-03-24 17:52:21
 你上网上查查吧，github也有推荐的
+#quote whispsxav
+
+#p 22079484 uestc uestc 2020-03-24 20:01:39
+我刚买的hosty的vps，最便宜的每月5刀，网速还行，不知道会不会被封
+[https://hostry.com/?ref=M9M5X2U7](jump-to.php?url=https%3A%2F%2Fhostry.com%2F%3Fref%3DM9M5X2U7)
 #quote whispsxav
 

@@ -1,4 +1,4 @@
-#t 35 17558373 TowerRiver 2020-02-26 00:22:00 dujiajiyiah 2020-03-24 16:55:00
+#t 35 17558373 TowerRiver 2020-02-26 00:22:00 zhbzhbzhbz 2020-03-24 20:30:00
 请问毕业后还能使用北大的VPN吗
 
 #p 21903611 TowerRiver Judge 2020-02-26 22:22:19
@@ -116,4 +116,9 @@ x
 #DELETED
 交钱，数据库和ipv6都用不了。
 #quote dvorah
+
+#p 22079605 zhbzhbzhbz RedB 2020-03-24 20:29:41
+我觉得不给合理，给了是福利
+毕竟国内外高校很多地方没法比，就从公立私立这一点
+#quote thinky
 
