@@ -1,6 +1,20 @@
-#t 35 17595675 Dalpku 2020-03-24 21:07:00 Dalpku 2020-03-24 21:07:00
+#t 35 17595675 Dalpku 2020-03-24 00:21:00 Dalpku 2020-03-25 21:56:00
 mac 切换vpn会正常国内网络出bug
 
 #p 22079796 Dalpku YuYu 2020-03-24 21:06:51
 mac 切换vpn会正常国内网络出bug，国内网速带宽从200M 下降到10M ，关机从新启动又恢复正常的200M。vpn 用的事clashX，订阅的v2ray协议。有了解的请教
+
+#p 22085035 Chains 玩游戏 2020-03-25 21:30:48
+网卡重启可以吗？
+比如在 terminal 里面试试 ：
+sudo ifconfig en0 down &amp;&amp; sudo ifconfig en0 up
+#quote Dalpku
+
+#p 22085173 Dalpku YuYu 2020-03-25 21:55:52
+没啥用，我试过
+#quote Chains
+
+#p 22085175 Dalpku YuYu 2020-03-25 21:56:06
+dns也清理过
+#quote Chains
 
