@@ -1,4 +1,4 @@
-#t 668 17595249 sxszzy 2020-03-24 00:15:00 Tranquilsun 2020-03-25 17:11:00
+#t 668 17595249 sxszzy 2020-03-24 00:15:00 Tranquilsun 2020-03-25 20:45:00
 学校VPN线路没有一条能用的
 
 #p 22078253 sxszzy 昭珵 2020-03-24 15:11:23
@@ -19,5 +19,14 @@
 
 #p 22083822 Tranquilsun 串口|不丧|无常 2020-03-25 17:10:34
 啊，。。求指点不同的VPN线路如何操作  我一直都只知道vpn.pku.edu.cn
+#quote sxszzy
+
+#p 22084773 sxszzy 昭珵 2020-03-25 20:43:59
+[https://its.pku.edu.cn/service_1_vpn.jsp](jump-to.php?url=https%3A%2F%2Fits.pku.edu.cn%2Fservice_1_vpn.jsp)
+参见最后一个问题
+#quote Tranquilsun
+
+#p 22084779 Tranquilsun 串口|不丧|无常 2020-03-25 20:44:56
+谢谢~
 #quote sxszzy
 
