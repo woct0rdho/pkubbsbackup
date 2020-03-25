@@ -1,0 +1,11 @@
+#t 35 17596938 MiraculousMa 2020-03-25 19:12:00 vimacs 2020-03-25 19:37:00
+弱弱地问，入校VPN可以设置分应用代理么……
+
+#p 22084341 MiraculousMa 真空中的球形鸡|汪 2020-03-25 19:12:07
+弱渣求问……
+
+#p 22084456 vimacs Lisp Interaction Paredit AC 2020-03-25 19:37:34
+VPN应该是设置路由表。
+我之前连单位的VPN就是连接之后手动ip route改路由表，直到发现NetworkManager GUI可以配置VPN路由表。
+#quote MiraculousMa
+
