@@ -1,4 +1,4 @@
-#t 1465 17595793 lea 2020-03-24 00:22:00 Chips 2020-03-25 10:49:00
+#t 1465 17595793 lea 2020-03-24 00:22:00 Hotarubi 2020-03-25 11:20:00
 推特拒绝封杀中国官员账号和网帖
 
 #p 22080221 lea 无爱即无忧 2020-03-24 22:37:22
@@ -18,5 +18,25 @@
 
 #p 22081959 Chips 好困好困好困 2020-03-25 10:48:40
 最后一句过于真实
+#quote lea
+
+#p 22082166 Hotarubi 是扇底闪躲|或雨水摧折 2020-03-25 11:19:28
+[https://www.sasse.senate.gov/public/index.cfm/2020/3/sasse-and-gallagher-urge-twitter-to-ban-chinese-communist-party](jump-to.php?url=https%3A%2F%2Fwww.sasse.senate.gov%2Fpublic%2Findex.cfm%2F2020%2F3%2Fsasse-and-gallagher-urge-twitter-to-ban-chinese-communist-party)
+公开信由内华达州参议员Ben Sasse和威斯康辛州众议员Mike Gallagher写出，全文如下：
+Dear Mr. Dorsey,
+While the coronavirus pandemic is afflicting families, governments, and markets around the world, the Chinese Communist Party is waging a massive propaganda campaign to rewrite the history of COVID-19 and whitewash the Party’s lies to the Chinese people and the world. The widespread use of Twitter by communist officials of the People’s Republic of China (PRC) during this crisis emphasizes the contradiction in officials from governments that deny their citizens access to social media platforms like Twitter having access to those same platforms, oftentimes to spread disinformation.
+　　By banning Twitter in China, the Chinese Communist Party is keeping its citizens in the dark. By putting propaganda on Twitter, the Chinese Communist Party is lying to the rest of the world. We believe that the propaganda campaign Chinese government officials are currently waging on Twitter —especially during the current global crisis-- merits the removal of these individual accounts from the platform. We appreciate your efforts to address these concerns in writing.
+　　First, while the Chinese government is prolific at rewriting history through its state-run media outlets that also run their own Twitter accounts, PRC diplomats are increasingly taking to Twitter during this crisis. PRC diplomats have tweeted lies that the Chinese government has been completely transparent throughout the crisis and bought the world time to prepare for the outbreak; a theory largely discredited and debunked by a recent study. PRC diplomats have also shamelessly propagated conspiracy theories like the United States created the coronavirus for which the Chinese Communist Party itself bears responsibility. That PRC officials deliberately took to Twitter to push this propaganda raise the following questions:
+    1. How does Twitter view tweets and statements like these by PRC officials?
+    2. Does Twitter believe that the PRC officials are engaging in a free and open exchange of ideas about the virus on its platform?
+    3. If PRC officials indeed have ulterior motives and are deliberately spreading misinformation on your platform, what does Twitter view as its responsibility to its users?
+　　The PRC is not the only totalitarian government that blocks public access to Twitter yet uses your service to promote its propaganda. Notably, many Iranian government officials enjoy verified Twitter accounts despite denying the Iranian public the opportunity to engage on your platform. We applaud your 2018 decision to suspend more than 280 Iranian Twitter accounts that engaged in “coordinated manipulation,” but urge you to consider whether that standard also applies to government officials from other totalitarian regimes. Accordingly, we also request answers to the following:
+    1. What is Twitter’s rationale for granting platform access to representatives of a government that blocks its domestic population from accessing Twitter?
+    2. What is Twitter’s rationale for granting platform access to representatives of a government that helps organize the coordinated manipulation of content on your platform?
+　　It is clear that Chinese Communist Party officials are using Twitter to disseminate propaganda in the midst of a dangerous global crisis. Even worse, this propaganda obscures and confuses users over the origins of the COVID-19 pandemic and potentially undermines efforts to contain and control the outbreak. We believe this behavior more than warrants their removal from the platform. Additionally, given the humanitarian importance of free and open access to the internet, we believe that access to social media platforms should be denied to government officials from countries that prohibit their own populations from accessing this very content.
+　　Thank you for your consideration and we look forward to engaging with you on these questions and more.
+Sincerely,
+Senator Ben Sasse
+Congressman Mike Gallagher 
 #quote lea
 
