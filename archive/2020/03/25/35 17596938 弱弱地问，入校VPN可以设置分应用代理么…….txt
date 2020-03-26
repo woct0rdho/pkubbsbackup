@@ -1,4 +1,4 @@
-#t 35 17596938 MiraculousMa 2020-03-25 00:19:00 MiraculousMa 2020-03-26 14:07:00
+#t 35 17596938 MiraculousMa 2020-03-25 00:19:00 MiraculousMa 2020-03-26 16:09:00
 弱弱地问，入校VPN可以设置分应用代理么……
 
 #p 22084341 MiraculousMa 真空中的球形鸡|汪 2020-03-25 19:12:07
@@ -11,5 +11,13 @@ VPN应该是设置路由表。
 
 #p 22088231 MiraculousMa 真空中的球形鸡|汪 2020-03-26 14:06:35
 那Windows下有解决方案么==
+#quote vimacs
+
+#p 22088933 vimacs Lisp Interaction Paredit AC 2020-03-26 16:00:39
+Windows也有route命令。
+#quote MiraculousMa
+
+#p 22088978 MiraculousMa 真空中的球形鸡|汪 2020-03-26 16:09:32
+等会儿，是不是可以自行配置一个pac脚本
 #quote vimacs
 

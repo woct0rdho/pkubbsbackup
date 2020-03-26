@@ -1,0 +1,13 @@
+#t 1465 17598133 motaguoke 2020-03-26 16:19:00 motaguoke 2020-03-26 16:19:00
+SARS-CoV-2感染对男性生殖功能影响
+
+#p 22089024 motaguoke 孤帆远影 2020-03-26 16:19:46
+
+
+2020-03-26 16:18:16
+因缺思厅，注意是预印本没有经过同行评议
+[https://www.medrxiv.org/content/10.1101/2020.03.21.20037267v1](jump-to.php?url=https%3A%2F%2Fwww.medrxiv.org%2Fcontent%2F10.1101%2F2020.03.21.20037267v1)
+===========================================
+Abstract
+Since SARS-CoV-2 infection was first identified in December 2019, it spread rapidly and a global pandemic of COVID-19 has occurred. ACE2, the receptor for entry into the target cells by SARS-CoV-2, was found to abundantly express in testes, including spermatogonia, Leydig and Sertoli cells. However, there is no clinical evidence about whether SARS-CoV-2 infection can affect male gonadal function so far. In this study, we compared the sex-related hormones between 81 reproductive-aged men with SARS-CoV-2 infection and 100 age-matched healthy men, and found that serum luteinizing hormone (LH) was significantly increased, but the ratio of testosterone (T) to LH and the ratio of follicle stimulating hormone (FSH) to LH were dramatically decreased in males with COVID-19. Besides, multivariable regression analysis indicated that c-reactive protein (CRP) level was significantly associated with serum T:LH ratio in COVID-19 patients. This study provides the first direct evidence about the influence of medical condition of COVID-19 on male sex hormones, alerting more attention to gonadal function evaluation among patients recovered from SARS-CoV-2 infection, especially the reproductive-aged men.
+
