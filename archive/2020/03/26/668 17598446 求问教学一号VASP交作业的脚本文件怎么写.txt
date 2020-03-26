@@ -1,4 +1,4 @@
-#t 668 17598446 Schiffer 2020-03-26 20:41:00 PKUCC 2020-03-26 20:50:00
+#t 668 17598446 Schiffer 2020-03-26 00:20:00 Schiffer 2020-03-26 22:56:00
 求问教学一号VASP交作业的脚本文件怎么写
 
 #p 22090304 Schiffer sn 2020-03-26 20:40:58
@@ -19,7 +19,34 @@ mpirun -n 4 vasp_std
 报错信息为：/var/spool/slurmd/job25436/slurm_script: line 10: mpirun: command not found
 请问应该怎么改呢=。=？
 
-#p 22090351 PKUCC 北京大学计算中心 2020-03-26 20:49:12
-没有导入mpi的环境，可以在高性能计算平台查看教程
+#p 22090351 PKUCC 北京大学计算中心 2020-03-26 21:26:24
+
+
+2020-03-26 20:49:12
+没有导入mpi的环境，另外vasp的环境也没导入，可以在高性能计算平台查看教程
 #quote Schiffer
+
+#p 22094611 Schiffer sn 2020-03-26 22:55:54
+谢谢！
+刚才去试了一下：
+#!/bin/bash  
+#SBATCH -o job-%j.out
+#SBATCH -e job-%j.err
+#SBATCH --partition=compute
+#SBATCH -J testing_Si         
+#SBATCH --get-user-env 
+#SBATCH --nodes=2
+#SBATCH --ntasks-per-node=2
+module purge
+module load mpi/mpich/3.2.1
+module load intel/2017.1
+module load vasp/5.4.4-intel18.0
+mpirun -n 4 vasp_std
+然后生成输出文件了，不过.err文件里面还是有报错提示：
+slurmstepd: error: task/cgroup: unable to add task[pid=9874] to memory cg '(null)'
+slurmstepd: error: xcgroup_instantiate: unable to create cgroup '/sys/fs/cgroup/memory/slurm/uid_66000' : No space left on device
+slurmstepd: error: jobacct_gather/cgroup: unable to instanciate user 66000 memory cgroup
+请问这是什么意思呢？
+还有就是，“module load mpi/mpich/3.2.1”这一行有和没有好像都是这个结果，请问这一行是必需的还是多余的呢？
+#quote PKUCC
 
