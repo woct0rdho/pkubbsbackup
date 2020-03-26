@@ -1,9 +1,10 @@
-#t 1465 17597426 Regan 2020-03-26 04:35:00 Regan 2020-03-26 04:35:00
+#t 1465 17597426 Regan 2020-03-26 00:04:00 NON 2020-03-26 08:54:00
 BBC记者：中国的数字能相信吗？
 
-#p 22086128 Regan 热干面 2020-03-26 04:34:20
-虽然一向知道BBC屁股歪，但看到这种彻底不要脸、只有观点没有具体事实的报道真的很不爽。尤其是第二和第三点的逻辑，拿来质问英国的数字岂不是刚刚好？
-----
+#p 22086128 Regan 热干面 2020-03-26 07:04:51
+
+
+2020-03-26 04:34:20
 原标题：Can we trust China’s numbers?
 作者：Robin Brant, BBC News China correspondent
 正文：
@@ -12,4 +13,9 @@ So China comes to the table, so to speak, with much scepticism awaiting it. Its 
 Doubts about the official government figures on coronavirus, that are collated at 3am every morning, are fuelled by several specific issues: First, there was the (admitted) cover up and subsequent three-week delay in publicising and acting upon the outbreak.
 Second, the empirical integrity of the numbers has been repeatedly questioned; just a few days ago officials in Hubei revealed that they didn’t count asymptomatic positive cases or those that didn’t require hospitalisation.
 Third - and this may appear simplistic but it's an obvious question - could it really be the case that a couple of weeks ago for a short period of time there were no new confirmed cases - zero - of the virus in all of mainland china, except Hubei?
+虽然一向知道BBC屁股歪，但看到这种只有观点没有具体事实的报道真的令人不快。尤其是第二和第三点的逻辑，拿来质问英国的数字岂不是刚刚好？
+
+#p 22086496 NON 再定？ 2020-03-26 08:53:52
+有这功夫操心他们自己家去……没看英国输出都多少了
+#quote Regan
 
