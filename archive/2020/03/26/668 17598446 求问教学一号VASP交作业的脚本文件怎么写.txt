@@ -1,0 +1,25 @@
+#t 668 17598446 Schiffer 2020-03-26 20:41:00 PKUCC 2020-03-26 20:49:00
+求问教学一号VASP交作业的脚本文件怎么写
+
+#p 22090304 Schiffer sn 2020-03-26 20:40:58
+
+
+2020-03-26 20:40:21
+rt...lz最近开始学计算，学得一头雾水...
+从ppt上抄了个例子，但是脚本文件报错，脚本文件内容如下：
+#!/bin/bash  
+#SBATCH -o dft-%j.out
+#SBATCH -e dft-%j.err
+#SBATCH --partition=compute
+#SBATCH -J vasp         
+#SBATCH --get-user-env
+#SBATCH --nodes=2
+#SBATCH --ntasks-per-node=2
+mpirun -n 4 vasp_std
+报错信息为：/var/spool/slurmd/job25436/slurm_script: line 10: mpirun: command not found
+请问应该怎么改呢=。=？
+
+#p 22090351 PKUCC 北京大学计算中心 2020-03-26 20:49:12
+没有导入mpi的环境，可以在高性能计算平台查看教程
+#quote Schiffer
+
