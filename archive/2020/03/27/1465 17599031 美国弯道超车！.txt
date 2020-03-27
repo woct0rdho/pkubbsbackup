@@ -1,4 +1,4 @@
-#t 1465 17599031 gaobo 2020-03-27 00:08:00 jincharles 2020-03-27 11:59:00
+#t 1465 17599031 gaobo 2020-03-27 00:08:00 gaobo 2020-03-27 12:49:00
 美国弯道超车！
 
 #p 22095645 gaobo blabla 2020-03-27 08:46:58
@@ -44,12 +44,15 @@ D2
 u1s1，这点上确实牛逼。现在美国好像还没用临床判断，确诊数是实打实测出来的。
 #quote Chips
 
-#p 22096089 Vulcan @这是什么  您原来这么要脸啊，失敬失敬 2020-03-27 10:36:41
+#p 22096089 Vulcan @这是什么  您原来这么要脸啊，失敬失敬 2020-03-27 12:29:28
+
+
+2020-03-27 10:36:41
 川皇怎么会食言呢？
 你们看看，现在美英国家是舆论全开，说中国“数据不透明”啦，说中国造假啦，还有信誓旦旦说中国绝对不可能控制住了，肯定是感染死了几百万人瘟疫还在肆虐呢……
 这说明什么？
 这说明，即使他们嘴里中国死了几百万瘟疫还在全国肆虐，中国都在复工了，美国英国有什么理由不复工？
-复工复工，既然他们情况比中国好那么多，那我们就感觉求他们复工，谁不复工谁是狗
+复工复工，既然他们情况比中国好那么多，那我们就赶紧求他们复工，谁不复工谁是狗
 #quote hfeoq
 
 #p 22096148 changshouhan wrzxdw 2020-03-27 10:48:50
@@ -88,4 +91,44 @@ u1s1，这点上确实牛逼。现在美国好像还没用临床判断，确诊�
 #p 22096499 jincharles 尿科巫医 2020-03-27 11:58:47
 因为纽约测得最多
 #quote gaobo
+
+#p 22096516 Chips 好困好困好困 2020-03-27 12:02:49
+可以参考
+[https://www.npr.org/sections/coronavirus-live-updates/2020/03/26/822271837/fact-check-testing-not-meeting-demand-despite-trumps-boasts](jump-to.php?url=https%3A%2F%2Fwww.npr.org%2Fsections%2Fcoronavirus-live-updates%2F2020%2F03%2F26%2F822271837%2Ffact-check-testing-not-meeting-demand-despite-trumps-boasts)
+“…… ,with some areas limiting testing to only those sick people whose treatment decisions require knowing whether or not they are infected with the coronavirus”
+并没有想象的那么好，但确实提升了不少。
+#quote changshouhan
+
+#p 22096523 gaobo blabla 2020-03-27 12:05:36
+“美国的检测总数是全球最多”。这种大统领信口开河的东西，你还当真了？
+#quote changshouhan
+
+#p 22096532 PHer Crusher 2020-03-27 12:07:21
+#quote gaobo
+共和党州捂着不放出来罢了
+
+#p 22096535 gaobo blabla 2020-03-27 12:07:38
+是，现在有大部分轻症普通人还是测不了。
+#quote Chips
+
+#p 22096546 gaobo blabla 2020-03-27 12:11:02
+美国大部分州under-testing问题严重，不过我估计即使认真检测，红脖州的总感染人数距离压垮医疗系统还有一定距离。
+#quote PHer
+
+#p 22096561 changshouhan wrzxdw 2020-03-27 12:16:05
+你为什么不去问？
+#quote NON
+
+#p 22096571 changshouhan wrzxdw 2020-03-27 12:18:50
+特朗普确实有不少信口开河的时候，不过在国内人日、环球等媒体报道了这一新闻而没有做出反驳的情况下，这句话还挺可信的
+#quote gaobo
+
+#p 22096573 xiaocai 谷之风 2020-03-27 12:19:45
+我有个师姐前两天感冒，给医生打了电话。医生说肺炎在每个人身上症状不一样，不太容易判断，如果不放心就去测吧。然后她就立刻drive in去测了
+#quote NON
+
+#p 22096681 gaobo blabla 2020-03-27 12:48:59
+美国现在总共检测了不到40万例。这份报告里中国光广东省就检测了32万例。
+[http://www.nhc.gov.cn/xcs/fkdt/202002/87fd92510d094e4b9bad597608f5cc2c.shtml](jump-to.php?url=http%3A%2F%2Fwww.nhc.gov.cn%2Fxcs%2Ffkdt%2F202002%2F87fd92510d094e4b9bad597608f5cc2c.shtml)
+#quote changshouhan
 
