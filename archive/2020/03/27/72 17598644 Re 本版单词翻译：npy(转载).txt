@@ -1,8 +1,12 @@
-#t 72 17598644 survivor 2020-03-27 07:19:00 survivor 2020-03-27 07:19:00
+#t 72 17598644 survivor 2020-03-27 00:07:00 huayuankou 2020-03-27 22:25:00
 Re 本版单词翻译：npy(转载)
 
 #p 22095474 survivor TEETOTALER|每天都是一种练习 2020-03-27 07:18:43
 [原文由 Anonymous 发表在 SecretGarden 版 &gt;&gt;&gt;](post-read.php?bid=414&amp;threadid=17598644)
 import numpy as npy
 #quote Anonymous
+
+#p 22098847 huayuankou 猪芳芳 | 小锤仔 2020-03-27 22:24:07
+import numpy as py
+#quote survivor
 
