@@ -1,4 +1,4 @@
-#t 72 17599742 xongkorohui 2020-03-27 20:58:00 jiamingpku 2020-03-27 21:38:00
+#t 72 17599742 xongkorohui 2020-03-27 00:20:00 MNTP 2020-03-28 01:54:00
 线上G20=网课
 
 #p 22098503 xongkorohui 惠愚 2020-03-27 20:58:01
@@ -15,4 +15,8 @@
 #p 22098656 jiamingpku jiamingpku 2020-03-27 21:37:49
 居然不是默克尔
 #quote Chips
+
+#p 22099602 MNTP 剑网琴 2020-03-28 01:53:38
+g20真是这么开的……？
+#quote xongkorohui
 
