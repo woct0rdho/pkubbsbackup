@@ -1,0 +1,8 @@
+#t 72 17598644 survivor 2020-03-27 07:19:00 survivor 2020-03-27 07:19:00
+Re 本版单词翻译：npy(转载)
+
+#p 22095474 survivor TEETOTALER|每天都是一种练习 2020-03-27 07:18:43
+[原文由 Anonymous 发表在 SecretGarden 版 &gt;&gt;&gt;](post-read.php?bid=414&amp;threadid=17598644)
+import numpy as npy
+#quote Anonymous
+
