@@ -1,0 +1,9 @@
+#t 72 17594628 survivor 2020-03-28 23:54:00 survivor 2020-03-28 23:54:00
+Re 求问一个数字找规律题(转载)
+
+#p 22103589 survivor TEETOTALER|每天都是一种练习 2020-03-28 23:53:19
+[原文由 SQ 发表在 TryYourBest 版 &gt;&gt;&gt;](post-read.php?bid=376&amp;threadid=17594628)
+由于前三列组成的矩阵的行列式非零，无论填什么都可以。
+（如果是零，则填使得该3行4列矩阵秩为2的那个值）
+#quote Imcaroline
+
