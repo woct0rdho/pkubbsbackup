@@ -1,4 +1,4 @@
-#t 72 17598644 survivor 2020-03-27 00:07:00 jiamingpku 2020-03-27 23:06:00
+#t 72 17598644 survivor 2020-03-27 00:07:00 motaguoke 2020-03-28 15:36:00
 Re 本版单词翻译：npy(转载)
 
 #p 22095474 survivor TEETOTALER|每天都是一种练习 2020-03-27 07:18:43
@@ -13,4 +13,10 @@ import numpy as py
 #p 22099089 jiamingpku jiamingpku 2020-03-27 23:05:51
 infer
 #quote huayuankou
+
+#p 22101673 motaguoke 孤帆远影 2020-03-28 15:36:06
+import meizi as npy
+meizi.py:
+#做梦去吧
+#quote survivor
 
