@@ -1,4 +1,4 @@
-#t 1465 17600576 ltfighting 2020-03-28 00:13:00 lea 2020-03-28 23:27:00
+#t 1465 17600576 ltfighting 2020-03-28 00:13:00 physliebe 2020-03-29 00:35:00
 美德目前死亡率较低，能说明医疗条件更好么？
 
 #p 22101212 ltfighting ltfighting 2020-03-28 13:42:20
@@ -300,4 +300,15 @@ ok
 #p 22103500 lea 无爱即无忧 2020-03-28 23:26:31
 “每千人口”——人多的问题已经替你想到了...
 #quote MiniSheldon
+
+#p 22103753 pkuplf lemontree 2020-03-29 00:25:10
+每千人ICU病床的数量美国还是中国的十倍的
+#quote lea
+
+#p 22103798 physliebe 老W 2020-03-29 00:35:35
+
+
+2020-03-29 00:35:11
+同在德国，分享给你柏林的第一例死亡Coronavirus: First death in Berlin, Berlin has recorded the first proven death from the new coronavirus. A 95 year old man with severe underlying diseases has died, the Senate Department of Health announced on Friday (20 March 2020)。多看德语/英语官方报导，不要看各种微信分享，不然会被吓死或者胡言乱语
+#quote vivianz
 
