@@ -1,4 +1,4 @@
-#t 1465 17600576 ltfighting 2020-03-28 00:13:00 physliebe 2020-03-29 00:35:00
+#t 1465 17600576 ltfighting 2020-03-28 00:13:00 gaobo 2020-03-29 01:08:00
 美德目前死亡率较低，能说明医疗条件更好么？
 
 #p 22101212 ltfighting ltfighting 2020-03-28 13:42:20
@@ -305,10 +305,14 @@ ok
 每千人ICU病床的数量美国还是中国的十倍的
 #quote lea
 
-#p 22103798 physliebe 老W 2020-03-29 00:35:35
+#p 22103798 physliebe 老W 2020-03-29 00:44:16
 
 
 2020-03-29 00:35:11
-同在德国，分享给你柏林的第一例死亡Coronavirus: First death in Berlin, Berlin has recorded the first proven death from the new coronavirus. A 95 year old man with severe underlying diseases has died, the Senate Department of Health announced on Friday (20 March 2020)。多看德语/英语官方报导，不要看各种微信分享，不然会被吓死或者胡言乱语
+同在德国。最开始死亡的两人：Officials in the western state of North Rhine-Westphalia said an 89-year-old woman had died in the town of Essen and that a 78-year-old man with pre-existing health conditions had died in the badly affected region of Heinsberg。再分享给你柏林的第一例死亡Coronavirus: First death in Berlin, Berlin has recorded the first proven death from the new coronavirus. A 95 year old man with severe underlying diseases has died, the Senate Department of Health announced on Friday (20 March 2020)。多看德语/英语官方报导，少看各种微信公众号营销，不然会被吓死或者胡言乱语
 #quote vivianz
+
+#p 22103887 gaobo blabla 2020-03-29 01:07:37
+美国现在死亡率是1.6%，德国死亡率是0.7%，这其实已经和我国湖北之外的死亡率相近了。我比较奇怪的是与德国一河之隔的法国死亡率已经6%了，直逼意大利西班牙。。。看来北欧和南欧真的是两个世界？
+#quote ltfighting
 
