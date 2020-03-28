@@ -1,4 +1,4 @@
-#t 72 17598644 survivor 2020-03-27 00:07:00 motaguoke 2020-03-28 15:36:00
+#t 72 17598644 survivor 2020-03-27 00:07:00 KakaHiguain 2020-03-28 16:11:00
 Re 本版单词翻译：npy(转载)
 
 #p 22095474 survivor TEETOTALER|每天都是一种练习 2020-03-27 07:18:43
@@ -18,5 +18,9 @@ infer
 import meizi as npy
 meizi.py:
 #做梦去吧
+#quote survivor
+
+#p 22101800 KakaHiguain 喵利国家生死以 2020-03-28 16:10:08
+infer
 #quote survivor
 
