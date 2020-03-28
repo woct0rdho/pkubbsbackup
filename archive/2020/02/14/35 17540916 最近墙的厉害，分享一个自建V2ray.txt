@@ -1,7 +1,7 @@
-#t 35 17540916 xuyimiao 2020-02-14 00:15:00 cathykong 2020-03-02 00:53:00
+#t 35 17540916 xuyimiao 2020-02-14 00:15:00 Xuezi 2020-03-28 18:08:00
 最近墙的厉害，分享一个自建V2ray
 
-#p 21845121 xuyimiao 续逸淼 2020-02-14 15:26:25
+#p 21845121 xuyimiao xuyimiao 2020-02-14 15:26:25
 
 
 2020-02-14 15:25:56
@@ -77,7 +77,7 @@ V2rayX
 谢谢楼主~
 #quote xuyimiao
 
-#p 21849649 xuyimiao 续逸淼 2020-02-15 15:50:49
+#p 21849649 xuyimiao xuyimiao 2020-02-15 15:50:49
 emmm  要不我出一个教程 自己搭建一个月也就二十块钱不到。
 #quote twowater
 
@@ -118,7 +118,7 @@ Server里面不是有个import嘛
 导入了还是没翻过去😭
 #quote Bazin
 
-#p 21850445 sixeyedfish 六眼飞鱼|好险，差点饿死了 2020-02-15 19:09:49
+#p 21850445 sixeyedfish  2020-02-15 19:09:49
 哇赞！！好久没上维基了，手都痒痒了
 #quote xuyimiao
 
@@ -222,5 +222,10 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogInh1eWltaWFvIiwNCiAgImFkZCI6ICJ4dXlpbWlh
 
 #p 21923968 cathykong 化身孤岛的鲸 2020-03-02 00:53:29
 感谢楼主拯救于水火之中！！
+#quote xuyimiao
+
+#p 22102276 Xuezi 雪滋 2020-03-28 18:07:36
+LZ这个还有效吗 
+蟹蟹
 #quote xuyimiao
 
