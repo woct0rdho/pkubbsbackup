@@ -1,4 +1,4 @@
-#t 1465 17600576 ltfighting 2020-03-28 13:42:00 KAKU 2020-03-28 13:59:00
+#t 1465 17600576 ltfighting 2020-03-28 00:13:00 ltfighting 2020-03-28 14:49:00
 美德目前死亡率较低，能说明医疗条件更好么？
 
 #p 22101212 ltfighting ltfighting 2020-03-28 13:42:20
@@ -20,4 +20,39 @@ rt, 不懂就问
 人死还需要个时间啊……又不是被挤兑不能上机器就当场去世
 很多都能苟几天
 #quote ltfighting
+
+#p 22101306 ltfighting ltfighting 2020-03-28 14:03:11
+嗯 确实是这个感觉
+#quote MichaelYang
+
+#p 22101309 ltfighting ltfighting 2020-03-28 14:03:40
+哦哦 确实是这个道理
+#quote KAKU
+
+#p 22101385 lea 无爱即无忧 2020-03-28 14:20:35
+只能说明统计有问题...
+#quote ltfighting
+
+#p 22101391 ltfighting ltfighting 2020-03-28 14:21:48
+hhh
+#quote lea
+
+#p 22101409 twowater 徐二水 2020-03-28 14:27:23
+美国粗死亡率大于中国，就是七天前的确诊作为分母计算死亡率，死人是需要过程的。
+#quote ltfighting
+
+#p 22101415 ltfighting ltfighting 2020-03-28 14:28:45
+明白啦，谢谢
+#quote twowater
+
+#p 22101477 bszwsb bszwsb 2020-03-28 14:43:54
+老龄化程度
+感染者人数
+感染者年龄分布
+医疗资源  人均床位，人均呼吸机
+#quote ltfighting
+
+#p 22101489 ltfighting ltfighting 2020-03-28 14:48:08
+嗯
+#quote bszwsb
 
