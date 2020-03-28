@@ -1,4 +1,4 @@
-#t 1465 17596582 derekdut 2020-03-25 00:14:00 Chips 2020-03-28 16:18:00
+#t 1465 17596582 derekdut 2020-03-25 00:14:00 derekdut 2020-03-28 17:51:00
 法广把法语新冠肺炎全部翻译成中文武汉肺炎
 
 #p 22083046 derekdut 学渣的忧桑 2020-03-25 14:32:54
@@ -58,14 +58,26 @@ Why we keep calling Ebola Virus?
 第一反应肯定是华人搞得，看了楼上的帖子，果然
 #quote derekdut
 
-#p 22101815 Chips 好困好困好困 2020-03-28 16:17:56
+#p 22101815 Chips 好困好困好困 2020-03-28 17:08:37
 
 
 2020-03-28 16:17:10
-可以看一下WHO在2015年颁布了《World Health Organization Best Practices for the Naming of New Human Infectious Diseases》，即《世界卫生组织命名新型人类传染病的最佳实践》。
+可以看一下WHO在2015年颁布的《World Health Organization Best Practices for the Naming of New Human Infectious Diseases》，即《世界卫生组织命名新型人类传染病的最佳实践》。
 [https://www.who.int/mediacentre/news/notes/2015/naming-new-diseases/en/](jump-to.php?url=https%3A%2F%2Fwww.who.int%2Fmediacentre%2Fnews%2Fnotes%2F2015%2Fnaming-new-diseases%2Fen%2F)
 （这个网页可以切换各种语言）
 其中提出“在疾病名称中应当避免的术语包括地理方位（比如中东呼吸综合征、西班牙流感、裂谷热）、人名（比如克罗伊茨费尔特——雅各布病、恰加斯氏病）、动物或食物种群（猪流感、禽流感、猴痘）、涉及到文化、人口、工业或职业（如军团）和可煽动过度恐慌的术语（如不明、致命、流行）。”
 在颁布之后的疾病命名基本都遵循这个原则，而埃博拉、中东呼吸综合征这些是之前就有的，对于之前就已经命名好的并没有做出更改，相当于白搭了_(:з」∠)_
+p.s.比如中东呼吸综合征在命名的时候就引起过争议，尽管WHO公开发表的文件中表达了对这一命名可能存在问题，但仍然默许了_(:з」∠)_
 #quote Underloo
+
+#p 22102206 derekdut 学渣的忧桑 2020-03-28 17:50:52
+
+
+2020-03-28 17:48:26
+你这个是两码事。自己咋写是一回事儿，翻译别人的咋翻译是一回事儿。法新社的文章发文又没写武汉，翻译成中文，无中生武汉？
+#quote Underloo
+
+#p 22102218 derekdut 学渣的忧桑 2020-03-28 17:51:24
+我第一反应是北大某些人搞的。
+#quote ilemach
 
