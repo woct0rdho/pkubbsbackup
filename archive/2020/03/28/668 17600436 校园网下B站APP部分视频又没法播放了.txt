@@ -1,0 +1,39 @@
+#t 668 17600436 Manwe 2020-03-28 11:34:00 PKUCC 2020-03-28 11:59:00
+校园网下B站APP部分视频又没法播放了
+
+#p 22100642 Manwe Manwe 2020-03-28 11:34:08
+一部分视频卡在正在缓冲。
+本机IP: 115.27.220.58, 中国 北京  教育网
+ 网络暂不可达，诊断可能会较耗时，请耐心等待{app.bilibili.com/120.92.113.99: lookupTime=5, ping=false(7093ms), connectTimeHttp=7, connectTimeHttps=28, speed=1010kB/s}
+{i0.hdslb.com/202.114.51.75: lookupTime=15, ping=false(2062ms), connectTimeHttp=23, connectTimeHttps=31, speed=2kB/s}
+{s1.hdslb.com/121.194.7.5: lookupTime=5, ping=false(7036ms), connectTimeHttp=3, connectTimeHttps=5, speed=0kB/s}
+{www.qq.com/2402:4e00:8030:1::a2: lookupTime=12, connectTime=13, speed=5515kB/s}
+{www.baidu.com/182.61.200.6: lookupTime=19, connectTime=8, speed=1193kB/s}
+{cn.aliyun.com/2401:b180:1:50::f: lookupTime=18, connectTime=52, speed=794kB/s}
+{www.bilibili.com/119.3.234.165: lookupTime=26, connectTime=8}
+{interface.bilibili.com/119.3.229.89: lookupTime=13, connectTime=13}
+{comment.bilibili.com/119.3.234.165: lookupTime=25, connectTime=9}
+{api.bilibili.com/119.3.227.169: lookupTime=9, connectTime=10}
+{passport.bilibili.com/119.3.234.165: lookupTime=11, connectTime=10}
+{account.bilibili.com/119.3.238.64: lookupTime=13, connectTime=10}
+{bangumi.bilibili.com/119.3.227.169: lookupTime=18, connectTime=13}
+{live.bilibili.com/119.3.234.165: lookupTime=26, connectTime=11}
+{message.bilibili.com/119.3.238.64: lookupTime=13, connectTime=9}
+{elec.bilibili.com/119.3.238.64: lookupTime=36, connectTime=9}
+{pay.bilibili.com/119.3.229.89: lookupTime=12, connectTime=10}
+{secure.bilibili.com/58.205.214.144: lookupTime=70, connectTime=20}
+{s.search.bilibili.com/119.3.229.89: lookupTime=16, connectTime=10}
+{chat.bilibili.com/120.92.158.137: lookupTime=47, connectTime=49}
+{api.biligame.com/58.205.214.144: lookupTime=74, connectTime=5}
+{apigame.bilibili.com/119.3.229.89: lookupTime=15, connectTime=23}
+{www.im9.com/118.27.30.225: lookupTime=14, connectTime=-1}
+{acg.tv/120.24.248.50: lookupTime=81, connectTime=1062}
+{static.hdslb.com/121.194.7.6: lookupTime=15, connectTime=5}
+{i1.hdslb.com/202.114.51.75: lookupTime=12, connectTime=27}
+{i2.hdslb.com/42.245.196.208: lookupTime=15, connectTime=1006}
+{member.bilibili.com/119.3.229.89: lookupTime=12, connectTime=9}
+
+#p 22100753 PKUCC 北京大学计算中心 2020-03-28 11:59:34
+用校园网无线访问B站，测试了网页版和app版，目前看访问都正常，没有异常。
+#quote Manwe
+

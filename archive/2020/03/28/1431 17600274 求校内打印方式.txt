@@ -1,4 +1,4 @@
-#t 1431 17600274 twinklestar 2020-03-28 08:12:00 Tutu 2020-03-28 08:28:00
+#t 1431 17600274 twinklestar 2020-03-28 00:08:00 xingguan 2020-03-28 11:27:00
 求校内打印方式
 
 #p 22100002 twinklestar 星尘 2020-03-28 08:11:41
@@ -6,5 +6,15 @@
 
 #p 22100028 Tutu 十分想吃蟹黄汤包的兔兔 2020-03-28 08:27:47
 新太阳大厅有自助打印噢(◍´꒳`◍)
+#quote twinklestar
+
+#p 22100570 hbl hbl 2020-03-28 11:17:40
+新太阳大厅的自助打印需要使用联创系统打印程序，具体使用方法可以参考图书馆的这个介绍。
+[https://www.lib.pku.edu.cn/portal/cn/fw/kongjiansheshi/zizhufuwu](jump-to.php?url=https%3A%2F%2Fwww.lib.pku.edu.cn%2Fportal%2Fcn%2Ffw%2Fkongjiansheshi%2Fzizhufuwu)
+但是新太阳自助打印机有点毛病，上次我去的时候，显示屏是倒着的...非常麻烦了。如果文件不涉密的话，淘宝上找商家打印了快递过来更为方便。
+#quote twinklestar
+
+#p 22100612 xingguan xinguan 2020-03-28 11:26:33
+自己买打印机
 #quote twinklestar
 
