@@ -1,4 +1,4 @@
-#t 35 17567732 ljslcy 2020-03-04 00:15:00 ljslcy 2020-03-12 23:40:00
+#t 35 17567732 ljslcy 2020-03-04 00:15:00 lldsolitude 2020-03-30 01:15:00
 [求助]梯子能上谷歌但上不了油管
 
 #p 21935918 ljslcy StupidArcher 2020-03-04 15:00:42
@@ -82,4 +82,8 @@ Scholar确实也上不去，但提示不一样，就会明明白白告诉我我�
 #p 21976119 ljslcy StupidArcher 2020-03-12 23:39:23
 看了一眼，妹有。。空的
 #quote Dalpku
+
+#p 22110479 lldsolitude 我要长大 2020-03-30 01:14:59
+你可能配置成了使用http代理而不是socks5代理，http代理无法代理dns请求，因此浏览器还是使用系统dns进行域名解析，所以dns缓存会被污染。你把http代理关了，只用socks5代理试试？或者把http代理的sniffing选项打开？
+#quote ljslcy
 
