@@ -1,0 +1,24 @@
+#t 1465 17601979 Underloo 2020-03-29 17:14:00 nietsnie 2020-03-29 17:59:00
+美科学家称回武汉绝不是新冠肺炎源头
+
+#p 22106590 Underloo 安德鲁还是安德烈 2020-03-29 17:14:06
+原文链接:[https://www.nature.com/articles/s41591-020-0820-9](jump-to.php?url=https%3A%2F%2Fwww.nature.com%2Farticles%2Fs41591-020-0820-9)
+
+#p 22106616 sxu Bill 2020-03-29 17:18:00
+原文说的是海鲜市场不是源头。
+#quote Underloo
+
+#p 22106744 tronphy 纠缠的皮卡丘 2020-03-29 17:52:24
+央视这种媒体要么养了英语理解不好的记者，要么故意煽动民族情绪
+#quote Underloo
+
+#p 22106764 nietsnie 嗯，我是一个昵称 2020-03-29 17:58:54
+To the Editor — Since the first reports of novel pneumonia (COVID-19) in Wuhan, Hubei province, China1,2, there has been considerable discussion on the origin of the causative virus, SARS-CoV-23 (also referred to as HCoV-19)4. Infections with SARS-CoV-2 are now widespread, and as of 11 March 2020, 121,564 cases have been confirmed in more than 110 countries, with 4,373 deaths5.
+......
+1. Natural selection in an animal host before zoonotic transfer
+As many early cases of COVID-19 were linked to the Huanan market in Wuhan1,2, it is possible that an animal source was present at this location. Given the similarity of SARS-CoV-2 to bat SARS-CoV-like coronaviruses2, it is likely that bats serve as reservoir hosts for its progenitor. Although RaTG13, sampled from a Rhinolophus affinis bat1, is ~96% identical overall to SARS-CoV-2, its spike diverges in the RBD, which suggests that it may not bind efficiently to human ACE27 (Fig. 1a).
+......
+The genomic features described here may explain in part the infectiousness and transmissibility of SARS-CoV-2 in humans. Although the evidence shows that SARS-CoV-2 is not a purposefully manipulated virus, it is currently impossible to prove or disprove the other theories of its origin described here. However, since we observed all notable SARS-CoV-2 features, including the optimized RBD and polybasic cleavage site, in related coronaviruses in nature, we do not believe that any type of laboratory-based scenario is plausible.
+绝不是？
+#quote Underloo
+
