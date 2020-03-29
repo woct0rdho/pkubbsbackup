@@ -1,4 +1,4 @@
-#t 35 17538289 PKUwuming 2020-02-12 00:15:00 Xuezi 2020-03-28 18:10:00
+#t 35 17538289 PKUwuming 2020-02-12 00:15:00 frankkkkk 2020-03-29 13:23:00
 校园网VPN客户端的可选软件：OpenConnect-GUI
 
 #p 21835506 PKUwuming 无名 2020-02-15 16:52:13
@@ -149,4 +149,8 @@ vpn会断原网络难道不是再正常不过的行为么……
 #p 22102278 Xuezi 雪滋 2020-03-28 18:09:16
 为什么我的不能上byr。。。
 #quote frankkkkk
+
+#p 22105634 frankkkkk :%s/🐟/⛽️/g 2020-03-29 13:22:28
+pulse secure是有ipv6连接的，应该是可以的
+#quote Xuezi
 
