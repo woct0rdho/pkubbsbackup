@@ -1,4 +1,4 @@
-#t 1465 17601419 sadness 2020-03-29 05:11:00 sadness 2020-03-29 05:11:00
+#t 1465 17601419 sadness 2020-03-29 00:05:00 sansejin 2020-03-29 09:45:00
 纽约时报：Americans Should Probably Wear Masks 
 
 #p 22104229 sadness 赛德里斯 2020-03-29 05:11:02
@@ -8,4 +8,8 @@
 ”
 原文链接：
 [https://www.nytimes.com/2020/03/27/health/us-coronavirus-face-masks.html?action=click&amp;module=Top%20Stories&amp;pgtype=Homepage](jump-to.php?url=https%3A%2F%2Fwww.nytimes.com%2F2020%2F03%2F27%2Fhealth%2Fus-coronavirus-face-masks.html%3Faction%3Dclick%26module%3DTop%2520Stories%26pgtype%3DHomepage)
+
+#p 22104633 sansejin 三色堇 2020-03-29 09:44:42
+出门右拐，中国这么多口罩
+#quote sadness
 
