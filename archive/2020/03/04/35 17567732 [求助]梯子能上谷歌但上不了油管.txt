@@ -1,4 +1,4 @@
-#t 35 17567732 ljslcy 2020-03-04 00:15:00 lldsolitude 2020-03-30 19:04:00
+#t 35 17567732 ljslcy 2020-03-04 00:15:00 ljslcy 2020-03-31 01:45:00
 [求助]梯子能上谷歌但上不了油管
 
 #p 21935918 ljslcy StupidArcher 2020-03-04 15:00:42
@@ -95,9 +95,22 @@ Scholar确实也上不去，但提示不一样，就会明明白白告诉我我�
 而SOCKS5代理，情况就复杂一些了。SOCKS5代理DNS既可以远程也可以本地（浏览器负责选择解析方式）。其中：（较新版本）Chrome都是远程；Firefox用系统代理默认本地，可以改成远程，用SwitchyOmega的话则都是远程；其它能使用系统代理的软件，很多都不支持远程DNS。
 #quote lldsolitude
 
-#p 22113934 lldsolitude 我要长大 2020-03-30 19:03:40
+#p 22113934 lldsolitude 我要长大 2020-03-30 20:14:27
+
+
+2020-03-30 19:03:40
 你说得有道理……还是要看梯子是怎么配置的。
-主流的桌面翻墙客户端里，http代理的本质都是用privoxy转发给v2ray的socks5 inbound，这样就不会存在DNS污染的问题，但如果LZ出于某种原因用了v2ray自带的http inbound，又没有对DNS做额外配置，那v2ray也只能把DNS解析交给系统DNS解决。
+主流的桌面翻墙客户端里，http代理的本质都是用privoxy转发给v2ray的socks5 inbound，这样就不会存在DNS污染的问题，但如果LZ出于某种原因用了v2ray自带的http inbound，又没有对DNS做额外配置，那v2ray也只能把DNS解析交给系统DNS解决吧？
 LZ说了他一直用的是SwitchyOmega，所以如果SwitchyOmega配置的是socks5代理的话，应该不存在浏览器用本地DNS解析的问题？
+#quote gspku
+
+#p 22115635 ljslcy StupidArcher 2020-03-31 01:42:49
+是的，理论上应该是能够远程解析的
+我朋友用相同的配置是能上的
+我两台电脑就都不行，很迷惑
+#quote lldsolitude
+
+#p 22115640 ljslcy StupidArcher 2020-03-31 01:44:47
+我用的switchyomega，理论上应该远程解析，但实际出现了污染，原因不明
 #quote gspku
 
