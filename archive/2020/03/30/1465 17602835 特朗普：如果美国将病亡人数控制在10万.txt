@@ -1,4 +1,4 @@
-#t 1465 17602835 yufeicao 2020-03-30 00:10:00 Chips 2020-03-30 12:00:00
+#t 1465 17602835 yufeicao 2020-03-30 00:10:00 Chips 2020-03-30 12:01:00
 特朗普：如果美国将病亡人数控制在10万
 
 #p 22111473 yufeicao 飞鹰 2020-03-30 10:53:10
@@ -12,8 +12,11 @@
 Enlish version?
 #quote yufeicao
 
-#p 22111821 Chips 好困好困好困 2020-03-30 12:00:21
-"If we have between 100,000 and 200,000 we've all together done a very good job."
+#p 22111821 Chips 好困好困好困 2020-03-30 12:01:47
+
+
+2020-03-30 12:00:21
+"And so, if we could hold that down, as we’re saying, to 100,000 – it’s a horrible number, maybe even less, but to 100,000, so we have between 100 [thousand] and 200,000 – we altogether have done a very good job."
 补链接：[https://www.theguardian.com/world/2020/mar/30/trump-says-keeping-us-covid-19-deaths-to-100000-would-be-a-very-good-job](jump-to.php?url=https%3A%2F%2Fwww.theguardian.com%2Fworld%2F2020%2Fmar%2F30%2Ftrump-says-keeping-us-covid-19-deaths-to-100000-would-be-a-very-good-job)
 视频：[https://twitter.com/sparksjls/status/1244429399300112385?s=21](jump-to.php?url=https%3A%2F%2Ftwitter.com%2Fsparksjls%2Fstatus%2F1244429399300112385%3Fs%3D21)
 #quote yufeicao
