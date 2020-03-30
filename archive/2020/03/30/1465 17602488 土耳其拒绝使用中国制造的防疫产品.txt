@@ -1,4 +1,4 @@
-#t 1465 17602488 quick 2020-03-30 00:02:00 Chips 2020-03-30 20:57:00
+#t 1465 17602488 quick 2020-03-30 00:02:00 virgolucia 2020-03-30 21:16:00
 土耳其拒绝使用中国制造的防疫产品
 
 #p 22110569 quick quick 2020-03-30 02:05:57
@@ -73,4 +73,11 @@ ls都学过“条件概率”嘛??...
 但援引euronews的报道：“The masks had a KN95 certification indicating that they should filter above 95% of particles.”
 所以我觉得问题不在于标准的不同，而在于原本就没有达到KN95标准。
 #quote virgolucia
+
+#p 22114611 virgolucia 松寒 2020-03-30 21:15:39
+
+
+2020-03-30 21:15:08
+从新闻看看不出它用的是哪种particle测的
+#quote Chips
 
