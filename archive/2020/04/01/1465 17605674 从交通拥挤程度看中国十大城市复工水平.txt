@@ -1,0 +1,25 @@
+#t 1465 17605674 Zusammen 2020-04-01 03:45:00 Zusammen 2020-04-01 03:45:00
+从交通拥挤程度看中国十大城市复工水平
+
+#p 22124248 Zusammen 鸣龙大仙 2020-04-01 03:44:56
+从导航数据提供商TomTom的交通拥堵指标Traffic Index来看中国前10的特大城市复工程度。（特大城市数据来源[https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E7%89%B9%E5%A4%A7%E5%9F%8E%E5%B8%82%E5%88%97%E8%A1%A8](jump-to.php?url=https%3A%2F%2Fzh.wikipedia.org%2Fwiki%2F%25E4%25B8%25AD%25E5%258D%258E%25E4%25BA%25BA%25E6%25B0%2591%25E5%2585%25B1%25E5%2592%258C%25E5%259B%25BD%25E7%2589%25B9%25E5%25A4%25A7%25E5%259F%258E%25E5%25B8%2582%25E5%2588%2597%25E8%25A1%25A8)）
+城市        所属省市        查询网网址
+上海        上海1        [https://www.tomtom.com/en_gb/traffic-index/shanghai-traffic](jump-to.php?url=https%3A%2F%2Fwww.tomtom.com%2Fen_gb%2Ftraffic-index%2Fshanghai-traffic)
+北京        北京1        [https://www.tomtom.com/en_gb/traffic-index/beijing-traffic](jump-to.php?url=https%3A%2F%2Fwww.tomtom.com%2Fen_gb%2Ftraffic-index%2Fbeijing-traffic)
+重庆        重庆1        [https://www.tomtom.com/en_gb/traffic-index/chongqing-traffic](jump-to.php?url=https%3A%2F%2Fwww.tomtom.com%2Fen_gb%2Ftraffic-index%2Fchongqing-traffic)
+广州        广东1        [https://www.tomtom.com/en_gb/traffic-index/guangzhou-traffic](jump-to.php?url=https%3A%2F%2Fwww.tomtom.com%2Fen_gb%2Ftraffic-index%2Fguangzhou-traffic)
+深圳        广东2        [https://www.tomtom.com/en_gb/traffic-index/shenzhen-traffic](jump-to.php?url=https%3A%2F%2Fwww.tomtom.com%2Fen_gb%2Ftraffic-index%2Fshenzhen-traffic)
+天津        天津1        [https://www.tomtom.com/en_gb/traffic-index/tianjin-traffic](jump-to.php?url=https%3A%2F%2Fwww.tomtom.com%2Fen_gb%2Ftraffic-index%2Ftianjin-traffic)
+武汉        湖北1        [https://www.tomtom.com/en_gb/traffic-index/wuhan-traffic](jump-to.php?url=https%3A%2F%2Fwww.tomtom.com%2Fen_gb%2Ftraffic-index%2Fwuhan-traffic)
+成都        四川1        [https://www.tomtom.com/en_gb/traffic-index/chengdu-traffic](jump-to.php?url=https%3A%2F%2Fwww.tomtom.com%2Fen_gb%2Ftraffic-index%2Fchengdu-traffic)
+东莞        广东3        [https://www.tomtom.com/en_gb/traffic-index/dongguan-traffic](jump-to.php?url=https%3A%2F%2Fwww.tomtom.com%2Fen_gb%2Ftraffic-index%2Fdongguan-traffic)
+南京        江苏1        [https://www.tomtom.com/en_gb/traffic-index/nanjing-traffic](jump-to.php?url=https%3A%2F%2Fwww.tomtom.com%2Fen_gb%2Ftraffic-index%2Fnanjing-traffic)
+郑州        河南1        无统计
+杭州        浙江1        [https://www.tomtom.com/en_gb/traffic-index/hangzhou-traffic](jump-to.php?url=https%3A%2F%2Fwww.tomtom.com%2Fen_gb%2Ftraffic-index%2Fhangzhou-traffic)
+沈阳        辽宁1        [https://www.tomtom.com/en_gb/traffic-index/shenyang-traffic](jump-to.php?url=https%3A%2F%2Fwww.tomtom.com%2Fen_gb%2Ftraffic-index%2Fshenyang-traffic)
+从过去7天的交通流量中能看好几个有意思的地方：
+1. 和预想中一样，武汉几乎没有交通流量，不过最近一周在早晚高峰期有了一点点车流量，说明还是有一部分上班族在开车上班。
+2. 北京车流量工作日很高，仅略低于2019年平均，应该是没有限号和疫情导致开车增多导致的。但是周末的车流量少得可怜，说明管控力度还挺大，市民消费仍然没有恢复的迹象。同样作为一线城市的上海和广州也跟北京类似，周末远不及历史平均，工作日略低于历史平均。
+3. 复工程度最大的大城市是东北的沈阳和西南的重庆成都。工作日甚至超过历史平均（更多人选择开车上下班，同时交通限制措施也都没有实行），周末也仅仅略低于历史平均，说明周末人们都渐渐开始出门该吃吃该喝喝。这几个城市和所在地区（至少西南地区）也是目前疫情管制措施最松的地区之一。
+4. 东莞因非地区中心城市，工作日车流量也仅达2019年平均50%，是这10个特大城中工作日交通流量相对历史平均最低的城市。说明很多广东的制造业可能复工程度还不是很高。
+
