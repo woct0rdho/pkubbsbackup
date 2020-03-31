@@ -1,0 +1,10 @@
+#t 668 17605330 xiaoguaila 2020-03-31 22:51:00 xiaoguaila 2020-03-31 22:51:00
+VPN与macOS可能不匹配问题。
+
+#p 22122291 xiaoguaila 小乖乖 2020-03-31 22:51:29
+**亲爱的计算中心：**
+**       你好，我校官方公布的mac电脑vpn方案可能与mac os最新系统存在不兼容现象。希望各位老师可以研究下，尽快出台更新方案。不胜感激。**
+**顺颂时祺！**
+详情截图如下：
+<img src="blob:https://bbs.pku.edu.cn/167525d2-3bc0-4983-aed2-05b9948216d2"/><img src="blob:https://bbs.pku.edu.cn/fc0683fe-00d1-40da-8601-03baeb7cf372"/>
+
