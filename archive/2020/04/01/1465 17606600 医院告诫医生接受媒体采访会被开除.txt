@@ -1,4 +1,4 @@
-#t 1465 17606600 NGAinspector 2020-04-01 00:16:00 NGAinspector 2020-04-01 23:07:00
+#t 1465 17606600 NGAinspector 2020-04-01 00:16:00 KMAvenger 2020-04-02 00:36:00
 医院告诫医生接受媒体采访会被开除
 
 #p 22128229 NGAinspector NGA水区特派观察员 2020-04-01 16:58:23
@@ -56,4 +56,8 @@ Many say they get daily emails urging them not to talk to the media under any ci
 #p 22130450 NGAinspector NGA水区特派观察员 2020-04-01 23:06:56
 至少武汉早期没开除人家，这可是直接 out of a job 了
 #quote KMAvenger
+
+#p 22130981 KMAvenger 长琴 2020-04-02 00:36:30
+李医生那种也不是对媒体说就直接被“谣言了”，我想如果对媒体说肯定就没了。然后还有坚决不让上报和统计的，只有极少数医生坚持上报卫健委了。包括第二批专家组过去也有拦着死活不让说的。不过记忆中确实很少有医生在早期直接接受了媒体采访，可能都被规训习惯了吧，当然我检索能力有限，如果能找到一模一样对比的就好。
+#quote NGAinspector
 
