@@ -1,4 +1,4 @@
-#t 35 17596938 MiraculousMa 2020-03-25 00:19:00 vimacs 2020-03-26 21:39:00
+#t 35 17596938 MiraculousMa 2020-03-25 00:19:00 yzs 2020-04-01 22:29:00
 弱弱地问，入校VPN可以设置分应用代理么……
 
 #p 22084341 MiraculousMa 真空中的球形鸡|汪 2020-03-25 19:12:07
@@ -28,4 +28,8 @@ Windows也有route命令。
 #p 22090555 vimacs Lisp Interaction Paredit AC 2020-03-26 21:38:21
 VPN和代理服务器本来就不是一个概念，但是很多人都把这两者搞混。
 #quote gzz
+
+#p 22130266 yzs 江户川闰土 2020-04-01 22:28:47
+请使用vpns.pku.edu.cn，自带分流
+#quote MiraculousMa
 
