@@ -1,4 +1,4 @@
-#t 1465 17606732 Chips 2020-04-01 18:38:00 Chips 2020-04-01 18:51:00
+#t 1465 17606732 Chips 2020-04-01 18:38:00 Chips 2020-04-01 19:05:00
 外媒：为阻止新冠病毒传播 朝鲜高校开设网课
 
 #p 22128780 Chips 我的鱼在哪 2020-04-01 18:37:52
@@ -23,4 +23,10 @@
 #p 22128852 Chips 我的鱼在哪 2020-04-01 18:51:37
 我看了一眼…怎么感觉…仿佛没有什么…参考意义w(ﾟДﾟ)w
 #quote Nd
+
+#p 22128928 Chips 我的鱼在哪 2020-04-01 19:04:40
+还看到一则《国会山报》的
+[https://thehill.com/policy/international/asia-pacific/489615-north-korea-asking-for-aid-while-denying-any-coronavirus](jump-to.php?url=https%3A%2F%2Fthehill.com%2Fpolicy%2Finternational%2Fasia-pacific%2F489615-north-korea-asking-for-aid-while-denying-any-coronavirus)
+尽管无病例通报，朝鲜官员仍然寻求医疗援助
+#quote Chips
 
