@@ -1,0 +1,14 @@
+#t 668 17606316 Selenium 2020-04-01 13:42:00 PKUCC 2020-04-01 13:50:00
+北大网盘网页版登不了？
+
+#p 22126866 Selenium Selenium 2020-04-01 13:41:25
+rt
+disk.pku.edu.cn电脑显示无法访问此页面
+
+#p 22126926 PKUCC 北京大学计算中心 2020-04-01 13:48:59
+您好，按照下面操作改下ie浏览器Internet选项
+#quote Selenium
+
+#p 22126934 PKUCC 北京大学计算中心 2020-04-01 13:49:22
+#quote Selenium
+
