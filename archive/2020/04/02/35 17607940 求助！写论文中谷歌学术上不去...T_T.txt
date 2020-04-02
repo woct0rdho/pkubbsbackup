@@ -1,4 +1,4 @@
-#t 35 17607940 sadness 2020-04-02 00:14:00 pkultf 2020-04-02 23:40:00
+#t 35 17607940 sadness 2020-04-02 00:14:00 iOcean 2020-04-03 00:54:00
 求助！写论文中谷歌学术上不去...T_T
 
 #p 22133774 sadness 赛德里斯 2020-04-02 23:38:38
@@ -15,7 +15,7 @@
 4、尝试了微软学术，感觉在全文链接这块做得不是很好
 再次感谢各位大佬热心帮助！！我……先苟延残喘地肝论文去了……等我写完了再尝试其他办法，如果有办法再来回复大家！感谢！！！
 
-#p 22134019 IlIl 王铁牙 2020-04-02 15:08:42
+#p 22134019 IlIl 王铁崖 2020-04-02 15:08:42
 是打开网页直接404么？
 #quote sadness
 
@@ -41,7 +41,7 @@ Chrome安装Ghelper，可以用
 会反复循环定向到一个镜像网址list界面
 #quote dvorah
 
-#p 22134323 IlIl 王铁牙 2020-04-02 16:09:51
+#p 22134323 IlIl 王铁崖 2020-04-02 16:09:51
 这是把你的vps认成爬虫了，一般情况下把vps里面的host改成ipv6的(注意不是本机)，然后访问Google的网站的时候都登录自己的Google账号就一般不会被认做爬虫，也不要太多的人共用一个vps。
 #quote sadness
 
@@ -67,7 +67,7 @@ Chrome安装Ghelper，可以用
 另外用Youtube测试了一下，也打不开
 #quote Hanrina
 
-#p 22134594 IlIl 王铁牙 2020-04-02 16:49:13
+#p 22134594 IlIl 王铁崖 2020-04-02 16:49:13
 vps不是你的Windows电脑，是给你提供ssr服务的那个在境外的中转服务器。
 #quote sadness
 
@@ -205,5 +205,18 @@ hiaoxui的vpn有几个节点用的服务器提供商好像经常被谷歌学术�
 
 #p 22147512 pkultf 说实话就挨打 2020-04-02 23:39:44
 我在google版的小白分享贴，提供了6种方式，就看能不能被你发现了，哈哈哈
+#quote sadness
+
+#p 22147660 lijinpei 陈冠嘻 2020-04-03 00:12:54
+[https://www.xlink.dog/](jump-to.php?url=https%3A%2F%2Fwww.xlink.dog%2F)
+大概100RMB一年，50G每月流量
+#quote sadness
+
+#p 22147760 iOcean 若为雄才 2020-04-03 00:54:25
+
+
+2020-04-03 00:53:41
+[https://www.lico.world/auth/register?code=zAcRi8pbkRIAVmooqBvYmSFYRHNGge0p](jump-to.php?url=https%3A%2F%2Fwww.lico.world%2Fauth%2Fregister%3Fcode%3DzAcRi8pbkRIAVmooqBvYmSFYRHNGge0p)
+欢迎来玩,最便宜2块9
 #quote sadness
 
