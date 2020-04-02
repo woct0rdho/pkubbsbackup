@@ -1,0 +1,10 @@
+#t 294 17608133 AGI 2020-04-02 16:50:00 AGI 2020-04-02 16:50:00
+柠檬🍋能让北大成为Top1吗？
+
+#p 22134595 AGI AGI 2020-04-02 16:49:14
+if **True**:
+    Continue
+else:
+    FUCK OFF &amp; GO STUDY
+end
+
