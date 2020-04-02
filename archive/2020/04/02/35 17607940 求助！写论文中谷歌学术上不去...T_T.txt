@@ -1,4 +1,4 @@
-#t 35 17607940 sadness 2020-04-02 00:14:00 iOcean 2020-04-03 00:54:00
+#t 35 17607940 sadness 2020-04-02 00:14:00 Kris 2020-04-03 01:48:00
 求助！写论文中谷歌学术上不去...T_T
 
 #p 22133774 sadness 赛德里斯 2020-04-02 23:38:38
@@ -218,5 +218,13 @@ hiaoxui的vpn有几个节点用的服务器提供商好像经常被谷歌学术�
 2020-04-03 00:53:41
 [https://www.lico.world/auth/register?code=zAcRi8pbkRIAVmooqBvYmSFYRHNGge0p](jump-to.php?url=https%3A%2F%2Fwww.lico.world%2Fauth%2Fregister%3Fcode%3DzAcRi8pbkRIAVmooqBvYmSFYRHNGge0p)
 欢迎来玩,最便宜2块9
+#quote sadness
+
+#p 22147800 Dinosaur 小恐龙 2020-04-03 01:09:19
+刚刚测试，我用的蓝灯，Win和Android版本都可以连的上google scholar
+#quote sadness
+
+#p 22147864 Kris 依稀 2020-04-03 01:47:55
+啥话不说了，拿去用吧。科研要紧。[https://g3.luciaz.me/extdomains/scholar.google.com/](jump-to.php?url=https%3A%2F%2Fg3.luciaz.me%2Fextdomains%2Fscholar.google.com%2F)
 #quote sadness
 
