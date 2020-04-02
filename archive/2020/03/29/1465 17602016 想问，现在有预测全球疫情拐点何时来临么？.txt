@@ -1,4 +1,4 @@
-#t 1465 17602016 HKSJDJC 2020-03-29 00:17:00 Chips 2020-04-01 23:34:00
+#t 1465 17602016 HKSJDJC 2020-03-29 00:17:00 Koppelbarg 2020-04-02 07:45:00
 想问，现在有预测全球疫情拐点何时来临么？
 
 #p 22106741 HKSJDJC 思江河 2020-03-29 17:51:41
@@ -127,5 +127,12 @@ Logistic
 #p 22130613 Chips 我的鱼在哪 2020-04-01 23:33:52
 钟南山最新判断→预计全球疫情4月底出现拐点
 [https://mp.weixin.qq.com/s/-KRa49yURKqzfRYsRB2qSQ](jump-to.php?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F-KRa49yURKqzfRYsRB2qSQ)
+#quote HKSJDJC
+
+#p 22131604 Koppelbarg 云中 2020-04-02 07:45:10
+一个一个国家看吧
+首先是新增确诊病例下降，意大利的新增确诊从近1万下降到了四千
+然后两周左右会到现存确诊病例的顶峰
+再往后现存确诊病例不断下降到零
 #quote HKSJDJC
 
