@@ -1,4 +1,4 @@
-#t 35 17607940 sadness 2020-04-02 00:14:00 pkuplf 2020-04-02 21:37:00
+#t 35 17607940 sadness 2020-04-02 00:14:00 pkultf 2020-04-02 22:58:00
 求助！写论文中谷歌学术上不去...T_T
 
 #p 22133774 sadness 赛德里斯 2020-04-02 14:22:25
@@ -116,5 +116,38 @@ hiaoxui的主页上讲了这个问题  好像每天上的人太多就上不去�
 vip1节点就可以满足日常学习需求以及YouTube不卡，用新人优惠码3个月大概是25块钱。（虽然有流量限制，但基本是用不完了，每天签到还能领流量，可以无视）
 1月份时我刚续费一年的cloudss ssr挂了，然后有人给我推荐的这个，这几个月用着可以，总是有能用的节点
 [https://flysocks.xyz/auth/register?code=fEqM](jump-to.php?url=https%3A%2F%2Fflysocks.xyz%2Fauth%2Fregister%3Fcode%3DfEqM) 
+#quote sadness
+
+#p 22141894 sadness 赛德里斯 2020-04-02 22:04:03
+感谢支招！
+主要是习惯了谷歌便捷的链接全文、引用被引等功能，目前用Pubmed勉强为继
+#quote ganyuzl
+
+#p 22141899 sadness 赛德里斯 2020-04-02 22:04:28
+谢谢推荐呐！
+#quote pkuplf
+
+#p 22143221 PKUwuyi JH 2020-04-02 22:12:45
+哈哈，蹲一个楼主使用以后哪种最好用的评价～
+#quote sadness
+
+#p 22143756 Yuanorz physcai 2020-04-02 22:13:54
+微软学术hin好用
+#quote ganyuzl
+
+#p 22147136 HalseyZ Mobbingaround 2020-04-02 22:23:10
+情况只会更糟（滑稽
+#quote Homagod
+
+#p 22147144 wokanfanxing 独行君 2020-04-02 22:24:07
+感谢感谢！
+#quote dvorah
+
+#p 22147232 xys Sowol 2020-04-02 22:40:06
+403吗，我最近也这样了，隔段时间好一下，用一阵又不好了
+#quote sadness
+
+#p 22147313 pkultf 说实话就挨打 2020-04-02 22:58:29
+请看一下google贴，小白分享…
 #quote sadness
 
