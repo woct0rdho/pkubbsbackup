@@ -1,0 +1,12 @@
+#t 35 17609198 shenby 2020-04-03 11:09:00 shenby 2020-04-03 11:11:00
+安装Pulse secure之后，不挂vpn就无法打开网页？
+
+#p 22149022 shenby QAQ 2020-04-03 11:09:22
+前两天更新了macOS Catalina，之后在its上安装了新的pulse secure，之后，发现在退出pulse secure的时候就无法打开网页（可以上QQ和微信），并且在退出时会出现如下提示：
+“现有的 Pulse Secure 可能会禁用某些网络连接，直到您重新启动 Pulse Secure。
+可以从应用程序列表运行以重新启动 Pulse Secure。是否确实要退出？”
+于是陷入迷惑……想向大家请教一下这是什么情况呀？
+
+#p 22149033 shenby QAQ 2020-04-03 11:11:08
+#quote shenby
+
