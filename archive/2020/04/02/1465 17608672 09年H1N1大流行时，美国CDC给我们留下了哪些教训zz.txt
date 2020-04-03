@@ -1,4 +1,4 @@
-#t 1465 17608672 Chips 2020-04-02 23:46:00 Chips 2020-04-02 23:46:00
+#t 1465 17608672 Chips 2020-04-02 00:23:00 eagle 2020-04-03 15:08:00
 09年H1N1大流行时，美国CDC给我们留下了哪些教训zz
 
 #p 22147535 Chips 我的鱼在哪 2020-04-02 23:45:54
@@ -65,4 +65,9 @@ CDC一度建议，如果患者退烧超过24小时，就可以复课或复工。
 二，任何选择，都是两难的。一方面是疫情防控，一方面是公众情绪、社会稳定与经济发展。然而必须作出选择，并随时关注反馈，及时纠错调整。
 三，任何情况下，都要和一切可以交流的人沟通交流。千万不要自己单干。
 [https://mp.weixin.qq.com/s/ML4ECzq5LYIpVVZ3LSroYg](jump-to.php?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FML4ECzq5LYIpVVZ3LSroYg)
+
+#p 22150268 eagle 鹰|理二的李二 2020-04-03 15:07:16
+又把 “估计” 混淆成 “统计” 了，参见
+[https://bbs.pku.edu.cn/v2/mobile/post-read.php?bid=251&amp;threadid=17528593&amp;from=timeline](mobile/post-read.php?bid=251&amp;threadid=17528593&amp;from=timeline)
+#quote Chips
 
