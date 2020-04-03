@@ -1,4 +1,4 @@
-#t 1465 17609549 lea 2020-04-03 15:54:00 CoreM 2020-04-03 16:15:00
+#t 1465 17609549 lea 2020-04-03 00:15:00 tgycmzwj 2020-04-03 19:30:00
 纽约州放宽空气质量要求以便火葬场全力运行
 
 #p 22150570 lea 无爱即无忧 2020-04-03 15:53:44
@@ -25,4 +25,9 @@
 #p 22150740 CoreM AMDYES 2020-04-03 16:15:00
 有没有人打听一下，死的有多少是确诊的……
 #quote zheshishenme
+
+#p 22151724 tgycmzwj rainbow(l) 2020-04-03 19:30:03
+[https://gis.cdc.gov/grasp/fluview/mortality.html](jump-to.php?url=https%3A%2F%2Fgis.cdc.gov%2Fgrasp%2Ffluview%2Fmortality.html)
+我觉得这个夸张的太厉害了，新冠死亡是额外增加了不少，但是同时因为交通通行减少等原因死亡的人数也下降了很多，对比2019week 11全美死亡57869，今年week 11全美死亡37641是下降的
+#quote lea
 
