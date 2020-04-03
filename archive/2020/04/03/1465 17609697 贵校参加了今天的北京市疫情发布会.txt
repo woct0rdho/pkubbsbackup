@@ -1,4 +1,4 @@
-#t 1465 17609697 peerless 2020-04-03 00:18:00 treasureyou 2020-04-03 20:47:00
+#t 1465 17609697 peerless 2020-04-03 00:18:00 peerless 2020-04-03 22:19:00
 贵校参加了今天的北京市疫情发布会
 
 #p 22151469 peerless <tex>\blacksquare\blacksquare</tex> 2020-04-03 18:26:53
@@ -11,5 +11,10 @@
 
 #p 22152042 treasureyou 笨学生 2020-04-03 20:46:47
 en .....
+#quote peerless
+
+#p 22152394 peerless <tex>\blacksquare\blacksquare</tex> 2020-04-03 22:19:00
+[https://weibointl.api.weibo.cn/share/137123577.html](jump-to.php?url=https%3A%2F%2Fweibointl.api.weibo.cn%2Fshare%2F137123577.html)
+这个是隔壁的，仅做参考
 #quote peerless
 
