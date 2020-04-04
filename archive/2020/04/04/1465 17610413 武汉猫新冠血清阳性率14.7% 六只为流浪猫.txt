@@ -1,4 +1,4 @@
-#t 1465 17610413 LuoShi 2020-04-04 00:07:00 OVERLORD 2020-04-04 22:56:00
+#t 1465 17610413 LuoShi 2020-04-04 00:07:00 OVERLORD 2020-04-04 23:32:00
 武汉猫新冠血清阳性率14.7% 六只为流浪猫
 
 #p 22153421 LuoShi wsj 2020-04-04 07:11:50
@@ -182,5 +182,16 @@ Coronavirus disease 2019 (COVID-19) caused by severe acute respiratory syndrome 
 #p 22157512 OVERLORD 我将无我 不负人民 2020-04-04 22:55:35
 A reminder: these are preliminary reports that have not been peer-reviewed. 
 我不太清楚biorxiv，意思是只要符合格式的论文都能发上去是么。
+#quote LuoShi
+
+#p 22157625 LuoShi wsj 2020-04-04 23:10:55
+是的，为了提前让别人看且提意见，在期刊正式发表前先发到这种网站上。
+作者除了华中农业大学的教授外，还有,中科院武汉病毒所的石正丽教授，所以其论文还是可以基本相信的。
+当然等起正式刊发也没问题
+#quote OVERLORD
+
+#p 22159627 OVERLORD 我将无我 不负人民 2020-04-04 23:31:27
+发刊要经过同行评审吧，意味着也可能不刊发，我觉得还是等实际刊发吧。
+你有仔细研究过这片预刊稿么？
 #quote LuoShi
 
