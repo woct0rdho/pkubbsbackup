@@ -1,4 +1,4 @@
-#t 1465 17610413 LuoShi 2020-04-04 00:07:00 Vulcan 2020-04-04 20:38:00
+#t 1465 17610413 LuoShi 2020-04-04 00:07:00 OVERLORD 2020-04-04 22:56:00
 武汉猫新冠血清阳性率14.7% 六只为流浪猫
 
 #p 22153421 LuoShi wsj 2020-04-04 07:11:50
@@ -167,5 +167,20 @@ Linda Saif表示，没有一只感染的猫表现出了疾病的症状，且3只
 #p 22156589 Vulcan @这是什么  您原来这么要脸啊，失敬失敬 2020-04-04 20:37:46
 我……突然有个不太好的猜测……
 一开始的华南海鲜市场出现了集中爆发，但是事实上，这个病毒不会一开始就是由流浪猫传播给人类的吧？毕竟流浪猫确实喜欢四处捕杀其他的一些小动物，而且哪里都能钻，什么阴沟地洞都能进……
+#quote LuoShi
+
+#p 22157495 LuoShi wsj 2020-04-04 22:53:17
+[https://www.biorxiv.org/content/10.1101/2020.04.01.021196v1](jump-to.php?url=https%3A%2F%2Fwww.biorxiv.org%2Fcontent%2F10.1101%2F2020.04.01.021196v1)
+Abstract
+Coronavirus disease 2019 (COVID-19) caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) was first reported in Wuhan, China, and rapidly spread worldwide. Previous studies suggested cat could be a potential susceptible animal of SARS-CoV-2. Here, we investigated the infection of SARS-CoV-2 in cats by detecting specific serum antibodies. A cohort of serum samples were collected from cats in Wuhan, including 102 sampled after COVID-19 outbreak, and 39 prior to the outbreak. 15 of 102 (14.7%) cat sera collected after the outbreak were positive for the receptor binding domain (RBD) of SARS-CoV-2 by indirect enzyme linked immunosorbent assay (ELISA). Among the positive samples, 11 had SARS-CoV-2 neutralizing antibodies with a titer ranging from 1/20 to 1/1080. No serological cross-reactivity was detected between the SARS-CoV-2 and type I or II feline infectious peritonitis virus (FIPV). Our data demonstrates that SARS-CoV-2 has infected cat population in Wuhan during the outbreak.
+#quote OVERLORD
+
+#p 22157503 LuoShi wsj 2020-04-04 22:54:03
+尽力防范一切可能
+#quote Vulcan
+
+#p 22157512 OVERLORD 我将无我 不负人民 2020-04-04 22:55:35
+A reminder: these are preliminary reports that have not been peer-reviewed. 
+我不太清楚biorxiv，意思是只要符合格式的论文都能发上去是么。
 #quote LuoShi
 
