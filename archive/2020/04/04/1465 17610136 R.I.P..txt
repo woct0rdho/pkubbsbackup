@@ -1,4 +1,4 @@
-#t 1465 17610136 OVERLORD 2020-04-04 00:00:00 Dondonda 2020-04-04 04:48:00
+#t 1465 17610136 OVERLORD 2020-04-04 00:00:00 Swordshield 2020-04-04 07:02:00
 R.I.P.
 
 #p 22152838 OVERLORD 我将无我 不负人民 2020-04-04 00:00:42
@@ -40,5 +40,9 @@ R. I. P.
 
 #p 22153293 Dondonda Dondonda 2020-04-04 04:48:04
 英雄永垂不朽，受难者安息
+#quote OVERLORD
+
+#p 22153394 Swordshield 燕园瓜农 2020-04-04 07:01:57
+rip
 #quote OVERLORD
 
