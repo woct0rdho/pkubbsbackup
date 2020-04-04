@@ -1,4 +1,4 @@
-#t 35 17607940 sadness 2020-04-02 00:14:00 keke 2020-04-03 10:59:00
+#t 35 17607940 sadness 2020-04-02 00:14:00 XShell 2020-04-04 20:19:00
 【已解决】写论文中的谷歌学术……
 
 #p 22133774 sadness 赛德里斯 2020-04-03 02:51:15
@@ -24,7 +24,7 @@
 再次感谢各位热心人！！
 祝各位好人一生顺利平安！
 
-#p 22134019 IlIl 王铁崖 2020-04-02 15:08:42
+#p 22134019 IlIl 王铁牙 2020-04-02 15:08:42
 是打开网页直接404么？
 #quote sadness
 
@@ -50,7 +50,7 @@ Chrome安装Ghelper，可以用
 会反复循环定向到一个镜像网址list界面
 #quote dvorah
 
-#p 22134323 IlIl 王铁崖 2020-04-02 16:09:51
+#p 22134323 IlIl 王铁牙 2020-04-02 16:09:51
 这是把你的vps认成爬虫了，一般情况下把vps里面的host改成ipv6的(注意不是本机)，然后访问Google的网站的时候都登录自己的Google账号就一般不会被认做爬虫，也不要太多的人共用一个vps。
 #quote sadness
 
@@ -76,7 +76,7 @@ Chrome安装Ghelper，可以用
 另外用Youtube测试了一下，也打不开
 #quote Hanrina
 
-#p 22134594 IlIl 王铁崖 2020-04-02 16:49:13
+#p 22134594 IlIl 王铁牙 2020-04-02 16:49:13
 vps不是你的Windows电脑，是给你提供ssr服务的那个在境外的中转服务器。
 #quote sadness
 
@@ -154,7 +154,7 @@ vip1节点就可以满足日常学习需求以及YouTube不卡，用新人优惠
 微软学术hin好用
 #quote ganyuzl
 
-#p 22147136 HalseyZ Mobbingaround 2020-04-02 22:23:10
+#p 22147136 HalseyZ Eric Cartman 2020-04-02 22:23:10
 情况只会更糟（滑稽
 #quote Homagod
 
@@ -222,8 +222,7 @@ hiaoxui的vpn有几个节点用的服务器提供商好像经常被谷歌学术�
 #quote sadness
 
 #p 22147760 iOcean 若为雄才 2020-04-03 00:54:25
-
-
+#DELETED
 2020-04-03 00:53:41
 [https://www.lico.world/auth/register?code=zAcRi8pbkRIAVmooqBvYmSFYRHNGge0p](jump-to.php?url=https%3A%2F%2Fwww.lico.world%2Fauth%2Fregister%3Fcode%3DzAcRi8pbkRIAVmooqBvYmSFYRHNGge0p)
 欢迎来玩,最便宜2块9
@@ -264,5 +263,9 @@ hiaoxui的vpn有几个节点用的服务器提供商好像经常被谷歌学术�
 
 #p 22148949 keke tea 2020-04-03 10:58:47
 要改一下hosts文件，优先使用ipv6
+#quote sadness
+
+#p 22156516 XShell 青金色麦田的狐狸 2020-04-04 20:18:53
+搭车想问一下我是用了谷歌访问助手插件，网页搜索没问题，学术就显示错误403，该怎么办呢？
 #quote sadness
 
