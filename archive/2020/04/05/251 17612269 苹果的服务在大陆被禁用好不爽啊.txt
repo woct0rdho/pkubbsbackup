@@ -1,4 +1,4 @@
-#t 251 17612269 Camford 2020-04-05 15:48:00 Camford 2020-04-05 15:48:00
+#t 251 17612269 Camford 2020-04-05 00:15:00 jiamingpku 2020-04-05 19:51:00
 苹果的服务在大陆被禁用好不爽啊
 
 #p 22162364 Camford 坚决推动ac娘表情包普及事业 2020-04-05 15:47:37
@@ -7,4 +7,8 @@
 然后又想到apple news也看不到....记得图书应用刚出来的时候还是可以用的<img src="https://bbs.pku.edu.cn/attach/64/07/6407d5d180df710d/22.png"/>
 为啥直接不支持啊<img src="https://bbs.pku.edu.cn/attach/d6/d7/d6d70a052ccec4bb/42.png"/>哪怕出个阉割版都好啊<img src="https://bbs.pku.edu.cn/attach/d6/d7/d6d70a052ccec4bb/42.png"/>
 这种直接禁用的行为真的<img src="https://bbs.pku.edu.cn/attach/22/df/22dfd002d7b3951f/14.png"/><img src="https://bbs.pku.edu.cn/attach/22/df/22dfd002d7b3951f/14.png"/><img src="https://bbs.pku.edu.cn/attach/22/df/22dfd002d7b3951f/14.png"/>
+
+#p 22163082 jiamingpku jiamingpku 2020-04-05 19:50:13
+图书可以自己导入一些 epub 文件，在移动端还是挺舒服的。
+#quote Camford
 
