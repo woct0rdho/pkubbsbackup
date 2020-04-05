@@ -1,4 +1,4 @@
-#t 668 17611938 Tapirus 2020-04-05 10:21:00 PKUCC 2020-04-05 10:32:00
+#t 668 17611938 Tapirus 2020-04-05 00:10:00 PKUCC 2020-04-05 16:21:00
 Adobe Acrobat Pro 在 Mac OS Catalina 下安装失败
 
 #p 22161067 Tapirus tomorrow and dreams 2020-04-05 10:20:41
@@ -7,4 +7,8 @@ Adobe Acrobat Pro 在 Mac OS Catalina 下安装失败
 #p 22161116 PKUCC 北京大学计算中心 2020-04-05 10:31:57
 由于mac系统升级后禁用了32位的应用，adobe 2018系列的产品无法在Catalina 之后的版本进行安装
 #quote Tapirus
+
+#p 22162439 PKUCC 北京大学计算中心 2020-04-05 16:20:58
+关于adobe最新软件，我们正在梳理使用流程，会尽快通知有需要的同学。
+#quote PKUCC
 
