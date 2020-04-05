@@ -1,4 +1,4 @@
-#t 1465 17612670 lea 2020-04-05 23:37:00 lea 2020-04-05 23:47:00
+#t 1465 17612670 lea 2020-04-05 00:23:00 Koppelbarg 2020-04-06 05:07:00
 基辛格：新冠肺炎大流行将永远改变世界秩序
 
 #p 22164022 lea 无爱即无忧 2020-04-05 23:36:55
@@ -16,5 +16,10 @@
 
 #p 22164072 lea 无爱即无忧 2020-04-05 23:46:12
 原文链接：[https://www.wsj.com/articles/the-coronavirus-pandemic-will-forever-alter-the-world-order-11585953005](jump-to.php?url=https%3A%2F%2Fwww.wsj.com%2Farticles%2Fthe-coronavirus-pandemic-will-forever-alter-the-world-order-11585953005)
+#quote lea
+
+#p 22164683 Koppelbarg 云中 2020-04-06 05:06:33
+病毒平等地考验各国政府么？
+基辛格看到指数增长上去之后无法治愈的问题了吧
 #quote lea
 
