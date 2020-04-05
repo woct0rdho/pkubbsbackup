@@ -1,4 +1,4 @@
-#t 668 17611938 Tapirus 2020-04-05 00:10:00 PKUCC 2020-04-05 16:21:00
+#t 668 17611938 Tapirus 2020-04-05 00:10:00 yunbiaozhao 2020-04-05 20:33:00
 Adobe Acrobat Pro 在 Mac OS Catalina 下安装失败
 
 #p 22161067 Tapirus tomorrow and dreams 2020-04-05 10:20:41
@@ -10,5 +10,9 @@ Adobe Acrobat Pro 在 Mac OS Catalina 下安装失败
 
 #p 22162439 PKUCC 北京大学计算中心 2020-04-05 16:20:58
 关于adobe最新软件，我们正在梳理使用流程，会尽快通知有需要的同学。
+#quote PKUCC
+
+#p 22163225 yunbiaozhao 蝶舞沧海 2020-04-05 20:32:34
+我也希望用一下，最近买了淘宝一家店的激活码，用了不到一个月就失效了。
 #quote PKUCC
 
