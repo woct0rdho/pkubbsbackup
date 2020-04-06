@@ -1,4 +1,4 @@
-#t 1465 17614283 monolingual 2020-04-07 03:49:00 monolingual 2020-04-07 04:08:00
+#t 1465 17614283 monolingual 2020-04-07 00:03:00 thinky 2020-04-07 05:40:00
 英国首相鲍里斯病情恶化进ICU
 
 #p 22169491 monolingual monolingual 2020-04-07 03:48:11
@@ -24,5 +24,9 @@
 #p 22169509 monolingual monolingual 2020-04-07 04:07:09
 希望他早日康复（
 外交大臣已经做好准备
+#quote monolingual
+
+#p 22169572 thinky 披风罗汉 2020-04-07 05:39:19
+外交大臣是中国女婿？银角大王挂了，金角也快了。
 #quote monolingual
 
