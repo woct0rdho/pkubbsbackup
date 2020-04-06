@@ -1,4 +1,4 @@
-#t 1465 17613248 Chips 2020-04-06 11:38:00 Chips 2020-04-06 11:38:00
+#t 1465 17613248 Chips 2020-04-06 00:11:00 out 2020-04-06 12:56:00
 从数据感觉北京还挺🉑️的
 
 #p 22165546 Chips 我的鱼在哪 2020-04-06 11:37:29
@@ -9,4 +9,8 @@
 除海淀外所有区14天以上无新增本地确诊，海淀13天
 无处于医学观察期的无症状感染者
 [https://mp.weixin.qq.com/s/oSXHRPeY0LRbfNwnRpUc-Q](jump-to.php?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FoSXHRPeY0LRbfNwnRpUc-Q)
+
+#p 22165896 out Nginx 2020-04-06 12:56:11
+北京目前是非湖北地区管控最严格的了
+#quote Chips
 
