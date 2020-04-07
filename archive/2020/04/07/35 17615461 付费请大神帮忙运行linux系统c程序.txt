@@ -1,0 +1,8 @@
+#t 35 17615461 mengfx 2020-04-07 22:49:00 mengfx 2020-04-07 22:49:00
+付费请大神帮忙运行linux系统c程序
+
+#p 22173964 mengfx mengfx 2020-04-07 22:48:20
+下载了github公开代码，需要在linux上运行，但个人不熟悉linux系统的配置，导致程序运行不了，如下图：
+该程序包的开源地址：[https://github.com/JanThorbecke/OpenSource](jump-to.php?url=https%3A%2F%2Fgithub.com%2FJanThorbecke%2FOpenSource)，上面有操作说明，但linux小白的我就是运行不了。。。
+希望大神帮忙指点，最好是在校或者能远程控制的，帮我能把代码成功运行起来。付费或者请客都行，谢谢，有意者请私信我。
+
