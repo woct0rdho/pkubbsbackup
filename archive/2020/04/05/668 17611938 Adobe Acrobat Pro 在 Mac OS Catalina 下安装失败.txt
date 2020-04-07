@@ -1,4 +1,4 @@
-#t 668 17611938 Tapirus 2020-04-05 00:10:00 yunbiaozhao 2020-04-05 20:33:00
+#t 668 17611938 Tapirus 2020-04-05 00:10:00 ThinLee 2020-04-07 10:31:00
 Adobe Acrobat Pro 在 Mac OS Catalina 下安装失败
 
 #p 22161067 Tapirus tomorrow and dreams 2020-04-05 10:20:41
@@ -15,4 +15,9 @@ Adobe Acrobat Pro 在 Mac OS Catalina 下安装失败
 #p 22163225 yunbiaozhao 蝶舞沧海 2020-04-05 20:32:34
 我也希望用一下，最近买了淘宝一家店的激活码，用了不到一个月就失效了。
 #quote PKUCC
+
+#p 22170340 ThinLee BabyTiger 2020-04-07 10:31:16
+升级后就没法降级了，如果是用来勾勾画画的，建议先装的WPS（其他更多功能可能需要付费），里的勾画功能比Acrobat Pro方便一些，等Acrobat Pro有更新了再舍去WPS
+WPS我也没研究太多，你可以先装了试试，没用再删哈
+#quote Tapirus
 
