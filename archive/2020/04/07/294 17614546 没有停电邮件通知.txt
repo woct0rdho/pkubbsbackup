@@ -1,4 +1,4 @@
-#t 294 17614546 yuanphys 2020-04-07 00:10:00 integral 2020-04-07 17:59:00
+#t 294 17614546 yuanphys 2020-04-07 00:10:00 propagator 2020-04-07 20:01:00
 没有停电邮件通知
 
 #p 22170206 yuanphys yuanphys 2020-04-07 10:05:13
@@ -52,5 +52,9 @@ pkunotice@pku.edu.cn
 
 #p 22172660 integral ddl前什么都不重要 2020-04-07 17:58:11
 日常线路完全没有覆盖到真的有点惨了
+#quote yuanphys
+
+#p 22173146 propagator 马甲 2020-04-07 20:01:07
+博士也没有，正常的
 #quote yuanphys
 
