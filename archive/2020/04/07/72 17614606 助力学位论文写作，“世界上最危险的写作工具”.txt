@@ -1,4 +1,4 @@
-#t 72 17614606 Maxwell 2020-04-07 11:05:00 Maxwell 2020-04-07 11:05:00
+#t 72 17614606 Maxwell 2020-04-07 00:11:00 Chips 2020-04-07 12:26:00
 助力学位论文写作，“世界上最危险的写作工具”
 
 #p 22170512 Maxwell Demon 2020-04-07 11:04:27
@@ -6,4 +6,12 @@
 工作原理是这样：开始写作前先设定一个时间目标，比如五分钟，那就意味着你在接下来的五分钟内必须不停地打字，如果停下超过五秒，那么之前写的东西都会消失，直到你写够五分钟，之前写的东西才会被保留下来。只要一停下，文字就会开始变模糊，渐渐消失... 
 好暴力....
 [https://www.squibler.io/dangerous-writing-prompt-app](jump-to.php?url=https%3A%2F%2Fwww.squibler.io%2Fdangerous-writing-prompt-app)
+
+#p 22170891 huayuankou 猪芳芳 | 小锤仔 2020-04-07 12:20:37
+这也太狠了吧。。。
+#quote Maxwell
+
+#p 22170911 Chips 我的鱼在哪 2020-04-07 12:25:50
+这也太惊悚了😂
+#quote Maxwell
 
