@@ -1,14 +1,12 @@
-#t 35 17540916 xuyimiao 2020-02-14 00:15:00 Xuezi 2020-03-28 18:08:00
-最近墙的厉害，分享一个自建V2ray
+#t 35 17540916 xuyimiao 2020-02-14 00:15:00 xuyimiao 2020-04-07 21:31:00
+[4.7更新]分享一个新的SSR给大家用
 
-#p 21845121 xuyimiao xuyimiao 2020-02-14 15:26:25
+#p 21845121 xuyimiao xuyimiao 2020-04-07 21:28:18
 
 
 2020-02-14 15:25:56
-SS和SSR已经基本上分分钟被墙，目前V2伪装流量稳的很。
-使用方法：自备V2ray客户端，然后复制链接，选择粘贴板导入就行。
-不限流量，但是希望请勿滥用。
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogInh1eWltaWFvIiwNCiAgImFkZCI6ICJ4dXlpbWlhby54eXoiLA0KICAicG9ydCI6ICI0NDMiLA0KICAiaWQiOiAiNzdlNjEyNzctZWY2Ni00M2EwLWE1MzAtOGNmMDE5MDUwYzZjIiwNCiAgImFpZCI6ICIyIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJ4dXlpbWlhby54eXoiLA0KICAicGF0aCI6ICIvZjhlNzBmZWYvIiwNCiAgInRscyI6ICJ0bHMiDQp9
+之前分享的不能用了，分享一个新的给你们
+[https://ppcloud.cc](jump-to.php?url=https%3A%2F%2Fppcloud.cc)    这个注册就能免费用  我用来看学术和收gmail足够用了，但是视频就不行了。
 
 #p 21845860 chenzh Cium 2020-02-14 19:08:36
 感谢LZ，登上了gmail 
@@ -228,4 +226,12 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogInh1eWltaWFvIiwNCiAgImFkZCI6ICJ4dXlpbWlh
 LZ这个还有效吗 
 蟹蟹
 #quote xuyimiao
+
+#p 22173488 xuyimiao xuyimiao 2020-04-07 21:26:13
+好像不行了 我又给你们找了个能用的
+#quote Xuezi
+
+#p 22173513 xuyimiao xuyimiao 2020-04-07 21:30:14
+我又给你们找了个能用的 你看下1L
+#quote seraphimdk
 
