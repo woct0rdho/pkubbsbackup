@@ -1,4 +1,4 @@
-#t 1465 17617070 lea 2020-04-09 01:35:00 lea 2020-04-09 01:35:00
+#t 1465 17617070 lea 2020-04-09 01:35:00 Chips 2020-04-09 01:58:00
 俄勒冈州检出去年12月感染病毒产生IgG抗体病例
 
 #p 22186570 lea 无爱即无忧 2020-04-09 01:35:03
@@ -8,4 +8,17 @@
 另外，这40人里面16人IgG抗体阳性占率40%，之前武汉撤离回香港的540多香港居民只测出3.8%IgG抗体阳性。
 说明新冠病毒在美国传播的时间远超武汉。
 报告原文：[https://secureservercdn.net/198.71.233.199/26c.881.myftpupload.com/wp-content/uploads/2020/04/Community-Serum-Testing-For-Past-COVID-19-Infection.pdf](jump-to.php?url=https%3A%2F%2Fsecureservercdn.net%2F198.71.233.199%2F26c.881.myftpupload.com%2Fwp-content%2Fuploads%2F2020%2F04%2FCommunity-Serum-Testing-For-Past-COVID-19-Infection.pdf)
+
+#p 22186601 CharAznable 赤い彗星 2020-04-09 01:53:51
+就没人看原文的么，这个明显有曲解的中文说法还在传。。。文章里明明写的是4个人阳性，16个人那个说的是问卷调查自认为得过新冠的。而且文章里还特别指出了这个抗体检测不排除在接触过其他冠状病毒而没接触过新冠的情况下产生cross reactive抗体，以及这个文章作者似乎是俄勒冈州立大学的做实验分析的研究助理，本身实验的严谨性也成疑。就这么被国内媒体断章取义过度解读到处传也是无语
+#quote lea
+
+#p 22186603 CharAznable 赤い彗星 2020-04-09 01:55:08
+以及美国撤侨回来的都是核酸检测的结果吧
+#quote CharAznable
+
+#p 22186608 Chips 我的鱼在哪 2020-04-09 01:57:20
+一个疑惑：怎么确定之前患的是新冠
+仅仅是因为“非常严重”吗(@_@)
+#quote lea
 
