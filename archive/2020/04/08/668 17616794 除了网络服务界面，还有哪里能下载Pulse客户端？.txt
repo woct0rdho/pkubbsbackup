@@ -1,4 +1,4 @@
-#t 668 17616794 lzgpk 2020-04-08 21:08:00 PKUCC 2020-04-08 21:28:00
+#t 668 17616794 lzgpk 2020-04-08 00:21:00 lzgpk 2020-04-08 22:49:00
 除了网络服务界面，还有哪里能下载Pulse客户端？
 
 #p 22185380 lzgpk 司徒燕 2020-04-08 21:08:07
@@ -7,4 +7,24 @@
 #p 22185493 PKUCC 北京大学计算中心 2020-04-08 21:28:18
 如果是WIN10，可以在微软应用商店搜索pulse安装。
 #quote lzgpk
+
+#p 22185873 lzgpk 司徒燕 2020-04-08 22:40:29
+服务器怎么填？
+#quote PKUCC
+
+#p 22185894 dvorah 尺蠖·德沃夏蛤 2020-04-08 22:44:37
+[https://its.pku.edu.cn/service_1_vpn_client.jsp](jump-to.php?url=https%3A%2F%2Fits.pku.edu.cn%2Fservice_1_vpn_client.jsp)
+这个页面打不开么
+2. VPN地址说明:
+    推荐使用: [https://vpn.pku.edu.cn](jump-to.php?url=https%3A%2F%2Fvpn.pku.edu.cn)
+    如果推荐地址无法连接，有可能是网络问题，请尝试以下地址：
+    VPN教育网入口: [https://vpnc.pku.edu.cn](jump-to.php?url=https%3A%2F%2Fvpnc.pku.edu.cn)
+    VPN电信入口: [https://vpnt.pku.edu.cn](jump-to.php?url=https%3A%2F%2Fvpnt.pku.edu.cn)
+    VPN联通入口: [https://vpnu.pku.edu.cn](jump-to.php?url=https%3A%2F%2Fvpnu.pku.edu.cn)
+    VPN电信通入口: [https://vpnp.pku.edu.cn](jump-to.php?url=https%3A%2F%2Fvpnp.pku.edu.cn)
+#quote lzgpk
+
+#p 22185921 lzgpk 司徒燕 2020-04-08 22:48:44
+打不开
+#quote dvorah
 
