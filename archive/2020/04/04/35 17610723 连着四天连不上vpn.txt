@@ -1,4 +1,4 @@
-#t 35 17610723 SunnySun 2020-04-04 00:12:00 alicely 2020-04-08 15:58:00
+#t 35 17610723 SunnySun 2020-04-04 00:12:00 dvorah 2020-04-08 16:52:00
 连着四天连不上vpn
 
 #p 22154570 SunnySun 蓝色是最温暖的颜色 2020-04-04 12:17:29
@@ -13,4 +13,18 @@
 我也不知道这是啥情况，现在都登录不上VPN了。
 附件里有图，求帮忙看看。我感觉就是链接满了。
 #quote PKUwuming
+
+#p 22183975 cixi tlms-cjq 2020-04-08 16:30:35
+我的也显示这个，刚才连得好好的，一下子就不行了
+#quote alicely
+
+#p 22184104 dvorah 尺蠖·德沃夏蛤 2020-04-08 16:51:40
+试试看换节点? 
+    VPN教育网入口: [https://vpnc.pku.edu.cn](jump-to.php?url=https%3A%2F%2Fvpnc.pku.edu.cn)
+    VPN电信入口: [https://vpnt.pku.edu.cn](jump-to.php?url=https%3A%2F%2Fvpnt.pku.edu.cn)
+    VPN联通入口: [https://vpnu.pku.edu.cn](jump-to.php?url=https%3A%2F%2Fvpnu.pku.edu.cn)
+    VPN电信通入口: [https://vpnp.pku.edu.cn](jump-to.php?url=https%3A%2F%2Fvpnp.pku.edu.cn)
+另外不知道为啥用vpn 如果是访问图书馆的话可以使用vpns、wpn 如果需要下载文献可以用carsi登录方式 
+具体可以参考 its.pku.edu.cn 
+#quote alicely
 
