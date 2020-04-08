@@ -1,4 +1,4 @@
-#t 1465 17614283 monolingual 2020-04-07 00:03:00 Homagod 2020-04-07 20:58:00
+#t 1465 17614283 monolingual 2020-04-07 00:03:00 WekFer 2020-04-08 15:52:00
 英国首相鲍里斯病情恶化进ICU
 
 #p 22169491 monolingual monolingual 2020-04-07 03:48:11
@@ -366,4 +366,8 @@ xiuer
 #p 22173360 Homagod 不愉快だからパン食う 2020-04-07 20:57:33
 w举报又不会死
 #quote WallaceBbee
+
+#p 22183806 WekFer 芒果 2020-04-08 15:51:57
+最新消息，他已经退烧了，希望他能好起来
+#quote monolingual
 
