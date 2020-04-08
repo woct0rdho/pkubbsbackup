@@ -1,4 +1,4 @@
-#t 35 17615461 mengfx 2020-04-07 00:22:00 story 2020-04-08 12:18:00
+#t 35 17615461 mengfx 2020-04-07 00:22:00 story 2020-04-08 14:36:00
 付费请大神帮忙运行linux系统c程序
 
 #p 22173964 mengfx mengfx 2020-04-07 22:48:20
@@ -25,6 +25,36 @@
 #quote mengfx
 
 #p 22182663 story ★小城艾克斯|猪头一个★ 2020-04-08 12:18:16
+#DELETED
 你先告诉我怎么装 mkl， 我帮你看看。
+#quote mengfx
+
+#p 22183419 story ★小城艾克斯|猪头一个★ 2020-04-08 14:36:43
+
+
+2020-04-08 14:35:39
+我在 ubuntu 18.04下 给你试了下，能装成，能跑起来。
+主要是两个路径
+1） OpenSource这个包的安装路径：我的，ROOT=/home/story/Downloads/OpenSource
+2）MKL的安装路径：我的MKLROOT=/opt/intel/compilers_and_libraries/linux/mkl 选用的是MKL 2020 Update 1，安装的时候指定的安装目录为/opt/intel
+其他的，就是一个编译参数有点问题，一个MKL链接路径有点问题Makefile_include中，我的这行长这样
+```
+$ diff Make_include_template Make_include -u
+...
+-BLAS = -L${MKLROOT}/lib/ -lmkl_gf_lp64 -lmkl_sequential -lmkl_core -lpthread -lm -ldl
++BLAS = -L${MKLROOT}/lib/intel64_lin -lmkl_gf_lp64 -lmkl_sequential -lmkl_core -lpthread -lm -ldl
+...
+```
+fdelmodc/Makefile文件的修改
+```
+ #OPTC += -fopenmp -Waddress
+-OPTC +=  -qopt-report=5
+-#OPTC := $(subst -O3 -ffast-math, -O1 -g ,$(OPTC))
++#OPTC +=  -qopt-report=5
++OPTC := $(subst -O3 -ffast-math, -O1 -g ,$(OPTC))
+ #PGI options for compiler feedback
+```
+查了一下，好像是 icc （intel 的c/c++编译器） 才支持 -qopt-report 选项，gcc 的不支持。 BTW， 我用的是gcc 8.3，不过应该不影响。另外，我只选择了64位安装。
+完整包链接: [https://pan.baidu.com/s/1Tew4xe3s32EkaRZYH7pxgQ](jump-to.php?url=https%3A%2F%2Fpan.baidu.com%2Fs%2F1Tew4xe3s32EkaRZYH7pxgQ) 提取码: 24f4
 #quote mengfx
 
