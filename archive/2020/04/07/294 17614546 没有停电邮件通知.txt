@@ -1,4 +1,4 @@
-#t 294 17614546 yuanphys 2020-04-07 00:10:00 yuanphys 2020-04-08 08:17:00
+#t 294 17614546 yuanphys 2020-04-07 00:10:00 dvorah 2020-04-08 09:24:00
 没有停电邮件通知
 
 #p 22170206 yuanphys yuanphys 2020-04-07 10:05:13
@@ -65,4 +65,8 @@ pkunotice@pku.edu.cn
 #p 22181499 yuanphys yuanphys 2020-04-08 08:16:16
 好的，谢谢
 #quote Manwe
+
+#p 22181687 dvorah 尺蠖·德沃夏蛤 2020-04-08 09:23:38
+可以请计算中心查一下，是不是学号归组出问题了
+#quote yuanphys
 
