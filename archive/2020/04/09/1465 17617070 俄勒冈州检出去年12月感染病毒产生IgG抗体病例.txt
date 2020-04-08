@@ -1,4 +1,4 @@
-#t 1465 17617070 lea 2020-04-09 01:35:00 Chips 2020-04-09 01:58:00
+#t 1465 17617070 lea 2020-04-09 00:01:00 lea 2020-04-09 03:57:00
 俄勒冈州检出去年12月感染病毒产生IgG抗体病例
 
 #p 22186570 lea 无爱即无忧 2020-04-09 01:35:03
@@ -21,4 +21,101 @@
 一个疑惑：怎么确定之前患的是新冠
 仅仅是因为“非常严重”吗(@_@)
 #quote lea
+
+#p 22187075 lea 无爱即无忧 2020-04-09 03:37:02
+
+
+2020-04-09 03:16:44
+确实问题很多，不过...
+4例阳性占样本10%，仍高于报道提到的香港调查结果...
+目前检测IgG抗体的工具，敏感性和特异性可以接近99%，文章说“不排除”啥意思...
+一个研究助理是否就能完成调查报告，“严谨性成疑”是何指...
+都“无语”或许就会让人觉得，原报道虽不中亦不远，反驳可以有也不过聊胜于无...
+#quote CharAznable
+
+#p 22187543 hahayay 哈哈哈哈 2020-04-09 03:27:16
+看了下，好像是科研文章的格式，并不像是社会新闻报道的样子。
+科研成果需要经过同行评议，正式发表，结果才比较可信的。没发表，只能算一个，可能对(也可能不对)的结论。
+#quote lea
+
+#p 22187545 lea 无爱即无忧 2020-04-09 03:29:19
+
+
+2020-04-09 03:28:46
+看到这样的文章，只问有没有同行评议，然后就搁置了，这不是一个好习惯...
+#quote hahayay
+
+#p 22187547 Chips 我的鱼在哪 2020-04-09 03:44:57
+
+
+2020-04-09 03:30:15
+感觉类似的报道近期ms也不少（虽然样本数量都偏低，而且基本上都不确凿），但是对于这些报道我有另一个疑惑的点：
+虽然新冠很多症状较轻、自愈率不低，但新冠感染的大多数病例都存在肺部病变；
+那为什么现在所能听闻的“疑似曾患有新冠，或被误诊为流感etc.”（无论有没有检测IgG抗体）的例子，几乎没有声称自己曾发生/诊断了肺部病变的?
+p.s.我是感觉，要是有几个曾被诊断为肺炎，现在又检测出IgG阳性的人出现，那肯定大新闻…
+#quote lea
+
+#p 22187550 hahayay 哈哈哈哈 2020-04-09 03:31:58
+
+
+2020-04-09 03:30:48
+质疑精神是作为科研人员的基本素养之一。。。。
+#quote lea
+
+#p 22187553 lea 无爱即无忧 2020-04-09 03:33:54
+希望看到你的质疑行为不只是搁置，我是这个意思...
+最近看到不少类似文章介绍到贵版，往往问一句有没有经过同行评议，就再无下文了...
+#quote hahayay
+
+#p 22187556 CharAznable 赤い彗星 2020-04-09 03:37:33
+你自己砍了原文么，原文都没说99%的准确性，这原文里作者自己写的不一定是新冠感染造成的这几例阳性你怎么就这么自信。。。
+你说的香港报道的结果是啥，撤侨回来这个是核酸检测吧，那是确定感染的，跟这个抗体检测是两码事。。。
+#quote lea
+
+#p 22187558 CharAznable 赤い彗星 2020-04-09 03:40:56
+
+
+2020-04-09 03:39:50
+所以把10%的数据夸大成40%的数据，然后无限外推原文作者自己都没说的结论就是好习惯了。这样的非同行评审文章同行里拿出来看看作为研究就行了，没任何专业背景的人就这么恶意曲解放到网上大肆传播就是好习惯了？
+#quote lea
+
+#p 22187559 hahayay 哈哈哈哈 2020-04-09 03:40:06
+哦哦。。。。我觉得一般这种有新闻效果的结论的文章结论一旦被证实(通过同行评议)，会有官方媒体正式跟进报道的(毕竟这是一个这么好的打脸美国的材料)。
+没有经过同行评议，没有发表，多数的版友也不是专家，是没办法判断真假以及结论是否可靠的。所以就先搁置，等等看吧。。。。。
+#quote lea
+
+#p 22187565 lea 无爱即无忧 2020-04-09 03:44:15
+原文没说啊，我查了一下IgG检测的敏感性和特异性数据，有80%以上就发出来的文章...
+是不是没到95%以上就算“不排除”呢，还是没到100%都算“不排除”呢...
+“两码事”是啥意思，你需要解释，得结合着报道的观点...
+#quote CharAznable
+
+#p 22187567 lea 无爱即无忧 2020-04-09 03:45:54
+10%是不是也比报道提到的香港调查结果高...
+我说了，如果是虽不中亦不远，读者还是会参考结论的，揪10%还是40%就是矫情...
+#quote CharAznable
+
+#p 22187573 CharAznable 赤い彗星 2020-04-09 03:51:39
+
+
+2020-04-09 03:50:07
+看一下原文有这么难么，这原文也就两三篇高中英语阅读理解的长度，作者自己的话你自己看吧：
+“Other non-COVID-19 coronaviruses are prevalent in the community and there is evidence that some individuals possess antibodies that recognize multiple coronaviruses.
+That means positive results in this assay could indicate past infection to a non-COVID-19 coronavirus, not past infection to COVID-19 itself. However, the positive signal does indicate preexisting antibody recognition of the SARS-CoV-2 Spike S1 protein. This would likely offer some protection against an encounter with COVID-19.
+Responses to the questionnaire indicate that people generally overestimate their exposure to COVID-19. Only 4 people tested positive for antibodies to SARS-CoV-2 Spike S1 but there were 15 who thought that they had the virus in the past. Most people reported having a cold or flu sometime since January 1, 2020 and that may explain the misperception about COVID-19 exposure.”
+“This report has shown that a community serum survey can detect individuals who haven’t had a COVID-19 clinical test or diagnosis but produce antibodies that recognize SARS-CoV-2 Spike S1. Therefore serum antibody assays could be used as a quick and cheap screening tool to evaluate community spread, preexisting humoral responses or potential convalescent serum donors.”
+请问您还需要我给您翻译么
+#quote lea
+
+#p 22187574 lea 无爱即无忧 2020-04-09 03:50:33
+版友虽非专家，却也不乏内行，分析一下，我觉得也是好的，都“无语”就不好了...
+#quote hahayay
+
+#p 22187579 CharAznable 赤い彗星 2020-04-09 03:52:52
+行吧你说没事就没事，那外媒说中国疫情数字瞒报也就算是给读者自己参考做结论咯
+#quote lea
+
+#p 22187585 lea 无爱即无忧 2020-04-09 03:57:23
+你给我截原文有什么用，“虽然”后面看严谨，“但是”后面看结论...
+#quote CharAznable
 
