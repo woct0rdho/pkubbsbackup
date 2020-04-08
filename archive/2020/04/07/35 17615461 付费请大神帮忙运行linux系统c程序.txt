@@ -1,4 +1,4 @@
-#t 35 17615461 mengfx 2020-04-07 00:22:00 ljslcy 2020-04-08 10:22:00
+#t 35 17615461 mengfx 2020-04-07 00:22:00 story 2020-04-08 12:18:00
 付费请大神帮忙运行linux系统c程序
 
 #p 22173964 mengfx mengfx 2020-04-07 22:48:20
@@ -17,5 +17,14 @@
 
 #p 22181994 ljslcy StupidArcher 2020-04-08 10:22:10
 新的问题是什么
+#quote mengfx
+
+#p 22182621 wuruiyang 锅 2020-04-08 12:08:47
+首先Make_include按照第四行的要求把第九行的改了
+你的mkl装在/opt/intel/mkl/吗
+#quote mengfx
+
+#p 22182663 story ★小城艾克斯|猪头一个★ 2020-04-08 12:18:16
+你先告诉我怎么装 mkl， 我帮你看看。
 #quote mengfx
 

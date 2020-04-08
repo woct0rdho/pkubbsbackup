@@ -1,4 +1,4 @@
-#t 35 17578697 out 2020-03-12 00:13:00 iOcean 2020-04-08 02:22:00
+#t 35 17578697 out 2020-03-12 00:13:00 yegucheng 2020-04-08 12:26:00
 自建v2ray不定时无法访问Google play
 
 #p 21973800 out Nginx 2020-03-12 13:58:46
@@ -64,5 +64,10 @@ dl.google.com正常运营商网络都能下载的……
 我也出现这个问题了，我是小米手机。
 换了七八个节点，港台地区，菲国，美国……
 Google play能进，但死活下载不了软件
+#quote out
+
+#p 22182698 yegucheng 叶孤城 2020-04-08 12:26:17
+付费的vpn，15元每月
+[https://a.bear333.com:14443/](jump-to.php?url=https%3A%2F%2Fa.bear333.com%3A14443%2F)
 #quote out
 
