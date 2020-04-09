@@ -1,4 +1,4 @@
-#t 1465 17617579 lea 2020-04-09 00:12:00 Toyotomi 2020-04-09 18:59:00
+#t 1465 17617579 lea 2020-04-09 00:12:00 zhinan 2020-04-09 19:58:00
 谭德塞回应台湾当局侮辱和人身威胁
 
 #p 22188996 lea 无爱即无忧 2020-04-09 12:32:39
@@ -216,4 +216,24 @@ I don't have any damn given.
 #p 22190881 Toyotomi 郭芙 2020-04-09 18:58:32
 是啊。台湾的确No.1
 #quote liuyz
+
+#p 22190935 liuyz liuyz 2020-04-09 19:10:35
+政府层面禁止戴口罩的还没有吧
+#quote huixue
+
+#p 22190968 virgolucia 松寒 2020-04-09 19:19:53
+有的地方有反蒙面法，不能随便戴
+#quote liuyz
+
+#p 22190993 al aluminium 2020-04-09 19:27:30
+病毒名是SARS-CoV-2
+#quote Chips
+
+#p 22191080 zhinan 之南 2020-04-09 19:56:40
+#DELETED
+#quote virgolucia
+
+#p 22191084 zhinan 之南 2020-04-09 19:58:04
+反蒙面法不会妨碍戴口罩
+#quote virgolucia
 
