@@ -1,4 +1,4 @@
-#t 72 17617503 pkust 2020-04-09 00:11:00 sixeyedfish 2020-04-09 13:25:00
+#t 72 17617503 pkust 2020-04-09 00:11:00 jacobanach 2020-04-09 14:45:00
 无题
 
 #p 22188670 pkust stony 2020-04-09 11:38:05
@@ -38,5 +38,13 @@ hhh
 
 #p 22189252 sixeyedfish  2020-04-09 13:24:20
 小红最后应该连续pardon三次，然后回答可以
+#quote pkust
+
+#p 22189662 pkust stony 2020-04-09 14:43:08
+hhh,可以
+#quote sixeyedfish
+
+#p 22189672 jacobanach 整活了 2020-04-09 14:44:37
+我可以问你可数无穷多个问题吗？
 #quote pkust
 
