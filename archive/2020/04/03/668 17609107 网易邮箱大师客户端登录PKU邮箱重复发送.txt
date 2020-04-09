@@ -1,4 +1,4 @@
-#t 668 17609107 geniusadven 2020-04-03 00:10:00 PKUCC 2020-04-03 11:09:00
+#t 668 17609107 geniusadven 2020-04-03 00:10:00 geniusadven 2020-04-09 09:04:00
 网易邮箱大师客户端登录PKU邮箱重复发送
 
 #p 22148640 geniusadven Rock 2020-04-03 10:04:17
@@ -11,6 +11,11 @@
 #quote geniusadven
 
 #p 22149019 PKUCC 北京大学计算中心 2020-04-03 11:09:00
+#DELETED
 你好，请登录[https://mail.pku.edu.cn/](jump-to.php?url=https%3A%2F%2Fmail.pku.edu.cn%2F)，点击“设置”-&gt;“收发信设置”-&gt;"写信设置"，将“SMTP发信后保存到[已发送]”前面的勾选去掉，点击保存更改即可。
 #quote geniusadven
+
+#p 22187957 geniusadven Rock 2020-04-09 09:03:45
+收到，谢谢老师！
+#quote PKUCC
 
