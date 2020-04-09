@@ -1,4 +1,4 @@
-#t 35 17610723 SunnySun 2020-04-04 00:12:00 dvorah 2020-04-08 16:52:00
+#t 35 17610723 SunnySun 2020-04-04 00:12:00 PKUwuming 2020-04-09 18:14:00
 连着四天连不上vpn
 
 #p 22154570 SunnySun 蓝色是最温暖的颜色 2020-04-04 12:17:29
@@ -26,5 +26,10 @@
     VPN电信通入口: [https://vpnp.pku.edu.cn](jump-to.php?url=https%3A%2F%2Fvpnp.pku.edu.cn)
 另外不知道为啥用vpn 如果是访问图书馆的话可以使用vpns、wpn 如果需要下载文献可以用carsi登录方式 
 具体可以参考 its.pku.edu.cn 
+#quote alicely
+
+#p 22190701 PKUwuming 无名 2020-04-09 18:13:57
+本人用openconnect一直没问题，你可以试试
+[https://bbs.pku.edu.cn/v2/post-read.php?bid=35&amp;threadid=17538289](post-read.php?bid=35&amp;threadid=17538289)
 #quote alicely
 
