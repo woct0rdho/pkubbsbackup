@@ -1,0 +1,10 @@
+#t 668 17618296 mockingbird 2020-04-09 21:59:00 PKUCC 2020-04-09 22:16:00
+请问为何一直连不上VPN
+
+#p 22191782 mockingbird 小指头 2020-04-09 21:58:37
+Windows系统 无论是安装包还是应用商店下载的pulse连VPN都是operation timed out
+
+#p 22191861 PKUCC 北京大学计算中心 2020-04-09 22:16:17
+你好，无法判断是系统还是网络的原因，请按照常见问题把结果截图及学号发到its@pku.edu.cn, 先排查下网络层面的因素。
+#quote mockingbird
+
