@@ -1,4 +1,4 @@
-#t 1465 17590774 lea 2020-03-21 00:10:00 lea 2020-04-09 10:25:00
+#t 1465 17590774 lea 2020-03-21 00:10:00 euio 2020-04-09 20:19:00
 Event-201 这样的演习是定期搞嘛？ 
 
 #p 22018200 lea 无爱即无忧 2020-03-21 10:02:46
@@ -20,4 +20,9 @@ In recent years, the world has seen a growing number of epidemic events, amounti
 In October 2019, the Johns Hopkins Center for Health Security hosted a pandemic tabletop exercise called Event 201 with partners, the World Economic Forum and the Bill &amp; Melinda Gates Foundation. Recently, the Center for Health Security has received questions about whether that pandemic exercise predicted the current novel coronavirus outbreak in China. To be clear, the Center for Health Security and partners did not make a prediction during our tabletop exercise. For the scenario, we modeled a fictional coronavirus pandemic, but we explicitly stated that it was not a prediction. Instead, the exercise served to highlight preparedness and response challenges that would likely arise in a very severe pandemic. We are not now predicting that the nCoV-2019 outbreak will kill 65 million people. Although our tabletop exercise included a mock novel coronavirus, the inputs we used for modeling the potential impact of that fictional virus are not similar to nCoV-2019.
 [https://www.zhihu.com/question/368424674/answer/1093610409](jump-to.php?url=https%3A%2F%2Fwww.zhihu.com%2Fquestion%2F368424674%2Fanswer%2F1093610409)
 如何看待Event201以及它对于当下疫情的指导作用？
+
+#p 22191190 euio 耳目一心 2020-04-09 20:18:23
+&gt;October 18, 2019,
+该日期与武汉军运同日开幕，确实过于巧合。
+#quote lea
 
