@@ -1,4 +1,4 @@
-#t 1465 17617243 greattreenet 2020-04-09 06:30:00 greattreenet 2020-04-09 06:30:00
+#t 1465 17617243 greattreenet 2020-04-09 06:30:00 nogatnep 2020-04-09 07:02:00
 大流行疫情席卷全球 人类咎由自取
 
 #p 22187706 greattreenet greattree 2020-04-09 06:31:13
@@ -18,4 +18,11 @@
 当人类活动进一步侵犯它们的领域，野生动物将被迫增加与人类接触，升高再次爆发另一场宛如COVID-19疫情的风险。
 强生说：“我们通过砍伐森林、土地转种农作物或饲养牲畜或建立社区，改变了地貌景观。这也增加人类与野生动物接触的频率与强度，为病毒跳到人类身上创造了绝佳条件。”
 强生表示，一旦当前这场公共卫生紧急事件落幕，希望政策制定者能够专注于防备大流行病以及防范人畜共通疾病风险，尤其是在拟定环境、土地管理与动物资源政策上。
+
+#p 22187737 nogatnep ko001 2020-04-09 07:01:46
+我把这个研究原文贴上来
+太长不看版：这个是研究的abstract
+Emerging infectious diseases in humans are frequently caused by pathogens originating from animal hosts, and zoonotic disease outbreaks present a major challenge to global health. To investigate drivers of virus spillover, we evaluated the number of viruses mammalian species have shared with humans.We discovered that the number of zoonotic viruses detected in mammalian species scales positively with global species abundance, suggesting that virus transmission risk has been highest from animal species that have increased in abundance and even expanded their range by adapting to human-dominated landscapes. Domesticated species, primates and bats were identified as having more zoonotic viruses than other species. Among threatened wildlife species, those with population reductions owing to exploitation and loss of habitat shared more viruses with humans. Exploitation of wildlife through hunting and trade facilitates close contact between wildlife and humans, and our findings provide further evidence that exploitation, as well as anthropogenic activities that have caused losses in wildlife habitat quality, have increased opportunities for animal–human interactions and facilitated zoonotic disease transmission. Our study provides new evidence for assessing spillover risk from mammalian species and highlights convergent processes whereby the causes of wildlife population declines have facilitated the transmission of animal viruses to humans.
+哪个无良自媒体把exploitation翻译成的剥削？？？？
+#quote greattreenet
 
