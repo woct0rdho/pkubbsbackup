@@ -1,4 +1,4 @@
-#t 668 17618343 Thesharing 2020-04-09 22:52:00 Thesharing 2020-04-09 22:52:00
+#t 668 17618343 Thesharing 2020-04-09 00:22:00 thinky 2020-04-10 10:44:00
 北邮人BT开放北大邮箱注册
 
 #p 22191991 Thesharing Thesharing 2020-04-09 22:51:20
@@ -15,4 +15,8 @@
 * 仅支持通过数字邮箱进行注册，也就是说每个学号只能注册一次
 * 强烈建议注册后完整阅读【规则】（[https://bt.byr.cn/rules.php](jump-to.php?url=https%3A%2F%2Fbt.byr.cn%2Frules.php)）和【常见问题】[https://bt.byr.cn/faq.php](jump-to.php?url=https%3A%2F%2Fbt.byr.cn%2Ffaq.php)，了解等级制度和站内使用方法
 * 由于对分享率有要求，注册后最好不要一上来就下一堆资源导致等级被限制，多下载免费资源（不计下载流量），在下载后保持长时间挂着做种，珍惜账号
+
+#p 22193572 thinky 披风罗汉 2020-04-10 10:44:16
+为什么没有上海交大
+#quote Thesharing
 
