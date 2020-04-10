@@ -1,4 +1,4 @@
-#t 35 16264150 hiaoxui 2017-11-10 00:00:00 APSNovak 2020-04-03 17:57:00
+#t 35 16264150 hiaoxui 2017-11-10 00:00:00 qazzzw 2020-04-10 16:01:00
 科学上网, SSR 服务器分享
 
 #p 17134091 hiaoxui 小辉 2019-11-16 04:36:36
@@ -716,7 +716,7 @@ windows和osx都试了，显示failed。连接失败
 感谢大佬！！
 #quote hiaoxui
 
-#p 20843522 yaqianglee 辣鸡 2019-09-08 13:23:52
+#p 20843522 yaqianglee 泥坑麻辣鸡 2019-09-08 13:23:52
 很感谢大佬，我最近发现google scholar上不去了，是vps的原因吗？以下是一个朋友的建议[https://www.polarxiong.com/archives/%E9%80%9A%E8%BF%87VPS%E4%BD%BF%E7%94%A8VPN%E6%88%96ShadowSocks%E8%AE%BF%E9%97%AEGoogle%E6%88%96Google-Schoolar%E5%87%BA%E7%8E%B0%E9%AA%8C%E8%AF%81%E7%A0%81%E7%AD%89%E7%9A%84%E8%A7%A3%E5%86%B3%E6%96%B9%E6%B3%95.html](jump-to.php?url=https%3A%2F%2Fwww.polarxiong.com%2Farchives%2F%25E9%2580%259A%25E8%25BF%2587VPS%25E4%25BD%25BF%25E7%2594%25A8VPN%25E6%2588%2596ShadowSocks%25E8%25AE%25BF%25E9%2597%25AEGoogle%25E6%2588%2596Google-Schoolar%25E5%2587%25BA%25E7%258E%25B0%25E9%25AA%258C%25E8%25AF%2581%25E7%25A0%2581%25E7%25AD%2589%25E7%259A%2584%25E8%25A7%25A3%25E5%2586%25B3%25E6%2596%25B9%25E6%25B3%2595.html)
 #quote hiaoxui
 
@@ -1510,7 +1510,7 @@ ipv6的也挂了。。。
 楼主您已经在国外了，肯定不担心被喝茶了，我是教职人员，自然有人管我。。赛风的一点好处就是它是有点类似爬虫，它自己爬节点，不需要维护
 #quote hiaoxui
 
-#p 21366330 JINLIN 雨橙 2019-11-21 15:40:27
+#p 21366330 JINLIN 君子藏器 2019-11-21 15:40:27
 好的
 #quote hiaoxui
 
@@ -2157,4 +2157,8 @@ IPv6 丢包率奇高, 至今不知道为什么. 印象里丢包率直逼 50%.
 #p 22151374 APSNovak 灞桥 2020-04-03 17:56:52
 好像又全掛了
 #quote hiaoxui
+
+#p 22194987 qazzzw 山东河北梆子豫剧团 2020-04-10 16:00:44
+请问你现在ok了吗？我看也是都挂了的状态
+#quote APSNovak
 
