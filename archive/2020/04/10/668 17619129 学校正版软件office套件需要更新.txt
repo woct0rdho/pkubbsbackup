@@ -1,4 +1,4 @@
-#t 668 17619129 septemberLL 2020-04-10 14:33:00 septemberLL 2020-04-10 14:58:00
+#t 668 17619129 septemberLL 2020-04-10 14:33:00 lcdlyxrqy 2020-04-10 15:27:00
 学校正版软件office套件需要更新
 
 #p 22194647 septemberLL 羊驼前进一号 2020-04-10 14:33:34
@@ -48,10 +48,22 @@ office的话每半年需要激活一次，你可能超过半年没有连接学�
 好的，我明白啦！非常感谢~~之后在深研院，我就用北大vpn自己激活啦。
 #quote lcdlyxrqy
 
-#p 22194763 septemberLL 羊驼前进一号 2020-04-10 14:58:05
+#p 22194763 septemberLL 羊驼前进一号 2020-04-10 14:59:00
 
 
 2020-04-10 14:57:17
-我一开始用的是学校 网络服务-下载专区-正版软件 那里提供的网址software.pku.edu.cn，但是总是访问不了。刚才用了楼上那位同学提供的网址（[https://software.w.pku.edu.cn/help/caHelpIndex.aspx](jump-to.php?url=https%3A%2F%2Fsoftware.w.pku.edu.cn%2Fhelp%2FcaHelpIndex.aspx)）就能进去了。请问是我的网络问题吗， 还是第一个网址不用了呀~~
+我一开始用的是学校 网络服务-下载专区-正版软件 那里提供的网址software.pku.edu.cn，但是总是访问不了（挂着学校vpn也不行）。刚才用了楼上那位同学提供的网址（[https://software.w.pku.edu.cn/help/caHelpIndex.aspx](jump-to.php?url=https%3A%2F%2Fsoftware.w.pku.edu.cn%2Fhelp%2FcaHelpIndex.aspx)）就能进去了。请问是我的网络问题吗， 还是第一个网址不用了呀~~
 #quote PKUCC
+
+#p 22194871 lcdlyxrqy 诺弗兰特的水晶公的老乡 2020-04-10 15:26:48
+
+
+2020-04-10 15:25:50
+software.pku.edu.cn需要校内网络环境才可访问
+software.w.pku.edu.cn是经过web vpn的相同网站，所以可以外网访问但需要先登陆IAAA
+#quote septemberLL
+
+#p 22194873 lcdlyxrqy 诺弗兰特的水晶公的老乡 2020-04-10 15:26:29
+如果你从portal进入正版软件平台的话域名就直接是software.w.pku.edu.cn
+#quote septemberLL
 
