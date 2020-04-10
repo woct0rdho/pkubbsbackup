@@ -1,0 +1,12 @@
+#t 668 17619275 ChiotOwner 2020-04-10 17:04:00 ChiotOwner 2020-04-10 17:08:00
+OneNote安卓平板无法正常登陆学校账户
+
+#p 22195237 ChiotOwner ChiotOwner 2020-04-10 17:03:23
+之前注册Microsoft账户因为PKU邮箱收不到验证码所以用QQ邮箱注册了，结果由于云空间只有5G，今天挂了梯子用PKU邮箱终于成功注册了学校账户，但是在OneNote登录的时候却一直无法登陆，界面如下。我试了卸载重装了好多遍，换了几个不同的版本和下载途径，均是学校账户无法登陆，其他账户可以正常登录。点击下图的“点击这里”以后的界面如P2,找不到任何可以解决问题的地方。从网页也可以打开OneNote，从网页里的“用软件打开”也不可以……救救孩子吧已经折腾了五六个小时了qwq
+<img src="https://filestore.community.support.microsoft.com/api/images/c98c9f8e-3e7e-4af8-a56c-bd22d2fb83f0?upload=true"/>
+<img src="https://filestore.community.support.microsoft.com/api/images/6fbe0c7b-8531-4ebf-b985-29ad9b63cb44?upload=true"/>
+
+#p 22195258 ChiotOwner ChiotOwner 2020-04-10 17:07:22
+上边写的寻找管理员求助，从Microsoft社区发帖以后莫名其妙就不能回复了，有人给我回复的是苹果设备的几种方法，但是我标题就写了安卓他们都没看到，正准备回复的时候就发现我无法发送回复了，永远是出错……不得已来这里咨询，希望能够有解决办法qwq，谢谢了！！！
+#quote ChiotOwner
+
