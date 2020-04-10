@@ -1,4 +1,4 @@
-#t 668 17619275 ChiotOwner 2020-04-10 17:04:00 PKUCC 2020-04-10 18:00:00
+#t 668 17619275 ChiotOwner 2020-04-10 00:17:00 ChiotOwner 2020-04-10 20:31:00
 OneNote安卓平板无法正常登陆学校账户
 
 #p 22195237 ChiotOwner ChiotOwner 2020-04-10 17:03:23
@@ -15,4 +15,8 @@ OneNote安卓平板无法正常登陆学校账户
 另外我这边用我使用学校邮箱注册的账户登录oneNote可以正常登陆并使用；
 您可能是注册或者切换账号的过程出现问题了。
 #quote ChiotOwner
+
+#p 22196062 ChiotOwner ChiotOwner 2020-04-10 20:31:30
+感谢计算中心的回复，那我大概需要去问一下微软那边了qwq
+#quote PKUCC
 
