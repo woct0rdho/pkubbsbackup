@@ -1,4 +1,4 @@
-#t 251 17619087 Rockefeller 2020-04-10 00:13:00 qkdbdzh 2020-04-10 21:54:00
+#t 251 17619087 Rockefeller 2020-04-10 00:13:00 eagle 2020-04-10 22:45:00
 在中国有政治大数据吗？
 
 #p 22194470 Rockefeller 每天都有在进步 2020-04-10 13:53:11
@@ -73,5 +73,18 @@ what a pity。如果难以找到电子化记录的话，就很容易在低水平
 
 #p 22196505 qkdbdzh Jay 2020-04-10 21:54:16
 这个大数据…叫起来太别扭了
+#quote Rockefeller
+
+#p 22196555 eagle 鹰|理二的李二 2020-04-10 22:08:22
+恐怕未必
+在沈志华考证的那个例子里 (7 楼), 要么中央档案馆真没有，要么《党的文献》说谎了
+在卫健委专家王广发以为第一例医护人员感染病例是他自己这个例子里，要么他确实看不到，要么他说谎了
+#quote loasa
+
+#p 22196707 eagle 鹰|理二的李二 2020-04-10 22:44:17
+我完全同意您这个观点
+不过客观来讲，完整的记录也会有某种副作用，比如 voting history 的存在会使政治人物更倾向那些容易讨好选民但未必正确的选择
+米国民主党前参议院领袖 Tom Daschle 在接受 PBS 纪录片节目 Frontline 采访，当被问及为何推动彼时只是个新手参议员的奥巴马参与 08 年大选时承认：“and secondly, because the longer he's in Washington, the more history he has, and the more history he has, the more he's going to be explaining his votes and his actions and his statements and his positions that undermine his message”
+来源：[https://www.pbs.org/wgbh/pages/frontline/choice2008/interviews/daschle.html](jump-to.php?url=https%3A%2F%2Fwww.pbs.org%2Fwgbh%2Fpages%2Ffrontline%2Fchoice2008%2Finterviews%2Fdaschle.html)
 #quote Rockefeller
 
