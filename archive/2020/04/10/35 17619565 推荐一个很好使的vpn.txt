@@ -1,4 +1,4 @@
-#t 35 17619565 monkeywang 2020-04-10 00:21:00 Kindness 2020-04-11 20:25:00
+#t 35 17619565 monkeywang 2020-04-10 00:21:00 dvorah 2020-04-11 21:28:00
 推荐一个很好使的vpn
 
 #p 22196366 monkeywang 田伯光 2020-04-10 21:29:44
@@ -59,4 +59,17 @@
 #p 22200596 Kindness 立德立言 2020-04-11 20:25:11
 嗯
 #quote monkeywang
+
+#p 22200797 NicoleG 弗莱丨剥皮的栗子 2020-04-11 21:01:47
+大家都在推荐VPN，那我也推荐个
+anitcloud.art
+一年120，一个月120G，挺流畅的，问题是挂着这个有些国内的网反而上不了
+#quote monkeywang
+
+#p 22200925 dvorah 尺蠖·德沃夏蛤 2020-04-11 21:27:46
+可以用pac模式  
+chrome推荐插件SwitchyOmega，GitHub上可以下。 
+情景模式推荐：
+[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt](jump-to.php?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgfwlist%2Fgfwlist%2Fmaster%2Fgfwlist.txt)
+#quote NicoleG
 
