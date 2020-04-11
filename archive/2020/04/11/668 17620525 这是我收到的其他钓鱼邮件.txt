@@ -1,4 +1,4 @@
-#t 668 17620525 albertfreud 2020-04-11 15:22:00 albertfreud 2020-04-11 15:22:00
+#t 668 17620525 albertfreud 2020-04-11 15:22:00 PKUCC 2020-04-11 16:03:00
 这是我收到的其他钓鱼邮件
 
 #p 22199351 albertfreud p 2020-04-11 15:21:22
@@ -8,4 +8,8 @@ holle
 发件人 :        "Monica Lin Brown" &lt;sergeantbrowu@outlook.com&gt;
 收件人 :        
 "Monica Lin Brown" &lt;sergeantbrowu@outlook.com&gt;
+
+#p 22199522 PKUCC 北京大学计算中心 2020-04-11 16:02:57
+谢谢提醒！我们会尽快处理！
+#quote albertfreud
 
