@@ -1,4 +1,4 @@
-#t 1465 17620123 greattreenet 2020-04-11 00:08:00 ghostplant 2020-04-11 12:04:00
+#t 1465 17620123 greattreenet 2020-04-11 00:08:00 greattreenet 2020-04-11 00:11:00
 入住北京酒店需核酸检测的目的
 
 #p 22197798 greattreenet greattree 2020-04-11 08:53:12
@@ -18,6 +18,7 @@
 #quote greattreenet
 
 #p 22198553 ghostplant ghostplant 2020-04-11 12:03:46
+#DELETED
 这个政策没什么不对，但遗憾的是只有北京实施，这样效果应该差很多，全国范围该传染还是传染。
 #quote greattreenet
 
