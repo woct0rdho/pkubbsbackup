@@ -1,4 +1,4 @@
-#t 1465 17620337 lea 2020-04-11 00:12:00 zhinan 2020-04-11 17:55:00
+#t 1465 17620337 lea 2020-04-11 00:12:00 tcfa 2020-04-11 18:40:00
 剑桥大学发表论文：新冠病毒A类是爆发根源
 
 #p 22198579 lea 无爱即无忧 2020-04-11 12:13:42
@@ -37,4 +37,47 @@ C类病毒是欧洲主要类型。亚洲地区的香港，新加坡，韩国皆�
 大的分类中，病毒分为ABC三类，B由A突变而来，C由B突变而来，且A类大量存在于美国和澳洲，B类大量存在于中国，C类大量存在于欧洲，这很容易脑补出病毒起源于美国和澳洲。但原文似乎并不是这个意思。
 原文指出，A类病毒有两个亚群，称为A类T亚群和A类C亚群。C亚群与T亚群相比有相当长的变异分支。有4名广东人携带A类T亚群祖先的基因组，而2名在武汉居住过的美国人的A类基因组与之相比存在大量的变异。遍布美国和澳大利亚的病毒属于A类C亚群，而武汉存在少量A类T亚群的变种。这反而说明病毒可能起源于广东，之后到武汉爆发，从A类T亚群突变为A类C亚群，进一步突变为B类病毒在中国传播。美国和澳洲传播的A类C亚群并不是最原始的病毒。
 #quote lea
+
+#p 22199996 tcfa Tropical Cyclone Formation Alert 2020-04-11 18:06:36
+
+
+2020-04-11 18:05:48
+此帖中的句子：
+A类病毒更多发现于美国和澳洲的受感染者。A类在武汉只有极少案例，且来源于在武汉生活过的美国人。
+原文中的句子：
+Forster and colleagues found that the closest type of COVID-19 to the one discovered in bats – type ‘A’, the “original human virus genome” – was present in Wuhan, but surprisingly was not the city’s predominant virus type.
+Mutated versions of ‘A’ were seen in Americans reported to have lived in Wuhan, and a large number of A-type viruses were found in patients from the US and Australia.
+正确的翻译：
+A类在武汉存在，但不是武汉占优势的病毒类型。在武汉生活过的美国人身上检测出了变异过的A类病毒，美国和澳洲有很多病人身上检测出了A类病毒。
+评价：
+原文仅说有大量美澳患者是A类，但没有说美澳的A类患者多于武汉的A类患者。原文仅说在武汉生活过的美国人检测出A类病毒，而没说A类病毒没有在非美国的武汉来源病例中检测到。事实上gisaid网站上显示，把时间限制在一月下旬和以前，美国的首例和后来美国大量病例所在的分支（即A类）以中国国内的病例为主。此帖对原文中的句子有明显的歪曲。﻿
+#quote lea
+
+#p 22200005 Underloo 安德鲁还是安德烈 2020-04-11 18:09:49
+对的。
+#quote zhinan
+
+#p 22200009 Baandarin 板子 2020-04-11 18:10:53
+看上面tcfa的回帖
+#quote mrleon
+
+#p 22200010 Underloo 安德鲁还是安德烈 2020-04-11 18:10:55
+有人有意曲解原文？
+#quote tcfa
+
+#p 22200055 mrleon 世代绅士乔斯达 2020-04-11 18:22:30
+搜嘎，了解
+#quote Baandarin
+
+#p 22200076 himitsu 神山よしか 2020-04-11 18:27:41
+说了也没用，某些人为了找病毒是美帝传到武汉暴发的“证据”已经无所不用其极了
+#quote tcfa
+
+#p 22200105 Reines 莱妮丝埃尔梅罗 2020-04-11 18:37:14
+日常了
+#quote Underloo
+
+#p 22200116 tcfa Tropical Cyclone Formation Alert 2020-04-11 18:39:28
+但说还是要说的，今天本宫来专治各种不服
+#quote himitsu
 
