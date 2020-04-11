@@ -1,4 +1,4 @@
-#t 294 17620171 nogatnep 2020-04-11 00:09:00 Narsil 2020-04-11 16:57:00
+#t 294 17620171 nogatnep 2020-04-11 00:09:00 Threebodyman 2020-04-11 17:59:00
 第二届阿里巴巴全球数学竞赛，北大入围决赛人数88人
 
 #p 22197950 nogatnep ko001 2020-04-11 09:40:53
@@ -117,4 +117,36 @@ tql
 #p 22199750 Narsil Narsil 2020-04-11 16:56:19
 其实还是要有危机感，近几年隔壁的数学中心疯狂砸钱招人，每年的申请结果也都不错，大有赶超之势……
 #quote nogatnep
+
+#p 22199783 Homagod 不愉快磐舟天鸡パン食う 2020-04-11 17:03:38
+（倒逼
+#quote Narsil
+
+#p 22199867 boulevardof Amber 2020-04-11 17:27:45
+太强了（发出校强我渣的声音
+#quote nogatnep
+
+#p 22199884 euio 耳目一心 2020-04-11 17:30:49
+阿里自己创办的竞赛
+#quote anything
+
+#p 22199887 KakaHiguain 宅家学习ing 2020-04-11 17:31:11
+@survivor 
+#quote nogatnep
+
+#p 22199926 RUCGYHKEN 流星赶月 2020-04-11 17:42:32
+很猛
+#quote bookreadertt
+
+#p 22199932 ysmintor YorkYu 2020-04-11 17:45:28
+既然如此，数院应该把资料共享，至少放到全校同学可以学习的形式，让更多的同学受惠！
+#quote nogatnep
+
+#p 22199969 Threebodyman 三体-远征 2020-04-11 17:57:59
+太强了！
+#quote nogatnep
+
+#p 22199974 Threebodyman 三体-远征 2020-04-11 17:59:05
+哪些资料没共享了？举个例子，我没选上概率论，但是我却能直接旁听概率论的课堂
+#quote ysmintor
 
