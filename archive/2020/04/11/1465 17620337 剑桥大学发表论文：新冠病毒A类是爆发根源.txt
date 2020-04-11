@@ -1,4 +1,4 @@
-#t 1465 17620337 lea 2020-04-11 12:14:00 lea 2020-04-11 12:14:00
+#t 1465 17620337 lea 2020-04-11 00:12:00 JUSTBE 2020-04-11 14:48:00
 剑桥大学发表论文：新冠病毒A类是爆发根源
 
 #p 22198579 lea 无爱即无忧 2020-04-11 12:13:42
@@ -12,4 +12,8 @@ C类病毒是欧洲主要类型。亚洲地区的香港，新加坡，韩国皆�
 原文地址：[https://www.cam.ac.uk/research/news/covid-19-genetic-network-analysis-provides-snapshot-of-pandemic-origins](jump-to.php?url=https%3A%2F%2Fwww.cam.ac.uk%2Fresearch%2Fnews%2Fcovid-19-genetic-network-analysis-provides-snapshot-of-pandemic-origins)
 论文今天发表在PNAS （美国科学院院刊）
 论文链接：[https://www.pnas.org/content/early/2020/04/07/2004999117](jump-to.php?url=https%3A%2F%2Fwww.pnas.org%2Fcontent%2Fearly%2F2020%2F04%2F07%2F2004999117)
+
+#p 22199228 JUSTBE MYSELF 2020-04-11 14:47:38
+家庭研究吗，作者都姓Forster
+#quote lea
 

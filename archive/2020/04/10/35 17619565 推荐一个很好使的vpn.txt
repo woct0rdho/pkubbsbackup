@@ -1,4 +1,4 @@
-#t 35 17619565 monkeywang 2020-04-10 00:21:00 sunyet 2020-04-11 13:31:00
+#t 35 17619565 monkeywang 2020-04-10 00:21:00 pkuplf 2020-04-11 14:16:00
 推荐一个很好使的vpn
 
 #p 22196366 monkeywang 田伯光 2020-04-10 21:29:44
@@ -33,5 +33,10 @@
 
 #p 22198919 sunyet 爱吃梨的布里托 2020-04-11 13:30:41
 并不能打开[https://d.5i4.net/M9rV7](jump-to.php?url=https%3A%2F%2Fd.5i4.net%2FM9rV7)?
+#quote monkeywang
+
+#p 22199126 pkuplf lemontree 2020-04-11 14:15:44
+从稳定性和价格来说flysocks很不错，三年来用过cloudss和12vpn，最近几个月换了flysocks，vip1不到10元一个月，完全能满足学术和看视频的需求，设备数10，流量虽然有限定但根本用不完。免费的节点就没必要试用了，vip2我用过和vip1体验差不多。 4.6-4.13号复工活动8折优惠，优惠码：Spring-reboot
+夹带私货，个人邀请链接：[https://flysocks.xyz/auth/register?code=fEqM](jump-to.php?url=https%3A%2F%2Fflysocks.xyz%2Fauth%2Fregister%3Fcode%3DfEqM)
 #quote monkeywang
 
