@@ -1,4 +1,4 @@
-#t 35 17619565 monkeywang 2020-04-10 00:21:00 quicy 2020-04-11 09:52:00
+#t 35 17619565 monkeywang 2020-04-10 00:21:00 grdecy 2020-04-11 11:40:00
 推荐一个很好使的vpn
 
 #p 22196366 monkeywang 田伯光 2020-04-10 21:29:44
@@ -15,5 +15,10 @@
 
 #p 22197988 quicy quicy 2020-04-11 09:52:10
 用downie试试？
+#quote ANMEWM
+
+#p 22198449 grdecy raymondey 2020-04-11 11:39:09
+[https://twdown.net/](jump-to.php?url=https%3A%2F%2Ftwdown.net%2F)
+进去后直接把你推链接粘进去，格式和下面的模板差不多
 #quote ANMEWM
 
