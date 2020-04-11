@@ -1,4 +1,4 @@
-#t 294 17620171 nogatnep 2020-04-11 00:09:00 liht 2020-04-11 22:55:00
+#t 294 17620171 nogatnep 2020-04-11 00:09:00 PKUTracyliu 2020-04-11 23:30:00
 第二届阿里巴巴全球数学竞赛，北大入围决赛人数88人
 
 #p 22197950 nogatnep ko001 2020-04-11 09:40:53
@@ -257,5 +257,10 @@ tql
 
 #p 22201418 liht 陶禄绅 2020-04-11 22:54:26
 校强我渣
+#quote nogatnep
+
+#p 22201622 PKUTracyliu PKUHBB 2020-04-11 23:29:46
+强，阿里一直在招北大的应届实习生呢
+[https://bbs.pku.edu.cn/v2/post-read.php?bid=896&amp;threadid=17621043](post-read.php?bid=896&amp;threadid=17621043)
 #quote nogatnep
 
