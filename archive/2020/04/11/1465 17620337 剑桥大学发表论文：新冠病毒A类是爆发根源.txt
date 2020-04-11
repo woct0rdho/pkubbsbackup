@@ -1,0 +1,15 @@
+#t 1465 17620337 lea 2020-04-11 12:14:00 lea 2020-04-11 12:14:00
+剑桥大学发表论文：新冠病毒A类是爆发根源
+
+#p 22198579 lea 无爱即无忧 2020-04-11 12:13:42
+剑桥大学昨天发表论文，认为新冠病毒A类是病毒爆发的根源，而A类集中出现在美国和澳洲，出现于武汉的病毒属于B类，是从A类变异而来。这篇论文发表于美国科学院院刊，如果结论属实，对中国和全球华人都是一件幸事。
+剑桥大学发表关于新冠病毒的几个变种和传播路径的研究报告。
+报告指出，新冠病毒分三个变种：A、B、C。A类病毒更多发现于美国和澳洲的受感染者。A类在武汉只有极少案例，且来源于在武汉生活过的美国人。A类和从蝙蝠、穿山甲身上提取的病毒最为相似。研究人员称A类病毒为“爆发根源”（ “the root of the outbreak” ）。
+B类毒株是中国境内（即武汉）主要类型，且并没有传播出东亚地区。
+C类病毒是欧洲主要类型。亚洲地区的香港，新加坡，韩国皆有此类型。且没有在中国大陆发现。
+研究人员认为，A类毒株C类型演化自B，B类型演化自A。
+研究人员采用的研究方法，此前主要被运用于通过研究DNA来追踪史前人类的人口流动。此次是首次运用在追踪新冠病毒的传播路径（“These techniques are mostly known for mapping the movements of prehistoric human populations through DNA. We think this is one of the first times they have been used to trace the infection routes of a coronavirus like COVID-19.” ）
+原文地址：[https://www.cam.ac.uk/research/news/covid-19-genetic-network-analysis-provides-snapshot-of-pandemic-origins](jump-to.php?url=https%3A%2F%2Fwww.cam.ac.uk%2Fresearch%2Fnews%2Fcovid-19-genetic-network-analysis-provides-snapshot-of-pandemic-origins)
+论文今天发表在PNAS （美国科学院院刊）
+论文链接：[https://www.pnas.org/content/early/2020/04/07/2004999117](jump-to.php?url=https%3A%2F%2Fwww.pnas.org%2Fcontent%2Fearly%2F2020%2F04%2F07%2F2004999117)
+
