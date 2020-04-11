@@ -1,4 +1,4 @@
-#t 35 17619565 monkeywang 2020-04-10 00:21:00 pkuplf 2020-04-11 14:16:00
+#t 35 17619565 monkeywang 2020-04-10 00:21:00 loveYJM 2020-04-11 15:59:00
 推荐一个很好使的vpn
 
 #p 22196366 monkeywang 田伯光 2020-04-10 21:29:44
@@ -38,5 +38,10 @@
 #p 22199126 pkuplf lemontree 2020-04-11 14:15:44
 从稳定性和价格来说flysocks很不错，三年来用过cloudss和12vpn，最近几个月换了flysocks，vip1不到10元一个月，完全能满足学术和看视频的需求，设备数10，流量虽然有限定但根本用不完。免费的节点就没必要试用了，vip2我用过和vip1体验差不多。 4.6-4.13号复工活动8折优惠，优惠码：Spring-reboot
 夹带私货，个人邀请链接：[https://flysocks.xyz/auth/register?code=fEqM](jump-to.php?url=https%3A%2F%2Fflysocks.xyz%2Fauth%2Fregister%3Fcode%3DfEqM)
+#quote monkeywang
+
+#p 22199504 loveYJM shangki 2020-04-11 15:58:48
+推荐一个自己在用的CloudSo，3个月35 80GB流量，多国线路，全部节点为vmess中转线路 500M 。可解锁各种流媒体，无压力高速流畅观看Youtube、 Netflix、Disney+、Hulu、HBO 等。注册送1元余额，提供4条试用节点（限速20M）
+夹带私货，个人邀请链接：[https://5socloud.gq/auth/register?code=v8gr](jump-to.php?url=https%3A%2F%2F5socloud.gq%2Fauth%2Fregister%3Fcode%3Dv8gr)
 #quote monkeywang
 
