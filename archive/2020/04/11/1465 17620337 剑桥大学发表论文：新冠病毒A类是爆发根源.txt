@@ -1,4 +1,4 @@
-#t 1465 17620337 lea 2020-04-11 00:12:00 innateness 2020-04-12 13:59:00
+#t 1465 17620337 lea 2020-04-11 00:12:00 sunwind 2020-04-12 14:20:00
 剑桥大学发表论文：新冠病毒A类是爆发根源
 
 #p 22198579 lea 无爱即无忧 2020-04-11 12:13:42
@@ -244,4 +244,8 @@ tcfa的回帖我觉得并不严谨啊
 #p 22203751 innateness 天生 2020-04-12 13:59:09
 这篇文章本身还不能说明武汉是/不是起源地，因为在A类中，T亚群里，“four Chinese individuals (from the southern coastal Chinese province of Guangdong) carry the ancestral genome”，在C亚群里，“includes five individuals from Wuhan, two of which are represented in the ancestral node”。弄清楚这几个人，尤其是C亚群中的患者在感染前的行踪，才有可能可以说明更多问题。
 #quote simonyang
+
+#p 22203836 sunwind 海之逸 2020-04-12 14:20:08
+简体字的世界信息污染严重……
+#quote lea
 
