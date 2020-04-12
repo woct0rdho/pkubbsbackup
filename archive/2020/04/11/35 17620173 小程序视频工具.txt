@@ -1,4 +1,4 @@
-#t 35 17620173 bigbigben 2020-04-11 09:44:00 bigbigben 2020-04-11 09:44:00
+#t 35 17620173 bigbigben 2020-04-11 00:09:00 nietsnie 2020-04-12 08:42:00
 小程序视频工具
 
 #p 22197955 bigbigben 三木 2020-04-11 09:43:11
@@ -7,4 +7,9 @@ step1: 找到视频帖子的分享链接，复制
 step2: 打开小程序粘贴到文本框里
 step3: 点击下载，等待几秒钟，视频就存在相册里了
 (ps: 大家有什么想要的功能可以回帖)
+
+#p 22202524 nietsnie 嗯，我是一个昵称 2020-04-12 08:41:33
+微信小程序里可以直接用这个工具么？
+[https://github.com/ytdl-org/youtube-dl/blob/master/docs/supportedsites.md](jump-to.php?url=https%3A%2F%2Fgithub.com%2Fytdl-org%2Fyoutube-dl%2Fblob%2Fmaster%2Fdocs%2Fsupportedsites.md)
+#quote bigbigben
 
