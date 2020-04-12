@@ -1,4 +1,4 @@
-#t 35 17619565 monkeywang 2020-04-10 00:21:00 NicoleG 2020-04-12 14:51:00
+#t 35 17619565 monkeywang 2020-04-10 00:21:00 dvorah 2020-04-12 16:59:00
 推荐一个很好使的vpn
 
 #p 22196366 monkeywang 田伯光 2020-04-10 21:29:44
@@ -97,6 +97,7 @@ mark
 #quote monkeywang
 
 #p 22202938 ixizi 暗影卫队 2020-04-12 10:46:06
+#DELETED
 虽然评测肯定夹杂着私货，但是还是值得参考的。
 [https://github.com/DuyaoSS/SSR/issues/1](jump-to.php?url=https%3A%2F%2Fgithub.com%2FDuyaoSS%2FSSR%2Fissues%2F1)
 #quote monkeywang
@@ -117,4 +118,13 @@ Tampermonkey 有个脚本叫 Dowload Twitter Videos，安装后每个视频左�
 我能说你说的每一个字我都认识，连起来就不懂了么
 捂脸，我太菜了
 #quote dvorah
+
+#p 22204780 jxW Arya 2020-04-12 16:55:34
+谷歌学术还是打不开呢，楼主可以吗？
+#quote monkeywang
+
+#p 22204806 dvorah 尺蠖·德沃夏蛤 2020-04-12 16:59:17
+看了下居然是clash
+emm 这个没弄过 好像是托管网站管理 emm 上不了的时候手动改吧（捂脸
+#quote NicoleG
 
