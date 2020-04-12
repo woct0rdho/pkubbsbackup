@@ -1,4 +1,4 @@
-#t 1465 17620337 lea 2020-04-11 00:12:00 Kali 2020-04-12 10:21:00
+#t 1465 17620337 lea 2020-04-11 00:12:00 xenia 2020-04-12 12:59:00
 剑桥大学发表论文：新冠病毒A类是爆发根源
 
 #p 22198579 lea 无爱即无忧 2020-04-11 12:13:42
@@ -207,4 +207,33 @@ A类在武汉存在，但不是武汉占优势的病毒类型。在武汉生活�
 #p 22202852 Kali HCJ 2020-04-12 10:20:28
 舆论战是舆论战，美国媒体不也在没有根据的情况下睁着眼疯狂甩锅么？要分得清舆论战和科研研究。
 #quote speechless
+
+#p 22203293 stickerman 辣条 2020-04-12 12:10:58
+在美国的制度下，李文亮这样的吹哨人不会被训斥，会直接被开除，然后还不上贷款成为流浪汉，前提是没得新冠死亡。
+请参考美国航母吹哨人的悲惨遭遇。
+#quote Nd
+
+#p 22203385 tonyff 正小歪 2020-04-12 12:33:32
+<img src="https://www.pnas.org/content/pnas/early/2020/04/07/2004999117/F1.large.jpg?width=800&amp;height=600&amp;carousel=1"/>
+我来补个图
+#quote zhinan
+
+#p 22203471 xenia 小岛岛苏 2020-04-12 12:52:26
+你的评价里第一句话值得商榷…
+There are two subclusters of A which are distinguished by the synonymous mutation T29095C. In the T-allele subcluster, four Chinese individuals (from the southern coastal Chinese province of Guangdong) carry the ancestral genome, while three Japanese and two American patients differ from it by a number of mutations. These American patients are reported to have had a history of residence in the presumed source of the outbreak in Wuhan. The C-allele subcluster sports relatively long mutational branches and includes five individuals from Wuhan, two of which are represented in the ancestral node, and eight other East Asians from China and adjacent countries. It is noteworthy that nearly half (15/33) of the types in this subcluster, however, are found outside East Asia, mainly in the United States and Australia.
+从这段话中可以看出：
+文章分析的A型c亚群一共33个。
+有3个日本人和2个美国人带有这种A-c亚群。2个美国人有武汉旅居史。
+A-c亚群也包括5个武汉人和8个来自中国与相邻国家的东亚人。
+而33个中有15个在东亚以外被发现，其中主要是在美澳。
+因此，单就原文来说，确实是在说武汉发现的A-c亚群患者是比美澳的要少很多……
+所以，你的评价里的第一句话并不严谨…前面zhinan的翻译比较符合原文。
+另外，我觉得还有一点疑问，
+gisaid网站上1月下旬及以前的数据以中国病例为主，是不是因为全世界那个时候只有中国在检测呢？
+#quote tcfa
+
+#p 22203493 xenia 小岛岛苏 2020-04-12 12:58:14
+tcfa的回帖我觉得并不严谨啊
+你说看zhinan的还更有道理一些……
+#quote Baandarin
 
