@@ -1,4 +1,4 @@
-#t 35 17619565 monkeywang 2020-04-10 00:21:00 ANMEWM 2020-04-12 09:49:00
+#t 35 17619565 monkeywang 2020-04-10 00:21:00 ixizi 2020-04-12 10:46:00
 推荐一个很好使的vpn
 
 #p 22196366 monkeywang 田伯光 2020-04-10 21:29:44
@@ -91,4 +91,13 @@ chrome推荐插件SwitchyOmega，GitHub上可以下。
 #p 22202753 ANMEWM 西岭白鹭 2020-04-12 09:48:11
 多谢
 #quote grdecy
+
+#p 22202839 wangbohui skyler 2020-04-12 10:16:43
+mark
+#quote monkeywang
+
+#p 22202938 ixizi 暗影卫队 2020-04-12 10:46:06
+虽然评测肯定夹杂着私货，但是还是值得参考的。
+[https://github.com/DuyaoSS/SSR/issues/1](jump-to.php?url=https%3A%2F%2Fgithub.com%2FDuyaoSS%2FSSR%2Fissues%2F1)
+#quote monkeywang
 
