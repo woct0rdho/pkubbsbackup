@@ -1,4 +1,4 @@
-#t 668 17606552 Lomo 2020-04-01 16:20:00 PKUCC 2020-04-01 16:52:00
+#t 668 17606552 Lomo 2020-04-01 00:16:00 Lomo 2020-04-12 20:41:00
 求问：Vpn连上后，无法登入谷歌学术镜像是什么原因
 
 #p 22128000 Lomo Lomo 2020-04-01 16:19:43
@@ -8,4 +8,9 @@
 #p 22128183 PKUCC 北京大学计算中心 2020-04-01 16:51:27
 你好，请把网址列下，我们向教育网反馈，谢谢！
 #quote Lomo
+
+#p 22206092 Lomo Lomo 2020-04-12 20:41:27
+[https://xs.gufenxueshu.com/scholar?q=](jump-to.php?url=https%3A%2F%2Fxs.gufenxueshu.com%2Fscholar%3Fq%3D)
+谢谢老师！
+#quote PKUCC
 
