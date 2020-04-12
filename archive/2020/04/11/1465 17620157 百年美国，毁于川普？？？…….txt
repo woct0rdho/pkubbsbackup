@@ -1,4 +1,4 @@
-#t 1465 17620157 jingyansizhi 2020-04-11 00:09:00 Zusammen 2020-04-13 04:21:00
+#t 1465 17620157 jingyansizhi 2020-04-11 00:09:00 Koppelbarg 2020-04-13 05:09:00
 百年美国，毁于川普？？？……
 
 #p 22197907 jingyansizhi 静言思之 2020-04-11 09:28:44
@@ -108,5 +108,11 @@
 用数据说话：
 [https://covid19.healthdata.org/united-states-of-america](jump-to.php?url=https%3A%2F%2Fcovid19.healthdata.org%2Funited-states-of-america)
 这是个IHME（一个做医学模型和统计顶尖的研究所）做得医疗资源，死亡病例预测模型，有全美和分各个州的模型预测。几乎是隔几天会根据报告数据，防控措施来更新的。基本上全美要到床位数需求顶点了，但是不知道高峰会持续多久，下降幅度会不会是模型预测的那样。现在美国政府也开始考虑准备放开，和一定程度的复工了。也不知道放开后会不会出现更高的高峰。
+#quote jingyansizhi
+
+#p 22207764 Koppelbarg 云中 2020-04-13 05:08:10
+美国最后还是要走稍微缓和的群体免疫策略吧，不走不行
+美国在召回美国公民，我估计他们会排斥外国人，对留学生很担心
+估计最后得用海船运回，那个运量大
 #quote jingyansizhi
 
