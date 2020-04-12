@@ -1,4 +1,4 @@
-#t 251 17619087 Rockefeller 2020-04-10 00:13:00 eagle 2020-04-10 22:45:00
+#t 251 17619087 Rockefeller 2020-04-10 00:13:00 nietsnie 2020-04-12 09:18:00
 在中国有政治大数据吗？
 
 #p 22194470 Rockefeller 每天都有在进步 2020-04-10 13:53:11
@@ -46,7 +46,7 @@
 中国政府网、中国人大网都有一部分公开信息，相信你要的也不是这些。。。
 #quote Rockefeller
 
-#p 22195902 Homagod 不愉快だからパン食う 2020-04-10 19:51:53
+#p 22195902 Homagod 不愉快磐舟天鸡パン食う 2020-04-10 19:51:53
 有些人有
 历史为什么选择了茅海建写《天朝的崩溃》（
 #quote Rockefeller
@@ -86,5 +86,9 @@ what a pity。如果难以找到电子化记录的话，就很容易在低水平
 不过客观来讲，完整的记录也会有某种副作用，比如 voting history 的存在会使政治人物更倾向那些容易讨好选民但未必正确的选择
 米国民主党前参议院领袖 Tom Daschle 在接受 PBS 纪录片节目 Frontline 采访，当被问及为何推动彼时只是个新手参议员的奥巴马参与 08 年大选时承认：“and secondly, because the longer he's in Washington, the more history he has, and the more history he has, the more he's going to be explaining his votes and his actions and his statements and his positions that undermine his message”
 来源：[https://www.pbs.org/wgbh/pages/frontline/choice2008/interviews/daschle.html](jump-to.php?url=https%3A%2F%2Fwww.pbs.org%2Fwgbh%2Fpages%2Ffrontline%2Fchoice2008%2Finterviews%2Fdaschle.html)
+#quote Rockefeller
+
+#p 22202631 nietsnie 嗯，我是一个昵称 2020-04-12 09:17:30
+对于信息公开，还是希望能先建立中国版的C-SPAN，再谈大数据的问题
 #quote Rockefeller
 

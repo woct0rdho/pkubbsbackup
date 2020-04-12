@@ -1,4 +1,4 @@
-#t 35 17619565 monkeywang 2020-04-10 00:21:00 NicoleG 2020-04-11 22:58:00
+#t 35 17619565 monkeywang 2020-04-10 00:21:00 ANMEWM 2020-04-12 09:49:00
 推荐一个很好使的vpn
 
 #p 22196366 monkeywang 田伯光 2020-04-10 21:29:44
@@ -76,4 +76,19 @@ chrome推荐插件SwitchyOmega，GitHub上可以下。
 #p 22201439 NicoleG 弗莱丨剥皮的栗子 2020-04-11 22:57:44
 我需要把你给的链接内容复制粘贴吗？
 #quote dvorah
+
+#p 22202675 dvorah 尺蠖·德沃夏蛤 2020-04-12 09:27:41
+链接是给SwitchyOmega用的 
+如果需要调pac（SSR/SS用的 就是纸飞机图标）
+[https://raw.githubusercontent.com/petronny/gfwlist2pac/master/gfwlist.pac](jump-to.php?url=https%3A%2F%2Fraw.githubusercontent.com%2Fpetronny%2Fgfwlist2pac%2Fmaster%2Fgfwlist.pac)
+右键小飞机 有编辑pac文件的选项 复制进去就行
+#quote NicoleG
+
+#p 22202752 ANMEWM 西岭白鹭 2020-04-12 09:48:01
+多谢
+#quote quicy
+
+#p 22202753 ANMEWM 西岭白鹭 2020-04-12 09:48:11
+多谢
+#quote grdecy
 
