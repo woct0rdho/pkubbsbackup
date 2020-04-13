@@ -1,4 +1,4 @@
-#t 35 17619565 monkeywang 2020-04-10 00:21:00 dvorah 2020-04-12 16:59:00
+#t 35 17619565 monkeywang 2020-04-10 00:21:00 ANMEWM 2020-04-13 08:00:00
 推荐一个很好使的vpn
 
 #p 22196366 monkeywang 田伯光 2020-04-10 21:29:44
@@ -127,4 +127,8 @@ Tampermonkey 有个脚本叫 Dowload Twitter Videos，安装后每个视频左�
 看了下居然是clash
 emm 这个没弄过 好像是托管网站管理 emm 上不了的时候手动改吧（捂脸
 #quote NicoleG
+
+#p 22207943 ANMEWM 西岭白鹭 2020-04-13 08:00:37
+多谢推荐
+#quote Chains
 
