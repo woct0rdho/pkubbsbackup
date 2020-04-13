@@ -1,0 +1,18 @@
+#t 35 17624052 wkh 2020-04-13 21:29:00 wkh 2020-04-13 21:29:00
+Mac安装Pulse Secure后网速变慢，尤其是迅雷下载时
+
+#p 22216618 wkh 嘻嘻 2020-04-13 21:31:16
+
+
+2020-04-13 21:28:31
+前段时间发现Mac使用过程中网速会逐渐变慢，因为是千兆网，平常也用不到那么高的网速，稍微变慢点不怎么影响使用。
+但是在使用迅雷下载时尤其明显，每次开迅雷下载后，网速会在几秒钟内降为原来的几分之一。即使关闭迅雷后网速也没有恢复，需要重启Mac才能恢复。
+而长时间开启迅雷下载(比如几个小时)后，网速会降到只有几Mbps-零点几Mbps，有时甚至百度也打不开。
+而此时路由器下其他设备正常。
+试过调整路由器和macOS WiFi的各种设置选项，试过有线连接，也试过Win10虚拟机里面的迅雷，都没解决。
+最终发现是Pulse Secure的kernel extension原因。我Pulse Secure没有开机启动，但是kernel extension在开机时会加载，导致出现问题。
+解决方法参考[https://apple.stackexchange.com/questions/359723/internet-speed-getting-slower-over-time-on-mbp](jump-to.php?url=https%3A%2F%2Fapple.stackexchange.com%2Fquestions%2F359723%2Finternet-speed-getting-slower-over-time-on-mbp)
+就是执行以下代码：
+sudo kextunload /Library/Extensions/PulseSecureFirewall.kext
+如果需要开机自动执行的话可以用Automator或launchd，等需要用Pulse Secure时再加载kernel extension就好
+
