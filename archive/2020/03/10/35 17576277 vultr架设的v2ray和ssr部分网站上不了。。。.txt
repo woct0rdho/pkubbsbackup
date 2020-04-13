@@ -1,4 +1,4 @@
-#t 35 17576277 cxt 2020-03-10 00:17:00 uestc 2020-03-24 20:02:00
+#t 35 17576277 cxt 2020-03-10 00:17:00 hnewcity 2020-04-13 11:06:00
 vultr架设的v2ray和ssr部分网站上不了。。。
 
 #p 21965218 cxt 栗悟飯とカメハメ波 2020-03-10 17:37:12
@@ -56,7 +56,7 @@ autonomous 不是匿名的意思 （ [https://zh.wikipedia.org/zh-cn/%E8%87%AA%E
 我这边分分钟被封锁
 #quote cxt
 
-#p 22014698 whispsxav 辛同学不是新同学 2020-03-20 14:36:13
+#p 22014698 whispsxav 才不是新同学 2020-03-20 14:36:13
 所以现在还有什么vps便宜好用的啊T^T
 #quote cxt
 
@@ -76,4 +76,8 @@ autonomous 不是匿名的意思 （ [https://zh.wikipedia.org/zh-cn/%E8%87%AA%E
 我刚买的hosty的vps，最便宜的每月5刀，网速还行，不知道会不会被封
 [https://hostry.com/?ref=M9M5X2U7](jump-to.php?url=https%3A%2F%2Fhostry.com%2F%3Fref%3DM9M5X2U7)
 #quote whispsxav
+
+#p 22209531 hnewcity hnewcity 2020-04-13 11:06:14
+我vultr jp vmess没有问题
+#quote cxt
 
