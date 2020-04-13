@@ -1,10 +1,12 @@
-#t 35 16264150 hiaoxui 2017-11-10 00:00:00 qazzzw 2020-04-10 16:01:00
+#t 35 16264150 hiaoxui 2017-11-10 00:00:00 hiaoxui 2020-04-13 17:15:00
 科学上网, SSR 服务器分享
 
-#p 17134091 hiaoxui 小辉 2019-11-16 04:36:36
+#p 17134091 hiaoxui 小辉 2020-04-13 16:28:59
 
 
 2017-11-10 23:53:54
+重要更新: 我已恢复 IPv4 的访问, 但使用方法有一些变化. 请在使用前务必阅读这篇 blog: [https://blog.hiaoxui.com/blog/post/hiaoxui/whitelist-notice-zh](jump-to.php?url=https%3A%2F%2Fblog.hiaoxui.com%2Fblog%2Fpost%2Fhiaoxui%2Fwhitelist-notice-zh)
+------------------------------
 北京大学并没有提供官方的翻墙途径, 但是我们的科研学习中无可避免地需要用到 Wikipedia 和 Google 等网站. 为了解决这个矛盾, 我决定向北京大学的师生校友提供这项服务. 我只面向北京大学校友提供服务, 恕不回复北京大学邮箱 (@pku.edu.cn / @bjmu.edu.cn / @*.pku.eud.cn / @pku.org) 之外的邮件.
 如果你没有任何翻墙经验, 请阅读教程: [https://blog.hiaoxui.com/blog/post/hiaoxui/ssr-manual-zh](jump-to.php?url=https%3A%2F%2Fblog.hiaoxui.com%2Fblog%2Fpost%2Fhiaoxui%2Fssr-manual-zh)
 以上教程适用于 Windows 系统, OS X 系统 (苹果电脑), Android 系统 和 iOS 系统. 
@@ -1107,7 +1109,7 @@ ferred)
 你成功了吗
 #quote CoreM
 
-#p 21002226 Homagod 不愉快だからパン食う 2019-09-26 16:48:42
+#p 21002226 Homagod 不愉快磐舟天鸡パン食う 2019-09-26 16:48:42
 谢谢！
 #quote hiaoxui
 
@@ -2062,7 +2064,7 @@ IPv6 丢包率奇高, 至今不知道为什么. 印象里丢包率直逼 50%.
 最近开始用vmess了，免费的服务器也有，ssr确实挂了不少了..[https://github.com/ntkernel/lantern/blob/master/vmess.txt](jump-to.php?url=https%3A%2F%2Fgithub.com%2Fntkernel%2Flantern%2Fblob%2Fmaster%2Fvmess.txt)
 #quote hiaoxui
 
-#p 21881493 loveYJM shangki 2020-02-22 00:15:37
+#p 21881493 loveYJM ironman 2020-02-22 00:15:37
 接一条，不是砸lz的场子，我也在github随便翻到的，分享一下= =
 #quote hiaoxui
 
@@ -2161,4 +2163,8 @@ IPv6 丢包率奇高, 至今不知道为什么. 印象里丢包率直逼 50%.
 #p 22194987 qazzzw 山东河北梆子豫剧团 2020-04-10 16:00:44
 请问你现在ok了吗？我看也是都挂了的状态
 #quote APSNovak
+
+#p 22215338 hiaoxui 小辉 2020-04-13 17:14:36
+重要更新: 我已恢复 IPv4 的访问, 但使用方法有一些变化. 请在使用前务必阅读这篇 blog: [https://blog.hiaoxui.com/blog/post/hiaoxui/whitelist-notice-zh](jump-to.php?url=https%3A%2F%2Fblog.hiaoxui.com%2Fblog%2Fpost%2Fhiaoxui%2Fwhitelist-notice-zh)
+#quote hiaoxui
 
