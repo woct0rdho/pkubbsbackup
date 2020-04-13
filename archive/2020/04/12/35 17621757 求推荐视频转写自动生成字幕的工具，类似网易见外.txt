@@ -1,4 +1,4 @@
-#t 35 17621757 SerJaime 2020-04-12 00:14:00 CharlesChou 2020-04-12 17:34:00
+#t 35 17621757 SerJaime 2020-04-12 00:14:00 SerJaime 2020-04-13 13:38:00
 求推荐视频转写自动生成字幕的工具，类似网易见外
 
 #p 22203986 SerJaime Kingslayer 2020-04-12 14:54:13
@@ -6,5 +6,9 @@
 
 #p 22204994 CharlesChou Annoying Orange 2020-04-12 17:34:01
 youtube
+#quote SerJaime
+
+#p 22213908 SerJaime Kingslayer 2020-04-13 13:37:46
+Youtube看视频还可以，但是我这本地视频无法上传上去（版权限制）。。。:(
 #quote SerJaime
 
