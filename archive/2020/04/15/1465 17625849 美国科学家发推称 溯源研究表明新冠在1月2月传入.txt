@@ -1,0 +1,40 @@
+#t 1465 17625849 Chips 2020-04-15 05:12:00 Octo 2020-04-15 05:57:00
+美国科学家发推称 溯源研究表明新冠在1月2月传入
+
+#p 22223242 Chips 我的鱼在哪 2020-04-15 05:50:31
+
+
+2020-04-15 05:12:18
+[https://twitter.com/trvrb/status/1249414291297464321?s=21](jump-to.php?url=https%3A%2F%2Ftwitter.com%2Ftrvrb%2Fstatus%2F1249414291297464321%3Fs%3D21)
+一些太长不看版的points：【根据原文总结了一下，专业知识有限所以可能写得有点奇怪】
+华盛顿大学科学家Trevor Bedford发twitter称，通过研究发现加州的秋冬季流感非新冠所致，并且COVID-19在2020年1月/2月传入美国。
+研究人员检测了2020年1月份3600份有疑似COVID-19症状的样本，其中0例为阳性；2020年2月份3308份有疑似CODIV-19症状的样本，其中10例为阳性，第一例阳性出现于2月21日。
+在检测了2019年10月至2020年2月的样本后，发现其中包含的病毒有流感、RSV、鼻病毒、人类偏肺病毒、季节性冠状病毒。
+研究人员通过研究所有的病毒序列，认为病毒的共祖时间不会早于12月。并且称最早的病例出现于1月份，（可能）为由中国传入的病例；2月份的病例则多由欧洲传入。
+（之后就是说理论上美国无法实现群体免疫，所以认为“test”“trace”“isolate”是唯一能解决问题的办法）
+<img src="https://bbs.pku.edu.cn/attach/52/a3/52a3e80dd2ac6139/1.JPG"/>
+<img src="https://bbs.pku.edu.cn/attach/49/dc/49dc66978768fa20/2.jpg"/>
+<img src="https://bbs.pku.edu.cn/attach/2e/d2/2ed2344681aeeb97/3.jpg"/>
+<img src="https://bbs.pku.edu.cn/attach/6b/d5/6bd59e0db571cd2d/4.jpg"/>
+<img src="https://bbs.pku.edu.cn/attach/d0/fd/d0fd344f6bd79014/5.jpg"/>
+<img src="https://bbs.pku.edu.cn/attach/8c/62/8c62067cabe53d6c/6.jpg"/>
+
+#p 22223267 Octo ·◎· 2020-04-15 05:46:15
+
+
+2020-04-15 05:38:14
+已at赵立坚
+好奇哪能看到对应的完整paper，预印本也没找到
+#quote Chips
+
+#p 22223279 Chips 我的鱼在哪 2020-04-15 05:56:29
+
+
+2020-04-15 05:50:46
+目前是Trevor Bedford发了一连串的推特（数据来源和团队倒是都写进去了）【不知道会不会有后续】我把标题改了一下是不是更好一些…_(:з」∠)_
+#quote Octo
+
+#p 22223286 Octo ·◎· 2020-04-15 05:57:14
+应该会有吧，估计团队赶paper中
+#quote Chips
+
