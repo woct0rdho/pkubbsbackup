@@ -1,6 +1,10 @@
-#t 668 17624317 wswcelena 2020-04-14 00:58:00 wswcelena 2020-04-14 00:58:00
+#t 668 17624317 wswcelena 2020-04-14 00:00:00 PKUCC 2020-04-14 08:30:00
 未能连接到 Pulse Secure统一网络服务
 
 #p 22217630 wswcelena 噗哈哈 2020-04-14 00:57:30
 macOS Catalina 10.15.3系统，下了最新版pulse secure后添加vpn,一直显示“未能连接到 Pulse Secure统一网络服务”，重装了软件好几次还是失败，也试过不同链路的VPN服务器地址，都不行，求问怎么解决
+
+#p 22218218 PKUCC 北京大学计算中心 2020-04-14 08:29:38
+你好，通常是系统权限的原因，请进入偏好设置里允许pulse secure运行。
+#quote wswcelena
 
