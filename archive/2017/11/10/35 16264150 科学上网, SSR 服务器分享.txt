@@ -1,4 +1,4 @@
-#t 35 16264150 hiaoxui 2017-11-10 00:00:00 hiaoxui 2020-04-13 17:15:00
+#t 35 16264150 hiaoxui 2017-11-10 00:00:00 hiaoxui 2020-04-14 10:08:00
 科学上网, SSR 服务器分享
 
 #p 17134091 hiaoxui 小辉 2020-04-13 16:28:59
@@ -2167,4 +2167,12 @@ IPv6 丢包率奇高, 至今不知道为什么. 印象里丢包率直逼 50%.
 #p 22215338 hiaoxui 小辉 2020-04-13 17:14:36
 重要更新: 我已恢复 IPv4 的访问, 但使用方法有一些变化. 请在使用前务必阅读这篇 blog: [https://blog.hiaoxui.com/blog/post/hiaoxui/whitelist-notice-zh](jump-to.php?url=https%3A%2F%2Fblog.hiaoxui.com%2Fblog%2Fpost%2Fhiaoxui%2Fwhitelist-notice-zh)
 #quote hiaoxui
+
+#p 22218556 COBEN 未明 2020-04-14 10:05:31
+连上北大vpn，终于又能上谷歌了！感谢哇！
+#quote hiaoxui
+
+#p 22218568 hiaoxui 小辉 2020-04-14 10:07:51
+现在原则上不需要先连接北大 VPN 了.
+#quote COBEN
 
