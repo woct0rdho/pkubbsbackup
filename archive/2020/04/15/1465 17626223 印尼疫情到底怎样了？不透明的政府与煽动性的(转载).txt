@@ -1,4 +1,4 @@
-#t 1465 17626223 ZOEA 2020-04-15 13:16:00 ZOEA 2020-04-15 13:16:00
+#t 1465 17626223 ZOEA 2020-04-15 00:13:00 JsYc 2020-04-15 22:18:00
 印尼疫情到底怎样了？不透明的政府与煽动性的(转载)
 
 #p 22224883 ZOEA 蟹 2020-04-15 13:16:07
@@ -80,4 +80,8 @@
 　　从4月10日开始，印尼政府在雅加达实施了大规模的社交限制（PSBB-pembatasan sosial berskala besar）政策，为期14天，限制范围包括公共庆祝、学校、办公、公共场所和娱乐场所，还限制了公共交通工具的乘客人数和运营时间。（[https://www.thejakartapost.com/news/2020/04/10/covid-19-vacant-roads-little-activity-mark-first-day-of-psbb-implementation-in-jakarta.html](jump-to.php?url=https%3A%2F%2Fwww.thejakartapost.com%2Fnews%2F2020%2F04%2F10%2Fcovid-19-vacant-roads-little-activity-mark-first-day-of-psbb-implementation-in-jakarta.html)）
 　　印尼依然是全球检测率最低的国家之一。截止4月11日，印尼一百万人中只有71人接受了检验——总共19,452人得到检验，其中确诊3842例，327人死亡，286人痊愈。
 （本篇报导由端传媒与东南亚新闻平台New Naratif“新叙述”合作完成。本文两位记者生活在雅加达，原文用英文撰写，感谢实习生吴迪的翻译协助。）
+
+#p 22230189 JsYc JsYc 2020-04-15 22:17:23
+人口比较密集，医疗水平低，感染人数肯定不会少
+#quote ZOEA
 
