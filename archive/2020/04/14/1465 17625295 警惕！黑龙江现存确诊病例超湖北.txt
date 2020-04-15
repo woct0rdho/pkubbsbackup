@@ -1,4 +1,4 @@
-#t 1465 17625295 albertgd 2020-04-14 00:18:00 ccjjll 2020-04-15 14:46:00
+#t 1465 17625295 albertgd 2020-04-14 00:18:00 albertgd 2020-04-15 18:18:00
 警惕！黑龙江现存确诊病例超湖北
 
 #p 22221319 albertgd Albert Einstain 2020-04-14 18:51:45
@@ -34,4 +34,12 @@
 #p 22225351 ccjjll 0812 2020-04-15 14:45:57
 同上，俄罗斯情况据说很糟糕。主要是输入之后传染本地就麻烦了
 #quote albertgd
+
+#p 22226431 pkuerljh fleißig lernen 2020-04-15 18:16:43
+我收到了一个从哈尔滨转运到武汉然后转到北京，然后再转到我家的快递……ssfd
+#quote albertgd
+
+#p 22226432 albertgd Albert Einstain 2020-04-15 18:17:06
+握紧小草~
+#quote pkuerljh
 
