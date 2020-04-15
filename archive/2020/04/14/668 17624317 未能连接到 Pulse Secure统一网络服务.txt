@@ -1,4 +1,4 @@
-#t 668 17624317 wswcelena 2020-04-14 00:00:00 booooo 2020-04-15 12:17:00
+#t 668 17624317 wswcelena 2020-04-14 00:00:00 wswcelena 2020-04-15 14:59:00
 未能连接到 Pulse Secure统一网络服务
 
 #p 22217630 wswcelena 噗哈哈 2020-04-14 00:57:30
@@ -38,4 +38,8 @@ MacOS Mojave Catalina Pulse Secure无法使用怎么解决？ - Unknown的回答
 #p 22224604 booooo 什么时候开学啊 2020-04-15 12:16:23
 右上角有出现pulse secure的小图标么
 #quote wswcelena
+
+#p 22225428 wswcelena 噗哈哈 2020-04-15 14:58:30
+有出现小图标
+#quote booooo
 
