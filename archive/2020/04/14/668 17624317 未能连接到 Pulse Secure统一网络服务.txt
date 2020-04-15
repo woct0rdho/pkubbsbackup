@@ -1,4 +1,4 @@
-#t 668 17624317 wswcelena 2020-04-14 00:00:00 wswcelena 2020-04-15 10:47:00
+#t 668 17624317 wswcelena 2020-04-14 00:00:00 booooo 2020-04-15 11:10:00
 未能连接到 Pulse Secure统一网络服务
 
 #p 22217630 wswcelena 噗哈哈 2020-04-14 00:57:30
@@ -20,4 +20,10 @@ macOS Catalina 10.15.3系统，下了最新版pulse secure后添加vpn,一直显
 把所有版本的软件都试了一遍，都不行
 要是你原来可以用都版本没丢就好啦
 #quote propagator
+
+#p 22224260 booooo 什么时候开学啊 2020-04-15 11:09:31
+MacOS Mojave Catalina Pulse Secure无法使用怎么解决？ - Unknown的回答 - 知乎
+[https://www.zhihu.com/question/374566937/answer/1037329742](jump-to.php?url=https%3A%2F%2Fwww.zhihu.com%2Fquestion%2F374566937%2Fanswer%2F1037329742)
+可以看一下这个回答，实测可行。
+#quote wswcelena
 
