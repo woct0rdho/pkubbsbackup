@@ -1,0 +1,7 @@
+#t 1465 17627189 lijinpei 2020-04-16 03:47:00 lijinpei 2020-04-16 03:47:00
+github上一个记录国内新冠疫情时间线的项目
+
+#p 22231346 lijinpei 陈冠嘻 2020-04-16 03:47:02
+rt [https://github.com/Pratitya/COVID-19-timeline](jump-to.php?url=https%3A%2F%2Fgithub.com%2FPratitya%2FCOVID-19-timeline)
+开源项目的一个好处是可以大家一起出力建设，一起监督。希望在此次事件上，历史不再是任人打扮的小姑娘，希望互联网不再没有记忆。
+
