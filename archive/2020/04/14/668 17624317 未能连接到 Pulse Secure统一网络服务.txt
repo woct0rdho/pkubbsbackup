@@ -1,4 +1,4 @@
-#t 668 17624317 wswcelena 2020-04-14 00:00:00 booooo 2020-04-15 11:10:00
+#t 668 17624317 wswcelena 2020-04-14 00:00:00 booooo 2020-04-15 12:17:00
 未能连接到 Pulse Secure统一网络服务
 
 #p 22217630 wswcelena 噗哈哈 2020-04-14 00:57:30
@@ -21,9 +21,21 @@ macOS Catalina 10.15.3系统，下了最新版pulse secure后添加vpn,一直显
 要是你原来可以用都版本没丢就好啦
 #quote propagator
 
-#p 22224260 booooo 什么时候开学啊 2020-04-15 11:09:31
+#p 22224260 booooo 什么时候开学啊 2020-04-15 11:13:59
+
+
+2020-04-15 11:09:31
 MacOS Mojave Catalina Pulse Secure无法使用怎么解决？ - Unknown的回答 - 知乎
 [https://www.zhihu.com/question/374566937/answer/1037329742](jump-to.php?url=https%3A%2F%2Fwww.zhihu.com%2Fquestion%2F374566937%2Fanswer%2F1037329742)
 可以看一下这个回答，实测可行。
+应该就是Pulse Secure连接需要一个后台进程，但是Mac好像禁止了后台进程的自启动，所以需要手动打开这个后台进程，打开方式就是到Pulse Secure的包里找到Pulse Tray，手动运行。
+#quote wswcelena
+
+#p 22224551 wswcelena 噗哈哈 2020-04-15 12:06:39
+试了一下 不行，点击pulse tray 没有任何反应，进它的子目录，点击可执行文件，倒是打开了程序，但是vpn还是没有办法添加，显示“未能连接到 Pulse Secure统一网络服务”，现在严重怀疑是电脑原因
+#quote booooo
+
+#p 22224604 booooo 什么时候开学啊 2020-04-15 12:16:23
+右上角有出现pulse secure的小图标么
 #quote wswcelena
 
