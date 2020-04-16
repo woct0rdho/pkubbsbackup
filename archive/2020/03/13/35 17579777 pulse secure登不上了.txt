@@ -1,10 +1,10 @@
-#t 35 17579777 rickmorty 2020-03-13 00:09:00 Lebesgue 2020-03-14 15:33:00
+#t 35 17579777 rickmorty 2020-03-13 00:09:00 ahg 2020-04-17 02:18:00
 pulse secure登不上了
 
 #p 21976992 rickmorty 梦的第七章 2020-03-13 09:22:00
 如题，这情况持续了1周了，连VPN一直是请求连接的状态，有小伙伴知道怎么回事吗？
 
-#p 21977007 IlIl 王铁崖 2020-03-13 09:24:19
+#p 21977007 IlIl 王铁牙 2020-03-13 09:24:19
 先ping一下 vpn.pku.edu.cn
 #quote rickmorty
 
@@ -22,11 +22,11 @@ pulse secure登不上了
 什么意思？能具体说一下吗？怎么ping？
 #quote IlIl
 
-#p 21980834 IlIl 王铁崖 2020-03-14 00:30:22
+#p 21980834 IlIl 王铁牙 2020-03-14 00:30:22
 同时按住win键和r键，弹出运行的输入框，输入cmd并回车即可打开一个terminal，然后输入 ping vpn.pku.edu.cn 并回车。
 #quote Lebesgue
 
-#p 21980969 ljslcy StupidArcher 2020-03-14 01:17:00
+#p 21980969 ljslcy StupidArcher|死侍|咸鱼|珞珈山列车员 2020-03-14 01:17:00
 重启pulse服务再尝试连接试试
 #quote rickmorty
 
@@ -45,4 +45,8 @@ pulse secure登不上了
 #p 21983224 Lebesgue Pd(PPh3)4 2020-03-14 15:32:32
 谢谢~~
 #quote IlIl
+
+#p 22236821 ahg 光 2020-04-17 02:17:43
+打开pulse secure后，说pulse secure服务未启动，没有连接选项，怎么回事？
+#quote rickmorty
 
