@@ -1,4 +1,4 @@
-#t 1465 17627834 lea 2020-04-16 15:08:00 lea 2020-04-16 15:08:00
+#t 1465 17627834 lea 2020-04-16 00:15:00 quarksinger 2020-04-16 16:40:00
 关于疫情源头分析的一篇公众号文章
 
 #p 22233739 lea 无爱即无忧 2020-04-16 15:08:03
@@ -8,4 +8,8 @@
 上：[https://mp.weixin.qq.com/s/YCi7KS571t9Xie7zoHRfpw](jump-to.php?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FYCi7KS571t9Xie7zoHRfpw)
 中：[https://mp.weixin.qq.com/s/OfVOp2mH8X_tq3nR0i6lcg](jump-to.php?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FOfVOp2mH8X_tq3nR0i6lcg)
 下：[https://mp.weixin.qq.com/s/7QfphIwRvqWTlIpelX4PIg](jump-to.php?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F7QfphIwRvqWTlIpelX4PIg)
+
+#p 22234143 quarksinger 晴天 2020-04-16 16:39:45
+仔细看完了，感觉就作者提供的证据来看，证据充分，论证合理
+#quote lea
 
