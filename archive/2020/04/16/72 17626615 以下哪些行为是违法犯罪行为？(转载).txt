@@ -1,0 +1,13 @@
+#t 72 17626615 ZOEA 2020-04-16 21:03:00 ZOEA 2020-04-16 21:03:00
+以下哪些行为是违法犯罪行为？(转载)
+
+#p 22235558 ZOEA 蟹 2020-04-16 21:03:20
+[原文由 ZOEA 发表在 NetResources 版 &gt;&gt;&gt;](post-read.php?bid=209&amp;threadid=17626615)
+[https://t.me/s/datudou/235](jump-to.php?url=https%3A%2F%2Ft.me%2Fs%2Fdatudou%2F235)
+以下哪些行为是违法犯罪行为？
+Anonymous Quiz
+- 污染整个地区的 DNS 请求，返回无效 IP
+- 在主干网上进行劫持，对特定网站发起 HTTPS MitM 攻击
+- 篡改 HTTP 响应并插入攻击脚本，对特定网站发起 DDoS 攻击
+- 使用多线程下载百度云，共享链接提取码
+
