@@ -1,4 +1,4 @@
-#t 1465 17627719 sacrifice 2020-04-16 00:13:00 pkuerljh 2020-04-16 15:00:00
+#t 1465 17627719 sacrifice 2020-04-16 00:13:00 jwbhxx 2020-04-16 15:05:00
 外地人去贵校教务开成绩单几乎没可能吧？
 
 #p 22233157 sacrifice MVP@SIEN|我会一直加油|bye 2020-04-16 13:18:49
@@ -8,7 +8,20 @@
 成绩单不是可以在新太阳自助开吗，把校园卡寄过去找个人帮帮忙？
 #quote sacrifice
 
-#p 22233704 pkuerljh fleißig lernen 2020-04-16 14:59:44
+#p 22233704 pkuerljh fleißig lernen 2020-04-16 15:01:28
+
+
+2020-04-16 14:59:44
 我记得本科生成绩单是可以网上申请，然后申请邮寄的。
+[http://www.dean.pku.edu.cn/service/web/mainlogin.php](jump-to.php?url=http%3A%2F%2Fwww.dean.pku.edu.cn%2Fservice%2Fweb%2Fmainlogin.php)
+但不知道在校本科生是否可以~
 #quote sacrifice
+
+#p 22233724 jwbhxx 桂花 2020-04-16 15:03:29
+本科生可办理电子成绩单，登录链接——[http://www.dean.pku.edu.cn/service/web/mainlogin.php](jump-to.php?url=http%3A%2F%2Fwww.dean.pku.edu.cn%2Fservice%2Fweb%2Fmainlogin.php)，进去后选申办电子材料，留下邮箱接收电子材料。如需纸质件，也可登录上面链接缴费申办，或可委托在校内的朋友在自助机打印或去新太阳一层南侧106办公室开具后寄出，有问题可以联系62751406或62751435。研究生请关注研究生院官网或微信公众号的相关通知。
+#quote sacrifice
+
+#p 22233728 jwbhxx 桂花 2020-04-16 15:04:51
+在自助机上办不用本人校园卡，可以代刷缴费。
+#quote liuyz
 
