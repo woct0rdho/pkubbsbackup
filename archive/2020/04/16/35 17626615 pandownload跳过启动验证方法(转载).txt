@@ -1,0 +1,11 @@
+#t 35 17626615 ZOEA 2020-04-16 18:57:00 ZOEA 2020-04-16 18:57:00
+pandownload跳过启动验证方法(转载)
+
+#p 22234966 ZOEA 蟹 2020-04-16 18:56:57
+[原文由 ZOEA 发表在 NetResources 版 &gt;&gt;&gt;](post-read.php?bid=209&amp;threadid=17626615)
+可参考
+[https://www.hostloc.com/thread-675311-1-1.html](jump-to.php?url=https%3A%2F%2Fwww.hostloc.com%2Fthread-675311-1-1.html)
+[https://github.com/TkzcM/pandownload-fake-server](jump-to.php?url=https%3A%2F%2Fgithub.com%2FTkzcM%2Fpandownload-fake-server)
+[https://bbs.binmt.cc/thread-40098-1-1.html](jump-to.php?url=https%3A%2F%2Fbbs.binmt.cc%2Fthread-40098-1-1.html)
+等
+
