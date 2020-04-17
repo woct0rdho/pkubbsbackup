@@ -1,4 +1,4 @@
-#t 35 17629095 guangying 2020-04-17 00:11:00 mojave 2020-04-17 16:10:00
+#t 35 17629095 guangying 2020-04-17 00:11:00 qkdbdzh 2020-04-17 22:22:00
 如何增强家中WiFi信号和提高稳定性？
 
 #p 22238117 guangying light 2020-04-17 11:40:38
@@ -57,4 +57,53 @@ mesh其实现在没有很贵啦。tplink新出的都带一键mesh功能
 #p 22239529 mojave 你说得都对 2020-04-17 16:09:53
 我看了一下好像比之前是便宜多了，一只180左右吧好像。
 #quote shanking
+
+#p 22241295 guangying light 2020-04-17 22:08:11
+感谢！好详细！
+我的卧室墙上有个插网线的孔，想问下会不会有帮助？
+#quote mojave
+
+#p 22241311 mojave 你说得都对 2020-04-17 22:10:57
+问一下家里人这条线是去哪的 应该是埋了线的
+#quote guangying
+
+#p 22241316 guangying light 2020-04-17 22:11:08
+嗯嗯，谢谢！
+小白还有个问题，母机是有线电力猫，子机是无线电力猫吗？
+#quote shanking
+
+#p 22241318 redleaves 红叶飘飘 2020-04-17 22:11:49
+用双频多天线路由器，至少2个ssid。将2.4GHz WIFI天线拆下，换成WIFI延长天线。
+#quote guangying
+
+#p 22241322 guangying light 2020-04-17 22:12:37
+如果是埋了线的话可以怎么利用呢？（星星眼）
+#quote mojave
+
+#p 22241332 guangying light 2020-04-17 22:14:34
+谢谢~这是不是就是直接换主路由器呀
+#quote redleaves
+
+#p 22241335 redleaves 红叶飘飘 2020-04-17 22:16:24
+
+
+2020-04-17 22:14:50
+一头接原WIFI路由器的LAN口，另一头接另外一台路由器的WAN口级联。
+#quote guangying
+
+#p 22241339 mojave 你说得都对 2020-04-17 22:15:25
+如果是和某个房间的口相连的，那就能连起来组ac ap了呀
+#quote guangying
+
+#p 22241348 mojave 你说得都对 2020-04-17 22:16:10
+是的 正解
+#quote redleaves
+
+#p 22241362 guangying light 2020-04-17 22:19:05
+好的，感谢~
+#quote mojave
+
+#p 22241387 qkdbdzh Jay 2020-04-17 22:22:56
+再买一个路由器就可以了，分机接力
+#quote guangying
 
