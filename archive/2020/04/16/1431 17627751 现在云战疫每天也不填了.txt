@@ -1,4 +1,4 @@
-#t 1431 17627751 ZLoveC 2020-04-16 00:13:00 jiefu 2020-04-17 19:52:00
+#t 1431 17627751 ZLoveC 2020-04-16 00:13:00 zxwstone 2020-04-17 20:01:00
 现在云战疫每天也不填了
 
 #p 22233359 ZLoveC ZLoveC 2020-04-16 13:55:41
@@ -281,4 +281,14 @@ lz太惨了...
 #p 22240654 jiefu 阿杰 2020-04-17 19:52:17
 “有一些人在核酸检测做了好几遍都呈阴性之后，再做检测时又出现阳性的”……这样的无症状感染者，能传播吗，好奇
 #quote zxwstone
+
+#p 22240687 zxwstone 大王亲自来巡山 2020-04-17 20:16:58
+
+
+2020-04-17 20:00:03
+综合目前的监测和研究，无症状感染者存在传染性
+[http://www.nhc.gov.cn/xcs/nwwd/202004/27e408a9fcba4859b0dc05421d217fb5.shtml](jump-to.php?url=http%3A%2F%2Fwww.nhc.gov.cn%2Fxcs%2Fnwwd%2F202004%2F27e408a9fcba4859b0dc05421d217fb5.shtml)
+现有的无症状感染者主要是通过病例的密切接触者主动筛查、感染来源调查、聚集性疫情调查和对高风险地区人员的主动检测发现的，**尚有部分无症状感染者难以被发现。﻿**
+[http://www.nhc.gov.cn/xcs/nwwd/202004/2d806f5186c04eec926a714d1f56e23b.shtml](jump-to.php?url=http%3A%2F%2Fwww.nhc.gov.cn%2Fxcs%2Fnwwd%2F202004%2F2d806f5186c04eec926a714d1f56e23b.shtml)
+#quote jiefu
 
