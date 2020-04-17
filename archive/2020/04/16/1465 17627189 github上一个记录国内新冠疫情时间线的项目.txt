@@ -1,13 +1,12 @@
-#t 1465 17627189 lijinpei 2020-04-16 00:03:00 Dondonda 2020-04-17 15:54:00
+#t 1465 17627189 lijinpei 2020-04-16 00:03:00 lijinpei 2020-04-17 17:54:00
 github上一个记录国内新冠疫情时间线的项目
 
-#p 22231346 lijinpei 陈冠嘻 2020-04-16 04:00:28
+#p 22231346 lijinpei 陈冠嘻 2020-04-17 17:53:55
 
 
 2020-04-16 03:47:02
 rt [https://github.com/Pratitya/COVID-19-timeline](jump-to.php?url=https%3A%2F%2Fgithub.com%2FPratitya%2FCOVID-19-timeline)
 开源项目的一个好处是可以大家一起出力建设，一起监督。希望在此次事件上，历史不再是任人打扮的小姑娘，希望互联网不再没有记忆。
-PS: 访问github请自备梯子，对于没梯子的同学我搭了个反代 [https://lijinpei.info/COVID-19-timeline](jump-to.php?url=https%3A%2F%2Flijinpei.info%2FCOVID-19-timeline)
 
 #p 22232559 xiangkui 云弥 2020-04-16 11:46:12
 小小吐槽一句，我几乎天天用Github也没用过梯子呀...
@@ -91,4 +90,9 @@ pull request都是仓库主自己审核的啊 根本不存在这样的问题
 还有，这个项目本身没说主题是国内，而且一直也在记录国外、境外的情况，但这些都被淡化了。
 另外，这个不翻墙也能看。强调“自备梯子”也是在设置设置议题，大家的观点都有倾向性的。
 #quote lijinpei
+
+#p 22240087 lijinpei 陈冠嘻 2020-04-17 17:53:34
+说自备梯子是我的失误，我自己挂梯子上github应该是因为网速慢不是上不去，后来我忘了为啥挂梯子上github了，以为是墙了。
+我把我帖子自备梯子部分删了。
+#quote Dondonda
 
