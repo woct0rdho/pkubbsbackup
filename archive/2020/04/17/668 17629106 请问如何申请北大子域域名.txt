@@ -1,4 +1,4 @@
-#t 668 17629106 Rainshaw 2020-04-17 00:11:00 Rainshaw 2020-04-17 13:19:00
+#t 668 17629106 Rainshaw 2020-04-17 00:11:00 Rainshaw 2020-04-17 14:33:00
 请问如何申请北大子域域名
 
 #p 22238170 Rainshaw 傻白甜 2020-04-17 11:50:11
@@ -14,4 +14,12 @@
 #p 22238656 Rainshaw 傻白甜 2020-04-17 13:18:41
 dns解析应该还是由计算中心管辖的吧？
 #quote dingbur
+
+#p 22239005 PKUCC 北京大学计算中心 2020-04-17 14:15:48
+是的，dns解析是由计算中心负责，申请请参见[https://its.pku.edu.cn/service_1_dns.jsp](jump-to.php?url=https%3A%2F%2Fits.pku.edu.cn%2Fservice_1_dns.jsp)   
+#quote Rainshaw
+
+#p 22239095 Rainshaw 傻白甜 2020-04-17 14:32:38
+抱歉，我的账号不知道怎么回事，无法回复私信，看您发的链接还需要先申请服务器账号之类的，我们准备一步步来
+#quote PKUCC
 
