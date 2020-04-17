@@ -1,6 +1,13 @@
-#t 668 17629106 Rainshaw 2020-04-17 11:50:00 Rainshaw 2020-04-17 11:50:00
+#t 668 17629106 Rainshaw 2020-04-17 11:51:00 dingbur 2020-04-17 12:31:00
 请问如何申请北大子域域名
 
 #p 22238170 Rainshaw 傻白甜 2020-04-17 11:50:11
 学院开发了一个网站，想用院系的子域域名，请问该到哪里申请？
+
+#p 22238370 dingbur dingbur 2020-04-17 12:30:12
+打开[https://its.pku.edu.cn/about.jsp](jump-to.php?url=https%3A%2F%2Fits.pku.edu.cn%2Fabout.jsp)，选择“常用办事流程”，点右面的“我要申请pku.edu.cn域名”。页面上显示的是以下两步：
+1、备案：登录[http://register.pku.edu.cn](jump-to.php?url=http%3A%2F%2Fregister.pku.edu.cn)，填写备案信息。
+2、提交：打印纸质备案申请表，签字盖章后交到计算中心1354s。
+这个是挂在pku.edu.cn下面的域名，如果挂在学院下面首先问问学院相关工作人员？
+#quote Rainshaw
 
