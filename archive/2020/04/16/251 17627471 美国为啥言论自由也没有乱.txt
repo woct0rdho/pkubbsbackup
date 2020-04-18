@@ -1,4 +1,4 @@
-#t 251 17627471 bobprime 2020-04-16 00:10:00 lazyted 2020-04-19 01:39:00
+#t 251 17627471 bobprime 2020-04-16 00:10:00 ccmesongshu 2020-04-19 06:08:00
 美国为啥言论自由也没有乱
 
 #p 22232183 bobprime bobprime 2020-04-16 10:44:46
@@ -644,4 +644,10 @@ ins也因为这个封锁吗
 #p 22248601 lazyted lazy 2020-04-19 01:39:08
 媒体有不同的金主不同的立场，但是你无论做什么事情都有另外一方盯着你，你自己也会收敛一点。对老百姓来说不是坏事。如果都一个声音了，那么就能解决提出问题的人了。
 #quote sunwind
+
+#p 22248916 ccmesongshu 松鼠 2020-04-19 06:07:21
+想起来一个相关的flag
+"Hong Kong, although without an electoral democratic system, has press freedom and rule of law, and **there is no evidence that the place has fallen into chaos and anarchy**."
+Yasheng Huang, 2013 ([https://blog.ted.com/why-democracy-still-wins-a-critique-of-eric-x-lis-a-tale-of-two-political-systems/](jump-to.php?url=https%3A%2F%2Fblog.ted.com%2Fwhy-democracy-still-wins-a-critique-of-eric-x-lis-a-tale-of-two-political-systems%2F))
+#quote bobprime
 
