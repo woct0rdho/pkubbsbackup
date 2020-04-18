@@ -1,4 +1,4 @@
-#t 35 17547974 CharlesChou 2020-02-19 00:14:00 CharlesChou 2020-04-18 11:23:00
+#t 35 17547974 CharlesChou 2020-02-19 00:14:00 liwenxin 2020-04-18 13:01:00
 请教：大家有好用的网盘可以推荐吗？
 
 #p 21869707 CharlesChou Annoying Orange 2020-02-21 23:36:17
@@ -212,4 +212,8 @@ onedrive世纪互联几十块钱就好几t了，在北京上海的数据中心�
 我目前的解决方案是用office 365自带的onedrive，把live.com服务器加入番蔷列表，用了一个月感觉还可以。
 再次感谢回复！
 #quote liwenxin
+
+#p 22244143 liwenxin liwenxin 2020-04-18 13:00:47
+没必要用office365吧，买个世纪互联，五六十就买断了……
+#quote CharlesChou
 
