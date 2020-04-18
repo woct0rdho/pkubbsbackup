@@ -1,4 +1,4 @@
-#t 668 17494922 quick 2020-01-08 00:17:00 liwenxin 2020-04-18 05:11:00
+#t 668 17494922 quick 2020-01-08 00:17:00 Hotarubi 2020-04-18 10:12:00
 北大网盘可以支持Webdav吗
 
 #p 21682486 quick quick 2020-01-08 17:33:18
@@ -14,5 +14,9 @@
 
 #p 22242377 liwenxin liwenxin 2020-04-18 05:10:58
 webdav的问题是，用户粘性低，webdav的端口问题你会发现速度传输并不快，而且很容易取代，没有上手门槛，如果楼主需要可以考虑日本的网盘，百度搜索关键词webdav 日本 网盘，也可以考虑自建服务。
+#quote quick
+
+#p 22243248 Hotarubi 是扇底闪躲|或雨水摧折 2020-04-18 10:12:01
+北大网盘不支持，但是教学网是支持的。见[https://bbs.pku.edu.cn/v2/post-read.php?bid=668&amp;threadid=17552527](post-read.php?bid=668&amp;threadid=17552527)
 #quote quick
 
