@@ -1,0 +1,39 @@
+#t 1465 17631592 eagle 2020-04-19 00:13:00 eagle 2020-04-19 00:13:00
+2019 年 12 月 30 日和 31 日部分时间线
+
+#p 22246839 eagle 鹰|理二的李二 2020-04-19 00:12:48
+主要参考资料：[0] [https://pratitya.github.io/COVID-19-timeline/](jump-to.php?url=https%3A%2F%2Fpratitya.github.io%2FCOVID-19-timeline%2F)
+国家卫健委称于 12 月 30 日获悉疫情，卫健委副主任李斌：“23 天前，也就是 2019 年的 12 月 30 日，我委获悉湖北省武汉市发生了聚集性不明原因的病毒性肺炎，第一时间派出国家工作组和专家组，实施国家和省市联动，**指导**支持武汉市全力做好疫情的防治工作。” [1], 卫健委第一批专家组确于 12 月 31 日上午抵汉。
+而据武汉金银潭医院院长张定宇：“到 31 号下午的时候，国家队的专家还有省内的一些专家就过来了，坐满了我们的大会议室……我现在并不知道国家卫健委为什么派专家来，可能是30号晚上我们这**两个阳性结果已经报到国家去**了，也可能是**网络上的舆情引起了国家CDC的警惕**” [2]. 主要梳理跟这两点有关的事件。
+【2019 年 12 月 30 日】
+1. (未明确具体时间) 武汉中心医院收到北京博奥医学检验所反馈该院所收治的 41 岁男性不明肺炎患者的检测报告，该检测报告上标注有 “SARS冠状病毒” 字样 [0]。这份报告即艾芬医生发的 “哨子”。
+2. 14:00 金银潭医院内镜科主任带着护士给七名收治病人做肺泡灌洗 [2]。
+3. 15:10 武汉市卫健委在系统内下发部门文件《关于报送不明原因肺炎救治情况的紧急通知》[3], 要求各有关医疗机构于当日下午四点前将统计表报送至市卫健委医政医管处邮箱 [4]. 
+4. 15:22 《关于报送不明原因肺炎救治情况的紧急通知》被传到网上 [3]. 
+5. 16:00 金银潭医院肺泡灌洗结束，将样品分送至武汉市疾控中心和武汉病毒所，“武汉市卫健委的一位分管领导带着 (武汉市) 疾控中心的人也到了金银潭” [2]. 
+6. 17:30 武汉中心医院李文亮医生 “收到同事发给他的信息” [3]. 
+7. 17:43 李文亮医生在微信群中转发收到的疫情信息：“李文亮医生以 ‘李文亮　武汉　眼科’ 昵称在微信群 ‘武汉大学临床04级’ 中转发、发布 ‘华南水果海鲜市场确诊了 7 例SARS’ ‘在我们医院后湖院区急诊科隔离’ 等文字信息和1张标有 ‘SARS冠状病毒检出〈高置信度〉阳性指标’ 等字样的临床病原体筛查结果图片、1段时长11秒的肺部CT视频” [3]. 
+8. 18:42 李文亮医生更正微信消息：“又在该群发布 ‘最新消息是，冠状病毒感染确定了，正在进行病毒分型’ ‘大家不要外传，让家人亲人注意防范’” [3]. 
+9. 18:50 武汉市卫健委在系统内下发部门文件《关于做好不明原因肺炎救治工作的紧急通知》[3,4]. 
+10. 19:00 《关于做好不明原因肺炎救治工作的紧急通知》被传到网上 [3]. 
+11. 当夜，武汉病毒所对金银潭医院送检样本 “连夜就做了检测，**两个**和SARS冠状病毒相关，测出来是**阳性**” [2]. 
+12. "据经济学家华生称，中国疾控中心主任高福当晚在网上发现了有关武汉市卫健委内部发出了不明原因肺炎紧急通知的相关传闻，随即打电话给武汉市疾控中心负责人了解情况，问他们为什么这么多天来从未向网络系统直报，并连夜给国家卫健委多名领导分别打电话报警" [0,5]. 
+【2019 年 12 月 31 日】
+1. 02:24 台湾 PTT 论坛网友发帖议论大陆相关舆情，贴出上述武汉市卫健委紧急通知与“SARS 病毒检验报告截图” [6]. 
+2. 5:00 有台湾防疫医师转发上述 PTT 论坛帖，台湾疾管署副署长罗一钧看到后开始查证 [7]. 
+3. 8:00 罗一钧 “即請同仁發信給陸方查證訊息真假，另一方面也和世界衛生組織（WHO）IHR窗口發訊說明並盼對方分享疫情訊息” [8]. 此消息得到国台办侧面验证，但与武汉卫健委发布公告时间先后顺序似有龃龉: “去年12月31日，台卫生部门还向国家卫健委发函了解武汉卫健委公布的信息，国家卫健委通过两岸医药卫生合作协议联系窗口书面回复台方，请其参考武汉卫健委公布的情况通报” [9].
+4. 11:00 以前，国家卫健委第一批专家组抵达武汉 [10]. 
+5. 13:38 武汉市卫健委在其网站发布《关于当前我市肺炎疫情的情况通报》[11]. 
+【其他参考资料】
+[1] [http://www.gov.cn/xinwen/2020-01/22/content_5471560.htm](jump-to.php?url=http%3A%2F%2Fwww.gov.cn%2Fxinwen%2F2020-01%2F22%2Fcontent_5471560.htm)
+[2] [https://weibo.com/ttarticle/p/show?id=2309404483446197059980&amp;sudaref=github.com&amp;display=0&amp;retcode=6102&amp;sudaref=passport.weibo.com](jump-to.php?url=https%3A%2F%2Fweibo.com%2Fttarticle%2Fp%2Fshow%3Fid%3D2309404483446197059980%26sudaref%3Dgithub.com%26display%3D0%26retcode%3D6102%26sudaref%3Dpassport.weibo.com)
+[3] [http://www.xinhuanet.com/politics/2020-03/19/c_1125737457.htm](jump-to.php?url=http%3A%2F%2Fwww.xinhuanet.com%2Fpolitics%2F2020-03%2F19%2Fc_1125737457.htm)
+[4] [http://hb.people.com.cn/n2/2019/1231/c192237-33678978.html](jump-to.php?url=http%3A%2F%2Fhb.people.com.cn%2Fn2%2F2019%2F1231%2Fc192237-33678978.html)
+[5] [https://m.yicai.com/news/100507289.html](jump-to.php?url=https%3A%2F%2Fm.yicai.com%2Fnews%2F100507289.html)
+[6] [https://www.ptt.cc/bbs/Gossiping/M.1577730263.A.177.html](jump-to.php?url=https%3A%2F%2Fwww.ptt.cc%2Fbbs%2FGossiping%2FM.1577730263.A.177.html)
+[7] [https://www.chinatimes.com/cn/realtimenews/20200415004810-260405?chdtv](jump-to.php?url=https%3A%2F%2Fwww.chinatimes.com%2Fcn%2Frealtimenews%2F20200415004810-260405%3Fchdtv)
+[8] [https://www.ettoday.net/news/20200415/1692371.htm](jump-to.php?url=https%3A%2F%2Fwww.ettoday.net%2Fnews%2F20200415%2F1692371.htm)
+[9] [http://www.gwytb.gov.cn/wyly/202004/t20200417_12266749.htm](jump-to.php?url=http%3A%2F%2Fwww.gwytb.gov.cn%2Fwyly%2F202004%2Ft20200417_12266749.htm)
+[10] [http://m.news.cctv.com/2019/12/31/ARTIsg2QlHWoHQixNnJMlIHb191231.shtml](jump-to.php?url=http%3A%2F%2Fm.news.cctv.com%2F2019%2F12%2F31%2FARTIsg2QlHWoHQixNnJMlIHb191231.shtml)
+[11] [http://wjw.wuhan.gov.cn/front/web/showDetail/2019123108989](jump-to.php?url=http%3A%2F%2Fwjw.wuhan.gov.cn%2Ffront%2Fweb%2FshowDetail%2F2019123108989)
+
