@@ -1,4 +1,4 @@
-#t 35 17629095 guangying 2020-04-17 00:11:00 nokay 2020-04-18 17:50:00
+#t 35 17629095 guangying 2020-04-17 00:11:00 AugustBreeze 2020-04-18 18:48:00
 如何增强家中WiFi信号和提高稳定性？
 
 #p 22238117 guangying light 2020-04-17 11:40:38
@@ -202,5 +202,9 @@ mesh其实现在没有很贵啦。tplink新出的都带一键mesh功能
 
 #p 22245251 nokay 实话实说 2020-04-18 17:49:45
 q2 pro 很好用
+#quote guangying
+
+#p 22245525 AugustBreeze 八月 2020-04-18 18:48:05
+羡慕这多层楼房…… 在家封闭那会儿快憋死了……
 #quote guangying
 
