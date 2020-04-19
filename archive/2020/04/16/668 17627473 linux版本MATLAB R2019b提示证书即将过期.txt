@@ -1,4 +1,4 @@
-#t 668 17627473 Borease 2020-04-16 00:10:00 RyanBern 2020-04-19 11:34:00
+#t 668 17627473 Borease 2020-04-16 00:10:00 lightweight 2020-04-19 12:37:00
 linux版本MATLAB R2019b提示证书即将过期
 
 #p 22232190 Borease 松户车站站长 2020-04-16 10:46:04
@@ -21,7 +21,6 @@ linux版本MATLAB R2019b提示证书即将过期
 #quote Borease
 
 #p 22234404 PKUCC 北京大学计算中心 2020-04-16 17:26:45
-#DELETED
 在导航菜单栏，点击帮助 &gt; 许可 &gt; 激活软件
 选择“使用Internet自动激活”，并输入MathWorks账户（北京大学邮箱），点击“下一步”直至激活完成。
 #quote Borease
@@ -53,5 +52,9 @@ linux版本MATLAB R2019b提示证书即将过期
 #p 22250008 RyanBern r.bern 2020-04-19 11:34:11
 目前个人版可以更新成功，显示 license 到期时间是 2020 年 6 月 29 日。
 机房版 (Concurrent) 的好像仍然有问题，这个应该需要更新校内 matlab 证书服务器的文件，麻烦老师看一下。
+#quote PKUCC
+
+#p 22250424 lightweight lightweight 2020-04-19 12:36:51
+WINDOW MATLAB R2016b 安装的网络版，请问怎么处理呀？提示还有11天就过期了。。。。
 #quote PKUCC
 
