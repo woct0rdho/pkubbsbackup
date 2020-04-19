@@ -1,4 +1,4 @@
-#t 668 17627473 Borease 2020-04-16 00:10:00 lightweight 2020-04-19 12:37:00
+#t 668 17627473 Borease 2020-04-16 00:10:00 miumiumiu 2020-04-19 17:52:00
 linux版本MATLAB R2019b提示证书即将过期
 
 #p 22232190 Borease 松户车站站长 2020-04-16 10:46:04
@@ -57,4 +57,8 @@ linux版本MATLAB R2019b提示证书即将过期
 #p 22250424 lightweight lightweight 2020-04-19 12:36:51
 WINDOW MATLAB R2016b 安装的网络版，请问怎么处理呀？提示还有11天就过期了。。。。
 #quote PKUCC
+
+#p 22251798 miumiumiu 一个萝卜 2020-04-19 17:52:11
+加1.激活完显示6月到期。计算中心加油！
+#quote RyanBern
 
