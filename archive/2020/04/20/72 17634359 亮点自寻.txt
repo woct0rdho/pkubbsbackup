@@ -1,4 +1,4 @@
-#t 72 17634359 albertgd 2020-04-20 00:22:00 nestal 2020-04-21 22:27:00
+#t 72 17634359 albertgd 2020-04-20 00:22:00 albertgd 2020-04-21 23:56:00
 亮点自寻
 
 #p 22260500 albertgd Albert Einstain 2020-04-20 22:24:10
@@ -154,31 +154,37 @@ emmm，明明是很纯洁的讨论
 #quote albertgd
 
 #p 22264460 hahayay 哈哈哈哈 2020-04-21 16:59:53
+#DELETED
 （话说，为什么你能at上别人。。。我为什么at不了别人。。。。。。有版友告诉我加空格，但是你的at也没加空格的样子。。。这是为啥。。。。
 #quote dyys
 
 #p 22264470 Chips 我的鱼在哪 2020-04-21 17:00:51
+#DELETED
 @hahayay
 直接at不了嘛_(:з」∠)_
 #quote hahayay
 
 #p 22264485 hahayay 哈哈哈哈 2020-04-21 17:03:24
+#DELETED
 成功了呀，你这条信息我有两条提醒。。。那我也试试。。。@Chips
 (你有收到两条提醒咩？
 #quote Chips
 
 #p 22264489 Chips 我的鱼在哪 2020-04-21 17:03:58
+#DELETED
 只……只有一条……
 w(ﾟДﾟ)w
 看来可能真有bug？
 #quote hahayay
 
 #p 22264490 hahayay 哈哈哈哈 2020-04-21 17:04:35
+#DELETED
 这是为啥啊。。。。那我试试加个空格呢。。。。@ Chips
 这次呢？
 #quote Chips
 
 #p 22264497 Chips 我的鱼在哪 2020-04-21 17:05:57
+#DELETED
 这应该就是不行了
 按理来说at和ID之间不能加空格
 @Chips
@@ -186,10 +192,12 @@ w(ﾟДﾟ)w
 #quote hahayay
 
 #p 22264500 Chips 我的鱼在哪 2020-04-21 17:06:26
+#DELETED
 【我甚至收到了自己at自己的消息…
 #quote Chips
 
 #p 22264510 hahayay 哈哈哈哈 2020-04-21 17:07:52
+#DELETED
 @Chips 这次呢？
 #quote Chips
 
@@ -198,18 +206,22 @@ w(ﾟДﾟ)w
 #quote Chips
 
 #p 22264515 Chips 我的鱼在哪 2020-04-21 17:08:29
+#DELETED
 咦，收到了！(((o(*ﾟ▽ﾟ*)o)))
 #quote hahayay
 
 #p 22264517 hahayay 哈哈哈哈 2020-04-21 17:09:17
+#DELETED
 啊呀！！我再试一下，@Chips 这次呢？
 #quote Chips
 
 #p 22264519 Chips 我的鱼在哪 2020-04-21 17:09:43
+#DELETED
 【这次又没有收到(つД`)ノ
 #quote hahayay
 
 #p 22264526 hahayay 哈哈哈哈 2020-04-21 17:11:27
+#DELETED
 [@Chips ]这个呢。。。。（天。。。咋感觉这个@成功的事件是随机的呢。。。。
 #quote Chips
 
@@ -225,6 +237,7 @@ w(ﾟДﾟ)w
 #quote hahayay
 
 #p 22264539 hahayay 哈哈哈哈 2020-04-21 17:13:39
+#DELETED
 [@Chips ][@Chips ][@Chips ][@Chips ]
 那现在你有收到5条提醒咩？
 #quote Chips
@@ -235,6 +248,7 @@ w(ﾟДﾟ)w
 #quote hahayay
 
 #p 22264544 Chips 我的鱼在哪 2020-04-21 17:14:17
+#DELETED
 🤣收到了一条回复和一条提醒
 #quote hahayay
 
@@ -277,4 +291,23 @@ ts 最近暴毙也不少，倒是你可以站内微信，回头季后赛你要�
 #p 22266168 nestal 天线宝宝 2020-04-21 22:26:54
 碰瓷水平太低，姿势也很难看。说的就是你。
 #quote dyys
+
+#p 22266514 floweret 花姊姊 2020-04-21 23:49:59
+你还不如说我是鹊桥秩序维护者比较准确点。。。只不过某些“打假”人士想维护的秩序，和我想维护的秩序不一致而已。
+我希望鼓励更多的人上鹊桥征友，乐见鹊桥热闹起来，多成几对，而不是看着身边的好女生一个个因为鹊桥那些尖酸刻薄的言论打消了征友的念头。
+#quote dyys
+
+#p 22266528 floweret 花姊姊 2020-04-21 23:53:40
+硬要我评论这个图的话，我的评论就是：不得体。
+穿衣自由＝在合适的场合可以瞎穿≠在什么场合都可以瞎穿。
+#quote albertgd
+
+#p 22266529 xongkorohui 惠愚 2020-04-21 23:53:45
+@hahayay  @Chips
+根据版规2.3.6，测试@功能的都删了哦
+#quote albertgd
+
+#p 22266540 albertgd Albert Einstain 2020-04-21 23:55:57
+确实是，公众形象更应该注意
+#quote floweret
 
