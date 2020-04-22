@@ -1,16 +1,16 @@
-#t 35 16264150 hiaoxui 2017-11-10 00:00:00 hiaoxui 2020-04-18 09:55:00
+#t 35 16264150 hiaoxui 2017-11-10 00:00:00 zhaojingyi 2020-04-22 16:32:00
 科学上网, SSR 服务器分享
 
-#p 17134091 hiaoxui 小辉 2020-04-13 16:28:59
+#p 17134091 hiaoxui 小辉 2020-04-18 12:52:14
 
 
 2017-11-10 23:53:54
-重要更新: 我已恢复 IPv4 的访问, 但使用方法有一些变化. 请在使用前务必阅读这篇 blog: [https://blog.hiaoxui.com/blog/post/hiaoxui/whitelist-notice-zh](jump-to.php?url=https%3A%2F%2Fblog.hiaoxui.com%2Fblog%2Fpost%2Fhiaoxui%2Fwhitelist-notice-zh)
+重要更新: 我已恢复 IPv4 的访问, 但使用方法有一些变化. 请在使用前务必阅读这篇 blog: [https://blog.hiaoxui.com/blog/post/hiaoxui/sub-notice-zh](jump-to.php?url=https%3A%2F%2Fblog.hiaoxui.com%2Fblog%2Fpost%2Fhiaoxui%2Fsub-notice-zh)
 ------------------------------
 北京大学并没有提供官方的翻墙途径, 但是我们的科研学习中无可避免地需要用到 Wikipedia 和 Google 等网站. 为了解决这个矛盾, 我决定向北京大学的师生校友提供这项服务. 我只面向北京大学校友提供服务, 恕不回复北京大学邮箱 (@pku.edu.cn / @bjmu.edu.cn / @*.pku.eud.cn / @pku.org) 之外的邮件.
 如果你没有任何翻墙经验, 请阅读教程: [https://blog.hiaoxui.com/blog/post/hiaoxui/ssr-manual-zh](jump-to.php?url=https%3A%2F%2Fblog.hiaoxui.com%2Fblog%2Fpost%2Fhiaoxui%2Fssr-manual-zh)
 以上教程适用于 Windows 系统, OS X 系统 (苹果电脑), Android 系统 和 iOS 系统. 
-如果你之前使用过 SSR 服务, 现在只是缺少服务器, 请在 [https://hiaoxui.com/ssr/register](jump-to.php?url=https%3A%2F%2Fhiaoxui.com%2Fssr%2Fregister) 中获取一份配置信息.
+如果你之前使用过 SSR 服务, 现在只是缺少服务器, 请在 [https://wallesspku.space/ssr/register](jump-to.php?url=https%3A%2F%2Fwallesspku.space%2Fssr%2Fregister) 中获取一份配置信息.
 如果你遇到了什么问题, 请参考这个链接:
 [https://blog.hiaoxui.com/blog/post/hiaoxui/ssr-faq-zh](jump-to.php?url=https%3A%2F%2Fblog.hiaoxui.com%2Fblog%2Fpost%2Fhiaoxui%2Fssr-faq-zh)
 本人无意借此项目盈利, 服务**不收取费用**. 如果您使用我的服务, 则代表您已经阅读并同意以下协议:
@@ -2136,7 +2136,7 @@ IPv6 丢包率奇高, 至今不知道为什么. 印象里丢包率直逼 50%.
 梯子就楼主提供的服务器，发现手机热点和电信wifi，科大BBS上显示的都是同一个2400:8907开头的ip地址，然后都能登录BYR，之前wifi不能登不造为啥，可能因为比较慢响应超时了。。。
 #quote hcwanghao
 
-#p 22118005 Repunzel 赞赞子 2020-03-31 14:11:26
+#p 22118005 Repunzel 耶啵 2020-03-31 14:11:26
 请问楼主最近使用恢复了么？我三月开始连不上了，但不确定是我一个人还是大家都一样～
 #quote hiaoxui
 
@@ -2148,7 +2148,7 @@ IPv6 丢包率奇高, 至今不知道为什么. 印象里丢包率直逼 50%.
 辛苦了！
 #quote hiaoxui
 
-#p 22149821 Repunzel 赞赞子 2020-04-03 13:49:36
+#p 22149821 Repunzel 耶啵 2020-04-03 13:49:36
 谢谢学长！学长辛苦了～
 #quote hiaoxui
 
@@ -2213,4 +2213,8 @@ IPv6 丢包率奇高, 至今不知道为什么. 印象里丢包率直逼 50%.
 软件是我自己打包的, 大概是打包时出问题了.
 我换到原来的版本了, 你重新下载安装试试?
 #quote vylen
+
+#p 22269952 zhaojingyi 无妄 2020-04-22 16:32:34
+按照提示更新成了订阅模式，但是谷歌学术打不开，其他正常
+#quote hiaoxui
 
