@@ -1,0 +1,35 @@
+#t 668 17636916 jiamingpku 2020-04-22 21:39:00 jiamingpku 2020-04-22 21:39:00
+Re 你在远程科研中遇到了哪些困难？是怎么解(转载)
+
+#p 22271335 jiamingpku jiamingpku 2020-04-22 21:38:23
+[原文由 xinxinxinxin 发表在 2019nCoV 版 &gt;&gt;&gt;](post-read.php?bid=1465&amp;threadid=17636916)
+诶，从校外连接校内电脑的所有端口都被封掉了，ssh和rdp都被禁掉了。需要挂上vpn或者用wpn连接。
+vpn吧……bbs上反正反映不好用的人挺多。个人来说吧，在外地时候明显有点卡，就算在北京比直接连接来说还是要卡一点。
+之前bbs上讨论过几波，后来就没人提了
+有一波帖子上了十大，后来学校就推出了wpn，也就这样了。可wpn一个网页阉割版的远程方式，个人觉得开发这个系统应该需要花很大的力气，但是其实挺鸡肋的。
+再后来大家刚知道不能返校的时候又讨论了一波，再后来就又不了了之了。
+我还是觉得，所谓的网络安全是为正常生产服务的，安全不是为了把大家的正常工作限制掉。如果为了所谓的还没有存在的安全问题把正常的工作限制掉了，那恐怕是处理安全准则的人的问题。当然这是假设确实是因为网络安全问题采取的措施。虽然还是默默觉得也许不只是网络安全问题。
+之后来的所有人会觉得不能访问是自然而然的一件事。就像小孩们已经觉得访问不了谷歌等网站是自然而然的事。以后再也不会有人问为什么有人去抗争自由。
+x  
+去年年底的一些讨论帖：
+[https://bbs.pku.edu.cn/v2/post-read.php?bid=668&amp;threadid=17378096](post-read.php?bid=668&amp;threadid=17378096)
+[https://bbs.pku.edu.cn/v2/post-read.php?bid=668&amp;threadid=17378096](post-read.php?bid=668&amp;threadid=17378096)
+[https://bbs.pku.edu.cn/v2/post-read.php?bid=668&amp;threadid=17380512](post-read.php?bid=668&amp;threadid=17380512)
+[https://bbs.pku.edu.cn/v2/post-read.php?bid=668&amp;threadid=17348964](post-read.php?bid=668&amp;threadid=17348964)
+[https://bbs.pku.edu.cn/v2/post-read.php?bid=668&amp;threadid=17359816](post-read.php?bid=668&amp;threadid=17359816)
+[https://bbs.pku.edu.cn/v2/post-read.php?bid=668&amp;threadid=17381299](post-read.php?bid=668&amp;threadid=17381299)
+疫情刚开始的一些讨论帖：
+[https://bbs.pku.edu.cn/v2/post-read.php?bid=668&amp;threadid=17600727](post-read.php?bid=668&amp;threadid=17600727)
+[https://bbs.pku.edu.cn/v2/post-read.php?bid=668&amp;threadid=17600444](post-read.php?bid=668&amp;threadid=17600444)
+[https://bbs.pku.edu.cn/v2/post-read.php?bid=668&amp;threadid=17519954](post-read.php?bid=668&amp;threadid=17519954)
+[https://bbs.pku.edu.cn/v2/post-read.php?bid=668&amp;threadid=17539513](post-read.php?bid=668&amp;threadid=17539513)
+[https://bbs.pku.edu.cn/v2/post-read.php?bid=668&amp;threadid=17518502](post-read.php?bid=668&amp;threadid=17518502)
+[https://bbs.pku.edu.cn/v2/post-read.php?bid=668&amp;threadid=17489993](post-read.php?bid=668&amp;threadid=17489993)
+[https://bbs.pku.edu.cn/v2/post-read.php?bid=668&amp;threadid=17414893](post-read.php?bid=668&amp;threadid=17414893)
+典型吐槽：
+太多了，看到了随便复制了几条
+[https://bbs.pku.edu.cn/v2/post-read.php?bid=668&amp;threadid=17590497](post-read.php?bid=668&amp;threadid=17590497)
+[https://bbs.pku.edu.cn/v2/post-read.php?bid=668&amp;threadid=17548283](post-read.php?bid=668&amp;threadid=17548283)
+[https://bbs.pku.edu.cn/v2/post-read.php?bid=668&amp;threadid=17536479](post-read.php?bid=668&amp;threadid=17536479)
+#quote nesr
+
