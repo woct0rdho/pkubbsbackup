@@ -1,4 +1,4 @@
-#t 35 17635620 smszhazha 2020-04-21 19:21:00 smszhazha 2020-04-21 19:22:00
+#t 35 17635620 smszhazha 2020-04-21 00:19:00 ygangy 2020-04-22 08:56:00
 求助：怎样卸载流氓软件的文件(转载)
 
 #p 22265170 smszhazha smszhazha 2020-04-21 19:20:59
@@ -10,4 +10,9 @@
 #p 22265173 smszhazha smszhazha 2020-04-21 19:21:42
 好像这个版人更多一点，想被更多的人看到
 #quote smszhazha
+
+#p 22267648 ygangy 鲛绡透 2020-04-22 08:56:09
+据说geek卸载软件挺好用的，我也不清楚行不行
+#quote smszhazha
+发自我的“北大未名”iOS客户端([http://t.cn/R7ZhtYc](jump-to.php?url=http%3A%2F%2Ft.cn%2FR7ZhtYc))
 

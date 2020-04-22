@@ -1,4 +1,4 @@
-#t 72 17624073 albertgd 2020-04-13 21:39:00 albertgd 2020-04-13 22:13:00
+#t 72 17624073 albertgd 2020-04-13 00:21:00 JsYc 2020-04-22 08:57:00
 听说快乐有三宝
 
 #p 22216692 albertgd Albert Einstain 2020-04-13 21:39:41
@@ -19,4 +19,8 @@
 #p 22216861 albertgd Albert Einstain 2020-04-13 22:12:44
 哈哈，广告做劈叉了
 #quote Chips
+
+#p 22267652 JsYc JsYc 2020-04-22 08:57:07
+开心、快乐、笑
+#quote albertgd
 
