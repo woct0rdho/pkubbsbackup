@@ -1,4 +1,4 @@
-#t 1465 17638364 lea 2020-04-23 00:18:00 JUSTBE 2020-04-23 21:19:00
+#t 1465 17638364 lea 2020-04-23 00:18:00 Nd 2020-04-24 06:47:00
 美国首例死亡病例时间提前
 
 #p 22275929 lea 无爱即无忧 2020-04-23 18:43:12
@@ -37,4 +37,9 @@ Lam Research是做半导体设备的，武汉的长江存储等公司肯定是�
 #p 22276569 JUSTBE MYSELF 2020-04-23 21:19:01
 Dowd had a history of foreign travel
 #quote Nd
+
+#p 22277789 Nd 中华门站 2020-04-24 06:46:34
+Dowd had planned to travel to China later this year
+这句话传达出来的信息是她近期没有到过中国。
+#quote JUSTBE
 
