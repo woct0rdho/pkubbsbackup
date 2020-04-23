@@ -1,4 +1,4 @@
-#t 1465 17635575 Backkom 2020-04-21 00:18:00 XIIL 2020-04-22 11:50:00
+#t 1465 17635575 Backkom 2020-04-21 00:18:00 zt 2020-04-23 18:15:00
 德国隔壁法国抗疫差异大
 
 #p 22264975 Backkom 倒霉熊 2020-04-21 18:36:27
@@ -26,5 +26,10 @@
 #p 22268508 XIIL 绝尘 2020-04-22 11:49:10
 刚看了一篇文 可能有答案
 [https://3g.163.com/news/article/FAQCMKP5000189PS.html?clickfrom=channel2018_news_newsList&amp;ver=c#offset=20](jump-to.php?url=https%3A%2F%2F3g.163.com%2Fnews%2Farticle%2FFAQCMKP5000189PS.html%3Fclickfrom%3Dchannel2018_news_newsList%26ver%3Dc%23offset%3D20)
+#quote Backkom
+
+#p 22275815 zt 风轻花落迟 2020-04-23 18:14:58
+据说是德国只统计确诊之后死亡的，如果没确诊就死亡了就不检测了。而且有的州是只有“死于新冠”才算，确诊之后如果因为别的疾病死亡则不算。
+法国是各种情况都算上了。
 #quote Backkom
 
