@@ -1,4 +1,4 @@
-#t 1465 17638364 lea 2020-04-23 00:18:00 Nd 2020-04-23 20:12:00
+#t 1465 17638364 lea 2020-04-23 00:18:00 JUSTBE 2020-04-23 21:19:00
 美国首例死亡病例时间提前
 
 #p 22275929 lea 无爱即无忧 2020-04-23 18:43:12
@@ -33,4 +33,8 @@ Lam Research是做半导体设备的，武汉的长江存储等公司肯定是�
 #p 22276236 Nd 中华门站 2020-04-23 20:11:58
 [https://news.yahoo.com/healthy-woman-suddenly-died-she-005652793.html](jump-to.php?url=https%3A%2F%2Fnews.yahoo.com%2Fhealthy-woman-suddenly-died-she-005652793.html)
 #quote zheshishenme
+
+#p 22276569 JUSTBE MYSELF 2020-04-23 21:19:01
+Dowd had a history of foreign travel
+#quote Nd
 
