@@ -1,10 +1,22 @@
-#t 1465 17639046 dingbur 2020-04-24 07:58:00 dingbur 2020-04-24 07:58:00
+#t 1465 17639046 dingbur 2020-04-24 00:07:00 Koppelbarg 2020-04-24 10:54:00
 纽约州新冠抗体测试，三千人中13.9%阳性
 
-#p 22277881 dingbur dingbur 2020-04-24 07:57:28
+#p 22277881 dingbur dingbur 2020-04-24 10:15:52
+
+
+2020-04-24 07:57:28
 纽约州州长安德鲁・科莫在美国时间4月23日称，纽约州一项对3000人进行的抗体测试中，13.9%的人新冠抗体呈阳性。其中纽约市阳性率高达21%，长岛约17%，西切斯特县和罗克兰县约为12%，纽约州其他地方4%。
-值得注意的是，样本是在外出活动的人群中抽取的，可能存在偏差。但从一定程度上反映出纽约州（以及其他地方）新冠病毒的传播很可能远比想像中广泛。纽约时报还提到也有研究称加州圣克拉拉县携带病毒抗体的比例很可能在2.49%-4.16%之间（链接见文末）。
+值得注意的是，样本是在外出活动的人群中抽取的，可能存在偏差。但从一定程度上反映出纽约州（以及其他地方）新冠病毒的传播很可能远比想像中广泛且开始时间更早。纽约时报还提到有研究称加州圣克拉拉县携带病毒抗体的比例很可能在2.49%-4.16%之间（链接见文末）。
 CNN：[https://www.cnn.com/2020/04/23/health/us-coronavirus-thursday/index.html](jump-to.php?url=https%3A%2F%2Fwww.cnn.com%2F2020%2F04%2F23%2Fhealth%2Fus-coronavirus-thursday%2Findex.html) （标题：Preliminary antibody testing in New York suggests much wider spread of coronavirus）
 纽约时报：[https://www.nytimes.com/2020/04/23/nyregion/coronavirus-antibodies-test-ny.html?action=click&amp;module=Top%20Stories&amp;pgtype=Homepage](jump-to.php?url=https%3A%2F%2Fwww.nytimes.com%2F2020%2F04%2F23%2Fnyregion%2Fcoronavirus-antibodies-test-ny.html%3Faction%3Dclick%26module%3DTop%2520Stories%26pgtype%3DHomepage) （标题：1 in 5 New Yorkers May Have Had Covid-19, Antibody Tests Suggest）
 加州圣克拉拉县的抗体状况研究：[https://www.medrxiv.org/content/10.1101/2020.04.14.20062463v1](jump-to.php?url=https%3A%2F%2Fwww.medrxiv.org%2Fcontent%2F10.1101%2F2020.04.14.20062463v1)
+
+#p 22278310 liuyz liuyz 2020-04-24 10:09:25
+herd immunity快成了，方肘子恐成最大赢家。
+#quote dingbur
+
+#p 22278552 Koppelbarg 云中 2020-04-24 10:53:21
+每个民族的特性不一样，纽约人这次还是很能忍苦的，大量的人扛过去了
+既然如此，等到阳性增长到50%左右，疫情自然过去，而且是永远解决了
+#quote dingbur
 
