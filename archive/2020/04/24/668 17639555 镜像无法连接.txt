@@ -1,4 +1,4 @@
-#t 668 17639555 xiaoqiezi 2020-04-24 00:15:00 HANZPAN 2020-04-24 19:26:00
+#t 668 17639555 xiaoqiezi 2020-04-24 00:15:00 Smallst 2020-04-24 21:00:00
 镜像无法连接
 
 #p 22279900 xiaoqiezi 小茄子 2020-04-24 15:40:29
@@ -24,5 +24,13 @@
 
 #p 22280884 HANZPAN 阿拉伯婆婆纳 2020-04-24 19:25:12
 emm楼主断了VPN试试看，我前两天还连上了上海的镜像装了R包
+#quote xiaoqiezi
+
+#p 22281209 quicy quicy 2020-04-24 20:26:22
+确实不需要连学校的 VPN 啊
+#quote xiaoqiezi
+
+#p 22281341 Smallst Fox loves sea. 2020-04-24 20:59:59
+你先把vpn断了，然后先试试在网页上打开镜像的根目录，比如mirrors.ustc.edu.cn，能打开那么你就能使用这个镜像，如果都打不开那。。你试试不要https用http
 #quote xiaoqiezi
 
