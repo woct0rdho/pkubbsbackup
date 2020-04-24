@@ -1,4 +1,4 @@
-#t 1465 17638364 lea 2020-04-23 00:18:00 Nd 2020-04-24 06:47:00
+#t 1465 17638364 lea 2020-04-23 00:18:00 niuxg 2020-04-24 15:23:00
 美国首例死亡病例时间提前
 
 #p 22275929 lea 无爱即无忧 2020-04-23 18:43:12
@@ -42,4 +42,8 @@ Dowd had a history of foreign travel
 Dowd had planned to travel to China later this year
 这句话传达出来的信息是她近期没有到过中国。
 #quote JUSTBE
+
+#p 22279834 niuxg dangdangdang 2020-04-24 15:22:42
+也有可能是她的同事把病毒带到武汉去的。
+#quote Nd
 
