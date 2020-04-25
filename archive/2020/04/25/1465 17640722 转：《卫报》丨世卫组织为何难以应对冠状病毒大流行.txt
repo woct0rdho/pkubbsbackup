@@ -1,4 +1,4 @@
-#t 1465 17640722 halala 2020-04-25 00:13:00 euio 2020-04-25 16:56:00
+#t 1465 17640722 halala 2020-04-25 00:13:00 eagle 2020-04-26 00:21:00
 转：《卫报》丨世卫组织为何难以应对冠状病毒大流行
 
 #p 22283756 halala 不爱学习 2020-04-25 13:30:59
@@ -53,5 +53,13 @@ Stephen Buranyi, The WHO v coronavirus: why it can't handle the pandemic, The Gu
 
 #p 22284549 euio 耳目一心 2020-04-25 16:55:50
 &gt;本文有删节。
+#quote halala
+
+#p 22286447 eagle 鹰|理二的李二 2020-04-26 00:21:04
+一个细节：“世卫组织紧急委员会顾问约翰麦肯齐告诉我，当12月31日政府向世卫组织发出警报时，中国科学家已经通过基因组测序确定疫情是由冠状病毒引起的。然而，政府直到1月7日才确认，并直到1月12日才正式分享完整的基因组序列。‘**这太慢了**，’麦肯齐告诉我，‘在至少两周时间里，我们本可以制造更多的试剂盒等用于检测。’”
+这里说明至少在该顾问看来，天朝上传和分享病毒基因测序的动作还是慢了，而非之前国内宣传的 “迅速”、“第一时间”。
+对照原文，这一段后的删节部分用下划线标明
+“John MacKenzie, the WHO’s emergency committee adviser, <u>told me that the organisation was ‘</u><u>**a little misled**</u><u>’ about the Wuhan outbreak.</u> He says that by the time the government alerted the WHO on 31 December, scientists in China had already determined via genome sequencing that the outbreak was caused by coronavirus. Yet the government didn’t confirm that until 7 January and the full genome sequence was not officially shared until 12 January. “That’s very slow,” MacKenzie told me. “For at least two weeks, we could have been making far more kits and so on for testing.” <u>MacKenzie added that the number of cases officially declared by the Chinese in the first week – 59 in the week ending 5 January – was “nowhere near as many cases as you’d expect”. (The statistics released by the Chinese government continue to be questioned, with some reports suggesting they may have seriously understated the number of coronavirus deaths.)</u>
+<u>Despite mounting frustrations – in mid-January, China also refused the WHO’s request to send a team of scientific observers to Hubei province, the centre of the outbreak – Tedros has never come close to doing what Brundtland did and calling China out.</u>  ”
 #quote halala
 
