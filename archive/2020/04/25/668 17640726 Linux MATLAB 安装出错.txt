@@ -1,4 +1,4 @@
-#t 668 17640726 Twentyseven 2020-04-25 13:34:00 PKUCC 2020-04-25 13:47:00
+#t 668 17640726 Twentyseven 2020-04-25 13:34:00 Twentyseven 2020-04-25 14:06:00
 Linux MATLAB 安装出错
 
 #p 22283767 Twentyseven Poppy 2020-04-25 13:33:32
@@ -9,4 +9,8 @@ Linux MATLAB 安装出错
 #p 22283821 PKUCC 北京大学计算中心 2020-04-25 13:47:12
 需要联网，具体请查看正版软件平台中的使用帮助
 #quote Twentyseven
+
+#p 22283905 Twentyseven Poppy 2020-04-25 14:05:15
+联网了 但是好像还是不行
+#quote PKUCC
 
