@@ -1,0 +1,12 @@
+#t 668 17640726 Twentyseven 2020-04-25 13:34:00 PKUCC 2020-04-25 13:47:00
+Linux MATLAB 安装出错
+
+#p 22283767 Twentyseven Poppy 2020-04-25 13:33:32
+命令行中运行./install后选择Mathworks账户，提示连接错误：应用程序无法连接到Mathworks
+如果选择秘钥，输入秘钥确定之后会直接退出。
+用的是deepin，希望帮忙解答～谢谢！
+
+#p 22283821 PKUCC 北京大学计算中心 2020-04-25 13:47:12
+需要联网，具体请查看正版软件平台中的使用帮助
+#quote Twentyseven
+
