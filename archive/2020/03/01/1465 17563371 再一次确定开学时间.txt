@@ -1,4 +1,4 @@
-#t 1465 17563371 buceleealive 2020-03-01 00:08:00 juruo 2020-04-26 11:36:00
+#t 1465 17563371 buceleealive 2020-03-01 00:08:00 buceleealive 2020-04-26 12:24:00
 再一次确定开学时间
 
 #p 21919820 buceleealive Bruceleeonline 2020-03-01 08:17:16
@@ -87,4 +87,8 @@
 #p 22287842 juruo 蒟蒻太蒻了嘤嘤嘤 2020-04-26 11:35:50
 又倒一个flag
 #quote buceleealive
+
+#p 22288023 buceleealive Bruceleeonline 2020-04-26 12:23:47
+已经倒了，猝不及防！
+#quote juruo
 
