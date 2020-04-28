@@ -1,4 +1,4 @@
-#t 35 17629605 victim 2020-04-17 00:17:00 intactcircle 2020-04-28 14:54:00
+#t 35 17629605 victim 2020-04-17 00:17:00 vimacs 2020-04-28 16:39:00
 为什么连上pulse secure，就不能用ss上google了？
 
 #p 22240103 victim 维克托 2020-04-17 17:57:08
@@ -18,5 +18,14 @@ rt~
 
 #p 22299003 intactcircle 圈圈 2020-04-28 14:53:57
 因为会循环套娃，电脑懵了反应不过来〔手动狗头〕
+#quote victim
+
+#p 22299403 vimacs Lisp Interaction Paredit AC 2020-04-28 16:40:24
+
+
+2020-04-28 16:38:18
+VPN是会改系统路由表的，很多VPN会让所有流量走VPN，部分网站走了VPN可能访问就不好了。你用traceroute(有的系统可能是tracepath或者tracert)跟一下你ss服务器(或什么访问不正常的服务器)的IP就知道了。
+一般来说用VPN应该是只让你想访问的IP走VPN，如果VPN软件不支持的话，可以开了VPN之后手动编辑路由表。
+另外，shadowsocks之类的在应用层工作的不是VPN.
 #quote victim
 
