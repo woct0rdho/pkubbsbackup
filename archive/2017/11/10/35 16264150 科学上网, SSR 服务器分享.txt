@@ -1,4 +1,4 @@
-#t 35 16264150 hiaoxui 2017-11-10 00:00:00 xzdys 2020-04-28 19:22:00
+#t 35 16264150 hiaoxui 2017-11-10 00:00:00 shanking 2020-04-28 21:58:00
 科学上网, SSR 服务器分享
 
 #p 17134091 hiaoxui 小辉 2020-04-18 12:52:14
@@ -2304,4 +2304,15 @@ android 的客户端非常 buggy, 如果遇到 bug 可以考虑关掉重开或�
 想要请教一个问题。我在启动ssr的时候，提示1080端口已被占用，借助搜索引擎的帮助，查到了是北大网盘占用了这个端口，但北大网盘是需要使用的不能关闭，所以我在ssr的json文件里修改了使用的端口，此时能正常使用。
 我的问题是，网上说这样做会导致PAC不可用，请问是否是这样，以及如果在设置里不使用pac而在代理规则中选择规则是否会有影响？以及如果是的话有没有其他更好的解决方法？
 #quote hiaoxui
+
+#p 22300407 windseeker 风行者 2020-04-28 20:31:52
+感谢，最近搭的梯子挂了（莫非是SS已经不给力了？），vultr 上的IP 10个有9个是被ban 的ip，气到哭。
+下载了 SSR，测试了一下你主机的速度很快，感谢~
+#quote hiaoxui
+
+#p 22304870 shanking Tick-Tock 2020-04-28 21:57:43
+PAC端口也可以改的，在internet属性&gt;局域网设置里
+[https://imgchr.com/i/JIdrOH](jump-to.php?url=https%3A%2F%2Fimgchr.com%2Fi%2FJIdrOH)
+[https://imgchr.com/i/JIdD6e](jump-to.php?url=https%3A%2F%2Fimgchr.com%2Fi%2FJIdD6e)
+#quote xzdys
 
