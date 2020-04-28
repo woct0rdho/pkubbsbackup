@@ -1,4 +1,4 @@
-#t 35 16264150 hiaoxui 2017-11-10 00:00:00 shanking 2020-04-28 21:58:00
+#t 35 16264150 hiaoxui 2017-11-10 00:00:00 hiaoxui 2020-04-29 00:18:00
 科学上网, SSR 服务器分享
 
 #p 17134091 hiaoxui 小辉 2020-04-18 12:52:14
@@ -2315,4 +2315,9 @@ PAC端口也可以改的，在internet属性&gt;局域网设置里
 [https://imgchr.com/i/JIdrOH](jump-to.php?url=https%3A%2F%2Fimgchr.com%2Fi%2FJIdrOH)
 [https://imgchr.com/i/JIdD6e](jump-to.php?url=https%3A%2F%2Fimgchr.com%2Fi%2FJIdD6e)
 #quote xzdys
+
+#p 22307166 hiaoxui 小辉 2020-04-29 00:18:31
+忘记回答你的问题了. 更新订阅的方法就是点击添加/修改订阅, 然后确定, 他就会立刻更新一次.
+当你切换网络环境的时候一定要更新一下订阅.
+#quote tsiau
 
