@@ -1,0 +1,18 @@
+#t 668 17646953 Tranquilsun 2020-04-29 22:39:00 PKUCC 2020-04-29 22:50:00
+电脑连VPN后 提示IPV4无网络访问权限
+
+#p 22314580 Tranquilsun 串口 觉察 清明 2020-04-29 22:41:29
+
+
+2020-04-29 22:39:27
+微信都没法登。。这是怎么回事呢？谢谢了
+<img src="https://bbs.pku.edu.cn/attach/.thumbnail/bf/c3/bfc3f93555f61c22.jpg"/>
+
+#p 22314587 Tranquilsun 串口 觉察 清明 2020-04-29 22:41:39
+（PS：手机开热点电脑连，应该与这没关系吧
+#quote Tranquilsun
+
+#p 22314632 PKUCC 北京大学计算中心 2020-04-29 22:50:03
+你好，请参照VPN常见问题7进行下排查。
+#quote Tranquilsun
+
