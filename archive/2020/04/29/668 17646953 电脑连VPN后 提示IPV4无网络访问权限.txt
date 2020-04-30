@@ -1,4 +1,4 @@
-#t 668 17646953 Tranquilsun 2020-04-29 00:22:00 Tranquilsun 2020-04-30 16:30:00
+#t 668 17646953 Tranquilsun 2020-04-29 00:22:00 liuxunlin 2020-04-30 21:21:00
 电脑连VPN后 提示IPV4无网络访问权限
 
 #p 22314580 Tranquilsun 串口 觉察 清明 2020-04-29 22:41:29
@@ -35,4 +35,8 @@
 #p 22317972 Tranquilsun 串口 觉察 清明 2020-04-30 16:29:06
 用网页版登陆VPN 好了
 #quote quick
+
+#p 22320890 liuxunlin 燕南一猫 2020-04-30 21:20:45
+老bug了。。我到现在不知道咋才能进去
+#quote Tranquilsun
 
