@@ -1,0 +1,8 @@
+#t 72 17647396 survivor 2020-04-30 15:07:00 survivor 2020-04-30 15:07:00
+Re 深圳是否有禁食人肉的规定？(转载)
+
+#p 22317543 survivor TEETOTALER|每天都是一种练习 2020-04-30 15:07:08
+[原文由 MYFYWITWW 发表在 Counterculture 版 &gt;&gt;&gt;](post-read.php?bid=251&amp;threadid=17647396)
+“禁食人肉”是父类属性，子类直接继承，无需额外声明
+#quote SQ
+
