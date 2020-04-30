@@ -1,4 +1,4 @@
-#t 668 17646953 Tranquilsun 2020-04-29 00:22:00 quick 2020-04-30 15:31:00
+#t 668 17646953 Tranquilsun 2020-04-29 00:22:00 Tranquilsun 2020-04-30 16:30:00
 电脑连VPN后 提示IPV4无网络访问权限
 
 #p 22314580 Tranquilsun 串口 觉察 清明 2020-04-29 22:41:29
@@ -27,4 +27,12 @@
 #p 22317660 quick quick 2020-04-30 15:30:37
 有没有翻墙？
 #quote Tranquilsun
+
+#p 22317963 Tranquilsun 串口 觉察 清明 2020-04-30 16:27:33
+没有翻墙
+#quote quick
+
+#p 22317972 Tranquilsun 串口 觉察 清明 2020-04-30 16:29:06
+用网页版登陆VPN 好了
+#quote quick
 
