@@ -1,4 +1,4 @@
-#t 35 17649015 hiaoxui 2020-05-01 14:26:00 hiaoxui 2020-05-01 14:26:00
+#t 35 17649015 hiaoxui 2020-05-01 00:14:00 karlmarx 2020-05-01 20:00:00
 白名单防火墙可以有效对抗 GFW 的主动探测
 
 #p 22323467 hiaoxui 小辉 2020-05-01 14:25:08
@@ -29,4 +29,16 @@ GFW 的工作原理非常复杂, 但总体而言可以划分为两个步骤, 被
 **具体配置方案**
 我们使用的工具是 iptables. 我们假设用户的 IP 是 1.2.3.4, 具体的配置方案是
  iptables -A INPUT -m ttl --ttl-gt 80 -j ACCEPT iptables -A INPUT -p icmp -j ACCEPT iptables _A INPUT -p tcp --dport 22 -j ACCEPT iptables -A INPUT -i lo -j ACCEPT iptables -A INPUT -m state --state RELATED,ESTABLISHED -j ACCEPT iptables -A INPUT -s 1.2.3.4 -j ACCEPT iptables -P INPUT DROP
+
+#p 22324425 shanking Tick-Tock 2020-05-01 19:45:48
+感谢lz分享经验！但有个小小的疑问，按照您给的代码复制到终端执行后，防火墙貌似已经生效。但是重启后设好的规则又好像失效了。小白实在搞不明白（捂脸
+#quote hiaoxui
+
+#p 22324457 karlmarx 还我三角地！灵均·六月雪 2020-05-01 19:51:48
+[https://blog.csdn.net/donglynn/article/details/73530542](jump-to.php?url=https%3A%2F%2Fblog.csdn.net%2Fdonglynn%2Farticle%2Fdetails%2F73530542)
+#quote shanking
+
+#p 22324492 karlmarx 还我三角地！灵均·六月雪 2020-05-01 20:00:08
+赞
+#quote hiaoxui
 
