@@ -1,4 +1,4 @@
-#t 668 17649088 ccmeth 2020-05-01 16:02:00 PKUCC 2020-05-01 16:21:00
+#t 668 17649088 ccmeth 2020-05-01 00:16:00 ccmeth 2020-05-01 17:03:00
 matlab更新了license之后，界面显示连接问题
 
 #p 22323736 ccmeth 爱生活的小青年 2020-05-01 16:01:03
@@ -11,6 +11,11 @@ MATLAB will make 8 more reconnection attempt(s) and then exit. Any unsaved chang
 #quote ccmeth
 
 #p 22323800 PKUCC 北京大学计算中心 2020-05-01 16:20:13
+#DELETED
 这应该是更新的时候连不上网络吧，个人版激活的时候需要连网
 #quote ccmeth
+
+#p 22323927 ccmeth 爱生活的小青年 2020-05-01 17:02:35
+我激活在昨天已经完成了。今天命令行某一个操作后才提示的这个问题
+#quote PKUCC
 
