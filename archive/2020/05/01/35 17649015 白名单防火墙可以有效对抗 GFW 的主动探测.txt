@@ -1,4 +1,4 @@
-#t 35 17649015 hiaoxui 2020-05-01 00:14:00 mobneufx 2020-05-02 10:08:00
+#t 35 17649015 hiaoxui 2020-05-01 00:14:00 RyanBern 2020-05-02 14:21:00
 白名单防火墙可以有效对抗 GFW 的主动探测
 
 #p 22323467 hiaoxui 小辉 2020-05-01 14:25:08
@@ -77,5 +77,18 @@ GFW 的工作原理非常复杂, 但总体而言可以划分为两个步骤, 被
 
 #p 22326165 mobneufx 蘑簿鹫岔 2020-05-02 10:08:02
 tql!
+#quote hiaoxui
+
+#p 22329435 RyanBern r.bern 2020-05-02 14:20:38
+感谢楼主详细的测试，白名单制度看起来确实是有效的。我自己的话搭的是 ss-libev，目前貌似没有订阅功能，可能需要点额外工作量来减少用户使用的麻烦。
+另外有几点细节想跟楼主讨论一下：
+1. TTL 这个设置是否必要？
+根据楼主观察，用于主动嗅探的服务器大多为 Linux，而 Linux 发包的 TTL 是 64。但据我所知默认 TTL 是可以修改的，例如：
+[https://askubuntu.com/questions/667096/how-to-change-the-default-ttl-of-tcp-ip-packets](jump-to.php?url=https%3A%2F%2Faskubuntu.com%2Fquestions%2F667096%2Fhow-to-change-the-default-ttl-of-tcp-ip-packets)
+而且修改成本很低（只需要改一个内核参数），不知楼主有没有测试过 Linux 客户端修改 TTL 之后再连接你的 ssr 服务器（看样子是能直连的，无需注册 IP）。如果这种技术普及的话不太清楚 GFW 会不会出针对措施。另外根据描述，TTL 这个设置实际上就是无条件放行 windows 客户端，如果白名单处理完善的话，好像给 windows 用户开特权不是很必要？
+2. 防火墙配置？
+目前防火墙是用的 iptables 方式处理的。iptables 可能有些老了（例如 CentOS 8 已经改成 firewalld + nftables 了），如果可能的话是否能提供一个 firewalld 的版本？另外个人建议搞一个 ipset 来维护白名单列表，目前的话是对 iptables 逐条插入，iptables 是线性判断的，列表长了以后由于需要逐个判断，效率不会太高。
+3. ss 服务器遭封禁频率？
+看楼主和版面上大多版友的描述貌似 ss 服务器开启后一小时就会被封禁。但好像并不总是这样？我这边的话有三台 ss 服务器（没有配置任何混淆，使用 AEAD 加密），大约有 30 人在用。服务器搭建有三年了，只在去年 9 月左右（敏感时期）被封过一段时间，此外似乎一切正常。想问下楼主这个封禁频率大概和什么因素有关？
 #quote hiaoxui
 
