@@ -1,0 +1,25 @@
+#t 72 17646245 gplst 2020-05-03 14:49:00 gplst 2020-05-03 14:50:00
+可否加一个网站到校园网可访问列表(转载)
+
+#p 22333728 gplst 意大利小钢炮 2020-05-03 14:48:49
+[原文由 landSKA 发表在 PKU_CC 版 &gt;&gt;&gt;](post-read.php?bid=668&amp;threadid=17646245)
+您好！
+可否麻烦您想办法将这个网站加入到校园网可访问的范围内： [http://www.astronomerstelegram.org/](jump-to.php?url=http%3A%2F%2Fwww.astronomerstelegram.org%2F)
+这个是天文研究领域比较常用的网站，国内外如果观测到新的天文现象会及时跟新到这个网站，方便全球天文学家及时跟进观测和研究。另外这个网站没有什么违反国法的内容。内容仅限于天文研究。
+谢谢！
+
+#p 22333729 gplst 意大利小钢炮 2020-05-03 14:48:57
+[原文由 yzs 发表在 PKU_CC 版 &gt;&gt;&gt;](post-read.php?bid=668&amp;threadid=17646245)
+这域名一匹配必被墙啊
+#quote landSKA
+
+#p 22333730 gplst 意大利小钢炮 2020-05-03 14:49:03
+[原文由 IlIl 发表在 PKU_CC 版 &gt;&gt;&gt;](post-read.php?bid=668&amp;threadid=17646245)
+没想到十年过去了居然还在用正则表达式来过滤。
+[https://www.cert.org.cn:8443/publish/main/12/2012/20120330183803281237969/20120330183803281237969_.html](jump-to.php?url=https%3A%2F%2Fwww.cert.org.cn%3A8443%2Fpublish%2Fmain%2F12%2F2012%2F20120330183803281237969%2F20120330183803281237969_.html)
+#quote landSKA
+
+#p 22333732 gplst 意大利小钢炮 2020-05-03 14:49:23
+telegram可还行……
+#quote gplst
+
