@@ -1,7 +1,7 @@
-#t 251 17357667 Masonry 2019-10-14 00:01:00 Masonry 2019-12-27 14:35:00
+#t 251 17357667 Masonry 2019-10-14 00:00:00 Masonry 2020-05-03 21:38:00
 译庞加莱的《科学的价值》
 
-#p 21091859 Masonry Magnum Chaos 2019-12-27 13:55:30
+#p 21091859 Masonry Magnum Chaos 2020-05-03 21:39:30
 
 
 2019-10-14 01:58:37
@@ -30,6 +30,11 @@
     III   41楼 [https://bbs.pku.edu.cn/v2/post-read-single.php?bid=251&amp;postid=21388093](post-read-single.php?bid=251&amp;postid=21388093)
     IV   44楼 [https://bbs.pku.edu.cn/v2/post-read-single.php?bid=251&amp;postid=21463762](post-read-single.php?bid=251&amp;postid=21463762)
     V    45楼 [https://bbs.pku.edu.cn/v2/post-read-single.php?bid=251&amp;postid=21465496](post-read-single.php?bid=251&amp;postid=21465496)
+    VI   46楼 [https://bbs.pku.edu.cn/v2/post-read-single.php?bid=251&amp;postid=21617213](post-read-single.php?bid=251&amp;postid=21617213)
+    VII  47楼 [https://bbs.pku.edu.cn/v2/post-read-single.php?bid=251&amp;postid=21617599](post-read-single.php?bid=251&amp;postid=21617599)
+    VIII 48楼 [https://bbs.pku.edu.cn/v2/post-read-single.php?bid=251&amp;postid=21617691](post-read-single.php?bid=251&amp;postid=21617691)
+    IX   49楼 [https://bbs.pku.edu.cn/v2/post-read-single.php?bid=251&amp;postid=21618038](post-read-single.php?bid=251&amp;postid=21618038)
+    X    50楼 [https://bbs.pku.edu.cn/v2/post-read-single.php?bid=251&amp;postid=22339117](post-read-single.php?bid=251&amp;postid=22339117)
 3. 空间的观念
 4. 空间和它的三个维度
 **第二部分 物理科学**
@@ -44,7 +49,7 @@
 （对标题的翻译可能会再做更改）
 **------      ------**
 
-#p 21091865 Masonry Magnum Chaos 2019-12-07 00:50:24
+#p 21091865 Masonry Magnum Chaos 2019-12-28 00:42:35
 
 
 2019-10-14 02:02:28
@@ -88,7 +93,7 @@ And it is because simplicity, because grandeur, is beautiful, that we preferably
 We see too that the longing for the beautiful leads us to the same choice as the longing for the useful. And so it is that this economy of thought, this economy of efforts, which is according to Mach, the constant tendency of science, is at the same time a source of beauty and a practical advantage. The edifices that we admire are those where the architect has known how to proportion the means to the end, where the columns seem to carry gaily, without effort, the weight placed upon them, like the gracious caryatids of the Erechtheion. 
 我们看到，对美的渴望与对效用的渴望常常将我们引向同样的选择。而且，也就是这种思想上的节约，这种劳力的节约，这些Mach所说的科学的不变倾向，是美的来源和实际的优势。最值得欣赏的建筑，就是那些建造者巧妙地将手段用于需求的建筑，它的立柱几乎不费力气就能支撑起头顶的重量，就如同Erechtheion神殿的像柱一般。
 Whence comes this concordance? Is it simply that the things which seem to us beautiful are those which best adapt themselves to our intelligence, and that consequently they are at the same time the implement this intelligence knows best how to use? Or is there here a play of evolution and natural selection? Have the peoples whose ideal most conformed to their highest interest exterminated the others and taken their place? All pursued their ideals without reference to consequences, but while this quest led some to destruction, to others it gave empire. One is tempted to believe it. If the Greeks triumphed over the barbarians and if Europe, heir of Greek thought, dominates the world, it is because the savages loved loud colors and the clamorous tones of the drum which occupied only their senses, while the Greeks loved the intellectual beauty which hides beneath sensuous beauty, and that this intellectual beauty it is which makes intelligence sure and strong. 
-美与效用的一致性从何而来呢？是否因为，在我们看来美的事物也正是那些与我们的智能最相宜的事物，也因此最容易被我们的智能运用？演化和自然选择是否起了作用？是不是因为，那些理想与最高需求吻合得最好的人，将其他人消灭而取而代之呢？**所有人都不顾后果地追逐他们的理想，这给一些人带来了灭亡，却给另一些人带来了帝国。**或许，事情就真是这样。希腊人征服了蛮夷，而继承了希腊思想的欧洲人今天征服了世界，正是因为那些原始人热爱的是充斥感官的喧声与艳色，而**希腊人热爱的是隐藏在感官美之下的智力美**，就是这种智力美确保了智能的可信和有力。
+美与效用的一致性从何而来呢？这是不是因为，在我们看来美的事物也正是那些与我们的智能最相宜的事物，也因此最容易被我们的智能运用？演化和自然选择是否起了作用？是不是因为，那些理想与最高需求吻合得最好的人，将其他人消灭而取而代之呢？**所有人都不顾后果地追逐他们的理想，这给一些人带来了灭亡，却给另一些人带来了帝国。**或许，事情就真是这样。希腊人征服了蛮夷，而继承了希腊思想的欧洲人今天征服了世界，正是因为那些原始人热爱的是充斥感官的喧声与艳色，而**希腊人热爱的是隐藏在感官美之下的智力美**，就是这种智力美确保了智能的可信和有力。
 Doubtless such a triumph would horrify Tolstoi, and he would not like to acknowledge that it might be truly useful. But this disinterested quest of the true for its own beauty is sane also and able to make man better. I well know there are mistakes, that the thinker does not always draw thence the serenity he should find therein, and even that there are scientists of bad character. Must we, therefore, abandon science and study only morals? What! Do you think the moralists themselves are irreproachable when they come down from their pedestal? 
 无疑，这种胜利对托尔斯泰而言会是一种惊吓，而他当然不愿承认这种胜利可能确有用处。但这种不求私利的对真理之美的追求，也的确是理智的，而且它也的确会让人变得更好。我当然知道，思考者有时没能从他的思考中获得他本应找到的平静，甚至，某些科学家的品性还很恶劣。那么，我们是不是只能抛弃科学而研究道德呢？什么！难道你以为那些道德说教者在走下神坛后，仍是无可指摘的吗？
 （本篇完）
@@ -129,7 +134,7 @@ Great...第一段中的Tolstoi应该就是托尔斯泰的英译名，但不确�
 感谢
 #quote Masonry
 
-#p 21112748 Kindness 东冬咚 2019-10-18 15:40:56
+#p 21112748 Kindness 立德立言 2019-10-18 15:40:56
 翻译这种东西真的好高深。
 #quote Masonry
 
@@ -222,7 +227,7 @@ The two sorts of minds are equally necessary for the progress of science; both t
 “数学中的直觉和逻辑”的I部分已译完，因为后面一篇文章的篇幅较长，而且作者已将文章分成小的部分，我将每段都另回一贴，这也是为方便读者阅读。
 在数学中，直觉和逻辑的张力是最值得注意的事情了。庞加莱在以上文中举了一些著名数学家作为例子，具有相当的启发性。因此，再次推荐“数学中的直觉和逻辑”这篇文章。
 
-#p 21225521 Masonry Magnum Chaos 2019-12-17 12:51:00
+#p 21225521 Masonry Magnum Chaos 2019-12-28 00:39:19
 
 
 2019-10-29 20:38:19
@@ -233,9 +238,9 @@ Intuition and logic in mathematics
 Strange! If we read over the works of the ancients we are tempted to class them all among the intuitionalists. And yet nature is always the same; it is hardly probable that it has begun in this century to create minds devoted to logic. If we could put ourselves into the flow of ideas which reigned in their time, we should recognize that many of the old geometers were in tendency analysts. Euclid, for example, erected a scientific structure wherein his contemporaries could find no fault. In this vast construction, of which each piece however is due to intuition, we may still to-day without much effort, recognize the work of a logician.
 奇怪！若去读早期数学家的著作，我们可能认为他们都是直觉者。然而，自然总是不变的；要说大自然在这世纪才开始创造擅长逻辑的心智，实在不太可能。如果身处于当时的思想源流中，我们会发现，那时就有许多几何学家具有分析学家的倾向。比如，欧几里得构筑的那个科学结构，在他的时代看起来是无可挑剔的。在这个宏伟的建构中，每一个部件都依直觉产生，但这在今天看来无疑是个逻辑者的杰作。
 It is not minds that have changed, it is ideas; the intuitional minds have remained the same; but their readers have required of them greater concessions. 
-**改变的并非心智，而是想法；直觉的心智仍和原来一样；不过，如今读者却要求他们作出更多退让。**
+**改变的并非心智，而是理念；直觉的心智仍和原来一样；不过，如今读者却要求他们作出更多退让。**
 What is the cause of this evolution? It is not hard to find. Intuition can not give us rigor, nor even certainty; this has been recognized more and more. Let us cite some examples. We know there exist continuous functions lacking derivatives. Nothing is more shocking to intuition than this proposition which is imposed upon us by logic. Our fathers would not have failed to say:”It is evident that every continuous function has a derivative, since every curve has a tangent.”
-是什么引起了这种演化？这不难回答。**因为直觉不能给我们严格性，甚至连确定性也不能保证；**这一点，我们看得愈发清楚。让我举几个例子。我们知道，存在一个不可导的连续函数。没什么比这更让我们的直觉惊讶了，而这一结论却也正是逻辑强加给我们的。我们的父辈却会毫不顾忌地说：“显然，每个连续函数均有导函数，因为每条曲线都有切线。”
+这演化的原因是什么？这不难回答。**直觉不能给我们严格性，甚至连确定性也不能保证；**我们对此看得愈发清楚。让我举几个例子。我们知道不可导的连续函数是存在的。没什么比这更让我们的直觉惊讶了，而这一结论却正是逻辑强加给我们的。可是，我们的父辈却会毫不顾忌地说：“显然，每个连续函数均有导函数，因为每条曲线都有切线。”
 How can intuition deceive us on this point? It is because when we seek to imagine a curve, we can not represent it to ourselves without width; just so, when we represent to ourselves a straight line, we see it under the form of a rectilinear band of a certain breadth. We well know these line have no width; we try to imagine them narrower and narrower and thus to approach the limit; so we do in a certain measure, but we shall never attain this limit. And then it is clear we can always picture these two narrow bands, one straight, one curved, in a position such that they encroach slightly one upon the other without crossing. We shall thus be led, unless warned by a rigorous analysis, to conclude that a curve always has a tangent. 
 为什么直觉会在这一问题上欺骗我们？这是因为，我们在想象中画出一条曲线时，无法将它真正地表示为无宽度的曲线；同理，在想象直线时，我们看到的也是一个具宽度的直线。我们心中知道，这些线条没有宽度；因此我们把它想象得越来越细以趋近一个极限；我们可以做到某个程度，但却永不能真正达到这个极限。到此，事情已经清楚了：当我们想象的是一直一弯两个细带，当然可以使它们刚好触碰而不至于穿过彼此。若没有严格的分析学作为警戒，我们就会断言：每个曲线都有切线。
 I shall take as second example Dirichlet’s principle on which rest so many theorems of mathematical physics; to-day we establish it by reasonings very rigorous but very long; heretofore, on the contrary, we were content with a very summary proof. A certain integral depending on an arbitrary function can never vanish. Hence it is concluded that it must have a minimum. The flaw in this reasoning strikes us immediately, since we use the abstract term function and are familiar with all the singularities functions can present when the word is understood in the most general sense. 
@@ -246,8 +251,8 @@ Intuition, therefore, does not give us certainty. This is why the evolution had 
 因此，直觉并不能给我们确定性。这就是为什么这场演化注定要发生；现在，让我们仔细看看它是如何发生的。
 It was not slow in being noticed that rigor could not be introduced in the reasoning unless first made to enter into the definitions. For the most part the objects treated of by mathematicians were long ill defined; they were supposed to be known because represented by means of the senses or the imagination; but one had only a crude image of them and not a precise idea on which reasoning could take hold. It was there first that the logicians had to direct their efforts. 
 严格的推理是以严格的定义作为基础的，特意指出来这一点并不冗余。总的来说，数学家们处理的对象长期以来一直是病态定义的；人们假设这些对象可以通过感官或想象来认识；但如此一来，人们就只能有一个大体印象，而没有可供严谨推理的准确概念。**因此，逻辑者必须先从定义着手。**
-So, in the case of incommensurable numbers. The vague idea of continuity, which we owe to intuition, resolved itself into a complicated system of inequalities referring to whole numbers. 
-事情对不可通约数而言，也是如此。连续性的模糊概念，是从我们的直觉而来的，而它最终被确定为一组涉及自然数的复杂不等式得以解决。
+So, is the case of incommensurable numbers. The vague idea of continuity, which we owe to intuition, resolved itself into a complicated system of inequalities referring to whole numbers. 
+不可通约数也是如此。连续性的模糊概念，是从我们的直觉而来的，而它最终被确定为一组涉及自然数的复杂不等式得以解决。
 （注：whole numbers，其实是我们说的自然数：0, 1, 2, 3, 4... ）
 By that means the difficulties arising from passing to the limit, or from the consideration of infinitesimals, are finally removed. Today in analysis only whole numbers are left or systems, finite or infinite, of whole numbers bound together by a net of equality or inequality relations. Mathematics, as they say, is arithmetized. 
 以这种方式，我们终于解决了那些因趋向极限或考虑无穷小量造成的困难。今天，分析学中只剩下自然数，以及由等式与不等式共同约束而成的自然数系统。如人们所说，**数学被算术化了**。
@@ -514,7 +519,7 @@ Therefore two difficulties: (1) Can we transform psychologic time, which is qual
 所以，有两重困难：（1）我们能否将定性的心理时间转化为一种定量的时间？（2）我们能否将散布于不同世界的事实化简为一种通用的测量方式？
 (II 译完)
 
-#p 21388093 Masonry Magnum Chaos 2019-12-07 00:52:40
+#p 21388093 Masonry Magnum Chaos 2020-01-04 06:34:14
 
 
 2019-11-24 21:52:19
@@ -531,10 +536,10 @@ To measure time they use the pendulum and they suppose by definition that all th
 In fact, the best chronometers must be corrected from time to time, and the corrections are made by the aid of astronomic observations; arrangements are made so that the sidereal clock marks the same hour when the same star passes the meridian. In other words, it is the sidereal day, that is, the duration of the rotation of the earth, which is the constant unit of time. It is supposed, by a new definition substituted for that based on the beats of the pendulum, that two complete rotations of the earth about its axis have the same duration.
 实际上，即使最精密的计时器也需要不断的更正，更正的依据是天文观测；这种更正使得同一星体每次跨过子午线时，恒星时钟都指向同一时刻。换言之，恒星时间——也就是地球自转一周的时长——是我们的不变的时间单位。我们用这一新定义替换基于钟摆的旧定义时，相当于假设了地球的两次完整自转时长相同。
 However, the astronomers are still not content with this definition. Many of them think that the tides act as a check on our globe, and that the rotation of the earth is becoming slower and slower. Thus would be explained the apparent acceleration of the motion of the moon, which would seem to be going more rapidly than theory permits because our watch, which is the earth, is going slow. 
-然而，天文学家对这个定义仍不满意。不少天文学家认为潮汐对地球的旋转起到阻碍作用，因此地球自转的自转也越来越慢。这可以解释为什么月球运动的加速超出了我们的理论所允许的范围，这是因为我们的时钟——也就是地球——正在不断的减慢。
+然而，天文学家对这个定义仍不满意。不少天文学家认为潮汐对地球的旋转起到阻碍作用，因此地球自转的速度越来越慢。这可以解释为什么月球运动的加速超出了我们的理论所允许的范围，这是因为我们的时钟——也就是地球——正在不断的减慢。
 (III 译完)
 
-#p 21388276 Homagod 不愉快です 2019-11-24 22:42:46
+#p 21388276 Homagod 不愉快なら問答無用、撃て 2019-11-24 22:42:46
 孤陋寡闻的我
 #quote Masonry
 
@@ -596,7 +601,7 @@ The difficulty which has just occupied us has been, as I have said, often pointe
 如我之前说的，这个占据了我们不少精力的困难，常常被人指出；在最近的探讨这一问题的作品中，除Calinon先生的小书外，我还想提及Andrade先生关于力学的论著。
 (V 译完)
 
-#p 21617213 Masonry Magnum Chaos 2019-12-27 13:58:54
+#p 21617213 Masonry Magnum Chaos 2020-01-04 06:41:31
 
 
 2019-12-27 12:13:17
@@ -609,7 +614,7 @@ The second difficulty has up to the present attracted much less attention; yet i
 Two psychological phenomena happen in two different consciousnesses; when I say they are simultaneous, what do I mean? When I say that a physical phenomenon, which happens outside of every consciousness, is before or after a psychological phenomenon, what do I mean?
 两个不同的心理现象，是发生在两个不同的意识中的；当我说这两现象同时发生，是在表达什么意思？当我说，发生于意识之外的物理现象，在某个心理现象之前或之后发生，这又是什么意思？
 In 1572, Tycho Brahe noticed in the heavens a new star. An immense conflagration had happened in some far distant heavenly body; but it had happened long before; at least two hundred years were necessary for the light from that star to reach our earth. This conflagration therefore happened before the discovery of America. Well, when considering this gigantic phenomenon, which perhaps had no witness, since the satellites of that star were perhaps uninhabited, I say this phenomenon is anterior to the formation of the visual image of the isle of Española in the consciousness of Christopher Columbus, what do I mean? 
-在1572年，第谷·布拉赫在天空中发现了一颗新星。此前，一场剧烈的爆发在某个遥远的天体发生；但它发生在许久之前；光从那个星体射至地球至少需要两百年。因此，这次爆发应当发生在美洲新大陆的发现之前。然而，这个星体可能没有住民，那么或许无人亲历这一星体爆发的宏伟现象，我说这现象发生于Española岛的视觉映像在哥伦布的意识中形成之前，这又是什么意思？
+在1572年，第谷·布拉赫在天空中发现了一颗新星。此前，在某个遥远的天体发生了一场剧烈的爆发；但它发生在很久之前；光从那个星体射至地球至少需要两百年。因此，这次爆发应当发生在美洲新大陆的发现之前。然而，这个星体可能没有住民，那么或许无人亲历这一星体爆发的宏伟现象，我说这现象发生于Española岛的视觉映像在哥伦布的意识中形成之前，这又是什么意思？
 A little reflection is sufficient to understand that all these affirmations have by themselves no meaning. They can have one only as the outcome of a convention. 
 经过一些思索，我们能明白这些论断本身没有任何含义。它们的意义，只不过是某种惯例的结果。
 (VI 译完)
@@ -627,7 +632,7 @@ This hypothesis is indeed crude and incomplete, because this supreme intelligenc
 What I have just said shows us, perhaps, why we have tried to put all physical phenomena into the same frame. But that can not pass for a definition of simultaneity, since this hypothetical intelligence, even if it existed, would be for us impenetrable. It is therefore necessary to seek something else. 
 我刚才说的这些，或许能够解释，为什么我们试图将所有的物理现象放置于同一个框架之下。但这与同时性的定义却是冲突的，因为这个假想的智能即便存在，也不能被我们窥见。因此，我们必须另寻出路。
 
-#p 21617599 Masonry Magnum Chaos 2019-12-27 13:43:09
+#p 21617599 Masonry Magnum Chaos 2019-12-27 14:37:58
 
 
 2019-12-27 13:17:31
@@ -643,7 +648,7 @@ What I have just said shows us, perhaps, why we have tried to put all physical p
 我刚才说的这些，或许能够解释，为什么我们试图将所有的物理现象放置于同一个框架之下。但这与同时性的定义却是冲突的，因为这个假想的智能即便存在，也不能被我们窥见。因此，我们必须另寻出路。
 (VII 译完)
 
-#p 21617691 Masonry Magnum Chaos 2019-12-27 14:15:52
+#p 21617691 Masonry Magnum Chaos 2019-12-27 14:38:18
 
 
 2019-12-27 13:33:41
@@ -657,7 +662,10 @@ It has also been said that two facts should be regarded as simultaneous when the
 也有人曾说，两个事实应被视作同时发生，若他们之间相继的顺序可以任意颠倒。显然，这个定义不适用于两个相距较远的物理事实，甚至我们无法确定这种颠倒本身会是什么，而且，我们必须首先定义“相继”。
 (VIII 译完)
 
-#p 21618038 Masonry Magnum Chaos 2019-12-27 14:35:03
+#p 21618038 Masonry Magnum Chaos 2020-05-03 19:18:29
+
+
+2019-12-27 14:35:03
 The measure of time
 时间的测量
 **IX**
@@ -665,11 +673,35 @@ The measure of time
 Let us then seek to give an account of what is understood by simultaneity or antecedence, and for this let us analyze some examples. 
 我们现在对同时性和先后性做一些描述。为此，让我们分析一些例子。
 I write a letter; it is afterward read by the friend to whom I have addressed it. These are two facts which have had for their theater two different consciousnesses. In writing this letter I have had the visual image of it, and my friend has had in his turn this same visual image in reading the letter. Though these two facts happen in impenetrable worlds, I do not hesitate to regard the first as anterior to the second, because I believe it is its cause. 
-我写了一封信；我的朋友收到这封信后读了它。这是两个事实，分别上演于两个不同的意识的剧场中。我写这封信时，有了视觉上的图像，而我的朋友在读信时有了相同的视觉图像。虽然这两个事实发生于两个无法穿越的世界，我毫不犹豫地将第一个事实放置在第二个事实之前，以为我确信它是原因。
+我写了一封信；我的朋友收到这封信后读了它。这是两个事实，分别上演于两个不同的意识的剧场中。我写这封信时，在视觉上有了信的图像，而我的朋友在读信时有了相同的视觉图像。虽然这两个事实发生于两个无法穿越的世界，我却毫不犹豫地将第一个事实放置在第二个事实之前，因为我确信它是原因。
 I hear thunder, and I conclude there has been an electric discharge; I do not hesitate to consider the physical phenomenon as anterior to the auditory image perceived in my consciousness, because I believe it is its cause. 
 我听见雷声，于是推断某处曾发生了一次放电；我丝毫不怀疑物理现象发生在意识中的听觉现象之前，这是因为我确信它是原因。
 Behold then the rule we follow, and the only one we can follow: when a phenomenon appears to us as the cause of another, we regard it as anterior. It is therefore by cause that we define time; but most often, when two facts appear to us bound by a constant relation, how do we recognize which is the cause and which the effect? We assume that the anterior fact, the antecedent, is the cause of the other, of the consequent. It is then by time that we define cause. How save ourselves from this petitio principii?
-请留意我们遵从的这个 规则，这也是我们唯一能遵从的规则：当一个现象看起来像是另一个的原因时，我们就认为它发生在前。因此，我们是根据因果来定义时间的；但很多时候，当两件事情看起来由固定关系紧连在一起时，我们怎么区分那个是原因、哪个是结果呢？我们通常认为，发生在前的是原因，发生在后的是结果。因此，我们又是根据时间来定义因果的 。我们如何才能将自己从这种循环论证中解救出来呢？
+请留意我们遵从的规则，这也是我们唯一能遵从的规则：当一个现象看似是另一个的原因时，我们就认为它发生在前。因此，我们是根据因果来定义时间的；但当我们看到两件事情由固定的关系紧连在一起时，我们怎么区分哪个是原因、哪个是结果呢？我们通常认为，发生在前的是原因，发生在后的是结果。因此，我们又是根据时间来定义因果的 。我们怎么才能将自己从这种循环论证中解救出来呢？
 We say now <font color="#000000">post hoc, ergo propter hoc</font>; now propter hoc, ergo post hoc; shall we escape from this vicious circle?
-**我们先说“在其后，故为其果”，又说“为其果，故在其后”；我们要怎么逃出这无功的循环呢？**
+**我们先说“前为因，而后为果”，又说“因在前，而果在后”；我们还能逃出这徒劳的循环吗？**
+(IX 译完)
+
+#p 22339117 Masonry Magnum Chaos 2020-05-03 21:39:02
+
+
+2020-05-03 21:37:35
+The measure of time
+时间的测量
+X
+十
+Let us see, not how we succeed in escaping, for we do not completely succeed, but how we try to escape.
+我们注定无法逃离了，但仍可以观察自己如何尝试逃离。
+I execute a voluntary act A and I feel afterward a sensation D, which I regard as a consequence of the act A; on the other hand, for whatever reason, I infer that this consequence is not immediate, but that outside my consciousness two facts B and C, which I have not witnessed, have happened, and in such a way that B is the effect of A, that C is the effect of B, and D of C. 
+我发起了一个自主运动A，之后接受到一个知觉D，我将它认作运动A的结果；然而，假设出于不论何种原因，我知道这个结果并不是直接的，而是经由我无法见证的意识外的两个事实B、C产生的，也就是说，B是A的结果，C是B的结果，而D是C的结果。
+But why? If I think I have reason to regard the four facts A, B, C, D, as bound to one another by a causal connection, why range them in the causal order A B C D, and at the same time in the chronologic order A B C D, rather than in any other order?
+但为什么是这样？如果我认为四个事实A、B、C、D是由因果顺序联结的，那为什么我刚好也将它们的时间顺序也同样排为A、B、C、D，而不是按某种其他顺序？ 
+I clearly see that in the act A I have the feeling of having been active, while in undergoing the sensation D, I have that of having been passive. This is why I regard A as the initial cause and D as the ultimate effect; this is why I put A at the beginning of the chain and D at the end; but why put B before C rather C before B?
+很明显，在运动A中我感到我是主动的，而在经历知觉D时，我感到我是被动的。因此，我将A看作起因而将D看作结果；也因此，我将A放在因果链索的前端，而将D放在后端。但为什么我将B放在C之前，而不是C放在B之前呢？
+If this question is put, the reply ordinarily is: we know that it is B which is the cause of C because we always see B happen before C. These two phenomena, when witnessed, happen in a certain order; when analogous phenomena happen without witness, there is no reason to invert this order. 
+对于这个问题，通常的回答是：我们之所以知道B是C的原因，是因为B永远发生在C之前。当我们目睹这两个现象时，他们永远都以一种固定的顺序发生；如果相似的现象发生但没有被见证，我们没有原因将这个顺序颠倒。
+Doubtless, but take care; we never know directly the physical phenomena B and C. What we know are sensations B’ and C’ produced respectively by B and C. Our consciousness tells us immediately that B’ precedes C’ and we suppose that B and C succeed one another in the same order. 
+当然，但请注意；我们从来不能直接感知物理现象B和C本身。我们能够感知的，是由B和C分别产生的感官现象B’和C’。我们的意识告诉我们B’发生在C’之前，我们便假设B和C也以相同的顺序。
+This rule appears in fact very natural, and yet we are often led to depart from it. We hear the sound of the thunder only some seconds after the electric discharge of the cloud. Of two flashes of lightning, the one distant, the other near, can not the first be anterior to the second, even though the sound of the second comes to us before that of the first?
+这种准则看起来十分自然，但我们常常必须与之相悖。我们在云放电的几秒后才听见雷声。在一远一近的两道闪电中，虽然我们更早听到第二道闪电的声音，但难道第一道闪电不可能发生在第二道之前吗？
 
