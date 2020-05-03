@@ -1,4 +1,4 @@
-#t 35 17645000 siscon 2020-04-28 00:16:00 shanking 2020-05-03 11:02:00
+#t 35 17645000 siscon 2020-04-28 00:16:00 Symbolk 2020-05-03 13:14:00
 5月vultr服务器过期，尝试aws一年试用
 
 #p 22299366 siscon 实妹什么的最棒了！ 2020-04-28 16:32:30
@@ -23,4 +23,8 @@
 #p 22332679 shanking Tick-Tock 2020-05-03 11:01:24
 aws的ipv6很好用，走hkix出口。但是lightsail不带v6
 #quote siscon
+
+#p 22333320 Symbolk Dorteo 2020-05-03 13:13:47
+lightsail哪个区能连上呀
+#quote poverty
 
