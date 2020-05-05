@@ -1,6 +1,13 @@
-#t 35 17653995 sxszzy 2020-05-05 17:10:00 sxszzy 2020-05-05 17:10:00
+#t 35 17653995 sxszzy 2020-05-05 00:17:00 IlIl 2020-05-05 22:44:00
 连上学校vpn以后打不开外网
 
 #p 22364485 sxszzy 昭珵 2020-05-05 17:09:59
 用pulse secure连学校vpn，所有的线路都试过了，百度搜索都打不开，断开以后才能打开。除此之外，用vpn所有线路都打不开读秀
+
+#p 22365884 IlIl 王铁牙 2020-05-05 22:45:29
+
+
+2020-05-05 22:43:07
+[https://bbs.pku.edu.cn/v2/post-read.php?bid=668&amp;threadid=17646953](post-read.php?bid=668&amp;threadid=17646953)
+#quote sxszzy
 
