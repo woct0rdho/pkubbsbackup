@@ -1,0 +1,6 @@
+#t 35 17653741 CSProgrammer 2020-05-05 12:42:00 CSProgrammer 2020-05-05 12:42:00
+北大vpn连接问题
+
+#p 22363483 CSProgrammer 01&|~ 2020-05-05 12:42:14
+今天Mac提示下图的这个消息，Pulse Secure连接后，只能访问校内网，其他网站都打不开，mac Catalina系统，求助！
+
