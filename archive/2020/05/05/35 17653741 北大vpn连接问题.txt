@@ -1,6 +1,11 @@
-#t 35 17653741 CSProgrammer 2020-05-05 12:42:00 CSProgrammer 2020-05-05 12:42:00
+#t 35 17653741 CSProgrammer 2020-05-05 00:12:00 SpyOfDevil 2020-05-06 00:30:00
 北大vpn连接问题
 
 #p 22363483 CSProgrammer 01&|~ 2020-05-05 12:42:14
 今天Mac提示下图的这个消息，Pulse Secure连接后，只能访问校内网，其他网站都打不开，mac Catalina系统，求助！
+
+#p 22366308 SpyOfDevil SpyOfDevil 2020-05-06 00:29:44
+可能是用了旧版pulse secure，去学校网站下一个新版就好了
+附：安装后尽量不要退出或重启，如果不能用了重新安装就可以了
+#quote CSProgrammer
 
