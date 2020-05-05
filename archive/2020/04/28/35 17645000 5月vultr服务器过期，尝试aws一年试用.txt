@@ -1,4 +1,4 @@
-#t 35 17645000 siscon 2020-04-28 00:16:00 shanking 2020-05-05 15:04:00
+#t 35 17645000 siscon 2020-04-28 00:16:00 Symbolk 2020-05-05 16:54:00
 5月vultr服务器过期，尝试aws一年试用
 
 #p 22299366 siscon 实妹什么的最棒了！ 2020-04-28 16:32:30
@@ -39,4 +39,8 @@ lightsail哪个区能连上呀
 #p 22364026 shanking Tick-Tock 2020-05-05 15:03:48
 安全组中ICMP没开吧
 #quote Symbolk
+
+#p 22364425 Symbolk Dorteo 2020-05-05 16:53:57
+请问是在本机还是服务器开启呢？本机ping我的搬瓦工是可以的，但是lightsail试了美国加拿大新加坡都不行~
+#quote shanking
 
