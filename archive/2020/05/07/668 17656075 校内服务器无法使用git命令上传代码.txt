@@ -1,0 +1,8 @@
+#t 668 17656075 JosephLang 2020-05-07 09:46:00 JosephLang 2020-05-07 09:46:00
+校内服务器无法使用git命令上传代码
+
+#p 22372687 JosephLang 匿名用户 2020-05-07 09:45:38
+最近想在校内服务器（连接vpn）配置一下git，以方便代码的上传。根据网络上的教程，总是显示
+ssh: connect to host github.com port 22: Connection timed out
+请问是由于连接vpn的原因嘛
+
