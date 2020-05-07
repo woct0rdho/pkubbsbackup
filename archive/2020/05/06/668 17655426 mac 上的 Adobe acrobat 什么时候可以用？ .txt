@@ -1,4 +1,4 @@
-#t 668 17655426 yunbiaozhao 2020-05-06 00:19:00 xiaoxiami 2020-05-07 20:22:00
+#t 668 17655426 yunbiaozhao 2020-05-06 00:19:00 libbing 2020-05-07 21:25:00
 mac 上的 Adobe acrobat 什么时候可以用？ 
 
 #p 22370725 yunbiaozhao 蝶舞沧海 2020-05-06 19:34:03
@@ -86,4 +86,8 @@ Mac：资源库/Application Support/Adobe/OOBE/Configs/ServiceConfig.xml，把�
 #p 22377261 xiaoxiami xiaoxiami 2020-05-07 20:21:44
 老师，教程中是Windows的方法，请问Mac怎么操作呢？
 #quote PKUCC
+
+#p 22377595 libbing 六柳闲生 2020-05-07 21:25:29
+我也是这样。。一直在转圈圈。。
+#quote dragonking
 
