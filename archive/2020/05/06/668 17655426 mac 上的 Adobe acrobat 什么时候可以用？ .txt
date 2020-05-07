@@ -1,4 +1,4 @@
-#t 668 17655426 yunbiaozhao 2020-05-06 00:19:00 PKUCC 2020-05-07 18:22:00
+#t 668 17655426 yunbiaozhao 2020-05-06 00:19:00 xiaoxiami 2020-05-07 20:22:00
 mac 上的 Adobe acrobat 什么时候可以用？ 
 
 #p 22370725 yunbiaozhao 蝶舞沧海 2020-05-06 19:34:03
@@ -78,4 +78,12 @@ Mac：资源库/Application Support/Adobe/OOBE/Configs/ServiceConfig.xml，把�
 #p 22376628 PKUCC 北京大学计算中心 2020-05-07 18:22:07
 查看Adobe教程的常见问题
 #quote dragonking
+
+#p 22377153 dragonking keep 2020-05-07 20:01:48
+老师 我按照教程改了config文件后变成了这个样子，一直加载不出来东西，在转圈圈请问一下是什么问题？
+#quote PKUCC
+
+#p 22377261 xiaoxiami xiaoxiami 2020-05-07 20:21:44
+老师，教程中是Windows的方法，请问Mac怎么操作呢？
+#quote PKUCC
 
