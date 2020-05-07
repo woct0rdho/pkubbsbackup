@@ -1,4 +1,4 @@
-#t 668 17655426 yunbiaozhao 2020-05-06 00:19:00 dragonking 2020-05-07 17:13:00
+#t 668 17655426 yunbiaozhao 2020-05-06 00:19:00 PKUCC 2020-05-07 18:22:00
 mac 上的 Adobe acrobat 什么时候可以用？ 
 
 #p 22370725 yunbiaozhao 蝶舞沧海 2020-05-06 19:34:03
@@ -43,8 +43,7 @@ mac 上的 Adobe acrobat 什么时候可以用？
 #quote yunbiaozhao
 
 #p 22375962 LESMITH alalamatcha 2020-05-07 16:16:58
-
-
+#DELETED
 2020-05-07 16:06:25
 我刚才尝试修改了一下，已经可以正常使用了。
 如果安装好Creative Cloud，打开说是没有权限，要联系IT管理员之类的，可以试试这个办法。。。
@@ -56,6 +55,7 @@ Mac：资源库/Application Support/Adobe/OOBE/Configs/ServiceConfig.xml，把�
 #quote LESMITH
 
 #p 22375990 LESMITH alalamatcha 2020-05-07 16:12:35
+#DELETED
 我的电脑是有的呀。。
 #quote dragonking
 
@@ -74,4 +74,8 @@ Mac：资源库/Application Support/Adobe/OOBE/Configs/ServiceConfig.xml，把�
 #p 22376207 dragonking keep 2020-05-07 17:12:36
 老师我正常安装好了，但是creative cloud登录后什么都加载不出来
 #quote PKUCC
+
+#p 22376628 PKUCC 北京大学计算中心 2020-05-07 18:22:07
+查看Adobe教程的常见问题
+#quote dragonking
 
