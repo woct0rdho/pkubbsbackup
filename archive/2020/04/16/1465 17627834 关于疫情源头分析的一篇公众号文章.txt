@@ -1,4 +1,4 @@
-#t 1465 17627834 lea 2020-04-16 00:15:00 lea 2020-04-17 11:42:00
+#t 1465 17627834 lea 2020-04-16 00:15:00 Ladeffy 2020-05-07 11:47:00
 关于疫情源头分析的一篇公众号文章
 
 #p 22233739 lea 无爱即无忧 2020-04-16 15:08:03
@@ -92,4 +92,17 @@
 #p 22238120 lea 无爱即无忧 2020-04-17 11:41:25
 各人有各人的解释，都是你这个调调，就很没意思了...
 #quote dingbur
+
+#p 22374153 lea 无爱即无忧 2020-05-07 11:06:04
+#quote lea
+思路比较独特：
+输入性疫情爆发总是从发达地区开始，感染率与经济水平相关...
+世界上除去美国莫不如此，因此推测美国为疫情源头...
+上：[https://mp.weixin.qq.com/s/YCi7KS571t9Xie7zoHRfpw](jump-to.php?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FYCi7KS571t9Xie7zoHRfpw)
+中：[https://mp.weixin.qq.com/s/OfVOp2mH8X_tq3nR0i6lcg](jump-to.php?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FOfVOp2mH8X_tq3nR0i6lcg)
+下：[https://mp.weixin.qq.com/s/7QfphIwRvqWTlIpelX4PIg](jump-to.php?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F7QfphIwRvqWTlIpelX4PIg)
+
+#p 22374409 Ladeffy Nickname 2020-05-07 11:46:20
+确实，美国二月份就有中国的旅行禁令，而且一直到后来才爆发，基本上跟在欧洲后面，不太可能是从最初爆发的中国去的，应该是欧洲
+#quote xiongan
 
