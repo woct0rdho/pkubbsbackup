@@ -1,4 +1,4 @@
-#t 668 17655426 yunbiaozhao 2020-05-06 00:19:00 quicy 2020-05-07 23:10:00
+#t 668 17655426 yunbiaozhao 2020-05-06 00:19:00 pangguanOOOI 2020-05-08 00:20:00
 mac 上的 Adobe acrobat 什么时候可以用？ 
 
 #p 22370725 yunbiaozhao 蝶舞沧海 2020-05-06 19:34:03
@@ -102,4 +102,8 @@ Mac 上也是一样的…在 Application Support 里面找
 #p 22378139 quicy quicy 2020-05-07 23:09:18
 同加载不出来…
 #quote PKUCC
+
+#p 22378487 pangguanOOOI 追风少年王二狗 2020-05-08 00:19:58
+同没有这个文件夹 请问是怎么弄的
+#quote dragonking
 
