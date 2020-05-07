@@ -1,4 +1,4 @@
-#t 668 17655426 yunbiaozhao 2020-05-06 00:19:00 PKUCC 2020-05-07 16:17:00
+#t 668 17655426 yunbiaozhao 2020-05-06 00:19:00 dragonking 2020-05-07 17:13:00
 mac 上的 Adobe acrobat 什么时候可以用？ 
 
 #p 22370725 yunbiaozhao 蝶舞沧海 2020-05-06 19:34:03
@@ -66,4 +66,12 @@ Mac：资源库/Application Support/Adobe/OOBE/Configs/ServiceConfig.xml，把�
 #p 22376002 PKUCC 北京大学计算中心 2020-05-07 16:16:50
 请查看使用帮助中的相关内容
 #quote kiule
+
+#p 22376157 quicy quicy 2020-05-07 17:03:53
+老师，我按照那个使用指南一步步来的，结果也还是不行
+#quote PKUCC
+
+#p 22376207 dragonking keep 2020-05-07 17:12:36
+老师我正常安装好了，但是creative cloud登录后什么都加载不出来
+#quote PKUCC
 
