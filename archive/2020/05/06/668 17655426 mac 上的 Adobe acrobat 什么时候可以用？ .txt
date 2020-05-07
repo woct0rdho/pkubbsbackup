@@ -1,4 +1,4 @@
-#t 668 17655426 yunbiaozhao 2020-05-06 00:19:00 yunbiaozhao 2020-05-07 13:58:00
+#t 668 17655426 yunbiaozhao 2020-05-06 00:19:00 kiule 2020-05-07 15:11:00
 mac 上的 Adobe acrobat 什么时候可以用？ 
 
 #p 22370725 yunbiaozhao 蝶舞沧海 2020-05-06 19:34:03
@@ -32,5 +32,13 @@ mac 上的 Adobe acrobat 什么时候可以用？
 <img src="https://s1.ax1x.com/2020/05/07/YZLwyF.png"/>
 <img src="https://s1.ax1x.com/2020/05/07/YZLdQU.png"/>
 <img src="https://s1.ax1x.com/2020/05/07/YZLNWV.png"/>
+#quote yunbiaozhao
+
+#p 22375521 xiaoxiami xiaoxiami 2020-05-07 15:02:11
+老师好，我之前用pku邮箱注册过Adobe ID，按照流程后网页显示“我的计划”里有“PEKING UNIVERSITY 企业版”，但是Creative Cloud显示“没有管理应用程序的权限”，什么都不能安装，请问如何解决？
+#quote PKUCC
+
+#p 22375596 kiule kiule 2020-05-07 15:10:45
+我也是显示没有权限
 #quote yunbiaozhao
 
