@@ -1,4 +1,4 @@
-#t 668 17655426 yunbiaozhao 2020-05-06 00:19:00 kiule 2020-05-07 15:11:00
+#t 668 17655426 yunbiaozhao 2020-05-06 00:19:00 PKUCC 2020-05-07 16:17:00
 mac 上的 Adobe acrobat 什么时候可以用？ 
 
 #p 22370725 yunbiaozhao 蝶舞沧海 2020-05-06 19:34:03
@@ -41,4 +41,29 @@ mac 上的 Adobe acrobat 什么时候可以用？
 #p 22375596 kiule kiule 2020-05-07 15:10:45
 我也是显示没有权限
 #quote yunbiaozhao
+
+#p 22375962 LESMITH alalamatcha 2020-05-07 16:16:58
+
+
+2020-05-07 16:06:25
+我刚才尝试修改了一下，已经可以正常使用了。
+如果安装好Creative Cloud，打开说是没有权限，要联系IT管理员之类的，可以试试这个办法。。。
+Mac：资源库/Application Support/Adobe/OOBE/Configs/ServiceConfig.xml，把这个ServiceConfig.xml复制到桌面（原文件不能直接修改），打开，然后将两处false改成true：&lt;/name&gt;&lt;visible&gt;true&lt;/visible&gt;，SelfServeInstalls&lt;/name&gt;&lt;enabled&gt;true&lt;/enabled&gt;，然后将桌面这个ServiceConfig.xml拖回原文件夹下，覆盖不能修改的原文件。重启Creative Cloud就可以了～～
+#quote yunbiaozhao
+
+#p 22375977 dragonking keep 2020-05-07 16:10:14
+资源库/Application Support/Adobe/OOBE/下面没有Configs这个文件夹呀
+#quote LESMITH
+
+#p 22375990 LESMITH alalamatcha 2020-05-07 16:12:35
+我的电脑是有的呀。。
+#quote dragonking
+
+#p 22375996 quicy quicy 2020-05-07 16:14:56
+老师，我也下载 creative cloud，也是显示没有权限
+#quote PKUCC
+
+#p 22376002 PKUCC 北京大学计算中心 2020-05-07 16:16:50
+请查看使用帮助中的相关内容
+#quote kiule
 
