@@ -1,4 +1,4 @@
-#t 35 17656859 SerJaime 2020-05-07 21:17:00 SerJaime 2020-05-07 21:18:00
+#t 35 17656859 SerJaime 2020-05-07 00:21:00 dvorah 2020-05-07 22:21:00
 VPN的连接问题
 
 #p 22377538 SerJaime Kingslayer 2020-05-07 21:16:16
@@ -6,5 +6,9 @@ VPN的连接问题
 
 #p 22377544 SerJaime Kingslayer 2020-05-07 21:17:13
 这几个月把pulse secure卸载下载无数次了，今天还特意把Mac抹掉重装了。。。
+#quote SerJaime
+
+#p 22377855 dvorah 尺蠖·德沃夏蛤 2020-05-07 22:20:23
+看一下本版置顶里的校外访问电子资源方法？
 #quote SerJaime
 

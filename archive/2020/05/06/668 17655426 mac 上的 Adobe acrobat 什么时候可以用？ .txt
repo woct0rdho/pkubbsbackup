@@ -1,4 +1,4 @@
-#t 668 17655426 yunbiaozhao 2020-05-06 00:19:00 libbing 2020-05-07 21:25:00
+#t 668 17655426 yunbiaozhao 2020-05-06 00:19:00 erhe 2020-05-07 22:24:00
 mac 上的 Adobe acrobat 什么时候可以用？ 
 
 #p 22370725 yunbiaozhao 蝶舞沧海 2020-05-06 19:34:03
@@ -89,5 +89,9 @@ Mac：资源库/Application Support/Adobe/OOBE/Configs/ServiceConfig.xml，把�
 
 #p 22377595 libbing 六柳闲生 2020-05-07 21:25:29
 我也是这样。。一直在转圈圈。。
+#quote dragonking
+
+#p 22377875 erhe 小禾 2020-05-07 22:23:43
+同。。
 #quote dragonking
 
