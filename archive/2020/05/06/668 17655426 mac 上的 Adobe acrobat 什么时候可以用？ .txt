@@ -1,4 +1,4 @@
-#t 668 17655426 yunbiaozhao 2020-05-06 00:19:00 Wolf 2020-05-08 19:19:00
+#t 668 17655426 yunbiaozhao 2020-05-06 00:19:00 dragonking 2020-05-08 22:29:00
 mac 上的 Adobe acrobat 什么时候可以用？ 
 
 #p 22370725 yunbiaozhao 蝶舞沧海 2020-05-06 19:34:03
@@ -164,4 +164,12 @@ Mac 上也是一样的…在 Application Support 里面找
 #p 22382912 Wolf Quantum 2020-05-08 19:18:56
 感谢计算中心的老师！！Mac时隔半年重新用上Adobe全家桶
 #quote yunbiaozhao
+
+#p 22383696 erhe 小禾 2020-05-08 22:24:33
+试了挂vpn加改系统语言为英文就进去了，可以试一下。
+#quote treasureyou
+
+#p 22383706 dragonking keep 2020-05-08 22:28:29
+真是各路大神都出没了啊，我刚用26楼的换非学校ID的方法成功了，换系统语言的方法大家可以试试哈哈哈
+#quote erhe
 
