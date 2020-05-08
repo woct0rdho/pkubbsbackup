@@ -1,4 +1,4 @@
-#t 668 17655426 yunbiaozhao 2020-05-06 00:19:00 PKUCC 2020-05-08 17:15:00
+#t 668 17655426 yunbiaozhao 2020-05-06 00:19:00 Wolf 2020-05-08 19:19:00
 mac 上的 Adobe acrobat 什么时候可以用？ 
 
 #p 22370725 yunbiaozhao 蝶舞沧海 2020-05-06 19:34:03
@@ -156,4 +156,12 @@ Mac 上也是一样的…在 Application Support 里面找
 2、尝试用4G网络试试，部分宽带可能连不上Adobe的激活服务器；
 3、在不同的时间段尝试；
 #quote treasureyou
+
+#p 22382907 sunnywangbo 呦呦切克闹 2020-05-08 19:17:22
+我已经不知道什么时候安装的adobe全家桶了，也不记得是不是盗版了，刚看了一眼有18版本有19版本，而且acrobat在我系统升级了之后还可以用。不晓得需要卸载掉升级成为2020版本么。
+#quote yunbiaozhao
+
+#p 22382912 Wolf Quantum 2020-05-08 19:18:56
+感谢计算中心的老师！！Mac时隔半年重新用上Adobe全家桶
+#quote yunbiaozhao
 
