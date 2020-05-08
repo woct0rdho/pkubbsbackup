@@ -1,4 +1,4 @@
-#t 668 17655426 yunbiaozhao 2020-05-06 00:19:00 quicy 2020-05-08 11:47:00
+#t 668 17655426 yunbiaozhao 2020-05-06 00:19:00 pangguanOOOI 2020-05-08 13:33:00
 mac 上的 Adobe acrobat 什么时候可以用？ 
 
 #p 22370725 yunbiaozhao 蝶舞沧海 2020-05-06 19:34:03
@@ -118,4 +118,8 @@ Mac 上也是一样的…在 Application Support 里面找
 #p 22380692 quicy quicy 2020-05-08 11:47:00
 你进的是系统资源库还是个人资源库呢？
 #quote pangguanOOOI
+
+#p 22381400 pangguanOOOI 追风少年王二狗 2020-05-08 13:32:16
+哇 感谢 不过现在就变成转圈圈加载不了了
+#quote quicy
 
