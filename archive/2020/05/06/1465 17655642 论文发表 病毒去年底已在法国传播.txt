@@ -1,4 +1,4 @@
-#t 1465 17655642 MyLucky 2020-05-06 00:23:00 ccjjll 2020-05-08 00:45:00
+#t 1465 17655642 MyLucky 2020-05-06 00:23:00 Zusammen 2020-05-08 07:09:00
 论文发表 病毒去年底已在法国传播
 
 #p 22371526 MyLucky You're beautiful 2020-05-06 23:13:16
@@ -89,5 +89,13 @@ ls我转载过，分析流感统计中的阴性比例，从而怀疑有不明肺
 
 #p 22378603 ccjjll 0812 2020-05-08 00:44:28
 蹲官方新闻
+#quote MyLucky
+
+#p 22379057 Zusammen 鸣龙大仙 2020-05-08 07:08:43
+类似的研究有三个，LZ的题目应该是针对第三个，LS也提到了第一个研究：
+1.武汉疾控中心在4/7号在《Nature Microbiology》上发表名为SARS-CoV-2 detection in patients with influenza-like illness的论文。作者针对武汉两所医院自去年10月到今年1月的640个流感症状咽拭子样本的检测。在这些样本中，1月初最早检出新冠病毒RNA。链接：[https://www.nature.com/articles/s41564-020-0713-1](jump-to.php?url=https%3A%2F%2Fwww.nature.com%2Farticles%2Fs41564-020-0713-1)  DOI:[https://doi.org/10.1038/s41564-020-0713-1](jump-to.php?url=https%3A%2F%2Fdoi.org%2F10.1038%2Fs41564-020-0713-1)
+2. 华盛顿大学（UW）5/1号在《NEJM》发表名为Early Detection of Covid-19 through a Citywide Pandemic Surveillance Platform的论文。作者针对今年1/1号到3/9号来自西雅图地区的3524个呼吸症状患者提供的鼻拭子进行新冠病毒检测。在这些样本中2月底最早检测病毒。链接：www.nejm.org/doi/full/10.1056/NEJMc2008646    DOI:10.1056/NEJMc2008646
+3. 法国Groupe Hospitalier Paris Seine Saint-Denis医院5/3号在《International Journal of Antimicrobial Agents》发表名为SARS-CoV-2 was already spreading in France in late December 2019的论文。作者针对医院ICU病房中去年12/1到今年1/16号期间124名呼吸疾病病人留下的鼻咽拭子样品进行分析，在14例未知病原体的样本中，检测出了一例新冠病毒RNA阳性，这位病人是12月27号入院。同时文章也报道了这位病人的肺部CT影像。链接：www.sciencedirect.com/science/article/pii/S0924857920301643    DOI:[https://doi.org/10.1016/j.ijantimicag.2020.106006](jump-to.php?url=https%3A%2F%2Fdoi.org%2F10.1016%2Fj.ijantimicag.2020.106006)
+现在好像欧洲很多医院也在重新分析去年到今年3月保留的流感样/呼吸疾病病人的样品，希望能更清楚的明白什么时候新冠病毒在欧洲大规模传播开的。
 #quote MyLucky
 
