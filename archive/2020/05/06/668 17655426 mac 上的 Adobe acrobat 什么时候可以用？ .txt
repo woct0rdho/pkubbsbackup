@@ -1,4 +1,4 @@
-#t 668 17655426 yunbiaozhao 2020-05-06 00:19:00 treasureyou 2020-05-08 14:55:00
+#t 668 17655426 yunbiaozhao 2020-05-06 00:19:00 pangguanOOOI 2020-05-08 16:58:00
 mac 上的 Adobe acrobat 什么时候可以用？ 
 
 #p 22370725 yunbiaozhao 蝶舞沧海 2020-05-06 19:34:03
@@ -132,4 +132,20 @@ Mac 上也是一样的…在 Application Support 里面找
 #p 22381814 treasureyou 笨学生 2020-05-08 14:54:46
 一直在转圈圈了，希望计算机老师给个好方法！
 #quote yunbiaozhao
+
+#p 22382106 yunbiaozhao 蝶舞沧海 2020-05-08 16:03:17
+你没有vpn 么？连上vpn 安装试试，我的一下就成功了。
+#quote treasureyou
+
+#p 22382271 treasureyou 笨学生 2020-05-08 16:43:37
+有的，然而还是在转。。。
+#quote yunbiaozhao
+
+#p 22382321 PKUCC 北京大学计算中心 2020-05-08 16:57:07
+关于Mac的文件位置有的不一样，正在和Adobe的技术沟通，有结果后会尽快更新使用帮助
+#quote dragonking
+
+#p 22382325 pangguanOOOI 追风少年王二狗 2020-05-08 16:58:19
+生活可太蓝了鸭 感谢感谢
+#quote quicy
 
