@@ -1,4 +1,4 @@
-#t 668 17655426 yunbiaozhao 2020-05-06 00:19:00 dragonking 2020-05-08 22:29:00
+#t 668 17655426 yunbiaozhao 2020-05-06 00:19:00 presentation 2020-05-08 23:58:00
 mac 上的 Adobe acrobat 什么时候可以用？ 
 
 #p 22370725 yunbiaozhao 蝶舞沧海 2020-05-06 19:34:03
@@ -172,4 +172,12 @@ Mac 上也是一样的…在 Application Support 里面找
 #p 22383706 dragonking keep 2020-05-08 22:28:29
 真是各路大神都出没了啊，我刚用26楼的换非学校ID的方法成功了，换系统语言的方法大家可以试试哈哈哈
 #quote erhe
+
+#p 22383947 treasureyou 笨学生 2020-05-08 23:32:03
+谢谢！ 挂VPN改系统语言完成安装，建议大家可以试试这个办法！
+#quote erhe
+
+#p 22384051 presentation 布加唐 2020-05-08 23:58:14
+求教计算中心和大家：我点进去adobe的网页点击下载creativecloud 之后就显示此页面现在不可用。请尝试稍后再次访问此页面。连creativecloud程序都下载不了……已经换了4G换了好几次时间都不行🙏
+#quote yunbiaozhao
 

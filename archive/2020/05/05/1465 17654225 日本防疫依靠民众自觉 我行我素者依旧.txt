@@ -1,4 +1,4 @@
-#t 1465 17654225 MyLucky 2020-05-05 00:21:00 fancheng 2020-05-06 23:25:00
+#t 1465 17654225 MyLucky 2020-05-05 00:21:00 MyLucky 2020-05-08 23:45:00
 日本防疫依靠民众自觉 我行我素者依旧
 
 #p 22365604 MyLucky You're beautiful 2020-05-05 21:36:52
@@ -20,4 +20,10 @@
 #p 22371577 fancheng Ah-Ray 2020-05-06 23:24:46
 [https://mp.weixin.qq.com/s/nVCiAZjnFYRZDL783Ju_WA](jump-to.php?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FnVCiAZjnFYRZDL783Ju_WA)
 #quote MyLucky
+
+#p 22384000 MyLucky You're beautiful 2020-05-08 23:44:40
+日本将修改新冠肺炎就诊标准
+[https://tv.cctv.com/2020/05/07/VIDEErtWoC0nnXtk7NIqADWo200507.shtml?spm=C22284.PoJGBSlOPG74.S50129.28](jump-to.php?url=https%3A%2F%2Ftv.cctv.com%2F2020%2F05%2F07%2FVIDEErtWoC0nnXtk7NIqADWo200507.shtml%3Fspm%3DC22284.PoJGBSlOPG74.S50129.28)
+旧：4天连续高烧37.5以上再电话咨询就医。
+#quote fancheng
 
