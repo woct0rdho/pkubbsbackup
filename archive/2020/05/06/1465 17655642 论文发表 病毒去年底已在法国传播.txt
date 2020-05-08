@@ -1,4 +1,4 @@
-#t 1465 17655642 MyLucky 2020-05-06 00:23:00 Zusammen 2020-05-08 07:09:00
+#t 1465 17655642 MyLucky 2020-05-06 00:23:00 Underloo 2020-05-08 10:41:00
 论文发表 病毒去年底已在法国传播
 
 #p 22371526 MyLucky You're beautiful 2020-05-06 23:13:16
@@ -97,5 +97,13 @@ ls我转载过，分析流感统计中的阴性比例，从而怀疑有不明肺
 2. 华盛顿大学（UW）5/1号在《NEJM》发表名为Early Detection of Covid-19 through a Citywide Pandemic Surveillance Platform的论文。作者针对今年1/1号到3/9号来自西雅图地区的3524个呼吸症状患者提供的鼻拭子进行新冠病毒检测。在这些样本中2月底最早检测病毒。链接：www.nejm.org/doi/full/10.1056/NEJMc2008646    DOI:10.1056/NEJMc2008646
 3. 法国Groupe Hospitalier Paris Seine Saint-Denis医院5/3号在《International Journal of Antimicrobial Agents》发表名为SARS-CoV-2 was already spreading in France in late December 2019的论文。作者针对医院ICU病房中去年12/1到今年1/16号期间124名呼吸疾病病人留下的鼻咽拭子样品进行分析，在14例未知病原体的样本中，检测出了一例新冠病毒RNA阳性，这位病人是12月27号入院。同时文章也报道了这位病人的肺部CT影像。链接：www.sciencedirect.com/science/article/pii/S0924857920301643    DOI:[https://doi.org/10.1016/j.ijantimicag.2020.106006](jump-to.php?url=https%3A%2F%2Fdoi.org%2F10.1016%2Fj.ijantimicag.2020.106006)
 现在好像欧洲很多医院也在重新分析去年到今年3月保留的流感样/呼吸疾病病人的样品，希望能更清楚的明白什么时候新冠病毒在欧洲大规模传播开的。
+#quote MyLucky
+
+#p 22379746 Underloo 安德鲁还是安德烈 2020-05-08 10:40:11
+观察者网还登出了去年武汉参加军运会的现代五项运动员及其他队员在武汉当时就出现了不适，10月28日回国后就医。今年3月重新检测她去年的病毒样本显示新冠阳性。以及瑞典运动员回国发烧的情况。
+[https://www.guancha.cn/SongLuZheng/2020_05_06_549347.shtml](jump-to.php?url=https%3A%2F%2Fwww.guancha.cn%2FSongLuZheng%2F2020_05_06_549347.shtml)
+但问题在于，报道丝毫没有提及这些出现不适的运动员回国是如何治疗的，这么大的新闻好像蜻蜓点水，也没有丝毫跟进报道，是否与新冠相关也一概不知。
+还有肯尼亚竟然从木瓜和山羊身上取样检测到了阳性，这对于新冠阳性检验的有效性而言无疑蒙上了阴影。
+[http://www.bjd.com.cn/a/202005/05/WS5eb0bb76e4b00aba04d1ac85.html](jump-to.php?url=http%3A%2F%2Fwww.bjd.com.cn%2Fa%2F202005%2F05%2FWS5eb0bb76e4b00aba04d1ac85.html)
 #quote MyLucky
 
