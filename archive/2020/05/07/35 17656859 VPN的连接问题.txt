@@ -1,4 +1,4 @@
-#t 35 17656859 SerJaime 2020-05-07 00:21:00 SerJaime 2020-05-08 14:53:00
+#t 35 17656859 SerJaime 2020-05-07 00:21:00 dvorah 2020-05-08 18:54:00
 VPN的连接问题
 
 #p 22377538 SerJaime Kingslayer 2020-05-07 21:16:16
@@ -15,4 +15,8 @@ VPN的连接问题
 #p 22381807 SerJaime Kingslayer 2020-05-08 14:52:55
 谢谢，之前我看了您1月的置顶帖子。可惜想访问的资源不在CARSI里面
 #quote dvorah
+
+#p 22382825 dvorah 尺蠖·德沃夏蛤 2020-05-08 18:54:03
+试一下wpn.pku.edu.cn 如果是图书馆资源可以直接访问
+#quote SerJaime
 
