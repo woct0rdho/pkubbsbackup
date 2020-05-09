@@ -1,4 +1,4 @@
-#t 668 17655426 yunbiaozhao 2020-05-06 00:19:00 quicy 2020-05-09 10:40:00
+#t 668 17655426 yunbiaozhao 2020-05-06 00:19:00 kpln 2020-05-09 13:30:00
 mac 上的 Adobe acrobat 什么时候可以用？ 
 
 #p 22370725 yunbiaozhao 蝶舞沧海 2020-05-06 19:34:03
@@ -189,4 +189,12 @@ Mac 上也是一样的…在 Application Support 里面找
 #p 22385459 quicy quicy 2020-05-09 10:40:06
 这个就不是网络原因造成的……因为换了非学校邮箱的 Adobe ID 就能显示出软件列表，但用学校邮箱的 Adobe ID 就显示不出来，一直在转圈
 #quote PKUCC
+
+#p 22386316 kpln 一次性筷筷 2020-05-09 13:29:31
+找不到路径的小伙伴试试在terminal里这样：
+cd /Library/Application\ Support/Adobe/OOBE/Configs
+sudo vim ServiceConfig.xml
+(输入密码然后修改false为true即可)
+虽然26楼说了要进系统资源库，但是我一直没反应过来，后来才发现我傻了一直在用户资源库里找。。。orz
+#quote yunbiaozhao
 
