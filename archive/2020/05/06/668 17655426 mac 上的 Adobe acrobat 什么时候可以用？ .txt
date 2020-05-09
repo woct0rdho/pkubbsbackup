@@ -1,4 +1,4 @@
-#t 668 17655426 yunbiaozhao 2020-05-06 00:19:00 presentation 2020-05-08 23:58:00
+#t 668 17655426 yunbiaozhao 2020-05-06 00:19:00 quicy 2020-05-09 10:40:00
 mac 上的 Adobe acrobat 什么时候可以用？ 
 
 #p 22370725 yunbiaozhao 蝶舞沧海 2020-05-06 19:34:03
@@ -178,6 +178,15 @@ Mac 上也是一样的…在 Application Support 里面找
 #quote erhe
 
 #p 22384051 presentation 布加唐 2020-05-08 23:58:14
+#DELETED
 求教计算中心和大家：我点进去adobe的网页点击下载creativecloud 之后就显示此页面现在不可用。请尝试稍后再次访问此页面。连creativecloud程序都下载不了……已经换了4G换了好几次时间都不行🙏
 #quote yunbiaozhao
+
+#p 22385391 mockingbird 小指头 2020-05-09 10:28:24
+安装creative cloud时提示“此应用无法在你的电脑上运行”
+#quote yunbiaozhao
+
+#p 22385459 quicy quicy 2020-05-09 10:40:06
+这个就不是网络原因造成的……因为换了非学校邮箱的 Adobe ID 就能显示出软件列表，但用学校邮箱的 Adobe ID 就显示不出来，一直在转圈
+#quote PKUCC
 
