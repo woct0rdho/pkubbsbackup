@@ -1,4 +1,4 @@
-#t 668 17655426 yunbiaozhao 2020-05-06 00:19:00 kpln 2020-05-09 13:30:00
+#t 668 17655426 yunbiaozhao 2020-05-06 00:19:00 quicy 2020-05-09 17:57:00
 mac 上的 Adobe acrobat 什么时候可以用？ 
 
 #p 22370725 yunbiaozhao 蝶舞沧海 2020-05-06 19:34:03
@@ -197,4 +197,14 @@ sudo vim ServiceConfig.xml
 (输入密码然后修改false为true即可)
 虽然26楼说了要进系统资源库，但是我一直没反应过来，后来才发现我傻了一直在用户资源库里找。。。orz
 #quote yunbiaozhao
+
+#p 22387392 Immo 丶 2020-05-09 17:45:05
+请问其他ID的话怎么下载鸭 是点下面试用么？
+另 大家用safari能访问software.pku么？
+#quote quicy
+
+#p 22387446 quicy quicy 2020-05-09 17:56:49
+对，点试用，下载完成后再换回原来的 ID
+正版软件通过门户里进去啊，可以进
+#quote Immo
 
