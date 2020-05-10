@@ -1,4 +1,4 @@
-#t 35 17649015 hiaoxui 2020-05-01 00:14:00 RyanBern 2020-05-05 15:23:00
+#t 35 17649015 hiaoxui 2020-05-01 00:14:00 hiaoxui 2020-05-10 18:53:00
 白名单防火墙可以有效对抗 GFW 的主动探测
 
 #p 22323467 hiaoxui 小辉 2020-05-01 14:25:08
@@ -175,5 +175,29 @@ ORZ
 
 #p 22364087 RyanBern r.bern 2020-05-05 15:22:59
 我那台 GIA-E 好像一直挺好的，没出现过什么问题。
+#quote poverty
+
+#p 22391818 poverty 不知道猫在想什么的傻狗 2020-05-10 18:21:36
+我也尝试使用了一下白名单，能实现最基本的防火墙功能。有一个问题是，如果身边只有手机，没法用shell登录服务器开放ip，会很麻烦。这里提供一个用python简单实现在网页上提交ip的方法（因为我不会JavaScript和php......）
+使用的工具是streamlit，因为不是专业码农，所以代码很丑，而且平时用R比较多，python的正则试了好几次都不太对就放弃了，所以附图也很粗糙。简单的想法是说，在网页上提交字符串，用os.system函数执行iptables指令。另外，由于48h强制换动态ip的规则，所以每天早上5点重启一次服务器，重启后临时写入iptables的ip就会失效，每天都要至少提交一次ip。
+import osimport streamlit as stip = st.text_input('Enter ip')if ip:    cmd = 'iptables -A INPUT -s '+ip+' -j ACCEPT'    os.system(cmd)else:    passtmp = os.popen('iptables -L').readlines()st.write('iptables config:')st.write(tmp)
+把上述代码保存为get_ip.py，然后开机自动运行，我用centos7的系统：
+vi /etc/rc.d/rc/local
+增加一条streamlit run /your/path/to/get_ip.py
+效果如图，28444是bwg默认ssh端口，80端口是配合streamlit（默认端口我改了），ip是现在的动态ip。其实不把下面的iptables config放出来也没事。访问[http://ip](jump-to.php?url=http%3A%2F%2Fip):端口就能访问上述页面开放ip了。
+#quote hiaoxui
+
+#p 22391920 hiaoxui 小辉 2020-05-10 18:54:51
+
+
+2020-05-10 18:53:07
+感谢!
+写了一个小的 flask 脚本, 每次访问 /ip 这个地址的时候, 会自动把 /24 子网的 ip 登记到白名单中.
+from flask import Flask, requestfrom ipaddress import IPv4Networkimport osapp = Flask(__name__)@app.route("/ip")def report_status():    ip = request.remote_addr    subnet = str(IPv4Network(ip).supernet(8))    print(subnet)    os.system('iptables -I INPUT -s ' + subnet + ' -j ACCEPT')    return subnetapp.run(host='0.0.0.0', port=80)﻿
+这种情况下要额外开放 80 端口:
+iptables -A INPUT -p tcp --dport 80 -j ACCEPT
+使用方法: 在服务器上运行这段代码 (要先安装 flask). 假设服务器的 IP 是 12.34.56.78, 那么在浏览器输入:
+12.34.56.78/ip
+就可以把 IP 的 /24 子网地址加入到白名单中.
 #quote poverty
 
