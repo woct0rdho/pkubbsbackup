@@ -1,0 +1,10 @@
+#t 35 17662204 siscon 2020-05-11 18:39:00 siscon 2020-05-11 18:39:00
+Lightsail ssr上不了谷歌学术
+
+#p 22397954 siscon 实妹什么的最棒了！ 2020-05-11 18:38:41
+最近用aws lightsail搭建ssr，结果在上谷歌学术时发现了下面错误
+We're sorry...
+... but your computer or network may be sending automated queries. To protect our users, we can't process your request right now.
+See Google Help for more information.
+求问怎么解决
+

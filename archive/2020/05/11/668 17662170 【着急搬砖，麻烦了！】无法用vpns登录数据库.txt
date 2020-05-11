@@ -1,0 +1,17 @@
+#t 668 17662170 chwchw 2020-05-11 18:03:00 Hoyoyo 2020-05-11 18:39:00
+【着急搬砖，麻烦了！】无法用vpns登录数据库
+
+#p 22397796 chwchw 海雯 2020-05-11 18:02:27
+基本信息：windows10系统，chrome浏览器
+问题：使用vpns登录图书馆，通过图书馆的链接进入数据库，点开数据库的链接之后报504 Gateway Time-out；尝试了3个数据库（Heinonline、Westlaw、Jstor），都出现了一样的情况，因此可以排除是数据库的问题；家里可以正常上网，因此也不是网络问题。最近一周一直都用这种方法使用数据库，是今天才出现了这种情况。
+<font color="#c00000"><u>**麻烦老师尽快帮忙解决，急着搬砖，谢谢！**</u></font>
+
+#p 22397900 PKUCC 北京大学计算中心 2020-05-11 18:24:39
+你好，vpns是有些问题，正在处理，稍后你再试。
+#quote chwchw
+
+#p 22397952 Hoyoyo 嗨哟大兄弟 2020-05-11 18:38:29
+可以试试carsi
+[https://its.pku.edu.cn/service_1_carsi.jsp](jump-to.php?url=https%3A%2F%2Fits.pku.edu.cn%2Fservice_1_carsi.jsp)
+#quote chwchw
+
