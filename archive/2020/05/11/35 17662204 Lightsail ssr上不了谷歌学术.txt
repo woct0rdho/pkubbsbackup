@@ -1,4 +1,4 @@
-#t 35 17662204 siscon 2020-05-11 18:39:00 siscon 2020-05-11 18:39:00
+#t 35 17662204 siscon 2020-05-11 00:18:00 poverty 2020-05-11 20:20:00
 Lightsail ssr上不了谷歌学术
 
 #p 22397954 siscon 实妹什么的最棒了！ 2020-05-11 18:38:41
@@ -7,4 +7,8 @@ We're sorry...
 ... but your computer or network may be sending automated queries. To protect our users, we can't process your request right now.
 See Google Help for more information.
 求问怎么解决
+
+#p 22398417 poverty 不知道猫在想什么的傻狗 2020-05-11 20:20:06
+应该是被视为恶意攻击了吧，我没遇见过。附加一个新的静态ip试试
+#quote siscon
 
