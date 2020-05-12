@@ -1,4 +1,4 @@
-#t 668 17662170 chwchw 2020-05-11 18:03:00 Hoyoyo 2020-05-11 18:39:00
+#t 668 17662170 chwchw 2020-05-11 00:18:00 Repunzel 2020-05-12 12:39:00
 【着急搬砖，麻烦了！】无法用vpns登录数据库
 
 #p 22397796 chwchw 海雯 2020-05-11 18:02:27
@@ -10,8 +10,12 @@
 你好，vpns是有些问题，正在处理，稍后你再试。
 #quote chwchw
 
-#p 22397952 Hoyoyo 嗨哟大兄弟 2020-05-11 18:38:29
+#p 22397952 Hoyoyo 没等级 2020-05-11 18:38:29
 可以试试carsi
 [https://its.pku.edu.cn/service_1_carsi.jsp](jump-to.php?url=https%3A%2F%2Fits.pku.edu.cn%2Fservice_1_carsi.jsp)
+#quote chwchw
+
+#p 22403713 Repunzel 耶啵 2020-05-12 12:38:48
+请问vpn好了吗？急用T.T
 #quote chwchw
 
