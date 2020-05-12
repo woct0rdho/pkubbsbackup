@@ -1,7 +1,7 @@
-#t 251 17357667 Masonry 2019-10-14 00:00:00 Masonry 2020-05-03 21:38:00
+#t 251 17357667 Masonry 2019-10-14 00:00:00 vegetarian 2020-05-12 23:45:00
 译庞加莱的《科学的价值》
 
-#p 21091859 Masonry Magnum Chaos 2020-05-03 21:39:30
+#p 21091859 Masonry Magnum Chaos 2020-05-03 21:39:46
 
 
 2019-10-14 01:58:37
@@ -44,7 +44,7 @@
 8. 物理学当前的危机
 9. 数学物理学的未来
 **第三部分 科学的客观价值**
-10. 科学是人为的吗？
+10. 科学是人造的吗？
 11. 科学与现实
 （对标题的翻译可能会再做更改）
 **------      ------**
@@ -682,18 +682,18 @@ We say now <font color="#000000">post hoc, ergo propter hoc</font>; now propter 
 **我们先说“前为因，而后为果”，又说“因在前，而果在后”；我们还能逃出这徒劳的循环吗？**
 (IX 译完)
 
-#p 22339117 Masonry Magnum Chaos 2020-05-03 21:39:02
+#p 22339117 Masonry Magnum Chaos 2020-05-06 21:29:58
 
 
 2020-05-03 21:37:35
 The measure of time
 时间的测量
-X
-十
+**X**
+**十**
 Let us see, not how we succeed in escaping, for we do not completely succeed, but how we try to escape.
-我们注定无法逃离了，但仍可以观察自己如何尝试逃离。
+我们注定无法逃离了，但我们仍可以观察自己如何尝试逃离。
 I execute a voluntary act A and I feel afterward a sensation D, which I regard as a consequence of the act A; on the other hand, for whatever reason, I infer that this consequence is not immediate, but that outside my consciousness two facts B and C, which I have not witnessed, have happened, and in such a way that B is the effect of A, that C is the effect of B, and D of C. 
-我发起了一个自主运动A，之后接受到一个知觉D，我将它认作运动A的结果；然而，假设出于不论何种原因，我知道这个结果并不是直接的，而是经由我无法见证的意识外的两个事实B、C产生的，也就是说，B是A的结果，C是B的结果，而D是C的结果。
+我发起了一个自主运动A，之后接受到一个知觉D，我将它认作运动A的结果；而假若——不论何种原因——我知道这个结果并不是直接的，而是经由无法直接见证的、意识外的两个事实B、C产生的，也就是说，B是A的结果，C是B的结果，而D是C的结果。
 But why? If I think I have reason to regard the four facts A, B, C, D, as bound to one another by a causal connection, why range them in the causal order A B C D, and at the same time in the chronologic order A B C D, rather than in any other order?
 但为什么是这样？如果我认为四个事实A、B、C、D是由因果顺序联结的，那为什么我刚好也将它们的时间顺序也同样排为A、B、C、D，而不是按某种其他顺序？ 
 I clearly see that in the act A I have the feeling of having been active, while in undergoing the sensation D, I have that of having been passive. This is why I regard A as the initial cause and D as the ultimate effect; this is why I put A at the beginning of the chain and D at the end; but why put B before C rather C before B?
@@ -703,5 +703,9 @@ If this question is put, the reply ordinarily is: we know that it is B which is 
 Doubtless, but take care; we never know directly the physical phenomena B and C. What we know are sensations B’ and C’ produced respectively by B and C. Our consciousness tells us immediately that B’ precedes C’ and we suppose that B and C succeed one another in the same order. 
 当然，但请注意；我们从来不能直接感知物理现象B和C本身。我们能够感知的，是由B和C分别产生的感官现象B’和C’。我们的意识告诉我们B’发生在C’之前，我们便假设B和C也以相同的顺序。
 This rule appears in fact very natural, and yet we are often led to depart from it. We hear the sound of the thunder only some seconds after the electric discharge of the cloud. Of two flashes of lightning, the one distant, the other near, can not the first be anterior to the second, even though the sound of the second comes to us before that of the first?
-这种准则看起来十分自然，但我们常常必须与之相悖。我们在云放电的几秒后才听见雷声。在一远一近的两道闪电中，虽然我们更早听到第二道闪电的声音，但难道第一道闪电不可能发生在第二道之前吗？
+这个准则看起来十分自然，但我们常须与其背离。在云层放电的几秒后，我们才听见雷声。在一远一近的两道闪电中，虽然我们更早听到第二道闪电的声音，但难道第一道闪电不可能发生在第二道之前吗？
+
+#p 22408166 vegetarian 殷素素 2020-05-12 23:44:23
+感谢翻译
+#quote Masonry
 
