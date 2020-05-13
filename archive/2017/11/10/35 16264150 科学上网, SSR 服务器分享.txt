@@ -1,23 +1,23 @@
-#t 35 16264150 hiaoxui 2017-11-10 00:00:00 xianwen 2020-05-06 10:15:00
+#t 35 16264150 hiaoxui 2017-11-10 00:00:00 fundamental 2020-05-13 00:01:00
 科学上网, SSR 服务器分享
 
-#p 17134091 hiaoxui 小辉 2020-04-18 12:52:14
+#p 17134091 hiaoxui 小辉 2020-05-07 09:47:29
 
 
 2017-11-10 23:53:54
-重要更新: 我已恢复 IPv4 的访问, 但使用方法有一些变化. 请在使用前务必阅读这篇 blog: [https://blog.hiaoxui.com/blog/post/hiaoxui/sub-notice-zh](jump-to.php?url=https%3A%2F%2Fblog.hiaoxui.com%2Fblog%2Fpost%2Fhiaoxui%2Fsub-notice-zh)
+重要更新: 我已恢复 IPv4 的访问, 但使用方法有一些变化. 请在使用前务必阅读这篇 blog: [https://blog.wallesspku.space/blog/post/hiaoxui/sub-notice-zh](jump-to.php?url=https%3A%2F%2Fblog.wallesspku.space%2Fblog%2Fpost%2Fhiaoxui%2Fsub-notice-zh)
 ------------------------------
 北京大学并没有提供官方的翻墙途径, 但是我们的科研学习中无可避免地需要用到 Wikipedia 和 Google 等网站. 为了解决这个矛盾, 我决定向北京大学的师生校友提供这项服务. 我只面向北京大学校友提供服务, 恕不回复北京大学邮箱 (@pku.edu.cn / @bjmu.edu.cn / @*.pku.eud.cn / @pku.org) 之外的邮件.
-如果你没有任何翻墙经验, 请阅读教程: [https://blog.hiaoxui.com/blog/post/hiaoxui/ssr-manual-zh](jump-to.php?url=https%3A%2F%2Fblog.hiaoxui.com%2Fblog%2Fpost%2Fhiaoxui%2Fssr-manual-zh)
+如果你没有任何翻墙经验, 请阅读教程: [https://blog.wallesspku.space/blog/post/hiaoxui/ssr-manual-zh](jump-to.php?url=https%3A%2F%2Fblog.wallesspku.space%2Fblog%2Fpost%2Fhiaoxui%2Fssr-manual-zh)
 以上教程适用于 Windows 系统, OS X 系统 (苹果电脑), Android 系统 和 iOS 系统. 
 如果你之前使用过 SSR 服务, 现在只是缺少服务器, 请在 [https://wallesspku.space/ssr/register](jump-to.php?url=https%3A%2F%2Fwallesspku.space%2Fssr%2Fregister) 中获取一份配置信息.
 如果你遇到了什么问题, 请参考这个链接:
-[https://blog.hiaoxui.com/blog/post/hiaoxui/ssr-faq-zh](jump-to.php?url=https%3A%2F%2Fblog.hiaoxui.com%2Fblog%2Fpost%2Fhiaoxui%2Fssr-faq-zh)
+[https://blog.wallesspku.space/blog/post/hiaoxui/ssr-faq-zh](jump-to.php?url=https%3A%2F%2Fblog.wallesspku.space%2Fblog%2Fpost%2Fhiaoxui%2Fssr-faq-zh)
 本人无意借此项目盈利, 服务**不收取费用**. 如果您使用我的服务, 则代表您已经阅读并同意以下协议:
 1. **您使用该服务只用于科研学习**, 不做任何违反中国或服务器所在国家的法律法规的事情. 
 2. 您不会私自将服务器配置信息分享他人.
-3. 如果您超额使用流量, 我可能会停止您当天的服务. ([https://blog.hiaoxui.com/blog/post/hiaoxui/ssr-data-policy-zh](jump-to.php?url=https%3A%2F%2Fblog.hiaoxui.com%2Fblog%2Fpost%2Fhiaoxui%2Fssr-data-policy-zh))
-4. 您确保所有的重要信息都在加密条件下交换. ([https://blog.hiaoxui.com/blog/post/hiaoxui/ssr-privacy-zh](jump-to.php?url=https%3A%2F%2Fblog.hiaoxui.com%2Fblog%2Fpost%2Fhiaoxui%2Fssr-privacy-zh))
+3. 如果您超额使用流量, 我可能会停止您当天的服务. ([https://blog.wallesspku.space/blog/post/hiaoxui/ssr-data-policy-zh](jump-to.php?url=https%3A%2F%2Fblog.wallesspku.space%2Fblog%2Fpost%2Fhiaoxui%2Fssr-data-policy-zh))
+4. 您确保所有的重要信息都在加密条件下交换. ([https://blog.wallesspku.space/blog/post/hiaoxui/ssr-privacy-zh](jump-to.php?url=https%3A%2F%2Fblog.wallesspku.space%2Fblog%2Fpost%2Fhiaoxui%2Fssr-privacy-zh))
 **致管理部门: 墙的存在对科学研究是一个灾难, 许多墙外的资源是不可能在国内找到替代品的. 这是一个无法解决的矛盾. 如果我不能继续提供服务, 那我的用户一定会寻找别的工具, 而这些工具很多都是别有用心的, 所以封禁我只会带来更坏的后果. 我们无法改变现状, 但请把枪口抬高一寸, 为北大留下一点自由的网络空间.**
 
 #p 17136173 opteronx 从删库到跑路 2017-11-11 15:39:47
@@ -2384,5 +2384,9 @@ Android 的客户端是最垃圾的客户端, 操作逻辑莫名其妙而且非�
 
 2020-05-06 10:15:08
 更新了更新了，这次服务器订阅模式相当人性化，速度也是非常感人，google起来如baidu一般丝滑~太感谢楼主了~
+#quote hiaoxui
+
+#p 22408426 fundamental B.C. 2020-05-13 01:02:28
+我想请教一下楼主，安卓的ssr要怎么删除默认的订阅链接啊😂我没找着
 #quote hiaoxui
 
