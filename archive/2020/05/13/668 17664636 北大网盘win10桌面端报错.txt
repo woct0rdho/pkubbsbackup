@@ -1,4 +1,4 @@
-#t 668 17664636 peiyangium 2020-05-13 00:13:00 peiyangium 2020-05-13 15:38:00
+#t 668 17664636 peiyangium 2020-05-13 00:13:00 peiyangium 2020-05-13 22:32:00
 北大网盘win10桌面端报错
 
 #p 22410513 peiyangium 生建办主任助理|柯带宜居办主任|副团级 2020-05-13 13:36:00
@@ -13,5 +13,13 @@ Assert false: Type error: except(String), actual(NULL)
 #p 22411049 peiyangium 生建办主任助理|柯带宜居办主任|副团级 2020-05-13 15:37:56
 截图也不能提供更多信息，就一个msgbox，title=北大网盘，caption=以上，button=确定。
 我不在那台机器旁边。
+#quote PKUCC
+
+#p 22413425 PKUCC 北京大学计算中心 2020-05-13 22:29:32
+您好，您站内留个联系方式，明天帮您看一下
+#quote peiyangium
+
+#p 22413445 peiyangium 生建办主任助理|柯带宜居办主任|副团级 2020-05-13 22:32:05
+请站内联系吧，谢谢！
 #quote PKUCC
 
