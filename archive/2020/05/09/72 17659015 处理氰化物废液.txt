@@ -1,4 +1,4 @@
-#t 72 17659015 SQ 2020-05-09 00:12:00 stITW 2020-05-10 10:22:00
+#t 72 17659015 SQ 2020-05-09 00:12:00 SQ 2020-05-13 09:45:00
 处理氰化物废液
 
 #p 22385905 SQ  2020-05-09 12:02:50
@@ -63,4 +63,14 @@
 氰化物遇酸马上出氢氰酸，来不及跑就去见马克思了，前几年忘了清北哪家出过这事。
 正确处理是氧化。
 #quote Imperio
+
+#p 22409079 ljslcy StupidArcher|死侍|咸鱼|珞珈山列车员 2020-05-13 09:07:12
+好奇正经表示酸化的日文写作什么
+#quote pkuhub
+
+#p 22409242 SQ  2020-05-13 09:45:11
+前面回复过了，酸性化 (日语san sei ka，韩语san seong hwa)
+我想到了这个，注意把汉语的酸化剂译为了韩语的酸化剂
+[https://zh.dict.naver.com/#/entry/zhko/6af4b512f9754d0abd56e0c4d32daf05](jump-to.php?url=https%3A%2F%2Fzh.dict.naver.com%2F%23%2Fentry%2Fzhko%2F6af4b512f9754d0abd56e0c4d32daf05)
+#quote ljslcy
 
