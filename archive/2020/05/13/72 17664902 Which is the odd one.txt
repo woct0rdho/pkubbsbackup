@@ -1,4 +1,4 @@
-#t 72 17664902 SQ 2020-05-13 00:17:00 niisikhsurg 2020-05-14 10:21:00
+#t 72 17664902 SQ 2020-05-13 00:17:00 sixeyedfish 2020-05-14 12:17:00
 Which is the odd one
 
 #p 22411718 SQ  2020-05-13 17:01:37
@@ -32,5 +32,9 @@ tql
 #p 22415210 niisikhsurg 沙逼丧戆，沙逼猪协，沙逼陈狗源 2020-05-14 10:20:31
 从我的角度上看是第一个
 因为我只坐过第一个
+#quote SQ
+
+#p 22415781 sixeyedfish  2020-05-14 12:16:45
+No, "Which" is not the odd one because the list does not even include the word "Which."
 #quote SQ
 
