@@ -1,4 +1,4 @@
-#t 668 17666005 hcl 2020-05-14 00:12:00 TimeFlyFast 2020-05-14 14:42:00
+#t 668 17666005 hcl 2020-05-14 00:12:00 hcl 2020-05-14 17:57:00
 office安装激活问题，已自行爬文数十小时不断尝试
 
 #p 22415764 hcl 19級歷史系 2020-05-14 12:13:46
@@ -33,4 +33,8 @@ hungcheunglok1226@pku.edu.cn
 #p 22416561 TimeFlyFast 当时还小 2020-05-14 14:41:40
 OneNote笔记可以通过在线的[https://onedrive.live.com](jump-to.php?url=https%3A%2F%2Fonedrive.live.com)找回啊，还可以在线打开
 #quote hcl
+
+#p 22417527 hcl 19級歷史系 2020-05-14 17:56:13
+哎 好像不能？是不是我的方法有誤？
+#quote TimeFlyFast
 
