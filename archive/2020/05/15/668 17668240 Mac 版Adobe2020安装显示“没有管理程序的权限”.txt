@@ -1,0 +1,25 @@
+#t 668 17668240 wwyydd 2020-05-15 23:18:00 PKUCC 2020-05-15 23:41:00
+Mac 版Adobe2020安装显示“没有管理程序的权限”
+
+#p 22427464 wwyydd ### 2020-05-15 23:18:38
+
+
+2020-05-15 23:18:07
+由于电脑升级了10.15，尝试按照今天最新发布的Adobe2020安装指示进行安装，已经获取了ID，完成注册，下载了Creative Cloud，但启动Creative Cloud时如图，看到别的贴里也有人回复出现同样的情况，似乎不是个例
+
+#p 22427545 PKUCC 北京大学计算中心 2020-05-15 23:40:43
+以下为联系adobe获得的回复，您可以参考下：
+尊敬的客戶，
+您好！感谢您联络Adobe。
+ 
+关于您遇到的问题，请您参考以下链接的方案：
+[https://helpx.adobe.com/cn/enterprise/package/help/customize-creative-cloud-app.html](jump-to.php?url=https%3A%2F%2Fhelpx.adobe.com%2Fcn%2Fenterprise%2Fpackage%2Fhelp%2Fcustomize-creative-cloud-app.html)
+ 
+请您参考：使用 ServiceConfig.xml的步骤
+给您带来的不便深感抱歉，希望以上信息可以帮到您。
+ 
+Best Regards,
+Amber
+Adobe Asia-Pacific Support
+#quote wwyydd
+
