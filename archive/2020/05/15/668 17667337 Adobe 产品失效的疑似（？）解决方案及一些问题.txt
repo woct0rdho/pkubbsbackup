@@ -1,4 +1,4 @@
-#t 668 17667337 RyanBern 2020-05-15 00:10:00 RyanBern 2020-05-15 14:07:00
+#t 668 17667337 RyanBern 2020-05-15 00:10:00 Tapirus 2020-05-15 16:06:00
 Adobe 产品失效的疑似（？）解决方案及一些问题
 
 #p 22423138 RyanBern r.bern 2020-05-15 13:08:18
@@ -50,4 +50,10 @@ UPDATE 2：通过改系统语言为英文可成功加载应用，是不是挂北
 感谢！加载不了的这个问题太玄幻了。我这里的观察是更改系统显示语言之后 Adobe CC 连接的服务器和之前的 IP 不一样，推测也可能是国内连接的服务器有问题？
 我的 Adobe 账号姓名是中文的，可以正常收到（半小时），我同学的话就是一直没收到。
 #quote Fredi
+
+#p 22424886 Tapirus tomorrow and dreams 2020-05-15 16:06:14
+[https://helpx.adobe.com/cn/enterprise/package/help/customize-creative-cloud-app.html](jump-to.php?url=https%3A%2F%2Fhelpx.adobe.com%2Fcn%2Fenterprise%2Fpackage%2Fhelp%2Fcustomize-creative-cloud-app.html)
+计算中心有试试这个吗？？
+我怎么从creative cloud里安装永远都提示我“您没有管理应用程序的权限”。
+#quote PKUCC
 
