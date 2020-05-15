@@ -1,4 +1,4 @@
-#t 668 17666705 rlcheng 2020-05-14 00:22:00 Lucyxixi 2020-05-15 13:57:00
+#t 668 17666705 rlcheng 2020-05-14 00:22:00 menghuohuo 2020-05-15 14:59:00
 Adobe原有激活突然失效
 
 #p 22418696 rlcheng 紫薯 2020-05-14 22:08:36
@@ -324,5 +324,98 @@ win端看pdf的话我推荐xodo，真的很好用欸..可能我就喜欢这种�
 
 #p 22424190 Lucyxixi 风信子 2020-05-15 13:56:52
 遇到了同样的问题
+#quote rlcheng
+
+#p 22424211 ColorX . 2020-05-15 14:01:56
+连上北大VPN可能会有反应？
+#quote SmartEgg
+
+#p 22424224 bookug duckduckgo 2020-05-15 14:04:34
+补一则消息
+[https://rekken.github.io/2020/05/14/Security-Flaws-in-Adobe-Acrobat-Reader-Allow-Malicious-Program-to-Gain-Root-on-macOS-Silently/](jump-to.php?url=https%3A%2F%2Frekken.github.io%2F2020%2F05%2F14%2FSecurity-Flaws-in-Adobe-Acrobat-Reader-Allow-Malicious-Program-to-Gain-Root-on-macOS-Silently%2F)
+#quote rlcheng
+
+#p 22424227 chouchouz 张瞅瞅 2020-05-15 14:04:47
+蹲解决方法～
+#quote rlcheng
+
+#p 22424232 SpiritedAway Spirited_Away_ 2020-05-15 14:05:48
+6h过去了，还是没有...
+#quote Zhehath
+
+#p 22424254 geniusadven Rock 2020-05-15 14:09:25
+三小时过去了，没有收到
+#quote rlcheng
+
+#p 22424270 SmartEgg 聪明哒小蛋蛋 2020-05-15 14:11:49
+之前就是连着的，没反应。。。。
+我刚才有反应了，提示我 请确认您的邮箱格式。。我邮箱地址类似I.L.You@pku.edu.cn这种，里面有“.”，他不让注册。。。。我也不想登录adobe的时候输入 一串数字@pku.edu.cn，就很尴尬，想想还是先不注册了。。
+#quote ColorX
+
+#p 22424279 ColorX . 2020-05-15 14:17:47
+
+
+2020-05-15 14:13:02
+总结一下【解决办法】：
+1. 北大软件平台首页左上（software.w.pku.edu.cn  里面有个w），【ADOBE ID申请】-【填写申请信息】，可能需要连上【北大VPN】才能打开链接。
+2. 填好申请之后邮箱会收到确认邮件（本人3分钟左右），我的是在【垃圾邮件】里。
+3. 之后正常用Adobe Acrobat DC打开一个pdf文件，用这个ID登录就行了，此过程可能也需要连上北大VPN。
+其它问题可以再补充。
+#quote rlcheng
+
+#p 22424291 amoykang 。。。。。 2020-05-15 14:15:09
+请问你的邮件花了多久收到的呀
+#quote ColorX
+
+#p 22424297 ColorX . 2020-05-15 14:15:34
+3分钟左右
+#quote amoykang
+
+#p 22424301 Zhehath 潑月 2020-05-15 14:15:56
+一直收不到邮件咋整啊orz
+#quote rlcheng
+
+#p 22424306 ILOVEcarrot 爱吃胡萝卜 2020-05-15 14:17:05
+我也是~不断卸载清理重装，都不行
+#quote rlcheng
+
+#p 22424381 Iowa IA 2020-05-15 14:30:49
+我也出现了这个问题
+#quote rlcheng
+
+#p 22424386 zhangxiaoxin zhangxiaoxin 2020-05-15 14:31:49
+同样问题，昨天还能用。今天彻底死掉。
+#quote rlcheng
+
+#p 22424387 amoykang 。。。。。 2020-05-15 14:31:52
+一直没收到邮件，垃圾箱也没有
+#quote rlcheng
+
+#p 22424406 Zhehath 潑月 2020-05-15 14:34:54
+我给计算中心打了电话，说出了点故障（我也没仔细问），好几个小时了一直没好，收不到激活邮件就是这个问题，老师（不清楚具体指哪里的老师）一直也没给答复，让我再等等。
+#quote rlcheng
+
+#p 22424413 Paradogs Paradogs 2020-05-15 14:36:23
+申请id后15h未收到邮件。
+#quote rlcheng
+
+#p 22424431 guwu 云卷云舒 2020-05-15 14:39:45
+求赶紧解决吧，写论文画图要用pdf，要用ps。。。
+#quote rlcheng
+
+#p 22424444 Imperio Mobile 2020-05-15 14:41:23
+一样的问题，看来不是个例
+#quote rlcheng
+
+#p 22424456 PKUCC 北京大学计算中心 2020-05-15 14:44:27
+针对adobe 2018版出现的问题，目前正在进行补丁程序测试，会尽快发布。
+#quote rlcheng
+
+#p 22424456 PKUCC 北京大学计算中心 2020-05-15 14:44:27
+针对adobe 2018版出现的问题，目前正在进行补丁程序测试，会尽快发布。
+#quote rlcheng
+
+#p 22424514 menghuohuo menghuohuo 2020-05-15 14:58:15
++1 表示如何重装和激活都不能解决问题
 #quote rlcheng
 
