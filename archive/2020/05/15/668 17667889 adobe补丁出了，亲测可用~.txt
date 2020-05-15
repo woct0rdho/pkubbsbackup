@@ -1,0 +1,18 @@
+#t 668 17667889 abnormal 2020-05-15 18:23:00 KingChen 2020-05-15 18:51:00
+adobe补丁出了，亲测可用~
+
+#p 22425597 abnormal 凡木 2020-05-15 18:22:18
+按照说明使用就行，期间确实没有任何窗口和提示，还以为不行呢，不过一会软件可以打开用了，计算中心的效率还是快的，点个赞~
+
+#p 22425608 abnormal 凡木 2020-05-15 18:24:10
+网址[http://software.pku.edu.cn](jump-to.php?url=http%3A%2F%2Fsoftware.pku.edu.cn),点使用帮助里左侧有个adobe激活补丁
+#quote abnormal
+
+#p 22425701 PKUCC 北京大学计算中心 2020-05-15 18:44:24
+谢谢，我们一直在努力。
+#quote abnormal
+
+#p 22425727 KingChen 成长期的黑鱼 2020-05-15 18:50:56
+我刚刚才遇到就解决了，实在是太快了
+#quote abnormal
+

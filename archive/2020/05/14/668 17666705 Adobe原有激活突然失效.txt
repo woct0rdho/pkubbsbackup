@@ -1,4 +1,4 @@
-#t 668 17666705 rlcheng 2020-05-14 00:22:00 rlcheng 2020-05-15 17:53:00
+#t 668 17666705 rlcheng 2020-05-14 00:22:00 rlcheng 2020-05-15 18:42:00
 Adobe原有激活突然失效
 
 #p 22418696 rlcheng 紫薯 2020-05-14 22:08:36
@@ -493,11 +493,87 @@ edge，最好的pdf阅读器（草
 补丁已解决
 #quote rlcheng
 
-#p 22425450 rlcheng 紫薯 2020-05-15 17:51:45
-问题已解决，大家右键以管理员模式运行AdobeSerialization即可。感谢上面楼层的及时分享~
+#p 22425450 rlcheng 紫薯 2020-05-15 17:54:33
+
+
+2020-05-15 17:51:45
+问题已解决，大家右键以管理员模式运行AdobeSerialization即可（运行过程应该是完全静默的，过一会儿打开adobe软件就发现一切恢复正常了）。感谢上面楼层的及时分享~
 #quote rlcheng
 
-#p 22425453 rlcheng 紫薯 2020-05-15 17:52:15
+#p 22425453 rlcheng 紫薯 2020-05-15 17:55:12
+
+
+2020-05-15 17:52:15
 感谢！睡起来发现计算中心发补丁了hhhh
+计算中心属实高效
 #quote amadeushe
+
+#p 22425500 chouchouz 张瞅瞅 2020-05-15 18:07:59
+计算中心太给力啦！
+#quote rlcheng
+
+#p 22425509 zhoujb zhoujb 2020-05-15 18:09:03
+#DELETED
+mac的那个激活补丁的链接好像不行。。
+#quote rlcheng
+
+#p 22425550 Homagod 不愉快なら問答無用、撃て 2020-05-15 18:13:34
+好像不行
+#quote Immo
+
+#p 22425554 zhoujb zhoujb 2020-05-15 18:14:17
+#DELETED
+哦，把window那个补丁的链接改成Mac就可以下载了，就是从[http://software.pku.edu.cn/help/adobe/Adobe/img/Windows%E6%BF%80%E6%B4%BB%E8%A1%A5%E4%B8%81.zip](jump-to.php?url=http%3A%2F%2Fsoftware.pku.edu.cn%2Fhelp%2Fadobe%2FAdobe%2Fimg%2FWindows%25E6%25BF%2580%25E6%25B4%25BB%25E8%25A1%25A5%25E4%25B8%2581.zip)，改为[http://software.pku.edu.cn/help/adobe/Adobe/img/Mac%E6%BF%80%E6%B4%BB%E8%A1%A5%E4%B8%81.zip](jump-to.php?url=http%3A%2F%2Fsoftware.pku.edu.cn%2Fhelp%2Fadobe%2FAdobe%2Fimg%2FMac%25E6%25BF%2580%25E6%25B4%25BB%25E8%25A1%25A5%25E4%25B8%2581.zip)就可以下载mac的补丁了
+#quote zhoujb
+
+#p 22425558 Homagod 不愉快なら問答無用、撃て 2020-05-15 18:15:11
+感动
+#quote rlcheng
+
+#p 22425562 nogatnep ko001 2020-05-15 18:15:20
+感谢啊
+#quote amadeushe
+
+#p 22425577 CharlesChou Annoying Orange 2020-05-15 18:18:10
+新补丁有效，感谢计算中心老师
+#quote rlcheng
+
+#p 22425620 leonblacat BYDZ沐一 2020-05-15 18:27:19
+已修复 感谢！
+#quote rlcheng
+
+#p 22425633 PKUCC 北京大学计算中心 2020-05-15 18:30:10
+如果还没登录的用户，可按照以下方式处理：
+登录正版软件平台，点击左侧使用帮助，找到Adobe安装教程，点击激活补丁，查看相关内容进行处理；
+关于申请了Adobe ID未收到邮件的用户：
+由于今天申请Adobe ID的用户数量过多，Adobe 限制了添加ID的频率，有一部分用户未添加成功，对于还没添加成功的，我们会尽快想办法处理。
+#quote rlcheng
+
+#p 22425633 PKUCC 北京大学计算中心 2020-05-15 18:30:10
+如果还没登录的用户，可按照以下方式处理：
+登录正版软件平台，点击左侧使用帮助，找到Adobe安装教程，点击激活补丁，查看相关内容进行处理；
+关于申请了Adobe ID未收到邮件的用户：
+由于今天申请Adobe ID的用户数量过多，Adobe 限制了添加ID的频率，有一部分用户未添加成功，对于还没添加成功的，我们会尽快想办法处理。
+#quote rlcheng
+
+#p 22425639 ZSQAQ 斯者可谓巧矣 2020-05-15 18:30:56
+#DELETED
+我下载了补丁客户端还是不行 TAT
+是会出现这样的字吗：
+继续安装请输入y 否则输入n退出：y
+补丁客户端安装成功，请重新启动计算机！
+重启之后还是打不开
+#quote rlcheng
+
+#p 22425649 Homagod 不愉快なら問答無用、撃て 2020-05-15 18:34:17
+感恩
+#quote PKUCC
+
+#p 22425654 hxg MILANMILAN 2020-05-15 18:34:34
+成功了，感谢！
+#quote PKUCC
+
+#p 22425693 rlcheng 紫薯 2020-05-15 18:41:40
+感谢！
+#quote PKUCC
 
