@@ -1,4 +1,4 @@
-#t 35 16264150 hiaoxui 2017-11-10 00:00:00 hiaoxui 2020-05-14 11:48:00
+#t 35 16264150 hiaoxui 2017-11-10 00:00:00 zhaojingyi 2020-05-15 21:37:00
 科学上网, SSR 服务器分享
 
 #p 17134091 hiaoxui 小辉 2020-05-07 09:47:29
@@ -2406,4 +2406,13 @@ Android 的客户端是最垃圾的客户端, 操作逻辑莫名其妙而且非�
 用 ss-libev 这种可以替代吧.
 linux 就不指导了, 不同发行版本差异太大.
 #quote chilianchan
+
+#p 22426465 zhaojingyi 无妄 2020-05-15 21:36:10
+在谷歌学术下载文章引用的endnote文件时，出现了
+**403.** That’s an error.
+Your client does not have permission to get URL 
+/scholar.enw?q=info:4-e6M-LWtTIJ:scholar.google.com/&amp;output=citation&amp;scisdr=CgVHHFe2EOv21FeebqM:AAGBfm0AAAAAXr6bdqOMBeqgQ80FywR4lykuBrxhakL4&amp;scisig=AAGBfm0AAAAAXr6bdq6Q0O7yE7MPQLRYpJzkOlzFbykf&amp;scisf=3&amp;ct=citation&amp;cd=-1&amp;hl=zh-CN
+ from this server. 
+这是为啥呀
+#quote hiaoxui
 
