@@ -1,4 +1,4 @@
-#t 35 16264150 hiaoxui 2017-11-10 00:00:00 zhaojingyi 2020-05-15 21:37:00
+#t 35 16264150 hiaoxui 2017-11-10 00:00:00 zhaojingyi 2020-05-16 00:16:00
 科学上网, SSR 服务器分享
 
 #p 17134091 hiaoxui 小辉 2020-05-07 09:47:29
@@ -2414,5 +2414,13 @@ Your client does not have permission to get URL
 /scholar.enw?q=info:4-e6M-LWtTIJ:scholar.google.com/&amp;output=citation&amp;scisdr=CgVHHFe2EOv21FeebqM:AAGBfm0AAAAAXr6bdqOMBeqgQ80FywR4lykuBrxhakL4&amp;scisig=AAGBfm0AAAAAXr6bdq6Q0O7yE7MPQLRYpJzkOlzFbykf&amp;scisf=3&amp;ct=citation&amp;cd=-1&amp;hl=zh-CN
  from this server. 
 这是为啥呀
+#quote hiaoxui
+
+#p 22429536 hiaoxui 小辉 2020-05-16 13:49:26
+问题已经解决.
+#quote zhaojingyi
+
+#p 22430138 zhaojingyi 无妄 2020-05-16 16:27:41
+感谢感谢~
 #quote hiaoxui
 
