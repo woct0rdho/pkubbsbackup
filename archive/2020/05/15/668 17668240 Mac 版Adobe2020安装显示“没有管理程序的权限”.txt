@@ -1,4 +1,4 @@
-#t 668 17668240 wwyydd 2020-05-15 00:23:00 quicy 2020-05-16 12:10:00
+#t 668 17668240 wwyydd 2020-05-15 00:23:00 RichardWake 2020-05-16 17:52:00
 Mac 版Adobe2020安装显示“没有管理程序的权限”
 
 #p 22427464 wwyydd ### 2020-05-15 23:18:38
@@ -42,4 +42,8 @@ Adobe Asia-Pacific Support
 #p 22429176 quicy quicy 2020-05-16 12:10:02
 为什么就不能让安装一步到位呢？
 #quote PKUCC
+
+#p 22431022 RichardWake RichardWake 2020-05-16 17:51:11
+已经弃疗了，就准备用preview了
+#quote wwyydd
 
