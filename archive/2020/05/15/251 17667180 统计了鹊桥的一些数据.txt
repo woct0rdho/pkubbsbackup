@@ -1,11 +1,12 @@
-#t 251 17667180 twinklestar 2020-05-15 00:07:00 euio 2020-05-15 15:04:00
+#t 251 17667180 twinklestar 2020-05-15 00:07:00 twinklestar 2020-05-16 08:51:00
 统计了鹊桥的一些数据
 
-#p 22420251 twinklestar 星尘 2020-05-15 10:17:57
+#p 22420251 twinklestar 星尘 2020-05-16 08:42:23
 
 
 2020-05-15 07:58:34
 抓取了最近1000个鹊桥的帖子，选取其中征友帖子，统计了一些数据
+抓取部分代码 [https://github.com/pkucode/PKUbbsspider](jump-to.php?url=https%3A%2F%2Fgithub.com%2Fpkucode%2FPKUbbsspider)
 在样本中所有男生征mm帖子中，平均获赞 4.16 平均被踩 6.95， 踩：赞=1.67 （本项统计范围是点赞或点踩数大于0的帖子）
 在样本中所有女生征gg帖子中，平均获赞 15.12 平均被踩 24.80，踩：赞=1.64
 下面左右两列分别是样本中女生和男生征友贴的词频（前30. 左边是女生征友，右边是男生）
@@ -80,5 +81,13 @@ com        209                没有        121
 
 #p 22424542 euio 耳目一心 2020-05-15 15:03:23
 附议。
+#quote nietsnie
+
+#p 22428427 twinklestar 星尘 2020-05-16 08:50:36
+
+
+2020-05-16 08:50:13
+数据文件超过20M，好像既传不了BBS也传不了github，我把爬虫部分的代码传到github了
+ [https://github.com/pkucode/PKUbbsspider](jump-to.php?url=https%3A%2F%2Fgithub.com%2Fpkucode%2FPKUbbsspider)
 #quote nietsnie
 
