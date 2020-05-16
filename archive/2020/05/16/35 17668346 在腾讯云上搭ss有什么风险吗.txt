@@ -1,4 +1,4 @@
-#t 35 17668346 EdwinHu 2020-05-16 00:00:00 lldsolitude 2020-05-16 07:51:00
+#t 35 17668346 EdwinHu 2020-05-16 00:00:00 EdwinHu 2020-05-16 10:00:00
 在腾讯云上搭ss有什么风险吗
 
 #p 22427795 EdwinHu EdwinHu 2020-05-16 00:42:03
@@ -19,4 +19,16 @@
 #p 22428315 lldsolitude 我要长大 2020-05-16 07:50:40
 http和socks代理都没有加密，肯定不能用到公网上。
 #quote IlIl
+
+#p 22428569 ILBSD XMaster 2020-05-16 09:38:13
+用openvpn不就得了
+#quote EdwinHu
+
+#p 22428576 ILBSD XMaster 2020-05-16 09:40:16
+如果socks也行，那就直接ssh -D完事
+#quote lldsolitude
+
+#p 22428640 EdwinHu EdwinHu 2020-05-16 09:59:41
+好的谢谢
+#quote lldsolitude
 

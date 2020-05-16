@@ -1,4 +1,4 @@
-#t 251 17667180 twinklestar 2020-05-15 00:07:00 twinklestar 2020-05-16 08:51:00
+#t 251 17667180 twinklestar 2020-05-15 00:07:00 twinklestar 2020-05-16 09:44:00
 统计了鹊桥的一些数据
 
 #p 22420251 twinklestar 星尘 2020-05-16 08:42:23
@@ -89,5 +89,25 @@ com        209                没有        121
 2020-05-16 08:50:13
 数据文件超过20M，好像既传不了BBS也传不了github，我把爬虫部分的代码传到github了
  [https://github.com/pkucode/PKUbbsspider](jump-to.php?url=https%3A%2F%2Fgithub.com%2Fpkucode%2FPKUbbsspider)
+#quote nietsnie
+
+#p 22428459 nietsnie 嗯，我是一个昵称 2020-05-16 09:02:21
+GitHub 是可以传的呀，默认是单个 100 MB 以下都能吧，整个仓库不超过 1 GB
+#quote twinklestar
+
+#p 22428523 twinklestar 星尘 2020-05-16 09:25:39
+#DELETED
+哦哦是我记错了在这，因为可能有敏感数据，所以别外传哈[https://github.com/pkucode/PKUbbsspider/blob/master/](jump-to.php?url=https%3A%2F%2Fgithub.com%2Fpkucode%2FPKUbbsspider%2Fblob%2Fmaster%2F)鹊桥1000.json
+最开始疏忽了，用的是字典格式
+#quote nietsnie
+
+#p 22428527 nietsnie 嗯，我是一个昵称 2020-05-16 09:27:12
+感谢
+#quote twinklestar
+
+#p 22428587 twinklestar 星尘 2020-05-16 09:43:14
+我想想上传github还是不太好毕竟鹊桥是不对校外的版面，所以还是上传北大网盘把，这是链接。github我还是删了
+[https://disk.pku.edu.cn:443/link/D95F8C3633F2433ADBBCB3DB2343ABCF](jump-to.php?url=https%3A%2F%2Fdisk.pku.edu.cn%3A443%2Flink%2FD95F8C3633F2433ADBBCB3DB2343ABCF)
+json文件内是个字典，数据格式是  {标题：[[一楼作者id，点赞，点踩，内容，引用，时间][二楼·。。。]]，标题2:}  因为有的标题重复了，所以最后漏了20多条数据
 #quote nietsnie
 
