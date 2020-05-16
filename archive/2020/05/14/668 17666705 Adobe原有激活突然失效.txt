@@ -1,4 +1,4 @@
-#t 668 17666705 rlcheng 2020-05-14 00:22:00 zqtang 2020-05-16 10:15:00
+#t 668 17666705 rlcheng 2020-05-14 00:22:00 yanshandaxue 2020-05-16 16:11:00
 Adobe原有激活突然失效
 
 #p 22418696 rlcheng 紫薯 2020-05-14 22:08:36
@@ -305,7 +305,7 @@ patpat，保存了就行（捂脸）
 表示在学校，使用的是校园网
 #quote rlcheng
 
-#p 22424126 chouchouz 张瞅瞅 2020-05-15 13:39:37
+#p 22424126 chouchouz ccz 2020-05-15 13:39:37
 我也是这样，很郁闷
 #quote rlcheng
 
@@ -335,7 +335,7 @@ win端看pdf的话我推荐xodo，真的很好用欸..可能我就喜欢这种�
 [https://rekken.github.io/2020/05/14/Security-Flaws-in-Adobe-Acrobat-Reader-Allow-Malicious-Program-to-Gain-Root-on-macOS-Silently/](jump-to.php?url=https%3A%2F%2Frekken.github.io%2F2020%2F05%2F14%2FSecurity-Flaws-in-Adobe-Acrobat-Reader-Allow-Malicious-Program-to-Gain-Root-on-macOS-Silently%2F)
 #quote rlcheng
 
-#p 22424227 chouchouz 张瞅瞅 2020-05-15 14:04:47
+#p 22424227 chouchouz ccz 2020-05-15 14:04:47
 蹲解决方法～
 #quote rlcheng
 
@@ -508,7 +508,7 @@ edge，最好的pdf阅读器（草
 计算中心属实高效
 #quote amadeushe
 
-#p 22425500 chouchouz 张瞅瞅 2020-05-15 18:07:59
+#p 22425500 chouchouz ccz 2020-05-15 18:07:59
 计算中心太给力啦！
 #quote rlcheng
 
@@ -666,4 +666,8 @@ adobe的自动检测挺烦人的，大家激活之后可以试试改host屏蔽�
 参考自：
 [https://helpx.adobe.com/cn/enterprise/package/help/customize-creative-cloud-app.html](jump-to.php?url=https%3A%2F%2Fhelpx.adobe.com%2Fcn%2Fenterprise%2Fpackage%2Fhelp%2Fcustomize-creative-cloud-app.html)
 #quote zqtang
+
+#p 22430110 yanshandaxue 小灰和小白 2020-05-16 16:10:36
+能用了！谢谢老师
+#quote PKUCC
 
