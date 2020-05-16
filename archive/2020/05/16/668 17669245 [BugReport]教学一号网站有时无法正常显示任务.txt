@@ -1,0 +1,10 @@
+#t 668 17669245 thaikon 2020-05-16 18:23:00 PKUCC 2020-05-16 18:33:00
+[BugReport]教学一号网站有时无法正常显示任务
+
+#p 22431154 thaikon 陶象 2020-05-16 18:22:16
+在 [http://hpc.pku.edu.cn/stat/wmjxyh](jump-to.php?url=http%3A%2F%2Fhpc.pku.edu.cn%2Fstat%2Fwmjxyh) 网站上，常常会出现如图所示的 bug，资源使用情况和任务列表无法显示。
+
+#p 22431193 PKUCC 北京大学计算中心 2020-05-16 18:32:13
+我们会核查您提到的问题
+#quote thaikon
+
