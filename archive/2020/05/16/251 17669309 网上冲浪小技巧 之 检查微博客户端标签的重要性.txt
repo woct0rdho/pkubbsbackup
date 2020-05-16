@@ -1,4 +1,4 @@
-#t 251 17669309 Hotarubi 2020-05-16 19:32:00 Hotarubi 2020-05-16 19:32:00
+#t 251 17669309 Hotarubi 2020-05-16 00:19:00 Hotarubi 2020-05-16 20:31:00
 网上冲浪小技巧 之 检查微博客户端标签的重要性
 
 #p 22431432 Hotarubi 是扇底闪躲|或雨水摧折 2020-05-16 19:32:32
@@ -12,4 +12,12 @@
 <img src="https://tvax4.sinaimg.cn/large/91295f60ly1gesyxk1rp3j2140235ts9.jpg"/>
 <img src="https://tvax2.sinaimg.cn/large/91295f60ly1gesyxkk0z2j21400cq774.jpg"/>
 怎么说，当事人既已表示弃号，那再细究这个指控本身有几分可能成立有几分可能不成立也意义不太大了。但是大家以后都可长个心眼：古有BBS用IP辨马甲，今有频繁更换设备标签辨热点当事人运营团队，都是上网冲浪实用小技巧啊。
+
+#p 22431556 sixeyedfish  2020-05-16 20:07:55
+还有靠缓存页面名称（“papi酱推广”）
+#quote Hotarubi
+
+#p 22431655 Hotarubi 是扇底闪躲|或雨水摧折 2020-05-16 20:30:25
+上传B站时一定要改文件名啊.jpg
+#quote sixeyedfish
 
