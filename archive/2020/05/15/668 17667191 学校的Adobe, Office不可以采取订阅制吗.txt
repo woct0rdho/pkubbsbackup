@@ -1,4 +1,4 @@
-#t 668 17667191 BigBigMouse 2020-05-15 00:08:00 schaffen 2020-05-15 20:41:00
+#t 668 17667191 BigBigMouse 2020-05-15 00:08:00 BigBigMouse 2020-05-18 00:16:00
 学校的Adobe, Office不可以采取订阅制吗
 
 #p 22420287 BigBigMouse wsssss 2020-05-15 08:12:56
@@ -48,4 +48,8 @@ office365国内似乎都没学校有A3的，白嫖不了，想用的话似乎得
 #p 22426200 schaffen 不滅英魂 2020-05-15 20:40:47
 计算中心已经上线adobe2020了吧，而且用adobe ID从Creative Cloud下载的模式应该算是订阅制了
 #quote BigBigMouse
+
+#p 22436593 BigBigMouse wsssss 2020-05-18 00:15:15
+确实嘿！我也是才发现可以从creative cloud 下载了。现在超级后悔自己为什么要在买香港的adobe....
+#quote schaffen
 
