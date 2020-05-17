@@ -1,4 +1,4 @@
-#t 1431 17666298 nierqinsike 2020-05-14 00:16:00 winkwink 2020-05-17 19:45:00
+#t 1431 17666298 nierqinsike 2020-05-14 00:16:00 nierqinsike 2020-05-17 23:08:00
 5个月没有用过的电动车电池还能用么
 
 #p 22417127 nierqinsike Nicolaj 2020-05-14 16:46:57
@@ -25,4 +25,8 @@
 #p 22435575 winkwink 123 2020-05-17 19:44:11
 锂电池应该没问题 铅酸的不知道
 #quote nierqinsike
+
+#p 22436329 nierqinsike Nicolaj 2020-05-17 23:07:27
+谢谢
+#quote winkwink
 
