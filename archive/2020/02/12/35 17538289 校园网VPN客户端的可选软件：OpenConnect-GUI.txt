@@ -1,7 +1,7 @@
-#t 35 17538289 PKUwuming 2020-02-12 00:15:00 pennsecret 2020-04-13 23:16:00
+#t 35 17538289 PKUwuming 2020-02-12 00:15:00 nicehyh 2020-05-17 21:18:00
 校园网VPN客户端的可选软件：OpenConnect-GUI
 
-#p 21835506 PKUwuming 无名 2020-02-15 16:52:13
+#p 21835506 PKUwuming 无名 2020-04-16 09:03:39
 
 
 2020-02-12 15:19:34
@@ -15,7 +15,6 @@
 - 用户名为：学号
 - VPN协议选择 Juniper Network Connect
 MacOS下的配置示意图如附件所示
-（有同学反馈软件下载不了，麻烦私信我，我用邮箱发给你）
 
 #p 21837189 jiamingpku jiamingpku 2020-02-12 21:20:14
 Linux 版有讨论
@@ -47,7 +46,7 @@ windows不要用pulse secure的客户端。直接在微软应用商店下载。�
 的确好用！
 #quote PKUwuming
 
-#p 21845870 jieyuhuayang 艮 2020-02-14 19:11:13
+#p 21845870 jieyuhuayang 下艮上坤 2020-02-14 19:11:13
 nice！！！Pulse Secure我从来没连上过，这个完美！
 #quote PKUwuming
 
@@ -97,7 +96,7 @@ UWP版本是集成到Windows自带的VPN设置里的。
 谢谢楼主，亲测可用。pulse secure有时不太好用
 #quote PKUwuming
 
-#p 21871489 innocentwang 柳烟轻寒 2020-02-19 21:46:15
+#p 21871489 innocentwang Exodus 2020-02-19 21:46:15
 太感谢了，pulse secure一直用不了，显示未能连接虚拟适配器，卸了杀毒软件也不管用，用了这个以后瞬间连上！
 另：不要随便用UWP版本的pulse secure，有风险！我今天试了以后，本地网瞬间断了，关闭vpn也不管用，只有重启才有概率恢复！我今天一边听课一边弄vpn，结果瞬间掉出课堂……
 #quote PKUwuming
@@ -106,7 +105,7 @@ UWP版本是集成到Windows自带的VPN设置里的。
 vpn会断原网络难道不是再正常不过的行为么……
 #quote innocentwang
 
-#p 21875635 innocentwang 柳烟轻寒 2020-02-20 17:34:48
+#p 21875635 innocentwang Exodus 2020-02-20 17:34:48
 问题是断了原网络也上不了网，甚至关闭乃至删除vpn也不能恢复
 #quote lcdlyxrqy
 
@@ -160,5 +159,9 @@ pulse secure是有ipv6连接的，应该是可以的
 
 #p 22217202 pennsecret Fantasy polaris 2020-04-13 23:15:37
 太好用了。解决了我查文献的困难！
+#quote PKUwuming
+
+#p 22435921 nicehyh 导演 2020-05-17 21:18:01
+太棒啦~~~~~~~网速从20kb/s变成400+kb/s，妈妈再也不用担心我下载文献啦！
 #quote PKUwuming
 
