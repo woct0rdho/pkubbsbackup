@@ -1,4 +1,4 @@
-#t 668 17611938 Tapirus 2020-04-05 00:10:00 Tapirus 2020-04-07 16:13:00
+#t 668 17611938 Tapirus 2020-04-05 00:10:00 iris 2020-05-17 19:56:00
 Adobe Acrobat Pro 在 Mac OS Catalina 下安装失败
 
 #p 22161067 Tapirus tomorrow and dreams 2020-04-05 10:20:41
@@ -24,4 +24,8 @@ WPS我也没研究太多，你可以先装了试试，没用再删哈
 #p 22172063 Tapirus tomorrow and dreams 2020-04-07 16:13:29
 谢谢，我主要是需要pdf的文字编辑、OCR和增强处理功能，不过还是感谢你！
 #quote ThinLee
+
+#p 22435614 iris iris 2020-05-17 19:56:01
+现在还是不能安装呀～请问如何解决安装问题
+#quote PKUCC
 
