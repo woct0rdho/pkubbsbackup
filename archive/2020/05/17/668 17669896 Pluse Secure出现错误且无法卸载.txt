@@ -1,0 +1,17 @@
+#t 668 17669896 srxh 2020-05-17 08:11:00 PKUCC 2020-05-17 08:41:00
+Pluse Secure出现错误且无法卸载
+
+#p 22433208 srxh 啧啧啧 2020-05-17 08:10:57
+如图，打开该软件后是第一幅图，无法使用。
+尝试卸载，但进度条一直停止不动，之后报错。
+请问计算中心的老师有什么比较好的解决办法吗？
+
+#p 22433219 srxh 啧啧啧 2020-05-17 08:16:29
+不好意思，没有描述清楚。进度条一直不动后我点击了取消，之后会报错。
+内容：Service"Pluse Secure Service" couldn't be stopped. Verify that you have sufficient privileges to stop system service 
+#quote srxh
+
+#p 22433269 PKUCC 北京大学计算中心 2020-05-17 08:40:55
+你好，错误信息已提示是系统权限方面的原因，无法配置和无法卸载都是由此所致，请完全卸载本地系统安装的第三方安全软件试试。
+#quote srxh
+
