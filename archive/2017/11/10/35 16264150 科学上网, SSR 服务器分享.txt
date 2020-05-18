@@ -1,4 +1,4 @@
-#t 35 16264150 hiaoxui 2017-11-10 00:00:00 zhaojingyi 2020-05-16 00:16:00
+#t 35 16264150 hiaoxui 2017-11-10 00:00:00 aakitefly 2020-05-18 08:27:00
 科学上网, SSR 服务器分享
 
 #p 17134091 hiaoxui 小辉 2020-05-07 09:47:29
@@ -2422,5 +2422,18 @@ Your client does not have permission to get URL
 
 #p 22430138 zhaojingyi 无妄 2020-05-16 16:27:41
 感谢感谢~
+#quote hiaoxui
+
+#p 22436308 ritty ritty 2020-05-17 22:57:25
+唉，渣渣网络，用流量都下不下来ssr 安卓版，怎么办😭
+#quote hiaoxui
+
+#p 22436610 hiaoxui 小辉 2020-05-18 00:21:56
+[https://github.com/shadowsocksrr/shadowsocksr-android/releases](jump-to.php?url=https%3A%2F%2Fgithub.com%2Fshadowsocksrr%2Fshadowsocksr-android%2Freleases)
+试试直接从这里下载
+#quote ritty
+
+#p 22437268 aakitefly 官员财产公示制度 2020-05-18 08:27:15
+非常感谢
 #quote hiaoxui
 
