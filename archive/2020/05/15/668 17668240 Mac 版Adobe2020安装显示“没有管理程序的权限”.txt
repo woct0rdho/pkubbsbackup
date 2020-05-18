@@ -1,4 +1,4 @@
-#t 668 17668240 wwyydd 2020-05-15 00:23:00 manifecr 2020-05-16 20:12:00
+#t 668 17668240 wwyydd 2020-05-15 00:23:00 yeyuying 2020-05-18 13:42:00
 Mac 版Adobe2020安装显示“没有管理程序的权限”
 
 #p 22427464 wwyydd ### 2020-05-15 23:18:38
@@ -51,4 +51,8 @@ Adobe Asia-Pacific Support
 是的 我就是这样改好的 附上链接
 [https://www.zhihu.com/question/355931290](jump-to.php?url=https%3A%2F%2Fwww.zhihu.com%2Fquestion%2F355931290)
 #quote aichi
+
+#p 22438688 yeyuying 多拉古尼尔 2020-05-18 13:41:40
+修改之后打开cc显示一片空白。。。。。接下来该怎么处理呢？？？
+#quote PKUCC
 

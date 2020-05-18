@@ -1,4 +1,4 @@
-#t 668 17666705 rlcheng 2020-05-14 00:22:00 Fighttodeath 2020-05-18 11:11:00
+#t 668 17666705 rlcheng 2020-05-14 00:22:00 tzlewis 2020-05-18 13:11:00
 Adobe原有激活突然失效
 
 #p 22418696 rlcheng 紫薯 2020-05-14 22:08:36
@@ -722,4 +722,23 @@ You don't seem to have access to the Adobe Admin Console. If you think you shoul
 #p 22437964 Fighttodeath superb11 2020-05-18 11:10:59
 同学想问一下怎么解决？我这边也是登录了Cloud但是显示没有权限管理应用。
 #quote tzlewis
+
+#p 22438542 tzlewis llillusion 2020-05-18 13:11:06
+操作一：
+使用 ServiceConfig.xml
+以下为使用 ServiceConfig.xml 启用或禁用“应用程序”面板的步骤：
+找到或创建 ServiceConfig.xml 文件：Windows：C:\Program Files (x86)\Common Files\Adobe\OOBE\Configs\ServiceConfig.xmlmacOS：/Library/Application Support/Adobe/OOBE/Configs/ServiceConfig.xml
+在该文件中，找到 &lt;visible&gt; 元素，并将其内容改为 True 或 False（默认）来启用或禁用应用程序面板。
+&lt;config&gt;
+    &lt;panel&gt;
+        &lt;name&gt;AppsPanel&lt;/name&gt;
+        &lt;visible&gt;false&lt;/visible&gt;
+    &lt;/panel&gt;
+&lt;/config&gt;
+注意:
+要看到用户计算机上 Creative Cloud 桌面应用程序的变化，您必须注销 Adobe 帐户并再次登录。
+操作二：
+系统语言调整成英文
+我两个都用了，然后好了。
+#quote Fighttodeath
 
