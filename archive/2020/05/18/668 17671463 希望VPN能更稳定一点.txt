@@ -1,4 +1,4 @@
-#t 668 17671463 fightBoy 2020-05-18 00:11:00 fightBoy 2020-05-18 18:58:00
+#t 668 17671463 fightBoy 2020-05-18 00:11:00 fightBoy 2020-05-18 19:09:00
 希望VPN能更稳定一点
 
 #p 22438057 fightBoy call me 鸡腿饭好了 2020-05-18 11:29:34
@@ -25,5 +25,9 @@ mac的pku secure是很稳定的。win10上建议你使用Microsoft store里的pk
 #p 22440170 fightBoy call me 鸡腿饭好了 2020-05-18 18:57:55
 我有的是its.pku.edu.cn上的Pulse Secure.我按您的建议试试。
 感谢~~~
+#quote sail
+
+#p 22440208 fightBoy call me 鸡腿饭好了 2020-05-18 19:08:36
+经实践，Microsoft store里下载的新版本确实更稳定~
 #quote sail
 
