@@ -1,4 +1,4 @@
-#t 35 16264150 hiaoxui 2017-11-10 00:00:00 aakitefly 2020-05-18 08:27:00
+#t 35 16264150 hiaoxui 2017-11-10 00:00:00 hiaoxui 2020-05-18 15:37:00
 科学上网, SSR 服务器分享
 
 #p 17134091 hiaoxui 小辉 2020-05-07 09:47:29
@@ -2436,4 +2436,14 @@ Your client does not have permission to get URL
 #p 22437268 aakitefly 官员财产公示制度 2020-05-18 08:27:15
 非常感谢
 #quote hiaoxui
+
+#p 22438908 LaFataBlu Jungfrau 2020-05-18 14:27:20
+最近墙又高了吗？
+蓝灯上不去
+楼主SSR订阅后也上不去......
+#quote hiaoxui
+
+#p 22439177 hiaoxui 小辉 2020-05-18 15:37:10
+[https://blog.wallesspku.space/blog/post/hiaoxui/ssr-faq-zh](jump-to.php?url=https%3A%2F%2Fblog.wallesspku.space%2Fblog%2Fpost%2Fhiaoxui%2Fssr-faq-zh)
+#quote LaFataBlu
 
