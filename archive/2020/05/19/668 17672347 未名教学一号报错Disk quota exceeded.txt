@@ -1,0 +1,6 @@
+#t 668 17672347 stonechen 2020-05-19 00:47:00 stonechen 2020-05-19 00:47:00
+未名教学一号报错Disk quota exceeded
+
+#p 22441519 stonechen 人人都爱小萝莉 2020-05-19 00:46:45
+今天发现连mkdir都报错“Disk quota exceeded”，我的存储空间没有到30G，删除部分文件后依然报错，请问是什么原因呀？
+
