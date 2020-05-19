@@ -1,4 +1,4 @@
-#t 251 17673356 liuyz 2020-05-19 00:19:00 shengdalin 2020-05-19 22:45:00
+#t 251 17673356 liuyz 2020-05-19 00:19:00 Hotarubi 2020-05-19 23:09:00
 胡锡进建议翻墙合法化
 
 #p 22445191 liuyz liuyz 2020-05-19 19:19:49
@@ -20,5 +20,31 @@
 
 #p 22446055 shengdalin 盛大林 2020-05-19 22:44:18
 翻墙合法化，还要墙干嘛？他应该直接建议——拆墙。
+#quote liuyz
+
+#p 22446177 ATP 捕鱼达人 2020-05-19 23:01:35
+老虎已经删薄跑路了
+#quote liuyz
+
+#p 22446209 npchan Forever Young. 2020-05-19 23:07:38
+世界上本没有墙
+#quote liuyz
+
+#p 22446214 Hotarubi 是扇底闪躲|或雨水摧折 2020-05-19 23:08:37
+忽然想到一个事情，前两天Durov宣布借由电报建立区块链平台和加密货币的计划，因美国法院的禁止而被迫放弃。美国能禁止这个货币在国内发行，又如何能管得着其在海外的事情呢？
+法院判词说，如果该货币在海外发行，那么美国公民将仍有机会能够使用这一货币。由于美国在信息基础设施和金融上占有统治地位（可以下令苹果和谷歌从全球市场中移除应用，亦可以利用金融上的地位让任一家银行户头倒闭），因此其他国家实际上已经失去了让国民拥有自主判断选择权利的主权。还好美国其他领域并未占有这样霸权，不然如若再度宣布禁酒，则世界其他国家的酒厂也得迫于淫威接受长臂管辖了。Durov说，这个世界已经中心化到了你削减其中心化程度的行为会受挫的恶性循环的地步。
+那我们呢？美国凶巴巴长臂管辖不让别国公民拥有自主判断选择的权利，我们也凶巴巴，但是我们是不让自己的公民拥有自主判断选择的权利。好听点说墙挡下了技术领域可能的长臂管辖，难听点说，人家窝外横你这窝里横呢？再者，设若有一天米国的霸权地位被替换成了建州的霸权地位，那是不是世界人民还得接受同样（且就范围领域而言会更广泛）的“我们认为X对中国人不好，为了让中国人出国也碰不到那些东西，所以你们也不许碰”呢？
+[https://telegra.ph/What-Was-TON-And-Why-It-Is-Over-05-12](jump-to.php?url=https%3A%2F%2Ftelegra.ph%2FWhat-Was-TON-And-Why-It-Is-Over-05-12)
+For the last 2,5 years some of our best engineers have been working on a next-generation blockchain platform called TON and a cryptocurrency we were going to name Gram. TON was designed to share the principles of decentralization pioneered by Bitcoin and Ethereum, but to be vastly superior to them in speed and scalability. 
+We were very proud with the result – the technology we created allowed for an open, free, decentralized exchange of value and ideas. When integrated with Telegram, TON had the potential to revolutionize how people store and transfer funds and information.
+Unfortunately, a US court stopped TON from happening. How? Imagine that several people put their money together to build a gold mine – and to later split the gold that comes out of it. Then a judge comes and tells the mine builders: "Many people invested in the gold mine because they were looking for profits. And they didn't want that gold for themselves, they wanted to sell it to other people. Because of this, you are not allowed to give them the gold."
+If this doesn't make sense to you, you are not alone – but this is exactly what happened with TON (the mine), its investors, and Grams (the gold). A judge used this reasoning to rule that people should not be allowed to buy or sell Grams like they can buy or sell Bitcoins. 
+Perhaps even more paradoxically, the US court declared that Grams couldn't be distributed not only in the United States, but globally. Why? Because, it said, a US citizen might find some way of accessing the TON platform after it launched. So, to prevent this, Grams shouldn’t be allowed to be distributed anywhere in the world – even if every other country on the planet seemed to be perfectly fine with TON.
+This court decision implies that other countries don’t have the sovereignty to decide what is good and what is bad for their own citizens. If the US suddenly decided to ban coffee and demanded coffee shops in Italy be closed because some American might go there – we doubt anyone would agree.
+And yet, despite that, we have made the difficult decision not to proceed with TON.
+Sadly, the US judge is right about one thing: we, the people outside the US, can vote for our presidents and elect our parliaments, but we are still dependent on the United States when it comes to finance and technology (luckily not coffee). The US can use its control over the dollar and the global financial system to shut down any bank or bank account in the world. It can use its control over Apple and Google to remove apps from the App Store and Google Play. So yes, it is true that other countries do not have full sovereignty over what to allow on their territory. Unfortunately, we – the 96% of the world’s population living elsewhere – are dependent on decision makers elected by the 4% living in the US.
+This may change in the future. But today, we are in a vicious circle: you can’t bring more balance to an overly centralized world exactly because it’s so centralized. We did try though. We're leaving it to the the next generations of entrepreneurs and developers to pick up the banner and learn from our mistakes.
+I am writing this post to officially announce that Telegram’s active involvement with TON is over. You may see – or may have already seen – sites using my name or the Telegram brand or the "TON" abbreviation to promote their projects. Don’t trust them with your money or data. No present or past member of our team is involved with any of these projects. While networks based on the technology we built for TON may appear, we won’t have any affiliation with them and are unlikely to ever support them in any way. So be careful, and don’t let anyone mislead you.
+I want to conclude this post by wishing luck to all those striving for decentralization, balance and equality in the world. You are fighting the right battle. This battle may well be the most important battle of our generation. We hope that you succeed where we have failed.
 #quote liuyz
 
