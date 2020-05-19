@@ -1,4 +1,4 @@
-#t 251 17673356 liuyz 2020-05-19 00:19:00 Hotarubi 2020-05-19 23:09:00
+#t 251 17673356 liuyz 2020-05-19 00:19:00 BeyonceB 2020-05-20 00:53:00
 胡锡进建议翻墙合法化
 
 #p 22445191 liuyz liuyz 2020-05-19 19:19:49
@@ -31,6 +31,7 @@
 #quote liuyz
 
 #p 22446214 Hotarubi 是扇底闪躲|或雨水摧折 2020-05-19 23:08:37
+#DELETED
 忽然想到一个事情，前两天Durov宣布借由电报建立区块链平台和加密货币的计划，因美国法院的禁止而被迫放弃。美国能禁止这个货币在国内发行，又如何能管得着其在海外的事情呢？
 法院判词说，如果该货币在海外发行，那么美国公民将仍有机会能够使用这一货币。由于美国在信息基础设施和金融上占有统治地位（可以下令苹果和谷歌从全球市场中移除应用，亦可以利用金融上的地位让任一家银行户头倒闭），因此其他国家实际上已经失去了让国民拥有自主判断选择权利的主权。还好美国其他领域并未占有这样霸权，不然如若再度宣布禁酒，则世界其他国家的酒厂也得迫于淫威接受长臂管辖了。Durov说，这个世界已经中心化到了你削减其中心化程度的行为会受挫的恶性循环的地步。
 那我们呢？美国凶巴巴长臂管辖不让别国公民拥有自主判断选择的权利，我们也凶巴巴，但是我们是不让自己的公民拥有自主判断选择的权利。好听点说墙挡下了技术领域可能的长臂管辖，难听点说，人家窝外横你这窝里横呢？再者，设若有一天米国的霸权地位被替换成了建州的霸权地位，那是不是世界人民还得接受同样（且就范围领域而言会更广泛）的“我们认为X对中国人不好，为了让中国人出国也碰不到那些东西，所以你们也不许碰”呢？
@@ -46,5 +47,9 @@ Sadly, the US judge is right about one thing: we, the people outside the US, can
 This may change in the future. But today, we are in a vicious circle: you can’t bring more balance to an overly centralized world exactly because it’s so centralized. We did try though. We're leaving it to the the next generations of entrepreneurs and developers to pick up the banner and learn from our mistakes.
 I am writing this post to officially announce that Telegram’s active involvement with TON is over. You may see – or may have already seen – sites using my name or the Telegram brand or the "TON" abbreviation to promote their projects. Don’t trust them with your money or data. No present or past member of our team is involved with any of these projects. While networks based on the technology we built for TON may appear, we won’t have any affiliation with them and are unlikely to ever support them in any way. So be careful, and don’t let anyone mislead you.
 I want to conclude this post by wishing luck to all those striving for decentralization, balance and equality in the world. You are fighting the right battle. This battle may well be the most important battle of our generation. We hope that you succeed where we have failed.
+#quote liuyz
+
+#p 22446680 BeyonceB Love&peace 2020-05-20 00:52:27
+这算什么啊 。。。比这搞笑的多了去了也没见怎着
 #quote liuyz
 
