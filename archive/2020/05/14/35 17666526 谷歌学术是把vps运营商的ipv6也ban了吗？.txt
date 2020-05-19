@@ -1,4 +1,4 @@
-#t 35 17666526 ultraBad 2020-05-14 00:20:00 vimacs 2020-05-19 06:55:00
+#t 35 17666526 ultraBad 2020-05-14 00:20:00 hiaoxui 2020-05-19 13:54:00
 谷歌学术是把vps运营商的ipv6也ban了吗？
 
 #p 22418075 ultraBad 海淀吴彦祖 2020-05-14 20:03:49
@@ -12,5 +12,9 @@
 或者改用 Semantic Scholar?
 #quote ljslcy
 别说了。。转谷歌云吧。。
+#quote ultraBad
+
+#p 22443637 hiaoxui 小辉 2020-05-19 13:54:00
+换 ip 吧. 根据我的经验, 这是无解的.
 #quote ultraBad
 

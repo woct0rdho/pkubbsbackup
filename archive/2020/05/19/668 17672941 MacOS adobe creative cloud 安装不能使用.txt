@@ -1,0 +1,13 @@
+#t 668 17672941 muyiyang 2020-05-19 13:09:00 PKUCC 2020-05-19 13:16:00
+MacOS adobe creative cloud 安装不能使用
+
+#p 22443430 muyiyang 木易羊 2020-05-19 13:09:12
+成功申请了adobe ID
+但是打开adobe creative cloud就如图显示“没有管理应用程序的权限”
+试图安装其他软件都是失败
+大家是怎么解决的呢？
+
+#p 22443466 PKUCC 北京大学计算中心 2020-05-19 13:16:00
+查看使用帮助，adobe使用教程中常见问题
+#quote muyiyang
+
