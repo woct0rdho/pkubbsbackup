@@ -1,4 +1,4 @@
-#t 251 17673356 liuyz 2020-05-19 00:19:00 Wongyin 2020-05-20 13:52:00
+#t 251 17673356 liuyz 2020-05-19 00:19:00 coldda 2020-05-20 14:04:00
 胡锡进建议翻墙合法化
 
 #p 22445191 liuyz liuyz 2020-05-19 19:19:49
@@ -253,4 +253,8 @@ GFW   Great Firewall  来源于 Great Wall
 #p 22448701 Wongyin 潇湘 2020-05-20 13:51:59
 我就是靠这两个VPN翻墙的
 #quote liuyz
+
+#p 22448754 coldda CNS解剖 2020-05-20 14:03:53
+移民中介
+#quote jacobanach
 
