@@ -1,4 +1,4 @@
-#t 251 17673356 liuyz 2020-05-19 00:19:00 leetx 2020-05-20 09:56:00
+#t 251 17673356 liuyz 2020-05-19 00:19:00 Zimba 2020-05-20 10:49:00
 胡锡进建议翻墙合法化
 
 #p 22445191 liuyz liuyz 2020-05-19 19:19:49
@@ -99,4 +99,53 @@ I want to conclude this post by wishing luck to all those striving for decentral
 #p 22447503 leetx L 2020-05-20 09:56:03
 资瓷楼主观点
 #quote liuyz
+
+#p 22447525 AerysNan Aerys 2020-05-20 10:03:31
+真的有翻墙需要的可以向有司申请, 申请通过了就会发给你合法梯子. 曾经我在某互联网公司, 每个 team 都有合法梯子, 速度快稳定性也好, 关键是每年碰到开会的时候也完全不受影响
+通俗的说大概就是"奉旨翻墙". 公司都可以, 外交部这种就更不用说了
+#quote leonfox
+
+#p 22447617 liuyz liuyz 2020-05-20 10:21:13
+现在不是造太高的问题，是你过了这个筛子就有可能被行政处罚五百块的问题
+#quote zhuyichen
+
+#p 22447620 AerysNan Aerys 2020-05-20 10:34:09
+
+
+2020-05-20 10:21:38
+"根据姿势水平开放信息"是一个很诡异的说法, 同时包含了"被墙困住的人姿势水平不高"和"说话人自己姿势水平很高"两层意思. 直接把民众划分为两个群体, 有点精英主义的味道了. 当然我并不是在指责你, 只是近几年把墙美化为"姿势筛选器"的言论特别多
+说这种话的人很可能并不清楚自己在哪个群体, 参考墙父方滨兴自己翻墙失败的新闻:
+[https://www.linuxprobe.com/firwallsfounder-forced-usevpn.html](jump-to.php?url=https%3A%2F%2Fwww.linuxprobe.com%2Ffirwallsfounder-forced-usevpn.html)
+[https://cn.nytimes.com/china/20160407/c07chinafirewall](jump-to.php?url=https%3A%2F%2Fcn.nytimes.com%2Fchina%2F20160407%2Fc07chinafirewall)
+#quote zhuyichen
+
+#p 22447627 liuyz liuyz 2020-05-20 10:22:42
+用网红马前卒的一句话概括，就是把广大人民群众当傻子
+#quote AerysNan
+
+#p 22447647 seasideice Cortot 2020-05-20 10:27:40
+之前贵站谁跟我争论来着，说翻墙合法。出来走两步？
+一搜一大把单纯因为翻墙（而不是翻墙发表了什么言论）被抓的新闻，我就纳了闷了，到底哪只眼睛看出来的翻墙合法？
+还是贵站某些站友也承认贵国法律是选择性执行？不高兴就拉出两个翻墙的关两天，高兴就外交部那几个傻X天天出去喷还屁事没有？
+#quote liuyz
+
+#p 22447656 AerysNan Aerys 2020-05-20 10:28:58
+是的, 不想着如何提高文化自信, 却要搞这种所谓的"筛选器", 本质上就是在为愚民政策谋求合理性
+#quote liuyz
+
+#p 22447663 tommymiller 一颗大树 2020-05-20 10:30:06
+GFW   Great Firewall  来源于 Great Wall
+#quote Drmonster
+
+#p 22447688 HalseyZ Ghost-Cunt-Dog 2020-05-20 10:35:31
+习近平：你们屁民就老老实实接受社会主义的糖衣炮弹就行，还翻墙出去吸收别的东西，你们配吗！
+#quote liuyz
+
+#p 22447691 liuyz liuyz 2020-05-20 10:35:50
+高兴不高兴外交部那帮人也有官家的允许，高兴的时候允许帝吧出征，饭圈女孩维护阿中哥哥倒是真的。
+#quote seasideice
+
+#p 22447770 Zimba 我即是虫群~ 2020-05-20 10:49:18
+再过几天关键时期，检验梯子稳定性的时候来了。。。
+#quote Nameless
 

@@ -1,4 +1,4 @@
-#t 35 17673186 xongkorohui 2020-05-19 00:17:00 Kirayosikage 2020-05-20 09:19:00
+#t 35 17673186 xongkorohui 2020-05-19 00:17:00 shanking 2020-05-20 10:58:00
 男子使用“翻墙”软件非法进行国际联网被查处(转载)
 
 #p 22444647 xongkorohui 惠愚 2020-05-19 17:05:17
@@ -211,4 +211,20 @@ steam 游戏大部分都是国外服务器吧
 #p 22447383 Kirayosikage 吉良吉影｜东方定助 2020-05-20 09:18:15
 原来不止我一个人记得
 #quote LaiY
+
+#p 22447600 deshui tydjl 2020-05-20 10:19:19
+应该是发了不该发的东西
+#quote xongkorohui
+
+#p 22447644 woctordho 青研研究中心 2020-05-20 10:27:05
+翻墙本身不违法，现在的问题是不懂电脑的法官和律师太多了。如果需要懂电脑的律师，可以联系电子前线基金会。
+信道那条法律本来不是对翻墙的人用的，是对想建立一个中国电信那样的公司的人用的。你买了中国电信的宽带，在这个宽带上走VPN，你就不违反那条法律。
+如果你要“司法专家认为翻墙本身不违法”的案例，也能找到：
+[https://segmentfault.com/a/1190000021343009](jump-to.php?url=https%3A%2F%2Fsegmentfault.com%2Fa%2F1190000021343009)
+[http://archive.is/qSzXi](jump-to.php?url=http%3A%2F%2Farchive.is%2FqSzXi)
+#quote LaiY
+
+#p 22447827 shanking Tick-Tock 2020-05-20 10:58:43
+墙内不能说的话，墙外也不能说，网警的手臂真长
+#quote xongkorohui
 
