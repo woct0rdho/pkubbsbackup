@@ -1,4 +1,4 @@
-#t 294 17676150 xushusheng 2020-05-21 00:16:00 substract 2020-05-21 17:59:00
+#t 294 17676150 xushusheng 2020-05-21 00:16:00 nogatnep 2020-05-21 19:11:00
 痴迷“铺地砖”的数学家
 
 #p 22455666 xushusheng xuss 2020-05-21 16:52:42
@@ -35,5 +35,9 @@ DOI: [https://doi.org/10.1090/noti2075](jump-to.php?url=https%3A%2F%2Fdoi.org%2F
 
 #p 22455951 substract 撤回了一条消息 2020-05-21 17:59:02
 然而他已经跳槽去了天大
+#quote xushusheng
+
+#p 22456295 nogatnep ko001 2020-05-21 19:10:34
+准晶  准晶
 #quote xushusheng
 
