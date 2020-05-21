@@ -1,4 +1,4 @@
-#t 668 17666705 rlcheng 2020-05-14 00:22:00 Psynucleus 2020-05-19 20:48:00
+#t 668 17666705 rlcheng 2020-05-14 00:22:00 lionx 2020-05-21 10:32:00
 Adobe原有激活突然失效
 
 #p 22418696 rlcheng 紫薯 2020-05-14 22:08:36
@@ -765,4 +765,8 @@ mac显示command not found咋办。。。
 #p 22445516 Psynucleus Psynucleus 2020-05-19 20:47:55
 补丁重新激活后的Adobe Acrobat好像有些功能使用不了了，比方说没法直接将pdf转成word了，不知有没有其他小伙伴碰到这种情况？
 #quote rlcheng
+
+#p 22453643 lionx Lionx 2020-05-21 10:32:11
+解决了吗
+#quote CheHsuL
 
