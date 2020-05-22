@@ -1,4 +1,4 @@
-#t 35 17677317 ilemach 2020-05-22 12:44:00 thuzhangga 2020-05-22 12:46:00
+#t 35 17677317 ilemach 2020-05-22 00:12:00 thuyhthuyh 2020-05-22 15:00:00
 v2ray被干掉了？
 
 #p 22459259 ilemach 封刀挂剑 2020-05-22 12:43:54
@@ -8,4 +8,24 @@ v2ray被干掉了？
 #p 22459269 thuzhangga 孫咲川 2020-05-22 12:46:04
 +1，是由于两会的缘故？还有能用的吗？
 #quote ilemach
+
+#p 22459591 XiaoNi \varnothing 2020-05-22 14:04:55
+trojan可以，就是也比较慢（还要什么自行车
+#quote thuzhangga
+
+#p 22459797 mojave 你说得都对 2020-05-22 14:42:20
+我自己的两个v2还正常，，可能就我自己用的原因吧。。
+#quote ilemach
+
+#p 22459803 ispec ispec 2020-05-22 14:43:15
+我的 v2ray 好像还活着
+#quote ilemach
+
+#p 22459819 flzxsqc qwer 2020-05-22 14:46:35
+GTW是真收放自如…
+#quote ilemach
+
+#p 22459884 thuyhthuyh 偷书贼 2020-05-22 14:59:47
+Gfw？？
+#quote flzxsqc
 
