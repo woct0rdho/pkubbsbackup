@@ -1,4 +1,4 @@
-#t 668 17677770 peiyangium 2020-05-22 18:51:00 PKUCC 2020-05-22 19:44:00
+#t 668 17677770 peiyangium 2020-05-22 00:18:00 PKUCC 2020-05-22 20:31:00
 MATLAB 2020a求跟进
 
 #p 22461165 peiyangium 生建办主任助理|柯带宜居办主任|副团级 2020-05-22 18:50:56
@@ -11,5 +11,9 @@ windows :[https://disk.pku.edu.cn:443/link/605DBAE90D307145639DB0B58E175A44](jum
 linux :[https://disk.pku.edu.cn:443/link/B98F409496933F0189D40B250209197F](jump-to.php?url=https%3A%2F%2Fdisk.pku.edu.cn%3A443%2Flink%2FB98F409496933F0189D40B250209197F)
 mac : [https://disk.pku.edu.cn:443/link/0615FAAE208FA4BB4EFE88BE658587A6](jump-to.php?url=https%3A%2F%2Fdisk.pku.edu.cn%3A443%2Flink%2F0615FAAE208FA4BB4EFE88BE658587A6)
 另外镜像也上传至正版软件平台服务器，今天晚上就会更新上去
+#quote peiyangium
+
+#p 22461617 PKUCC 北京大学计算中心 2020-05-22 20:30:34
+matlab 2020a已上传到正版软件平台
 #quote peiyangium
 

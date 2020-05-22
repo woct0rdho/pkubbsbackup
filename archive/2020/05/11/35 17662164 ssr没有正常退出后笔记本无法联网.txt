@@ -1,4 +1,4 @@
-#t 35 17662164 HaveFun 2020-05-11 00:17:00 aviraxp 2020-05-20 17:32:00
+#t 35 17662164 HaveFun 2020-05-11 00:17:00 shiggg 2020-05-22 20:59:00
 ssr没有正常退出后笔记本无法联网
 
 #p 22397764 HaveFun lf@pku 2020-05-11 17:55:19
@@ -26,5 +26,9 @@ ssr没有正常退出后笔记本无法联网
 
 #p 22449788 aviraxp aviraxp 2020-05-20 17:32:02
 对
+#quote HaveFun
+
+#p 22461724 shiggg 北土路甲 2020-05-22 20:58:48
+改用clashr和clashweb可以根治
 #quote HaveFun
 

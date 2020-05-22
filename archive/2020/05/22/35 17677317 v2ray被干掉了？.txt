@@ -1,4 +1,4 @@
-#t 35 17677317 ilemach 2020-05-22 00:12:00 thuyhthuyh 2020-05-22 19:59:00
+#t 35 17677317 ilemach 2020-05-22 00:12:00 shiggg 2020-05-22 20:57:00
 v2ray被干掉了？
 
 #p 22459259 ilemach 封刀挂剑 2020-05-22 12:43:54
@@ -208,4 +208,30 @@ v2ray用cloudflare中转亲测可行
 #p 22461519 thuyhthuyh 偷书贼 2020-05-22 19:58:50
 技术小白啊我2333
 #quote lmntg
+
+#p 22461549 hangyuan 力士 2020-05-22 20:06:29
+#DELETED
+推荐Google chrome浏览器，装Astar插件。免费使用，刚测试现在可以使用，上google schloar、youtube无障碍
+#quote ilemach
+
+#p 22461570 cheny 知鱼之乐 2020-05-22 20:11:28
+表示我的很正常啊
+#quote ilemach
+
+#p 22461613 yyythu 魔术师杨 2020-05-22 20:29:12
+蓝灯也是 两会模式开启
+这也说明平时是老大哥睁一只眼闭一只眼
+#quote ilemach
+
+#p 22461626 LifeMaxima 嘎子 2020-05-22 20:34:18
+websocket+tls+cdn 自己搭的没事，应该这种安全的还是可以的。
+也在用一些机场，私聊留邮箱可以推荐下。
+#quote ilemach
+
+#p 22461691 Lookuper 松软长条面包 2020-05-22 20:51:31
+可怕，感觉自己亏了好多钱在vpn上。赣…
+#quote ilemach
+
+#p 22461713 shiggg 北土路甲 2020-05-22 20:56:19
+推荐鸡场。。。hivessr[dot]com
 
