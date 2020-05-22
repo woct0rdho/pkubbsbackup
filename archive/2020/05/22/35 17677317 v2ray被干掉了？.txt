@@ -1,4 +1,4 @@
-#t 35 17677317 ilemach 2020-05-22 00:12:00 shiggg 2020-05-22 20:57:00
+#t 35 17677317 ilemach 2020-05-22 00:12:00 bigbei 2020-05-22 22:00:00
 v2ray被干掉了？
 
 #p 22459259 ilemach 封刀挂剑 2020-05-22 12:43:54
@@ -234,4 +234,24 @@ websocket+tls+cdn 自己搭的没事，应该这种安全的还是可以的。
 
 #p 22461713 shiggg 北土路甲 2020-05-22 20:56:19
 推荐鸡场。。。hivessr[dot]com
+
+#p 22461734 pkujy 紫电&清霜 2020-05-22 21:03:18
+我的能用。能用的上这里找 www[dot]youneed[dot]win[slash]free-v2ray
+#quote ilemach
+
+#p 22461776 MCSF MCSF 2020-05-22 21:16:30
+rixcloud 和 海豚湾 都不错的样子
+#quote ilemach
+
+#p 22461862 Meme Kmyhrsh 2020-05-22 21:38:56
+瞎想什么呢，连各视频、社交网站的评论和弹幕都要按需关闭
+#quote ilemach
+
+#p 22461938 poverty 不知道猫在想什么的傻狗 2020-05-22 21:53:29
+我卑微的ss还活着，v2ray套了cloudflare不太稳定，有时候无法ping不通cdn服务器
+#quote ilemach
+
+#p 22461957 bigbei bigbei 2020-05-22 21:59:32
+没有被行政处罚就万幸了🐶
+#quote ilemach
 
