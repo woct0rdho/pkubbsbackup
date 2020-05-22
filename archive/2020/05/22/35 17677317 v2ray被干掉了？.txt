@@ -1,4 +1,4 @@
-#t 35 17677317 ilemach 2020-05-22 00:12:00 TA 2020-05-22 17:57:00
+#t 35 17677317 ilemach 2020-05-22 00:12:00 WHOSYOURDAD 2020-05-22 18:54:00
 v2ray被干掉了？
 
 #p 22459259 ilemach 封刀挂剑 2020-05-22 12:43:54
@@ -137,4 +137,33 @@ F: False
 #p 22460905 TA TA 2020-05-22 17:56:26
 想来肯定没用tls……
 #quote shanking
+
+#p 22460952 dir Sg 2020-05-22 18:06:14
+直接ssh-D转发建立本地的socks5服务从来没被墙过，除非服务器ping不上。
+#quote ilemach
+
+#p 22460998 scalefree 蛋白质手刀 2020-05-22 18:17:48
+自由？不存在的，说不定哪天就从24字里消失了
+#quote ilemach
+
+#p 22461022 edensnake edensnake 2020-05-22 18:22:56
+人民不需要自由，这是最好的时代。
+#quote ilemach
+
+#p 22461023 Ambergris ambiguus 2020-05-22 18:22:59
+自己的也会中招。。
+#quote ispec
+
+#p 22461058 Ambergris ambiguus 2020-05-22 18:30:12
+只好等结束之后再换……能怎么办 只能干瞪眼咯
+一开始封了v2ray 过几个小时把同一服务器上的ssr也封了
+#quote ilemach
+
+#p 22461107 hereshui 小白喝热水 2020-05-22 18:38:33
+#quote ilemach
+我的还能用诶
+
+#p 22461178 WHOSYOURDAD LAWYH 2020-05-22 18:53:26
+又试了下不能用了，妈的
+#quote ilemach
 
