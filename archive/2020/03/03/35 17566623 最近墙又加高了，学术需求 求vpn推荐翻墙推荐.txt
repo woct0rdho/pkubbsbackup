@@ -1,4 +1,4 @@
-#t 35 17566623 seraphimdk 2020-03-03 00:17:00 liwenxin 2020-04-18 05:46:00
+#t 35 17566623 seraphimdk 2020-03-03 00:17:00 WHOSYOURDAD 2020-05-22 19:21:00
 最近墙又加高了，学术需求 求vpn推荐翻墙推荐
 
 #p 21931917 seraphimdk seraphimdk 2020-03-03 17:29:31
@@ -195,11 +195,11 @@ ssready，要收费，不过可以按月付。上一周推荐给朋友时还能�
 目前的解决方案还是自己买台VPS搭v2ray, ss ssr之流就别想了. ps: 搬瓦工还不错
 #quote seraphimdk
 
-#p 21935949 out Nginx 2020-03-04 15:07:46
+#p 21935949 out Chihaya 2020-03-04 15:07:46
 自己搞了个v2ray，仍然robust
 #quote seraphimdk
 
-#p 21935950 out Nginx 2020-03-04 15:08:03
+#p 21935950 out Chihaya 2020-03-04 15:08:03
 现在ss一个小时就挂……
 #quote notech
 
@@ -292,11 +292,11 @@ ss全称 s*****socks.at
 分享iphone，登录美国appstore，下载shadowrocket，然后配置一下即可
 #quote seraphimdk
 
-#p 21939158 Yuanorz physcai 2020-03-05 09:36:58
+#p 21939158 Yuanorz latency 2020-03-05 09:36:58
 没有这么分裂的人吧
 #quote Psecret
 
-#p 21939166 Yuanorz physcai 2020-03-05 09:37:59
+#p 21939166 Yuanorz latency 2020-03-05 09:37:59
 太惨了 
 #quote thinky
 
@@ -429,4 +429,8 @@ I2P出口怎么配置呀
 #p 22242418 liwenxin liwenxin 2020-04-18 05:45:52
 机场跑满
 #quote seraphimdk
+
+#p 22461299 WHOSYOURDAD LAWYH 2020-05-22 19:20:31
+这免费蓝灯也挺快啊我看着
+#quote liweimelody
 

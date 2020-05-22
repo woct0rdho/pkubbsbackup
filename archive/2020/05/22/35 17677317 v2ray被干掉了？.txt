@@ -1,4 +1,4 @@
-#t 35 17677317 ilemach 2020-05-22 00:12:00 WHOSYOURDAD 2020-05-22 18:54:00
+#t 35 17677317 ilemach 2020-05-22 00:12:00 thuyhthuyh 2020-05-22 19:59:00
 v2ray被干掉了？
 
 #p 22459259 ilemach 封刀挂剑 2020-05-22 12:43:54
@@ -166,4 +166,46 @@ F: False
 #p 22461178 WHOSYOURDAD LAWYH 2020-05-22 18:53:26
 又试了下不能用了，妈的
 #quote ilemach
+
+#p 22461205 yizigui 以谓缱绻 2020-05-22 19:01:14
+没有呀 下午还好好用着
+#quote ilemach
+
+#p 22461209 crazymind Hope 2020-05-22 19:02:48
+能用
+#quote ilemach
+
+#p 22461332 KevinJAdams Tetrahydrofuran 2020-05-22 19:27:37
+V2Ray LIVES
+这里一点问题都没有
+如果不是自己搭的话，lz可以更新一下订阅
+#quote crazymind
+
+#p 22461339 wxwxwxwx wxwxwxwx 2020-05-22 19:29:59
+v2ray用cloudflare中转亲测可行
+#quote ilemach
+
+#p 22461349 yulang 11 2020-05-22 19:32:15
++1
+#quote acrosstheGFW
+
+#p 22461373 googol googol 2020-05-22 19:35:36
+现在封禁了，将来再难解封了。
+#quote thuzhangga
+
+#p 22461412 Mister Mister 2020-05-22 19:41:05
+我的没事
+#quote ilemach
+
+#p 22461456 haowill 实验室摸鱼达人 2020-05-22 19:47:37
+我的也挂掉了，但是服务器还可以ssh正常连接，重装服务就好了
+#quote ilemach
+
+#p 22461513 lmntg lmntg 2020-05-22 19:58:15
+不懂你回我这个有什么用。
+#quote thuyhthuyh
+
+#p 22461519 thuyhthuyh 偷书贼 2020-05-22 19:58:50
+技术小白啊我2333
+#quote lmntg
 
