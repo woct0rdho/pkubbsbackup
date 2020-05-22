@@ -1,4 +1,4 @@
-#t 35 17677317 ilemach 2020-05-22 00:12:00 euio 2020-05-22 16:59:00
+#t 35 17677317 ilemach 2020-05-22 00:12:00 TA 2020-05-22 17:57:00
 v2ray被干掉了？
 
 #p 22459259 ilemach 封刀挂剑 2020-05-22 12:43:54
@@ -117,4 +117,24 @@ v2net 正常
 T: True
 F: False
 #quote flzxsqc
+
+#p 22460678 Kirayosikage 吉良吉影｜东方定助 2020-05-22 17:06:04
+结合那个墙的利弊的帖子，很有意思。我觉得会帮gfw说好话的人肯定都没有亲身经历过自己梯子挂掉什么事都做不了只能对着404干瞪眼
+#quote ilemach
+
+#p 22460690 thuhelp aappllee 2020-05-22 17:09:43
+服务器还能ping上吗？
+#quote ilemach
+
+#p 22460783 clp 小熊的白巧克力 2020-05-22 17:29:16
+我的还可以用
+#quote ilemach
+
+#p 22460809 thuzhangga 孫咲川 2020-05-22 17:36:27
+服务器还可以ping，换到了trojan
+#quote ilemach
+
+#p 22460905 TA TA 2020-05-22 17:56:26
+想来肯定没用tls……
+#quote shanking
 
