@@ -1,4 +1,4 @@
-#t 668 17677770 peiyangium 2020-05-22 00:18:00 peiyangium 2020-05-22 21:51:00
+#t 668 17677770 peiyangium 2020-05-22 00:18:00 RyanBern 2020-05-22 22:52:00
 MATLAB 2020a求跟进
 
 #p 22461165 peiyangium 生建办主任助理|柯带宜居办主任|副团级 2020-05-22 18:50:56
@@ -20,5 +20,9 @@ matlab 2020a已上传到正版软件平台
 #p 22461926 peiyangium 生建办主任助理|柯带宜居办主任|副团级 2020-05-22 21:50:27
 多谢，可惜对我来说有点迟了，刚刚安装完2019b。虽然很多专业软件未必要更新到最新版，我个人的体会MATLAB还是有必要跟进的。
 顺便确认下新的key和licence文件也更新了吧？
+#quote PKUCC
+
+#p 22462198 RyanBern r.bern 2020-05-22 22:51:46
+目前好像 File Installation Key 还没有更新到 MATLAB 使用帮助里。服务器端的 License File 也麻烦老师检查一下是否支持最新的机房版 MATLAB。
 #quote PKUCC
 
