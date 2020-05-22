@@ -1,4 +1,4 @@
-#t 35 17667945 sunnyyeyan 2020-05-15 00:18:00 sunnyyeyan 2020-05-22 08:29:00
+#t 35 17667945 sunnyyeyan 2020-05-15 00:18:00 yysPKU 2020-05-22 16:17:00
 求一个靠谱的VPN
 
 #p 22425777 sunnyyeyan bigfish 2020-05-15 18:59:27
@@ -27,7 +27,7 @@
 蟹蟹，鞠躬、~
 #quote Spider
 
-#p 22447894 HalseyZ GCD万岁（doge 2020-05-20 11:10:32
+#p 22447894 HalseyZ 知错就改 2020-05-20 11:10:32
 上网需谨慎，小心被抓哦
 #quote sunnyyeyan
 
@@ -60,4 +60,8 @@
 #p 22458100 sunnyyeyan bigfish 2020-05-22 08:28:16
 如果这都要抓，那以后就别做可研了，可以把各大高校搞科研的都抓起来了~ T_T
 #quote HalseyZ
+
+#p 22460268 yysPKU cloud 2020-05-22 16:16:54
+expressvpn，连接和网速都有些慢，但始终能用
+#quote sunnyyeyan
 
