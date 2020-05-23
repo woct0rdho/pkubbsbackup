@@ -1,4 +1,4 @@
-#t 294 17678709 bookreadertt 2020-05-23 00:13:00 GlaserHay 2020-05-23 23:59:00
+#t 294 17678709 bookreadertt 2020-05-23 00:13:00 daomu 2020-05-24 00:44:00
 北大电子学系两项成果同日登上《科学》
 
 #p 22464362 bookreadertt 赌输赢 2020-05-23 13:10:43
@@ -212,4 +212,13 @@ UPUP顶一个
 #p 22467437 GlaserHay 拉基醱鶸维奇 2020-05-23 23:59:04
 同样烧碳的，表示很羞愧
 #quote bookreadertt
+
+#p 22467491 Splindow fhgy 2020-05-24 00:09:20
+这个paper的器件原理不新，新的是成果
+不过lz说的这些原理是器件的基本法，不管是Si还是CNT都得受着
+#quote bookreadertt
+
+#p 22467603 daomu daomu110 2020-05-24 00:43:31
+十万八千里
+#quote ChaChaYo
 
