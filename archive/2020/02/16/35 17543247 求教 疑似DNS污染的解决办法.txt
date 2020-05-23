@@ -1,4 +1,4 @@
-#t 35 17543247 thinky 2020-02-16 00:10:00 lldsolitude 2020-05-23 08:51:00
+#t 35 17543247 thinky 2020-02-16 00:10:00 willpower 2020-05-23 11:52:00
 求教 疑似DNS污染的解决办法
 
 #p 21852951 thinky 披风罗汉 2020-02-16 10:41:23
@@ -92,4 +92,9 @@ up
 #p 22463258 lldsolitude 我要长大 2020-05-23 08:50:27
 为啥机场会用国内的DNS?
 #quote willpower
+
+#p 22464002 willpower Let me hear 2020-05-23 11:51:53
+……莫非是为了加速？
+我在全局代理的情况下用dnsleaktest.com测，会发现中国的dns。
+#quote lldsolitude
 
