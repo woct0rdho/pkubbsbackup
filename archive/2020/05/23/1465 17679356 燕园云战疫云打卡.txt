@@ -1,0 +1,10 @@
+#t 1465 17679356 Rainshaw 2020-05-23 23:37:00 Rainshaw 2020-05-23 23:37:00
+燕园云战疫云打卡
+
+#p 22467338 Rainshaw 傻白甜 2020-05-23 23:36:38
+网站 [https://epidemic.ruixiaolu.com](jump-to.php?url=https%3A%2F%2Fepidemic.ruixiaolu.com)
+教程 [https://blog.ruixiaolu.com/archives/2020/05/23/79.html](jump-to.php?url=https%3A%2F%2Fblog.ruixiaolu.com%2Farchives%2F2020%2F05%2F23%2F79.html)
+源码 [https://github.com/RainshawGao/PKUAutoEpidemic](jump-to.php?url=https%3A%2F%2Fgithub.com%2FRainshawGao%2FPKUAutoEpidemic)
+声明
+      本程序由于需要存储IAAA密码，所以若您介意的话可以自行搭建网站。
+
