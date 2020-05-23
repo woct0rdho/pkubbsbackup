@@ -1,0 +1,13 @@
+#t 35 17678533 Chain 2020-05-23 10:20:00 IlIl 2020-05-23 10:57:00
+搬瓦工如何更换ssh port
+
+#p 22463601 Chain Chain 2020-05-23 10:19:19
+rt.
+以前总是被封ip，现在port疑似被封，求助怎么办？
+
+#p 22463734 IlIl 王铁牙 2020-05-23 10:56:14
+sudo vim /etc/ssh/sshd_config
+修改port
+重启ssh
+#quote Chain
+
