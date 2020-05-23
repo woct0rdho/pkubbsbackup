@@ -1,0 +1,16 @@
+#t 35 17679004 ilemach 2020-05-23 17:32:00 ilemach 2020-05-23 17:32:00
+求教linode NameSilo v2ray安装和设置
+
+#p 22465839 ilemach 封刀挂剑 2020-05-23 17:31:39
+小白一个，用的网上一键脚本Vmess+websocket+TLS+Nginx+Website，但是域名dns解析IP与服务器不匹配。
+怎样查看自己的域名设置正确？下面的操作错误在哪儿？
+详细如下：
+在NameSilo注册了一个域名 &lt;wis*.xyz&gt;，解析到linode上。
+按网上的教程，把A地址换到linode自己的IP上（service列3rd-party和re-direct有区别吗？），
+把NameServers保留前两项，改成ns1.linode.com 和ns2.linode.com。
+如下
+<img src="https://bbs.pku.edu.cn/attach/c7/02/c702de7e2b4c9114/EE4B2E49-EC25-4F0E-B57F-8E43AB0FA4FA.png"/>
+<img src="https://bbs.pku.edu.cn/attach/de/42/de42c04789d8f001/DF766C80-BEDF-4B00-BB9D-0F5507EFA716.png"/>
+在那个一键脚本里，需要输入域名信息时，输入自己的域名&lt;wis*.xyz&gt;。
+但在dns解析时出错，
+
