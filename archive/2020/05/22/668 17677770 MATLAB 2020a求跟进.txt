@@ -1,4 +1,4 @@
-#t 668 17677770 peiyangium 2020-05-22 00:18:00 RyanBern 2020-05-22 22:52:00
+#t 668 17677770 peiyangium 2020-05-22 00:18:00 PKUCC 2020-05-23 13:42:00
 MATLAB 2020a求跟进
 
 #p 22461165 peiyangium 生建办主任助理|柯带宜居办主任|副团级 2020-05-22 18:50:56
@@ -25,4 +25,17 @@ matlab 2020a已上传到正版软件平台
 #p 22462198 RyanBern r.bern 2020-05-22 22:51:46
 目前好像 File Installation Key 还没有更新到 MATLAB 使用帮助里。服务器端的 License File 也麻烦老师检查一下是否支持最新的机房版 MATLAB。
 #quote PKUCC
+
+#p 22464516 PKUCC 北京大学计算中心 2020-05-23 13:40:14
+
+
+2020-05-23 13:39:24
+个人版的按照安装步骤在安装的时候输入注册的matlab账户和密码就可以；
+机房版的license file记录的是固定不变的，File Installation Key更新了已经。
+#quote RyanBern
+
+#p 22464531 PKUCC 北京大学计算中心 2020-05-23 13:41:44
+个人版在安装的时候输入注册的matlab账户和密码就可以；
+机房版的network.lic，记录的是激活服务器的信息，是固定不变的，File Installation Key更新了已经。
+#quote peiyangium
 
