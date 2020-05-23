@@ -1,4 +1,4 @@
-#t 35 17543247 thinky 2020-02-16 00:10:00 willpower 2020-05-22 23:49:00
+#t 35 17543247 thinky 2020-02-16 00:10:00 lldsolitude 2020-05-23 08:51:00
 求教 疑似DNS污染的解决办法
 
 #p 21852951 thinky 披风罗汉 2020-02-16 10:41:23
@@ -88,4 +88,8 @@ up
 #p 22462435 willpower Let me hear 2020-05-22 23:48:19
 请问如果机场使用了国内的DNS，我们用户端上DoH和ESNI是不是也没有太大意义……
 #quote ultraBad
+
+#p 22463258 lldsolitude 我要长大 2020-05-23 08:50:27
+为啥机场会用国内的DNS?
+#quote willpower
 

@@ -1,4 +1,4 @@
-#t 35 16264150 hiaoxui 2017-11-10 00:00:00 hiaoxui 2020-05-18 15:37:00
+#t 35 16264150 hiaoxui 2017-11-10 00:00:00 hiaoxui 2020-05-23 08:36:00
 科学上网, SSR 服务器分享
 
 #p 17134091 hiaoxui 小辉 2020-05-07 09:47:29
@@ -2446,4 +2446,13 @@ Your client does not have permission to get URL
 #p 22439177 hiaoxui 小辉 2020-05-18 15:37:10
 [https://blog.wallesspku.space/blog/post/hiaoxui/ssr-faq-zh](jump-to.php?url=https%3A%2F%2Fblog.wallesspku.space%2Fblog%2Fpost%2Fhiaoxui%2Fssr-faq-zh)
 #quote LaFataBlu
+
+#p 22462691 sugelala Goul 2020-05-23 00:48:57
+请教，为啥我的ipv4还可以
+ipv6的都连不上了。。。
+#quote hiaoxui
+
+#p 22463213 hiaoxui 小辉 2020-05-23 08:36:13
+你使用订阅了吗?
+#quote sugelala
 
