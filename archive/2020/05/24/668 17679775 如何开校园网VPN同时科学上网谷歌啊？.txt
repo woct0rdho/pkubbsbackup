@@ -1,4 +1,4 @@
-#t 668 17679775 ubermensch 2020-05-24 09:40:00 PKUCC 2020-05-24 09:57:00
+#t 668 17679775 ubermensch 2020-05-24 09:40:00 PKUCC 2020-05-24 10:17:00
 如何开校园网VPN同时科学上网谷歌啊？
 
 #p 22468423 ubermensch 小老虎 2020-05-24 09:40:13
@@ -6,5 +6,13 @@
 
 #p 22468495 PKUCC 北京大学计算中心 2020-05-24 09:56:20
 你好，如果只是远程校园内网模式，建议使用WPN：[https://wpn.pku.edu.cn](jump-to.php?url=https%3A%2F%2Fwpn.pku.edu.cn).
+#quote ubermensch
+
+#p 22468574 ubermensch 小老虎 2020-05-24 10:12:14
+我是需要用ssh访问实验室的服务器资源，貌似这样必须得用VPN
+#quote PKUCC
+
+#p 22468605 PKUCC 北京大学计算中心 2020-05-24 10:16:34
+wpn支持SSH等多种远程模式
 #quote ubermensch
 
