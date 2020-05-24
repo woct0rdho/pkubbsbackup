@@ -1,0 +1,10 @@
+#t 668 17679775 ubermensch 2020-05-24 09:40:00 PKUCC 2020-05-24 09:57:00
+如何开校园网VPN同时科学上网谷歌啊？
+
+#p 22468423 ubermensch 小老虎 2020-05-24 09:40:13
+远程科研的时候需要连接校园网，但是同时想访问谷歌，怎么办呢
+
+#p 22468495 PKUCC 北京大学计算中心 2020-05-24 09:56:20
+你好，如果只是远程校园内网模式，建议使用WPN：[https://wpn.pku.edu.cn](jump-to.php?url=https%3A%2F%2Fwpn.pku.edu.cn).
+#quote ubermensch
+
