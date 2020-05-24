@@ -1,4 +1,4 @@
-#t 35 16264150 hiaoxui 2017-11-10 00:00:00 hiaoxui 2020-05-24 04:08:00
+#t 35 16264150 hiaoxui 2017-11-10 00:00:00 hiaoxui 2020-05-24 11:56:00
 科学上网, SSR 服务器分享
 
 #p 17134091 hiaoxui 小辉 2020-05-07 09:47:29
@@ -2469,4 +2469,33 @@ ipv6的都连不上了。。。
 推荐你使用订阅模式, 通过订阅模式你可以获得最新的服务器配置信息.
 我现在关掉了一部分 IPv6 地址. 我更换了服务商之后, 有些服务器不再提供 IPv6, 所以我就关掉了它们.
 #quote sugelala
+
+#p 22468296 zhaozg 一棵树 2020-05-24 08:59:46
+顶一个楼主！！！谢谢大大
+#quote hiaoxui
+
+#p 22468384 ubermensch 小老虎 2020-05-24 09:31:05
+请问如何在开校园VPN的同时，科学上网谷歌啊？
+#quote hiaoxui
+
+#p 22468729 Chenghcl KhCl 2020-05-24 10:42:05
+请问一下，我现在用的就是订阅模式（Mac），但是经常没法科学上网。有时候我退出shadowsocks重启又能用，有时候又不可以。有时候关机电脑重启再打开shadowsocks又有用了，感觉很迷惑，有小伙伴能帮我解答一下吗。能不能传授一下稳定持续有用的方法啊，谢谢
+#quote hiaoxui
+
+#p 22468789 YJLJason yu'i'o'o'iuu'yu 2020-05-24 11:00:37
+我这也存在同样的问题，谷歌学术下引用文件时页面错误
+403. That’s an error.
+Your client does not have permission to get URL /scholar.bib?q=info:22Pl3nftG98J:scholar.google.com/&amp;output=citation&amp;scisdr=CgVHHFe2ELbV4STgUCY:AAGBfm0AAAAAXsnlSCb5DpiY6aSMRSDUwjMsRkV6Hw0C&amp;scisig=AAGBfm0AAAAAXsnlSDEAThufK2dqUdaA6OUjQC3f2vb8&amp;scisf=4&amp;ct=citation&amp;cd=-1&amp;hl=zh-CN from this server. (Client IP address: 198.98.58.182)
+Please see Google's Terms of Service posted at [http://www.google.com/terms_of_service.html](jump-to.php?url=http%3A%2F%2Fwww.google.com%2Fterms_of_service.html)
+That’s all we know.
+#quote hiaoxui
+
+#p 22469044 hiaoxui 小辉 2020-05-24 11:55:48
+可以打开 PKU VPN 然后再启动 SSR. 这时相当于让 SSR 走校园网的代理, 代理两次. 除此之外我并没有简单的解决方案.
+#quote ubermensch
+
+#p 22469048 hiaoxui 小辉 2020-05-24 11:56:42
+你下次不能用的时候, 尝试刷新一下订阅? 
+我的服务器默认拒绝所有流量; 但如果你最近刷新过订阅, 你的 IP 会被加入白名单; 只有在白名单里的 IP 才能连接服务器.
+#quote Chenghcl
 
