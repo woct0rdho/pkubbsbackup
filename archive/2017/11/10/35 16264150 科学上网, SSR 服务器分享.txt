@@ -1,4 +1,4 @@
-#t 35 16264150 hiaoxui 2017-11-10 00:00:00 hiaoxui 2020-05-24 11:56:00
+#t 35 16264150 hiaoxui 2017-11-10 00:00:00 Chenghcl 2020-05-24 12:36:00
 科学上网, SSR 服务器分享
 
 #p 17134091 hiaoxui 小辉 2020-05-07 09:47:29
@@ -2498,4 +2498,24 @@ That’s all we know.
 你下次不能用的时候, 尝试刷新一下订阅? 
 我的服务器默认拒绝所有流量; 但如果你最近刷新过订阅, 你的 IP 会被加入白名单; 只有在白名单里的 IP 才能连接服务器.
 #quote Chenghcl
+
+#p 22469062 Chenghcl KhCl 2020-05-24 12:00:09
+我的地址应该在白名单里。我也比较懵～～～
+#quote hiaoxui
+
+#p 22469073 hiaoxui 小辉 2020-05-24 12:02:53
+这种不好复现的问题确实不好 debug. 你下次不能用的时候, 联系一下我的邮箱: wallesspku@hotmail.com
+#quote Chenghcl
+
+#p 22469077 hiaoxui 小辉 2020-05-24 12:03:46
+scholar 问题我之后会统一解决一下.
+#quote YJLJason
+
+#p 22469082 YJLJason yu'i'o'o'iuu'yu 2020-05-24 12:05:04
+十分感谢
+#quote hiaoxui
+
+#p 22469217 Chenghcl KhCl 2020-05-24 12:35:57
+好的 谢谢～
+#quote hiaoxui
 
