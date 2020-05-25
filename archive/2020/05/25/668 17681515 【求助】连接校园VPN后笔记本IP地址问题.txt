@@ -1,0 +1,13 @@
+#t 668 17681515 zhenjia 2020-05-25 14:40:00 zhenjia 2020-05-25 14:40:00
+【求助】连接校园VPN后笔记本IP地址问题
+
+#p 22481968 zhenjia 午夜阳光2016 2020-05-25 14:39:31
+本人历史系博士生一枚
+疫情期间，台湾中研院史语所开放了“内阁大库档案”数据库的临时访问申请。
+申请表中需要填写电脑的固定IP位置。（如图1）
+问题：
+现在我的笔记本只有连接校园VPN后才能打开该数据库的网页。[http://www2.ihp.sinica.edu.tw/bulletinDetail.php?TM=1&amp;M=1&amp;C=1&amp;bid=1571](jump-to.php?url=http%3A%2F%2Fwww2.ihp.sinica.edu.tw%2FbulletinDetail.php%3FTM%3D1%26M%3D1%26C%3D1%26bid%3D1571)
+连接校园VPN后，通过控制版面-更改配置器设置-Pulse Secure-属性-internet协议版本4，查阅到IP地址（如图2）。
+请问图2所示IP信息是固定IP吗？
+用此IP申请账号成功后，还是无法登陆该数据库，不知道是不是IP地址的问题？
+
