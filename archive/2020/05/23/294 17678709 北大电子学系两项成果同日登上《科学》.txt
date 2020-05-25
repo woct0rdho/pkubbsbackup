@@ -1,4 +1,4 @@
-#t 294 17678709 bookreadertt 2020-05-23 00:13:00 mairan 2020-05-24 18:11:00
+#t 294 17678709 bookreadertt 2020-05-23 00:13:00 bookreadertt 2020-05-25 13:32:00
 北大电子学系两项成果同日登上《科学》
 
 #p 22464362 bookreadertt 赌输赢 2020-05-23 13:10:43
@@ -352,4 +352,13 @@ p.s 文章里还有typo的，不知道是发得太急了还是什么原因hhhh
 这个在亲师弟的朋友圈看到的
 不明觉厉不明觉厉
 #quote bookreadertt
+
+#p 22479649 miaohao 喵昊 2020-05-25 13:17:05
+我看别人发的图，应该是彭老师那篇文章，figure里面标的8.06Ghz，caption里面写的80.6Ghz。
+#quote Splindow
+
+#p 22479720 bookreadertt 赌输赢 2020-05-25 13:31:28
+这两个数据应该是对应不同的参数概念，正文里有如下解释：
+The highest fo reached 8.06 GHz at Vdd = 2.6 V (Fig. 5E), corresponding to a stage-switching speed of 80.6 GHz and a stage delay of 12.4 ps.
+#quote miaohao
 
