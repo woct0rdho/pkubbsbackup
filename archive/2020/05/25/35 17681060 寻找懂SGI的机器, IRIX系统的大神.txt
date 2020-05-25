@@ -1,0 +1,6 @@
+#t 35 17681060 boukephalas 2020-05-25 08:43:00 boukephalas 2020-05-25 08:43:00
+寻找懂SGI的机器, IRIX系统的大神
+
+#p 22472695 boukephalas boukephalas 2020-05-25 08:42:35
+实验室有一台Cerius2，开机报错“Mem cfgs err”，希望有懂相关机器和操作系统的老师、同学指导，万分感谢！
+
