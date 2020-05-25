@@ -1,4 +1,4 @@
-#t 294 17678709 bookreadertt 2020-05-23 00:13:00 bookreadertt 2020-05-25 13:32:00
+#t 294 17678709 bookreadertt 2020-05-23 00:13:00 Splindow 2020-05-25 15:42:00
 北大电子学系两项成果同日登上《科学》
 
 #p 22464362 bookreadertt 赌输赢 2020-05-23 13:10:43
@@ -360,5 +360,9 @@ p.s 文章里还有typo的，不知道是发得太急了还是什么原因hhhh
 #p 22479720 bookreadertt 赌输赢 2020-05-25 13:31:28
 这两个数据应该是对应不同的参数概念，正文里有如下解释：
 The highest fo reached 8.06 GHz at Vdd = 2.6 V (Fig. 5E), corresponding to a stage-switching speed of 80.6 GHz and a stage delay of 12.4 ps.
+#quote miaohao
+
+#p 22482278 Splindow fhgy 2020-05-25 15:42:00
+LZ说的是对的，5阶环振包含10个参与振荡的管子，所以每一个的switching speed对应8.06 GHz的10倍，也就是80.6了
 #quote miaohao
 
