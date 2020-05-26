@@ -1,4 +1,4 @@
-#t 294 17683421 NorthStars 2020-05-26 22:04:00 Tutu 2020-05-26 22:48:00
+#t 294 17683421 NorthStars 2020-05-26 00:22:00 bookreadertt 2020-05-26 23:52:00
 北大教授带领团队突破碳基半导体制备瓶颈！！
 
 #p 22489280 NorthStars 北星 2020-05-26 22:05:59
@@ -19,4 +19,19 @@
 #p 22490305 Tutu 为了喝奶茶努力学习的兔兔 2020-05-26 22:47:39
 看看你楼下，就知道这个成果上不了热搜了……（没有恶意我自己也不知道这个成果是啥意思orz
 #quote NorthStars
+
+#p 22490500 NorthStars 北星 2020-05-26 23:28:39
+详情请见图片
+#quote integral
+
+#p 22490501 NorthStars 北星 2020-05-26 23:28:47
+就是半导体有救了
+#quote Tutu
+
+#p 22490570 bookreadertt 赌输赢 2020-05-26 23:51:46
+这就是我前几天发的那个背靠背2篇Science啊：
+[https://bbs.pku.edu.cn/v2/post-read.php?bid=294&amp;threadid=17678709](post-read.php?bid=294&amp;threadid=17678709)
+彭院士今天好像开了媒体见面会，不少媒体都在报道了，就是不知道贵校自己什么时候有动静：
+[https://mp.weixin.qq.com/s?__biz=MzA3NTIyODUzNA==&amp;mid=2649588318&amp;idx=1&amp;sn=848e55224104af5704c83416cf1c0bac&amp;chksm=876a9647b01d1f513ba7f0227099e670cf18d4d8dc3ff3a537d94dea807cf4e21812a0fb6cc0&amp;mpshare=1&amp;scene=1&amp;srcid=&amp;sharer_sharetime=1590498008029&amp;sharer_shareid=9692cd2ac22eb6201624ec8f2df83dca#rd](jump-to.php?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzA3NTIyODUzNA%3D%3D%26mid%3D2649588318%26idx%3D1%26sn%3D848e55224104af5704c83416cf1c0bac%26chksm%3D876a9647b01d1f513ba7f0227099e670cf18d4d8dc3ff3a537d94dea807cf4e21812a0fb6cc0%26mpshare%3D1%26scene%3D1%26srcid%3D%26sharer_sharetime%3D1590498008029%26sharer_shareid%3D9692cd2ac22eb6201624ec8f2df83dca%23rd)
+#quote integral
 
