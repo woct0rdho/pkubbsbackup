@@ -1,0 +1,9 @@
+#t 668 17682629 Rainshaw 2020-05-26 10:38:00 Rainshaw 2020-05-26 10:38:00
+北大邮箱的图片白名单
+
+#p 22486149 Rainshaw 傻白甜 2020-05-26 10:38:26
+之前反映过这个问题
+[https://bbs.pku.edu.cn/v2/post-read.php?bid=668&amp;threadid=17585866](post-read.php?bid=668&amp;threadid=17585866)
+但好像最近又改回来了，图片不能正常加载了，所以想问下
+能否将pkuhelper.pku.edu.cn加入图片域名白名单中
+
