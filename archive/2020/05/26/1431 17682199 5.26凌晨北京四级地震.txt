@@ -1,4 +1,4 @@
-#t 1431 17682199 NorthStars 2020-05-26 00:01:00 NorthStars 2020-05-26 20:38:00
+#t 1431 17682199 NorthStars 2020-05-26 00:01:00 ladygaogao 2020-05-26 21:27:00
 5.26凌晨北京四级地震
 
 #p 22485024 NorthStars 北星 2020-05-26 01:04:20
@@ -313,4 +313,8 @@ pyq多人表示自己在假的北京
 #p 22488811 NorthStars 北星 2020-05-26 20:37:20
 hhhhh好可怜，patpat
 #quote Amagi
+
+#p 22489083 ladygaogao 大丽水手 2020-05-26 21:26:55
+在宿舍震感强烈
+#quote NorthStars
 
