@@ -1,4 +1,4 @@
-#t 294 17682587 xiaoranran 2020-05-26 10:00:00 xiaoranran 2020-05-26 10:27:00
+#t 294 17682587 xiaoranran 2020-05-26 00:09:00 Rockefeller 2020-05-26 12:53:00
 北大开发的CARSI一年增长2559%，他的意义和前景是什
 
 #p 22485970 xiaoranran 小然然 2020-05-26 09:59:34
@@ -15,4 +15,8 @@
 #p 22486095 xiaoranran 小然然 2020-05-26 10:26:57
 我去，看样子很有想象空间，希望学校全力支持肖，攻城掠地，国内外市场都抢占～
 #quote NorthStars
+
+#p 22486777 Rockefeller Statistically significant 2020-05-26 12:52:53
+超级棒，用这个就再也不用担心VPN掉线了
+#quote xiaoranran
 
