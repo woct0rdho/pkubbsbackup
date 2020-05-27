@@ -1,4 +1,4 @@
-#t 294 17683421 NorthStars 2020-05-26 00:22:00 bookreadertt 2020-05-26 23:52:00
+#t 294 17683421 NorthStars 2020-05-26 00:22:00 thaikon 2020-05-27 07:23:00
 北大教授带领团队突破碳基半导体制备瓶颈！！
 
 #p 22489280 NorthStars 北星 2020-05-26 22:05:59
@@ -34,4 +34,12 @@
 彭院士今天好像开了媒体见面会，不少媒体都在报道了，就是不知道贵校自己什么时候有动静：
 [https://mp.weixin.qq.com/s?__biz=MzA3NTIyODUzNA==&amp;mid=2649588318&amp;idx=1&amp;sn=848e55224104af5704c83416cf1c0bac&amp;chksm=876a9647b01d1f513ba7f0227099e670cf18d4d8dc3ff3a537d94dea807cf4e21812a0fb6cc0&amp;mpshare=1&amp;scene=1&amp;srcid=&amp;sharer_sharetime=1590498008029&amp;sharer_shareid=9692cd2ac22eb6201624ec8f2df83dca#rd](jump-to.php?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzA3NTIyODUzNA%3D%3D%26mid%3D2649588318%26idx%3D1%26sn%3D848e55224104af5704c83416cf1c0bac%26chksm%3D876a9647b01d1f513ba7f0227099e670cf18d4d8dc3ff3a537d94dea807cf4e21812a0fb6cc0%26mpshare%3D1%26scene%3D1%26srcid%3D%26sharer_sharetime%3D1590498008029%26sharer_shareid%3D9692cd2ac22eb6201624ec8f2df83dca%23rd)
 #quote integral
+
+#p 22491265 xiaobian xiaobAOJian 2020-05-27 07:11:01
+为将来碳基集成电路的发展做出了贡献？
+#quote integral
+
+#p 22491279 thaikon 陶象 2020-05-27 07:22:48
+碳基集成电路！？（孤陋寡闻了，第一次知道芯片还可以是碳基而不是硅基……）
+#quote NorthStars
 
