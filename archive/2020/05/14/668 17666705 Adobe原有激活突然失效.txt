@@ -1,4 +1,4 @@
-#t 668 17666705 rlcheng 2020-05-14 00:22:00 lionx 2020-05-21 10:32:00
+#t 668 17666705 rlcheng 2020-05-14 00:22:00 Dunamist 2020-05-27 15:04:00
 Adobe原有激活突然失效
 
 #p 22418696 rlcheng 紫薯 2020-05-14 22:08:36
@@ -606,7 +606,7 @@ Adobe PDF Reader表示很想请战
 管理员权限运行补丁后没有反应啊
 #quote rlcheng
 
-#p 22426440 NicoleG 弗莱丨剥皮的栗子 2020-05-15 21:30:53
+#p 22426440 NicoleG 弗莱丨没有昵称了 2020-05-15 21:30:53
 正版软件登陆不进去
 #quote PKUCC
 
@@ -769,4 +769,8 @@ mac显示command not found咋办。。。
 #p 22453643 lionx Lionx 2020-05-21 10:32:11
 解决了吗
 #quote CheHsuL
+
+#p 22493147 Dunamist 适能者 2020-05-27 15:03:08
+adobe id存在有效时间吗？需要按时激活吗？
+#quote rlcheng
 
