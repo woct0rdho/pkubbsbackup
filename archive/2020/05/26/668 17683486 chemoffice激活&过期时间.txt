@@ -1,4 +1,4 @@
-#t 668 17683486 foreyoung 2020-05-26 00:23:00 PKUCC 2020-05-27 09:48:00
+#t 668 17683486 foreyoung 2020-05-26 00:23:00 foreyoung 2020-05-27 10:07:00
 chemoffice激活&过期时间
 
 #p 22490388 foreyoung young0111 2020-05-26 23:01:20
@@ -23,4 +23,8 @@ chemoffice激活&过期时间
 #p 22491759 PKUCC 北京大学计算中心 2020-05-27 09:47:54
 原因大概已经找到，可否将联系方式发送至邮箱gsoftware@pku.edu.cn，测试下是否有效？
 #quote foreyoung
+
+#p 22491829 foreyoung young0111 2020-05-27 10:07:08
+好的，发邮箱吗？需要写什么内容吗
+#quote PKUCC
 
