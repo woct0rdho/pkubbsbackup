@@ -1,4 +1,4 @@
-#t 35 17678731 HelloOTS 2020-05-23 00:13:00 Leway 2020-05-27 12:44:00
+#t 35 17678731 HelloOTS 2020-05-23 00:13:00 HelloOTS 2020-05-28 07:59:00
 求助，pulse secure安装总是rolling back
 
 #p 22464479 HelloOTS Ko no dio da！ 2020-05-23 13:32:46
@@ -7,4 +7,8 @@
 #p 22492635 Leway 小甜甜 2020-05-27 12:43:39
 楼主解决了吗，我也是这样的问题
 #quote HelloOTS
+
+#p 22496840 HelloOTS Ko no dio da！ 2020-05-28 07:58:50
+没有qwq
+#quote Leway
 
