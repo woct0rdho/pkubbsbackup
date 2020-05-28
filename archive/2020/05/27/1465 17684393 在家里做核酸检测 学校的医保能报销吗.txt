@@ -1,4 +1,4 @@
-#t 1465 17684393 mengshao 2020-05-27 00:16:00 DonaldTrumpe 2020-05-28 17:20:00
+#t 1465 17684393 mengshao 2020-05-27 00:16:00 Chrysoberyl 2020-05-28 19:23:00
 在家里做核酸检测 学校的医保能报销吗
 
 #p 22493394 mengshao bang 2020-05-27 16:02:39
@@ -25,10 +25,15 @@ RT
 #quote mengshao
 
 #p 22500056 kljafgaj asj 2020-05-28 17:17:05
+#DELETED
 学校发的通知说按规定报销。没买医保，能报销吗
 #quote mengshao
 
 #p 22500065 DonaldTrumpe 没有人比我更懂 2020-05-28 17:19:35
 在这问不如直接给院里打电话
 #quote kljafgaj
+
+#p 22500535 Chrysoberyl 克瑞斯 2020-05-28 19:22:48
+可以的
+#quote mengshao
 
