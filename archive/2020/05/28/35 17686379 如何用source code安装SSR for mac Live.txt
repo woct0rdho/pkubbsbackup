@@ -1,8 +1,12 @@
-#t 35 17686379 siscon 2020-05-28 23:33:00 siscon 2020-05-28 23:33:00
+#t 35 17686379 siscon 2020-05-28 23:32:00 siscon 2020-05-29 00:08:00
 如何用source code安装SSR for mac Live
 
 #p 22501477 siscon 实妹什么的最棒了！ 2020-05-28 23:32:09
 现在流行的ssr for mac软件有致命bug，目前打算安装 [https://github.com/ShadowsocksR-Live/ssrMac](jump-to.php?url=https%3A%2F%2Fgithub.com%2FShadowsocksR-Live%2FssrMac)
 但是捣鼓半天也不知道怎么安装，特别是mac系统下mbedtsl不知道怎么搞。。。
 求大神帮助本菜鸡
+
+#p 22501647 siscon 实妹什么的最棒了！ 2020-05-29 00:07:52
+似乎已经安装完mbedtls,libuv和sodium了
+#quote siscon
 
