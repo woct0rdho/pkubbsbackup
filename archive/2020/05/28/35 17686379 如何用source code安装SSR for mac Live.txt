@@ -1,4 +1,4 @@
-#t 35 17686379 siscon 2020-05-28 00:23:00 siscon 2020-05-29 09:47:00
+#t 35 17686379 siscon 2020-05-28 00:23:00 cursebreaker 2020-05-29 10:53:00
 如何用source code安装SSR for mac Live
 
 #p 22501477 siscon 实妹什么的最棒了！ 2020-05-28 23:32:09
@@ -18,4 +18,8 @@ ssr不是有个ssrng吗？
 #p 22502723 siscon 实妹什么的最棒了！ 2020-05-29 09:46:53
 那个ng经常有bug, 导致不能切换服务器
 #quote Smallst
+
+#p 22503103 cursebreaker Cascadia 2020-05-29 10:53:01
+homebrew? 里面直接有ss-NG. 貌似是唯一一个还在维护的版本了
+#quote siscon
 
