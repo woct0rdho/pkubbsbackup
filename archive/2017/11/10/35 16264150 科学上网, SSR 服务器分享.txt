@@ -1,4 +1,4 @@
-#t 35 16264150 hiaoxui 2017-11-10 00:00:00 RoCinante 2020-05-29 17:09:00
+#t 35 16264150 hiaoxui 2017-11-10 00:00:00 hiaoxui 2020-05-29 19:04:00
 科学上网, SSR 服务器分享
 
 #p 17134091 hiaoxui 小辉 2020-05-07 09:47:29
@@ -2569,4 +2569,16 @@ scholar 问题还是没有完全解决.
 #p 22504724 RoCinante A Legitimate Salvage 2020-05-29 17:08:34
 刚看到LZ博客更新了一篇Clash使用教程，是要改用SS协议了吗？
 #quote hiaoxui
+
+#p 22505130 hiaoxui 小辉 2020-05-29 18:28:59
+欢迎加入内测! 我私信给你 tg 群组了.
+#quote RoCinante
+
+#p 22505220 Tranquilsun 串口 觉察 清明 2020-05-29 18:50:10
+好像IPV6的服务器少了几个，不过其他的都能用，就是好奇下
+#quote hiaoxui
+
+#p 22505293 hiaoxui 小辉 2020-05-29 19:03:13
+因为有些运营商不提供ipv6
+#quote Tranquilsun
 
