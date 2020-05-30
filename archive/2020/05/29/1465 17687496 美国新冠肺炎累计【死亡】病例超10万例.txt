@@ -1,4 +1,4 @@
-#t 1465 17687496 MyLucky 2020-05-29 19:33:00 MyLucky 2020-05-29 19:33:00
+#t 1465 17687496 MyLucky 2020-05-29 00:19:00 Koppelbarg 2020-05-30 09:59:00
 美国新冠肺炎累计【死亡】病例超10万例
 
 #p 22505399 MyLucky You're beautiful 2020-05-29 19:33:00
@@ -7,4 +7,11 @@
 [https://tv.cctv.com/2020/05/29/VIDE5K1QpNKujR5iXbfBm2k6200529.shtml?spm=C22284.PoJGBSlOPG74.S50129.17](jump-to.php?url=https%3A%2F%2Ftv.cctv.com%2F2020%2F05%2F29%2FVIDE5K1QpNKujR5iXbfBm2k6200529.shtml%3Fspm%3DC22284.PoJGBSlOPG74.S50129.17)
 呼天盖地的蝗虫
 [https://tv.cctv.com/2020/05/29/VIDElSSiNSb1Il1MhakIkNZr200529.shtml?spm=C22284.PoJGBSlOPG74.S50129.28](jump-to.php?url=https%3A%2F%2Ftv.cctv.com%2F2020%2F05%2F29%2FVIDElSSiNSb1Il1MhakIkNZr200529.shtml%3Fspm%3DC22284.PoJGBSlOPG74.S50129.28)
+
+#p 22507405 Koppelbarg 云中 2020-05-30 09:58:38
+新冠病毒完全不控制是一传三
+美国现在还是没有降到一传一以下吧，这样传播链还是要继续下去
+虽然他们的检测数据是每日新增基本固定，总确诊人数线性增长，但这个是人为控制的
+作为对比，欧洲的疫情是确实安静下去了
+#quote MyLucky
 
