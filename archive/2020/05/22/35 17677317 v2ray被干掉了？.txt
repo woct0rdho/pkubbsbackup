@@ -1,4 +1,4 @@
-#t 35 17677317 ilemach 2020-05-22 00:12:00 stevezhang 2020-05-25 10:48:00
+#t 35 17677317 ilemach 2020-05-22 00:12:00 shanking 2020-05-31 15:11:00
 v2ray被干掉了？
 
 #p 22459259 ilemach 封刀挂剑 2020-05-22 12:43:54
@@ -142,7 +142,7 @@ F: False
 直接ssh-D转发建立本地的socks5服务从来没被墙过，除非服务器ping不上。
 #quote ilemach
 
-#p 22460998 scalefree 蛋白质手刀 2020-05-22 18:17:48
+#p 22460998 scalefree 推墙党 2020-05-22 18:17:48
 自由？不存在的，说不定哪天就从24字里消失了
 #quote ilemach
 
@@ -167,7 +167,7 @@ F: False
 又试了下不能用了，妈的
 #quote ilemach
 
-#p 22461205 yizigui 以谓缱绻 2020-05-22 19:01:14
+#p 22461205 yizigui 以谨缱绻 2020-05-22 19:01:14
 没有呀 下午还好好用着
 #quote ilemach
 
@@ -324,4 +324,8 @@ Vmess吧，我选的这个，刚发现也挂了
 #p 22473331 stevezhang shiGaRo 2020-05-25 10:47:51
 同ssh可以连接，想问SSR是否也适用重装服务的办法？需要重装VPS吗？
 #quote haowill
+
+#p 22515553 shanking Tick-Tock 2020-05-31 15:10:36
+V2ray凉没凉我不知道，反正已经在被干的路上了。今天有人发了一个issue，证明了一行iptables规则就能精准识别v2ray的tls流量。V2党引以为豪的webserver+tls+websocket也不能独善其身，套了CDN也没用，因为问题出在client发送的client hello。现在手动修改配置文件或者等gui客户端的更新
+#quote ilemach
 
