@@ -1,4 +1,4 @@
-#t 668 17689903 Kurapica 2020-05-31 17:55:00 Kurapica 2020-05-31 17:55:00
+#t 668 17689903 Kurapica 2020-05-31 00:17:00 Kurapica 2020-05-31 18:56:00
 可否让北大的Pulse Secure忽略某些网段
 
 #p 22516073 Kurapica 库卡 2020-05-31 17:54:30
@@ -9,4 +9,37 @@
 例如，我本地IP是192.168.1.101，我本地gateway是192.168.1.1，我想访问我的一台内网服务器172.16.10.10，但是因为这台服务器和我本机并不在一个子网内，所以我的电脑默认就选择了222.29.26.66，也就是VPN，作为gateway。而实际上应该用物理网卡的gateway的。
 我查了一下，本地客户端上没有设置的地方。如果每次打开Pulse连服务器前都要自己设置一下路由表也非常恶心。如果的确是没有从外面连VPN访问内网地址的需求，能否考虑在服务器端推送路由表的时侯（如果Pulse有这个功能，起码OpenVPN是有的）能够推送“忽略内网地址”的路由？
 谢谢。
+
+#p 22516164 Kurapica 库卡 2020-05-31 18:23:26
+我试着手动添加路由，但无论是用-interface还是gateway都无法跳过tun，这破逼客户端是不是有点霸道？霸占我路由表是什么意思？
+BTW：下面这个链接说了，Pulse Secure可以让一部分IP不通过VPN路由的
+[https://multipass.run/docs/troubleshooting-networking-on-macos](jump-to.php?url=https%3A%2F%2Fmultipass.run%2Fdocs%2Ftroubleshooting-networking-on-macos)
+所以麻烦给开个后门，或者，放开远程桌面连接吧？
+#quote Kurapica
+
+#p 22516188 PKUCC 北京大学计算中心 2020-05-31 18:32:26
+你好，如果在同一网段，是不走VPN网关的。若跨网段，无法区分哪些是属于您的内网。VPN是适用所有用户的一般使用需求，若有特殊需求，建议使用WPN，可以更灵活地定制。
+#quote Kurapica
+
+#p 22516190 Kurapica 库卡 2020-05-31 18:33:12
+如果没错的话，应该是下面的几个选项？
+[https://kb.pulsesecure.net/articles/Pulse_Secure_Article/KB3054](jump-to.php?url=https%3A%2F%2Fkb.pulsesecure.net%2Farticles%2FPulse_Secure_Article%2FKB3054)
+拜托请尽快回复。这种入侵且绑架客户端路由表的行为无异于恶意软件，谢谢。
+#quote Kurapica
+
+#p 22516192 Kurapica 库卡 2020-05-31 18:34:40
+
+
+2020-05-31 18:33:48
+对不起，请问172.16.*.*、192.168.*.*和10.*.*.*这几个网段，能够跨VPN访问么？有实际意义么？能够连到计算中心某些服务器上？反正我们日常的服务器应该是没有这些IP段的
+#quote PKUCC
+
+#p 22516211 PKUCC 北京大学计算中心 2020-05-31 18:39:38
+这些路由需要下发到每个用户的路由表，对一般用户没有必要，若有特殊需求，建议使用WPN。
+#quote Kurapica
+
+#p 22516250 Kurapica 库卡 2020-05-31 18:55:20
+对不起。我鉴定认为路由表是一个客户的私有财产，请勿劫持。
+另外，明明有option可以做到减少劫持。如果贵单位不解释也不加以改进的话，我想我会就此继续发表意见。
+#quote PKUCC
 
