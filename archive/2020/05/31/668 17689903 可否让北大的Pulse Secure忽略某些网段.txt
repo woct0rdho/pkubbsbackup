@@ -1,4 +1,4 @@
-#t 668 17689903 Kurapica 2020-05-31 00:17:00 Kurapica 2020-05-31 21:02:00
+#t 668 17689903 Kurapica 2020-05-31 00:17:00 shiwenhao 2020-05-31 22:17:00
 可否让北大的Pulse Secure忽略某些网段
 
 #p 22516073 Kurapica 库卡 2020-05-31 17:54:30
@@ -67,5 +67,10 @@ sudo route delete -net 172.16.0.0/16
 用 netstat -r 查看结果，发现路由项无法被删除
 在此情况下我断开北大VPN，发现这条路由还在，但是gw和if都变成了我的默认设备。这个时候就能删除了。
 就此我推断，Pulse Secure劫持了我的路由表，禁止我本地修改。
+#quote Kurapica
+
+#p 22517113 shiwenhao 白天想，夜里哭，做梦都想去首都 2020-05-31 22:16:45
+MacOS下面可以尝试用命令行版本的openconnect，我用的这个不会刷路由表。
+连接的时候需要sudo
 #quote Kurapica
 
