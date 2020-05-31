@@ -1,0 +1,6 @@
+#t 35 17689841 Imperio 2020-05-31 17:04:00 Imperio 2020-05-31 17:04:00
+OpenConnect-GUI能否不用每次输入密码？
+
+#p 22515909 Imperio Mobile 2020-05-31 17:04:03
+在macOS上使用OpenConnect-GUI，每次都会询问权限，要输一次开机密码。连接的时候又要输一次北大网关密码。能否像Pulse Secure那样记住密码呢？
+
