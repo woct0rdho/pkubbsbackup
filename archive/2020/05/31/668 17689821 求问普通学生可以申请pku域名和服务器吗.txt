@@ -1,0 +1,15 @@
+#t 668 17689821 twinklestar 2020-05-31 16:41:00 PKUCC 2020-05-31 16:59:00
+求问普通学生可以申请pku域名和服务器吗
+
+#p 22515825 twinklestar 星尘 2020-05-31 16:40:31
+虽然我知道可能是我想多了，但还是想问问。如果可以，怎么申请呢
+
+#p 22515863 yzs 江户川闰土 2020-05-31 16:52:31
+[https://its.pku.edu.cn/rule.jsp](jump-to.php?url=https%3A%2F%2Fits.pku.edu.cn%2Frule.jsp)
+都写了
+#quote twinklestar
+
+#p 22515889 PKUCC 北京大学计算中心 2020-05-31 16:58:24
+你好！不可以，服务器和域名需经过院系单位批准并登记单位负者人信息才能注册。
+#quote twinklestar
+
