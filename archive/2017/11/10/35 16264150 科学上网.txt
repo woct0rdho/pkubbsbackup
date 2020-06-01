@@ -1,4 +1,4 @@
-#t 35 16264150 hiaoxui 2017-11-10 00:00:00 PKUwuming 2020-06-01 09:23:00
+#t 35 16264150 hiaoxui 2017-11-10 00:00:00 hiaoxui 2020-06-01 10:39:00
 科学上网
 
 #p 17134091 hiaoxui 小辉 2020-05-31 13:25:07
@@ -2636,4 +2636,12 @@ ios系统怎么办呢。。。感觉很多人都在用ipad啊
 #p 22518573 PKUwuming 无名 2020-06-01 09:22:47
 ipv6，国外的，慢成🐶了
 #quote NexTU
+
+#p 22518868 zhouziheng ydwrzzh 2020-06-01 10:19:54
+安卓客户端使用方法能再详细一点吗，试了一下翻不出去。。
+#quote hiaoxui
+
+#p 22518947 hiaoxui 小辉 2020-06-01 10:39:33
+尝试把你的问题详细描述一下发给 wallesspku@googlegroups.com 
+#quote zhouziheng
 
