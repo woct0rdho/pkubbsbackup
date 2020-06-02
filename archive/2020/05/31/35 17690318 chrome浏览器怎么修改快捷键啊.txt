@@ -1,6 +1,10 @@
-#t 35 17690318 yuanshangcao 2020-05-31 23:45:00 yuanshangcao 2020-05-31 23:45:00
+#t 35 17690318 yuanshangcao 2020-05-31 00:23:00 yuguorui 2020-06-03 00:47:00
 chrome浏览器怎么修改快捷键啊
 
 #p 22517560 yuanshangcao 任何值得做的事就值得把它做好 2020-05-31 23:44:11
 主要是想把ALT+←给改了，太反人类了……
+
+#p 22527945 yuguorui yuguorui 2020-06-03 00:46:17
+写个油猴插件？JS定义的快捷键优先级默认高于Chrome自己的。
+#quote yuanshangcao
 
