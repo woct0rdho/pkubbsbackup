@@ -1,4 +1,4 @@
-#t 35 17677317 ilemach 2020-05-22 00:12:00 shanking 2020-05-31 15:11:00
+#t 35 17677317 ilemach 2020-05-22 00:12:00 yuguorui 2020-06-03 14:10:00
 v2ray被干掉了？
 
 #p 22459259 ilemach 封刀挂剑 2020-05-22 12:43:54
@@ -325,7 +325,16 @@ Vmess吧，我选的这个，刚发现也挂了
 同ssh可以连接，想问SSR是否也适用重装服务的办法？需要重装VPS吗？
 #quote haowill
 
-#p 22515553 shanking Tick-Tock 2020-05-31 15:10:36
-V2ray凉没凉我不知道，反正已经在被干的路上了。今天有人发了一个issue，证明了一行iptables规则就能精准识别v2ray的tls流量。V2党引以为豪的webserver+tls+websocket也不能独善其身，套了CDN也没用，因为问题出在client发送的client hello。现在手动修改配置文件或者等gui客户端的更新
+#p 22515553 shanking Tick-Tock 2020-05-31 23:19:08
+
+
+2020-05-31 15:10:36
+V2ray凉没凉我不知道，反正已经在被干的路上了。今天有人发了一个issue，证明了一行iptables规则就能精准识别v2ray的tls流量。V2党引以为豪的webserver+tls+websocket也不能独善其身，套了CDN也没用，因为问题出在client发送的client hello。现在只能手动修改配置文件或者等客户端的更新(已经更新了）
+#quote ilemach
+
+#p 22529838 yuguorui yuguorui 2020-06-03 14:09:11
+vmess协议设计和实现缺陷可导致服务器遭到主动探测特征识别，v2ray repo已经发现存在的问题了。
+简单讲，vmess+ws+tls的没问题，vmess+tcp的跪了。
+[https://github.com/v2ray/v2ray-core/issues/2523](jump-to.php?url=https%3A%2F%2Fgithub.com%2Fv2ray%2Fv2ray-core%2Fissues%2F2523)
 #quote ilemach
 
