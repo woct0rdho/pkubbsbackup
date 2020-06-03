@@ -1,4 +1,4 @@
-#t 35 17690318 yuanshangcao 2020-05-31 00:23:00 yuguorui 2020-06-03 01:03:00
+#t 35 17690318 yuanshangcao 2020-05-31 00:23:00 yuanshangcao 2020-06-03 22:09:00
 chrome浏览器怎么修改快捷键啊
 
 #p 22517560 yuanshangcao 任何值得做的事就值得把它做好 2020-05-31 23:44:11
@@ -13,4 +13,9 @@ chrome浏览器怎么修改快捷键啊
 上面的代码能拦截一些快捷键，但是不幸的是chrome有一些快捷键无法修改，例如alt+leftarrow。
 你应该得写个autohotkey脚本拦截这个按键消息才能解决了，┑(￣Д ￣)┍
 #quote yuanshangcao
+
+#p 22531832 yuanshangcao 任何值得做的事就值得把它做好 2020-06-03 22:09:04
+o(╥﹏╥)o
+谢谢大佬！
+#quote yuguorui
 
