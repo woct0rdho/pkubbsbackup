@@ -1,4 +1,4 @@
-#t 35 17691669 MrC 2020-06-01 00:20:00 fanwucao 2020-06-04 12:27:00
+#t 35 17691669 MrC 2020-06-01 00:20:00 bjchong 2020-06-05 16:39:00
 所有跟学校有关的网站都打不开
 
 #p 22522328 MrC 游吟诗人 2020-06-01 20:44:26
@@ -7,4 +7,8 @@
 #p 22534158 fanwucao 猫咪袖子 2020-06-04 12:26:51
 估计是特殊时期吧……学校vpn也连不上……
 #quote MrC
+
+#p 22539923 bjchong bjchong 2020-06-05 16:38:59
+关于Pulse Secure连不上的问题，可尝试更换服务器域名为vpnu.pku.edu.cn、vpnt.pku.edu.cn等（根据当前ISP选择），参阅网页[https://its.pku.edu.cn/service_1_vpn_client.jsp](jump-to.php?url=https%3A%2F%2Fits.pku.edu.cn%2Fservice_1_vpn_client.jsp)第2条内容。
+#quote fanwucao
 
