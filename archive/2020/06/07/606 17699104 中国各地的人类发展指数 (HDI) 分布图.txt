@@ -1,0 +1,10 @@
+#t 606 17699104 nietsnie 2020-06-07 00:22:00 nietsnie 2020-06-07 00:22:00
+中国各地的人类发展指数 (HDI) 分布图
+
+#p 22552322 nietsnie 嗯，我是一个昵称 2020-06-07 00:22:02
+数据来源：联合国开发计划署 2019年 中国人类发展报告特别版 附录 (报告使用的是2016年的数据）
+完整报告链接： [https://www.undp.org/content/dam/china/docs/Publications/NHDR-CHN.pdf](jump-to.php?url=https%3A%2F%2Fwww.undp.org%2Fcontent%2Fdam%2Fchina%2Fdocs%2FPublications%2FNHDR-CHN.pdf)
+HDI 构成： [https://en.wikipedia.org/wiki/Human_Development_Index](jump-to.php?url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FHuman_Development_Index)
+数据处理制图：nietsnie @ bdwm
+注：报告中数据仅包含了地级行政单位的数据，没有直辖市下属分区的数据，所以直辖市使用省级数据。其他不属于地级市的行政单位，比如河南省济源市，以及湖北省仙桃市、天门市、潜江市和神农架林区，加上海南省除海口市
+
