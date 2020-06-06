@@ -1,4 +1,4 @@
-#t 35 17649015 hiaoxui 2020-05-01 00:14:00 substract 2020-05-10 23:48:00
+#t 35 17649015 hiaoxui 2020-05-01 00:14:00 shiggg 2020-06-06 18:13:00
 白名单防火墙可以有效对抗 GFW 的主动探测
 
 #p 22323467 hiaoxui 小辉 2020-05-01 14:25:08
@@ -204,4 +204,8 @@ iptables -A INPUT -p tcp --dport 80 -j ACCEPT
 #p 22392945 substract 撤回了一条消息 2020-05-10 23:47:48
 魔高一尺 道高一丈
 #quote CoreM
+
+#p 22544202 shiggg 北土路甲 2020-06-06 18:12:06
+赞
+#quote hiaoxui
 
