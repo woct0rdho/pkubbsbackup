@@ -1,4 +1,4 @@
-#t 35 16264150 hiaoxui 2017-11-10 00:00:00 karlmarx 2020-06-07 09:07:00
+#t 35 16264150 hiaoxui 2017-11-10 00:00:00 hiaoxui 2020-06-07 10:30:00
 科学上网
 
 #p 17134091 hiaoxui 小辉 2020-06-01 10:40:20
@@ -2735,4 +2735,18 @@ Linux 发行版本复杂，不便写一个通用指南。不过既然选择了 L
 不用管“通过浏览器访问 [http://clash.razord.top](jump-to.php?url=http%3A%2F%2Fclash.razord.top) 进行策略组设置”那一段就可以用
 我还没整明白是怎么切换服务器，但是反正可以用……
 #quote chenlupeng
+
+#p 22553129 sunweijian 者行孙 2020-06-07 10:08:37
+安装clash for windows之后界面显示
+Could not connect to clash core
+log里面这么一行错误：
+level=warning msg="Failed to start Redir UDP Listener: UDP redir not supported on current platform"
+（Win10系统）
+#quote hiaoxui
+
+#p 22553220 hiaoxui 小辉 2020-06-07 10:29:46
+这个无所谓, UDP 不是关键.
+你把完整 log 发到邮箱看看: 
+wallesspku@googlegroups.com
+#quote sunweijian
 
