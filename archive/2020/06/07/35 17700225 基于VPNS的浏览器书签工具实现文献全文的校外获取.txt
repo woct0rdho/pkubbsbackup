@@ -1,4 +1,4 @@
-#t 35 17700225 peiyangium 2020-06-07 22:31:00 peiyangium 2020-06-07 22:31:00
+#t 35 17700225 peiyangium 2020-06-07 00:22:00 jiamingpku 2020-06-07 23:39:00
 基于VPNS的浏览器书签工具实现文献全文的校外获取
 
 #p 22556158 peiyangium 生建办主任助理|柯带宜居办主任|副团级 2020-06-07 22:31:27
@@ -7,4 +7,8 @@
 书签代码：
 javascript:location.href = location.origin.replace(/\./g, '-').replace(/^http:/, 'https:') + "-s.vpns.pku.edu.cn:80" + location.pathname + location.search
 之前做过医学部版bookmarklet，近期计算中心推出VPNS服务以后，我发现也可以这么用，获取文献效率大大提高。
+
+#p 22556445 jiamingpku jiamingpku 2020-06-07 23:38:11
+sf
+#quote peiyangium
 
