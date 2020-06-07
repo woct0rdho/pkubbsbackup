@@ -1,4 +1,4 @@
-#t 668 17699373 ubermensch 2020-06-07 00:08:00 ubermensch 2020-06-07 09:39:00
+#t 668 17699373 ubermensch 2020-06-07 00:08:00 PKUCC 2020-06-07 11:10:00
 请问未名1号是否可以安装tensorflow2gpu版本？
 
 #p 22552849 ubermensch 小老虎 2020-06-07 08:14:30
@@ -19,4 +19,8 @@
 #p 22553046 ubermensch 小老虎 2020-06-07 09:38:38
 安装nvidia驱动似乎是要用sudo命令
 #quote PKUCC
+
+#p 22553371 PKUCC 北京大学计算中心 2020-06-07 11:09:38
+登录节点是没有GPU的，conda install tensorflow-gpu==&lt;version&gt;安装上gpu版本后申请gpu节点使用
+#quote ubermensch
 
