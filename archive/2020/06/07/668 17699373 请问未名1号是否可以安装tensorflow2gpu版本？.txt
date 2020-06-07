@@ -1,4 +1,4 @@
-#t 668 17699373 ubermensch 2020-06-07 08:15:00 PKUCC 2020-06-07 08:52:00
+#t 668 17699373 ubermensch 2020-06-07 00:08:00 ubermensch 2020-06-07 09:39:00
 请问未名1号是否可以安装tensorflow2gpu版本？
 
 #p 22552849 ubermensch 小老虎 2020-06-07 08:14:30
@@ -11,4 +11,12 @@
 #p 22552932 PKUCC 北京大学计算中心 2020-06-07 08:51:18
 您可以使用conda搭建自己的python环境，具体参考hpc主页使用教程中python使用。如有其他问题可将问题发送至hpc@pku.edu.cn.或者关注公众号 北京大学高性能计算校级公共平台，并在上面留言
 #quote ubermensch
+
+#p 22553041 ubermensch 小老虎 2020-06-07 09:38:08
+您好 我看了那个教程 但是不知道如何查看未名1号集群上面的gpu情况 好像集群上面没有安装nvidia？因为无法用nvidia-smi命令
+#quote PKUCC
+
+#p 22553046 ubermensch 小老虎 2020-06-07 09:38:38
+安装nvidia驱动似乎是要用sudo命令
+#quote PKUCC
 

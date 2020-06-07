@@ -1,4 +1,4 @@
-#t 35 16264150 hiaoxui 2017-11-10 00:00:00 hiaoxui 2020-06-06 16:52:00
+#t 35 16264150 hiaoxui 2017-11-10 00:00:00 karlmarx 2020-06-07 09:07:00
 科学上网
 
 #p 17134091 hiaoxui 小辉 2020-06-01 10:40:20
@@ -2728,5 +2728,11 @@ linux 下 clash 怎么配置啊?
 #p 22543937 hiaoxui 小辉 2020-06-06 16:51:44
 这个网上太多了，我就不指导了。
 Linux 发行版本复杂，不便写一个通用指南。不过既然选择了 Linux 一般而言计算机水平也足够搞定这个。
+#quote chenlupeng
+
+#p 22552964 karlmarx 还我三角地！灵均·六月雪 2020-06-07 09:06:17
+[https://www.jianshu.com/p/2906066d2e0a](jump-to.php?url=https%3A%2F%2Fwww.jianshu.com%2Fp%2F2906066d2e0a)
+不用管“通过浏览器访问 [http://clash.razord.top](jump-to.php?url=http%3A%2F%2Fclash.razord.top) 进行策略组设置”那一段就可以用
+我还没整明白是怎么切换服务器，但是反正可以用……
 #quote chenlupeng
 
