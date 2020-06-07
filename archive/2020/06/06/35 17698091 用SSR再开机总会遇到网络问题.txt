@@ -1,4 +1,4 @@
-#t 35 17698091 SharonL 2020-06-06 00:09:00 IlIl 2020-06-07 19:22:00
+#t 35 17698091 SharonL 2020-06-06 00:09:00 IlIl 2020-06-07 20:57:00
 用SSR再开机总会遇到网络问题
 
 #p 22542108 SharonL 一猫 2020-06-06 09:09:00
@@ -30,5 +30,14 @@ clash和SSR功能一样吗？我用的版上给的SSR服务器，这个clash可�
 
 #p 22554835 IlIl 王铁牙 2020-06-07 19:21:31
 Mac版ssr的问题？
+#quote SharonL
+
+#p 22555724 SharonL 一猫 2020-06-07 20:31:39
+我用的不是MAC，是windows啊~
+#quote IlIl
+
+#p 22555800 IlIl 王铁牙 2020-06-07 20:56:12
+我自己用的ssr的这个版本的，还算比较稳定，不过我没有用xiaohui的服务器。
+[https://github.com/shadowsocksrr/shadowsocksr-csharp/releases](jump-to.php?url=https%3A%2F%2Fgithub.com%2Fshadowsocksrr%2Fshadowsocksr-csharp%2Freleases)
 #quote SharonL
 
