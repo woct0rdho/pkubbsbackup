@@ -1,4 +1,4 @@
-#t 35 17700225 peiyangium 2020-06-07 00:22:00 jiamingpku 2020-06-07 23:39:00
+#t 35 17700225 peiyangium 2020-06-07 00:22:00 FallenDust 2020-06-08 08:54:00
 基于VPNS的浏览器书签工具实现文献全文的校外获取
 
 #p 22556158 peiyangium 生建办主任助理|柯带宜居办主任|副团级 2020-06-07 22:31:27
@@ -10,5 +10,9 @@ javascript:location.href = location.origin.replace(/\./g, '-').replace(/^http:/,
 
 #p 22556445 jiamingpku jiamingpku 2020-06-07 23:38:11
 sf
+#quote peiyangium
+
+#p 22557282 FallenDust 落尘于土 2020-06-08 08:53:25
+试了一下感觉比北医的webvpn要快一些
 #quote peiyangium
 
