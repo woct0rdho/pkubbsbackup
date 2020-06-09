@@ -1,4 +1,4 @@
-#t 35 17529369 Dalpku 2020-02-05 00:15:00 Dalpku 2020-06-09 01:26:00
+#t 35 17529369 Dalpku 2020-02-05 00:15:00 AyanamiD 2020-06-09 12:37:00
 推荐一个app，clash
 
 #p 21805840 Dalpku YuYu 2020-02-05 15:38:16
@@ -63,4 +63,16 @@ clash 是托管服务 大概是可以设置哪些流量走什么节点的一个�
 #p 22561312 Dalpku YuYu 2020-06-09 01:25:51
 注意安装最新版本，第二就是这个问题和很多ss也会遇到的，软件不合理的退出，正常退出软件会切换回去，意外退出 很多后来监听的端口还是clash
 #quote Iowa
+
+#p 22562729 quicy quicy 2020-06-09 12:25:07
+比起小飞机，最大的优势就是可以设置策略组吧。比如 YouTube 用香港结点，Netflix 用美国结点，Google 用新加坡结点等等，某些网站直连不走结点。这样就不会因为地区问题频繁换节点。还有一个比较好的是 clash 可以自动选择速度最快的结点，实时的。
+#quote rainflight
+
+#p 22562731 quicy quicy 2020-06-09 12:26:04
+借楼推荐 iOS 上好用的 app，quantumult X，支持 js 脚本。
+#quote Dalpku
+
+#p 22562774 AyanamiD Lean 2020-06-09 12:37:05
+ClashR可以支持SSR [https://github.com/WhoJave/clash/releases](jump-to.php?url=https%3A%2F%2Fgithub.com%2FWhoJave%2Fclash%2Freleases)
+#quote Dalpku
 
