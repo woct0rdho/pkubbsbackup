@@ -1,6 +1,11 @@
-#t 35 17701068 yyshen 2020-06-08 15:01:00 yyshen 2020-06-08 15:01:00
+#t 35 17701068 yyshen 2020-06-08 00:15:00 bjchong 2020-06-09 20:40:00
 北大VPN使用后无法使用网络
 
 #p 22558585 yyshen yyshen 2020-06-08 15:00:52
 求助，在使用北大VPN几分钟后，wifi网络就开始出现无法连接，无Internet访问的情况，请问有没有同学遇到并解决过？
+
+#p 22564681 bjchong ZBAA | ZBAD 2020-06-09 20:39:53
+如果只是无线的那个连接显示“No Internet connection”的话不用理会，因为probe全被定向到了Pulse Secure建立的那个连接上面。一般情况是只有Pulse Secure建立的那个连接显示有Internet connection。
+总之，网络访问通畅即可。
+#quote yyshen
 
