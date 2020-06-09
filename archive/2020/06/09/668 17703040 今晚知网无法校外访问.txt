@@ -1,4 +1,4 @@
-#t 668 17703040 xongkorohui 2020-06-09 21:01:00 xongkorohui 2020-06-09 21:46:00
+#t 668 17703040 xongkorohui 2020-06-09 00:21:00 xongkorohui 2020-06-09 22:51:00
 今晚知网无法校外访问
 
 #p 22564786 xongkorohui 惠愚 2020-06-09 21:01:08
@@ -26,5 +26,17 @@
 #p 22564971 xongkorohui 惠愚 2020-06-09 21:45:55
 同学用VPN登上了
 辛苦老师！！
+#quote PKUCC
+
+#p 22565199 PKUCC 北京大学计算中心 2020-06-09 22:32:42
+通过carsi访问[https://fsso.cnki.net](jump-to.php?url=https%3A%2F%2Ffsso.cnki.net)，从校外访问cnki的另一个办法。权限一样，不过vpn。
+#quote xongkorohui
+
+#p 22565257 xongkorohui 惠愚 2020-06-09 22:50:34
+
+
+2020-06-09 22:50:24
+哈哈哈哈hCARSI好东西
+希望早日普及~~
 #quote PKUCC
 
