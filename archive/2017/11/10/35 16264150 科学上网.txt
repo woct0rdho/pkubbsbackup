@@ -1,7 +1,7 @@
-#t 35 16264150 hiaoxui 2017-11-10 00:00:00 hiaoxui 2020-06-07 10:30:00
+#t 35 16264150 hiaoxui 2017-11-10 00:00:00 sunweijian 2020-06-10 11:53:00
 科学上网
 
-#p 17134091 hiaoxui 小辉 2020-06-01 10:40:20
+#p 17134091 hiaoxui 小辉 2020-06-10 11:47:28
 
 
 2017-11-10 23:53:54
@@ -16,7 +16,7 @@
 - 我承诺不侵犯您的隐私, 但您需要自行承担隐私泄露的风险.﻿
 这个链接将告诉你如何使用我们的服务:
 [https://wallesspku.space](jump-to.php?url=https%3A%2F%2Fwallesspku.space)
-里面有我们的联系方式, **请勿在此楼回复询问**, 也不要私信我.
+里面有我们的联系方式, 请用邮箱联系我们. <font color="#c00000"><u>**请勿在此帖回复或私信我询问问题.**</u></font>
 **致管理部门: 墙的存在对科学研究是一个灾难, 许多墙外的资源是不可能在国内找到替代品的. 这是一个无法解决的矛盾. 我们无法改变现状, 但请把枪口抬高一寸, 为北大留下一点自由的网络空间.**
 
 #p 17136173 opteronx 从删库到跑路 2017-11-11 15:39:47
@@ -2749,4 +2749,16 @@ level=warning msg="Failed to start Redir UDP Listener: UDP redir not supported o
 你把完整 log 发到邮箱看看: 
 wallesspku@googlegroups.com
 #quote sunweijian
+
+#p 22567000 tsiau 待晞 2020-06-10 11:09:07
+请问楼主，改成clash之后，我上windy这个网站时经常会显示我已离线不能更新，上其他网站暂时没遇到问题，请问可能是什么原因呢？
+#quote hiaoxui
+
+#p 22567183 hiaoxui 小辉 2020-06-10 11:43:43
+你是 windows 吗? 如果是话, 你可以看看 connection 那一栏, 看看 windy 走了什么样的连接方式, 有没有走代理路线.
+#quote tsiau
+
+#p 22567221 sunweijian 者行孙 2020-06-10 11:52:20
+我明白了：移动宽带
+#quote hiaoxui
 
