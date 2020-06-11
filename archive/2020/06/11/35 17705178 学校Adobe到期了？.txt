@@ -1,4 +1,4 @@
-#t 35 17705178 emberjumper 2020-06-11 00:09:00 emberjumper 2020-06-11 21:51:00
+#t 35 17705178 emberjumper 2020-06-11 00:09:00 jiamingpku 2020-06-12 01:36:00
 学校Adobe到期了？
 
 #p 22616613 emberjumper 跳余烬者|未名湖小鸭子 2020-06-11 09:11:28
@@ -43,4 +43,8 @@
 #p 22619743 emberjumper 跳余烬者|未名湖小鸭子 2020-06-11 21:50:46
 已解决 按照6楼下一个补丁包就可以 
 #quote FallenDust
+
+#p 22622006 jiamingpku jiamingpku 2020-06-12 01:36:02
+动手能力+++
+#quote emberjumper
 
