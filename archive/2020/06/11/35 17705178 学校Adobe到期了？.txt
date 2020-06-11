@@ -1,6 +1,10 @@
-#t 35 17705178 emberjumper 2020-06-11 09:12:00 emberjumper 2020-06-11 09:12:00
+#t 35 17705178 emberjumper 2020-06-11 00:09:00 vimacs 2020-06-11 12:29:00
 学校Adobe到期了？
 
 #p 22616613 emberjumper 跳余烬者|未名湖小鸭子 2020-06-11 09:11:28
 为什么今天打开电脑 就让我输入序列号 现在看个pdf都看不了了……
+
+#p 22617386 vimacs Lisp Interaction Paredit AC 2020-06-11 12:28:21
+用Firefox就能看PDF.
+#quote emberjumper
 
