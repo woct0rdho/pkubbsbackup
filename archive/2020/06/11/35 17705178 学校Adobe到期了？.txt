@@ -1,4 +1,4 @@
-#t 35 17705178 emberjumper 2020-06-11 00:09:00 vimacs 2020-06-11 12:29:00
+#t 35 17705178 emberjumper 2020-06-11 00:09:00 Sunshinewt 2020-06-11 15:02:00
 学校Adobe到期了？
 
 #p 22616613 emberjumper 跳余烬者|未名湖小鸭子 2020-06-11 09:11:28
@@ -6,5 +6,9 @@
 
 #p 22617386 vimacs Lisp Interaction Paredit AC 2020-06-11 12:28:21
 用Firefox就能看PDF.
+#quote emberjumper
+
+#p 22618089 Sunshinewt 不能太浮躁啊 2020-06-11 15:01:53
+同
 #quote emberjumper
 
