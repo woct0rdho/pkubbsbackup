@@ -1,4 +1,4 @@
-#t 35 17705178 emberjumper 2020-06-11 00:09:00 square 2020-06-11 20:44:00
+#t 35 17705178 emberjumper 2020-06-11 00:09:00 emberjumper 2020-06-11 21:51:00
 学校Adobe到期了？
 
 #p 22616613 emberjumper 跳余烬者|未名湖小鸭子 2020-06-11 09:11:28
@@ -31,4 +31,16 @@
 #p 22619382 square 朝花不夕拾 2020-06-11 20:44:15
 重新下载安装就行了哦。
 #quote emberjumper
+
+#p 22619735 FallenDust 落尘于土 2020-06-11 21:48:08
+我重新下了也不行
+#quote square
+
+#p 22619742 FallenDust 落尘于土 2020-06-11 21:50:41
+用了那个补丁搞定了
+#quote FallenDust
+
+#p 22619743 emberjumper 跳余烬者|未名湖小鸭子 2020-06-11 21:50:46
+已解决 按照6楼下一个补丁包就可以 
+#quote FallenDust
 
