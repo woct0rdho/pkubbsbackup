@@ -1,4 +1,4 @@
-#t 668 17705331 truewind 2020-06-11 00:11:00 truewind 2020-06-12 08:58:00
+#t 668 17705331 truewind 2020-06-11 00:11:00 PKUCC 2020-06-12 15:19:00
 北大网盘dmg安装包打不开，怎么办，哭了。
 
 #p 22617127 truewind 网上冲浪 2020-06-11 11:26:29
@@ -16,4 +16,16 @@
 #p 22622547 truewind 网上冲浪 2020-06-12 08:57:14
 您好 我的邮箱是chuwenda@pku.edu.cn
 #quote PKUCC
+
+#p 22624462 PKUCC 北京大学计算中心 2020-06-12 15:17:46
+[https://disk.pku.edu.cn:443/link/82A64D60C9D9BAA9375D2977B1550804](jump-to.php?url=https%3A%2F%2Fdisk.pku.edu.cn%3A443%2Flink%2F82A64D60C9D9BAA9375D2977B1550804)
+#quote truewind
+
+#p 22624467 PKUCC 北京大学计算中心 2020-06-12 15:18:08
+你好，你直接通过我上面的链接下载
+#quote truewind
+
+#p 22624469 PKUCC 北京大学计算中心 2020-06-12 15:18:19
+这个最新的
+#quote truewind
 
