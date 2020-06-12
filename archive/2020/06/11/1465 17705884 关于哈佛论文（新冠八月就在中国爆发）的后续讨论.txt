@@ -1,4 +1,4 @@
-#t 1465 17705884 Dondonda 2020-06-11 19:48:00 Dondonda 2020-06-11 19:49:00
+#t 1465 17705884 Dondonda 2020-06-11 00:19:00 Koppelbarg 2020-06-12 08:53:00
 关于哈佛论文（新冠八月就在中国爆发）的后续讨论
 
 #p 22619157 Dondonda Dondonda 2020-06-11 19:47:23
@@ -14,5 +14,33 @@
 美国研究诚实办公室（US Office of Research Integrity）和世界医学编辑学会（World Association of Medical Editors，WAME）的学术诚信纲要，列举出了10种审稿人和期刊编辑需要特别注意的学术不端行为：
 6/10
 违反了普遍公认的研究作法（Violation of Generally Accepted Research Practices ）：这种情况包含了不规范的研究计划书、操控研究数据以产生期望的结果、使用欺骗性质的数据和分析以产生期望结果、或是使用不公正方式来解释研究成果。
+#quote Dondonda
+
+#p 22622483 mozzie 轩 2020-06-12 08:35:14
+【百度回应哈佛大学医学院论文 结论非常牵强且不严谨】
+[http://baijiahao.baidu.com/s?id=1669185769443155666&amp;wfr=newsapp](jump-to.php?url=http%3A%2F%2Fbaijiahao.baidu.com%2Fs%3Fid%3D1669185769443155666%26wfr%3Dnewsapp)
+#quote Dondonda
+
+#p 22622497 Koppelbarg 云中 2020-06-12 08:41:11
+媒体不要整天报道论文
+学术是一个长期的讨论过程，经过长期的讨论和各国严格的实验，确证是正确的学术才会跟公众有关系
+这个过程可能是百年，或者几十年，最快也要十年
+那之前跟公众无关的，是内部过程
+#quote Dondonda
+
+#p 22622499 Koppelbarg 云中 2020-06-12 08:42:18
+每篇论文不保证对
+但是经过严格的学术界内部的逻辑推理和实验证实，长期辩证之下会趋于对的
+#quote Dondonda
+
+#p 22622503 Koppelbarg 云中 2020-06-12 08:44:18
+如果媒体疯狂地冲进去搅和学术界，学术界本身就会不存在了
+本来就是无关的，极端厌恶媒体整天给学术界评分
+#quote Dondonda
+
+#p 22622528 Koppelbarg 云中 2020-06-12 08:52:43
+一个简单的道理，媒体无法评价一个大学课程的水平，完全不行的
+那么，最核心的工作水平无法评价，分是怎么打的？
+一天到晚跳进去反复搅和干嘛？
 #quote Dondonda
 
