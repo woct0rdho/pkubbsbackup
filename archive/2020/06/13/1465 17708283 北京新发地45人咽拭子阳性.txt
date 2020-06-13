@@ -1,4 +1,4 @@
-#t 1465 17708283 vegetablexad 2020-06-13 00:11:00 CoreM 2020-06-13 15:54:00
+#t 1465 17708283 vegetablexad 2020-06-13 00:11:00 Kindness 2020-06-13 16:52:00
 北京新发地45人咽拭子阳性
 
 #p 22628201 vegetablexad jerry9981 2020-06-13 11:34:19
@@ -58,6 +58,7 @@
 #quote SimonMa
 
 #p 22628543 thuyhthuyh 偷书贼|伴猫酣 2020-06-13 13:04:00
+#DELETED
 army已入驻
 #quote SimonMa
 
@@ -94,4 +95,48 @@ army已入驻
 有症状就是确诊了
 现在是无症状感染者
 #quote wjx
+
+#p 22629356 chrome DongDong 2020-06-13 16:20:39
+如果大多数是无症状感染者是不是说明这个病毒毒性减弱了
+#quote CoreM
+
+#p 22629358 RichardWake RichardWake 2020-06-13 16:22:09
+有可能是从感染到发病需要一个过程
+#quote chrome
+
+#p 22629365 CoreM AMDYES 2020-06-13 16:23:53
+我不是医学专业
+不过我猜……现在有无症状感染者（变多），不证明以前无症状感染者很少。
+一个统计学上的问题
+#quote chrome
+
+#p 22629374 Koppelbarg 云中 2020-06-13 16:25:39
+只是说明现在行动迅速，刚染上病毒还没发病就查出来了
+很佩服，北京市还是很迅速的
+再灌点中药应该病就发不出来了
+#quote chrome
+
+#p 22629396 Kindness 立德立言 2020-06-13 16:31:54
+ssfd
+#quote vegetablexad
+
+#p 22629397 cwxpkulaw 特卡图13149149 2020-06-13 16:32:14
+看到最后一句，我想笑，哈哈
+#quote Koppelbarg
+
+#p 22629399 Lucius Lucius 2020-06-13 16:32:54
+武警已经转入现役序列
+#quote HooRammstein
+
+#p 22629457 Nd 中华门站 2020-06-13 16:45:12
+无症状一般都要比确诊高几倍，冬天爆发的时候中国没报这个数字，现在查抗体能够侧面反映出来。
+#quote CoreM
+
+#p 22629477 Koppelbarg 云中 2020-06-13 16:50:09
+这样好啊，据说新冠病毒如果发病还是会导致器官一定程度受损的
+#quote cwxpkulaw
+
+#p 22629485 Kindness 立德立言 2020-06-13 16:51:44
+😂
+#quote cwxpkulaw
 

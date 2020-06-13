@@ -1,0 +1,37 @@
+#t 35 17708555 sunnyyeyan 2020-06-13 16:12:00 stickerman 2020-06-13 16:55:00
+都要疯了~
+
+#p 22629320 sunnyyeyan bigfish 2020-06-13 16:11:31
+上个月先是小飞机ShadowsockR被封了~
+然后淘宝买了一个v2rayN，前天开始又上不去了~
+现在查资料完全上不去外网，这咋整啊~
+求救，这几天写论文都急死我了~
+昨天看到有朋友的蓝灯还能用，但蓝灯太贵了~
+有其他什么推荐的翻墙软件么？或者是，有一起拼一下蓝灯或NordVPN或ExpressVPN这些比较贵的么？
+不想再天天折腾了，太耽误时间了、
+
+#p 22629324 dvorah 尺蠖·德沃夏蛤 2020-06-13 16:15:14
+
+
+2020-06-13 16:13:35
+nord也不稳 试试hiaoxui那个？ 本版 科学上网
+#quote sunnyyeyan
+
+#p 22629344 sunnyyeyan bigfish 2020-06-13 16:17:02
+好的我试试~鞠躬~
+#quote dvorah
+
+#p 22629423 sunnyyeyan bigfish 2020-06-13 16:38:14
+感谢，测试通过，可以上网了，泪奔~~
+我一会儿给他们捐点款~
+太感谢了~鞠躬~
+#quote dvorah
+
+#p 22629439 sunnyyeyan bigfish 2020-06-13 16:41:36
+不行，他们的捐款链接只能是visa信用卡，没法儿支付宝或微信支付~额~~
+#quote sunnyyeyan
+
+#p 22629496 stickerman 辣条 2020-06-13 16:54:42
+用trojan协议的可以
+#quote sunnyyeyan
+
