@@ -1,0 +1,6 @@
+#t 35 17708251 xiaomuduo 2020-06-13 11:08:00 xiaomuduo 2020-06-13 11:08:00
+Adobe Acrobat DC安装成功后为什么打不开pdf文件
+
+#p 22628080 xiaomuduo xiaomuduo 2020-06-13 11:07:23
+Adobe Acrobat DC安装成功后，为什么打开pdf文件还是需要登录ID。如果是过期了，已经运行了学校的激活补丁AdobeSerialization.exe，还是需要登录。求问是什么问题，应该如何解决？
+
