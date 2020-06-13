@@ -1,4 +1,4 @@
-#t 35 17662204 siscon 2020-05-11 00:18:00 hiaoxui 2020-05-12 11:21:00
+#t 35 17662204 siscon 2020-05-11 00:18:00 Tulegesha 2020-06-13 07:50:00
 Lightsail ssr上不了谷歌学术
 
 #p 22397954 siscon 实妹什么的最棒了！ 2020-05-11 18:38:41
@@ -14,5 +14,10 @@ See Google Help for more information.
 
 #p 22403332 hiaoxui 小辉 2020-05-12 11:20:45
 换 IP 吧. IP 被 google 拉黑了, 不能访问.
+#quote siscon
+
+#p 22627404 Tulegesha 图了个啥 2020-06-13 07:49:21
+走ipv6
+[https://cao0507.github.io/2018/12/17/%E8%A7%A3%E5%86%B3vpn%E6%97%A0%E6%B3%95%E6%89%93%E5%BC%80%E8%B0%B7%E6%AD%8C%E5%AD%A6%E6%9C%AF%E7%9A%84%E9%97%AE%E9%A2%98/](jump-to.php?url=https%3A%2F%2Fcao0507.github.io%2F2018%2F12%2F17%2F%25E8%25A7%25A3%25E5%2586%25B3vpn%25E6%2597%25A0%25E6%25B3%2595%25E6%2589%2593%25E5%25BC%2580%25E8%25B0%25B7%25E6%25AD%258C%25E5%25AD%25A6%25E6%259C%25AF%25E7%259A%2584%25E9%2597%25AE%25E9%25A2%2598%2F)
 #quote siscon
 
