@@ -1,4 +1,4 @@
-#t 35 17689841 Imperio 2020-05-31 00:17:00 RoCinante 2020-06-02 15:39:00
+#t 35 17689841 Imperio 2020-05-31 00:17:00 bcsx 2020-06-14 09:15:00
 OpenConnect-GUI能否不用每次输入密码？
 
 #p 22515909 Imperio Mobile 2020-05-31 17:04:03
@@ -7,5 +7,22 @@ OpenConnect-GUI能否不用每次输入密码？
 #p 22525550 RoCinante A Legitimate Salvage 2020-06-02 15:38:41
 Windows的话，在配置文件编辑页面里勾选上Batch Mode。
 OS X没用过，不过应该也有类似的选项。
+#quote Imperio
+
+#p 22632144 bcsx OR 1=1 2020-06-14 09:14:12
+这是我写的linux下的脚本，供你参考。
+文件名：PKU_VPN.exp
+内容：
+#!/usr/bin/expect
+spawn sudo openconnect --protocol=nc [https://vpn.pku.edu.cn](jump-to.php?url=https%3A%2F%2Fvpn.pku.edu.cn)
+expect "*密码*"
+send "系统权限密码\r"
+#expect "Enter '确定'*"
+#send "确定\r"
+expect "username:"
+send "此处输入用户名\r"
+expect "password:"
+send "此处输入密码\r"
+interact
 #quote Imperio
 
