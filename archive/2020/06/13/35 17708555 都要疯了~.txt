@@ -1,4 +1,4 @@
-#t 35 17708555 sunnyyeyan 2020-06-13 00:16:00 Thtuy 2020-06-14 10:10:00
+#t 35 17708555 sunnyyeyan 2020-06-13 00:16:00 yuanchen 2020-06-14 18:58:00
 都要疯了~
 
 #p 22629320 sunnyyeyan bigfish 2020-06-13 16:11:31
@@ -54,5 +54,9 @@ nord也不稳 试试hiaoxui那个？ 本版 科学上网
 
 #p 22632402 Thtuy Plague 2020-06-14 10:09:59
 咦，我也在用v2rayN，很稳健吖
+#quote sunnyyeyan
+
+#p 22634657 yuanchen 寒月无殇 2020-06-14 18:57:49
+我的lantern由于和实验室人员共享被谷歌学术封了，叹气
 #quote sunnyyeyan
 
