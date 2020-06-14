@@ -1,4 +1,4 @@
-#t 1465 17710286 Dondonda 2020-06-14 00:21:00 lowgalaxy 2020-06-15 02:28:00
+#t 1465 17710286 Dondonda 2020-06-14 00:21:00 Iamnothing 2020-06-15 05:00:00
 全基因组测序发现病毒来自欧洲
 
 #p 22635302 Dondonda Dondonda 2020-06-14 21:22:27
@@ -36,4 +36,8 @@
 #p 22639643 lowgalaxy lowgalaxy 2020-06-15 02:27:26
 这种说法也不无道理啊。
 #quote AerysNan
+
+#p 22639773 Iamnothing Z-bo 2020-06-15 04:59:52
+中国有90%的人口你可以把它们当弱智看啦
+#quote Dondonda
 
