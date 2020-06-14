@@ -1,4 +1,4 @@
-#t 1465 17708283 vegetablexad 2020-06-13 00:11:00 Koppelbarg 2020-06-14 08:41:00
+#t 1465 17708283 vegetablexad 2020-06-13 00:11:00 pennsecret 2020-06-14 11:58:00
 北京新发地45人咽拭子阳性
 
 #p 22628201 vegetablexad jerry9981 2020-06-13 11:34:19
@@ -356,5 +356,13 @@ hoho，这可真逗了
 #p 22632077 shawnn Fedora 2020-06-14 08:47:45
 #DELETED
 好像大家都忽略了一个事实。。50个左右核酸阳性的只是517个抽样样本中检出来的，阳性率8.7%，真实估计应该是用实际从业人员数（&gt;1940）*8.7%
+#quote Koppelbarg
+
+#p 22632783 WeiyuShen Sunligh7 2020-06-14 11:44:55
+你搞错了吧，是武警全部退出现役序列。
+#quote Lucius
+
+#p 22632832 pennsecret Fantasy polaris 2020-06-14 11:57:39
+不是36新增么？
 #quote Koppelbarg
 
