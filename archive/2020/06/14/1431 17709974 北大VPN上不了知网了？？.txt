@@ -1,6 +1,12 @@
-#t 1431 17709974 whatswrong 2020-06-14 16:49:00 whatswrong 2020-06-14 16:49:00
+#t 1431 17709974 whatswrong 2020-06-14 00:16:00 nogatnep 2020-06-14 17:59:00
 北大VPN上不了知网了？？
 
 #p 22634133 whatswrong 小甜甜是什么 2020-06-14 16:48:45
 这怎么科研
+
+#p 22634408 nogatnep ko001 2020-06-14 17:59:04
+不需要VPN的....
+你需要CARSI
+[https://fsso.cnki.net/](jump-to.php?url=https%3A%2F%2Ffsso.cnki.net%2F)
+#quote whatswrong
 
