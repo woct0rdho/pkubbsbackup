@@ -1,4 +1,4 @@
-#t 35 17708555 sunnyyeyan 2020-06-13 00:16:00 PKUwuming 2020-06-14 09:39:00
+#t 35 17708555 sunnyyeyan 2020-06-13 00:16:00 Thtuy 2020-06-14 10:10:00
 都要疯了~
 
 #p 22629320 sunnyyeyan bigfish 2020-06-13 16:11:31
@@ -50,5 +50,9 @@ nord也不稳 试试hiaoxui那个？ 本版 科学上网
 
 #p 22632266 PKUwuming 无名 2020-06-14 09:38:42
 可以用搬瓦工的官方大机场Just My Socks，IP封了会自动更换
+#quote sunnyyeyan
+
+#p 22632402 Thtuy Plague 2020-06-14 10:09:59
+咦，我也在用v2rayN，很稳健吖
 #quote sunnyyeyan
 
