@@ -1,6 +1,22 @@
-#t 668 17711032 TimeFlyFast 2020-06-15 11:43:00 TimeFlyFast 2020-06-15 11:43:00
+#t 668 17711032 TimeFlyFast 2020-06-15 11:43:00 ShengZhaohua 2020-06-15 12:14:00
 MATLAB又显示14天过期，官网也无法登录
 
-#p 22640896 TimeFlyFast 当时还小 2020-06-15 11:43:00
+#p 22640896 TimeFlyFast 当时还小 2020-06-15 11:44:11
+
+
+2020-06-15 11:43:00
 今天打开MATLAB 2018b就显示许可证将在14天后过期，解激活之后再也无法激活，MathWorks官网也无法登录。
+<img src="https://bbs.pku.edu.cn/attach/51/65/5165591b3e6d5ebc/Snipaste_2020-06-15_10-44-36.png"/>
+<img src="https://bbs.pku.edu.cn/attach/81/c5/81c56e0dfcd43f50/Snipaste_2020-06-15_11-40-50.png"/>
+<img src="https://bbs.pku.edu.cn/attach/15/01/1501f9bbe0d59844/Snipaste_2020-06-15_11-37-59.png"/>
+
+#p 22640971 PKUCC 北京大学计算中心 2020-06-15 12:03:21
+MATLAB那边正在办理续期，预计很快就好；
+关于登录的问题，我这边测试了下可以登录，matlab那边回复：有时候是美国的服务器的问题，过一个小时后再试
+#quote TimeFlyFast
+
+#p 22641010 ShengZhaohua Dover 2020-06-15 12:13:49
+那挺好😉
+（刚刚也看见了还剩14天，等会再看看
+#quote PKUCC
 
