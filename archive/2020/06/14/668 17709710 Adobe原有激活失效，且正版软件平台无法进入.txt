@@ -1,4 +1,4 @@
-#t 668 17709710 RicherC 2020-06-14 00:12:00 tinydanger 2020-06-15 05:02:00
+#t 668 17709710 RicherC 2020-06-14 00:12:00 RicherC 2020-06-15 21:30:00
 Adobe原有激活失效，且正版软件平台无法进入
 
 #p 22632891 RicherC Okashiba 2020-06-14 12:11:02
@@ -25,4 +25,10 @@ Adobe原有激活失效，且正版软件平台无法进入
 #p 22639778 tinydanger 小蛋卷 2020-06-15 05:02:26
 完全一样的问题，同样进不去正版软件平台。并且人在国外连vpn特别特别特别慢，十分钟了还没从门户登陆页面转到正版软件平台。
 #quote RicherC
+
+#p 22643321 RicherC Okashiba 2020-06-15 21:29:56
+我用的是webvpn：
+[https://vpn.pku.edu.cn/dana-na/auth/url_default/welcome.cgi](jump-to.php?url=https%3A%2F%2Fvpn.pku.edu.cn%2Fdana-na%2Fauth%2Furl_default%2Fwelcome.cgi)
+可以试一下
+#quote tinydanger
 

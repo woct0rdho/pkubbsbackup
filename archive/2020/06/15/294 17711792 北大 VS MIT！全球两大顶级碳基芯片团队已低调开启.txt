@@ -1,0 +1,21 @@
+#t 294 17711792 bookreadertt 2020-06-15 21:04:00 bookreadertt 2020-06-15 21:04:00
+北大 VS MIT！全球两大顶级碳基芯片团队已低调开启
+
+#p 22643238 bookreadertt 赌输赢 2020-06-15 21:03:49
+社会对碳基芯片的关注一直持续到现在有大半个月了，这里不谈专业知识和成果意义，从中可以体会一下媒体宣传的方法技巧，比如对社会关注的敏感，对专业信息的把握，对一手材料的挖掘，对内容角度的设计，光是泛泛拼凑肤浅转载一下肯定是没什么宣传效果的，浪费题材不说，一不注意出点偏差还可能炒糊烧焦适得其反。
+DeepTech深科技20天前打响媒体深度报道第一炮之后在今天又发了一篇专访报道：
+北大 VS 麻省理工学院！全球两大顶级碳基芯片团队已低调开启另一场“芯片竞速赛” | 专访
+[https://mp.weixin.qq.com/s?__biz=MzA3NTIyODUzNA==&amp;mid=2649591197&amp;idx=1&amp;sn=721c3f9f53c0e4f0a153187b80caa8d2&amp;chksm=876a9984b01d109216292ffa19e8b2d9488d23a273d39f329b337140eec8cc770abb4867a9f7&amp;mpshare=1&amp;scene=1&amp;srcid=&amp;sharer_sharetime=1592218438416&amp;sharer_shareid=bec8dc26d1b8cc58df5b291799bc16ed#rd](jump-to.php?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzA3NTIyODUzNA%3D%3D%26mid%3D2649591197%26idx%3D1%26sn%3D721c3f9f53c0e4f0a153187b80caa8d2%26chksm%3D876a9984b01d109216292ffa19e8b2d9488d23a273d39f329b337140eec8cc770abb4867a9f7%26mpshare%3D1%26scene%3D1%26srcid%3D%26sharer_sharetime%3D1592218438416%26sharer_shareid%3Dbec8dc26d1b8cc58df5b291799bc16ed%23rd)
+澎湃新闻之前的专访报道：
+专访北大碳基芯片团队：我们换道走了二十年，觉得能走下去
+[https://www.thepaper.cn/newsDetail_forward_7614457](jump-to.php?url=https%3A%2F%2Fwww.thepaper.cn%2FnewsDetail_forward_7614457)
+贵校B站官方账号发的CCTV1新闻报道，虽然标题介绍都很简单刻板，3天下来播放量就位列所有视频第四了（除去一个其他up主发的所谓合作视频）：
+我国碳基半导体制备材料研制获重要突破
+[https://www.bilibili.com/video/BV1Ea4y1v7mY](jump-to.php?url=https%3A%2F%2Fwww.bilibili.com%2Fvideo%2FBV1Ea4y1v7mY)
+太原理工大学对该成果专门召开了学习交流研讨会，网红校长郑强发表讲话：
+我校召开碳基半导体材料与芯片技术学术研讨会
+[https://mp.weixin.qq.com/s?__biz=MzI5NzAwNTQwOA==&amp;mid=2651393452&amp;idx=1&amp;sn=19150845eb772754331fb3468a978928&amp;chksm=f74615a3c0319cb5a8bb0d1c6c0c8a29cb11a4fa3a75bcacfa4931f441aa08c4fc1e70ce4a52&amp;mpshare=1&amp;scene=1&amp;srcid=0608L3UCZjVLM7Ww7ZBggRAA&amp;sharer_sharetime=1591601347773&amp;sharer_shareid=bec8dc26d1b8cc58df5b291799bc16ed#rd](jump-to.php?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzI5NzAwNTQwOA%3D%3D%26mid%3D2651393452%26idx%3D1%26sn%3D19150845eb772754331fb3468a978928%26chksm%3Df74615a3c0319cb5a8bb0d1c6c0c8a29cb11a4fa3a75bcacfa4931f441aa08c4fc1e70ce4a52%26mpshare%3D1%26scene%3D1%26srcid%3D0608L3UCZjVLM7Ww7ZBggRAA%26sharer_sharetime%3D1591601347773%26sharer_shareid%3Dbec8dc26d1b8cc58df5b291799bc16ed%23rd)
+最后放一个B站科普视频，对该成果做了比较清晰深入的讲解：
+中国“芯”希望——如何用碳纳米管铺设电路
+[https://m.bilibili.com/video/BV1hK411n783](jump-to.php?url=https%3A%2F%2Fm.bilibili.com%2Fvideo%2FBV1hK411n783)
+
