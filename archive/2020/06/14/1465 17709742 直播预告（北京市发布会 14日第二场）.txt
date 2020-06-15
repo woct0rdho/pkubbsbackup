@@ -1,4 +1,4 @@
-#t 1465 17709742 vegetablexad 2020-06-14 00:12:00 Koppelbarg 2020-06-15 07:07:00
+#t 1465 17709742 vegetablexad 2020-06-14 00:12:00 Koppelbarg 2020-06-15 08:26:00
 直播预告（北京市发布会 14日第二场）
 
 #p 22633051 vegetablexad jerry9981 2020-06-14 13:16:28
@@ -86,5 +86,22 @@
 #p 22639880 Koppelbarg 云中 2020-06-15 07:06:20
 昨天北京0-24时的数据什么时候有啊？
 现在全国其他地方比较安静，腾讯都不更新了，好失望
+#quote vegetablexad
+
+#p 22640021 vegetablexad jerry9981 2020-06-15 08:20:15
+卫健委官网
+#quote Koppelbarg
+
+#p 22640028 Koppelbarg 云中 2020-06-15 08:22:36
+6月14日0-24时，显示的还是36例，跟前天一模一样么？
+#quote vegetablexad
+
+#p 22640032 vegetablexad jerry9981 2020-06-15 08:23:50
+昨天是北京36河北，前天是北京36辽宁2
+#quote Koppelbarg
+
+#p 22640039 Koppelbarg 云中 2020-06-15 08:25:55
+哦，那就是了。区别在辽宁还是河北
+河北不可能没有，新发地跟河北关系很大
 #quote vegetablexad
 
