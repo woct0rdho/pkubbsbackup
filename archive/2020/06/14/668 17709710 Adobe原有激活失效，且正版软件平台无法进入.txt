@@ -1,4 +1,4 @@
-#t 668 17709710 RicherC 2020-06-14 00:12:00 RicherC 2020-06-15 21:30:00
+#t 668 17709710 RicherC 2020-06-14 00:12:00 tinydanger 2020-06-16 04:29:00
 Adobe原有激活失效，且正版软件平台无法进入
 
 #p 22632891 RicherC Okashiba 2020-06-14 12:11:02
@@ -31,4 +31,8 @@ Adobe原有激活失效，且正版软件平台无法进入
 [https://vpn.pku.edu.cn/dana-na/auth/url_default/welcome.cgi](jump-to.php?url=https%3A%2F%2Fvpn.pku.edu.cn%2Fdana-na%2Fauth%2Furl_default%2Fwelcome.cgi)
 可以试一下
 #quote tinydanger
+
+#p 22644277 tinydanger 小蛋卷 2020-06-16 04:29:04
+谢谢你！楼上的好心同学TWayne之前已将补丁发给我了，感谢！
+#quote RicherC
 
