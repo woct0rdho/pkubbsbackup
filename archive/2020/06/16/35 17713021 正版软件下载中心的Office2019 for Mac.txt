@@ -1,4 +1,4 @@
-#t 35 17713021 SerJaime 2020-06-16 00:18:00 SerJaime 2020-06-16 21:45:00
+#t 35 17713021 SerJaime 2020-06-16 00:18:00 CoreM 2020-06-17 00:56:00
 正版软件下载中心的Office2019 for Mac
 
 #p 22647217 SerJaime Kingslayer 2020-06-16 18:47:43
@@ -7,4 +7,12 @@
 #p 22648072 SerJaime Kingslayer 2020-06-16 21:44:59
 问题解决了，麻烦版务删帖吧
 #quote SerJaime
+
+#p 22654567 dp Dynamic Programming 2020-06-17 00:33:15
+你自己就能删。。。而且本版没版务。。。
+#quote SerJaime
+
+#p 22654654 CoreM AMDYES 2020-06-17 00:55:19
+tcl
+#quote dp
 
