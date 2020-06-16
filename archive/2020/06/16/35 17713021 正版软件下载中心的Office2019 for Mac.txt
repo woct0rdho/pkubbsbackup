@@ -1,6 +1,10 @@
-#t 35 17713021 SerJaime 2020-06-16 18:47:00 SerJaime 2020-06-16 18:47:00
+#t 35 17713021 SerJaime 2020-06-16 00:18:00 SerJaime 2020-06-16 21:45:00
 正版软件下载中心的Office2019 for Mac
 
 #p 22647217 SerJaime Kingslayer 2020-06-16 18:47:43
 正版软件下载中心的Office2019 for Mac，为啥iso格式的下载包打开是exe格式的setup。。。。
+
+#p 22648072 SerJaime Kingslayer 2020-06-16 21:44:59
+问题解决了，麻烦版务删帖吧
+#quote SerJaime
 
