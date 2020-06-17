@@ -1,4 +1,4 @@
-#t 668 17711032 TimeFlyFast 2020-06-15 00:11:00 ShengZhaohua 2020-06-17 20:33:00
+#t 668 17711032 TimeFlyFast 2020-06-15 00:11:00 TimeFlyFast 2020-06-17 23:01:00
 MATLAB又显示14天过期，官网也无法登录
 
 #p 22640896 TimeFlyFast 当时还小 2020-06-15 11:44:11
@@ -30,4 +30,8 @@ MATLAB那边正在办理续期，预计很快就好；
 #p 22658389 ShengZhaohua Dover 2020-06-17 20:32:14
 只剩十二天到期了，略慌
 #quote TimeFlyFast
+
+#p 22659222 TimeFlyFast 当时还小 2020-06-17 23:00:45
+哈哈，我也是，现在拼命用
+#quote ShengZhaohua
 
