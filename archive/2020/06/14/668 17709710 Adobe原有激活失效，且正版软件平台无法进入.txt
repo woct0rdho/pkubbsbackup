@@ -1,4 +1,4 @@
-#t 668 17709710 RicherC 2020-06-14 00:12:00 RicherC 2020-06-17 09:50:00
+#t 668 17709710 RicherC 2020-06-14 00:12:00 RicherC 2020-06-17 09:51:00
 Adobe原有激活失效，且正版软件平台无法进入
 
 #p 22632891 RicherC Okashiba 2020-06-14 12:11:02
@@ -61,4 +61,15 @@ Adobe原有激活失效，且正版软件平台无法进入
 感谢感谢，这样果然可以不挂vpn登录正版软件平台。
 我没有安装补丁，我是直接注册一个账号就可以了。注册是在正版软件平台上面注册的，点击“Adobe ID申请”，填写信息之后它会给你的校内邮箱发验证码，就可以用了。不能直接在Adobe上面注册。
 #quote Hoyoyo
+
+#p 22655682 Hoyoyo 没等级 2020-06-17 10:16:51
+#DELETED
+谢谢~下次它要再让我登陆我就试试看。
+（之前我用的AppleID登陆是显示有试用期，为了一劳永逸就卸载再安装了。
+折腾一上午有几个小tips给其他同学参考吧：
+1.如果有登陆先注销账户再卸载
+2.卸载之后按照共享平台的指导把adobe系列清理干净 [https://software.w.pku.edu.cn/help/Cahelpindex.aspx?i&amp;mid=0](jump-to.php?url=https%3A%2F%2Fsoftware.w.pku.edu.cn%2Fhelp%2FCahelpindex.aspx%3Fi%26mid%3D0)
+3.不要更改默认安装路径
+以上不保证对，但我终于又可以用了T T）
+#quote RicherC
 
