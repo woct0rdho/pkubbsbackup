@@ -1,4 +1,4 @@
-#t 668 17624317 wswcelena 2020-04-14 00:00:00 bwbnocool 2020-06-17 13:12:00
+#t 668 17624317 wswcelena 2020-04-14 00:00:00 wswcelena 2020-06-18 23:14:00
 未能连接到 Pulse Secure统一网络服务
 
 #p 22217630 wswcelena 噗哈哈 2020-04-14 00:57:30
@@ -50,4 +50,8 @@ MacOS Mojave Catalina Pulse Secure无法使用怎么解决？ - Unknown的回答
 #p 22656561 bwbnocool 大大大魔王 2020-06-17 13:11:43
 求问，楼主解决了吗。。要疯了。。
 #quote wswcelena
+
+#p 22667067 wswcelena 噗哈哈 2020-06-18 23:13:17
+重装了电脑，把系统降级成High Sirrea之后可以正常使用了，太难了
+#quote bwbnocool
 
