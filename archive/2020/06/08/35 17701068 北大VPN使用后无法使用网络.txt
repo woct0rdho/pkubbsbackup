@@ -1,4 +1,4 @@
-#t 35 17701068 yyshen 2020-06-08 00:15:00 benz 2020-06-17 16:25:00
+#t 35 17701068 yyshen 2020-06-08 00:15:00 bjchong 2020-06-18 14:35:00
 北大VPN使用后无法使用网络
 
 #p 22558585 yyshen yyshen 2020-06-08 15:00:52
@@ -15,5 +15,17 @@
 
 #p 22657417 benz 海语声浪 2020-06-17 16:25:08
 我换了电脑后，VPN一连接，就没有网络信号了，关掉又恢复了。老电脑没有这个问题。
+#quote yyshen
+
+#p 22661698 bjchong ZBAA | ZBAD 2020-06-18 14:31:19
+尝试参阅如下kb：
+[https://kb.pulsesecure.net/articles/Pulse_Secure_Article/KB43897](jump-to.php?url=https%3A%2F%2Fkb.pulsesecure.net%2Farticles%2FPulse_Secure_Article%2FKB43897)
+此类问题建议直接联系its@pku.edu.cn，或在PKU_CC询问。
+#quote benz
+
+#p 22661710 bjchong ZBAA | ZBAD 2020-06-18 14:34:19
+尝试参阅如下kb，为慎重起见请谨慎操作：
+[https://kb.pulsesecure.net/articles/Pulse_Secure_Article/KB43833](jump-to.php?url=https%3A%2F%2Fkb.pulsesecure.net%2Farticles%2FPulse_Secure_Article%2FKB43833)
+或联系its@pku.edu.cn以获得进一步支持。
 #quote yyshen
 
