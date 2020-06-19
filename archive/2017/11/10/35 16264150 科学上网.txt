@@ -1,4 +1,4 @@
-#t 35 16264150 hiaoxui 2017-11-10 00:00:00 sunnyyeyan 2020-06-13 16:39:00
+#t 35 16264150 hiaoxui 2017-11-10 00:00:00 SyLiuScholar 2020-06-19 15:18:00
 科学上网
 
 #p 17134091 hiaoxui 小辉 2020-06-10 11:47:28
@@ -1187,7 +1187,7 @@ We're sorry...
 虽然我还木有试验成功，先谢谢伟大的楼主
 #quote hiaoxui
 
-#p 21059219 HelloOTS Ko no dio da！ 2019-10-07 18:59:11
+#p 21059219 HelloOTS Alpha fetoprotein 2019-10-07 18:59:11
 一个服务器也上不了，到底是为什么呢？
 是不是我手机的问题
 #quote hiaoxui
@@ -2789,4 +2789,8 @@ wallesspku@googlegroups.com
 #p 22629426 sunnyyeyan bigfish 2020-06-13 16:38:42
 终于能上网了，鞠躬，万分感谢~
 #quote hiaoxui
+
+#p 22670219 SyLiuScholar Liusy_Scholar 2020-06-19 15:17:24
+请问你的问题解决了吗，mac出现了类似的报错。
+#quote ritty
 
