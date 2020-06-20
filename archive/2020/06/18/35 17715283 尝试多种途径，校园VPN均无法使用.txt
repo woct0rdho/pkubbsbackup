@@ -1,4 +1,4 @@
-#t 35 17715283 innocentwang 2020-06-18 00:07:00 bjchong 2020-06-18 14:14:00
+#t 35 17715283 innocentwang 2020-06-18 00:07:00 innocentwang 2020-06-20 19:47:00
 尝试多种途径，校园VPN均无法使用
 
 #p 22660172 innocentwang Exodus 2020-06-18 07:56:18
@@ -37,4 +37,8 @@
 [https://kb.pulsesecure.net/articles/Pulse_Secure_Article/KB40347](jump-to.php?url=https%3A%2F%2Fkb.pulsesecure.net%2Farticles%2FPulse_Secure_Article%2FKB40347)
 [https://kb.pulsesecure.net/articles/Pulse_Secure_Article/KB43717](jump-to.php?url=https%3A%2F%2Fkb.pulsesecure.net%2Farticles%2FPulse_Secure_Article%2FKB43717)
 #quote innocentwang
+
+#p 22675485 innocentwang Exodus 2020-06-20 19:46:48
+均试过，无效
+#quote bjchong
 
