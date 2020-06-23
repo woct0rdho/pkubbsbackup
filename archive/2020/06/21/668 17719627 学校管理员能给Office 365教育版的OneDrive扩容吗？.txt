@@ -1,0 +1,11 @@
+#t 668 17719627 Hotarubi 2020-06-21 18:40:00 PKUCC 2020-06-21 19:00:00
+学校管理员能给Office 365教育版的OneDrive扩容吗？
+
+#p 22678571 Hotarubi 是扇底闪躲|或雨水摧折 2020-06-21 18:39:39
+之前有好多同学问过关于学校的教育版365的管理员相关问题了，相信老师也大概知道是怎么回事。
+我的问题是，目前已注册和尚未注册的同学，默认拿到的空间是1TB；但是如[https://docs.microsoft.com/zh-cn/office365/servicedescriptions/onedrive-for-business-service-description](jump-to.php?url=https%3A%2F%2Fdocs.microsoft.com%2Fzh-cn%2Foffice365%2Fservicedescriptions%2Fonedrive-for-business-service-description)所述，现在这个免费的365 A1订阅拥有每用户默认5TB的容量配额，只是需要学校以管理员身份进行手动修改。具体地说，需要以管理员身份按[https://docs.microsoft.com/zh-cn/onedrive/set-default-storage-space](jump-to.php?url=https%3A%2F%2Fdocs.microsoft.com%2Fzh-cn%2Fonedrive%2Fset-default-storage-space)所述，将默认存储空间从1024GB手动改为5120GB<font color="#c0c0c0">（如果愿意的话也可以把删除文件保留时间从30天进一步延长）</font>。不知计算中心的老师是否愿意帮忙操作，造福使用OneDrive的师生用户？
+
+#p 22678635 PKUCC 北京大学计算中心 2020-06-21 18:59:26
+需要与微软签订相应的合同的，目前学校并未与微软签订
+#quote Hotarubi
+
