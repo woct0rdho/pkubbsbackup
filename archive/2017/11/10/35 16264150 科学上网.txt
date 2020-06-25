@@ -1,4 +1,4 @@
-#t 35 16264150 hiaoxui 2017-11-10 00:00:00 SyLiuScholar 2020-06-19 15:18:00
+#t 35 16264150 hiaoxui 2017-11-10 00:00:00 ssssrrrr 2020-06-25 11:05:00
 科学上网
 
 #p 17134091 hiaoxui 小辉 2020-06-10 11:47:28
@@ -2436,7 +2436,7 @@ Your client does not have permission to get URL
 非常感谢
 #quote hiaoxui
 
-#p 22438908 LaFataBlu Jungfrau 2020-05-18 14:27:20
+#p 22438908 LaFataBlu KKnightley 2020-05-18 14:27:20
 最近墙又高了吗？
 蓝灯上不去
 楼主SSR订阅后也上不去......
@@ -2793,4 +2793,13 @@ wallesspku@googlegroups.com
 #p 22670219 SyLiuScholar Liusy_Scholar 2020-06-19 15:17:24
 请问你的问题解决了吗，mac出现了类似的报错。
 #quote ritty
+
+#p 22693466 ssssrrrr 一颗大橙子 2020-06-25 11:04:31
+嗷嗷嗷嗷家里蹲之前的ssr配置一直连不上去之后就好久没关注了，今天有急用需要外网想到了大神，过来一看竟然有比之前更简单的版本了嗷！
+操作更方便了～上网木问题，谢谢大神！
+#quote hiaoxui
+
+#p 22693467 ssssrrrr 一颗大橙子 2020-06-25 11:04:50
+and大神端午安康！
+#quote hiaoxui
 
