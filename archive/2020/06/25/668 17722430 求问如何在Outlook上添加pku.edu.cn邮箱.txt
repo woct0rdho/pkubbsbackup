@@ -1,6 +1,10 @@
-#t 668 17722430 OldFriend 2020-06-25 18:45:00 OldFriend 2020-06-25 18:45:00
+#t 668 17722430 OldFriend 2020-06-25 18:45:00 PKUCC 2020-06-25 19:37:00
 求问如何在Outlook上添加pku.edu.cn邮箱
 
 #p 22694979 OldFriend autumn 2020-06-25 18:44:22
 RT
+
+#p 22695139 PKUCC 北京大学计算中心 2020-06-25 19:36:54
+你好！mail.pku.edu.cn页面的帮助里有详细说明，请参考。
+#quote OldFriend
 
