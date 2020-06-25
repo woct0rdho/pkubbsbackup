@@ -1,4 +1,4 @@
-#t 668 17721870 YolandaYoung 2020-06-24 20:16:00 PKUCC 2020-06-24 20:39:00
+#t 668 17721870 YolandaYoung 2020-06-24 00:20:00 YolandaYoung 2020-06-25 20:55:00
 adobe acrobat打不开，显示需要登录（win10）
 
 #p 22691613 YolandaYoung 风轻吻，地平线 2020-06-24 20:15:42
@@ -7,4 +7,8 @@ adobe acrobat打不开，显示需要登录（win10）
 #p 22691805 PKUCC 北京大学计算中心 2020-06-24 20:39:03
 您可以登录正版软件平台，申请adobe id 处理
 #quote YolandaYoung
+
+#p 22695398 YolandaYoung 风轻吻，地平线 2020-06-25 20:54:05
+我安装的应该是2018版的，不过我去申请id试试~谢谢！
+#quote PKUCC
 
