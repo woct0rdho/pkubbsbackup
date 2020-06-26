@@ -1,4 +1,4 @@
-#t 1465 17722651 press 2020-06-26 00:00:00 spacium 2020-06-26 13:11:00
+#t 1465 17722651 press 2020-06-26 00:00:00 JohnSpartan 2020-06-26 14:42:00
 确诊夫妻在公厕被传染 大学生彻底没法回校了
 
 #p 22696270 press press 2020-06-26 00:32:51
@@ -88,5 +88,9 @@ sigh
 
 #p 22697556 spacium Spacium 2020-06-26 13:11:15
 冠状病毒本身就是肠道病毒，SARS，MERS和COVID19是三个能走呼吸道的冠状病毒
+#quote substract
+
+#p 22697852 JohnSpartan GSHXD 2020-06-26 14:41:41
+老八看了直呼内行（
 #quote substract
 
