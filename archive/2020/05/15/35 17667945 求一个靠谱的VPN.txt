@@ -1,4 +1,4 @@
-#t 35 17667945 sunnyyeyan 2020-05-15 00:18:00 sjhy 2020-06-26 00:02:00
+#t 35 17667945 sunnyyeyan 2020-05-15 00:18:00 pomang 2020-06-27 11:58:00
 求一个靠谱的VPN
 
 #p 22425777 sunnyyeyan bigfish 2020-05-15 18:59:27
@@ -68,4 +68,25 @@ expressvpn，连接和网速都有些慢，但始终能用
 #p 22696172 sjhy 心墙 2020-06-26 00:01:45
 这个是挂了吗？续不了费。。。
 #quote Spider
+
+#p 22699203 Spider spider 2020-06-26 22:42:36
+用还能用，不过群里面确实也有人说是没法支付，我也不太清楚状况，我是直接买的一年的
+#quote sjhy
+
+#p 22699257 sjhy 心墙 2020-06-26 22:58:29
+我把北大vpn断了后就可以了
+#quote Spider
+
+#p 22699391 shanking Tick-Tock 2020-06-26 23:35:37
+WallessPKU机场不错，免费套餐一个月20G。最近上了一批新节点，速度还挺快的。
+网址 [https://blog.wallesspku.space/](jump-to.php?url=https%3A%2F%2Fblog.wallesspku.space%2F)
+#quote sunnyyeyan
+
+#p 22700530 MaTHLock 寒 2020-06-27 11:26:31
+手机上网还可以，但是pc端不知道为什么难以上网
+#quote sjhy
+
+#p 22700642 pomang 白夜行 2020-06-27 11:57:44
+上谷歌学术不用vpn的，整个插件就可以了
+#quote sunnyyeyan
 
