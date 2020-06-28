@@ -1,4 +1,4 @@
-#t 1465 17723916 zhouziheng 2020-06-28 00:08:00 propagator 2020-06-28 11:58:00
+#t 1465 17723916 zhouziheng 2020-06-28 00:08:00 violin 2020-06-28 12:43:00
 咽拭子，鼻拭子
 
 #p 22704333 zhouziheng ydwrzzh 2020-06-28 08:52:44
@@ -41,6 +41,11 @@
 #quote hmqfc
 
 #p 22705221 propagator 马甲 2020-06-28 11:57:45
+#DELETED
 我们有的写鼻拭子有的写咽拭子
 #quote zpcllyj
+
+#p 22705454 violin violin 2020-06-28 12:42:02
+鼻咽拭子、口咽拭子的试剂有啥区别？还两种？
+#quote niisikhsurg
 
