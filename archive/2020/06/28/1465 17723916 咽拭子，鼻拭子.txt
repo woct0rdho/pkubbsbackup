@@ -1,4 +1,4 @@
-#t 1465 17723916 zhouziheng 2020-06-28 08:53:00 zpcllyj 2020-06-28 09:34:00
+#t 1465 17723916 zhouziheng 2020-06-28 00:08:00 propagator 2020-06-28 11:58:00
 咽拭子，鼻拭子
 
 #p 22704333 zhouziheng ydwrzzh 2020-06-28 08:52:44
@@ -39,4 +39,8 @@
 据说鼻咽拭子病毒浓度更高，因此更准一些
 <img src="https://lh3.googleusercontent.com/proxy/sK49nG9k4wX1mRe3C1xaBWyjDfoNQPiiDMyGTNGkV0ZfRrrhnOazExrsPzezj-MlVy5KLYWbKutVt0qTOUsoaRzNbfsp_F_UnAh7UfGoORHnL3WHbhpurI21gWg8yoaBoZQ"/>
 #quote hmqfc
+
+#p 22705221 propagator 马甲 2020-06-28 11:57:45
+我们有的写鼻拭子有的写咽拭子
+#quote zpcllyj
 
