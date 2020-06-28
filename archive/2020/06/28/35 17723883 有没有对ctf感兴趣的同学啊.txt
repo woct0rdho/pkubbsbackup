@@ -1,4 +1,4 @@
-#t 35 17723883 motaguoke 2020-06-28 00:02:00 motaguoke 2020-06-28 16:57:00
+#t 35 17723883 motaguoke 2020-06-28 00:02:00 vimacs 2020-06-28 20:47:00
 有没有对ctf感兴趣的同学啊
 
 #p 22704076 motaguoke 孤帆远影 2020-06-28 02:55:25
@@ -12,4 +12,9 @@
 #p 22706520 motaguoke 孤帆远影 2020-06-28 16:56:38
 目前只有……一个人（继续滚回csdn写日记去了
 #quote dvorah
+
+#p 22707433 vimacs Lisp Interaction Paredit AC 2020-06-28 20:46:25
+以前我还在PKYou战队玩过两次。
+现在工作了之后，逆向东西的业余时间也少了。
+#quote motaguoke
 
