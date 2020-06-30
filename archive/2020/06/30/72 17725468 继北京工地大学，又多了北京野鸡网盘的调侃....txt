@@ -1,4 +1,4 @@
-#t 72 17725468 Breezy 2020-06-30 00:11:00 wllg 2020-06-30 12:57:00
+#t 72 17725468 Breezy 2020-06-30 00:11:00 bjchong 2020-06-30 15:35:00
 继北京工地大学，又多了北京野鸡网盘的调侃...
 
 #p 22713881 Breezy BreezyValley 2020-06-30 11:34:17
@@ -19,4 +19,12 @@
 #p 22714283 wllg 未来来过 2020-06-30 12:56:38
 速 度 爆 快
 #quote Breezy
+
+#p 22714876 zhenpu zp 2020-06-30 15:20:10
+但北大网盘是disk，这个里面给的是pan……好像还真是野鸡网盘（
+#quote Breezy
+
+#p 22714929 bjchong ZBAA | ZBAD 2020-06-30 15:34:45
+pan.pku.edu.cn会302到disk.pku.edu.cn，一回事儿。
+#quote zhenpu
 
