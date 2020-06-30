@@ -1,4 +1,4 @@
-#t 251 17725337 WekFer 2020-06-30 00:07:00 PHPisbest 2020-06-30 20:47:00
+#t 251 17725337 WekFer 2020-06-30 00:07:00 yundfq 2020-06-30 21:54:00
 推特大规模删除中国大陆账号，怎么看待
 
 #p 22712992 WekFer 芒果 2020-06-30 07:36:17
@@ -416,4 +416,21 @@ Twitter推广项目，希望借此增加58万粉丝
 #p 22716197 PHPisbest 三刺螈修业中 2020-06-30 20:46:11
 鉴定完毕，这贴和贴吧水平差不多。我连看都不看
 #quote WekFer
+
+#p 22716485 gxb 郭晓波 2020-06-30 21:44:50
+推特两次大规模删除中国账号，都是认为这些账号与 state-backed information operation有关，不过推特并没有给出具体的算法或是标准。这种删号并不只是针对中国的，在[https://transparency.twitter.com/en/information-operations.html](jump-to.php?url=https%3A%2F%2Ftransparency.twitter.com%2Fen%2Finformation-operations.html) 推特列出了所有的因为state-backed information operation 而被删除的账号。我还没有对中国的数据做分析，但是从之前对于ira，部分的俄罗斯数据，伊朗数据和委内瑞拉数据的分析来看，这些被删除的账号转发的，以及发的推特相较于相同hashtag的其他推特有着较大的差别，甚至ira的数据夸张到仅依靠推特的结构就能有效识别。
+另外从言论自由的发展来看，对于言论自由的保障的确是用来限制公权力的乱用的，虽然有逻辑认为由私人提供的基础服务也应该在一定程度上被视作公权力的结果，但是推特能不能称为基础服务有着比较大的争议
+#quote WekFer
+
+#p 22716514 iOcean 海上程序员 2020-06-30 21:49:31
+我只要能保住自己的推特号就行了，政治节奏不参与，全部使用英文，关注的全是科学家，工程师，科学研究机构。
+#quote WekFer
+
+#p 22716516 yundfq ydfq 2020-06-30 21:50:31
+牛逼，所以只要资本家掌握政权，政权就始终是正义的
+#quote Prandtl
+
+#p 22716525 yundfq ydfq 2020-06-30 21:53:31
+这种简单的道理恰恰是你的父亲国在违背的
+#quote Prandtl
 
