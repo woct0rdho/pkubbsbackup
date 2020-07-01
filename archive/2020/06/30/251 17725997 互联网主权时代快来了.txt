@@ -1,4 +1,4 @@
-#t 251 17725997 motaguoke 2020-06-30 00:22:00 DonaldTrumpe 2020-07-01 13:52:00
+#t 251 17725997 motaguoke 2020-06-30 00:22:00 phdcku 2020-07-01 14:39:00
 互联网主权时代快来了
 
 #p 22716769 motaguoke 孤帆远影 2020-06-30 22:57:57
@@ -35,9 +35,12 @@
 同求
 #quote motaguoke
 
-#p 22718959 motaguoke 孤帆远影 2020-07-01 13:32:46
+#p 22718959 motaguoke 孤帆远影 2020-07-01 13:55:10
+
+
+2020-07-01 13:32:46
 网络安全新闻。。。securelist, infosecurity上这几年各个国家互杀得是不亦乐乎。能看到的各个国家级大规模停电或者生产安全事故目测大概50%和攻击有关，这还没算长期网络潜伏和监听的
-政策上的新闻，近到欧盟的数字税、欧盟墙（[https://www.europarl.europa.eu/RegData/etudes/STUD/2020/648784/IPOL_STU(2020)648784_EN.pdf](jump-to.php?url=https%3A%2F%2Fwww.europarl.europa.eu%2FRegData%2Fetudes%2FSTUD%2F2020%2F648784%2FIPOL_STU%282020%29648784_EN.pdf)）、印度block app，近到俄罗斯断网测试……总之……
+政策上的新闻，近到欧盟的数字税、欧盟墙（[https://www.europarl.europa.eu/RegData/etudes/STUD/2020/648784/IPOL_STU(2020)648784_EN.pdf](jump-to.php?url=https%3A%2F%2Fwww.europarl.europa.eu%2FRegData%2Fetudes%2FSTUD%2F2020%2F648784%2FIPOL_STU%282020%29648784_EN.pdf)）、印度block app，远到俄罗斯断网测试……总之……
 抄送  @zaiqiang
 #quote DonaldTrumpe
 
@@ -46,4 +49,18 @@ thx！
 害，我是感觉当互联网被人当成武器的那天起，就注定要失去自由互联的精神了。
 战争，不一定要用枪的。
 #quote motaguoke
+
+#p 22719126 xongkorohui 水n二世 2020-07-01 14:13:18
+sigh
+全球化落潮证明了 这还是主权国家的时代 只要在成本范围内，恐怕没有多少东西能逃离主权化 
+用国关的话就叫非传统安全😂（x
+#quote motaguoke
+
+#p 22719198 phdcku 小笨笨 2020-07-01 14:38:38
+其实有很多人在不同的app之间搬运内容，比如把微博的内容分享到知乎上，把知乎的内容分享到头条上。信息其实一直在流动，不同圈层的接触和交流越来越广泛了。
+#quote xongkorohui
+
+#p 22719200 phdcku 小笨笨 2020-07-01 14:38:43
+其实有很多人在不同的app之间搬运内容，比如把微博的内容分享到知乎上，把知乎的内容分享到头条上。信息其实一直在流动，不同圈层的接触和交流越来越广泛了。
+#quote xongkorohui
 
