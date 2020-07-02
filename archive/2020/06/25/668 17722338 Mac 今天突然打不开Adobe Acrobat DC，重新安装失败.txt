@@ -1,4 +1,4 @@
-#t 668 17722338 xfzpku 2020-06-25 00:15:00 whyshrha 2020-06-25 16:36:00
+#t 668 17722338 xfzpku 2020-06-25 00:15:00 oorayray 2020-07-02 11:15:00
 Mac 今天突然打不开Adobe Acrobat DC，重新安装失败
 
 #p 22694274 xfzpku 凝视 2020-06-25 15:04:01
@@ -19,5 +19,9 @@ Mac 今天突然打不开Adobe Acrobat DC，不弹出任何页面，重启电脑
 
 #p 22694594 whyshrha whyshr 2020-06-25 16:35:32
 我也是相同的问题
+#quote xfzpku
+
+#p 22722730 oorayray ray 2020-07-02 11:14:42
+我也有相同问题，求问有没有找到解决办法
 #quote xfzpku
 
