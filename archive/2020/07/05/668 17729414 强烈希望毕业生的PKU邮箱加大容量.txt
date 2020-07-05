@@ -1,7 +1,43 @@
-#t 668 17729414 pagoda 2020-07-05 20:34:00 pagoda 2020-07-05 20:34:00
+#t 668 17729414 pagoda 2020-07-05 00:20:00 PKUCC 2020-07-05 21:54:00
 强烈希望毕业生的PKU邮箱加大容量
 
 #p 22736501 pagoda pagoda 2020-07-05 20:33:24
 使用pku邮箱源于我们对母校的深厚感情，也是校友们之间联系的纽带，非常希望毕业后可以更好地使用pku邮箱。
 然而毕业生邮箱容量500M已经很多年了，考虑计算中心的能力提升和整体的技术、费用等因素的变化，希望能够加大校友PKU邮箱的容量，让校友们更好使用PKU邮箱！万分感谢！
+
+#p 22736646 pagoda pagoda 2020-07-05 21:03:47
+附一个清华对该类问题的办法
+[https://www.sohu.com/a/324737122_673697](jump-to.php?url=https%3A%2F%2Fwww.sohu.com%2Fa%2F324737122_673697)
+[http://www.tsinghua.org.cn/publish/alumni/4000461/11500701.html](jump-to.php?url=http%3A%2F%2Fwww.tsinghua.org.cn%2Fpublish%2Falumni%2F4000461%2F11500701.html)
+#quote pagoda
+
+#p 22736657 secretTom 小可爱 2020-07-05 21:05:36
+可以设置将pku邮箱的邮件自动转发到其他个人邮箱（比如说gmail）且不在pku邮箱中备份，这样可以正常收邮件且不占500M空间。
+#quote pagoda
+
+#p 22736715 lea 无爱即无忧 2020-07-05 21:15:27
+毕业生为啥不去用新单位的邮箱...
+打着母校情怀的幌子，其实是为了享受教育优惠，过去讨论过的...
+#quote pagoda
+
+#p 22736763 pagoda pagoda 2020-07-05 21:21:34
+顺便还想问一下，看校友会网站说之前有过容量2G的pku.org.cn的校友邮箱，但是现在为啥没有了
+#quote pagoda
+
+#p 22736767 pagoda pagoda 2020-07-05 21:22:31
+那换成pku.org.cn就没教育优惠了吧？给我加大容量我是很愿意换的
+#quote lea
+
+#p 22736781 lea 无爱即无忧 2020-07-05 21:23:43
+pku是啥org吖??...@@...
+#quote pagoda
+
+#p 22736831 pagoda pagoda 2020-07-05 21:30:37
+北京大学校友会
+[http://www.pku.org.cn/service/](jump-to.php?url=http%3A%2F%2Fwww.pku.org.cn%2Fservice%2F)
+#quote lea
+
+#p 22736999 PKUCC 北京大学计算中心 2020-07-05 21:53:44
+看讨论用pku.org.cn的邮箱倒是个不错的办法，要不问问校友会？
+#quote pagoda
 
