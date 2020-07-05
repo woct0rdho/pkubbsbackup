@@ -1,4 +1,4 @@
-#t 35 17726950 xixihahahh 2020-07-02 00:10:00 zhangwenjie 2020-07-04 22:26:00
+#t 35 17726950 xixihahahh 2020-07-02 00:10:00 xixihahahh 2020-07-05 09:56:00
 求问wpn登陆时发送短信验证码的手机号在哪里保存
 
 #p 22722457 xixihahahh 嘻嘻 2020-07-02 10:20:39
@@ -8,4 +8,8 @@
 portal  我的门户
 里面有个绑定手机号
 #quote xixihahahh
+
+#p 22733975 xixihahahh 嘻嘻 2020-07-05 09:56:04
+万分感谢！
+#quote zhangwenjie
 
