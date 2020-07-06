@@ -1,4 +1,4 @@
-#t 1465 17728425 fightBoy 2020-07-04 00:09:00 ShawnZ 2020-07-06 23:37:00
+#t 1465 17728425 fightBoy 2020-07-04 00:09:00 aquareal 2020-07-07 01:35:00
 研究生和毕业生是不是该返校了？
 
 #p 22729979 fightBoy call me 鸡腿饭好了 2020-07-04 09:28:36
@@ -490,4 +490,16 @@ dd
 #p 22742168 ShawnZ 你好像一条狗喔 2020-07-06 23:36:31
 他怎么说的？可以贴上来看看吗
 #quote masami
+
+#p 22742408 aquareal dtq1997 2020-07-07 01:17:26
+他没说任何依据，不过他提到了根据下述链接第三款：
+[http://www.dean.pku.edu.cn/web/notice_details.php?id=320](jump-to.php?url=http%3A%2F%2Fwww.dean.pku.edu.cn%2Fweb%2Fnotice_details.php%3Fid%3D320)
+20号之前学校会公开下学期的返校安排。。
+#quote ShawnZ
+
+#p 22742449 aquareal dtq1997 2020-07-07 01:34:11
+咦。。仔细一想感觉有点漏洞，第三条问题说
+“学校将于近期公布开学返校时间，请在校学生关注，并确认在考试前能够返校后再行报名。”
+这句话要说的通，那只可能是说9月19日之前是能返校的了，不过似乎暗示了会分批返校？
+#quote fightBoy
 
