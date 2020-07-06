@@ -1,0 +1,15 @@
+#t 251 17730071 vimacs 2020-07-06 19:07:00 nietsnie 2020-07-06 19:31:00
+中文错字滥用污染谷歌翻译
+
+#p 22740836 vimacs Lisp Interaction Paredit AC 2020-07-06 19:06:45
+[https://squeet.me/display/52acf9cd-430308bb67d1a698-4f0dfbaf](jump-to.php?url=https%3A%2F%2Fsqueet.me%2Fdisplay%2F52acf9cd-430308bb67d1a698-4f0dfbaf)
+刚刚我用Google Translate翻译了一下，的确是这样，而且点旁边的那个打勾的标记还显示"Translation verified by Translate Community".
+
+#p 22740904 AshywolF Q 2020-07-06 19:24:24
+污染谷歌翻译？？？？？？
+#quote vimacs
+
+#p 22740926 nietsnie 嗯，我是一个昵称 2020-07-06 19:30:38
+这就是谷歌翻译用神经网络引擎的锅，毕竟 NN 只能给出 correlation 无法区分 causality。
+#quote vimacs
+
