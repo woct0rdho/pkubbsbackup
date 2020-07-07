@@ -1,4 +1,4 @@
-#t 35 16264150 hiaoxui 2017-11-10 00:00:00 Alpher 2020-07-07 11:51:00
+#t 35 16264150 hiaoxui 2017-11-10 00:00:00 wchangjin 2020-07-07 13:41:00
 科学上网
 
 #p 17134091 hiaoxui 小辉 2020-06-10 11:47:28
@@ -2923,5 +2923,25 @@ Open logs folder  Try to repair
 
 #p 22743622 Alpher 小现 2020-07-07 11:50:27
 我把clash卸载了，查看端口，这两个端口都没有被占用
+#quote dvorah
+
+#p 22743654 Alpher 小现 2020-07-07 11:54:51
+log里面全部超时
+类似这样的
+level=warning msg="dial DIRECT error: dial tcp4 172.*****:443: i/o timeout"
+#quote dvorah
+
+#p 22743733 Alpher 小现 2020-07-07 12:10:24
+应该是我现在的系统里面有什么问题，没查出来
+我在虚拟机里的新系统里，使用clash连上google了
+谢谢楼上几位的指导！
+#quote Alpher
+
+#p 22744012 hiaoxui 小辉 2020-07-07 13:15:59
+这个问题不一定是端口占用, 而是 clash core 崩溃了. 我之前也遇到过几次这个情况, 但一直没有修复. 因为没有什么 log 所以也没法定位问题所在. 只能等待 dreamacro 更新 clash 时注意一下这个问题了.
+#quote Alpher
+
+#p 22744138 wchangjin 你猜 2020-07-07 13:41:08
+刚上传了，但是出来了结果，并没有说是不是病毒啥的，木办法，看不太懂~
 #quote dvorah
 
