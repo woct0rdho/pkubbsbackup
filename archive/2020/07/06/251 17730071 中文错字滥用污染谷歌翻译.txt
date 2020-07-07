@@ -1,4 +1,4 @@
-#t 251 17730071 vimacs 2020-07-06 00:19:00 lionx 2020-07-07 19:44:00
+#t 251 17730071 vimacs 2020-07-06 00:19:00 nietsnie 2020-07-07 20:54:00
 中文错字滥用污染谷歌翻译
 
 #p 22740836 vimacs Lisp Interaction Paredit AC 2020-07-06 19:06:45
@@ -169,4 +169,16 @@ Dead men tell no tales.
 #p 22745534 lionx Lionx 2020-07-07 19:43:41
 深研院公交站牌 Beijing University Campus ，多年不改。
 #quote derekdut
+
+#p 22745693 Kirayosikage 吉良吉影｜东方定助 2020-07-07 20:23:27
+gpt-3的训练语料有bilingual的吗，感觉这种应该都是monolingual，只在英语上预训练的？
+#quote nietsnie
+
+#p 22745775 nietsnie 嗯，我是一个昵称 2020-07-07 20:49:39
+我不确定有没有中文语料，但是你可以去看他们的示例，里面是有英法互翻的，所以应该不是monolingual 
+#quote Kirayosikage
+
+#p 22745788 nietsnie 嗯，我是一个昵称 2020-07-07 20:53:18
+层主在北大发展版上挖的坑都已经因为全是踩都主动合集了，就不要再提这壶了。
+#quote lionx
 
