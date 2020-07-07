@@ -1,0 +1,10 @@
+#t 1465 17730329 huayuankou 2020-07-07 08:10:00 huayuankou 2020-07-07 08:10:00
+美国每日确诊曲线
+
+#p 22742662 huayuankou 卖鱼弱 2020-07-07 08:09:43
+
+
+2020-07-07 08:09:24
+看起来像什么函数？x^3-x？
+图源 [https://www.cdc.gov/coronavirus/2019-ncov/cases-updates/cases-in-us.html](jump-to.php?url=https%3A%2F%2Fwww.cdc.gov%2Fcoronavirus%2F2019-ncov%2Fcases-updates%2Fcases-in-us.html)
+
