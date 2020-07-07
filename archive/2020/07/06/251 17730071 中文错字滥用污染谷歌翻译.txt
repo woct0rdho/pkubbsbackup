@@ -1,4 +1,4 @@
-#t 251 17730071 vimacs 2020-07-06 00:19:00 moore 2020-07-07 16:35:00
+#t 251 17730071 vimacs 2020-07-06 00:19:00 lionx 2020-07-07 19:44:00
 中文错字滥用污染谷歌翻译
 
 #p 22740836 vimacs Lisp Interaction Paredit AC 2020-07-06 19:06:45
@@ -165,4 +165,8 @@ Dead men tell no tales.
 #p 22744738 moore 澡堂歌唱家 2020-07-07 16:34:21
 统计机器翻译一样吧
 #quote nietsnie
+
+#p 22745534 lionx Lionx 2020-07-07 19:43:41
+深研院公交站牌 Beijing University Campus ，多年不改。
+#quote derekdut
 
