@@ -1,4 +1,4 @@
-#t 35 16264150 hiaoxui 2017-11-10 00:00:00 dvorah 2020-07-07 14:25:00
+#t 35 16264150 hiaoxui 2017-11-10 00:00:00 Alpher 2020-07-07 00:18:00
 科学上网
 
 #p 17134091 hiaoxui 小辉 2020-06-10 11:47:28
@@ -2948,4 +2948,8 @@ level=warning msg="dial DIRECT error: dial tcp4 172.*****:443: i/o timeout"
 #p 22744279 dvorah 尺蠖·德沃夏蛤 2020-07-07 14:25:12
 看看有没有什么异常行为啥的  或者算一下md5之类的
 #quote wchangjin
+
+#p 22745223 Alpher 小现 2020-07-07 18:26:43
+感谢回复
+#quote hiaoxui
 
