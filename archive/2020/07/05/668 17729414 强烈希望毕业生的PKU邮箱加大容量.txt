@@ -1,4 +1,4 @@
-#t 668 17729414 pagoda 2020-07-05 00:20:00 secretTom 2020-07-07 22:39:00
+#t 668 17729414 pagoda 2020-07-05 00:20:00 Protestant 2020-07-07 23:47:00
 强烈希望毕业生的PKU邮箱加大容量
 
 #p 22736501 pagoda pagoda 2020-07-05 20:33:24
@@ -574,4 +574,9 @@ OneDrive的5T容量咋申请？
 [https://www.microsoft.com/en-us/education/products/office](jump-to.php?url=https%3A%2F%2Fwww.microsoft.com%2Fen-us%2Feducation%2Fproducts%2Foffice)
 页面左侧输入edu邮箱
 #quote fbw
+
+#p 22746323 Protestant LittleTiger 2020-07-07 23:46:44
+为啥我刚用学校邮箱申请完，OneDrive给了我1T容量，而不是5T啊？
+求问怎么弄的，谢谢啦
+#quote secretTom
 
