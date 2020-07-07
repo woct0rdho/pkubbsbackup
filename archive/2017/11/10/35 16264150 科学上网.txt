@@ -1,4 +1,4 @@
-#t 35 16264150 hiaoxui 2017-11-10 00:00:00 Alpher 2020-07-07 10:41:00
+#t 35 16264150 hiaoxui 2017-11-10 00:00:00 Alpher 2020-07-07 11:51:00
 科学上网
 
 #p 17134091 hiaoxui 小辉 2020-06-10 11:47:28
@@ -2889,4 +2889,39 @@ donate的链接在哪里呀
 我再试试rule
 谢谢
 #quote shanking
+
+#p 22743311 dvorah 尺蠖·德沃夏蛤 2020-07-07 10:58:02
+global 和 rule 是代理规则不同 global是全局代理 rule是条件代理，就是只有符合规则的流量走代理，用来节省流量的
+#quote Alpher
+
+#p 22743474 Alpher 小现 2020-07-07 11:22:23
+还是不行
+profiles文件下载成功后，就上不了网了，general页面显示：
+oops,got an error here
+Could not connect to Clash Core
+Open logs folder  Try to repair
+点了try  to repair之后，就把下载的profile删除了
+#quote dvorah
+
+#p 22743568 dvorah 尺蠖·德沃夏蛤 2020-07-07 11:40:28
+大概搜了下 可能是端口被占用的问题 
+先看一下端口占用情况： 7890和7891端口有没有被占用【这里可以不用关闭相关进程】
+[https://jingyan.baidu.com/article/3c48dd34491d47e10be358b8.html](jump-to.php?url=https%3A%2F%2Fjingyan.baidu.com%2Farticle%2F3c48dd34491d47e10be358b8.html)
+如果被占用的话有两种思路：
+1.profiles下载完成后 点击钢笔图标 记事本打开  修改未被占用的port号和socks-port 
+2.关闭占用端口的相关程序【具体方法 百度经验里有写】
+#quote Alpher
+
+#p 22743573 dvorah 尺蠖·德沃夏蛤 2020-07-07 11:41:55
+或者看一下logs文件有没有更详细的错误提示
+#quote Alpher
+
+#p 22743581 Alpher 小现 2020-07-07 11:44:03
+好的，多谢指教
+我试试
+#quote dvorah
+
+#p 22743622 Alpher 小现 2020-07-07 11:50:27
+我把clash卸载了，查看端口，这两个端口都没有被占用
+#quote dvorah
 
