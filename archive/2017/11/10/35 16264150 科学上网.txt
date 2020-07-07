@@ -1,4 +1,4 @@
-#t 35 16264150 hiaoxui 2017-11-10 00:00:00 dvorah 2020-07-06 16:26:00
+#t 35 16264150 hiaoxui 2017-11-10 00:00:00 Alpher 2020-07-07 10:41:00
 科学上网
 
 #p 17134091 hiaoxui 小辉 2020-06-10 11:47:28
@@ -2859,4 +2859,34 @@ donate的链接在哪里呀
 #p 22740063 dvorah 尺蠖·德沃夏蛤 2020-07-06 16:26:24
 我是瓜众... 可以看下病毒种类之类的信息
 #quote wchangjin
+
+#p 22741049 shanking Tick-Tock 2020-07-06 20:04:20
+你点了GLOBAL那个按钮么？貌似GLOBAL没有用，只有使用RULE才能正常代理
+#quote Alpher
+
+#p 22742537 hiaoxui 小辉 2020-07-07 06:03:26
+我之前也听过一个用户反馈说有病毒, 于是我特意在虚拟机里装了 360 全家桶, 但是不能复现.
+你可以把你中毒的文件发给我们, 我看看文件是不是被篡改过.
+不过我还是强烈建议卸载 360 杀毒软件.
+#quote wchangjin
+
+#p 22743017 wchangjin 你猜 2020-07-07 09:47:39
+主要我当时没截图，然后我把删除的文件恢复了，下次再出现，我截图给你看下吧。辛苦了
+#quote hiaoxui
+
+#p 22743044 wchangjin 你猜 2020-07-07 09:57:06
+找到查杀日志了，这样OK吗？
+2020-07-06 15:58:11     发现木马：Trojan.Win32.QQPass.wzd                                          已清除                                                      D:\Program Files\Clash for Windows\resources\static\files\clash-win64.exe
+#quote hiaoxui
+
+#p 22743208 dvorah 尺蠖·德沃夏蛤 2020-07-07 10:35:02
+行为像是盗q的 如果遇到可以先不清楚，把文件上传到哈勃分析下 [https://habo.qq.com/](jump-to.php?url=https%3A%2F%2Fhabo.qq.com%2F)
+搜了下这个木马类型感觉误报的比较多
+#quote wchangjin
+
+#p 22743230 Alpher 小现 2020-07-07 10:40:34
+啊，我试试，是点的global，有时候点了之后跟死机一样
+我再试试rule
+谢谢
+#quote shanking
 
