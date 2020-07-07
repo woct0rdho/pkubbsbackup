@@ -1,4 +1,4 @@
-#t 251 17730602 bobprime 2020-07-07 00:15:00 nietsnie 2020-07-07 21:43:00
+#t 251 17730602 bobprime 2020-07-07 00:15:00 nietsnie 2020-07-07 22:54:00
 有没有人觉得大部分中国的app比国外的好用
 
 #p 22744520 bobprime bobprime 2020-07-07 15:32:50
@@ -62,4 +62,32 @@ yahoo.co.jp的评论区就很好啊
 #p 22745968 nietsnie 嗯，我是一个昵称 2020-07-07 21:42:26
 telegram 好难道不是因为端到端加密么？从个人需求上我觉得就这一点就可以秒杀其他聊天软件了。
 #quote ninelie
+
+#p 22746105 Anamorsin 丢比 2020-07-07 22:25:57
+个人感觉amazon的体验比淘宝和京东好很多。amazon的退货功能太好了，不用和客服沟通，百分百无理由退货，直接网上就可以生成退货单。
+#quote bobprime
+
+#p 22746133 yangxiaopku DAPEE 2020-07-07 22:37:29
+那应该是因为亚马逊在国内的交易量少吧，京东以前也这样，被七天白嫖党薅秃噜皮了
+#quote Anamorsin
+
+#p 22746175 Maxwell Demon 2020-07-07 22:51:12
+微信怎么会跟fb对比，都不是一类东西。fb对应人人网。
+你觉得Google map不好用的具体表现是什么？
+#quote bobprime
+
+#p 22746185 nietsnie 嗯，我是一个昵称 2020-07-07 22:53:38
+列几个我觉得体验（颜值或功能都算）不错的国外 App，直接从手机里翻所以就不按顺序了，当然很多都是小众
+Wolfram Alpha
+Google 相册（无限存储真香，还有各种人和物的归类）
+MATLAB （iOS 版可以直接调用手机的很多传感器并记录数据，而且可以登录云端）
+SkyView Lite
+Flipboard
+Intuit Mint
+Chase 和 American Express （UI 颜值不错）
+Robinhood
+Google Earth
+Telegram
+GarageBand
+#quote bobprime
 
