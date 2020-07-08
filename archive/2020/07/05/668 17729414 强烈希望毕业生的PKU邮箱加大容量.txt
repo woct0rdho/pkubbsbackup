@@ -1,4 +1,4 @@
-#t 668 17729414 pagoda 2020-07-05 00:20:00 secretTom 2020-07-08 07:56:00
+#t 668 17729414 pagoda 2020-07-05 00:20:00 Protestant 2020-07-08 08:12:00
 强烈希望毕业生的PKU邮箱加大容量
 
 #p 22736501 pagoda pagoda 2020-07-05 20:33:24
@@ -602,4 +602,16 @@ pku.edu.cn或bjmu.edu.cn 可以吗?
 突然想到，你是不是没用学号邮箱，而是用了自定义的邮箱名称……
 学号邮箱指**********@pku.edu.cn 其中*都是数字
 #quote Protestant
+
+#p 22746757 Protestant LittleTiger 2020-07-08 08:07:08
+恩呢，我用的自定义名的@pku.edu.cn的邮箱  没用学号邮箱
+#quote secretTom
+
+#p 22746763 secretTom 小可爱 2020-07-08 08:09:53
+那试试学号邮箱？
+#quote Protestant
+
+#p 22746764 Protestant LittleTiger 2020-07-08 08:11:03
+好的，谢谢哈
+#quote secretTom
 
