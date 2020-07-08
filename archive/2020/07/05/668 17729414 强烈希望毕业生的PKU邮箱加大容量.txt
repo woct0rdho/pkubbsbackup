@@ -1,4 +1,4 @@
-#t 668 17729414 pagoda 2020-07-05 00:20:00 PKUAA 2020-07-08 15:32:00
+#t 668 17729414 pagoda 2020-07-05 00:20:00 fbw 2020-07-08 17:33:00
 强烈希望毕业生的PKU邮箱加大容量
 
 #p 22736501 pagoda pagoda 2020-07-05 20:33:24
@@ -632,4 +632,8 @@ pku.edu.cn或bjmu.edu.cn 可以吗?
 系统却仍然是学校邮箱
 感谢计算中心多年的默默支持，握手~
 #quote PKUCC
+
+#p 22748763 fbw 小小狈 2020-07-08 17:32:45
+可否增加pku.edu.cn域名，如alumni.pku.edu.cn或alu.pku.edu.cn 等
+#quote PKUAA
 
