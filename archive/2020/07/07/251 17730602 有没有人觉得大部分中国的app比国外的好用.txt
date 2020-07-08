@@ -1,4 +1,4 @@
-#t 251 17730602 bobprime 2020-07-07 00:15:00 keithleo 2020-07-08 14:55:00
+#t 251 17730602 bobprime 2020-07-07 00:15:00 irenewakeup 2020-07-08 15:45:00
 有没有人觉得大部分中国的app比国外的好用
 
 #p 22744520 bobprime bobprime 2020-07-07 15:32:50
@@ -432,4 +432,12 @@ gmail
 #p 22748065 keithleo 萨达哈鲁|IME13 2020-07-08 14:54:07
 我怎么觉得youtube使用体验爆表，双击快进快退若干秒，在屏幕左右区域上下滑动调亮度音量。用惯了以后用b站app觉得很不方便
 #quote derekdut
+
+#p 22748136 Lophelia 四个月亮与烟花大会 2020-07-08 15:07:17
+大部分国内主流app界面都很丑很乱，让人看着很糟心（用了spotify之后就再也不想给网抑云冲会员了
+#quote bobprime
+
+#p 22748276 irenewakeup comeoncomeon 2020-07-08 15:44:33
+我觉得除了spotify其他的真的是这样的
+#quote bobprime
 
