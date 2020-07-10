@@ -1,4 +1,4 @@
-#t 35 16264150 hiaoxui 2017-11-10 00:00:00 wchangjin 2020-07-08 00:09:00
+#t 35 16264150 hiaoxui 2017-11-10 00:00:00 hiaoxui 2020-07-10 00:11:00
 科学上网
 
 #p 17134091 hiaoxui 小辉 2020-06-10 11:47:28
@@ -2962,4 +2962,13 @@ level=warning msg="dial DIRECT error: dial tcp4 172.*****:443: i/o timeout"
 #p 22746985 wchangjin 你猜 2020-07-08 09:36:59
 好的好的，辛苦啦！下次有更具体的提示，我再截图保存吧~
 #quote hiaoxui
+
+#p 22753944 Merryyundi 新酱 2020-07-10 07:58:15
+早上不能用，update configs 就可以了
+操作： Clash 图标 -&gt; Config -&gt; Remote Config -&gt; Manage -&gt; Update
+#quote hiaoxui
+
+#p 22764039 hiaoxui 小辉 2020-07-10 11:54:22
+是, 我更新了一些节点.
+#quote Merryyundi
 
