@@ -1,11 +1,20 @@
-#t 606 17733564 nietsnie 2020-07-11 22:52:00 nietsnie 2020-07-11 22:52:00
+#t 606 17733564 nietsnie 2020-07-11 23:03:00 nietsnie 2020-07-11 23:03:00
 【原创】2019年内地各地区人均可支配收入分布(转载)
 
 #p 22773217 nietsnie 嗯，我是一个昵称 2020-07-11 22:51:55
+#DELETED
 [原文由 nietsnie 发表在 Counterculture 版 &gt;&gt;&gt;](post-read.php?bid=251&amp;threadid=17733564)
 数据源：各地2019年国民经济和社会发展统计公报、国家统计局各地调查队、少量网络数据
 数据处理、原创作图：nietsnie @ bdwm
 注：湖北省天门市（省辖县级市）无数据、海南省部分省辖县级市和省辖自治县无数据
+其他原创：中国各地的人类发展指数 (HDI) 分布图
+[https://bbs.pku.edu.cn/v2/post-read.php?bid=606&amp;threadid=17699104](post-read.php?bid=606&amp;threadid=17699104)
+
+#p 22773240 nietsnie 嗯，我是一个昵称 2020-07-11 23:02:54
+[原文由 nietsnie 发表在 Counterculture 版 &gt;&gt;&gt;](post-read.php?bid=251&amp;threadid=17733564)
+数据源：各地2019年国民经济和社会发展统计公报、国家统计局各地调查队、少量网络数据
+数据处理、原创作图：nietsnie @ bdwm
+注：湖北省天门市（省辖县级市）无数据、海南省部分省辖县级市和省辖自治县无数据，新疆生产建设兵团和新疆维吾尔自治区共管的自治区辖县级市使用兵团统一的数据
 其他原创：中国各地的人类发展指数 (HDI) 分布图
 [https://bbs.pku.edu.cn/v2/post-read.php?bid=606&amp;threadid=17699104](post-read.php?bid=606&amp;threadid=17699104)
 
