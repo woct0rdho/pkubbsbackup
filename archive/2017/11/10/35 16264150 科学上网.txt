@@ -1,4 +1,4 @@
-#t 35 16264150 hiaoxui 2017-11-10 00:00:00 Merryyundi 2020-07-10 13:52:00
+#t 35 16264150 hiaoxui 2017-11-10 00:00:00 Imperio 2020-07-11 16:38:00
 科学上网
 
 #p 17134091 hiaoxui 小辉 2020-06-10 11:47:28
@@ -2974,5 +2974,9 @@ level=warning msg="dial DIRECT error: dial tcp4 172.*****:443: i/o timeout"
 
 #p 22768258 Merryyundi 新酱 2020-07-10 13:52:27
 谢谢@xiaohui
+#quote hiaoxui
+
+#p 22771965 Imperio Mobile 2020-07-11 16:38:00
+旧的订阅模式是不是已经不再支持了？今天用Potatso已经无法正常上网了
 #quote hiaoxui
 
