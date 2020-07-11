@@ -1,4 +1,4 @@
-#t 251 17731812 ZOEA 2020-07-09 00:08:00 xiaobian 2020-07-11 12:41:00
+#t 251 17731812 ZOEA 2020-07-09 00:08:00 nietsnie 2020-07-11 14:02:00
 专访Pxxnhub的首位中文翻译：NSFW也要信达雅正
 
 #p 22750535 ZOEA 蟹 2020-07-09 14:36:44
@@ -132,4 +132,8 @@ YouTube也有digital电影剧集分销的类似itunes，p站也有付费视频�
 #p 22770987 xiaobian xiaobAOJian 2020-07-11 12:40:14
 P站上的片子能下载下来么
 #quote ZOEA
+
+#p 22771257 nietsnie 嗯，我是一个昵称 2020-07-11 14:01:56
+[https://github.com/ytdl-org/youtube-dl](jump-to.php?url=https%3A%2F%2Fgithub.com%2Fytdl-org%2Fyoutube-dl)
+#quote xiaobian
 
