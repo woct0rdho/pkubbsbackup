@@ -1,4 +1,4 @@
-#t 35 17538289 PKUwuming 2020-02-12 00:15:00 bjchong 2020-07-12 17:08:00
+#t 35 17538289 PKUwuming 2020-02-12 00:15:00 ZemelYang 2020-07-12 20:29:00
 校园网VPN客户端的可选软件：OpenConnect-GUI
 
 #p 21835506 PKUwuming 无名 2020-06-08 12:37:03
@@ -179,4 +179,8 @@ pulse secure是有ipv6连接的，应该是可以的
 #p 22775271 bjchong ZBAA | ZBAD 2020-07-12 17:07:29
 系统自带的连接协议类型不支持。
 #quote Devon
+
+#p 22776163 ZemelYang 雨落 2020-07-12 20:29:08
+我用的UWP版显示无法使用远程服务IP配置，大佬有连上吗
+#quote VarianWrynn
 

@@ -1,4 +1,4 @@
-#t 35 17701068 yyshen 2020-06-08 00:15:00 zhengbeiye 2020-07-11 21:21:00
+#t 35 17701068 yyshen 2020-06-08 00:15:00 ZemelYang 2020-07-12 20:56:00
 北大VPN使用后无法使用网络
 
 #p 22558585 yyshen yyshen 2020-06-08 15:00:52
@@ -57,4 +57,8 @@
 #p 22772948 zhengbeiye 洛洛 2020-07-11 21:20:09
 我换了新电脑也出现了这个问题，去Microsoft Store下载pulse secure然后按北大vpn客户端安装教程设置就好了，不要用北大网站下载的pulse secure！
 #quote benz
+
+#p 22776258 ZemelYang 雨落 2020-07-12 20:55:46
+我用的UWP版Pulse，显示无法使用远程访问服务器ip配置，请问你有遇到过这种情况吗？
+#quote zhengbeiye
 
