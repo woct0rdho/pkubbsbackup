@@ -1,4 +1,4 @@
-#t 606 17699104 nietsnie 2020-06-07 00:00:00 rlcheng 2020-07-12 13:46:00
+#t 606 17699104 nietsnie 2020-06-07 00:00:00 nietsnie 2020-07-12 14:27:00
 中国各地的人类发展指数 (HDI) 分布图
 
 #p 22552322 nietsnie 嗯，我是一个昵称 2020-06-07 00:24:06
@@ -31,4 +31,8 @@ HDI 构成： [https://en.wikipedia.org/wiki/Human_Development_Index](jump-to.ph
 #p 22774723 rlcheng 紫薯 2020-07-12 13:45:47
 请问这个图是用python做的吗？我记得pychart有这样的功能
 #quote nietsnie
+
+#p 22774811 nietsnie 嗯，我是一个昵称 2020-07-12 14:27:03
+对，geopandas
+#quote rlcheng
 
