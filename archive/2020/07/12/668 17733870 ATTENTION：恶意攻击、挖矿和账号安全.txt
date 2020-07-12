@@ -1,0 +1,35 @@
+#t 668 17733870 baogege 2020-07-12 15:53:00 baogege 2020-07-12 15:53:00
+ATTENTION：恶意攻击、挖矿和账号安全
+
+#p 22775016 baogege woshibaogege 2020-07-12 15:53:11
+我们研究组有一台小型的linux工作站，一般使用ssh连上去跑一些小的数值实验
+疫情不能返校期间，已经发现两起疑似“挖矿”程序恶意运行
+在第二次发现后，我们查看了近期的登陆和授权日志，发现有来自北大vpn对应ip段的用户对我们工作站进行多次尝试登陆
+初步判断，可能是该vpn对于账户被盗之后，盗号者使用代理尝试对校内安全措施不严的工作站进行攻击
+我们发帖的目的是：
+1. 麻烦计算中心的老师能不能查到有vpn代理异常的账户，提醒账户主人改一下密码；或者有技术能够发现更多类似的账户，也一并提醒
+2. 提醒大家注意信息安全，在校内工作站里面的账号密码尽量复杂一些
+现将对应的登陆信息放到下面(时间为北京时间)：
+1 盗号成功登陆的记录
+a用户（为了信息安全做了替换，工作站也使用w代替） 
+Jun 19 15:22:53 w sshd[67913]: Accepted password for a from 222.29.89.7 port 37050 ssh2
+省略数次
+Jul  9 05:16:11 w sshd[36650]: Accepted password for a from 222.29.81.250 port 44112 ssh2
+Jul  8 13:26:26 w sshd[34722]: Accepted password for a from 222.29.89.7 port 55790 ssh2
+b用户 之前被盗号后改了密码，盗号者仍然尝试登陆：
+Jun 21 04:06:30 w sshd[99548]: Failed password for b from 222.29.89.7 port 48328 ssh2
+省略数次
+Jun 29 23:48:27 w sshd[34323]: Failed password for b from 222.29.156.167 port 55028 ssh2
+2 尝试登陆记录：
+由于这里的用户名都是错的，所以不做替换
+Jun 16 00:42:56 w sshd[117366]: Failed password for invalid user admin from 222.29.33.250 port 60742 ssh2
+Jun 16 00:43:00 w sshd[117368]: Failed password for invalid user aichen from 222.29.33.250 port 34956 ssh2
+Jun 16 00:43:15 w sshd[117374]: Failed password for invalid user anguse from 222.29.33.250 port 42296 ssh2
+Jun 16 00:43:20 w sshd[117376]: Failed password for invalid user anying from 222.29.33.250 port 44744 ssh2
+...
+Jun 21 00:06:48 w sshd[97401]: Failed password for invalid user yuhao from 222.29.156.167 port 60774 ssh2
+Jun 21 00:09:50 w sshd[97418]: Failed password for invalid user yyb from 222.29.156.167 port 47476 ssh2
+...
+Jul  8 13:18:37 w sshd[34706]: Failed password for invalid user songyx from 222.29.156.158 port 51678 ssh2
+Jul  8 13:18:41 w sshd[34708]: Failed password for invalid user pengj from 222.29.156.158 port 54126 ssh2
+
