@@ -1,4 +1,4 @@
-#t 35 16264150 hiaoxui 2017-11-10 00:00:00 hiaoxui 2020-07-11 22:53:00
+#t 35 16264150 hiaoxui 2017-11-10 00:00:00 Tranquilsun 2020-07-12 10:09:00
 科学上网
 
 #p 17134091 hiaoxui 小辉 2020-06-10 11:47:28
@@ -2983,4 +2983,8 @@ level=warning msg="dial DIRECT error: dial tcp4 172.*****:443: i/o timeout"
 #p 22773223 hiaoxui 小辉 2020-07-11 22:53:19
 不再支持
 #quote Imperio
+
+#p 22774167 Tranquilsun 串口 觉察 清明 2020-07-12 10:08:40
+哪里可以赞助呢？没找到 虽然没有很多
+#quote hiaoxui
 
