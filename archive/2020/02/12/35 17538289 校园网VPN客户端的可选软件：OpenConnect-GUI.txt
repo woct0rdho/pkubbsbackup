@@ -1,4 +1,4 @@
-#t 35 17538289 PKUwuming 2020-02-12 00:15:00 PKUwuming 2020-07-12 12:28:00
+#t 35 17538289 PKUwuming 2020-02-12 00:15:00 bjchong 2020-07-12 17:08:00
 校园网VPN客户端的可选软件：OpenConnect-GUI
 
 #p 21835506 PKUwuming 无名 2020-06-08 12:37:03
@@ -174,5 +174,9 @@ pulse secure是有ipv6连接的，应该是可以的
 
 #p 22774573 PKUwuming 无名 2020-07-12 12:27:18
 是否可用是什么意思？OpenConnect跟window自带的没关系，可以直接使用
+#quote Devon
+
+#p 22775271 bjchong ZBAA | ZBAD 2020-07-12 17:07:29
+系统自带的连接协议类型不支持。
 #quote Devon
 
