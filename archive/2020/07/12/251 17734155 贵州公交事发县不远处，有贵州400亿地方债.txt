@@ -1,4 +1,4 @@
-#t 251 17734155 Dondonda 2020-07-12 00:23:00 brightsun 2020-07-13 03:07:00
+#t 251 17734155 Dondonda 2020-07-12 00:23:00 monolingual 2020-07-13 06:13:00
 贵州公交事发县不远处，有贵州400亿地方债
 
 #p 22776843 Dondonda Dondonda 2020-07-13 00:07:23
@@ -47,4 +47,12 @@
 #p 22777128 brightsun 烈日暖阳丨昶 2020-07-13 03:06:06
 看哭了
 #quote Dondonda
+
+#p 22777179 monolingual monolingual 2020-07-13 06:07:55
+#quote Dondonda
+“一颗北斗导航卫星的制造费用是10亿人民币，55颗北斗卫星550亿”
+
+#p 22777182 monolingual monolingual 2020-07-13 06:12:21
+#quote Dondonda
+秦爱纷奢，人亦念其家；奈何取之尽锱铢，用之如泥沙
 
