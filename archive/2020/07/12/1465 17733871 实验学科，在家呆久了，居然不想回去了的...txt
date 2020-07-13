@@ -1,4 +1,4 @@
-#t 1465 17733871 wuhahahaha 2020-07-12 00:15:00 jiangcr 2020-07-13 07:36:00
+#t 1465 17733871 wuhahahaha 2020-07-12 00:15:00 datouhou 2020-07-13 09:54:00
 实验学科，在家呆久了，居然不想回去了的..
 
 #p 22775019 wuhahahaha 小灰灰 2020-07-12 15:55:00
@@ -154,5 +154,17 @@ emmm
 
 #p 22777230 jiangcr 铺路石 2020-07-13 07:35:24
 人有一种惰性，越懒越不想干事，月不想干事就越懒。还是要回学校做实验、做毕业论文，不想回去，将来工作咋办？
+#quote wuhahahaha
+
+#p 22777568 zhangbob Dream Fighting 2020-07-13 09:46:31
+读研就应该这么读，完成任务不就行了，何必管人在哪里呢。
+#quote NoSurpries
+
+#p 22777581 nancheng nancheng 2020-07-13 09:49:37
+趁这段时间自学cs吧
+#quote wuhahahaha
+
+#p 22777600 datouhou datouhou 2020-07-13 09:53:24
+cs专业在家里完全没影响实验，寒假到现在已经弄了快三篇paper了，是真的不想回去。
 #quote wuhahahaha
 
