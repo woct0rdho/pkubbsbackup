@@ -1,4 +1,4 @@
-#t 35 16264150 hiaoxui 2017-11-10 00:00:00 Tranquilsun 2020-07-12 10:09:00
+#t 35 16264150 hiaoxui 2017-11-10 00:00:00 hiaoxui 2020-07-13 11:30:00
 科学上网
 
 #p 17134091 hiaoxui 小辉 2020-06-10 11:47:28
@@ -837,6 +837,7 @@ LZ这个也被封了
 #quote scl
 
 #p 20923195 poincarehl Tensorflow 2019-09-19 21:39:30
+#DELETED
 ss现在不要用了，用SSR吧
 #quote hiaoxui
 
@@ -855,6 +856,7 @@ ss现在不要用了，用SSR吧
 #quote poincarehl
 
 #p 20924331 poincarehl Tensorflow 2019-09-20 07:58:06
+#DELETED
 对现在SSR也不太安全了
 #quote hiaoxui
 
@@ -2986,5 +2988,12 @@ level=warning msg="dial DIRECT error: dial tcp4 172.*****:443: i/o timeout"
 
 #p 22774167 Tranquilsun 串口 觉察 清明 2020-07-12 10:08:40
 哪里可以赞助呢？没找到 虽然没有很多
+#quote hiaoxui
+
+#p 22777456 biIibiIi biIibiIi 2020-07-13 09:18:20
+楼主你好，出现这个问题怎么解决啊
+
+#p 22778087 hiaoxui 小辉 2020-07-13 11:29:12
+请不要再在BBS联系我。我在正文中有写邮箱联系方式，在订阅列表中也有写 telegram 地址。
 #quote hiaoxui
 
