@@ -1,4 +1,4 @@
-#t 668 17569219 dengj 2020-03-05 00:19:00 BigBigMouse 2020-03-12 11:28:00
+#t 668 17569219 dengj 2020-03-05 00:19:00 lanjingnian 2020-07-15 14:55:00
 学校邮箱注册的OneNote无法使用OneNote Clipp(转载)
 
 #p 21942126 dengj Shoegazer 2020-03-05 19:56:28
@@ -18,8 +18,12 @@
 这个反应，真是迅速了！
 #quote PKUCC
 
-#p 21972954 BigBigMouse Xiaotian 2020-03-12 11:28:16
+#p 21972954 BigBigMouse wsssss 2020-03-12 11:28:16
 太赞了！！！
 之前用onenote的时候就很苦恼这个问题，当时也没有想到在bbs上面反馈
 #quote PKUCC
+
+#p 22786885 lanjingnian lanjingnian 2020-07-15 14:54:26
+请问学校的账号怎样注册到onenote 呢？现在在微软用学生邮箱注册，被告知无法使用学校邮箱注册。
+#quote dengj
 
