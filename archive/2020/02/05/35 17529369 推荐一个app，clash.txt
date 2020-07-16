@@ -1,4 +1,4 @@
-#t 35 17529369 Dalpku 2020-02-05 00:15:00 Dalpku 2020-07-15 23:54:00
+#t 35 17529369 Dalpku 2020-02-05 00:15:00 ForYouth 2020-07-16 09:21:00
 推荐一个app，clash
 
 #p 21805840 Dalpku YuYu 2020-02-05 15:38:16
@@ -78,5 +78,17 @@ ClashR可以支持SSR [https://github.com/WhoJave/clash/releases](jump-to.php?ur
 
 #p 22788735 Dalpku YuYu 2020-07-15 23:54:01
 up 一下 版主给加精么？
+#quote Dalpku
+
+#p 22789245 Carmelooo 甜瓜很懒 2020-07-16 09:08:43
+
+
+2020-07-16 09:08:23
+ClashR支持SSR
+#quote Dalpku
+
+#p 22789274 ForYouth 我就随便起个名 2020-07-16 09:20:15
+推荐一个规则列表
+[https://github.com/ACL4SSR/ACL4SSR](jump-to.php?url=https%3A%2F%2Fgithub.com%2FACL4SSR%2FACL4SSR)
 #quote Dalpku
 
