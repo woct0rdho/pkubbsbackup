@@ -1,4 +1,4 @@
-#t 35 16264150 hiaoxui 2017-11-10 00:00:00 hiaoxui 2020-07-13 11:30:00
+#t 35 16264150 hiaoxui 2017-11-10 00:00:00 hiaoxui 2020-07-15 00:00:00
 科学上网
 
 #p 17134091 hiaoxui 小辉 2020-06-10 11:47:28
@@ -2996,4 +2996,25 @@ level=warning msg="dial DIRECT error: dial tcp4 172.*****:443: i/o timeout"
 #p 22778087 hiaoxui 小辉 2020-07-13 11:29:12
 请不要再在BBS联系我。我在正文中有写邮箱联系方式，在订阅列表中也有写 telegram 地址。
 #quote hiaoxui
+
+#p 22778096 Alpher 小现 2020-07-13 11:42:50
+
+
+2020-07-13 11:33:35
+换最新版的clash，0.11，好像不会出现这个问题
+[https://github.com/Fndroid/clash_for_windows_pkg/releases/tag/0.11.0](jump-to.php?url=https%3A%2F%2Fgithub.com%2FFndroid%2Fclash_for_windows_pkg%2Freleases%2Ftag%2F0.11.0)
+#quote biIibiIi
+
+#p 22782415 xjjzc jw 2020-07-14 16:13:38
+想知道如果fq的话，同步onenote的笔记本会不会变快（手动捂脸）
+#quote hiaoxui
+
+#p 22784796 sugelala Goul 2020-07-14 23:34:45
+以前外网也可以上ipv6的
+现在不可以了么，难受&gt;.&lt;
+#quote hiaoxui
+
+#p 22784953 hiaoxui 小辉 2020-07-15 00:25:53
+需要ipv6可以单独联系我 tg
+#quote sugelala
 
