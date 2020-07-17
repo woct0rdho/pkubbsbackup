@@ -1,4 +1,4 @@
-#t 1465 17737059 WMkwj 2020-07-17 00:17:00 xiaomi 2020-07-17 22:34:00
+#t 1465 17737059 WMkwj 2020-07-17 00:17:00 commonman 2020-07-17 23:55:00
 有人听说学院路甲39号的事情吗？是真是假
 
 #p 22794989 WMkwj 霹雳侠皮卡丘 2020-07-17 17:19:53
@@ -21,6 +21,7 @@
 #quote WMkwj
 
 #p 22795013 quicy Big Sur 2020-07-17 17:27:49
+#DELETED
 官方还没发布任何消息，但这个人被微博确诊了，真是愁
 #quote WMkwj
 
@@ -90,5 +91,13 @@
 
 #p 22795801 xiaomi 小米 2020-07-17 22:33:33
 好像说是假的？
+#quote WMkwj
+
+#p 22795978 aywr emmm 2020-07-17 23:34:15
+无症状感染者在疫情初期就已经证明有传染性了，怎么是理论上呢，可参见1月27日关于安阳无症状感染者的报道。后来的严格管控措施也是基于“无症状感染者有传染性”这一事实的决策。
+#quote jacobanach
+
+#p 22796035 commonman 嗨乐呵乐呵 2020-07-17 23:54:42
+人民日报官方辟谣了[https://wap.peopleapp.com/article/5737915/5659950?from=groupmessage](jump-to.php?url=https%3A%2F%2Fwap.peopleapp.com%2Farticle%2F5737915%2F5659950%3Ffrom%3Dgroupmessage)
 #quote WMkwj
 
