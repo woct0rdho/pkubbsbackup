@@ -1,4 +1,4 @@
-#t 1465 17736406 commonman 2020-07-16 00:13:00 shawnn 2020-07-18 00:17:00
+#t 1465 17736406 commonman 2020-07-16 00:13:00 Octo 2020-07-18 01:58:00
 好多国家在19年的废水中发现新冠病毒
 
 #p 22790371 commonman 嗨乐呵乐呵 2020-07-16 13:42:06
@@ -579,4 +579,11 @@ RT PCR的荧光探针可能被其他亲和性物质结合。
 #p 22796114 shawnn Fedora 2020-07-18 00:16:39
 真不知道这种谣言怎么还有人信。。。
 #quote golder
+
+#p 22796268 Octo ·◎· 2020-07-18 01:57:49
+没想到贵校的学生也信这种牵强附会的猜测，自己都不去做点事实核查的么？CDC专门有页面更新进展：[https://www.cdc.gov/tobacco/basic_information/e-cigarettes/severe-lung-disease.html](jump-to.php?url=https%3A%2F%2Fwww.cdc.gov%2Ftobacco%2Fbasic_information%2Fe-cigarettes%2Fsevere-lung-disease.html)
+在新冠疫情出现之前得到的基本结论是，电子烟肺病的一个主要原因是（添加THC的）非法烟油中添加的维生素E醋酸酯，中国抽电子烟的会有抽加THC的么？
+如果只附会相似之处，当然会让人觉得有关，实际上两者CT真的相似么？[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7309841/](jump-to.php?url=https%3A%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC7309841%2F)
+更重要的是电子烟肺病都是抽电子烟导致的，没有发生医护感染，流行病学上当然也没有传染性。
+#quote Kurapica
 
