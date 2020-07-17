@@ -1,8 +1,11 @@
-#t 251 17736681 nietsnie 2020-07-16 22:01:00 nietsnie 2020-07-16 22:01:00
+#t 251 17736681 nietsnie 2020-07-16 00:22:00 Mandara 2020-07-17 14:43:00
 汉堡王的中国内地业务居然是由土耳其加盟公司运营
 
-#p 22792399 nietsnie 嗯，我是一个昵称 2020-07-16 22:00:41
-汉堡王在北美之外基本上是以加盟店的形式经营。汉堡王北美总公司 Restaurant Brands International (加拿大）（美股股票代码 QSR）授权土耳其的 Tab Food Investment 公司以加盟店（franchise）的形式在中国内地经营1000多家汉堡王品牌餐厅的业务，香港和台湾分别是当地的公司加盟经营。
+#p 22792399 nietsnie 嗯，我是一个昵称 2020-07-16 22:05:10
+
+
+2020-07-16 22:00:41
+汉堡王在北美之外基本上是以加盟店的形式经营。汉堡王北美总公司的母公司 Restaurant Brands International (加拿大）（美股股票代码 QSR）授权土耳其的 Tab Food Investment 公司以加盟店（franchise）的形式在中国内地经营1000多家汉堡王品牌餐厅的业务，香港和台湾分别是当地的公司加盟经营。
 参考链接：[https://www.tabfoods.com/cn/tfi/overview](jump-to.php?url=https%3A%2F%2Fwww.tabfoods.com%2Fcn%2Ftfi%2Foverview)
 概要
 TFI 是汉堡王全球最大的加盟商。
@@ -27,4 +30,8 @@ TAB食品投资公司的跨国快速服务餐厅业务平台可以分为三个�
 尔库肉类加工公司：高科技肉类加工厂
 广告基地公司：提供全方位的传播和营销服务
 Fiyuu：拥有丰富经验的数字交付平台公司
+
+#p 22794442 Mandara 哥特安妮 2020-07-17 14:42:30
+为啥不是中国公司呢？
+#quote nietsnie
 
