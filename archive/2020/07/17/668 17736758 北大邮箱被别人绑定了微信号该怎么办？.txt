@@ -1,4 +1,4 @@
-#t 668 17736758 Rockefeller 2020-07-17 00:00:00 PKUCC 2020-07-17 08:13:00
+#t 668 17736758 Rockefeller 2020-07-17 00:00:00 Rockefeller 2020-07-17 10:28:00
 北大邮箱被别人绑定了微信号该怎么办？
 
 #p 22792752 Rockefeller Statistically significant 2020-07-17 00:09:31
@@ -12,4 +12,8 @@
 #p 22793021 PKUCC 北京大学计算中心 2020-07-17 08:12:11
 绑定了什么微信号？是北京大学信息门户吗？若是，可致电62751023；若是其他的，请联系该微信公号负责单位。
 #quote Rockefeller
+
+#p 22793394 Rockefeller Statistically significant 2020-07-17 10:27:09
+好的谢谢
+#quote PKUCC
 
