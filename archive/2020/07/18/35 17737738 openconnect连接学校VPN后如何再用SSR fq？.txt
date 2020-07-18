@@ -1,4 +1,4 @@
-#t 35 17737738 stevezhang 2020-07-18 00:22:00 karlmarx 2020-07-19 03:22:00
+#t 35 17737738 stevezhang 2020-07-18 00:22:00 stevezhang 2020-07-19 06:39:00
 openconnect连接学校VPN后如何再用SSR fq？
 
 #p 22799536 stevezhang shiGaRo 2020-07-18 22:48:23
@@ -6,5 +6,13 @@ openconnect连接学校VPN后如何再用SSR fq？
 
 #p 22800791 karlmarx 还我三角地！灵均·六月雪 2020-07-19 03:21:44
 用得少的那个放在虚拟机里。
+#quote stevezhang
+
+#p 22800837 stevezhang shiGaRo 2020-07-19 06:37:04
+有道理。然而相比打开虚拟机听风扇呼呼声我更情愿手动开关VPN (捂脸)
+#quote karlmarx
+
+#p 22800839 stevezhang shiGaRo 2020-07-19 06:38:09
+忘了背景说明：macOS 10.14
 #quote stevezhang
 
