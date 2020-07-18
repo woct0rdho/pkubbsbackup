@@ -1,6 +1,10 @@
-#t 35 17737738 stevezhang 2020-07-18 22:49:00 stevezhang 2020-07-18 22:49:00
+#t 35 17737738 stevezhang 2020-07-18 00:22:00 karlmarx 2020-07-19 03:22:00
 openconnect连接学校VPN后如何再用SSR fq？
 
 #p 22799536 stevezhang shiGaRo 2020-07-18 22:48:23
 如题。顺便想问下有什么办法可以免去输入一卡通密码？
+
+#p 22800791 karlmarx 还我三角地！灵均·六月雪 2020-07-19 03:21:44
+用得少的那个放在虚拟机里。
+#quote stevezhang
 
