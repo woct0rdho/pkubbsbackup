@@ -1,4 +1,4 @@
-#t 1465 17736406 commonman 2020-07-16 00:13:00 Octo 2020-07-18 01:58:00
+#t 1465 17736406 commonman 2020-07-16 00:13:00 pengx 2020-07-18 10:59:00
 好多国家在19年的废水中发现新冠病毒
 
 #p 22790371 commonman 嗨乐呵乐呵 2020-07-16 13:42:06
@@ -586,4 +586,8 @@ RT PCR的荧光探针可能被其他亲和性物质结合。
 如果只附会相似之处，当然会让人觉得有关，实际上两者CT真的相似么？[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7309841/](jump-to.php?url=https%3A%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC7309841%2F)
 更重要的是电子烟肺病都是抽电子烟导致的，没有发生医护感染，流行病学上当然也没有传染性。
 #quote Kurapica
+
+#p 22796815 pengx 木木枭 2020-07-18 10:59:02
+不是很准确。不过今年提到远东冻土融化和北极变绿
+#quote AlbertRain
 

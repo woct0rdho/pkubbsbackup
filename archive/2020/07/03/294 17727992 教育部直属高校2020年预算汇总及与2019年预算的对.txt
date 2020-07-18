@@ -1,4 +1,4 @@
-#t 294 17727992 tuoyan 2020-07-03 00:18:00 xiaoguaila 2020-07-17 22:46:00
+#t 294 17727992 tuoyan 2020-07-03 00:18:00 tuoyan 2020-07-18 10:49:00
 教育部直属高校2020年预算汇总及与2019年预算的对
 
 #p 22728337 tuoyan 拖延 2020-07-03 18:48:51
@@ -26,4 +26,12 @@
 #p 22795836 xiaoguaila 小乖乖 2020-07-17 22:45:06
 <img src="blob:https://bbs.pku.edu.cn/2d5cdd8e-3cd6-4289-9125-7e345e5f6fcd"/>
 #quote leonlee
+
+#p 22796765 alreadygay 此号已基 2020-07-18 10:37:08
+那医学部非医院部分算进去吗？
+#quote xiaoguaila
+
+#p 22796791 tuoyan 拖延 2020-07-18 10:48:31
+应该是算得
+#quote alreadygay
 
