@@ -1,4 +1,4 @@
-#t 35 17737738 stevezhang 2020-07-18 00:22:00 Smallst 2020-07-19 08:24:00
+#t 35 17737738 stevezhang 2020-07-18 00:22:00 PKUwuming 2020-07-19 10:42:00
 openconnect连接学校VPN后如何再用SSR fq？
 
 #p 22799536 stevezhang shiGaRo 2020-07-18 22:48:23
@@ -19,5 +19,13 @@ openconnect连接学校VPN后如何再用SSR fq？
 #p 22800926 Smallst Fox loves sea. 2020-07-19 08:23:21
 openconnect可以写脚本记住密码
 我没在mac上用过openconnect但我在linux上用配合ssr完全没有冲突啊
+#quote stevezhang
+
+#p 22801602 PKUwuming 无名 2020-07-19 10:38:18
+若要保存密码，可在配置文件里勾选上Batch mode。这样只有第一次连接时需要输入密码，之后不用
+#quote stevezhang
+
+#p 22801626 PKUwuming 无名 2020-07-19 10:41:24
+用VPN主要用途是什么？查文献？还是连接远程服务器？
 #quote stevezhang
 
