@@ -1,4 +1,4 @@
-#t 35 17737738 stevezhang 2020-07-18 00:22:00 stevezhang 2020-07-19 06:39:00
+#t 35 17737738 stevezhang 2020-07-18 00:22:00 Smallst 2020-07-19 08:24:00
 openconnect连接学校VPN后如何再用SSR fq？
 
 #p 22799536 stevezhang shiGaRo 2020-07-18 22:48:23
@@ -14,5 +14,10 @@ openconnect连接学校VPN后如何再用SSR fq？
 
 #p 22800839 stevezhang shiGaRo 2020-07-19 06:38:09
 忘了背景说明：macOS 10.14
+#quote stevezhang
+
+#p 22800926 Smallst Fox loves sea. 2020-07-19 08:23:21
+openconnect可以写脚本记住密码
+我没在mac上用过openconnect但我在linux上用配合ssr完全没有冲突啊
 #quote stevezhang
 
