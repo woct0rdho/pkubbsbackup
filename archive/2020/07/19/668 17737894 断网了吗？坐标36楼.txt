@@ -1,4 +1,4 @@
-#t 668 17737894 ForestMilan 2020-07-19 10:41:00 PKUCC 2020-07-19 10:49:00
+#t 668 17737894 ForestMilan 2020-07-19 00:10:00 PKUCC 2020-07-19 11:54:00
 断网了吗？坐标36楼
 
 #p 22801625 ForestMilan He's young but daily bigger. 2020-07-19 10:41:15
@@ -10,5 +10,18 @@
 今天校园网无线核心设备升级维护，已在门户有通知。
 [https://portal.pku.edu.cn/portal2017/#/deptNoticeDetail/378647](jump-to.php?url=https%3A%2F%2Fportal.pku.edu.cn%2Fportal2017%2F%23%2FdeptNoticeDetail%2F378647)
 我们争取尽快恢复。
+#quote ForestMilan
+
+#p 22801955 yuanphys yuanphys 2020-07-19 11:34:36
+城府路北侧黑砖窑也断了，看来是可以不用搬砖半天了
+#quote ForestMilan
+
+#p 22802032 ForestMilan He's young but daily bigger. 2020-07-19 11:52:12
+已经好了哈哈哈
+#quote yuanphys
+
+#p 22802035 PKUCC 北京大学计算中心 2020-07-19 11:53:12
+同学你好，
+目前无线网改造已基本完成。如无线网络还未恢复，请拨打 62751023 报修，我们会第一时间排查原因。
 #quote ForestMilan
 
