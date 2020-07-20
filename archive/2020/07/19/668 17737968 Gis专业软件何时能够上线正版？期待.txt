@@ -1,4 +1,4 @@
-#t 668 17737968 Jasminoides 2020-07-19 00:13:00 lemonpie 2020-07-20 00:00:00
+#t 668 17737968 Jasminoides 2020-07-19 00:13:00 shmilydaniel 2020-07-20 11:31:00
 Gis专业软件何时能够上线正版？期待
 
 #p 22802345 Jasminoides 荻花枫叶 2020-07-19 13:01:12
@@ -18,5 +18,9 @@ QGIS就挺好的
 
 #p 22814218 lemonpie 牵着熊猫上街 2020-07-20 00:19:43
 对对对，每年都开GIS课但是都没有正版ArcGIS用www
+#quote Jasminoides
+
+#p 22815633 shmilydaniel daniel 2020-07-20 11:30:12
+arcgis+999999
 #quote Jasminoides
 
