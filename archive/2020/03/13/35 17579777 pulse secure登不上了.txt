@@ -1,4 +1,4 @@
-#t 35 17579777 rickmorty 2020-03-13 00:09:00 ahg 2020-04-17 02:18:00
+#t 35 17579777 rickmorty 2020-03-13 00:09:00 dingTWOd 2020-07-20 07:23:00
 pulse secure登不上了
 
 #p 21976992 rickmorty 梦的第七章 2020-03-13 09:22:00
@@ -49,4 +49,8 @@ pulse secure登不上了
 #p 22236821 ahg 光 2020-04-17 02:17:43
 打开pulse secure后，说pulse secure服务未启动，没有连接选项，怎么回事？
 #quote rickmorty
+
+#p 22814866 dingTWOd 南京酸菜鱼 2020-07-20 07:22:28
+我也是这个问题，请问后来解决了嘛？
+#quote donnamatch
 
