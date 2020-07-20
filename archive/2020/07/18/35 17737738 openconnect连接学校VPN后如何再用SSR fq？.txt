@@ -1,4 +1,4 @@
-#t 35 17737738 stevezhang 2020-07-18 00:22:00 stevezhang 2020-07-21 00:43:00
+#t 35 17737738 stevezhang 2020-07-18 00:22:00 stevezhang 2020-07-21 01:27:00
 openconnect连接学校VPN后如何再用SSR fq？
 
 #p 22799536 stevezhang shiGaRo 2020-07-18 22:48:23
@@ -41,4 +41,12 @@ SSR用手动模式，然后浏览器里配合SwitchyOmega等扩展来实现代�
 #p 22819970 stevezhang shiGaRo 2020-07-21 00:43:03
 就是用PS的时候SSR不行…不知道是否跟系统和ssr客户端有关
 #quote OrangeMud
+
+#p 22820001 stevezhang shiGaRo 2020-07-21 01:25:38
+VPN连入学校，连办公室电脑、查文献和学校超算
+#quote PKUwuming
+
+#p 22820003 stevezhang shiGaRo 2020-07-21 01:26:15
+我的始终不行…求分享openconnect命令
+#quote Smallst
 
