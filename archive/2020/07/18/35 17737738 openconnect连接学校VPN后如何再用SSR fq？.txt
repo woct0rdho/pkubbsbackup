@@ -1,4 +1,4 @@
-#t 35 17737738 stevezhang 2020-07-18 00:22:00 Smallst 2020-07-21 06:52:00
+#t 35 17737738 stevezhang 2020-07-18 00:22:00 stevezhang 2020-07-21 08:50:00
 openconnect连接学校VPN后如何再用SSR fq？
 
 #p 22799536 stevezhang shiGaRo 2020-07-18 22:48:23
@@ -53,4 +53,8 @@ VPN连入学校，连办公室电脑、查文献和学校超算
 #p 22820122 Smallst Fox loves sea. 2020-07-21 06:51:52
 openconnect应该有个参数是--passwd-on-stdin
 #quote stevezhang
+
+#p 22820273 stevezhang shiGaRo 2020-07-21 08:49:42
+还有其他选项吗？如果方便的话可以隐去个人信息后把命令粘贴上来吗？这样我可以确认是oc的问题还是我的ssr问题
+#quote Smallst
 
