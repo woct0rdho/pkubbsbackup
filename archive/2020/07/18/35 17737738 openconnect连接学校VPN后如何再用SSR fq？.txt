@@ -1,4 +1,4 @@
-#t 35 17737738 stevezhang 2020-07-18 00:22:00 stevezhang 2020-07-21 08:50:00
+#t 35 17737738 stevezhang 2020-07-18 00:22:00 Smallst 2020-07-21 09:09:00
 openconnect连接学校VPN后如何再用SSR fq？
 
 #p 22799536 stevezhang shiGaRo 2020-07-18 22:48:23
@@ -57,4 +57,10 @@ openconnect应该有个参数是--passwd-on-stdin
 #p 22820273 stevezhang shiGaRo 2020-07-21 08:49:42
 还有其他选项吗？如果方便的话可以隐去个人信息后把命令粘贴上来吗？这样我可以确认是oc的问题还是我的ssr问题
 #quote Smallst
+
+#p 22820336 Smallst Fox loves sea. 2020-07-21 09:08:42
+[https://wiki.archlinux.org/index.php/OpenConnect](jump-to.php?url=https%3A%2F%2Fwiki.archlinux.org%2Findex.php%2FOpenConnect)
+可以看看这个，juniper相关和netctl相关的execuppost那里，需要先从学校下载证书，比版里置顶的方法麻烦点，不过我以前成功过。
+后来因为我改用networkmanager的gui了所以最近也没试过，偶尔用都是用版里的办法手动输入了
+#quote stevezhang
 
