@@ -1,4 +1,4 @@
-#t 606 17699104 nietsnie 2020-06-07 00:00:00 Nameless 2020-07-21 09:06:00
+#t 606 17699104 nietsnie 2020-06-07 00:00:00 nietsnie 2020-07-21 10:04:00
 中国各地的人类发展指数 (HDI) 分布图
 
 #p 22552322 nietsnie 嗯，我是一个昵称 2020-06-07 00:24:06
@@ -39,4 +39,9 @@ HDI 构成： [https://en.wikipedia.org/wiki/Human_Development_Index](jump-to.ph
 #p 22820321 Nameless 麦田与十三岁|石榴成熟时 2020-07-21 09:06:07
 内蒙几个市旗居然这么高
 #quote nietsnie
+
+#p 22820554 nietsnie 嗯，我是一个昵称 2020-07-21 10:04:07
+那几个在去年的人均可支配收入里也挺高的，见
+[https://bbs.pku.edu.cn/v2/post-read.php?bid=606&amp;threadid=17733564](post-read.php?bid=606&amp;threadid=17733564)
+#quote Nameless
 
