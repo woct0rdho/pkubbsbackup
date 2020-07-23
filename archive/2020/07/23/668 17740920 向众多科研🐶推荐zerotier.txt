@@ -1,0 +1,8 @@
+#t 668 17740920 Rainshaw 2020-07-23 00:15:00 Rainshaw 2020-07-23 00:15:00
+向众多科研🐶推荐zerotier
+
+#p 22833252 Rainshaw 傻白甜 2020-07-23 15:44:34
+由于众所周知的原因，计算中心屏蔽了所有北大所属公网IP的tcp端口，从校外发起的tcp链接会被强制阻断，给科研带来很大不便
+zerotier是一个异地组网的方案，各个平台都有客户端，使用udp打洞，经过我的测试，可以顺利使用zerotier创建的虚拟专用网链接ssh、rdp、http
+详情查看[https://www.zerotier.com/](jump-to.php?url=https%3A%2F%2Fwww.zerotier.com%2F)
+

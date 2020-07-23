@@ -1,0 +1,12 @@
+#t 35 17740217 alyaacchn 2020-07-22 00:13:00 bjchong 2020-07-22 00:15:00
+求问如何用163邮箱代收北大邮箱邮件
+
+#p 22828800 alyaacchn yalala 2020-07-22 13:05:11
+求问各路技术大神：在读期间一直使用北大邮箱收发邮件，目前毕业在即，想把北大邮箱里的邮件全部转到163邮箱。尝试使用POP3设置，163邮箱要求填写“接收邮件服务器”，“端口”，以及是否“接收邮件服务使用SSL“（见附图），不知道这几项如何填写？另外，北大这边的邮箱需要设置什么吗？十分感谢！
+
+#p 22829257 bjchong ZBAA | ZBAD 2020-07-22 15:15:38
+pop3.pku.edu.cn；995；是。
+pku邮箱默认状态下不需要特殊设置，除非先前设置了“仅webmail”。
+详情参阅网页[https://its.pku.edu.cn/service_1_mail.jsp](jump-to.php?url=https%3A%2F%2Fits.pku.edu.cn%2Fservice_1_mail.jsp)“收发方式”第2项。
+#quote alyaacchn
+

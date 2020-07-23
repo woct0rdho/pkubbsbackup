@@ -1,4 +1,4 @@
-#t 35 17529369 Dalpku 2020-02-05 00:15:00 ForYouth 2020-07-16 09:21:00
+#t 35 17529369 Dalpku 2020-02-05 00:15:00 mojave 2020-07-23 00:12:00
 推荐一个app，clash
 
 #p 21805840 Dalpku YuYu 2020-02-05 15:38:16
@@ -90,5 +90,33 @@ ClashR支持SSR
 #p 22789274 ForYouth 我就随便起个名 2020-07-16 09:20:15
 推荐一个规则列表
 [https://github.com/ACL4SSR/ACL4SSR](jump-to.php?url=https%3A%2F%2Fgithub.com%2FACL4SSR%2FACL4SSR)
+#quote Dalpku
+
+#p 22831950 mojave 你说得都对 2020-07-23 10:26:30
+iOS用户流下了热泪
+#quote Dalpku
+
+#p 22832359 Dalpku YuYu 2020-07-23 12:06:04
+不知道你有没有买过ios美区兑换码，人民币和美元汇率2比1
+#quote mojave
+
+#p 22832382 mojave 你说得都对 2020-07-23 12:10:39
+没有，我都直接自己的信用卡买礼品卡，这种怕黑号。
+#quote Dalpku
+
+#p 22832399 Dalpku YuYu 2020-07-23 12:13:26
+听说这些兑换码是免费送给开发者的，我买过了20多次，感觉还ok 小火箭只要5块
+#quote mojave
+
+#p 22832412 Alpher 小现 2020-07-23 12:15:54
+铁窗泪
+#quote mojave
+
+#p 22832440 xlyytcy 深巷明朝 2020-07-23 12:20:56
+感谢分享！
+#quote Dalpku
+
+#p 22832476 mojave 你说得都对 2020-07-23 12:33:13
+如果是这样最好了 最担心的就是黑卡买的 这样就直接杀ID了
 #quote Dalpku
 

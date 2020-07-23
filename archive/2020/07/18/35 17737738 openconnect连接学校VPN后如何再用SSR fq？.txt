@@ -1,4 +1,4 @@
-#t 35 17737738 stevezhang 2020-07-18 00:22:00 stevezhang 2020-07-21 10:05:00
+#t 35 17737738 stevezhang 2020-07-18 00:22:00 poverty 2020-07-23 00:15:00
 openconnect连接学校VPN后如何再用SSR fq？
 
 #p 22799536 stevezhang shiGaRo 2020-07-18 22:48:23
@@ -67,4 +67,8 @@ openconnect应该有个参数是--passwd-on-stdin
 #p 22820557 stevezhang shiGaRo 2020-07-21 10:04:35
 噢噢，密码的问题已经用--passwd-on-stdin解决啦。我再看一下，多谢
 #quote Smallst
+
+#p 22833253 poverty 不知道猫在想什么的傻狗 2020-07-23 15:44:36
+openconnect 可以放软路由里
+#quote stevezhang
 
