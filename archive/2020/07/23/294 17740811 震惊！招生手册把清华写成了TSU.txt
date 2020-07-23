@@ -1,4 +1,4 @@
-#t 294 17740811 hkpku 2020-07-23 00:13:00 xiongxiaoben 2020-07-23 22:58:00
+#t 294 17740811 hkpku 2020-07-23 00:13:00 floriazzz 2020-07-23 23:44:00
 震惊！招生手册把清华写成了TSU
 
 #p 22832716 hkpku 你的昵称 2020-07-23 13:31:45
@@ -81,4 +81,23 @@ ts是一个音。可能是这个原因。
 [http://liliang.blog.caixin.com/archives/146058](jump-to.php?url=http%3A%2F%2Fliliang.blog.caixin.com%2Farchives%2F146058)
 [http://liliang.blog.caixin.com/archives/146059](jump-to.php?url=http%3A%2F%2Fliliang.blog.caixin.com%2Farchives%2F146059)
 #quote pada
+
+#p 22835147 nietsnie 嗯，我是一个昵称 2020-07-23 23:35:12
+
+
+2020-07-23 23:34:30
+照这样来说的话贵校的域名应该要写成 [https://www.peking.edu.cn](jump-to.php?url=https%3A%2F%2Fwww.peking.edu.cn) 才合适
+#quote pada
+
+#p 22835164 nietsnie 嗯，我是一个昵称 2020-07-23 23:37:53
+其实如果写成 [https://www.beida.edu.cn](jump-to.php?url=https%3A%2F%2Fwww.beida.edu.cn) 也不错，干脆贵校把这个和 [https://www.peking.edu.cn](jump-to.php?url=https%3A%2F%2Fwww.peking.edu.cn) 全部定向到官网好了
+#quote xiongxiaoben
+
+#p 22835166 hkpku 你的昵称 2020-07-23 23:38:27
+这。。。
+#quote xiongxiaoben
+
+#p 22835183 floriazzz minori 2020-07-23 23:43:44
+原来第一反应是つ的不是我一个
+#quote hkpku
 
