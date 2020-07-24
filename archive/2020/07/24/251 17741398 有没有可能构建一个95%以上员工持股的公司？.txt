@@ -1,4 +1,4 @@
-#t 251 17741398 motaguoke 2020-07-24 00:10:00 Ryn 2020-07-24 23:58:00
+#t 251 17741398 motaguoke 2020-07-24 00:10:00 hxanti 2020-07-25 05:03:00
 有没有可能构建一个95%以上员工持股的公司？
 
 #p 22837940 motaguoke 孤帆远影 2020-07-24 10:31:00
@@ -116,5 +116,10 @@ RE
 
 #p 22843797 Ryn 大酸葡萄 2020-07-24 23:57:43
 我觉得更可行的是股权在内部有一个价格稳定方差小的定价方式，然后每次发薪会重新计算发放股权差价（和分红），离职股权自动回收。
+#quote motaguoke
+
+#p 22844035 hxanti hx 2020-07-25 05:03:00
+怎么没人提Chicago and North Western Transportation Company（CNW）？在上个世纪70-80年代是由员工持股的。
+We're employee owned!
 #quote motaguoke
 
