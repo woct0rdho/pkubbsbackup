@@ -1,4 +1,4 @@
-#t 1431 17740698 ForestMilan 2020-07-23 00:10:00 mengshao 2020-07-24 07:26:00
+#t 1431 17740698 ForestMilan 2020-07-23 00:10:00 LuoShi 2020-07-24 08:53:00
 空调一天十度电正常吗？
 
 #p 22831955 ForestMilan He's young but daily bigger. 2020-07-23 10:28:16
@@ -56,5 +56,9 @@
 
 #p 22837304 mengshao bang 2020-07-24 07:25:19
 一般一个小时一度电
+#quote ForestMilan
+
+#p 22837471 LuoShi wsj 2020-07-24 08:53:14
+差不多，高能耗空调+单层玻璃不保温+ 25度基本上差不多
 #quote ForestMilan
 

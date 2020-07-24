@@ -1,6 +1,10 @@
-#t 668 17741235 diemenschen 2020-07-23 22:51:00 diemenschen 2020-07-23 22:51:00
+#t 668 17741235 diemenschen 2020-07-23 00:22:00 PKUCC 2020-07-24 08:23:00
 请问学校邮箱能否用Exchange ActiveSync协议收信？
 
 #p 22835033 diemenschen Die Menschen 2020-07-23 22:50:38
 请问老师，学生账号能否用客户端软件以Exchange ActiveSync协议（有的地方叫Pushmail协议）登录邮箱？如果可以的话，麻烦告诉一下登录的服务器地址和域名，谢谢了！
+
+#p 22837388 PKUCC 北京大学计算中心 2020-07-24 08:22:09
+你好！目前还不支持这个功能。
+#quote diemenschen
 
