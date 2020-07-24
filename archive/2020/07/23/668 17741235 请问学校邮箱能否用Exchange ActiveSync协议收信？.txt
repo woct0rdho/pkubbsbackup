@@ -1,4 +1,4 @@
-#t 668 17741235 diemenschen 2020-07-23 00:22:00 PKUCC 2020-07-24 08:23:00
+#t 668 17741235 diemenschen 2020-07-23 00:22:00 diemenschen 2020-07-24 23:09:00
 请问学校邮箱能否用Exchange ActiveSync协议收信？
 
 #p 22835033 diemenschen Die Menschen 2020-07-23 22:50:38
@@ -7,4 +7,8 @@
 #p 22837388 PKUCC 北京大学计算中心 2020-07-24 08:22:09
 你好！目前还不支持这个功能。
 #quote diemenschen
+
+#p 22843656 diemenschen Die Menschen 2020-07-24 23:08:33
+好的，谢谢老师。
+#quote PKUCC
 
