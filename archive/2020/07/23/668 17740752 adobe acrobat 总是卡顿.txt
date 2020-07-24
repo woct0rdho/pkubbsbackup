@@ -1,4 +1,4 @@
-#t 668 17740752 septemberLL 2020-07-23 00:12:00 PKUCC 2020-07-23 00:12:00
+#t 668 17740752 septemberLL 2020-07-23 00:12:00 kwonjiyong 2020-07-24 10:10:00
 adobe acrobat 总是卡顿
 
 #p 22832337 septemberLL 羊驼前进一号 2020-07-23 12:01:09
@@ -14,5 +14,9 @@ adobe acrobat 总是卡顿
 应该和电脑配置还有Acrobat自身的软件优化有关；
 可以登录正版软件平台，查看adobe使用帮助，用订阅式安装的方式安装高版本的试试；
 如果有其他问题可发送邮件至gsoftware@pku.edu.cn
+#quote septemberLL
+
+#p 22837855 kwonjiyong warriorsnb 2020-07-24 10:09:44
+感觉还是Adobe自身优化的问题
 #quote septemberLL
 
