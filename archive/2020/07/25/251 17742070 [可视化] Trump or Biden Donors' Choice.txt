@@ -1,4 +1,4 @@
-#t 251 17742070 nietsnie 2020-07-25 15:31:00 ltwang 2020-07-25 16:22:00
+#t 251 17742070 nietsnie 2020-07-25 00:15:00 Homagod 2020-07-25 17:49:00
 [可视化] Trump or Biden Donors' Choice
 
 #p 22846848 nietsnie 嗯，我是一个昵称 2020-07-25 15:31:19
@@ -8,5 +8,9 @@ Source: New York Times
 
 #p 22846999 ltwang 夏目沉吟 2020-07-25 16:21:33
 rdbu特别舒服的配色
+#quote nietsnie
+
+#p 22847297 Homagod 不愉快なら問答無用、撃て 2020-07-25 17:48:29
+nice data
 #quote nietsnie
 
