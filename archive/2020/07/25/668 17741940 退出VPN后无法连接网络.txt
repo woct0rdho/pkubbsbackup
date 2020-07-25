@@ -1,4 +1,4 @@
-#t 668 17741940 hunanlh 2020-07-25 10:54:00 hunanlh 2020-07-25 10:54:00
+#t 668 17741940 hunanlh 2020-07-25 10:54:00 PKUCC 2020-07-25 11:34:00
 退出VPN后无法连接网络
 
 #p 22845836 hunanlh lh_1995 2020-07-25 10:53:54
@@ -6,4 +6,8 @@
 windows自查显示 The remote device or resource won't accept the connection
 重启网络适配器无效
 命令行使用netsh winsock reset 无效
+
+#p 22846019 PKUCC 北京大学计算中心 2020-07-25 11:33:22
+你好，建议重起系统
+#quote hunanlh
 
