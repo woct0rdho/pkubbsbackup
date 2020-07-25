@@ -1,4 +1,4 @@
-#t 1465 17740468 hbhzshengao 2020-07-22 00:21:00 Richer 2020-07-24 23:28:00
+#t 1465 17740468 hbhzshengao 2020-07-22 00:21:00 jacksonfu 2020-07-25 12:33:00
 辽宁新增1例本土确诊
 
 #p 22830457 hbhzshengao 这个人学神经的 2020-07-22 21:25:15
@@ -267,7 +267,7 @@ wo……
 汪！
 #quote BiuBiuA
 
-#p 22838391 jacksonfu 超级蛋 2020-07-24 11:42:54
+#p 22838391 jacksonfu Jackson Fu 2020-07-24 11:42:54
 哎 我大连的 很多地方都封了 据说明日起封城 不知道真假！
 #quote hbhzshengao
 
@@ -279,11 +279,22 @@ wo……
 还挺说吉林也有。。。？
 #quote jacksonfu
 
-#p 22843414 jacksonfu 超级蛋 2020-07-24 21:59:52
+#p 22843414 jacksonfu Jackson Fu 2020-07-24 21:59:52
 没有吧 是省内的鞍山 大大在吉林呢。。。
 #quote NoSurpries
 
 #p 22843702 Richer Richer 2020-07-24 23:27:10
 黑龙江刚新增2例无症状
 #quote hbhzshengao
+
+#p 22846214 DanCruise 武汉站东广场 2020-07-25 12:30:51
+吉林4个无症状 大连输入的
+#quote jacksonfu
+
+#p 22846224 jacksonfu Jackson Fu 2020-07-25 12:32:37
+我也看到了 今天早晨报道了 
+大连开发区那家海鲜公司 做的挺大的
+不光海鲜 冷链的很多东西都有在做
+所以 未来几日 大连周边 甚至跨省的很多地方 可能确诊和无症状数量会激增
+#quote DanCruise
 
