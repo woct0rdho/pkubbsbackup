@@ -1,4 +1,4 @@
-#t 35 16264150 hiaoxui 2017-11-10 00:00:00 hiaoxui 2020-07-24 00:10:00
+#t 35 16264150 hiaoxui 2017-11-10 00:00:00 PKUHSCer 2020-07-25 00:22:00
 科学上网
 
 #p 17134091 hiaoxui 小辉 2020-07-23 10:32:23
@@ -3018,5 +3018,9 @@ level=warning msg="dial DIRECT error: dial tcp4 172.*****:443: i/o timeout"
 
 #p 22837834 hiaoxui 小辉 2020-07-24 10:05:13
 up
+#quote hiaoxui
+
+#p 22847994 PKUHSCer Hi 2020-07-25 22:03:06
+太棒了，感谢楼主。已经申请~
 #quote hiaoxui
 
