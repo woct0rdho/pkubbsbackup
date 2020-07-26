@@ -1,4 +1,4 @@
-#t 668 17742354 Yuppy 2020-07-26 00:01:00 KudoShinichi 2020-07-26 12:06:00
+#t 668 17742354 Yuppy 2020-07-26 00:01:00 xelmirage 2020-07-27 00:48:00
 求问学校有购买教育机构版biorender的可能么？
 
 #p 22848435 Yuppy 今天的实验成功了么 2020-07-26 01:17:55
@@ -15,4 +15,8 @@
 #p 22849762 KudoShinichi 工藤新一 2020-07-26 12:05:52
 用过，感觉这个工具有点小众，适合院系买不适合学校买。学校还是应该关注archgis等地信软件、comsol等有限元软件、fluent等cfd软件、solidworks等cad软件、mathematica等数软、altium/multisim等eda与电路软件、materialstudio等材料模拟软件、gaussian等分子模拟软件等等等。这类软件价格昂贵，体量大，涉及校内不同学科和课程使用，具有较高的紧迫性。
 #quote Yuppy
+
+#p 22852178 xelmirage 糊你一脸 2020-07-27 00:47:45
+arcgis这种反人类又有优秀的开源替代品的软件不买也罢，不如省点钱升级一下vpn那些个土豆服务器
+#quote KudoShinichi
 
