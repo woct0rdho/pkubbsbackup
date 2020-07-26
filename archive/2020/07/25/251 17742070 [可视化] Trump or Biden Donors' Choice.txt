@@ -1,4 +1,4 @@
-#t 251 17742070 nietsnie 2020-07-25 00:15:00 hfeoq 2020-07-26 06:03:00
+#t 251 17742070 nietsnie 2020-07-25 00:15:00 pada 2020-07-26 09:38:00
 [可视化] Trump or Biden Donors' Choice
 
 #p 22846848 nietsnie 嗯，我是一个昵称 2020-07-25 15:31:19
@@ -20,5 +20,13 @@ nice data
 懂皇donor情况最乐观的地方是The Villages, FL，是一个佛州的退休社区，看来老年人不好忽悠，而且有钱有选票有时间在大选中果然比年轻人重要啊，看这个形势感觉至少FL还红的很，但是白等在锈带摇摆州还是很有希望的，那天看了另外一个媒体的也说白等在PA，WI，MI的小额捐款人数上比希婆做的好得多
 推荐另外一个我喜欢的NYT的数据分析，关于CDC汇报的新冠死亡人数和全国总体死亡人数的对比
 [https://www.nytimes.com/interactive/2020/05/05/us/coronavirus-death-toll-us.html](jump-to.php?url=https%3A%2F%2Fwww.nytimes.com%2Finteractive%2F2020%2F05%2F05%2Fus%2Fcoronavirus-death-toll-us.html)
+#quote nietsnie
+
+#p 22848758 nietsnie 嗯，我是一个昵称 2020-07-26 09:19:34
+也不一定，因为乡村在这个图上有面积上的优势，所以填色图会给人一种农村包围城市的错觉，但是其实城市的人口密度要远大于乡村。最终还是看各州的数字更靠谱，这个图只是分布上更加的直观。
+#quote hfeoq
+
+#p 22848836 pada 十二时辰 2020-07-26 09:37:24
+re
 #quote nietsnie
 
