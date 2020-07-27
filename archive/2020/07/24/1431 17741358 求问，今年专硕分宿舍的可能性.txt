@@ -1,4 +1,4 @@
-#t 1431 17741358 idolt 2020-07-24 00:09:00 Sautwhite 2020-07-27 14:57:00
+#t 1431 17741358 idolt 2020-07-24 00:09:00 bluestar 2020-07-27 16:56:00
 求问，今年专硕分宿舍的可能性
 
 #p 22837550 idolt 11111 2020-07-25 18:17:23
@@ -372,5 +372,16 @@ re
 
 #p 22855407 Sautwhite SAUL 2020-07-27 14:56:55
 新生填报迎新系统的时候。。。因为是专硕所以直接“不需要”填报宿舍申请
+#quote idolt
+
+#p 22855898 bluestar bluestar 2020-07-27 16:55:57
+补充一点数据：
+北大2019年毕业生中，博士1352人，硕士3730人；（不太确定毕业数据是否含深研院）
+2020年计划招生人数中，博士生1894人，硕士生3164人（含深研院）
+考虑到博士生2-3人间，硕士生4人间，以及读博时间更长，即使不考虑疫情可能导致的扩招，宿舍越来愈紧张也是不可避免的，也许“无能力提供专硕宿舍”的闸刀确实就落到2020级了呢。（照这趋势未来“学硕不保证提供宿舍”也未必不可能）
+数据来源：
+[https://scc.pku.edu.cn/news_ff8080816f1344ed016f5ad550f42a4c_1.html](jump-to.php?url=https%3A%2F%2Fscc.pku.edu.cn%2Fnews_ff8080816f1344ed016f5ad550f42a4c_1.html)
+[https://admission.pku.edu.cn/zsxx/sszs/zyml/index.htm](jump-to.php?url=https%3A%2F%2Fadmission.pku.edu.cn%2Fzsxx%2Fsszs%2Fzyml%2Findex.htm)
+[https://admission.pku.edu.cn/zsxx/bszs/bszyml/index.htm](jump-to.php?url=https%3A%2F%2Fadmission.pku.edu.cn%2Fzsxx%2Fbszs%2Fbszyml%2Findex.htm)
 #quote idolt
 
