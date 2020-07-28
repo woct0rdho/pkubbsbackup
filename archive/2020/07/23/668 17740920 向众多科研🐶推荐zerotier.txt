@@ -1,4 +1,4 @@
-#t 668 17740920 Rainshaw 2020-07-23 00:15:00 YiMengI 2020-07-28 10:38:00
+#t 668 17740920 Rainshaw 2020-07-23 00:15:00 cursebreaker 2020-07-28 12:53:00
 向众多科研🐶推荐zerotier
 
 #p 22833252 Rainshaw 傻白甜 2020-07-23 15:44:34
@@ -30,6 +30,11 @@ zerotier是一个异地组网的方案，各个平台都有客户端，使用udp
 #quote Rainshaw
 
 #p 22858936 YiMengI 梦梦 2020-07-28 10:37:54
+#DELETED
 [https://7sucloud.vip/auth/register?code=zsGf](jump-to.php?url=https%3A%2F%2F7sucloud.vip%2Fauth%2Fregister%3Fcode%3DzsGf)   我用了半年速度快而稳定
+#quote Rainshaw
+
+#p 22859681 cursebreaker Cascadia 2020-07-28 12:52:31
+俄罗斯程序员是世界之光！
 #quote Rainshaw
 
