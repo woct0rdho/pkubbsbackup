@@ -1,0 +1,143 @@
+#t 72 17744844 jiamingpku 2020-07-29 19:33:00 jiamingpku 2020-07-29 19:33:00
+【FinTech社区】39元5天量化体验营第二期(转载)
+
+#p 22867506 jiamingpku jiamingpku 2020-07-29 19:32:22
+[原文由 purealpha 发表在 PKU_SCC 版 &gt;&gt;&gt;](post-read.php?bid=625&amp;threadid=17744844)
+39元给自己一次突破瓶颈的机会！
+hello大家好，我是Lucy，FinTech社区创始人。FinTech社区是一个拥有50,000+会员的金融科技社群，旨在为金融科技行业赋能，致力于金融科技行业资源共享社群。我曾任职美国顶尖对冲基金akuna capital, 独自组建一支45人交易团队。
+前几天和一位技术前辈聊了很久，内容关乎赚钱和职业选择。其中很多话对我启发非常大，复述一下：
+1. 本质上做技术的都是手艺人，但代码不会传承，代码只会更新—程序员都是不吃老本的手艺人。
+2. 程序员的收入相对可观，但把「月薪」变成「时薪」，你会发现所谓赚得多其实是个笑话。这行吃的是青春饭，30岁后的一段日子里，从业者就能感受到了前所未有的压力。
+3. 我们对新事物的接受程度高，更容易抓住新物种的早期红利；我们「执行力」比普通人强，而执行力在投资中太重要了；
+4. 最好的理财方式，是构建一个「赚钱系统」。搭建好框架后，我们只需花少量的时间做后期维护。这个系统会源源不断地赚取「睡后收入」。
+<img src="https://media.licdn.cn/dms/image/C5612AQFd8ulfapmlUQ/article-inline_image-shrink_1000_1488/0?e=1600905600&amp;v=beta&amp;t=GVPhc7DkO_0YME3i-Fp308_wI5yHLyyEhvGWQdQchZE"/>
+回到现实中，回到不确定的2020年，也让我们开始面临生活中落的不确定性。
+有人说，还好我有存款。
+但事实上不提通货膨胀，单单就每天的油米柴盐就总让你不经意地把钱花出去。
+还有人说，还好我在国企工作。
+你可以猜猜今天一家公司有多短命？
+有一个报告显示，中国的中小企业平均寿命是2.97年。中关村，他们企业的平均寿命是0.9年。世界五百强呢，命会长一点，将近35年。
+还有人说，我做IT工资高。
+但现实却是到了30岁，你永远加班不过刚毕业的年轻人。
+真的是靠山山倒,靠水水流。
+所以只能靠自己。
+当你有属于自己的护城河，有自己的赚钱系统时，只需花少量的时间做后期维护，就能让自己不掉队，甚至领先一步。
+那普通人如何打造这样的「赚钱系统」，为自己的职业和生活赋能焕发第二春呢？
+这里就要给大家科普现在最赚钱的行业：量化交易。
+1. 2008年金融危机，他们却狂赚10亿
+2008年11月，在金融危机的凄风苦雨中，一场听证会在美国众议院召开，五个西装革履的金融大鳄毕恭毕敬，接受政客们的轮番质询。
+这5个人都是美国顶级对冲基金的掌门人，从左到右分别是：
+1. 量子基金的乔治·索罗斯(George Soros)
+2. 文艺复兴的詹姆斯·西蒙斯(James Simons)
+3. 保尔森基金的约翰·保尔森(John Paulson)
+4. 先驱资本的菲利普·法尔科(Philip Falcone)
+5. 城堡投资的肯·格里芬(Ken Griffin)。
+<img src="https://media.licdn.cn/dms/image/C5612AQG9u5U6BXp06Q/article-inline_image-shrink_1000_1488/0?e=1600905600&amp;v=beta&amp;t=LGi2FQDbW-VfXacNp_R7ivdtGfO5bo797hLu6neCXOU"/>
+五个人的共同点是都在金融危机里赚了超过10亿美元。
+十二年过去了，这5位金融大鳄仍然活跃在投资一线。
+并且在2020年这次新冠危机中，他们业绩却有了明显的分化：
+1. 投资亏损
+索罗斯、保尔森和法尔科均遭受了不同程度的损失；
+2. 高达 29% 的回报
+但西蒙斯的旗舰基金Medallion今年回报高达29%，而格里芬的旗舰基金Wellington也基本没有亏损，顺利躲过股灾。
+为什么都是顶级对冲基金掌门人，今年的投资回报却表现截然不同？
+因为索罗斯、保尔森和法尔科均是擅长主动投资。
+而西蒙斯和格里芬则都是从事量化投资。
+在动荡的市场环境下，这是他们业绩分野的重要原因。
+与主动投资策略不同，量化交易策略（Quantitative Trading Strategies）不依赖于个人判断，而是通过复杂的数学模型来预测投资标的未来价格。
+经过30多年的发展，量化基金已经逐渐跻身到美国投资市场的主流，而顶尖的量化机构，也都形成了自己鲜明的特色。
+顶级大佬靠着量化交易，狂赚10亿美元，躲过一次又一次的全球危机。
+而量化交易同样适合我们普通人，来打造这样的赚钱系统。
+2. 量化交易：金融领域最火的职业之一
+<img src="https://media.licdn.cn/dms/image/C5612AQHZOpB6eCt62Q/article-inline_image-shrink_1000_1488/0?e=1600905600&amp;v=beta&amp;t=RQw5wza5VzMGdp1LOmd2yG3oREEFDjMJ1k-Xade2MLk"/>
+你想同时交易 1000 支股票吗？
+量化交易就是帮助你利用各种计算机数学模型交易上千只股票。
+简单的说：写程序帮你做投资决定。
+专业的说：量化交易是指通过数量化方式及计算机程序化发出买卖指令，以获取稳定收益为目的的交易方式。
+业界流传在金融都市纽约，“码农”（Software Engineer）只能算是二等公民，而“矿工“（Quant）才是宇宙的中心。
+作为金融，数学，和编程的交叉学科，量化交易无疑是现下金融领域最火的职业之一。
+机构早些年都是人工选择股，但人的精力毕竟有限，3000多只股票，靠人根本盯不过来，而且，是人都有情绪，大跌时候不敢买，涨的时候舍不得卖，恐惧、贪婪这些人性的弱点，往往让交易者错过最佳的买卖点。
+所以大部分机构现在都启用计算机替代人工，用Python写好策略后辅助交易，只要策略牛逼，躺赚功力大为增长。
+<img src="https://media.licdn.cn/dms/image/C5612AQHSYlNSgFrkJQ/article-inline_image-shrink_1000_1488/0?e=1600905600&amp;v=beta&amp;t=5C51_xpERT9cTvUAIkRox6b1JC2NbNmVcqJTjvVuqPk"/>
+全球TOP投行高盛3.6万员工，当前已经有9000是程序员。即便传统交易员，也越来越多使用程序辅助交易。
+量化交易报酬方面非常具有吸引力，上海量化研究员的工资收入水平，平均月收入达到了2.5万。
+<img src="https://media.licdn.cn/dms/image/C5612AQGk9eRzcaYp0A/article-inline_image-shrink_1000_1488/0?e=1600905600&amp;v=beta&amp;t=XqUFRfKtpPA51KY525lRC1ETOy6eHvQnul0uvSsiGEI"/>
+而国内的量化浪潮是从 2010 年 3 月说起，国内大佬开始群雄逐鹿，巅峰时期规模过百亿。
+国内量化交易早期时期，市场上流传着无数传说：
+1. 刚毕业的大学生写出的量化模型，3年能赚5000倍；
+2. 基金经理死活不肯对外募资，生怕泄露了自己的惊人业绩；
+3. 看开盘前30分钟股指走势，涨就买，跌就卖，收益照样可观……
+这样简单追涨杀跌的策略能够横行，本质在于相信价格的上涨和下跌具有持续性，这在海外已经被总结为动量策略。
+但国内量化刚刚起步，大多数人还不懂如何运用，这就给真正懂行的人带来了机会。
+随着越来越多的投资者和企业对量化投资产生兴趣，市场对于量化交易员的需求越来越旺盛。
+3. 如何学习量化交易
+世界在发展，如果不懂互联网，就等于被时代抛弃。
+不管你是程序员想转行，还是学生想入门互联网。
+你或许也想谋求一份量化交易相关的工作，但又觉得量化交易很神秘，不知道从何学起。
+首先我们一定要知道做量化投资的两个基础：
+1. Python 基础
+2. 金融知识基础
+你的基础知识掌握多少，决定了你未来在编程行业的高度。
+那没有这两个基础的同学如何入门量化投资？
+这里就给大家推荐 FinTech 社区出品的【5天量化有道体验营】，5天带你从0到1入门量化交易。
+<img src="https://media.licdn.cn/dms/image/C5612AQF5truwok7lHw/article-inline_image-shrink_1000_1488/0?e=1600905600&amp;v=beta&amp;t=3VgZDmp1dFm6M8popwOuq_gw7nWxQiQsV4QywoSBdX4"/>
+FinTech社区是一个拥有50,000+会员的金融科技社群，社区宗旨只有一个：助力你百万年薪。
+仅需一杯星巴克的价格，即可获得：
+名师授课，系统学习量化投资入门知识和理论
+实战训练，完整的量化策略研发流程和基本技能
+实战应用策略讲解，掌握程序化交易真谛
+该体验营适合人群：
+无任何基础，但希望系统学习投资知识的人士
+有 IT 基础的金融人员
+IT、金融相关专业的学生
+投资者
+交易员
+风控员
+<img src="https://media.licdn.cn/dms/image/C5612AQGUHS3T8KXRyw/article-inline_image-shrink_1000_1488/0?e=1600905600&amp;v=beta&amp;t=cREUAcd3r2dDdP-yOw_x5AochBNUbC7cb8WoiAVA7GM"/>
+1. 帮助大家系统的学习量化投资入门知识和理论
+2. 教会大家完整的量化策略研发流程和基本技能
+3. 实战应用的策略讲解，真正掌握程序化交易真谛
+4. 实时点评市场热点事件，增强市场敏感度
+该体验营的特色是什么？
+No.1 国内顶尖实战导师授课：
+主讲人Frank
+6年量化交易从业者
+CFA FRM持证人
+哥伦比亚大学硕士
+华尔街、芝加哥顶尖量化交易公司从业经历
+国内衍生品金融机构总经理
+No.2 专业导师+教研团队设计体系化课程：
+第一天视频课:《为什么要学习量化投资交易》
+第二天视频课:《量化投资策略都有哪些分类》
+第三天视频课:《如何研发一个新的量化策略》
+第四天视频课: 《如何评价一个量化策略》
+第五天视频课:《如何系统的学习量化交易》
+No.3 360°教学服务让你更轻松：
+课程作业+专业点评
+助教24小时答疑+督学
+高质量学习社群，结识更多优秀人才
+线上学习，时间自由
+在上周的第一期体验营中，社群的氛围非常的好，大家一起准时上课的学习氛
+<img src="https://media.licdn.cn/dms/image/C5612AQGAhcD9dF5LoA/article-inline_image-shrink_1500_2232/0?e=1600905600&amp;v=beta&amp;t=4SGIlNC2UmgG-m4Q0mBngYqqB_4lhbmRacSfi-hAdKw"/>
+（体验营超好的学习气氛）
+体验营只有线上学习课程吗？当然不是！
+体验营开营活动上, 我们会让每个学员都准备一份自我介绍, 按照如下格式进行自我介绍。
+<img src="https://media.licdn.cn/dms/image/C5612AQFc9np5YuO0dg/article-inline_image-shrink_1000_1488/0?e=1600905600&amp;v=beta&amp;t=xdHxAIC4gExsq4f-pLfvixT3pB_gkx00Dkdm376EdOE"/>
+有公司CEO、海外留学生、国内大厂程序员等等，一群非常优秀的学员。
+<img src="https://media.licdn.cn/dms/image/C5612AQHg8JHx1yI6MQ/article-inline_image-shrink_1500_2232/0?e=1600905600&amp;v=beta&amp;t=k_Z7VlD9Y9PFaL8PIB4J9AskRCezRTxq_K40M8G4a7M"/>
+（学员相互自我介绍）
+我们FinTech社区想帮助每一个报名这次课程的人认识另外500位同样报名的人, 对量化交易有兴趣, 希望通过量化交易赚钱的人, 大家一起量化有道!
+最重要的是该训练营的价格仅需 39 元，一杯咖啡钱换来量化投资入门知识。
+扫描下方二维码即可购买进入训练营
+<img src="https://media.licdn.cn/dms/image/C5612AQHjJzUntE7klA/article-inline_image-shrink_1500_2232/0?e=1600905600&amp;v=beta&amp;t=WR705h-kasvgTYE7A5P6ei2m6j-BB-Yio5WLKk7vsLY"/>
+福利时间!
+前 100 名粉丝专享价 39 元
+不到一杯咖啡的价格
+争取一个未来的可能
+扫码即刻获得
+👇👇👇 
+<img src="https://media.licdn.cn/dms/image/C5612AQGeTbXBptDsuw/article-inline_image-shrink_1000_1488/0?e=1600905600&amp;v=beta&amp;t=aWxwFaqT3iamxxoh3D_iwrKLE61aiDiB2Bm424opZkU"/>
+39元给自己一次突破瓶颈的机会！
+**链接也可报名：[https://appyrtrgrqi4458.h5.xiaoeknow.com/v1/course/column/p_5ef8a34a0618a_EVJhjSzZ?type=3](jump-to.php?url=https%3A%2F%2Fappyrtrgrqi4458.h5.xiaoeknow.com%2Fv1%2Fcourse%2Fcolumn%2Fp_5ef8a34a0618a_EVJhjSzZ%3Ftype%3D3)**
+**微信：fintech12**
+
