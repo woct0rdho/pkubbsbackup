@@ -1,4 +1,4 @@
-#t 1431 17740698 ForestMilan 2020-07-23 00:10:00 justtheway 2020-07-29 12:23:00
+#t 1431 17740698 ForestMilan 2020-07-23 00:10:00 Kittyhy 2020-07-29 13:30:00
 空调一天十度电正常吗？
 
 #p 22831955 ForestMilan He's young but daily bigger. 2020-07-23 10:28:16
@@ -124,4 +124,8 @@
 #p 22865525 justtheway way 2020-07-29 12:22:40
 我有问过，据说一小时一度电是正常情况
 #quote Kittyhy
+
+#p 22865865 Kittyhy 甜甜爱夸夸 2020-07-29 13:29:48
+但其实我们宿舍经常一天二十四小时都开着空调
+#quote justtheway
 
