@@ -1,6 +1,12 @@
-#t 35 17745638 RDD 2020-07-30 20:09:00 RDD 2020-07-30 20:09:00
+#t 35 17745638 RDD 2020-07-30 00:20:00 bjchong 2020-07-30 22:33:00
 win10自带的VPN设置如何登陆北大VPN啊
 
 #p 22872378 RDD 前头捉了张 2020-07-30 20:08:45
 如题，用pulse客户端有时会一直登不上去，用win10自带的VPN设置显示无法正常链接到服务器，求问大佬
+
+#p 22873060 bjchong ZBAA | ZBAD 2020-07-30 22:32:06
+因协议不支持，系统自带的连接方式无法使用。
+Pulse客户端时好时坏可能是当前链路质量问题，可考虑在登不上去时更换服务器地址（参阅网页[https://its.pku.edu.cn/service_1_vpn_client.jsp](jump-to.php?url=https%3A%2F%2Fits.pku.edu.cn%2Fservice_1_vpn_client.jsp)第2条内容）。
+如对Pulse客户端稳定性存疑，也可尝试使用OpenConnect，详情参阅本版相关置底/置顶帖。
+#quote RDD
 
