@@ -1,0 +1,22 @@
+#t 668 17745234 yzs 2020-07-30 11:00:00 yzs 2020-07-30 11:00:00
+快速入校（非物理）方式讨论
+
+#p 22870138 yzs 江户川闰土 2020-07-30 10:59:48
+由于访问校内服务器以及路由需求，需要**高带宽低延迟**入校（非物理）或接入CERNET/CERNET2骨干网，这几个月尝试了计算中心老师和自行搭建解决方案，包括：UDP VPN/frp/zeroTier/ngrok/pulse secure/vpns/wpn/ipv6，从链路按推荐优先级次序简要分析优缺点如下：
+1. TCP直连
+显而易见，在家用ISP的场景下，TCP不受UDP qos限制速度当然是最快的。向地方运营商投诉UDP qos的问题几乎也是徒劳。如果地方运营商提供了ipv6的接入与到CERNET2的peer或能够接入CERNET2（包括但不限于人肉到家附近大学隔壁蹭网蹭eduroam），强烈推荐ipv6 TCP入校。实测带宽跑满延迟较低且不占用学校vpn资源。
+就是从商业网络接入CERNET2，在刚到CERNET2的时候会在CERNET2里面有五跳，会多个大概30ms的延迟，咨询了CERNET回复是建设要求，不知道计算中心老师能否有条件针对这个优化一下呢？
+2. UDP直连
+目前仍然可以UDP直连入校，强烈大家使用ZeroTier，安装配置简单，见 [https://bbs.pku.edu.cn/v2/post-read.php?bid=668&amp;threadid=17740920](post-read.php?bid=668&amp;threadid=17740920) ，抓包可以发现能打完洞之后udp直连；也可以使用UDP VPN，效果类似。缺点是可能受到ISP的qos，我这边实测延迟正常，带宽10Mbps左右。
+3. 计算中心VPN
+计算中心老师为我们提供了丰富的入校VPN服务，十分感谢计算中心老师这几个月提供了这些网络服务并积极在bbs与邮箱回复问题。vpn在its首页可以直接进入，想必大家也很熟悉第一个“VPN服务”也就是pulse secure的VPN。
+着重介绍今年新推出的vpns VPN。相比pulse secure的SSL VPN，vpns支持根据目的IP的路由分流，从而大幅提高本地网络访问速度，并且实测可以修改路由表实现路由（bug还是feature咱也不知道，深信服的锅），从而极大方便本地多vpn的用户。唯一缺点是我就是特别慢我也不知道为什么我明明已经很努力了啊，大概几百KB吧，rdp永远不满格的那种，但是ssh够用了，而且很爽。真的比pulse secure爽很多。（但是可能不是很适合入校为了访问学术资源的同学）
+4. TCP打洞/中转
+对于大部分人来说两边都是NAT，传统的frp/ngrok等打洞中转类应用也可以用来入校，需要公网服务器作为中间人，这个对于普通同学来说算是最麻烦的一种方式了，而且带宽和延迟都受限于&lt;del&gt;钱&lt;/del&gt;服务器网络质量。不推荐
+<font color="#c00000">**总结：**</font>
+如果本地运营商有ipv6接入或者可以接入CERNET/CERNET2，务必使用ipv6直连；
+如果没有条件，请使用ZeroTier；[https://bbs.pku.edu.cn/v2/post-read.php?bid=668&amp;threadid=17740920](post-read.php?bid=668&amp;threadid=17740920)
+如果ZeroTier不会配置或者有问题，请使用vpns，[https://vpns.pku.edu.cn/portal/#!/login](jump-to.php?url=https%3A%2F%2Fvpns.pku.edu.cn%2Fportal%2F%23%21%2Flogin)
+感谢计算中心老师的辛勤工作！除了1中优化能否实现之外，能否考虑优化扩容vpns？
+也欢迎大家跟帖讨论其他更好的方式或者解决方案！
+
