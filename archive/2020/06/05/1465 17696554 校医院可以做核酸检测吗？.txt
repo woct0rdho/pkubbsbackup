@@ -1,4 +1,4 @@
-#t 1465 17696554 Hoper 2020-06-05 00:08:00 clp 2020-07-30 16:06:00
+#t 1465 17696554 Hoper 2020-06-05 00:08:00 press 2020-07-31 23:24:00
 校医院可以做核酸检测吗？
 
 #p 22537794 Hoper Hoper 2020-06-05 08:32:28
@@ -33,4 +33,16 @@ RT，校医院电话一直没打通，学工老师模糊回答说“好像可以
 #p 22871592 clp 小熊的白巧克力 2020-07-30 16:05:18
 好的，多谢
 #quote Evangelist
+
+#p 22880125 Hoper Hoper 2020-07-31 23:16:55
+我当时是电话预约的。现在似乎可以在校医院公众号上预约挂号了？
+#quote clp
+
+#p 22880139 press press 2020-07-31 23:22:39
+一个月前就可以了
+#quote Hoper
+
+#p 22880141 press press 2020-07-31 23:23:23
+[https://bbs.pku.edu.cn/v2/post-read.php?bid=351&amp;threadid=17717386](post-read.php?bid=351&amp;threadid=17717386)
+#quote Hoper
 
