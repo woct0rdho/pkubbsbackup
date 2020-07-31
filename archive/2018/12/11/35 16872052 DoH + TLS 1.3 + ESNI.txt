@@ -1,0 +1,16 @@
+#t 35 16872052 miracle 2018-12-11 00:00:00 vimacs 2020-07-31 12:55:00
+DoH + TLS 1.3 + ESNI
+
+#p 19210336 miracle  2018-12-11 13:25:55
+DoH和TLS 1.3已经被IETF标准化，ESNI还在草稿阶段，假如都标准化且广泛应用后，是否会只剩下block目的地IP这一种方法？假如是，在使用CDN的情况下，能否使之变得不可行？
+
+#p 19340600 yuguorui yuguorui 2018-12-29 18:52:56
+我觉得再加上Websocket的情况下就基本不可能了吧。
+#quote miracle
+
+#p 22874851 vimacs Lisp Interaction Paredit AC 2020-07-31 12:54:48
+在某些网友的提醒下，我今天尝试用ESNI访问matrix.org，结果在TLS握手阶段就挂了。
+所以在现阶段，想封ESNI，只要检测到是ESNI的请求，直接封掉就行了。
+至于什么时候ESNI广泛应用，并且到那时候ISP还会不会封ESNI，这点我预测不了。
+#quote miracle
+
