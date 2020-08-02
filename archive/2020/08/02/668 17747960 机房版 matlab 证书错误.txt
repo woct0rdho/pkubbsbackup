@@ -1,0 +1,18 @@
+#t 668 17747960 RyanBern 2020-08-02 09:29:00 zhaojingyi 2020-08-02 10:00:00
+机房版 matlab 证书错误
+
+#p 22885193 RyanBern r.bern 2020-08-02 09:29:54
+
+
+2020-08-02 09:29:37
+今日凌晨左右机房版的 matlab 突然无法打开，显示如下报错信息。测试了几台不同位置的校内的机器似乎都是这样，麻烦老师帮忙看下是否是校内激活服务器出现了什么问题？
+License checkout failed.License Manager Error -97License Manager cannot start. Check that the ports specified in the license file are not already in use. Restarting your machine may clear the ports.Troubleshoot this issue by visiting: https://www.mathworks.com/support/lme/R2020a/97Diagnostic Information:Feature: MATLAB License path: /public/home/user/.matlab/R2020a_licenses:/public/software/matlab/r2020a/licenses/license.dat:/public/software/matlab/r2020a/licenses/network.lic Licensing error: -97,121.
+
+#p 22885262 PKUCC 北京大学计算中心 2020-08-02 09:44:36
+我们将核查您提到的问题
+#quote RyanBern
+
+#p 22885343 zhaojingyi 无妄 2020-08-02 10:00:34
+同样的问题
+#quote RyanBern
+
