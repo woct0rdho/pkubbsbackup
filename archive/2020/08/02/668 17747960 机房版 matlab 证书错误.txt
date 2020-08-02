@@ -1,4 +1,4 @@
-#t 668 17747960 RyanBern 2020-08-02 09:30:00 zhaojingyi 2020-08-02 10:01:00
+#t 668 17747960 RyanBern 2020-08-02 00:09:00 PKUCC 2020-08-02 11:56:00
 机房版 matlab 证书错误
 
 #p 22885193 RyanBern r.bern 2020-08-02 09:29:54
@@ -14,5 +14,9 @@ License checkout failed.License Manager Error -97License Manager cannot start. C
 
 #p 22885343 zhaojingyi 无妄 2020-08-02 10:00:34
 同样的问题
+#quote RyanBern
+
+#p 22886010 PKUCC 北京大学计算中心 2020-08-02 11:55:35
+目前测试已经没问题了
 #quote RyanBern
 
