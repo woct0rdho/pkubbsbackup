@@ -1,4 +1,4 @@
-#t 668 17749669 xelmirage 2020-08-03 20:43:00 chinatown 2020-08-03 20:56:00
+#t 668 17749669 xelmirage 2020-08-03 20:43:00 PKUCC 2020-08-03 21:41:00
 要不20级新生入学就直接给alumni邮箱得了
 
 #p 22896257 xelmirage 糊你一脸 2020-08-03 20:42:59
@@ -11,5 +11,26 @@
 #p 22896335 chinatown cherish 2020-08-03 20:55:33
 虽然这个办法感觉就很无奈......
 或者如果不能设置alumni自动接收stu的邮件的话...能不能让alumni作为stu的一个别名存在，在校期间发到XXXX@stu.pku.edu.cn和发到XXXX@alumni.pku.edu.cn是一样的，这样至少可以留alumni邮箱作为长期联系方式......
+#quote xelmirage
+
+#p 22896562 wuzhongda 奔跑的粽子 2020-08-03 21:25:25
+完全同意，烦请PKUCC考虑～
+#quote xelmirage
+
+#p 22896569 substract 撤回了一条消息 2020-08-03 21:26:25
+那也可以一直用stu啊
+#quote xelmirage
+
+#p 22896603 xelmirage 糊你一脸 2020-08-03 21:29:40
+#DELETED
+stu毕业之后迁移到alumni，原有stu地址无法收信
+#quote substract
+
+#p 22896631 xelmirage 糊你一脸 2020-08-03 21:32:25
+很显然相比让毕业生继续用stu，让在校生提前用alumni不会改变最终的状态，就冲着计算中心那抠抠搜搜的劲也更好接受些
+#quote substract
+
+#p 22896705 PKUCC 北京大学计算中心 2020-08-03 21:40:22
+stu和alumni的区别在于身份不同：一个是在校生邮箱，一个是校友邮箱，不是简单的换个后缀的问题呀。
 #quote xelmirage
 
