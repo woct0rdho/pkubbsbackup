@@ -1,4 +1,4 @@
-#t 1431 17748270 Logerio 2020-08-02 00:14:00 fengcai 2020-08-03 16:24:00
+#t 1431 17748270 Logerio 2020-08-02 00:14:00 lllcheer 2020-08-03 00:14:00
 求和清华同学调换宿舍
 
 #p 22886834 Logerio 路灯 2020-08-02 14:56:08
@@ -187,6 +187,7 @@ interesting...
 #quote lllcheer
 
 #p 22894829 fengcai russel 2020-08-03 16:23:11
+#DELETED
 同围观，太涨知识了，嘿嘿
 #quote jtbbtj
 
