@@ -1,4 +1,4 @@
-#t 72 17748668 Baandarin 2020-08-02 00:22:00 jacksonfu 2020-08-03 15:59:00
+#t 72 17748668 Baandarin 2020-08-02 00:22:00 Kurapica 2020-08-03 16:59:00
 我国科学家证明P=NP
 
 #p 22890971 Baandarin 板子 2020-08-02 22:47:31
@@ -24,5 +24,23 @@ Ccf风评被害
 
 #p 22894717 jacksonfu Economics99丨超级蛋 2020-08-03 15:58:33
 我就看看 2333
+#quote Baandarin
+
+#p 22894895 zasxyj 我人非圣人 2020-08-03 16:32:20
+这...应该确实是突破吧
+#quote Baandarin
+
+#p 22894937 Baandarin 板子 2020-08-03 16:38:12
+这...
+你应该再去了解一下这个问题的难度和意义
+#quote zasxyj
+
+#p 22895052 silicona silicona 2020-08-03 16:57:13
+诶求信科同学科普一下为什么这个问题不是个问题呢。。
+#quote Baandarin
+
+#p 22895064 Kurapica 库卡 2020-08-03 16:58:39
+我了解，但是为什么是Joke呢
+同行评议失败了？
 #quote Baandarin
 
