@@ -1,4 +1,4 @@
-#t 668 17749597 yaosibutuoqi 2020-08-03 19:33:00 yaosibutuoqi 2020-08-03 19:43:00
+#t 668 17749597 yaosibutuoqi 2020-08-03 00:19:00 Protestant 2020-08-03 20:34:00
 求助：pku邮箱里面的邮件怎么全部导入到另一个邮箱
 
 #p 22895897 yaosibutuoqi leowang 2020-08-03 19:32:12
@@ -11,4 +11,18 @@
 #p 22895956 yaosibutuoqi leowang 2020-08-03 19:42:04
 谢谢，我尝试一下
 #quote Rainshaw
+
+#p 22896102 yaosibutuoqi leowang 2020-08-03 20:16:40
+但是我已发送的邮件，好像转不了？
+#quote Rainshaw
+
+#p 22896124 Rainshaw 傻白甜 2020-08-03 20:20:11
+不清楚你用的哪个邮箱
+我用的outlook是可以收取已发送邮箱的
+#quote yaosibutuoqi
+
+#p 22896202 Protestant LittleTiger 2020-08-03 20:33:48
+可以把发件箱的邮件  移动到 收件箱后 
+然后再用新邮箱通过POP3或IMAP收取原邮箱所有的邮件
+#quote yaosibutuoqi
 
