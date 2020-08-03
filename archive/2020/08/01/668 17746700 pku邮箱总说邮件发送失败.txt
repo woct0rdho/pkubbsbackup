@@ -1,4 +1,4 @@
-#t 668 17746700 KakaHiguain 2020-08-01 00:13:00 KakaHiguain 2020-08-03 12:57:00
+#t 668 17746700 KakaHiguain 2020-08-01 00:13:00 PKUCC 2020-08-03 14:28:00
 pku邮箱总说邮件发送失败
 
 #p 22881739 KakaHiguain 北京今天解禁了吗 2020-08-01 13:43:27
@@ -20,4 +20,12 @@ pku邮箱总说邮件发送失败
 #p 22893698 KakaHiguain 北京今天解禁了吗 2020-08-03 12:56:49
 那我换其他邮箱好了O.O，最大同时发信数量是多少？
 #quote PKUCC
+
+#p 22894239 propagator 马甲 2020-08-03 14:26:16
+[https://bbs.pku.edu.cn/v2/post-read.php?bid=668&amp;threadid=17691607](post-read.php?bid=668&amp;threadid=17691607)
+#quote KakaHiguain
+
+#p 22894247 PKUCC 北京大学计算中心 2020-08-03 14:27:44
+如果是相似的邮件，不能超过40封。其他邮箱如果是发给PKU邮箱的，肯定比pku邮箱限制得严。
+#quote KakaHiguain
 
