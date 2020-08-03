@@ -1,4 +1,4 @@
-#t 72 17748668 Baandarin 2020-08-02 00:22:00 sixeyedfish 2020-08-03 21:58:00
+#t 72 17748668 Baandarin 2020-08-02 00:22:00 sixeyedfish 2020-08-03 22:07:00
 我国科学家证明P=NP
 
 #p 22890971 Baandarin 板子 2020-08-02 22:47:31
@@ -163,5 +163,16 @@ wwwwww
 #p 22896874 sixeyedfish  2020-08-03 21:57:11
 其实我在想，为什么从没有听说过哪个证明了P=NP的人把自己的算法实现出来，然后实际跑一跑，看看是不是表现出多项式标度
 难道和提出永动机的人从来不造永动机一样吗
+#quote Baandarin
+
+#p 22896917 Thesharing Thesharing 2020-08-03 22:02:19
+[https://www.zhihu.com/question/411543712/answer/1378895812](jump-to.php?url=https%3A%2F%2Fwww.zhihu.com%2Fquestion%2F411543712%2Fanswer%2F1378895812)
+#quote silicona
+
+#p 22896934 sixeyedfish  2020-08-03 22:06:57
+刚才找到了这个：A proof that P=NP is undecidable
+[https://www.win.tue.nl/~gwoegi/P-versus-NP/argall.txt](jump-to.php?url=https%3A%2F%2Fwww.win.tue.nl%2F%7Egwoegi%2FP-versus-NP%2Fargall.txt)
+还有这个P≠NP的证明：
+[http://www.cs.cornell.edu/hubes/pnp.htm](jump-to.php?url=http%3A%2F%2Fwww.cs.cornell.edu%2Fhubes%2Fpnp.htm)
 #quote Baandarin
 
