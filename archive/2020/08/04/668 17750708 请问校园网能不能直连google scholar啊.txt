@@ -1,4 +1,4 @@
-#t 668 17750708 hrcegg 2020-08-04 19:28:00 quicy 2020-08-04 19:55:00
+#t 668 17750708 hrcegg 2020-08-04 00:19:00 hrcegg 2020-08-04 20:48:00
 请问校园网能不能直连google scholar啊
 
 #p 22901150 hrcegg 孤独时代的弃儿 2020-08-04 19:27:47
@@ -31,10 +31,31 @@
 #quote wangpengfly
 
 #p 22901272 PKUCC 北京大学计算中心 2020-08-04 19:52:26
+#DELETED
 计算中心说过什么办法？好奇。
 #quote hrcegg
 
 #p 22901285 quicy Big Sur 2020-08-04 19:54:55
 那就是要配置一下分流规则，就是确认哪些网站是走梯子，哪些网站是走大门
 #quote hrcegg
+
+#p 22901319 hrcegg 孤独时代的弃儿 2020-08-04 20:04:56
+[https://bbs.pku.edu.cn/v2/post-read.php?bid=668&amp;threadid=17634979](post-read.php?bid=668&amp;threadid=17634979)
+这个帖子下面你们说要反映了呀~~~
+#quote PKUCC
+
+#p 22901353 Rhfj Rhfj 2020-08-04 20:15:19
+你要是cs的，直接上ieee和acm上直接搜。
+百度学术...
+#quote hrcegg
+
+#p 22901439 giaga giaga 2020-08-04 20:36:10
+梯子不都是使用gfwlist来进行自动切换的吗
+#quote hrcegg
+
+#p 22901478 hrcegg 孤独时代的弃儿 2020-08-04 20:47:23
+我买的这个应该是有 list的
+号称不翻墙的网站不废流量
+但是还是不太行 每次检测ip都不对
+#quote giaga
 

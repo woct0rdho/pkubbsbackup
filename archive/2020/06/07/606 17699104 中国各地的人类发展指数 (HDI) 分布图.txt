@@ -1,4 +1,4 @@
-#t 606 17699104 nietsnie 2020-06-07 00:00:00 nietsnie 2020-07-21 10:04:00
+#t 606 17699104 nietsnie 2020-06-07 00:00:00 xihaheng 2020-08-04 20:22:00
 中国各地的人类发展指数 (HDI) 分布图
 
 #p 22552322 nietsnie 嗯，我是一个昵称 2020-06-07 00:24:06
@@ -44,4 +44,14 @@ HDI 构成： [https://en.wikipedia.org/wiki/Human_Development_Index](jump-to.ph
 那几个在去年的人均可支配收入里也挺高的，见
 [https://bbs.pku.edu.cn/v2/post-read.php?bid=606&amp;threadid=17733564](post-read.php?bid=606&amp;threadid=17733564)
 #quote Nameless
+
+#p 22901368 xihaheng PP 2020-08-04 20:19:17
+#DELETED
+这图一股子arcgis味道……
+#quote nietsnie
+
+#p 22901375 xihaheng PP 2020-08-04 20:21:16
+我刚想说怎么联合国画的图一股子arcgis味道，然后发现是lz自己画的【笑哭】
+点名表扬！
+#quote nietsnie
 
