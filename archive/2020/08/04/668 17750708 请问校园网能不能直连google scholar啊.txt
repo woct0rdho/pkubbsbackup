@@ -1,4 +1,4 @@
-#t 668 17750708 hrcegg 2020-08-04 00:19:00 giaga 2020-08-04 23:28:00
+#t 668 17750708 hrcegg 2020-08-04 00:19:00 PKUwuming 2020-08-05 01:04:00
 请问校园网能不能直连google scholar啊
 
 #p 22901150 hrcegg 孤独时代的弃儿 2020-08-04 19:27:47
@@ -77,5 +77,9 @@
 
 #p 22903254 giaga giaga 2020-08-04 23:27:28
 我使用的也是v2ray，但软件是手动模式，firefox/chrome浏览器用的插件switchyomega，用gfwlist进行切换，然后用插件也更好配置白名单/黑名单这种，因为很少在浏览器以外的地方用到vpn，所以感觉这样就够了
+#quote hrcegg
+
+#p 22903466 PKUwuming 无名 2020-08-05 01:03:05
+代理用规则分流，不用来回切换。mac系统可用surge或者clash，windows系统可用clash
 #quote hrcegg
 
