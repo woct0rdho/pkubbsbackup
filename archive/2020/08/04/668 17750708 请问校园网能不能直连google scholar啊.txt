@@ -1,4 +1,4 @@
-#t 668 17750708 hrcegg 2020-08-04 00:19:00 manakanemu 2020-08-04 21:12:00
+#t 668 17750708 hrcegg 2020-08-04 00:19:00 hrcegg 2020-08-04 22:54:00
 请问校园网能不能直连google scholar啊
 
 #p 22901150 hrcegg 孤独时代的弃儿 2020-08-04 19:27:47
@@ -66,4 +66,12 @@
 #p 22901596 manakanemu manakanemu 2020-08-04 21:11:55
 试试sci hub
 #quote hrcegg
+
+#p 22901908 giaga giaga 2020-08-04 22:38:42
+是使用什么软件的呢？浏览器端也可以设置全局和list吧
+#quote hrcegg
+
+#p 22901967 hrcegg 孤独时代的弃儿 2020-08-04 22:53:06
+买的别人的v2ray 用clash这个软件 感谢感谢 回头我试试
+#quote giaga
 
