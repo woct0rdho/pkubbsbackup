@@ -1,0 +1,30 @@
+#t 668 17751484 stonechen 2020-08-05 16:01:00 PKUCC 2020-08-05 16:28:00
+vpn连不上了
+
+#p 22906170 stonechen 人人都爱小萝莉 2020-08-05 16:00:33
+从下午三点开始到现在，学校vpn一直无法连接。据树洞([https://pkuhelper.pku.edu.cn/hole/#1567777](jump-to.php?url=https%3A%2F%2Fpkuhelper.pku.edu.cn%2Fhole%2F%231567777), [https://pkuhelper.pku.edu.cn/hole/#1567831](jump-to.php?url=https%3A%2F%2Fpkuhelper.pku.edu.cn%2Fhole%2F%231567831))反映，不只一人出现这种情况，麻烦老师检查一下是什么问题吧
+
+#p 22906191 brainstorm 头脑风暴 2020-08-05 16:04:47
+确实……4:00pm试了好几次也没有成功
+#quote stonechen
+
+#p 22906209 litong KFC尊贵会员 2020-08-05 16:08:44
+我也是
+#quote stonechen
+
+#p 22906210 yle 小白兔 2020-08-05 16:09:34
+我也连不上！还以为是自己网络的问题。
+#quote stonechen
+
+#p 22906271 PaulingLiu Pauling.Liu 2020-08-05 16:21:24
+我也
+#quote stonechen
+
+#p 22906306 Excaliburrrr 三进宫 2020-08-05 16:27:06
+同，顶
+#quote stonechen
+
+#p 22906308 PKUCC 北京大学计算中心 2020-08-05 16:27:37
+收到，解决中。
+#quote stonechen
+
