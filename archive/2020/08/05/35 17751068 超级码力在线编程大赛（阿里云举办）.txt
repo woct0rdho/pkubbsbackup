@@ -1,0 +1,12 @@
+#t 35 17751068 jiangfanff 2020-08-05 10:06:00 jiangfanff 2020-08-05 10:32:00
+超级码力在线编程大赛（阿里云举办）
+
+#p 22904141 jiangfanff 逍遥 2020-08-05 10:06:00
+超级码力在线编程大赛由阿里云举办，共同面向学生和广大开发者们呈现的在线编程竞赛，从初赛到复赛到决赛均在线上举行，旨在提高开发者算法编程能力，比赛题型为常规算法题，难度适中，支持Java、Python、C++、JS、Go等多种语言，希望通过本次比赛，可以帮助开发者们提升能力，找到更好的工作岗位。
+感兴趣的朋友可以看看呦，奖励丰厚~﻿
+活动链接：[https://tianchi.aliyun.com/specials/promotion/supercoder](jump-to.php?url=https%3A%2F%2Ftianchi.aliyun.com%2Fspecials%2Fpromotion%2Fsupercoder)
+
+#p 22904318 jiangfanff 逍遥 2020-08-05 10:31:34
++1
+#quote jiangfanff
+
