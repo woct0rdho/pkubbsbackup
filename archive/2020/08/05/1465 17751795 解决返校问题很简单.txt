@@ -1,4 +1,4 @@
-#t 1465 17751795 lovecatcat 2020-08-05 00:21:00 lovecatcat 2020-08-06 08:33:00
+#t 1465 17751795 lovecatcat 2020-08-05 00:21:00 quicy 2020-08-05 00:22:00
 解决返校问题很简单
 
 #p 22907600 lovecatcat lovecatcat 2020-08-05 21:47:37
@@ -23,6 +23,7 @@
 #quote quicy
 
 #p 22908391 lovecatcat lovecatcat 2020-08-06 08:32:17
+#DELETED
 可以到东门外静坐 举牌：我们要入校！我们要毕业！
 #quote quicy
 
