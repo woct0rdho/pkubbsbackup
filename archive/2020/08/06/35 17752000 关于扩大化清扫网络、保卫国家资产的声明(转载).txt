@@ -1,4 +1,4 @@
-#t 35 17752000 ChairmanJ 2020-08-06 09:59:00 ChairmanJ 2020-08-06 09:59:00
+#t 35 17752000 ChairmanJ 2020-08-06 09:59:00 Minoshiro 2020-08-06 10:18:00
 关于扩大化清扫网络、保卫国家资产的声明(转载)
 
 #p 22908666 ChairmanJ 僵还是老的辣 2020-08-06 09:59:07
@@ -15,13 +15,20 @@
 美国呼吁我们的盟友和世界各地的政府和工业界伙伴加入这一日益壮大的浪潮，从中共的监视状态和其他恶意实体保护我们的数据。围绕我们公民的数据建造一个干净的堡垒将确保我们所有国家的安全。
 来源：国务院网站 [https://www.state.gov/announcing-the-expansion-of-the-clean-network-to-safeguard-americas-assets/](jump-to.php?url=https%3A%2F%2Fwww.state.gov%2Fannouncing-the-expansion-of-the-clean-network-to-safeguard-americas-assets%2F)
 
-#p 22908669 ChairmanJ 僵还是老的辣 2020-08-06 09:59:11
-[原文由 ChairmanJ 发表在 Counterculture 版 &gt;&gt;&gt;](post-read.php?bid=251&amp;threadid=17752000)
+#p 22908669 ChairmanJ 僵还是老的辣 2020-08-06 10:07:19
+
+
+2020-08-06 09:59:11
+原文由 ChairmanJ 发表在 Counterculture 版
 个人的理解：
-1. 中国运营商失去在美国的牌照，无法在美国当地建设PoP接入点接入国际互联网，比如GT，GIA等线路无法work。考虑到美国在中国因该没有PoP接入点，则相当于中美断开直连网络，所有路由要绕道第三方国家或地区。中美之间的网络带宽缩小、延迟增大。
+1. 中国运营商失去在美国的牌照，无法在美国当地建设PoP接入点接入国际互联网，比如CN2 GIA等线路无法work。考虑到美国在中国因该没有PoP接入点，则相当于中美断开直连网络，所有路由要绕道第三方国家或地区。中美之间的网络带宽缩小、延迟增大。
 2. 美国的应用商店应下架中国APP
 3. 美国的应用开发商应在中国的应用商店特别是华为应用商店下架自己的APP
-4. 这个应该是一直就有的政策，关键数据一直都需要在美国政府云上处理，AWS，Azure等都有专门的GovCloud
+4. 这个应该是一直就有的政策，关键数据一直都需要在美国政府云上处理，AWS，Azure等都有专门的GovCloud。这次可能扩大规模，甚至全面禁止中国云服务公司。
 5. 应该是从国际电缆的制造、维护市场中彻底驱逐中国公司，和5G市场驱逐华为一样
+#quote ChairmanJ
+
+#p 22908748 Minoshiro 小蓑白 2020-08-06 10:17:53
+云上贵州和云上德州隔海相望
 #quote ChairmanJ
 
