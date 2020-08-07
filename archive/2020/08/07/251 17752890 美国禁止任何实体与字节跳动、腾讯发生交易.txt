@@ -1,7 +1,10 @@
-#t 251 17752890 ChairmanJ 2020-08-07 11:03:00 ChairmanJ 2020-08-07 11:04:00
-美国禁止任何实体与腾讯公司发生交易
+#t 251 17752890 ChairmanJ 2020-08-07 00:11:00 littleeva 2020-08-07 13:25:00
+美国禁止任何实体与字节跳动、腾讯发生交易
 
-#p 22913403 ChairmanJ 僵还是老的辣 2020-08-07 11:02:35
+#p 22913403 ChairmanJ 僵还是老的辣 2020-08-07 11:14:38
+
+
+2020-08-07 11:02:35
 [https://www.whitehouse.gov/presidential-actions/executive-order-addressing-threat-posed-wechat/](jump-to.php?url=https%3A%2F%2Fwww.whitehouse.gov%2Fpresidential-actions%2Fexecutive-order-addressing-threat-posed-wechat%2F)
 美国白宫：为应对来自 WeChat 威胁的行政命令【节选，非官方翻译】
 Executive Order on Addressing the Threat Posed by WeChat
@@ -10,12 +13,22 @@ Executive Order on Addressing the Threat Posed by WeChat
 据报道，WeChat 是中国腾讯控股有限公司旗下的一款即时通讯、社交媒体与电子支付应用，在全球拥有超过 10 亿用户，其中包括来自美国的用户。与 TikTok 一样，WeChat 也会自动采集来自用户的大量信息。这种数据收集行为可能让中共获取美国公民的个人信息与专有信息。此外，该应用还能获取访问美国的中国公民的个人信息与专有信息，从而让中共有机会掌握生平第一次享受自由社会优渥之处的中国公民的各种情况。……据报道，WeChat 和 TikTok 一样，也会对中共认为具有政治敏感性的消息进行审查，且可能被用于对中共有利的虚假宣传活动。这些风险导致包括澳大利亚和印度在内的其他国家开始限制或禁止使用微信。美国必须对微信的所有者积极采取行动，以保护美国国家安全。
 基于以上情况，我在此发出命令：
 1. (a) 自本命令下达之日起 45 日内，在法律适用范围内，禁止如下行为：在美利坚合众国法律管辖范围内的任何人或任何资产，与中国深圳腾讯控股有限公司（Tencent Holdings Ltd.）公司，或其子公司，进行任何交易。其涉及范围，由美国商务部长根据本命令 1(c) 节确定。
+---
+字节跳动的禁令
+[https://www.whitehouse.gov/presidential-actions/executive-order-addressing-threat-posed-tiktok/](jump-to.php?url=https%3A%2F%2Fwww.whitehouse.gov%2Fpresidential-actions%2Fexecutive-order-addressing-threat-posed-tiktok%2F)
 
-#p 22913407 ChairmanJ 僵还是老的辣 2020-08-07 11:03:56
+#p 22913407 ChairmanJ 僵还是老的辣 2020-08-07 11:14:02
 
 
 2020-08-07 11:03:39
+这条禁令的内容和对字节跳动的禁令内容基本一致
+区别有 对字节跳动的禁令包含字节跳动及其子公司和所有持股对象（in which any such company has any interest），对腾讯的禁令仅包含腾讯及其子公司
+不过美国没有提前发出警告，也没有撮合美国公司收购腾讯在美业务
 腾讯在美国除wechat业务之外
-投资了大量的游戏公司，这些公司将受到严重影响
+投资了大量的游戏公司，这些公司如果被认定为腾讯子公司将受到严重影响
+#quote ChairmanJ
+
+#p 22914066 littleeva 小eva 2020-08-07 13:24:40
+之前出来各种腾讯收购游戏公司的新闻，腾讯在一些游戏论坛上是被骂惨了。没想到现在还整这么一出😂
 #quote ChairmanJ
 

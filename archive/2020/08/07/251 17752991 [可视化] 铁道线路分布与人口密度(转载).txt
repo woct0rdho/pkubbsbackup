@@ -1,0 +1,11 @@
+#t 251 17752991 nietsnie 2020-08-07 13:03:00 nietsnie 2020-08-07 13:03:00
+[可视化] 铁道线路分布与人口密度(转载)
+
+#p 22913968 nietsnie 嗯，我是一个昵称 2020-08-07 13:02:24
+[原文由 nietsnie 发表在 Railway 版 &gt;&gt;&gt;](post-read.php?bid=647&amp;threadid=17752991)
+数据源：
+[https://github.com/txslgr/geojson/raw/master/city_geojson.geojson](jump-to.php?url=https%3A%2F%2Fgithub.com%2Ftxslgr%2Fgeojson%2Fraw%2Fmaster%2Fcity_geojson.geojson)
+[http://biogeo.ucdavis.edu/data/diva/rrd/JPN_rrd.zip](jump-to.php?url=http%3A%2F%2Fbiogeo.ucdavis.edu%2Fdata%2Fdiva%2Frrd%2FJPN_rrd.zip)
+日本政府官方人口统计数据
+制图：nietsnie @ bdwm
+
