@@ -1,0 +1,14 @@
+#t 668 17753726 zxzb 2020-08-08 14:11:00 zxzb 2020-08-08 14:48:00
+VPN突然连接不上了
+
+#p 22921102 zxzb Tom&Jerry 2020-08-08 14:10:57
+安装的是windows商店里面的pulse客户端，网址是[https://vpn.pku.edu.cn](jump-to.php?url=https%3A%2F%2Fvpn.pku.edu.cn)，从昨天开始突然无法连接了。过程及最终 结果如下图所示，求个解决方法。
+
+#p 22921154 PKUCC 北京大学计算中心 2020-08-08 14:23:31
+提示IO系统故障，重启电脑初始化系统试试。
+#quote zxzb
+
+#p 22921250 zxzb Tom&Jerry 2020-08-08 14:47:51
+什么都没有操作，可以连接了
+#quote PKUCC
+
