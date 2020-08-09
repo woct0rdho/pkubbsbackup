@@ -1,0 +1,21 @@
+#t 251 17754425 nietsnie 2020-08-09 16:45:00 nietsnie 2020-08-09 16:45:00
+[可视化] 中国的户籍人口密度与铁道路线分布(转载)
+
+#p 22925484 nietsnie 嗯，我是一个昵称 2020-08-09 16:44:28
+[原文由 nietsnie 发表在 Modern_China 版 &gt;&gt;&gt;](post-read.php?bid=606&amp;threadid=17754425)
+注：县一级常住人口不易获得，故使用户籍人口数据
+数据搜集、处理、作图：nietsnie @ bdwm
+图一是比照大中华地区平均人口密度130人/平方千米分界的两色对数人口密度分布图
+图二是单色渐变的对数人口密度分布图，加上了铁道路线分布的图层（标准轨铁道，无轻轨、地铁、单轨、有轨电车等）
+图三是单独的铁道路线分布的图层（我比较懒，所以没有一个个除去数据源里的部分边界外他国铁道，不过基本不影响）
+数据源：
+人口：
+陆港澳：中华人民共和国民政部 - 全国行政区划信息查询平台 - 高级查询
+[http://xzqh.mca.gov.cn/advancedDataQueryDefaut?noquery=1](jump-to.php?url=http%3A%2F%2Fxzqh.mca.gov.cn%2FadvancedDataQueryDefaut%3Fnoquery%3D1)
+台：中華民國內政部戶政司全球資訊網 - 人口統計資料 - 縣市人口性比例及人口密度
+[https://www.ris.gov.tw/app/portal/346](jump-to.php?url=https%3A%2F%2Fwww.ris.gov.tw%2Fapp%2Fportal%2F346)
+铁道：OpenStreetMapAPI
+政区轮廓：
+中国内地县级行政区、港澳：抓取高德地图 API 的多边形轮廓 geojson 文件
+台湾县市：抓取谷歌地图 API 的多边形轮廓 geojson 文件
+
