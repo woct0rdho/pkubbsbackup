@@ -1,4 +1,4 @@
-#t 72 17755074 AerysNan 2020-08-10 00:13:00 octongee 2020-08-11 00:55:00
+#t 72 17755074 AerysNan 2020-08-10 00:13:00 kkzhiyu 2020-08-11 01:24:00
 美国卫生部长称呼蔡英文为习主席
 
 #p 22930667 AerysNan TimeParadogs 2020-08-10 23:19:51
@@ -223,4 +223,8 @@ transparent         and         inclusive         dialogue         with         
 weeks. （[https://unfccc.int/sites/default/files/cop23_ngo_bingo.pdf](jump-to.php?url=https%3A%2F%2Funfccc.int%2Fsites%2Fdefault%2Ffiles%2Fcop23_ngo_bingo.pdf)）
 2. 卫生部长发音里的den和cy/xi/tsi之间的语音间隔太短了，很难会认为是president和cy/xi/tsi的两个单词的组合，所以还是认为presidency是一个单词可能性更大。
 #quote survivor
+
+#p 22933312 kkzhiyu 硁硁之愚 2020-08-11 01:23:39
+就是一个口误罢了，他说president有明显收音，不可能是presidency
+#quote octongee
 
