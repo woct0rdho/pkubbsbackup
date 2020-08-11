@@ -1,4 +1,4 @@
-#t 35 17755650 Smallst 2020-08-11 00:08:00 Smallst 2020-08-11 17:58:00
+#t 35 17755650 Smallst 2020-08-11 00:08:00 DFT 2020-08-11 18:01:00
 教育网pt 站账号毕业后怎么办？
 
 #p 22933541 Smallst Fox loves sea. 2020-08-11 08:38:06
@@ -56,4 +56,8 @@
 话说我们学校不是可以直接注册蒲公英吗？[https://npupt.com/](jump-to.php?url=https%3A%2F%2Fnpupt.com%2F) 用学校ipv6登录用edu邮箱注册就行
 而且蒲公英邀请码还真不好得，我就俩……还是六维邀请码可以买比较多……
 #quote DFT
+
+#p 22935915 DFT Design for Test 2020-08-11 18:00:40
+只用过六维……现在毕业了也用不成了
+#quote Smallst
 
