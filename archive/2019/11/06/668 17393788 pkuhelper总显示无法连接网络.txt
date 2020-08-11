@@ -1,4 +1,4 @@
-#t 668 17393788 echooozsh 2019-11-06 00:12:00 PKUCC 2019-11-06 14:02:00
+#t 668 17393788 echooozsh 2019-11-06 00:00:00 pestilential 2020-08-12 02:27:00
 pkuhelper总显示无法连接网络
 
 #p 21270897 echooozsh pot 2019-11-06 12:57:39
@@ -7,4 +7,8 @@ pkuhelper总显示无法连接网络
 #p 21271287 PKUCC 北京大学计算中心 2019-11-06 14:01:47
 PKU Helper由青年研究中心负责开发和管理的，请联系PKU Helper的开发团队咨询具体故障。
 #quote echooozsh
+
+#p 22937396 pestilential 大抵是 2020-08-12 02:26:18
+请问联系方式？我也是同样的情况
+#quote PKUCC
 
