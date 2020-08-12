@@ -1,4 +1,4 @@
-#t 35 17755650 Smallst 2020-08-11 00:08:00 Smallst 2020-08-11 21:09:00
+#t 35 17755650 Smallst 2020-08-11 00:08:00 blablue 2020-08-12 15:33:00
 教育网pt 站账号毕业后怎么办？
 
 #p 22933541 Smallst Fox loves sea. 2020-08-11 08:38:06
@@ -64,4 +64,8 @@
 #p 22936528 Smallst Fox loves sea. 2020-08-11 21:09:12
 也许你还可以试试v6登录用edu邮箱注册？
 #quote DFT
+
+#p 22939580 blablue blablue 2020-08-12 15:33:02
+好像得教育网的ipv6才行
+#quote Smallst
 
