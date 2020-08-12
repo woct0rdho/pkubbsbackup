@@ -1,4 +1,4 @@
-#t 1465 17757051 blackdragon 2020-08-12 18:48:00 blackdragon 2020-08-12 18:57:00
+#t 1465 17757051 blackdragon 2020-08-12 18:47:00 DanCruise 2020-08-12 19:40:00
 求解释因实验返校方案地区划分依据
 
 #p 22940523 blackdragon 热心酱油乙 2020-08-12 18:47:36
@@ -17,10 +17,20 @@
 #quote blackdragon
 
 #p 22940550 blackdragon 热心酱油乙 2020-08-12 18:55:33
+#DELETED
 大连的关联病例在四平，没有涉及其他那几个城市
 #quote substract
 
 #p 22940555 blackdragon 热心酱油乙 2020-08-12 18:57:09
+#DELETED
 大连的关联到的是四平，其他各市没受到关联为何也在其上？
 #quote substract
+
+#p 22940581 blackdragon 热心酱油乙 2020-08-12 19:08:36
+行吧
+#quote substract
+
+#p 22940728 DanCruise 武汉站东广场 2020-08-12 19:40:02
+如果返校过程中需要途径这些地区，比如转车，是不是也不能返校呢？
+#quote blackdragon
 
