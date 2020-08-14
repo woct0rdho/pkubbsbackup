@@ -1,4 +1,4 @@
-#t 1431 17758205 Zhen 2020-08-14 10:35:00 Zhen 2020-08-14 10:58:00
+#t 1431 17758205 Zhen 2020-08-14 00:10:00 Bulithium 2020-08-14 11:59:00
 45-48楼异形间问题
 
 #p 22946687 Zhen 洛神 2020-08-14 10:34:43
@@ -20,4 +20,16 @@
 #p 22946813 Zhen 洛神 2020-08-14 10:58:06
 我进去就有了
 #quote cfzhang
+
+#p 22946878 Littlesuan 不知 2020-08-14 11:16:43
+想请教 这个图是从哪里找的
+#quote Zhen
+
+#p 22946892 Zhen 洛神 2020-08-14 11:21:18
+[https://dorm.pku.edu.cn/guide/xsgy_fw/ggylpmt/index.htm](jump-to.php?url=https%3A%2F%2Fdorm.pku.edu.cn%2Fguide%2Fxsgy_fw%2Fggylpmt%2Findex.htm)
+#quote Littlesuan
+
+#p 22946997 Bulithium 二烃基铜锂 2020-08-14 11:59:47
+发现这个链接里没有勺园宿舍的图
+#quote Zhen
 
