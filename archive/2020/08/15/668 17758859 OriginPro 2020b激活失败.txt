@@ -1,4 +1,4 @@
-#t 668 17758859 lllllllidong 2020-08-15 00:09:00 PKUCC 2020-08-15 13:34:00
+#t 668 17758859 lllllllidong 2020-08-15 00:09:00 lllllllidong 2020-08-15 15:11:00
 OriginPro 2020b激活失败
 
 #p 22949578 lllllllidong 方寸之间 2020-08-15 09:07:42
@@ -17,4 +17,8 @@ error 1是一个未知错误。应该是客户电脑那边接收问题。
 打开 C:\ProgramData\OriginLab 文件夹（菜单 Help: Open Folder: Program Data Folder 打开后到上一级文件夹），把里面的 Regid.lic 文件，以及 License子文件夹 都删掉。 然后右键点击Origin图标，选择以管理员身份打开 OriginPro 再次尝试激活。
 如仍有问题，请发送邮件至gsoftware@pku.edu.cn
 #quote lllllllidong
+
+#p 22950909 lllllllidong 方寸之间 2020-08-15 15:11:03
+好的，谢谢老师，目前已经暂时安装了网络版，可以正常使用。
+#quote PKUCC
 
