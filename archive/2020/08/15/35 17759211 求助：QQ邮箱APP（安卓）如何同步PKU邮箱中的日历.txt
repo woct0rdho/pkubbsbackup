@@ -1,0 +1,8 @@
+#t 35 17759211 realFong 2020-08-15 18:18:00 realFong 2020-08-15 18:18:00
+求助：QQ邮箱APP（安卓）如何同步PKU邮箱中的日历
+
+#p 22951706 realFong echelon 2020-08-15 18:17:28
+QQ邮箱APP（安卓）如何同步PKU邮箱中的日历呢？
+APP中需要我填写服务器，
+我试了mail.pku.edu.cn、imap.pku.edu.cn均不行
+

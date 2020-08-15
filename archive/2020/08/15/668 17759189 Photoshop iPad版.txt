@@ -1,4 +1,4 @@
-#t 668 17759189 JPENGKU 2020-08-15 17:31:00 PKUCC 2020-08-15 17:47:00
+#t 668 17759189 JPENGKU 2020-08-15 00:17:00 taroxd 2020-08-15 18:44:00
 Photoshop iPad版
 
 #p 22951408 JPENGKU humankind 2020-08-15 17:31:04
@@ -6,5 +6,9 @@ Photoshop iPad版
 
 #p 22951612 PKUCC 北京大学计算中心 2020-08-15 17:46:52
 学校购买的软件为桌面版，不可以在移动客户端使用
+#quote JPENGKU
+
+#p 22951807 taroxd taroxd 2020-08-15 18:43:07
+正版软件中心申请 Adobe ID 的话 iPhone 上是可以用的，iPad 不清楚
 #quote JPENGKU
 
