@@ -1,4 +1,4 @@
-#t 668 17758119 xiaobochine 2020-08-14 00:07:00 PKUCC 2020-08-14 08:52:00
+#t 668 17758119 xiaobochine 2020-08-14 00:07:00 xiaobochine 2020-08-15 19:48:00
 正版软件中的chemdraw不能激活
 
 #p 22946182 xiaobochine 老表的熊猫 2020-08-14 07:36:10
@@ -6,5 +6,9 @@
 
 #p 22946365 PKUCC 北京大学计算中心 2020-08-14 08:51:46
 请查看正版软件平台使用帮助中，chemDraw的使用说明部分
+#quote xiaobochine
+
+#p 22952032 xiaobochine 老表的熊猫 2020-08-15 19:47:21
+谢谢老师
 #quote xiaobochine
 
