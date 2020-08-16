@@ -1,4 +1,4 @@
-#t 668 17759695 hmucsy 2020-08-16 00:12:00 PKUCC 2020-08-16 15:29:00
+#t 668 17759695 hmucsy 2020-08-16 00:12:00 hmucsy 2020-08-16 17:23:00
 origin 2020b 无法激活
 
 #p 22954090 hmucsy wmeater 2020-08-16 12:22:26
@@ -17,4 +17,8 @@ origin 2020b 无法激活
 401错误是指复制过来的license text不完整，请确保完整复制了网页上license文本框里的内容；
 如仍有问题，请发送问题至邮箱gsoftware@pku.edu.cn
 #quote hmucsy
+
+#p 22955041 hmucsy wmeater 2020-08-16 17:22:29
+已解决，谢谢老师！
+#quote PKUCC
 
