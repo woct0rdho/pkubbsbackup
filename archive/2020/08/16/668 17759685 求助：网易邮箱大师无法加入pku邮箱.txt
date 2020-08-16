@@ -1,0 +1,11 @@
+#t 668 17759685 CNYS 2020-08-16 12:16:00 PKUCC 2020-08-16 12:39:00
+求助：网易邮箱大师无法加入pku邮箱
+
+#p 22954061 CNYS PKU_CNYS 2020-08-16 12:15:14
+参考该网址‘[https://its.pku.edu.cn/service_1_mail.jsp](jump-to.php?url=https%3A%2F%2Fits.pku.edu.cn%2Fservice_1_mail.jsp)’的设置，pop3和IMAP两种方式都试过，结果都显示”用户名或密码错误“。请问这种问题如何解决？
+
+#p 22954166 PKUCC 北京大学计算中心 2020-08-16 12:38:44
+你好！请先试试web方式能否登录，如果密码错误，请到its修改密码，新密码会同步到网易邮箱，然后再试试。
+如果上述方法不能解决问题，请发邮件到its@pku.edu.cn，提供账号，以便排查问题。
+#quote CNYS
+
