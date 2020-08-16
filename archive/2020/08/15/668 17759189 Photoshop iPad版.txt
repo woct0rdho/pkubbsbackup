@@ -1,4 +1,4 @@
-#t 668 17759189 JPENGKU 2020-08-15 00:17:00 jiamingpku 2020-08-16 00:12:00
+#t 668 17759189 JPENGKU 2020-08-15 00:17:00 jiamingpku 2020-08-16 16:00:00
 Photoshop iPad版
 
 #p 22951408 JPENGKU humankind 2020-08-15 17:31:04
@@ -17,5 +17,17 @@ Photoshop iPad版
 
 #p 22952886 jiamingpku jiamingpku 2020-08-16 00:11:38
 iPad 上的 ps 是免费软件吧
+#quote JPENGKU
+
+#p 22954697 JPENGKU humankind 2020-08-16 15:33:25
+谢谢。目测photoshop express似乎可以用（手机版、iPad版），photoshop pro不可以（只有iPad版）
+#quote taroxd
+
+#p 22954699 JPENGKU humankind 2020-08-16 15:33:50
+PS Express可以，Pro版不可以～
+#quote jiamingpku
+
+#p 22954810 jiamingpku jiamingpku 2020-08-16 15:59:32
+看了一眼 确实是 PS Express 免费😂
 #quote JPENGKU
 
