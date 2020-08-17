@@ -1,4 +1,4 @@
-#t 251 17760208 nietsnie 2020-08-17 00:30:00 nietsnie 2020-08-17 00:48:00
+#t 251 17760208 nietsnie 2020-08-17 00:00:00 HelloOTS 2020-08-17 08:06:00
 《荒诞医学史》（本篇）(转载)
 
 #p 22960746 nietsnie 嗯，我是一个昵称 2020-08-17 00:29:28
@@ -193,5 +193,9 @@ Language:        English
 What won’t we try in our quest for perfect health, beauty, and the fountain of youth?
 Well, just imagine a time when doctors prescribed morphine for crying infants. When liquefied gold was touted as immortality in a glass. And when strychnine—yes, that strychnine, the one used in rat poison—was dosed like Viagra.
 Looking back with fascination, horror, and not a little dash of dark, knowing humor, Quackery recounts the lively, at times unbelievable, history of medical misfires and malpractices. Ranging from the merely weird to the outright dangerous, here are dozens of outlandish, morbidly hilarious “treatments”—conceived by doctors and scientists, by spiritualists and snake oil salesmen (yes, they literally tried to sell snake oil)—that were predicated on a range of cluelessness, trial and error, and straight-up scams. With vintage illustrations, photographs, and advertisements throughout, Quackery seamlessly combines macabre humor with science and storytelling to reveal an important and disturbing side of the ever-evolving field of medicine.
+#quote nietsnie
+
+#p 22961032 HelloOTS Alpha fetoprotein 2020-08-17 08:05:13
+哈，这本书很有意思的，推荐看
 #quote nietsnie
 
