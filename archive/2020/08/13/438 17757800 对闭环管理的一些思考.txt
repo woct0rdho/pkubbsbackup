@@ -1,4 +1,4 @@
-#t 438 17757800 hlzhao 2020-08-13 00:17:00 bingyu 2020-08-18 17:23:00
+#t 438 17757800 hlzhao 2020-08-13 00:17:00 peerless 2020-08-18 18:11:00
 对闭环管理的一些思考
 
 #p 22944605 hlzhao helene 2020-08-13 17:46:04
@@ -33,5 +33,9 @@ up
 
 #p 22968392 bingyu pku_bby 2020-08-18 17:22:30
 up!
+#quote hlzhao
+
+#p 22968657 peerless <tex>\blacksquare\blacksquare</tex> 2020-08-18 18:11:03
+发动群众斗群众，老传统了
 #quote hlzhao
 
