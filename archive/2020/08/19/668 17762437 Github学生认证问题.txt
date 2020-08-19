@@ -1,10 +1,10 @@
-#t 668 17762437 Dinghow 2020-08-19 00:19:00 Dinghow 2020-08-19 20:28:00
+#t 668 17762437 Dinghow 2020-08-19 00:19:00 Chenghcl 2020-08-20 03:09:00
 Github学生认证问题
 
-#p 22973166 Dinghow Dinghow 2020-08-19 19:24:16
+#p 22973166 Dinghow Yang 2020-08-19 19:24:16
 新一届的学生给的邮箱是@stu.pku.edu.cn的后缀（囧，为啥不扩容原本pku.edu.cn的去买了网易企业邮箱），该域名目前没有在github education Peking University的认证邮箱域名列表中，因此无法通过该edu邮箱获取学生验证，我已经给github support发了说明邮件，目前还没有回复，呜呜呜，想请问一下校方能否与github education进行沟通，将新邮箱后缀加入认证列表。
 
-#p 22973169 Dinghow Dinghow 2020-08-19 19:25:13
+#p 22973169 Dinghow Yang 2020-08-19 19:25:13
 附件是目前github认证的pku邮箱list
 #quote Dinghow
 
@@ -12,7 +12,11 @@ Github学生认证问题
 情报收到，我们了解一下，看看如何解决。
 #quote Dinghow
 
-#p 22973364 Dinghow Dinghow 2020-08-19 20:27:20
+#p 22973364 Dinghow Yang 2020-08-19 20:27:20
 感谢老师！😊
+#quote PKUCC
+
+#p 22974395 Chenghcl KhCl 2020-08-20 03:08:09
+👍
 #quote PKUCC
 
