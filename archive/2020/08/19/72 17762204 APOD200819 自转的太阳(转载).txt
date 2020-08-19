@@ -1,0 +1,63 @@
+#t 72 17762204 peiyangium 2020-08-19 18:36:00 peiyangium 2020-08-19 18:37:00
+APOD200819 自转的太阳(转载)
+
+#p 22973039 peiyangium 生建办主任助理|柯带宜居办主任|副团级 2020-08-19 18:36:12
+[原文由 Astro 发表在 Astronomy 版 &gt;&gt;&gt;](post-read.php?bid=89&amp;threadid=17762204)
+**自转的太阳**
+视频地址：
+[https://www.youtube.com/embed/2WRgXvdasm0](jump-to.php?url=https%3A%2F%2Fwww.youtube.com%2Fembed%2F2WRgXvdasm0)
+请使用科学上网方式访问。
+ 
+  影片提供:  <font color="#0000c0"><u>SDO</u></font>**[1]**, <font color="#0000c0"><u>NASA</u></font>**[2]**; 数字合成: <font color="#0000c0"><u>Kevin M. Gill</u></font>**[3]**  
+  说明:  太阳自转的同时也会边变脸吗？ 会的，而这些变化可介于微小与极为戏剧性之间。 上面这幅由<font color="#0000c0"><u>美国航太总署</u></font>**[4]**．<font color="#0000c0"><u>太阳动态天文台</u></font>**[5]**拍摄的<font color="#0000c0"><u>缩时影片</u></font>**[6]**，呈现了太阳在2014年整个月期间的自转景观。 在左侧的大影像里，可见到紫外波段的太阳<font color="#0000c0"><u>色球层</u></font>**[7]**。 它右上角颜色较淡的小图，呈现了我们较熟悉<font color="#0000c0"><u>可见光</u></font>**[8]**波段的<font color="#0000c0"><u>光球层</u></font>**[9]**。 而其余的五个嵌图，则突显在不同高度的<font color="#0000c0"><u>日冕层</u></font>**[10]**中，含量相对稀少的铁原子在<font color="#0000c0"><u>X射线</u></font>**[11]**波段<font color="#0000c0"><u>辐射出的光</u></font>**[12]**，并渲染成不同的<font color="#0000c0"><u>假色</u></font>**[13]**，以强调它们之间的差异。 太阳<font color="#0000c0"><u>自转</u></font>**[14]**周期略少于一个月，而且赤道区的自转最快。 在影片开始不久，即可见到一个大型活跃<font color="#0000c0"><u>黑子区</u></font>**[15]**旋入视野里。 在这种活跃区内，微小的效应包括<font color="#0000c0"><u>表面纹理</u></font>**[16]**和活跃区形状的变化。 戏剧性的效应，则包括数量众多的闪焰和太阳边缘随处可见的<font color="#0000c0"><u>日珥爆发</u></font>**[17]**。 在约为<font color="#0000c0"><u>11年的周期</u></font>**[18]**中，<font color="#0000c0"><u>太阳</u></font>**[19]**目前正经历不寻常低活跃的<font color="#0000c0"><u>极小期</u></font>**[20]**。 在影片终结时，影片开头所见的那个大型<font color="#0000c0"><u>活跃黑子区</u></font>**[21]**又转回来了，只不过，它看来<font color="#0000c0"><u>很不一样</u></font>**[22]**。 
+   明日的图片: <font color="#0000c0"><u>open space</u></font>**[23]** 
+ 
+  Authors &amp; editors:  <font color="#0000c0"><u>Robert Nemiroff</u></font>**[24]** (<font color="#0000c0"><u>MTU</u></font>**[25]**) &amp; <font color="#0000c0"><u>Jerry Bonnell</u></font>**[26]** (<font color="#0000c0"><u>UMCP</u></font>**[27]**)
+ NASA Official:  Phillip Newman <font color="#0000c0"><u>Specific rights apply</u></font>**[28]**.
+ <font color="#0000c0"><u>NASA Web Privacy Policy and Important Notices</u></font>**[29]**
+ A service of: <font color="#0000c0"><u>ASD</u></font>**[30]** at <font color="#0000c0"><u>NASA</u></font>**[31]** / <font color="#0000c0"><u>GSFC</u></font>**[32]** 
+&amp; <font color="#0000c0"><u>Michigan Tech. U.</u></font>**[33]** 
+ 翻译：<font color="#0000c0"><u>天文实验室</u></font>**[34]** (<font color="#0000c0"><u>成功大学</u></font>**[35]** <font color="#0000c0"><u>物理学系</u></font>**[36]**
+[1][http://sdo.gsfc.nasa.gov/](jump-to.php?url=http%3A%2F%2Fsdo.gsfc.nasa.gov%2F)
+[2][http://www.nasa.gov/](jump-to.php?url=http%3A%2F%2Fwww.nasa.gov%2F)
+[3][https://www.flickr.com/people/kevinmgill/](jump-to.php?url=https%3A%2F%2Fwww.flickr.com%2Fpeople%2Fkevinmgill%2F)
+[4][https://www.nasa.gov/](jump-to.php?url=https%3A%2F%2Fwww.nasa.gov%2F)
+[5][https://sdo.gsfc.nasa.gov/mission/](jump-to.php?url=https%3A%2F%2Fsdo.gsfc.nasa.gov%2Fmission%2F)
+[6][https://www.youtube.com/watch?v=2WRgXvdasm0](jump-to.php?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D2WRgXvdasm0)
+[7][https://solarscience.msfc.nasa.gov/chromos.shtml](jump-to.php?url=https%3A%2F%2Fsolarscience.msfc.nasa.gov%2Fchromos.shtml)
+[8][https://science.nasa.gov/ems/09_visiblelight](jump-to.php?url=https%3A%2F%2Fscience.nasa.gov%2Fems%2F09_visiblelight)
+[9][http://solarscience.msfc.nasa.gov/surface.shtml](jump-to.php?url=http%3A%2F%2Fsolarscience.msfc.nasa.gov%2Fsurface.shtml)
+[10][http://apod.nasa.gov/apod/ap170920.html](jump-to.php?url=http%3A%2F%2Fapod.nasa.gov%2Fapod%2Fap170920.html)
+[11][https://science.nasa.gov/ems/10_ultravioletwaves](jump-to.php?url=https%3A%2F%2Fscience.nasa.gov%2Fems%2F10_ultravioletwaves)
+[12][https://science.nasa.gov/ems/11_xrays](jump-to.php?url=https%3A%2F%2Fscience.nasa.gov%2Fems%2F11_xrays)
+[13][https://ichef.bbci.co.uk/news/660/cpsprodpb/1B33/production/_105436960_blue1.jpg](jump-to.php?url=https%3A%2F%2Fichef.bbci.co.uk%2Fnews%2F660%2Fcpsprodpb%2F1B33%2Fproduction%2F_105436960_blue1.jpg)
+[14][https://en.wikipedia.org/wiki/Solar_rotation](jump-to.php?url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FSolar_rotation)
+[15][http://apod.nasa.gov/apod/ap031027.html](jump-to.php?url=http%3A%2F%2Fapod.nasa.gov%2Fapod%2Fap031027.html)
+[16][http://apod.nasa.gov/apod/ap111106.html](jump-to.php?url=http%3A%2F%2Fapod.nasa.gov%2Fapod%2Fap111106.html)
+[17][http://apod.nasa.gov/apod/ap190526.html](jump-to.php?url=http%3A%2F%2Fapod.nasa.gov%2Fapod%2Fap190526.html)
+[18][https://www.nasa.gov/mission_pages/sunearth/solar-events-news/Does-the-Solar-Cycle-Affect-Earths-Climate.html](jump-to.php?url=https%3A%2F%2Fwww.nasa.gov%2Fmission_pages%2Fsunearth%2Fsolar-events-news%2FDoes-the-Solar-Cycle-Affect-Earths-Climate.html)
+[19][https://solarsystem.nasa.gov/solar-system/sun/overview/](jump-to.php?url=https%3A%2F%2Fsolarsystem.nasa.gov%2Fsolar-system%2Fsun%2Foverview%2F)
+[20][http://apod.nasa.gov/apod/ap191028.html](jump-to.php?url=http%3A%2F%2Fapod.nasa.gov%2Fapod%2Fap191028.html)
+[21][http://apod.nasa.gov/apod/ap141022.html](jump-to.php?url=http%3A%2F%2Fapod.nasa.gov%2Fapod%2Fap141022.html)
+[22][http://spaceweather.com/](jump-to.php?url=http%3A%2F%2Fspaceweather.com%2F)
+[23][http://apod.nasa.gov/apod/ap200820.html](jump-to.php?url=http%3A%2F%2Fapod.nasa.gov%2Fapod%2Fap200820.html)
+[24][http://www.phy.mtu.edu/faculty/Nemiroff.html](jump-to.php?url=http%3A%2F%2Fwww.phy.mtu.edu%2Ffaculty%2FNemiroff.html)
+[25][http://www.phy.mtu.edu/](jump-to.php?url=http%3A%2F%2Fwww.phy.mtu.edu%2F)
+[26][https://antwrp.gsfc.nasa.gov/htmltest/jbonnell/www/bonnell.html](jump-to.php?url=https%3A%2F%2Fantwrp.gsfc.nasa.gov%2Fhtmltest%2Fjbonnell%2Fwww%2Fbonnell.html)
+[27][http://www.astro.umd.edu/](jump-to.php?url=http%3A%2F%2Fwww.astro.umd.edu%2F)
+[28][http://apod.nasa.gov/apod/lib/about_apod.html#srapply](jump-to.php?url=http%3A%2F%2Fapod.nasa.gov%2Fapod%2Flib%2Fabout_apod.html%23srapply)
+[29][https://www.nasa.gov/about/highlights/HP_Privacy.html](jump-to.php?url=https%3A%2F%2Fwww.nasa.gov%2Fabout%2Fhighlights%2FHP_Privacy.html)
+[30][https://astrophysics.gsfc.nasa.gov/](jump-to.php?url=https%3A%2F%2Fastrophysics.gsfc.nasa.gov%2F)
+[31][https://www.nasa.gov/](jump-to.php?url=https%3A%2F%2Fwww.nasa.gov%2F)
+[32][https://www.nasa.gov/centers/goddard/](jump-to.php?url=https%3A%2F%2Fwww.nasa.gov%2Fcenters%2Fgoddard%2F)
+[33][http://www.mtu.edu/](jump-to.php?url=http%3A%2F%2Fwww.mtu.edu%2F)
+[34][http://www.phys.ncku.edu.tw/~astrolab/](jump-to.php?url=http%3A%2F%2Fwww.phys.ncku.edu.tw%2F%7Eastrolab%2F)
+[35][http://www.ncku.edu.tw/](jump-to.php?url=http%3A%2F%2Fwww.ncku.edu.tw%2F)
+[36][http://www.phys.ncku.edu.tw/2012/ch/](jump-to.php?url=http%3A%2F%2Fwww.phys.ncku.edu.tw%2F2012%2Fch%2F)
+[http://apod.nasa.gov/apod/ap200819.html](jump-to.php?url=http%3A%2F%2Fapod.nasa.gov%2Fapod%2Fap200819.html)
+[http://sprite.phys.ncku.edu.tw/astrolab/mirrors/apod/ap200819.html](jump-to.php?url=http%3A%2F%2Fsprite.phys.ncku.edu.tw%2Fastrolab%2Fmirrors%2Fapod%2Fap200819.html)
+
+#p 22973042 peiyangium 生建办主任助理|柯带宜居办主任|副团级 2020-08-19 18:36:26
+鄙视自转。
+#quote peiyangium
+
