@@ -1,4 +1,4 @@
-#t 668 17762437 Dinghow 2020-08-19 19:25:00 Dinghow 2020-08-19 19:26:00
+#t 668 17762437 Dinghow 2020-08-19 00:19:00 Dinghow 2020-08-19 20:28:00
 Github学生认证问题
 
 #p 22973166 Dinghow Dinghow 2020-08-19 19:24:16
@@ -7,4 +7,12 @@ Github学生认证问题
 #p 22973169 Dinghow Dinghow 2020-08-19 19:25:13
 附件是目前github认证的pku邮箱list
 #quote Dinghow
+
+#p 22973341 PKUCC 北京大学计算中心 2020-08-19 20:19:41
+情报收到，我们了解一下，看看如何解决。
+#quote Dinghow
+
+#p 22973364 Dinghow Dinghow 2020-08-19 20:27:20
+感谢老师！😊
+#quote PKUCC
 
