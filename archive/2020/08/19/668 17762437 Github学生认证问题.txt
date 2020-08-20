@@ -1,4 +1,4 @@
-#t 668 17762437 Dinghow 2020-08-19 00:19:00 Chenghcl 2020-08-20 03:09:00
+#t 668 17762437 Dinghow 2020-08-19 00:19:00 Dinghow 2020-08-20 07:43:00
 Github学生认证问题
 
 #p 22973166 Dinghow Yang 2020-08-19 19:24:16
@@ -19,4 +19,8 @@ Github学生认证问题
 #p 22974395 Chenghcl KhCl 2020-08-20 03:08:09
 👍
 #quote PKUCC
+
+#p 22974469 Dinghow Yang 2020-08-20 07:42:46
+最新update：Github support回复我的邮件：已将新后缀stu.pku.edu.cn加入合法list了
+#quote Dinghow
 
