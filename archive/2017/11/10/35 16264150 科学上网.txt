@@ -1,4 +1,4 @@
-#t 35 16264150 hiaoxui 2017-11-10 00:00:00 jacksonfu 2020-08-18 00:10:00
+#t 35 16264150 hiaoxui 2017-11-10 00:00:00 blablue 2020-08-20 00:10:00
 科学上网
 
 #p 17134091 hiaoxui 小辉 2020-07-23 10:32:23
@@ -2698,7 +2698,7 @@ ipv6，国外的，慢成🐶了
 求问下载clash配置后报错怎么办，报错是yaml: line29:  the mapping values are not allowed in this context 
 #quote hiaoxui
 
-#p 22535157 mockingbird 小指头 2020-06-04 16:13:44
+#p 22535157 mockingbird Petyr 2020-06-04 16:13:44
 请问是被墙了吗 现在所有地址全部timeout
 #quote hiaoxui
 
@@ -3050,5 +3050,9 @@ up
 
 #p 22966255 jacksonfu Economics99丨超级蛋 2020-08-18 10:27:12
 先mark 需要时使用 多谢！
+#quote hiaoxui
+
+#p 22974890 blablue blablue 2020-08-20 10:15:19
+感谢楼主。第一次觉得pku邮箱还是有点用
 #quote hiaoxui
 
