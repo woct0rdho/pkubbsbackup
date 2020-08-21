@@ -1,4 +1,4 @@
-#t 35 16264150 hiaoxui 2017-11-10 00:00:00 blablue 2020-08-20 00:10:00
+#t 35 16264150 hiaoxui 2017-11-10 00:00:00 karlmarx 2020-08-22 00:01:00
 科学上网
 
 #p 17134091 hiaoxui 小辉 2020-07-23 10:32:23
@@ -2423,7 +2423,7 @@ Your client does not have permission to get URL
 感谢感谢~
 #quote hiaoxui
 
-#p 22436308 ritty ritty 2020-05-17 22:57:25
+#p 22436308 ritty rtyo 2020-05-17 22:57:25
 唉，渣渣网络，用流量都下不下来ssr 安卓版，怎么办😭
 #quote hiaoxui
 
@@ -2694,7 +2694,7 @@ ipv6，国外的，慢成🐶了
 哦哦哦 我看到了，感谢！
 #quote hiaoxui
 
-#p 22534636 ritty ritty 2020-06-04 14:07:52
+#p 22534636 ritty rtyo 2020-06-04 14:07:52
 求问下载clash配置后报错怎么办，报错是yaml: line29:  the mapping values are not allowed in this context 
 #quote hiaoxui
 
@@ -3055,4 +3055,8 @@ up
 #p 22974890 blablue blablue 2020-08-20 10:15:19
 感谢楼主。第一次觉得pku邮箱还是有点用
 #quote hiaoxui
+
+#p 22982876 karlmarx 还我三角地！灵均·六月雪 2020-08-22 01:55:38
+哈哈哈
+#quote blablue
 
