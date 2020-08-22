@@ -1,4 +1,4 @@
-#t 35 17763943 shuxinzhou 2020-08-21 00:16:00 wuluchaoren 2020-08-22 09:24:00
+#t 35 17763943 shuxinzhou 2020-08-21 00:16:00 jacksonfu 2020-08-22 12:22:00
 公司不允许自带的x86电脑上网，只允许linux上网
 
 #p 22980961 shuxinzhou 小星星 2020-08-21 16:42:31
@@ -19,5 +19,13 @@
 
 #p 22983202 wuluchaoren 五撸超人 2020-08-22 09:23:42
 x86是指令架构，跟系统没啥关系吧，Ubuntu也可能是运行在x86机器上的呀
+#quote shuxinzhou
+
+#p 22989816 jacksonfu Economics99丨超级蛋 2020-08-22 12:22:00
+正解！
+#quote karlmarx
+
+#p 22989817 jacksonfu Economics99丨超级蛋 2020-08-22 12:22:07
+VMware
 #quote shuxinzhou
 
