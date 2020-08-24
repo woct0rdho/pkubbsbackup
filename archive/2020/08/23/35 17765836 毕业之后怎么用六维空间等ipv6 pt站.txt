@@ -1,4 +1,4 @@
-#t 35 17765836 draplater 2020-08-23 00:21:00 Manwe 2020-08-24 12:47:00
+#t 35 17765836 draplater 2020-08-23 00:21:00 ForYouth 2020-08-24 16:12:00
 毕业之后怎么用六维空间等ipv6 pt站
 
 #p 22995852 draplater Draplater 2020-08-23 21:06:17
@@ -11,5 +11,13 @@
 
 #p 22998197 Manwe Manwe 2020-08-24 12:47:05
 开一个支持ipv6的VPS。之前在北邮人看到有人这么干
+#quote draplater
+
+#p 22999045 xelmirage 糊你一脸 2020-08-24 16:12:28
+当然是用校友账号登录pku的vpn
+#quote draplater
+
+#p 22999046 ForYouth 我就随便起个名 2020-08-24 16:12:34
+开vps成本不低，而且速度和连接性都不一定好。建议找个公网pt，或者北洋园这种支持v4+v6的教育网站点
 #quote draplater
 
