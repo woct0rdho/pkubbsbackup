@@ -1,4 +1,4 @@
-#t 668 17765935 GCHEM 2020-08-23 00:23:00 pkusole 2020-08-24 11:23:00
+#t 668 17765935 GCHEM 2020-08-23 00:23:00 traveller 2020-08-24 12:12:00
 强烈呼吁将教师的信箱也托管
 
 #p 22996569 GCHEM CCME|协同效应 2020-08-23 23:29:45
@@ -63,5 +63,13 @@ GMail。。。美国陷阱了解一下。。。
 #p 22997804 pkusole 美国·圣地亚戈 2020-08-24 11:22:18
 163信不过啊，你是不是不知道当年的密码泄露事件
 [https://developer.aliyun.com/article/183393](jump-to.php?url=https%3A%2F%2Fdeveloper.aliyun.com%2Farticle%2F183393)
+#quote GCHEM
+
+#p 22998052 kilb lambda 2020-08-24 12:08:36
+托管可以，但强烈要求用Exchange！
+#quote GCHEM
+
+#p 22998068 traveller 冰之旅行者 2020-08-24 12:12:01
+不如把教师的信箱托管，然后将学生的信箱自管。（假如楼主的意见是大多数教师的意见
 #quote GCHEM
 
