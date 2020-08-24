@@ -1,0 +1,6 @@
+#t 35 17766649 pxcaster 2020-08-24 21:27:00 pxcaster 2020-08-24 21:27:00
+笔记本连不上pku无线网络（无法自动获取dns）
+
+#p 23000292 pxcaster pxcaster 2020-08-24 21:26:38
+如题，返校后笔记本可以从pku分配到ip，但dns不能正常获取，手动输入学校dns后可以正常上网。目前重启、netsh winsock reset 和flush dns都试过了，不灵验啊
+
