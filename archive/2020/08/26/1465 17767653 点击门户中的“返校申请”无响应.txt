@@ -1,6 +1,14 @@
-#t 1465 17767653 zhangwangge 2020-08-26 02:52:00 zhangwangge 2020-08-26 02:52:00
+#t 1465 17767653 zhangwangge 2020-08-26 02:52:00 LESMITH 2020-08-26 03:28:00
 点击门户中的“返校申请”无响应
 
 #p 23006621 zhangwangge Wanggeshi 2020-08-26 02:52:09
 昨晚填写“返校申请”，但点击多次均无响应，打开的也是空白页，到现在依然是这样的，手机和电脑都试过了。不知道大家有没有遇到这种情况？急
+
+#p 23006625 zhangwangge Wanggeshi 2020-08-26 03:09:27
+求问~~真的好着急::&gt;_&lt;::
+#quote zhangwangge
+
+#p 23006627 LESMITH alalamatcha 2020-08-26 03:27:21
+挂vpn
+#quote zhangwangge
 
