@@ -1,4 +1,4 @@
-#t 72 17767275 wuyuchuan 2020-08-25 00:16:00 ljtonly 2020-08-25 17:22:00
+#t 72 17767275 wuyuchuan 2020-08-25 00:16:00 cursebreaker 2020-08-25 18:18:00
 七夕青蛙
 
 #p 23004870 wuyuchuan 某学生 2020-08-25 16:14:57
@@ -10,5 +10,9 @@
 
 #p 23005113 ljtonly naïve 2020-08-25 17:22:22
 孤寡，孤寡
+#quote wuyuchuan
+
+#p 23005333 cursebreaker Cascadia 2020-08-25 18:17:23
+它是来索命的！
 #quote wuyuchuan
 
