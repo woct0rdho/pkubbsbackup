@@ -1,4 +1,4 @@
-#t 1465 17768511 datouhou 2020-08-26 00:20:00 datouhou 2020-08-26 21:41:00
+#t 1465 17768511 datouhou 2020-08-26 00:20:00 datouhou 2020-08-26 23:38:00
 求问，9.5-9.6返校是强制的吗？
 
 #p 23013012 datouhou datouhou 2020-08-26 20:13:50
@@ -15,4 +15,12 @@
 #p 23013547 datouhou datouhou 2020-08-26 21:40:54
 现在还只是conditionally accepted，不过revision plan的反馈应该九月二号就能返回来。如果结果乐观的话，肯定就先不返校了。
 #quote traveller
+
+#p 23013953 LTW L&P 2020-08-26 23:04:30
+不是可以线上注册？仿佛不算强制？
+#quote datouhou
+
+#p 23014117 datouhou datouhou 2020-08-26 23:38:04
+诶，是嘛，求问哪里可以申请线上注册？
+#quote LTW
 
