@@ -1,4 +1,4 @@
-#t 35 17538289 PKUwuming 2020-02-12 00:15:00 xiaomuduo 2020-07-20 20:19:00
+#t 35 17538289 PKUwuming 2020-02-12 00:15:00 ljslcy 2020-08-27 01:09:00
 校园网VPN客户端的可选软件：OpenConnect-GUI
 
 #p 21835506 PKUwuming 无名 2020-06-08 12:37:03
@@ -155,11 +155,11 @@ vpn会断原网络难道不是再正常不过的行为么……
 pulse secure是有ipv6连接的，应该是可以的
 #quote Xuezi
 
-#p 22217183 pennsecret Fantasy polaris 2020-04-13 23:13:25
+#p 22217183 pennsecret pennsecret 2020-04-13 23:13:25
 赞一个！刚刚测试成功。
 #quote PKUwuming
 
-#p 22217202 pennsecret Fantasy polaris 2020-04-13 23:15:37
+#p 22217202 pennsecret pennsecret 2020-04-13 23:15:37
 太好用了。解决了我查文献的困难！
 #quote PKUwuming
 
@@ -227,5 +227,9 @@ pulse secure是有ipv6连接的，应该是可以的
 2020-07-20 20:16:25 |  584 | Incoming KMP message 300 of size 32 (got 32)
 2020-07-20 20:17:35 |  584 | Incoming KMP message 300 of size 84 (got 84)
 2020-07-20 20:18:08 |  584 | Incoming KMP message 300 of size 84 (got 84)
+#quote PKUwuming
+
+#p 23014618 ljslcy StupidArcher|死侍|咸鱼|珞珈山列车员 2020-08-27 01:09:21
+我家的pulse表现要比OpenConnect好😂 😂 
 #quote PKUwuming
 
