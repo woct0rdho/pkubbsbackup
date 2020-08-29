@@ -1,4 +1,4 @@
-#t 668 17772277 wwhhiittee 2020-08-30 00:33:00 wwhhiittee 2020-08-30 00:45:00
+#t 668 17772277 wwhhiittee 2020-08-30 00:34:00 wwhhiittee 2020-08-30 01:08:00
 为什么会被认为是用刷课机？
 
 #p 23029383 wwhhiittee white 2020-08-30 00:42:14
@@ -11,4 +11,21 @@
 #p 23029415 wwhhiittee white 2020-08-30 00:44:56
 不知道是否和firefox记忆下的选课系统是登入后的页面，而不是统一身份认证页面有关？
 #quote wwhhiittee
+
+#p 23029462 Iridaze Iridaze 2020-08-30 01:03:12
+elective祖传问题了，只有真的使用刷课机才不会被提示用刷课机，正常刷新页面都有可能这样（
+#quote wwhhiittee
+
+#p 23029463 wwhhiittee white 2020-08-30 01:04:32
+感谢回答！
+这样吗.....我会被怎么样吗？还是不用管他呢？
+#quote Iridaze
+
+#p 23029468 Iridaze Iridaze 2020-08-30 01:07:19
+不管他
+#quote wwhhiittee
+
+#p 23029469 wwhhiittee white 2020-08-30 01:07:41
+了解，谢谢了
+#quote Iridaze
 
