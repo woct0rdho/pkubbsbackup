@@ -1,6 +1,27 @@
-#t 1465 17770286 yi 2020-08-28 08:22:00 yi 2020-08-28 08:22:00
+#t 1465 17770286 yi 2020-08-28 00:08:00 Exista 2020-08-28 00:20:00
 启用校园健康宝了
 
 #p 23021163 yi ccccc07 2020-08-28 08:21:09
 具体什么作用我也不知道，咱们拭目以待
+
+#p 23023634 moyingrufeng 墨影如风 2020-08-28 18:53:53
+校园健康宝在哪儿？
+#quote yi
+
+#p 23023650 huyz huyz 2020-08-28 19:01:59
+[https://yanyuan.pku.edu.cn/site/epidehealth/masterqrcode?door_id=](jump-to.php?url=https%3A%2F%2Fyanyuan.pku.edu.cn%2Fsite%2Fepidehealth%2Fmasterqrcode%3Fdoor_id%3D)
+door_id= 后面加上位置代码
+#quote moyingrufeng
+
+#p 23023739 RYzheng 小小小山丘 2020-08-28 19:24:33
+点开回调地址错误什么意思呀
+#quote huyz
+
+#p 23023744 mojave 你说得都对 2020-08-28 19:25:17
+八月初的时候在理1就见到了= =
+#quote yi
+
+#p 23023875 Exista Exista 2020-08-28 20:21:41
+这个地址编号有点意思，不知道是有什么规律还是随便排的。
+#quote yi
 
