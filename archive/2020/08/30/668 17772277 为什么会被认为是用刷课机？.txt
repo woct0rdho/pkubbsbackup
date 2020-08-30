@@ -1,4 +1,4 @@
-#t 668 17772277 wwhhiittee 2020-08-30 00:34:00 wwhhiittee 2020-08-30 01:08:00
+#t 668 17772277 wwhhiittee 2020-08-30 00:00:00 wwhhiittee 2020-08-30 08:51:00
 为什么会被认为是用刷课机？
 
 #p 23029383 wwhhiittee white 2020-08-30 00:42:14
@@ -28,4 +28,17 @@ elective祖传问题了，只有真的使用刷课机才不会被提示用刷课
 #p 23029469 wwhhiittee white 2020-08-30 01:07:41
 了解，谢谢了
 #quote Iridaze
+
+#p 23029723 PKUCC 北京大学计算中心 2020-08-30 08:22:36
+同学： 
+      这个提示，的确有点吓人哈！不过，不用紧张，应该是误报。
+      部分浏览器（如360等），在选课系统中，请求偶尔会异常频繁。
+      用google、firefox浏览器，清理缓存后试试。
+      建议每次选课从地址elective.pku.edu.cn进入选课系统。
+      如还有问题，请发邮件wwwinfo@pku.edu.cn。我们技术小哥单独联系你。
+#quote wwhhiittee
+
+#p 23029767 wwhhiittee white 2020-08-30 08:50:06
+了解，谢谢
+#quote PKUCC
 
