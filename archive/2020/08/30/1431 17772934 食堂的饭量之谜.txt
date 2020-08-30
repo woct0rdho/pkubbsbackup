@@ -1,4 +1,4 @@
-#t 1431 17772934 shaoguang 2020-08-30 00:20:00 ispec 2020-08-31 00:04:00
+#t 1431 17772934 shaoguang 2020-08-30 00:20:00 JohnSpartan 2020-08-31 05:05:00
 食堂的饭量之谜
 
 #p 23032437 shaoguang 韶光 2020-08-30 20:18:55
@@ -48,4 +48,9 @@ kuai3
 #p 23033451 ispec ispec 2020-08-31 00:03:37
 会……
 #quote nogatnep
+
+#p 23033782 JohnSpartan GSHXD 2020-08-31 05:04:15
+学到了擓……
+之前都用kuai代替
+#quote loasa
 
