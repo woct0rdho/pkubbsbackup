@@ -1,0 +1,21 @@
+#t 668 17773163 wadew 2020-08-31 00:35:00 wadew 2020-08-31 00:35:00
+matlab 无法连接license服务器
+
+#p 23033537 wadew 喵喵喵？ 2020-08-31 00:34:22
+wade@mgmt:/opt/MATLAB/R2020a/licenses$matlab
+MATLAB is selecting SOFTWARE OPENGL rendering.
+License checkout failed.
+License Manager Error -15
+Unable to connect to the license server. 
+Check that the network license manager has been started, and that the client machine can communicate
+with the license server.
+Troubleshoot this issue by visiting: 
+[https://www.mathworks.com/support/lme/R2020a/15](jump-to.php?url=https%3A%2F%2Fwww.mathworks.com%2Fsupport%2Flme%2FR2020a%2F15)
+Diagnostic Information:
+Feature: MATLAB 
+License path: /home/wade/.matlab/R2020a_licenses:/opt/MATLAB/R2020a/licenses/license.dat:/opt/MATLAB/R2020a/licens
+es/network.lic 
+Licensing error: -15,570. System Error: 115
+另外，给的.lic文件是2016版的？
+[http://software.pku.edu.cn/help/MATLAB/network.lic](jump-to.php?url=http%3A%2F%2Fsoftware.pku.edu.cn%2Fhelp%2FMATLAB%2Fnetwork.lic)
+
