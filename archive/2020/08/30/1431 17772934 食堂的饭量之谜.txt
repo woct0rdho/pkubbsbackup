@@ -1,4 +1,4 @@
-#t 1431 17772934 shaoguang 2020-08-30 00:20:00 Symbolk 2020-08-31 09:54:00
+#t 1431 17772934 shaoguang 2020-08-30 00:20:00 JohnSpartan 2020-09-01 01:44:00
 食堂的饭量之谜
 
 #p 23032437 shaoguang 韶光 2020-08-30 20:18:55
@@ -61,4 +61,8 @@ kuai3
 #p 23034162 Symbolk Dorteo 2020-08-31 09:53:59
 对于只吃一两的我来说都没有什么区别呢
 #quote shaoguang
+
+#p 23039152 JohnSpartan GSHXD 2020-09-01 01:44:16
+那不是kuài吗
+#quote golder
 
