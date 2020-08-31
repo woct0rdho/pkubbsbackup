@@ -1,4 +1,4 @@
-#t 35 17772202 sunnyyeyan 2020-08-29 00:23:00 sunnyyeyan 2020-08-31 12:41:00
+#t 35 17772202 sunnyyeyan 2020-08-29 00:23:00 gwyye 2020-08-31 16:09:00
 VPN已经连续两天了登不上去了~
 
 #p 23028520 sunnyyeyan bigfish 2020-08-29 23:20:24
@@ -34,4 +34,10 @@ win的话在microsoft store下pulse secure会好用很多
 #p 23036135 sunnyyeyan bigfish 2020-08-31 12:40:25
 好的我试试，但计算机中心的老师说，跟学校的软件和网络都木有关系~
 #quote gwyye
+
+#p 23037145 gwyye 浊酒一杯笑风尘 2020-08-31 16:09:18
+你那个转载到计算中心的帖子的回复也有建议试试microsoft office的软件啊
+我当时也是走投无路了才试了没想到就成功了
+（不过需要把原版本卸干净再装才好用）
+#quote sunnyyeyan
 
