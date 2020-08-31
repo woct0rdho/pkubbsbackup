@@ -1,4 +1,4 @@
-#t 35 17772202 sunnyyeyan 2020-08-29 00:23:00 Rocky 2020-08-30 20:34:00
+#t 35 17772202 sunnyyeyan 2020-08-29 00:23:00 gwyye 2020-08-31 10:05:00
 VPN已经连续两天了登不上去了~
 
 #p 23028520 sunnyyeyan bigfish 2020-08-29 23:20:24
@@ -19,5 +19,10 @@ VPN已经连续两天了登不上去了~
 
 #p 23032483 Rocky Rocky 2020-08-30 20:33:22
 同蹲解决方法
+#quote sunnyyeyan
+
+#p 23034216 gwyye 浊酒一杯笑风尘 2020-08-31 10:05:29
+建议不用北大官网的pulse secure
+win的话在microsoft store下pulse secure会好用很多
 #quote sunnyyeyan
 
