@@ -1,4 +1,4 @@
-#t 35 17772202 sunnyyeyan 2020-08-29 00:23:00 sunnyyeyan 2020-08-31 12:40:00
+#t 35 17772202 sunnyyeyan 2020-08-29 00:23:00 sunnyyeyan 2020-08-31 12:41:00
 VPN已经连续两天了登不上去了~
 
 #p 23028520 sunnyyeyan bigfish 2020-08-29 23:20:24
@@ -30,4 +30,8 @@ win的话在microsoft store下pulse secure会好用很多
 你也是同样的问题么？看来不是我一个人的问题啊~
 今天还是上不去，实在是要疯了，上不了各个数据库，真的是~~
 #quote Rocky
+
+#p 23036135 sunnyyeyan bigfish 2020-08-31 12:40:25
+好的我试试，但计算机中心的老师说，跟学校的软件和网络都木有关系~
+#quote gwyye
 
