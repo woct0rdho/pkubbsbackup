@@ -1,4 +1,4 @@
-#t 1431 17772934 shaoguang 2020-08-30 00:20:00 JohnSpartan 2020-09-01 01:44:00
+#t 1431 17772934 shaoguang 2020-08-30 00:20:00 golder 2020-09-01 08:07:00
 食堂的饭量之谜
 
 #p 23032437 shaoguang 韶光 2020-08-30 20:18:55
@@ -65,4 +65,8 @@ kuai3
 #p 23039152 JohnSpartan GSHXD 2020-09-01 01:44:16
 那不是kuài吗
 #quote golder
+
+#p 23039309 golder laughter 2020-09-01 08:06:15
+我查的读三声啊
+#quote JohnSpartan
 
