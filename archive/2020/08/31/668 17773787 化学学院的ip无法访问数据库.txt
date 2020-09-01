@@ -1,4 +1,4 @@
-#t 668 17773787 yangxiaopku 2020-08-31 00:14:00 yangxiaopku 2020-08-31 17:17:00
+#t 668 17773787 yangxiaopku 2020-08-31 00:14:00 ignore 2020-09-01 13:37:00
 化学学院的ip无法访问数据库
 
 #p 23036823 yangxiaopku DAPEE 2020-08-31 14:48:19
@@ -11,4 +11,8 @@
 #p 23037450 yangxiaopku DAPEE 2020-08-31 17:16:40
 需要登录
 #quote yangxiaopku
+
+#p 23040571 ignore ignore 2020-09-01 13:37:27
+今天还是连不上，情况和楼上图片一样
+#quote PKUCC
 
