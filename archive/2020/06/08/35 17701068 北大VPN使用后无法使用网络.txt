@@ -1,4 +1,4 @@
-#t 35 17701068 yyshen 2020-06-08 00:15:00 sunnyyeyan 2020-09-01 11:25:00
+#t 35 17701068 yyshen 2020-06-08 00:15:00 yyshen 2020-09-01 15:57:00
 北大VPN使用后无法使用网络
 
 #p 22558585 yyshen yyshen 2020-06-08 15:00:52
@@ -70,4 +70,8 @@
 同样的问题，刚才终于解决了~~
 方法就是12楼所说的，Microsoft Store下载pulse secure然后按北大vpn客户端安装教程设置就好了，不要用北大网站下载的pulse secure！
 #quote yyshen
+
+#p 23041134 yyshen yyshen 2020-09-01 15:56:42
+收到，感谢！
+#quote sunnyyeyan
 
