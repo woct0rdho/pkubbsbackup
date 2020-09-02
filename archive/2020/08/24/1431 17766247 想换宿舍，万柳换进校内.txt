@@ -1,4 +1,4 @@
-#t 1431 17766247 GuessBless 2020-08-24 00:12:00 pythonscript 2020-09-02 16:45:00
+#t 1431 17766247 GuessBless 2020-08-24 00:12:00 tzlewis 2020-09-02 17:59:00
 想换宿舍，万柳换进校内
 
 #p 22998077 GuessBless GuessBless 2020-08-24 12:13:26
@@ -30,4 +30,8 @@ P.S. 如果有愿意跟我换宿舍的同学在考虑交通问题的话，我可
 #p 23044970 pythonscript 哈哈哈 2020-09-02 16:44:46
 这条件，有人换就怪了。一开始还以为是送一辆电动车，最后发现是折价几百卖？
 #quote GuessBless
+
+#p 23045185 tzlewis llillusion 2020-09-02 17:58:42
+re
+#quote pythonscript
 
