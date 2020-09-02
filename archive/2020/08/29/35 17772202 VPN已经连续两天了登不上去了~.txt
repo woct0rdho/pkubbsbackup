@@ -1,4 +1,4 @@
-#t 35 17772202 sunnyyeyan 2020-08-29 00:23:00 uranus 2020-09-01 22:36:00
+#t 35 17772202 sunnyyeyan 2020-08-29 00:23:00 uranus 2020-09-02 10:53:00
 VPN已经连续两天了登不上去了~
 
 #p 23028520 sunnyyeyan bigfish 2020-08-29 23:20:24
@@ -48,4 +48,8 @@ win的话在microsoft store下pulse secure会好用很多
 #p 23042516 uranus caroline 2020-09-01 22:35:27
 楼主好！今天出现了和你一模一样的问题，关键是今天新换了电脑，我还以为是电脑的故障。这样看来估计我的本本是没啥问题，但是这个VPN问题大了去了。手动捂脸。
 #quote sunnyyeyan
+
+#p 23043647 uranus caroline 2020-09-02 10:53:09
+谢谢啦！照你说的从microsoft store重新下载了VPN，问题就解决了！
+#quote gwyye
 
