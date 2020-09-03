@@ -1,4 +1,4 @@
-#t 35 16264150 hiaoxui 2017-11-10 00:00:00 karlmarx 2020-08-22 00:01:00
+#t 35 16264150 hiaoxui 2017-11-10 00:00:00 strayer 2020-09-03 16:13:00
 科学上网
 
 #p 17134091 hiaoxui 小辉 2020-07-23 10:32:23
@@ -2025,11 +2025,11 @@ win10下面学校vpn没有ipv6，
 是，已经断粮好几天了
 #quote seaandgull
 
-#p 21876541 Safeguard 未知风度 2020-02-20 21:00:53
+#p 21876541 Safeguard SafeGunda 2020-02-20 21:00:53
 ipv6也全部阵亡了嘛。。？
 #quote hiaoxui
 
-#p 21876542 Safeguard 未知风度 2020-02-20 21:01:09
+#p 21876542 Safeguard SafeGunda 2020-02-20 21:01:09
 ipv6是不是也全部阵亡了。。？
 #quote hiaoxui
 
@@ -2455,7 +2455,7 @@ ipv6的都连不上了。。。
 你使用订阅了吗?
 #quote sugelala
 
-#p 22464530 huanghuayang 海拉鲁小霸王 2020-05-23 13:41:19
+#p 22464530 huanghuayang 海拉鲁小霸王/洛斯里克地头蛇/葦名打铁匠/亚楠人民亲切的朋友 2020-05-23 13:41:19
 再次来感谢一下
 #quote hiaoxui
 
@@ -3059,4 +3059,8 @@ up
 #p 22982876 karlmarx 还我三角地！灵均·六月雪 2020-08-22 01:55:38
 哈哈哈
 #quote blablue
+
+#p 23051008 strayer 槛内人 2020-09-03 16:13:23
+又挂了？
+#quote hiaoxui
 
