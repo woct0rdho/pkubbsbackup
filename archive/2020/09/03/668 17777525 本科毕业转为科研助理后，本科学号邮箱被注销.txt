@@ -1,4 +1,4 @@
-#t 668 17777525 huohuohuohuo 2020-09-03 17:53:00 Glycine 2020-09-03 17:54:00
+#t 668 17777525 huohuohuohuo 2020-09-03 17:54:00 huohuohuohuo 2020-09-03 18:06:00
 本科毕业转为科研助理后，本科学号邮箱被注销
 
 #p 23051519 huohuohuohuo wcc 2020-09-03 17:53:48
@@ -8,4 +8,12 @@
 #p 23051526 Glycine 甘氨酸 2020-09-03 17:54:44
 bd
 #quote huohuohuohuo
+
+#p 23051545 PKUCC 北京大学计算中心 2020-09-03 18:01:51
+你好！请发邮件到its@pku.edu.cn，说明情况，可以解决的。
+#quote huohuohuohuo
+
+#p 23051567 huohuohuohuo wcc 2020-09-03 18:05:36
+好的，我马上发邮件，非常感谢
+#quote PKUCC
 
