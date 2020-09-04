@@ -1,8 +1,12 @@
-#t 668 17779404 fightBoy 2020-09-04 22:21:00 fightBoy 2020-09-04 22:21:00
+#t 668 17779404 fightBoy 2020-09-04 00:22:00 strangeluv 2020-09-04 23:41:00
 同学们有坚果云的用户吗？
 
 #p 23058453 fightBoy call me 鸡腿饭好了 2020-09-04 22:20:37
 最近经常不能同步，我的台式机和笔记本都不行。
 比如官网[https://www.jianguoyun.com/](jump-to.php?url=https%3A%2F%2Fwww.jianguoyun.com%2F)都上不去。
 有点想知道，是我个人的问题，还是服务器的问题。
+
+#p 23058662 strangeluv strangeluv 2020-09-04 23:40:38
+这几天我也时不时碰到这个问题，每次碰到过一段时间又好了
+#quote fightBoy
 
