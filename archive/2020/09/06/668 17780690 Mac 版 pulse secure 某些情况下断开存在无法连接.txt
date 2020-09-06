@@ -1,0 +1,12 @@
+#t 668 17780690 ysmintor 2020-09-06 21:21:00 ysmintor 2020-09-06 21:21:00
+Mac 版 pulse secure 某些情况下断开存在无法连接
+
+#p 23065159 ysmintor YorkYu 2020-09-06 21:21:38
+
+
+2020-09-06 21:20:28
+长时间连接后，会突然断开，感觉像是上一次的 session 没有断开，一直是 request connect 状态。重启后可以解决。
+希望能够解决下，版本是9.1.4。
+刚刚又这样连接不上，便删除了，重启后再安装，连接提示上一次的 session 还存在。
+&lt;img src='[https://lk.yorkyu.com/2020/09/06/4999aaafd252a.jpg](jump-to.php?url=https%3A%2F%2Flk.yorkyu.com%2F2020%2F09%2F06%2F4999aaafd252a.jpg)' alt='4999aaafd252a'/&gt;
+
