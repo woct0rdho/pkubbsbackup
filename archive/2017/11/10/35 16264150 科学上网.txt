@@ -1,4 +1,4 @@
-#t 35 16264150 hiaoxui 2017-11-10 00:00:00 WHOSYOURDAD 2020-09-07 00:10:00
+#t 35 16264150 hiaoxui 2017-11-10 00:00:00 hiaoxui 2020-09-07 13:41:00
 科学上网
 
 #p 17134091 hiaoxui 小辉 2020-07-23 10:32:23
@@ -3144,4 +3144,8 @@ hello我想问一下，为什么我没有翻墙但是每天还会有16kb的Downl
 #p 23066469 WHOSYOURDAD Vasily 2020-09-07 10:17:52
 我重新下载了试试
 #quote hiaoxui
+
+#p 23067220 hiaoxui 小辉 2020-09-07 13:40:48
+尝试把你的问题向 wallesspku@googlegroups.com 反馈.
+#quote WHOSYOURDAD
 
