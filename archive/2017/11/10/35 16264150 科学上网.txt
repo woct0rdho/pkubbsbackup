@@ -1,4 +1,4 @@
-#t 35 16264150 hiaoxui 2017-11-10 00:00:00 WHOSYOURDAD 2020-09-07 15:14:00
+#t 35 16264150 hiaoxui 2017-11-10 00:00:00 karlmarx 2020-09-08 00:00:00
 科学上网
 
 #p 17134091 hiaoxui 小辉 2020-07-23 10:32:23
@@ -1253,7 +1253,7 @@ Potatso Lite 配置和Windows端填写的一样
 可以把你的情况发给我邮箱吗? wallesspku@hotmail.com
 #quote arran
 
-#p 21074670 pkuplusplus 社会主义接班人 2019-10-10 15:56:01
+#p 21074670 pkuplusplus 无事献殷勤 2019-10-10 15:56:01
 谢谢大佬
 #quote hiaoxui
 
@@ -3152,4 +3152,12 @@ hello我想问一下，为什么我没有翻墙但是每天还会有16kb的Downl
 #p 23067597 WHOSYOURDAD Vasily 2020-09-07 15:13:25
 重新下载搞定啦
 #quote hiaoxui
+
+#p 23068335 AndrewKim Andrew 2020-09-07 17:19:45
+请问SSR User Profile中的Data Balance是什么意思呢？是指一共只有20G的限额吗？
+#quote hiaoxui
+
+#p 23074601 karlmarx 还我三角地！灵均·六月雪 2020-09-08 00:11:41
+仔细阅读有关流量限制的说明。
+#quote AndrewKim
 
