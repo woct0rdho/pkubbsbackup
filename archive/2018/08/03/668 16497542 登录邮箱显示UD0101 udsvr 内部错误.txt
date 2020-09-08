@@ -1,0 +1,38 @@
+#t 668 16497542 ddddd 2018-08-03 00:00:00 ydhforever 2020-09-08 11:54:00
+登录邮箱显示UD0101 udsvr 内部错误
+
+#p 18241419 ddddd 咚咚咚咚咚 2018-08-03 11:51:13
+请问是个人的原因，还是PKU邮箱down掉了呢
+
+#p 18241636 Evangelist 豆豆 2018-08-03 12:54:32
+我也是这样
+#quote ddddd
+
+#p 18242906 PKUCC 北京大学计算中心 2018-08-03 20:59:40
+你好！这个问题今天中午已经解决了。
+#quote ddddd
+
+#p 20751297 JohnSpartan GSHXD 2019-08-30 00:12:58
+昨日重现？
+#quote ddddd
+
+#p 20751364 yxyh yxyh 2019-08-30 00:45:38
+重现错误
+#quote ddddd
+
+#p 20751378 JSCJK JSCJK 2019-08-30 00:53:58
+重现+1
+#quote yxyh
+
+#p 20751380 laserdog Rogers 2019-08-30 00:55:00
++2
+#quote JSCJK
+
+#p 20751386 golder laughter 2019-08-30 01:00:29
+请尽快解决
+#quote ddddd
+
+#p 23075638 ydhforever 走走停停 2020-09-08 11:53:57
+又遇到这种问题了。。。。。
+#quote ddddd
+
