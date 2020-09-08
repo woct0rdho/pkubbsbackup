@@ -1,4 +1,4 @@
-#t 35 17782346 XiaoPuTao 2020-09-08 00:19:00 XiaoPuTao 2020-09-08 21:26:00
+#t 35 17782346 XiaoPuTao 2020-09-08 00:19:00 RichardWake 2020-09-08 22:49:00
 措不及防，毕业后邮箱容量突变2.5G
 
 #p 23077236 XiaoPuTao 秋收 2020-09-08 19:31:35
@@ -50,4 +50,33 @@
 #p 23077810 XiaoPuTao 秋收 2020-09-08 21:25:30
 长久来看，还是QQ好用啊
 #quote XiaoPuTao
+
+#p 23077894 quicy Big Sur 2020-09-08 22:03:16
+对，邮箱满的话，对方发信发不进来的
+#quote XiaoPuTao
+
+#p 23077897 Protestant LittleTiger 2020-09-08 22:05:56
+挂到QQ邮箱下边就行
+#quote XiaoPuTao
+
+#p 23077901 XiaoPuTao 秋收 2020-09-08 22:06:40
+啊啊啊啊啊啊！
+#quote quicy
+
+#p 23077929 Maxwell Demon 2020-09-08 22:21:22
+我毕业后下载了所有邮件，然后清空，再设置了全部转发到一个163邮箱。
+这样之后只要满了就删，反正163那边有所有的备份
+#quote XiaoPuTao
+
+#p 23077984 XiaoPuTao 秋收 2020-09-08 22:34:54
+向你学习
+#quote Maxwell
+
+#p 23078024 RichardWake RichardWake 2020-09-08 22:45:45
+对呀，我的也成为了512M
+#quote dvorah
+
+#p 23078033 RichardWake RichardWake 2020-09-08 22:48:49
+666，学习了
+#quote Maxwell
 
