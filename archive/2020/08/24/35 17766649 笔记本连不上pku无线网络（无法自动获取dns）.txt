@@ -1,4 +1,4 @@
-#t 35 17766649 pxcaster 2020-08-24 00:21:00 senshensheng 2020-09-05 21:01:00
+#t 35 17766649 pxcaster 2020-08-24 00:21:00 pxcaster 2020-09-09 14:46:00
 笔记本连不上pku无线网络（无法自动获取dns）
 
 #p 23000292 pxcaster pxcaster 2020-08-24 21:26:38
@@ -7,4 +7,8 @@
 #p 23061618 senshensheng 墨眉无锋 2020-09-05 21:01:31
 您好 我也遇到这个问题 您解决了吗
 #quote pxcaster
+
+#p 23080162 pxcaster pxcaster 2020-09-09 14:45:45
+没有，我从别人电脑把dns抄过来手动输的
+#quote senshensheng
 
