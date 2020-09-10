@@ -1,0 +1,10 @@
+#t 668 17783866 JPENGKU 2020-09-10 00:12:00 PKUCC 2020-09-10 00:12:00
+ios使用mail登陆学生邮箱
+
+#p 23083092 JPENGKU humankind 2020-09-10 12:14:52
+请问ios系统下的mail或者是网易邮箱大师如何登陆stu邮箱吗？谢谢老师
+
+#p 23083119 PKUCC 北京大学计算中心 2020-09-10 12:20:25
+你好！mail.stu.pku.edu.cn的首页上“客户端配置”（[https://qiye.163.com/help/l-12.html](jump-to.php?url=https%3A%2F%2Fqiye.163.com%2Fhelp%2Fl-12.html)），里面有详细的说明。
+#quote JPENGKU
+
