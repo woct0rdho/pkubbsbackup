@@ -1,0 +1,10 @@
+#t 35 17785744 Spider 2020-09-12 14:14:00 Spider 2020-09-12 14:15:00
+请问宿舍有线网这个下行速度算正常吗，坐标45甲
+
+#p 23090652 Spider spider 2020-09-12 14:14:33
+<img src="https://www.speedtest.net/result/10069591223.png"/>
+
+#p 23090654 Spider spider 2020-09-12 14:15:30
+测了好多次，下行从来没有跑上过300Mbps
+#quote Spider
+

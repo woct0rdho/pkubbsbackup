@@ -1,4 +1,4 @@
-#t 668 17624317 wswcelena 2020-04-14 00:00:00 wswcelena 2020-08-08 16:15:00
+#t 668 17624317 wswcelena 2020-04-14 00:00:00 vijosame 2020-09-12 14:16:00
 未能连接到 Pulse Secure统一网络服务
 
 #p 22217630 wswcelena 噗哈哈 2020-04-14 00:57:30
@@ -62,4 +62,8 @@ MacOS Mojave Catalina Pulse Secure无法使用怎么解决？ - Unknown的回答
 #p 22921600 wswcelena 噗哈哈 2020-08-08 16:15:07
 把电脑手动降级后解决问题了
 #quote Romain
+
+#p 23090653 vijosame vijosame 2020-09-12 14:15:26
+同遇到这个问题了，经过查找发现是我自己禁用了开机自启动项，导致pulse secure的某些服务启动失败。开启了自启动项就解决了。
+#quote wswcelena
 
