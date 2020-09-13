@@ -1,12 +1,11 @@
-#t 668 17786104 SunnySun 2020-09-12 00:23:00 SunnySun 2020-09-13 09:50:00
+#t 668 17786104 SunnySun 2020-09-12 00:23:00 PKUCC 2020-09-13 14:35:00
 毕业生500m邮箱容量不够
 
 #p 23092379 SunnySun 蓝色是最温暖的颜色 2020-09-12 23:20:37
 想问下大家，有没有什么方法能扩容，或者下载下来以前的那些邮件？很多邮件都蛮重要，不想删除。
 
 #p 23092704 Protestant LittleTiger 2020-09-13 01:49:31
-
-
+#DELETED
 2020-09-13 01:48:35
 [https://bbs.pku.edu.cn/v2/post-read.php?bid=668&amp;threadid=17749597](post-read.php?bid=668&amp;threadid=17749597)
 [https://bbs.pku.edu.cn/v2/post-read.php?bid=668&amp;threadid=17735065](post-read.php?bid=668&amp;threadid=17735065)
@@ -26,4 +25,8 @@
 #p 23093158 SunnySun 蓝色是最温暖的颜色 2020-09-13 09:49:50
 谢谢。但是过去的十天我的信箱一直是满的，导致我错过了一些邮件，怎么追回呢？
 #quote PKUCC
+
+#p 23094439 PKUCC 北京大学计算中心 2020-09-13 14:34:40
+从我们这边没有办法找回了。由于邮箱满被拒收的邮件，发信人会收到退信。如果是普通人发送的邮件，通常会重发的；但如果是通过系统发送的，一般不会重发。
+#quote SunnySun
 
