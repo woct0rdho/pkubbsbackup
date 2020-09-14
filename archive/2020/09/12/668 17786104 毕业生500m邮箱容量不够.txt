@@ -1,4 +1,4 @@
-#t 668 17786104 SunnySun 2020-09-12 00:23:00 pkuerpkuer 2020-09-13 22:49:00
+#t 668 17786104 SunnySun 2020-09-12 00:23:00 Smart 2020-09-14 15:53:00
 毕业生500m邮箱容量不够
 
 #p 23092379 SunnySun 蓝色是最温暖的颜色 2020-09-12 23:20:37
@@ -37,4 +37,8 @@
 #p 23096004 pkuerpkuer 嘘嘘 2020-09-13 22:49:06
 请问变成校友邮箱后登录界面在哪儿呢
 #quote PKUCC
+
+#p 23098692 Smart 睡意盎然 2020-09-14 15:53:03
+[https://mail.alumni.pku.edu.cn/](jump-to.php?url=https%3A%2F%2Fmail.alumni.pku.edu.cn%2F)
+#quote pkuerpkuer
 
