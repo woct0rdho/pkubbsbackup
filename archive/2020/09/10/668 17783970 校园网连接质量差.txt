@@ -1,4 +1,4 @@
-#t 668 17783970 mockingbird 2020-09-10 00:14:00 mockingbird 2020-09-10 19:34:00
+#t 668 17783970 mockingbird 2020-09-10 00:14:00 mockingbird 2020-09-14 23:01:00
 校园网连接质量差
 
 #p 23083587 mockingbird Petyr 2020-09-10 14:11:43
@@ -11,4 +11,8 @@
 #p 23084570 mockingbird Petyr 2020-09-10 19:33:23
 您好，已经站内信回复您了
 #quote PKUCC
+
+#p 23100506 mockingbird Petyr 2020-09-14 23:01:08
+@PKUCC 我之前已经私信你们地址了，没有有线网络影响比较大，还请麻烦过来排查下
+#quote mockingbird
 
