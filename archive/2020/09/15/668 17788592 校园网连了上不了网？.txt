@@ -1,4 +1,4 @@
-#t 668 17788592 RealShadow 2020-09-15 12:22:00 PKUCC 2020-09-15 12:33:00
+#t 668 17788592 RealShadow 2020-09-15 00:12:00 RealShadow 2020-09-15 13:51:00
 校园网连了上不了网？
 
 #p 23102144 RealShadow RealShadow 2020-09-15 12:22:37
@@ -7,4 +7,12 @@
 #p 23102182 PKUCC 北京大学计算中心 2020-09-15 12:32:50
 您好！请问您用的是有线还是无线？登录网关了吗？
 #quote RealShadow
+
+#p 23102484 RealShadow RealShadow 2020-09-15 13:40:47
+无线，连上之后没有弹出登录验证，也没网，登录不了
+#quote PKUCC
+
+#p 23102519 RealShadow RealShadow 2020-09-15 13:51:03
+已经可以连接了，是电脑网络设置问题。
+#quote PKUCC
 
