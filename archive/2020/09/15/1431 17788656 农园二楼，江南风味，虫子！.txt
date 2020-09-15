@@ -1,4 +1,4 @@
-#t 1431 17788656 yuanphys 2020-09-15 00:13:00 Unverify 2020-09-15 14:31:00
+#t 1431 17788656 yuanphys 2020-09-15 00:13:00 yuanphys 2020-09-15 15:06:00
 农园二楼，江南风味，虫子！
 
 #p 23102398 yuanphys yuanphys 2020-09-15 13:22:28
@@ -11,4 +11,12 @@
 #p 23102688 Unverify 未认证 2020-09-15 14:30:50
 虫子多少钱一斤买的，还送青菜和肉丸？
 #quote yuanphys
+
+#p 23102791 yuanphys yuanphys 2020-09-15 15:05:22
+味道不错！
+#quote RuoZ
+
+#p 23102792 yuanphys yuanphys 2020-09-15 15:05:44
+买一送二
+#quote Unverify
 
