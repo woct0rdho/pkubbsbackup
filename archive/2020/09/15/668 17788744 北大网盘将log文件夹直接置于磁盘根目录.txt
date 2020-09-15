@@ -1,4 +1,4 @@
-#t 668 17788744 MiraculousMa 2020-09-15 14:54:00 PKUCC 2020-09-15 15:17:00
+#t 668 17788744 MiraculousMa 2020-09-15 00:14:00 MiraculousMa 2020-09-15 18:40:00
 北大网盘将log文件夹直接置于磁盘根目录
 
 #p 23102755 MiraculousMa 真空中的球形鸡|汪 2020-09-15 14:56:13
@@ -10,4 +10,8 @@
 #p 23102836 PKUCC 北京大学计算中心 2020-09-15 15:16:23
 您好，看下你的安装路径
 #quote MiraculousMa
+
+#p 23103575 MiraculousMa 真空中的球形鸡|汪 2020-09-15 18:40:06
+D:\Program Files\Bdwp
+#quote PKUCC
 
