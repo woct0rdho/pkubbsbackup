@@ -1,4 +1,4 @@
-#t 668 16974119 pangguanOOOI 2019-02-21 00:00:00 dorrnm 2020-09-16 15:06:00
+#t 668 16974119 pangguanOOOI 2019-02-21 00:00:00 pangguanOOOI 2020-09-16 22:19:00
 adobeDC安装踩坑
 
 #p 19628243 pangguanOOOI 追风少年王二狗 2019-02-21 16:50:15
@@ -23,4 +23,8 @@ xswl
 #p 23106776 dorrnm dorrnm 2020-09-16 15:05:29
 并不顶用啊。。
 #quote pangguanOOOI
+
+#p 23108468 pangguanOOOI 追风少年王二狗 2020-09-16 22:18:51
+这个是最初的版本了～
+#quote dorrnm
 
