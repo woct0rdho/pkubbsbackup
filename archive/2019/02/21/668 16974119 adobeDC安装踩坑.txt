@@ -1,0 +1,26 @@
+#t 668 16974119 pangguanOOOI 2019-02-21 00:00:00 dorrnm 2020-09-16 15:06:00
+adobeDC安装踩坑
+
+#p 19628243 pangguanOOOI 追风少年王二狗 2019-02-21 16:50:15
+校园adoe版本似乎更替过，刚开始是直接安装包的安装方式，无需激活码，现在需要激活码（似乎一月时候就已经有了），重装系统之后再次安装adobeDC，其中按照说明安装（关闭了浏览器等等，直接点击"Adobe_Acrobat_DC_Win_X64"文件夹下面的"AdobeSetup"）安装失败，经过实验以下方法可以成功：
+1、打开"**Adobe_Acrobat_DC_Win_X64\Build\Setup\APRO18.0\Adobe Acrobat**"文件夹；
+2、点击<font color="#c00000">**setup**</font>应用程序选择没有序列号的那个安装方法直至安装完成（如图所示）；
+3、打开"**Adobe_Acrobat_DC_Win_X64**"文件夹，运行<font color="#c00000">**AdobeSetup**</font>（如图所示）；
+4、坐等安装完成。
+
+#p 19628338 PKUCC 北京大学计算中心 2019-02-21 17:26:45
+不要激活码了？我们测试一下，也许是个bug，需要修一下 ：)
+#quote pangguanOOOI
+
+#p 19628407 EthanZzz 夏侯妙才 2019-02-21 17:48:05
+xswl
+#quote PKUCC
+
+#p 19632306 pangguanOOOI 追风少年王二狗 2019-02-22 11:53:59
+以前不需要（最开始上线时候）现在还是要的
+#quote PKUCC
+
+#p 23106776 dorrnm dorrnm 2020-09-16 15:05:29
+并不顶用啊。。
+#quote pangguanOOOI
+
