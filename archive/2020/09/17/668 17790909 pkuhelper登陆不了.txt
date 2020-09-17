@@ -1,0 +1,10 @@
+#t 668 17790909 mitsukiyoon 2020-09-17 12:05:00 PKUCC 2020-09-17 12:18:00
+pkuhelper登陆不了
+
+#p 23110150 mitsukiyoon SpringNight 2020-09-17 12:05:12
+明明已经是绑定了手机号的状态，但是登陆的时候总是显示我没有绑定，这种情况该怎么办？需要问谁呢？
+
+#p 23110208 PKUCC 北京大学计算中心 2020-09-17 12:17:52
+请联系helper@pku.edu.cn
+#quote mitsukiyoon
+
