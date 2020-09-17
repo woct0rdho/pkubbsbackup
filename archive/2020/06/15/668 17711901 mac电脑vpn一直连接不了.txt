@@ -1,4 +1,4 @@
-#t 668 17711901 pisceshhh 2020-06-15 00:22:00 bwbnocool 2020-09-13 17:46:00
+#t 668 17711901 pisceshhh 2020-06-15 00:22:00 propagator 2020-09-17 09:59:00
 mac电脑vpn一直连接不了
 
 #p 22643664 pisceshhh 喵喵喵 2020-06-15 22:52:17
@@ -27,4 +27,8 @@ mac电脑vpn一直连接不了
 #p 23095105 bwbnocool 大大大魔王 2020-09-13 17:45:33
 我换电脑了T.T。。。算是提前退役了
 #quote lvwanqi
+
+#p 23109457 propagator 马甲 2020-09-17 09:58:35
+新版mac只适合旧版pulse secure，但旧版已下架，请弃用pulse secure。
+#quote pisceshhh
 
