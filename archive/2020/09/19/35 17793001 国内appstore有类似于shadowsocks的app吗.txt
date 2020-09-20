@@ -1,4 +1,4 @@
-#t 35 17793001 Yetteld 2020-09-19 00:04:00 poverty 2020-09-20 11:54:00
+#t 35 17793001 Yetteld 2020-09-19 00:04:00 lbqlbqlbq 2020-09-20 14:17:00
 国内appstore有类似于shadowsocks的app吗
 
 #p 23117359 Yetteld hahaha 2020-09-19 04:47:23
@@ -20,4 +20,8 @@ v2rayn，github上一大堆啦
 #p 23121512 poverty 不知道猫在想什么的傻狗 2020-09-20 11:53:24
 不过国区可能没有
 #quote poverty
+
+#p 23121887 lbqlbqlbq lbq789 2020-09-20 14:16:31
+Potatso Lite
+#quote Yetteld
 
