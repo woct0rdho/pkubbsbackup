@@ -1,4 +1,4 @@
-#t 72 17792987 Parallel 2020-09-19 00:02:00 Parallel 2020-09-20 15:38:00
+#t 72 17792987 Parallel 2020-09-19 00:02:00 sixeyedfish 2020-09-20 17:55:00
 “高铁”与“动车”
 
 #p 23117314 Parallel // 2020-09-19 02:05:32
@@ -82,4 +82,18 @@ QAQ
 #p 23122175 Parallel // 2020-09-20 15:37:13
 是的（
 #quote GenCross
+
+#p 23122422 golder laughter 2020-09-20 17:07:05
+唐葫芦
+#quote survivor
+
+#p 23122582 sixeyedfish  2020-09-20 17:54:33
+K 快
+T 特快
+Z 贼快
+C 超快
+D 都没我快
+G 滚，明明我最快
+没有字母的车次 快得没话说
+#quote TimeFlyFast
 
