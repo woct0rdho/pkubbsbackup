@@ -1,4 +1,4 @@
-#t 72 17792987 Parallel 2020-09-19 00:02:00 sixeyedfish 2020-09-20 17:55:00
+#t 72 17792987 Parallel 2020-09-19 00:02:00 Splindow 2020-09-20 18:55:00
 “高铁”与“动车”
 
 #p 23117314 Parallel // 2020-09-19 02:05:32
@@ -96,4 +96,12 @@ D 都没我快
 G 滚，明明我最快
 没有字母的车次 快得没话说
 #quote TimeFlyFast
+
+#p 23122691 Taindall Charlie 2020-09-20 18:37:14
+秀儿
+#quote sixeyedfish
+
+#p 23122748 Splindow fhgy 2020-09-20 18:54:37
+只知道贼快，太秀了
+#quote sixeyedfish
 

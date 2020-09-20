@@ -1,4 +1,4 @@
-#t 35 17793001 Yetteld 2020-09-19 00:04:00 Outis 2020-09-20 16:37:00
+#t 35 17793001 Yetteld 2020-09-19 00:04:00 flappypig 2020-09-20 18:53:00
 国内appstore有类似于shadowsocks的app吗
 
 #p 23117359 Yetteld hahaha 2020-09-19 04:47:23
@@ -39,5 +39,9 @@ Potatso Lite
 
 #p 23122346 Outis Outis 2020-09-20 16:36:12
 国区的shadowrocket是假的，lz注意一下
+#quote Yetteld
+
+#p 23122742 flappypig 服赖皮哥 2020-09-20 18:52:25
+用pp助手，自己免费装一个Shadowrocket 
 #quote Yetteld
 
