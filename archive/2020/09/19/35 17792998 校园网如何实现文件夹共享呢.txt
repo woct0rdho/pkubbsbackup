@@ -1,4 +1,4 @@
-#t 35 17792998 Yetteld 2020-09-19 00:04:00 redleaves 2020-09-19 21:16:00
+#t 35 17792998 Yetteld 2020-09-19 00:04:00 Minoshiro 2020-09-20 09:57:00
 校园网如何实现文件夹共享呢
 
 #p 23117356 Yetteld hahaha 2020-09-19 04:36:57
@@ -9,4 +9,8 @@
 #p 23120090 redleaves 红叶飘飘 2020-09-19 21:15:47
 disk.pku.edu.cn
 #quote Yetteld
+
+#p 23121082 Minoshiro 小蓑白 2020-09-20 09:57:42
+本楼正解
+#quote redleaves
 
