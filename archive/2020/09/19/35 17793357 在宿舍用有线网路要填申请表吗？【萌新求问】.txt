@@ -1,4 +1,4 @@
-#t 35 17793357 ianxpku 2020-09-19 00:14:00 sxpeter 2020-09-21 16:50:00
+#t 35 17793357 ianxpku 2020-09-19 00:14:00 exchangeplan 2020-09-21 22:30:00
 在宿舍用有线网路要填申请表吗？【萌新求问】
 
 #p 23118610 ianxpku 小椅子 2020-09-19 14:15:54
@@ -76,5 +76,9 @@ nslookup baidu.com
 nslookup its.pku.edu.cn
 nslookup bbs.pku.edu.cn
 这三个解析正确吗
+#quote ianxpku
+
+#p 23127384 exchangeplan 小甜甜 2020-09-21 22:30:08
+同问，刚进宿舍，连有线网后能获得 192.168.1.5 和 10.255.255.119 两个 IP，但没有路由，能获得一个 2001 开头的 IPv6 地址，只能上 IPv6 网，IPv4 除了私有地址都是访问不了的。想问下是什么情况
 #quote ianxpku
 
