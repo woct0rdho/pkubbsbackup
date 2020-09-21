@@ -1,4 +1,4 @@
-#t 35 17793357 ianxpku 2020-09-19 00:14:00 crystalyeah 2020-09-21 10:30:00
+#t 35 17793357 ianxpku 2020-09-19 00:14:00 sxpeter 2020-09-21 16:50:00
 在宿舍用有线网路要填申请表吗？【萌新求问】
 
 #p 23118610 ianxpku 小椅子 2020-09-19 14:15:54
@@ -69,5 +69,12 @@ traceroute成功了。。？
 
 #p 23124488 crystalyeah 不知道叫什么名字的名字 2020-09-21 10:29:44
 我至今没找到寝室里插网线的设备...
+#quote ianxpku
+
+#p 23126173 sxpeter  2020-09-21 16:49:43
+nslookup baidu.com
+nslookup its.pku.edu.cn
+nslookup bbs.pku.edu.cn
+这三个解析正确吗
 #quote ianxpku
 
