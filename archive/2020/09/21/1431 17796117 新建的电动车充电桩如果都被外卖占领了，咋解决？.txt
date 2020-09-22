@@ -1,4 +1,4 @@
-#t 1431 17796117 coolpadtommy 2020-09-21 00:23:00 Yxiaojing 2020-09-22 22:23:00
+#t 1431 17796117 coolpadtommy 2020-09-21 00:23:00 NorthStars 2020-09-22 23:24:00
 新建的电动车充电桩如果都被外卖占领了，咋解决？
 
 #p 23127675 coolpadtommy 阿言 2020-09-21 23:46:10
@@ -203,5 +203,9 @@
 
 #p 23131668 Yxiaojing xiao 2020-09-22 22:22:40
 骑自行车把电池送到勺园充电柜？
+#quote coolpadtommy
+
+#p 23131918 NorthStars 北星 2020-09-22 23:24:16
+外卖电动车会停在北大吗？
 #quote coolpadtommy
 
