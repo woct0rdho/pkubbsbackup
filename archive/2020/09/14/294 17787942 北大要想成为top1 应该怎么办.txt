@@ -1,4 +1,4 @@
-#t 294 17787942 morningbell 2020-09-14 00:19:00 DerrickKong 2020-09-22 11:59:00
+#t 294 17787942 morningbell 2020-09-14 00:19:00 jiangcr 2020-09-16 00:16:00
 北大要想成为top1 应该怎么办
 
 #p 23099569 morningbell 解放清华 2020-09-14 19:15:23
@@ -412,6 +412,7 @@ make PKU great again！
 #quote xiaoguaila
 
 #p 23129158 DerrickKong p大cxk 2020-09-22 11:58:56
+#DELETED
 一朝天子一朝校
 #quote morningbell
 
