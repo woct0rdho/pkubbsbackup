@@ -1,4 +1,4 @@
-#t 668 17796340 Rainshaw 2020-09-22 00:09:00 Rainshaw 2020-09-22 19:34:00
+#t 668 17796340 Rainshaw 2020-09-22 00:09:00 Rainshaw 2020-09-23 14:28:00
 请问校内ip地址范围
 
 #p 23128468 Rainshaw 傻白甜 2020-09-22 09:42:37
@@ -23,4 +23,9 @@
 谢谢，就是不清楚是不是比较全的_(:з」∠)_
 感觉和 [https://its.pku.edu.cn/faq.jsp](jump-to.php?url=https%3A%2F%2Fits.pku.edu.cn%2Ffaq.jsp) 里写的有些出入。
 #quote yzs
+
+#p 23133830 Rainshaw 傻白甜 2020-09-23 14:28:03
+@PKUCC
+能回复一下吗？
+#quote Rainshaw
 
