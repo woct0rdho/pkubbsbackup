@@ -1,7 +1,11 @@
-#t 35 17795003 FM 2020-09-21 10:01:00 FM 2020-09-21 10:01:00
+#t 35 17795003 FM 2020-09-21 00:10:00 hermionejmj 2020-09-24 01:38:00
 校园网的网关下载不了了么
 
 #p 23124358 FM FootballManager 2020-09-21 10:00:44
 在[https://its.pku.edu.cn/download_ipgwclient.jsp](jump-to.php?url=https%3A%2F%2Fits.pku.edu.cn%2Fdownload_ipgwclient.jsp)页面下下载不了windows版本的网关了？
 还是说这个软件都没有人用了
+
+#p 23136111 hermionejmj sowhat 2020-09-24 01:38:49
+还是有人用的，我就一直在用windows版的客户端
+#quote FM
 
