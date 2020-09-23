@@ -1,0 +1,8 @@
+#t 668 17798536 yuyuwang 2020-09-24 00:20:00 yuyuwang 2020-09-24 00:20:00
+电脑连不上pku网络；无法下载windows网关
+
+#p 23136024 yuyuwang 鱼鱼giao 2020-09-24 00:19:21
+如图一二，现在只能连热点。
+连热点下载Windows网关提示Web Page not Found
+想知道怎么办啊😭
+
