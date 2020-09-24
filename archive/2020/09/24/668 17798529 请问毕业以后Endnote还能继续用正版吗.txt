@@ -1,6 +1,16 @@
-#t 668 17798529 VeFrank 2020-09-24 00:10:00 VeFrank 2020-09-24 00:10:00
+#t 668 17798529 VeFrank 2020-09-24 00:00:00 Baandarin 2020-09-24 08:51:00
 请问毕业以后Endnote还能继续用正版吗
 
 #p 23135992 VeFrank 在水一方 2020-09-24 00:09:27
 最近在Zotero和Endnote中纠结，倾向于Endnote，但是担心毕业之后Endnote无法继续使用的问题，还请老师解答一下毕业之后还可以继续使用Endnote吗
+
+#p 23136288 PKUCC 北京大学计算中心 2020-09-24 08:19:33
+正版软件平台提供的软件仅对在校师生提供支持；
+更多关于EndNote的问题，可联系图书馆工作人员（62759145）；
+或者联系EndNote客服： 400-8822-031，技术支持邮箱: ts.support.china@tr.com
+#quote VeFrank
+
+#p 23136375 Baandarin 板子 2020-09-24 08:51:16
+用官方免费的mendeley它不香吗
+#quote VeFrank
 
