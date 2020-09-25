@@ -1,4 +1,4 @@
-#t 35 17800275 siscon 2020-09-25 21:11:00 MiraculousMa 2020-09-25 22:00:00
+#t 35 17800275 siscon 2020-09-25 00:21:00 MiraculousMa 2020-09-25 22:39:00
 Self assigned ip -校园网wifi mbp
 
 #p 23143072 siscon 实妹什么的最棒了！ 2020-09-25 21:10:31
@@ -17,5 +17,29 @@ ps: 门户那里显示当前连接数是0
 emmmm，这是你的系统向dhcp服务器申请ip超时后自动分配的IP（百度上说的23333）
 至于怎么解决我也不知道，本渣渣只是好奇地问一下\狗头
 建议你把子网掩码、网关、DNS一并贴上来然后@sxpeter这位大神帮你解决233333
+#quote siscon
+
+#p 23143198 siscon 实妹什么的最棒了！ 2020-09-25 22:02:43
+怎么查啊。。。
+#quote MiraculousMa
+
+#p 23143206 MiraculousMa 真空中的球形鸡|汪 2020-09-25 22:04:15
+system preference ➡️ network
+#quote siscon
+
+#p 23143226 siscon 实妹什么的最棒了！ 2020-09-25 22:11:33
+回宿舍再查查，另外我发现我的iphone ipad都不能连了…
+#quote MiraculousMa
+
+#p 23143229 siscon 实妹什么的最棒了！ 2020-09-25 22:12:45
+诶出了二教后就可以了…
+#quote MiraculousMa
+
+#p 23143310 siscon 实妹什么的最棒了！ 2020-09-25 22:33:20
+回宿舍后一切都好了，可能和二教的网络有点关系
+#quote MiraculousMa
+
+#p 23143325 MiraculousMa 真空中的球形鸡|汪 2020-09-25 22:38:32
+这时候就要@PKUCC 了
 #quote siscon
 
