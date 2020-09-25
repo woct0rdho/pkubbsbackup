@@ -1,4 +1,4 @@
-#t 294 17799339 albertpp 2020-09-24 00:21:00 DonaldTrumpe 2020-09-25 17:02:00
+#t 294 17799339 albertpp 2020-09-24 00:21:00 TigerQ 2020-09-25 18:44:00
 朱松纯教授担任北大人工智能研究院院长
 
 #p 23139358 albertpp 来晚舟 2020-09-24 21:24:17
@@ -339,4 +339,8 @@ gxgx！
 doge.jpg
 ssfd
 #quote pkuyouxia
+
+#p 23142727 TigerQ pku-5 2020-09-25 18:43:44
+666啊
+#quote albertpp
 
