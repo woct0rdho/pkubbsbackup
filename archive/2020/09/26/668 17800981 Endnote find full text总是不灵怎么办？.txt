@@ -1,0 +1,6 @@
+#t 668 17800981 dazuihou 2020-09-26 20:35:00 dazuihou 2020-09-26 20:35:00
+Endnote find full text总是不灵怎么办？
+
+#p 23146093 dazuihou Lullaby 2020-09-26 20:34:23
+Endnote的 find full text功能不灵，以前还可以找到PDF，现在就只能找到URL，需要找IEEE上面的论文，大家又遇到过这种问题并解决的嘛？
+
