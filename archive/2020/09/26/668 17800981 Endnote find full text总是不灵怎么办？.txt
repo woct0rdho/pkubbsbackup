@@ -1,6 +1,11 @@
-#t 668 17800981 dazuihou 2020-09-26 20:35:00 dazuihou 2020-09-26 20:35:00
+#t 668 17800981 dazuihou 2020-09-26 00:20:00 PKUCC 2020-09-26 21:47:00
 Endnote find full text总是不灵怎么办？
 
 #p 23146093 dazuihou Lullaby 2020-09-26 20:34:23
 Endnote的 find full text功能不灵，以前还可以找到PDF，现在就只能找到URL，需要找IEEE上面的论文，大家又遇到过这种问题并解决的嘛？
+
+#p 23146274 PKUCC 北京大学计算中心 2020-09-26 21:46:38
+关于endnote相关问题，可联系图书馆工作人员（62759145）；
+或者联系EndNote客服： 400-8822-031，技术支持邮箱: ts.support.china@tr.com
+#quote dazuihou
 
