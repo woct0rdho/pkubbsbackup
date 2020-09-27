@@ -1,4 +1,4 @@
-#t 668 17801350 yangwenhao 2020-09-27 11:20:00 PKUCC 2020-09-27 11:40:00
+#t 668 17801350 yangwenhao 2020-09-27 00:11:00 PKUCC 2020-09-27 12:43:00
 software.pku.edu.cn挂了
 
 #p 23147568 yangwenhao 鄢逢 2020-09-27 11:19:30
@@ -6,5 +6,9 @@ software.pku.edu.cn挂了
 
 #p 23147646 PKUCC 北京大学计算中心 2020-09-27 11:40:09
 正在处理
+#quote yangwenhao
+
+#p 23147884 PKUCC 北京大学计算中心 2020-09-27 12:42:41
+已经可以了
 #quote yangwenhao
 
