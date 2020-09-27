@@ -1,6 +1,14 @@
-#t 668 17801258 RichardWake 2020-09-27 09:25:00 RichardWake 2020-09-27 09:25:00
+#t 668 17801258 RichardWake 2020-09-27 00:09:00 RichardWake 2020-09-27 10:33:00
 Mac怎么运行微软的卸载office的后缀为.diagcab文件
 
 #p 23147185 RichardWake RichardWake 2020-09-27 09:24:55
 用学校的正版软件，需要完全卸载之前的office套件，但是按照计算中心的指导，有一个O15CTRRemove.diagcab文件，看计算中心的说明，貌似在windows运行没问题，但是在mac上，似乎直接双击不行，请问该用什么软件打开呢？谢谢
+
+#p 23147320 PKUCC 北京大学计算中心 2020-09-27 10:09:17
+您提到的是windows客户端，mac可参考[https://www.jianshu.com/p/8c1ad496c48c](jump-to.php?url=https%3A%2F%2Fwww.jianshu.com%2Fp%2F8c1ad496c48c)
+#quote RichardWake
+
+#p 23147396 RichardWake RichardWake 2020-09-27 10:32:49
+哦哦，好的，谢谢计算中心的老师了
+#quote PKUCC
 

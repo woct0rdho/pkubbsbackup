@@ -1,4 +1,4 @@
-#t 668 17800303 RichardWake 2020-09-25 00:21:00 RichardWake 2020-09-27 09:22:00
+#t 668 17800303 RichardWake 2020-09-25 00:21:00 dongqf 2020-09-27 10:29:00
 mac原先用的盗版，使用学校正版怎么删除旧版？
 
 #p 23143187 RichardWake RichardWake 2020-09-25 22:01:57
@@ -20,4 +20,8 @@ mac原先用的盗版，使用学校正版怎么删除旧版？
 #p 23147169 RichardWake RichardWake 2020-09-27 09:22:03
 计算中心老师好，我按照楼上帖子，下载了O15CTRRemove.diagcab文件，请问mac该怎么运行该文件啊？双击似乎不行，找不到对应的程序。谢谢老师
 #quote PKUCC
+
+#p 23147383 dongqf dqf002 2020-09-27 10:28:59
+.diagcab是Windows下的文件，Mac当然用不了了…据我所知，Mac卸载程序不就是把整个office文件夹拖到垃圾桶然后清空就好了？
+#quote RichardWake
 
