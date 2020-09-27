@@ -1,4 +1,4 @@
-#t 668 17800303 RichardWake 2020-09-25 21:59:00 RichardWake 2020-09-25 22:22:00
+#t 668 17800303 RichardWake 2020-09-25 00:21:00 RichardWake 2020-09-27 09:22:00
 mac原先用的盗版，使用学校正版怎么删除旧版？
 
 #p 23143187 RichardWake RichardWake 2020-09-25 22:01:57
@@ -15,5 +15,9 @@ mac原先用的盗版，使用学校正版怎么删除旧版？
 谢谢老师，请问下老师，我在置顶栏中看到老师有说要使用微软的卸载软件才可以完全卸载干净：
 【详细可参考0ffice2019安装与激活教程， software.pku.edu.cn -&gt; 使用帮助 -&gt; office2019安装。微软官方的Office卸载工具，[http://software.pku.edu.cn/down/office/O15CTRRemove.diagcab](jump-to.php?url=http%3A%2F%2Fsoftware.pku.edu.cn%2Fdown%2Foffice%2FO15CTRRemove.diagcab) 】
 请问老师可行吗？谢谢老师
+#quote PKUCC
+
+#p 23147169 RichardWake RichardWake 2020-09-27 09:22:03
+计算中心老师好，我按照楼上帖子，下载了O15CTRRemove.diagcab文件，请问mac该怎么运行该文件啊？双击似乎不行，找不到对应的程序。谢谢老师
 #quote PKUCC
 
