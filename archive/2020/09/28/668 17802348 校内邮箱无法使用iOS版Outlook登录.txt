@@ -1,0 +1,6 @@
+#t 668 17802348 Thesharing 2020-09-28 11:07:00 Thesharing 2020-09-28 11:07:00
+校内邮箱无法使用iOS版Outlook登录
+
+#p 23151355 Thesharing Thesharing 2020-09-28 11:06:43
+在iOS的Outlook上登录校内邮箱，一直提示密码错误，按照邮箱帮助中心里的文章填写的信息，IMAP地址填写的是：imap.pku.edu.cn，STMP地址填写的是smtp.pku.edu.cn。提示IMAP用户名/密码无效。
+
