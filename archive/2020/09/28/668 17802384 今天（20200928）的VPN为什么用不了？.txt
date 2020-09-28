@@ -1,4 +1,4 @@
-#t 668 17802384 fushishanxia 2020-09-28 11:41:00 PKUCC 2020-09-28 12:19:00
+#t 668 17802384 fushishanxia 2020-09-28 00:11:00 ItismySofa 2020-09-28 13:04:00
 今天（20200928）的VPN为什么用不了？
 
 #p 23151483 fushishanxia 富士山下 2020-09-28 11:40:41
@@ -11,5 +11,9 @@
 
 #p 23151611 PKUCC 北京大学计算中心 2020-09-28 12:18:38
 你好，请提供你的学号和连接出现故障的截图发到its@pku.edu.cn,以供分析。另，请参考VPN常见问题先进行下自查。
+#quote fushishanxia
+
+#p 23151813 ItismySofa Claire@C-137 2020-09-28 13:03:44
+同用不了
 #quote fushishanxia
 
