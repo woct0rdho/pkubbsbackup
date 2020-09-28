@@ -1,4 +1,4 @@
-#t 668 17802384 fushishanxia 2020-09-28 00:11:00 ItismySofa 2020-09-28 13:04:00
+#t 668 17802384 fushishanxia 2020-09-28 00:11:00 liziygj 2020-09-28 14:57:00
 今天（20200928）的VPN为什么用不了？
 
 #p 23151483 fushishanxia 富士山下 2020-09-28 11:40:41
@@ -15,5 +15,17 @@
 
 #p 23151813 ItismySofa Claire@C-137 2020-09-28 13:03:44
 同用不了
+#quote fushishanxia
+
+#p 23152062 zhbzhbzhbz RedB 2020-09-28 14:39:35
+
+
+2020-09-28 14:10:38
+同用不了 @PKUCC
+Pulse Secure软件一直在"正在连接-&gt;等待连接-&gt;正在连接"中循环，没有报错，从大概早上10点多开始就是，10点之前就感觉比昨天慢了很多，昨天之前一直正常。
+#quote fushishanxia
+
+#p 23152250 liziygj 一般站友 2020-09-28 14:57:26
+同样连接不上
 #quote fushishanxia
 
