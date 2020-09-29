@@ -1,0 +1,7 @@
+#t 668 17804476 Noodles 2020-09-30 01:07:00 Noodles 2020-09-30 01:07:00
+邮箱提示用户已锁定, 请联系管理员 求助
+
+#p 23158350 Noodles Noodles_ 2020-09-30 01:06:55
+目前我在 [https://mail.pku.edu.cn/](jump-to.php?url=https%3A%2F%2Fmail.pku.edu.cn%2F) 登录提示“用户已锁定, 请联系管理员”。 请问是什么原因呢？已经试过了修改its的密码，问题依然存在。
+谢谢！
+
