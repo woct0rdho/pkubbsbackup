@@ -1,0 +1,35 @@
+#t 35 17805453 monsterswalk 2020-10-01 00:09:00 monsterswalk 2020-10-01 00:18:00
+关于dns问题的求助
+
+#p 23161904 monsterswalk 萌斯特|斯沃克自闭了 2020-10-01 09:23:20
+宿舍楼那种wifi
+经常出现微信qq都能登录只有网页不能上的情况，通过手动设置dns能解决，但是每天要重复好几次。尤其是vpn登出后，肯定要重新设置dns，别人电脑没有此问题，请问大佬们如何能一劳永逸的解决这个问题呀~
+
+#p 23162513 gspku null 2020-10-01 13:19:14
+Windows系统可以在CMD里运行命令ipconfig /flushdns
+（不需要手动设置dns，全程使用学校自动分配的dns）
+#quote monsterswalk
+
+#p 23162622 monsterswalk 萌斯特|斯沃克自闭了 2020-10-01 14:06:20
+不是校内宿舍楼，是医院的一个宿舍楼
+我先试试上面那个命令
+谢啦
+#quote gspku
+
+#p 23163079 dvorah 尺蠖·德沃夏蛤 2020-10-01 17:36:49
+用的是学校的那个pulse vpn？ 试试openconnect-gui
+#quote monsterswalk
+
+#p 23163148 monsterswalk 萌斯特|斯沃克自闭了 2020-10-01 18:09:07
+用了gspku的方法，到现在没出问题，这个方法先保存备用2333
+以及从百度直接搜到了贵版openconnect那个帖子
+#quote dvorah
+
+#p 23163153 dvorah 尺蠖·德沃夏蛤 2020-10-01 18:10:36
+贵版置顶（底）啊
+#quote monsterswalk
+
+#p 23163158 monsterswalk 萌斯特|斯沃克自闭了 2020-10-01 18:13:46
+！
+#quote dvorah
+
