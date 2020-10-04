@@ -1,4 +1,4 @@
-#t 668 17807139 NanamiChiaki 2020-10-04 00:00:00 frisker 2020-10-04 12:39:00
+#t 668 17807139 NanamiChiaki 2020-10-04 00:00:00 SFWZ 2020-10-04 13:47:00
 希望贵校可以开发在线LaTeX编译平台
 
 #p 23169275 NanamiChiaki NanamiChiaki 2020-10-04 00:44:03
@@ -94,13 +94,16 @@ hosts 里面屏蔽 Google 之后，overleaf 打开速度就会非常快了
 这个还是单机搞比较好，latex不同版本的依赖是个大问题，另外在线写latex真有那么高需求吗
 #quote NanamiChiaki
 
-#p 23169869 RyanBern r.bern 2020-10-04 10:44:31
+#p 23169869 RyanBern r.bern 2020-10-04 13:37:06
+
+
+2020-10-04 10:44:31
 首先赞一个 pkucc 的回应。其实 overleaf 是可以自己搭的，不太清楚 pkucc 会怎么搞。楼主如果有条件的话完全可以在组内服务器上跑一个，用起来是很舒服的。
 [https://github.com/overleaf/overleaf](jump-to.php?url=https%3A%2F%2Fgithub.com%2Foverleaf%2Foverleaf)
 这里是 overleaf 的 docker 镜像，如果觉得功能不够还有 overleaf server pro 版（需要氪金）
 [https://www.overleaf.com/for/enterprises](jump-to.php?url=https%3A%2F%2Fwww.overleaf.com%2Ffor%2Fenterprises)
 这种方案操作起来不困难，cc 只需要准备几台服务器部署一下环境然后对接一下 IAAA 就可以了。
-自主研发这个，感觉不一定真正可以搞。感觉最近许多上线的新平台都是外包性质（例如 wpn，北大网盘，stu 邮箱），毕竟现阶段还是首先得解决有无问题……
+自主研发这个，感觉不一定真正可以搞。最近许多上线的新平台都是外包性质（例如 wpn，北大网盘，stu 邮箱），毕竟现阶段还是首先得解决有无问题……
 #quote NanamiChiaki
 
 #p 23169883 cbwang 叶林楠 2020-10-04 10:49:58
@@ -141,5 +144,34 @@ pandoc?
 
 #p 23170136 frisker 08SMS 2020-10-04 12:38:23
 滋池
+#quote NanamiChiaki
+
+#p 23170176 ispec ispec 2020-10-04 13:07:29
+这么强！给你好多好多赞！
+顺便我想要 xelatex 的编译器噢
+#quote PKUCC
+
+#p 23170209 TroyeFun honyokun 2020-10-04 13:23:21
+计算中心真是贵校为数不多几个有求必应的部门了，赞一个
+#quote PKUCC
+
+#p 23170210 TroyeFun honyokun 2020-10-04 13:24:10
+论文经常需要合作写/修改啊，用overleaf可以共享
+#quote JackWu
+
+#p 23170217 JohnsonZ TLDR 2020-10-04 13:36:12
+aurora不是只能辅助word打公式么，而且只支持office32版本，而且不能排版，已经考虑退坑了。
+#quote lea
+
+#p 23170221 JohnsonZ TLDR 2020-10-04 13:37:29
+之前的实验室有同学帮忙在内部服务器上搭了overleaf的环境，所以搞一个校园网内部共享的平台难度大么？
+#quote NanamiChiaki
+
+#p 23170228 WekFer 芒果 2020-10-04 13:46:00
+b站有个理工男的账号妈咪说就搞了一个，貌似还不错，功能很全
+#quote NanamiChiaki
+
+#p 23170231 SFWZ 什么都不懂的萌新! 2020-10-04 13:46:58
+二楼这个"收到"也太秀了 🤣
 #quote NanamiChiaki
 
