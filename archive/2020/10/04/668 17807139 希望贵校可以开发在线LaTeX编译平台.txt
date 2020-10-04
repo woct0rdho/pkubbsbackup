@@ -1,4 +1,4 @@
-#t 668 17807139 NanamiChiaki 2020-10-04 00:00:00 sundasheng 2020-10-04 08:55:00
+#t 668 17807139 NanamiChiaki 2020-10-04 00:00:00 gzz 2020-10-04 09:50:00
 希望贵校可以开发在线LaTeX编译平台
 
 #p 23169275 NanamiChiaki NanamiChiaki 2020-10-04 00:44:03
@@ -16,4 +16,55 @@
 #p 23169554 sundasheng sundasheng 2020-10-04 08:54:45
 支持
 #quote NanamiChiaki
+
+#p 23169571 JackWu 鸭嘴笔 2020-10-04 09:01:59
+好奇为什么会有这种需求，是自己的电脑空间不够装还是经常有在别人的电脑码字的需求？
+#quote NanamiChiaki
+
+#p 23169598 lea 无爱即无忧 2020-10-04 09:20:37
+#DELETED
+[https://zohooo.github.io/jaxedit/](jump-to.php?url=https%3A%2F%2Fzohooo.github.io%2Fjaxedit%2F)
+#quote NanamiChiaki
+
+#p 23169601 lea 无爱即无忧 2020-10-04 09:21:31
+[http://jaxedit.sourceforge.net/](jump-to.php?url=http%3A%2F%2Fjaxedit.sourceforge.net%2F)
+#quote NanamiChiaki
+
+#p 23169604 yangyangdewo yydw|洋洋的我 2020-10-04 09:22:16
+不负责任的猜测，计算中心想搞一个，所以找人发帖说有需求。之前adobe就是这么干的，虽然我也双手支持
+#quote JackWu
+
+#p 23169616 allgewalt 四金 2020-10-04 09:25:43
+再做一个word转latex的工具吧，现在市面上的都太不好用了
+#quote PKUCC
+
+#p 23169626 lea 无爱即无忧 2020-10-04 09:28:15
+不如直接为office/wps开发tex插件，aurora/mathtype都可用却不完美...
+#quote allgewalt
+
+#p 23169628 allgewalt 四金 2020-10-04 09:29:44
+开发插件需要金山/微软的授权吧，会不会不好搞？
+#quote lea
+
+#p 23169639 lea 无爱即无忧 2020-10-04 09:34:49
+aurora的问题在于停更了，在较新版本tex下有bug，接过来就挺好的...
+#quote allgewalt
+
+#p 23169645 allgewalt 四金 2020-10-04 09:36:20
+是个很好的思路👍🏻
+#quote lea
+
+#p 23169672 lea 无爱即无忧 2020-10-04 09:45:56
+其实这样的平台挺多的，不止是overleaf，建议lz去搜索试用一下...
+#quote NanamiChiaki
+
+#p 23169681 ysmintor YorkYu 2020-10-04 09:48:46
+支持，正好顺应自主嘛，借此机会拉经费，立项目。就是别做成一开源就自主了。
+#quote NanamiChiaki
+
+#p 23169682 gzz （*/∇＼*） 2020-10-04 09:49:18
+overleaf是开源的，可以考虑搭一个！
+不过overleaf的git功能没开源，这个对我是刚需没了很惨😭
+所以我最终的建议是，学校图书馆去订阅一下overleaf的pro吼不吼啊，用@pku.edu.cn注册的账号可以拥有pro的功能就最好了👍
+#quote PKUCC
 
