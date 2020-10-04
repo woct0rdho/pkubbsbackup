@@ -1,4 +1,4 @@
-#t 668 17807139 NanamiChiaki 2020-10-04 00:00:00 peiyangium 2020-10-04 11:45:00
+#t 668 17807139 NanamiChiaki 2020-10-04 00:00:00 frisker 2020-10-04 12:39:00
 希望贵校可以开发在线LaTeX编译平台
 
 #p 23169275 NanamiChiaki NanamiChiaki 2020-10-04 00:44:03
@@ -117,5 +117,29 @@ hosts 里面屏蔽 Google 之后，overleaf 打开速度就会非常快了
 
 #p 23170030 peiyangium 生建办主任助理|柯带宜居办主任|副团级 2020-10-04 11:44:54
 n买企业版就行。
+#quote NanamiChiaki
+
+#p 23170055 LifeMaxima 嘎子 2020-10-04 12:02:57
+不用开发 自己搭建一个开源的overleaf就行
+#quote NanamiChiaki
+
+#p 23170092 stevezhang shiGaRo 2020-10-04 12:23:48
+re. 本地写md、org等弱标记语言比起直接在线平台上写latex要舒服得多，借助pandoc之类的exporter，做好makefile和watch编译起来也很容易。只在必须用latex语法时再上latex代码
+#quote mathematicab
+
+#p 23170095 xiongan 小甜甜 2020-10-04 12:24:57
+先把网盘做好吧，少搞这些虚的，浪费资源。
+#quote PKUCC
+
+#p 23170098 zhangyuer 余生江河 2020-10-04 12:26:47
+pandoc?
+#quote allgewalt
+
+#p 23170106 CatheonDK Kason 2020-10-04 12:31:29
+？这为什么叫“虚的”，很实用啊
+#quote xiongan
+
+#p 23170136 frisker 08SMS 2020-10-04 12:38:23
+滋池
 #quote NanamiChiaki
 
