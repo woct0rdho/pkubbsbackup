@@ -1,4 +1,4 @@
-#t 668 17807139 NanamiChiaki 2020-10-04 00:00:00 gzz 2020-10-04 09:50:00
+#t 668 17807139 NanamiChiaki 2020-10-04 00:00:00 cbwang 2020-10-04 10:50:00
 希望贵校可以开发在线LaTeX编译平台
 
 #p 23169275 NanamiChiaki NanamiChiaki 2020-10-04 00:44:03
@@ -67,4 +67,43 @@ overleaf是开源的，可以考虑搭一个！
 不过overleaf的git功能没开源，这个对我是刚需没了很惨😭
 所以我最终的建议是，学校图书馆去订阅一下overleaf的pro吼不吼啊，用@pku.edu.cn注册的账号可以拥有pro的功能就最好了👍
 #quote PKUCC
+
+#p 23169754 JimmyChan 用户名极难填 2020-10-04 10:05:51
+我感觉overleaf编译速度跟我自己电脑也不会慢很多啊。主要是pdf文件要重新下载一次所以显得比较慢吧。所以我建议学校给大家提供梯子（bushi
+#quote NanamiChiaki
+
+#p 23169757 quicy Big Sur 2020-10-04 10:06:42
+hosts 里面屏蔽 Google 之后，overleaf 打开速度就会非常快了
+#quote NanamiChiaki
+
+#p 23169788 mathematicab bobbob 2020-10-04 10:18:11
+感觉markdown已经挺舒服了hhhh
+#quote NanamiChiaki
+
+#p 23169809 Elon 已转joke 2020-10-04 10:26:31
+看到标题想说overleaf了解一下
+现在看来还是要翻墙呐
+国内没有这方面比较好的产品吗
+#quote NanamiChiaki
+
+#p 23169818 Elon 已转joke 2020-10-04 10:29:02
+主要是方便，上去写就行了，不用思考在自己的电脑配置之类的问题，对于没耐心的人很友好。。。
+#quote JackWu
+
+#p 23169851 Nd 中华门站 2020-10-04 10:38:58
+这个还是单机搞比较好，latex不同版本的依赖是个大问题，另外在线写latex真有那么高需求吗
+#quote NanamiChiaki
+
+#p 23169869 RyanBern r.bern 2020-10-04 10:44:31
+首先赞一个 pkucc 的回应。其实 overleaf 是可以自己搭的，不太清楚 pkucc 会怎么搞。楼主如果有条件的话完全可以在组内服务器上跑一个，用起来是很舒服的。
+[https://github.com/overleaf/overleaf](jump-to.php?url=https%3A%2F%2Fgithub.com%2Foverleaf%2Foverleaf)
+这里是 overleaf 的 docker 镜像，如果觉得功能不够还有 overleaf server pro 版（需要氪金）
+[https://www.overleaf.com/for/enterprises](jump-to.php?url=https%3A%2F%2Fwww.overleaf.com%2Ffor%2Fenterprises)
+这种方案操作起来不困难，cc 只需要准备几台服务器部署一下环境然后对接一下 IAAA 就可以了。
+自主研发这个，感觉不一定真正可以搞。感觉最近许多上线的新平台都是外包性质（例如 wpn，北大网盘，stu 邮箱），毕竟现阶段还是首先得解决有无问题……
+#quote NanamiChiaki
+
+#p 23169883 cbwang 叶林楠 2020-10-04 10:49:58
+支持！
+#quote NanamiChiaki
 
