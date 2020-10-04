@@ -1,4 +1,4 @@
-#t 668 17807139 NanamiChiaki 2020-10-04 00:00:00 cbwang 2020-10-04 10:50:00
+#t 668 17807139 NanamiChiaki 2020-10-04 00:00:00 peiyangium 2020-10-04 11:45:00
 希望贵校可以开发在线LaTeX编译平台
 
 #p 23169275 NanamiChiaki NanamiChiaki 2020-10-04 00:44:03
@@ -105,5 +105,17 @@ hosts 里面屏蔽 Google 之后，overleaf 打开速度就会非常快了
 
 #p 23169883 cbwang 叶林楠 2020-10-04 10:49:58
 支持！
+#quote NanamiChiaki
+
+#p 23169981 alanmei alanpku 2020-10-04 11:21:51
+自己装个miktex不就完了吗。。。
+#quote NanamiChiaki
+
+#p 23169988 CatheonDK Kason 2020-10-04 11:25:05
+赞一个
+#quote PKUCC
+
+#p 23170030 peiyangium 生建办主任助理|柯带宜居办主任|副团级 2020-10-04 11:44:54
+n买企业版就行。
 #quote NanamiChiaki
 
