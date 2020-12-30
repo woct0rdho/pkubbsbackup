@@ -3,7 +3,7 @@
 
 友情链接：
 
-https://pkuhole.com/
+https://pkuhollow.com/
 
 https://github.com/AowuCat/PKUHoleRecorder
 
